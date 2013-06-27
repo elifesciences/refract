@@ -4,7 +4,7 @@ Converts NLM XML-format to a JSON representation that can be consumed by [Lens](
 
 # Experimental warnings
 
-Refract will convert NLM formatted XML files into their JSON notation. Some of the meta related information (e.g. keywords, subject matter, organism), along with author contributions and conflict of interest might not render correctly because different publishers might have them in different portions of the XML and defined with different attribute tags. The other main issue during the conversion process that has come up is with annotating xref instance. If the ref-type is not supported in the convert variable within the converter, those links will not be established. The text will still render though. 
+Refract will convert NLM formatted XML files into their JSON notation. Some of the meta related information (e.g. keywords, subject matter, organism), along with the author contributions and the conflict of interest might not render correctly because different publishers might have them in different portions of the XML and define them with different attribute tags. The other main issue during the conversion process that has come up is with annotating some xref instances. If the ref-type is not supported in the convert variable within the converter, those links will not be established. The text will still render though. 
 
 Finally, each publisher will have to provide their own "magic potion" to get the figure and video URLs. 
 

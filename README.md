@@ -91,7 +91,7 @@ Output will look like this:
 Update document `00012` with the contents of an XML hosted on S3.
 
 ```bash
-curl -X PUT -H 'Content-Type: application/json' -d '{"url": "https://s3.amazonaws.com/elife-articles/00012/elife_2013_00012.xml.zip", "token": "abcd"}' http://localhost:1441/documents/00012
+curl -X PUT -H 'Content-Type: application/json' -d '{"url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00012/elife00012.xml", "token": "abcd"}' http://localhost:1441/documents/00012
 ```
 
 Delete document `00012`
@@ -116,11 +116,11 @@ Our converter relies on a filestructure on S3, which involves an index file cont
 `http://s3.amazonaws.com/elife-lens/xml_files.txt`
 
 ```
-https://s3.amazonaws.com/elife-cdn/article_xml/elife00003.xml
-https://s3.amazonaws.com/elife-cdn/article_xml/elife00005.xml
-https://s3.amazonaws.com/elife-cdn/article_xml/elife00007.xml
-https://s3.amazonaws.com/elife-cdn/article_xml/elife00011.xml
-https://s3.amazonaws.com/elife-cdn/article_xml/elife00012.xml
+https://s3.amazonaws.com/elife-cdn/elife-articles/00003/elife00003.xml
+https://s3.amazonaws.com/elife-cdn/elife-articles/00005/elife00005.xml
+https://s3.amazonaws.com/elife-cdn/elife-articles/00007/elife00007.xml
+https://s3.amazonaws.com/elife-cdn/elife-articles/00011/elife00011.xml
+https://s3.amazonaws.com/elife-cdn/elife-articles/00012/elife00012.xml
 ```
 
 **2. Seed the converter**

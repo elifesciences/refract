@@ -1,6 +1,6 @@
 # Refract
 
-Converts NLM XML-format to a JSON representation that can be consumed by [Lens](lens.elifesciences.org#about) and other web-clients.
+Converts NLM XML-format to a JSON representation that can be consumed by [Lens](http://lens.elifesciences.org#about) and other web-clients.
 
 # Experimental warnings
 

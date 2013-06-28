@@ -14,10 +14,16 @@ Please post to the issues if you have any questions and feel free to open up dev
 ## Prerequisites
 
 - Node.js 0.8.x
+- sax-js
+- underscore
+- xmlhttprequest
 
 ## Install
 
     $ npm install
+    $ npm install sax
+    $ npm install underscore
+    $ npm install xmlhttprequest
 
 ## Start
 

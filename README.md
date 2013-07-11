@@ -66,7 +66,7 @@ PUT /reseed
 
 **List conversion errors.**
 
-This Useful for debugging, since the converter might fail for some documents. We're collecting the errors and are exposing them through a webservice.
+This is useful for debugging, since the converter might fail for some documents. We're collecting the errors and are exposing them through a webservice.
 
 ```
 GET /errors
@@ -79,6 +79,7 @@ GET /status
 ```
 
 This will output the current status of the converter. That way our worklflow can make sure that converting the docs has been completed successfully.
+
 
 Output will look like this:
 
@@ -207,4 +208,35 @@ And for particular files:
 ```
 https://s3.amazonaws.com/elife-cdn/documents/elife/00482/article.js
 https://s3.amazonaws.com/elife-cdn/documents/elife/00482/article.json
+```
+
+## Heroku Deployment
+
+We use Heroku to deploy our converter, currently we have two different versions:
+
+- `http://elife-converter.herokuapp.com` (local `master` -> synced with `heroku-elife master`)
+- `http://plos-converter.herokuapp.com`  (local `plos-dev` -> synced with `heroku-plos master`)
+
+
+First setup Heroku remotes in `.gitconfig/config` like so:
+
+```
+[remote "heroku-elife"]
+        fetch = +refs/heads/*:refs/remotes/origin/*
+        url = git@heroku.com:elife-converter.git
+[remote "heroku-plos"]
+        fetch = +refs/heads/*:refs/remotes/origin/*
+        url = git@heroku.com:plos-converter.git
+```
+
+For deploying eLife:
+
+```
+git push heroku-elife master:master
+```
+
+Deploying PLOS:
+
+```
+git push heroku-plos plos-heroku:master
 ```

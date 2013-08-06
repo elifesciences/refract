@@ -1,18 +1,22 @@
 {
-  "name": "elife-converter",
-  "version": "0.0.1",
+  "name": "lens-refract",
+  "version": "0.2.0",
   "private": true,
   "scripts": {
     "start": "node server"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/elifesciences/refract.git"
+  },
   "engines": {
-    "node": "0.8.x",
-    "npm": "1.1.x"
+    "node": ">=0.8.x",
+    "npm": ">=1.1.x"
   },
   "dependencies": {
-  	"xml2js": "0.2.4",
-    "express": "3.0.x",
-    "underscore": "1.4.x",
+    "xml2js": "0.2.4",
+    "express": "3.3.x",
+    "underscore": "1.5.x",
     "moment": "1.7.2",
     "xmlhttprequest": "1.5.0",
     "sax": "0.5.2"

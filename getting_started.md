@@ -6,7 +6,7 @@
     $ cd lens
     $ git checkout gh-pages
 
-Change the configuration like so:
+Change the configuration `src/config.js` like so:
 
     Lens.ENV = 'development';
     Lens.API_URL_DEV = 'http://localhost:1441';

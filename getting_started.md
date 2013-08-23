@@ -16,7 +16,7 @@ Prepare a custom cache warm file and host it somewhere (e.g. `http://quasipartik
     https://myserver.com/example1.xml
     https://myserver.com/example1.xml
 
-Run refract and tell it the use the custom CACHE_WARM FILE.
+Run refract and tell it to use the custom CACHE_WARM FILE.
 
     $ CACHE_WARM_FILE=http://quasipartikel.at/xml_files.txt node server.js
     

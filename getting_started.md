@@ -16,13 +16,14 @@ Prepare a custom cache warm file and host it somewhere (e.g. `http://quasipartik
     https://myserver.com/example1.xml
     https://myserver.com/example1.xml
 
-Run refract and tell it to use the custom CACHE_WARM FILE.
+Refract expects to be pointed at a file that lists the documents that it should convert. It first looks for an 
+environment variable `CACHE_WARM_FILE`, and if it doesn't find one, it defailts to `http://s3.amazonaws.com/elife-lens/xml_files.txt`. 
+_Before_ running refract, either change the default value in `lib/cache_warmer.js` or set an enviornment variable `CACHE_WARM_FILE`.
 
-    $ CACHE_WARM_FILE=http://quasipartikel.at/xml_files.txt node server.js
+Then run refract with 
+
+    $ node server.js
     
-    Refract will run at http://localhost:1441
-
-
 ## Setup Lens
 
     $ git clone https://github.com/elifesciences/lens

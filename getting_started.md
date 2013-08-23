@@ -4,6 +4,7 @@
 ## Setup Refract
   
     $ git clone https://github.com/elifesciences/refract
+    $ cd refract
     $ git checkout master
 
 Install dependencies

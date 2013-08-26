@@ -1,0 +1,621 @@
+{
+  "id": "00515",
+  "nodes": {
+    "content": {
+      "type": "view",
+      "id": "content",
+      "nodes": [
+        "abstract",
+        "paragraph_3",
+        "paragraph_8",
+        "paragraph_10",
+        "paragraph_11",
+        "paragraph_15",
+        "paragraph_18",
+        "paragraph_21",
+        "paragraph_22",
+        "paragraph_23",
+        "paragraph_26"
+      ]
+    },
+    "figures": {
+      "type": "view",
+      "id": "figures",
+      "nodes": [
+        "box_B1",
+        "image_fig1"
+      ]
+    },
+    "citations": {
+      "type": "view",
+      "id": "citations",
+      "nodes": [
+        "article_citation_bib1",
+        "article_citation_bib2",
+        "article_citation_bib3",
+        "article_citation_bib4",
+        "article_citation_bib5",
+        "article_citation_bib6"
+      ]
+    },
+    "document": {
+      "type": "document",
+      "id": "document",
+      "views": [
+        "content",
+        "figures",
+        "citations"
+      ],
+      "guid": "00515",
+      "title": "A new answer to old questions",
+      "authors": [
+        "person_author_2630"
+      ],
+      "received_on": "",
+      "accepted_on": "",
+      "published_on": "2013-02-05",
+      "journal": "eLife",
+      "article_type": "",
+      "keywords": [
+        "Aging",
+        "Metabolism",
+        "Oxidative Stress",
+        "Redox Regulation",
+        "Redox Proteomics"
+      ],
+      "research_organisms": [
+        "S. cerevisiae"
+      ],
+      "subjects": [
+        "Cell biology"
+      ],
+      "pdf_link": "",
+      "xml_link": "",
+      "json_link": "",
+      "doi": ""
+    },
+    "person_author_2630": {
+      "type": "person",
+      "id": "person_author_2630",
+      "given-names": "Yves",
+      "last-name": "Barral",
+      "role": "author",
+      "affiliations": [],
+      "image": "",
+      "contribution": "",
+      "email": "",
+      "funding": []
+    },
+    "info:copyright": {
+      "type": "heading",
+      "id": "info:copyright",
+      "level": 2,
+      "content": "Copyright",
+      "nodes": [
+        "paragraph_1"
+      ]
+    },
+    "paragraph_1": {
+      "type": "paragraph",
+      "id": "paragraph_1",
+      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "annotation_2": {
+      "type": "link",
+      "id": "annotation_2",
+      "path": [
+        "paragraph_1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        51,
+        87
+      ],
+      "url": "http://creativecommons.org/licenses/by/3.0/"
+    },
+    "abstract": {
+      "type": "heading",
+      "id": "abstract",
+      "level": 1,
+      "content": "Abstract",
+      "nodes": []
+    },
+    "paragraph_3": {
+      "type": "paragraph",
+      "id": "paragraph_3",
+      "content": "Sudden changes in the level of a coenzyme called NADPH might be the underlying cause of aging in cells."
+    },
+    "box_B1": {
+      "type": "box",
+      "id": "box_B1",
+      "label": "",
+      "url": "",
+      "title": "",
+      "caption": "",
+      "content": "Related research article Brandes N, Tienson H, Lindemann A, Vitvitsky V, Reichmann D, Banerjee R, Jakob U. 2013. Time line of redox events in aging postmitotic cells. eLife 2:e00306. doi: 10.7554/elife.00306",
+      "doi": ""
+    },
+    "annotation_4": {
+      "type": "strong",
+      "id": "annotation_4",
+      "path": [
+        "box_B1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        24
+      ]
+    },
+    "annotation_5": {
+      "type": "emphasis",
+      "id": "annotation_5",
+      "path": [
+        "box_B1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        167,
+        172
+      ]
+    },
+    "annotation_6": {
+      "type": "strong",
+      "id": "annotation_6",
+      "path": [
+        "box_B1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        173,
+        174
+      ]
+    },
+    "annotation_7": {
+      "type": "link",
+      "id": "annotation_7",
+      "path": [
+        "box_B1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        188,
+        207
+      ],
+      "url": "http://dx.doi.org/10.7554/elife.00306"
+    },
+    "paragraph_8": {
+      "type": "paragraph",
+      "id": "paragraph_8",
+      "content": "Image Exploring aging in yeast"
+    },
+    "annotation_9": {
+      "type": "strong",
+      "id": "annotation_9",
+      "path": [
+        "paragraph_8",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        5
+      ]
+    },
+    "paragraph_10": {
+      "type": "paragraph",
+      "id": "paragraph_10",
+      "content": ""
+    },
+    "paragraph_11": {
+      "type": "paragraph",
+      "id": "paragraph_11",
+      "content": "One prominent theory of aging proposes that the physiological decline associated with old age is the result of protein oxidation and oxidative damage, mainly caused by reactive oxygen species. There are various lines of evidence that support this idea: for example, yeast cells that overexpress superoxide dismutase—an enzyme that transforms superoxides, which are a particularly aggressive class of reactive oxygen species, into oxygen and hydrogen peroxide—have extended lifespans (Harris et al., 2003), whereas cells that contain little or no superoxide dismutase live for relatively short times (Longo et al., 1996). Furthermore, aging cells have been shown to accumulate carbonylated proteins (proteins in which certain amino acids have been oxidized by reactive oxygen species), which suggests that oxidative damage does indeed take place during aging and may, therefore, also be one of the causes of aging (reviewed in Nyström, 2005)."
+    },
+    "citation_reference_12": {
+      "type": "citation_reference",
+      "id": "citation_reference_12",
+      "path": [
+        "paragraph_11",
+        "content"
+      ],
+      "target": "article_citation_bib4",
+      "range": [
+        484,
+        503
+      ]
+    },
+    "citation_reference_13": {
+      "type": "citation_reference",
+      "id": "citation_reference_13",
+      "path": [
+        "paragraph_11",
+        "content"
+      ],
+      "target": "article_citation_bib5",
+      "range": [
+        600,
+        618
+      ]
+    },
+    "citation_reference_14": {
+      "type": "citation_reference",
+      "id": "citation_reference_14",
+      "path": [
+        "paragraph_11",
+        "content"
+      ],
+      "target": "article_citation_bib6",
+      "range": [
+        926,
+        939
+      ]
+    },
+    "paragraph_15": {
+      "type": "paragraph",
+      "id": "paragraph_15",
+      "content": "However, there are many questions about the links between aging and oxidation (which is the removal of one or more electrons from a chemical species) that remain unanswered: how much protein oxidation takes place during the aging of single cells? What are the main targets of oxidation? And how does oxidation correlate temporally with aging? Answering these questions will clarify whether oxidation actually contributes to aging, or if it merely correlates with the physiological decline observed during aging. Writing in eLife, Ursula Jakob and co-workers at the University of Michigan—including Nicolas Brandes and Heather Tienson as joint first authors—supply answers to some of these questions (Brandes et al., 2013)."
+    },
+    "annotation_16": {
+      "type": "emphasis",
+      "id": "annotation_16",
+      "path": [
+        "paragraph_15",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        523,
+        528
+      ]
+    },
+    "citation_reference_17": {
+      "type": "citation_reference",
+      "id": "citation_reference_17",
+      "path": [
+        "paragraph_15",
+        "content"
+      ],
+      "target": "article_citation_bib1",
+      "range": [
+        700,
+        720
+      ]
+    },
+    "paragraph_18": {
+      "type": "paragraph",
+      "id": "paragraph_18",
+      "content": "The Michigan group started by measuring the oxidation status of an amino acid (cysteine) in almost 300 different proteins in yeast cells that had stopped dividing and started the process of chronological aging. The measurements were made over a period of 7–10 days in most cases, and for up to 20 days in some cases. The use of such a large number of proteins allowed the researchers to probe all the different organelles found in yeast cells and a large variety of cellular functions. In parallel, they measured the levels of thioredoxin and glutathione—antioxidants that prevent the oxidation of other molecules and proteins. (Both of these antioxidants also contain cysteine). Finally, they monitored the levels of adenosine triphosphate, which transfers energy within cells, and both nicotinamide adenine dinucleotide phosphate (NADP+) and its reduced version, which is known as NADPH. NADPH is a source of electrons (which means that it is a reducing agent) that is involved in various anabolic reactions and in redox control (that is, maintaining the balance between oxidation and reduction, which is the addition of one or more electrons to a chemical species). These measurements were performed under a number of different dietary regimes, including one—caloric restriction (that is, a reduced calorie intake)—that is known to prolong the lifespan of post-mitotic yeast cells and many other organisms (see Figure 1)."
+    },
+    "figure_reference_19": {
+      "type": "figure_reference",
+      "id": "figure_reference_19",
+      "path": [
+        "paragraph_18",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        1414,
+        1422
+      ]
+    },
+    "image_fig1": {
+      "type": "image",
+      "id": "image_fig1",
+      "label": "Figure 1.",
+      "url": "",
+      "object_id": "F1",
+      "title": "Brandes et al. made a series of measurements every 24 hours on yeast cells under various dietary regimes, including a standard diet (top) and caloric restriction (bottom).",
+      "content_type": "",
+      "large_url": "",
+      "content": "",
+      "group": [
+        "parent",
+        null
+      ],
+      "doi": "",
+      "caption": "paragraph_image_fig1",
+      "graphic_id": "elife00515f001"
+    },
+    "paragraph_image_fig1": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig1",
+      "content": "As expected, the yeast on the caloric restriction diet lived longer. However, in both regimes the levels of the coenzyme NADPH rose rapidly (dark blue represents high levels of NADPH) and then reduced rapidly (yellow and red represent low levels of NADPH); this was followed by an increase in the oxidation of a small number of ‘early oxidation’ proteins (blue and green represent low oxidation levels; yellow and red represent high levels), which was followed by the oxidation of most of the other proteins measured. Brandes et al. propose that a sudden and substantial decrease in NADPH levels is likely to be the underlying cause of aging, rather than the accumulation of reactive oxygen species. EGSH is the glutathione potential; see figure 7 of Brandes et al. for further information."
+    },
+    "annotation_20": {
+      "type": "subscript",
+      "id": "annotation_20",
+      "path": [
+        "paragraph_image_fig1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        701,
+        704
+      ]
+    },
+    "paragraph_21": {
+      "type": "paragraph",
+      "id": "paragraph_21",
+      "content": "As expected, Brandes, Tienson and co-workers observed that oxidation did increase with aging, reaching its maximum value about 24 hours before the viability of the cells started to decrease. This is consistent with the possibility that oxidation has a deleterious effect on cell viability, although it also suggests that this effect is indirect (otherwise the drop in viability would happen immediately, rather than 24 hours after oxidation reaches a maximum). The Michigan group then showed that the proteins responded to oxidation in one of three ways. About 10% of the proteins—including the enzyme that reduces thioredoxin—are oxidized 48 hours before the decline of viability. Another 80% or so of the proteins are oxidized about 24 hours before mortality increases, with the remaining proteins being only minimally affected by aging."
+    },
+    "paragraph_22": {
+      "type": "paragraph",
+      "id": "paragraph_22",
+      "content": "The vast majority of the proteins that are particularly sensitive to oxidation by reactive oxygen species are in the group that are oxidized 24 hours before mortality increases, which means that these species are not the primary cause of the oxidation that is associated with aging in yeast. Rather, the data are consistent with a scenario in which a collapse in NADPH levels causes the oxidation of proteins involved in redox control. This first wave of oxidation causes a second wave in which the oxidation propagates to most (but not all) of the proteins. A small number of proteins are protected from oxidation, and a better understanding of the mechanisms responsible for this protection might help explain how cells can remain viable for 24 hours after the majority of proteins have been oxidized. The same sequence of events happens during caloric restriction, but over a longer timescale."
+    },
+    "paragraph_23": {
+      "type": "paragraph",
+      "id": "paragraph_23",
+      "content": "As Brandes, Tienson et al. remark, it is striking that the oxidation events they detect are reversible. This observation is consistent with the suggestion that an important role of many of the cysteines in yeast cells might be to buffer changes in the redox potential of the cell (Gallogly and Mieyal, 2007; Hansen et al., 2009). The redox potential, which is measured in volts, is essentially a measure of electron concentration. In this view, therefore, oxidation events (and the damage they cause) are essentially a by-product of the proteome's role in sensing and adjusting the global redox potential of the cell. Indeed, the Michigan team goes further and suggests that some of these cysteines might have been selected to help regulate (depending on the redox potential) the function of the proteins in which they are embedded. Thus, the work of Brandes, Tienson, Jakob and co-workers opens the possibility that the cell survives the collapse in its NAPDH levels thanks to, rather than despite, protein oxidation."
+    },
+    "citation_reference_24": {
+      "type": "citation_reference",
+      "id": "citation_reference_24",
+      "path": [
+        "paragraph_23",
+        "content"
+      ],
+      "target": "article_citation_bib2",
+      "range": [
+        281,
+        306
+      ]
+    },
+    "citation_reference_25": {
+      "type": "citation_reference",
+      "id": "citation_reference_25",
+      "path": [
+        "paragraph_23",
+        "content"
+      ],
+      "target": "article_citation_bib3",
+      "range": [
+        308,
+        327
+      ]
+    },
+    "paragraph_26": {
+      "type": "paragraph",
+      "id": "paragraph_26",
+      "content": "Obviously, such ideas now need to be tested, but it will not be simple to perturb the mechanisms responsible for maintaining the balance between oxidation and reduction in cells. And even if this could be done it would be very difficult to draw meaningful conclusions from such experiments. However, the work of the Michigan group underlines the importance of studying the mechanisms that control the levels of NADPH in cells as they age. Furthermore, if the Michigan team is right, cysteine modification should prove to be a widespread and potent mechanism for the regulation of protein function, as is the case for a very similar amino acid, namely serine. Time will tell whether these attractive ideas are meaningful."
+    },
+    "info:competing-interest": {
+      "type": "heading",
+      "id": "info:competing-interest",
+      "level": 2,
+      "content": "Competing Interests",
+      "nodes": [
+        "paragraph_27"
+      ]
+    },
+    "paragraph_27": {
+      "type": "paragraph",
+      "id": "paragraph_27",
+      "content": "Competing interests:The author declares that no competing interests existReferences"
+    },
+    "article_citation_bib1": {
+      "type": "article_citation",
+      "id": "article_citation_bib1",
+      "authors": [
+        {
+          "given-names": "N",
+          "last-name": "Brandes"
+        },
+        {
+          "given-names": "H",
+          "last-name": "Tienson"
+        },
+        {
+          "given-names": "A",
+          "last-name": "Lindemann"
+        },
+        {
+          "given-names": "V",
+          "last-name": "Vitvitsky"
+        },
+        {
+          "given-names": "D",
+          "last-name": "Reichmann"
+        },
+        {
+          "given-names": "R",
+          "last-name": "Banerjee"
+        }
+      ],
+      "title": "Time line of redox events in aging postmitotic cells",
+      "year": "2013",
+      "volume": "2",
+      "source": "eLife",
+      "issue": "",
+      "fpage": "e00306",
+      "lpage": "",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.7554/elife.00306",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib2": {
+      "type": "article_citation",
+      "id": "article_citation_bib2",
+      "authors": [
+        {
+          "given-names": "MM",
+          "last-name": "Gallogly"
+        },
+        {
+          "given-names": "JJ",
+          "last-name": "Mieyal"
+        }
+      ],
+      "title": "Mechanisms of reversible protein glutathionylation in redox signaling and oxidative stress",
+      "year": "2007",
+      "volume": "7",
+      "source": "Curr Opin Pharmacol",
+      "issue": "",
+      "fpage": "381",
+      "lpage": "91",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/j.coph.2007.06.003",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib3": {
+      "type": "article_citation",
+      "id": "article_citation_bib3",
+      "authors": [
+        {
+          "given-names": "RE",
+          "last-name": "Hansen"
+        },
+        {
+          "given-names": "D",
+          "last-name": "Roth"
+        },
+        {
+          "given-names": "JR",
+          "last-name": "Winther"
+        }
+      ],
+      "title": "Quantifying the global cellular thiol-disulfide status",
+      "year": "2009",
+      "volume": "106",
+      "source": "Proc Natl Acad Sci USA",
+      "issue": "",
+      "fpage": "422",
+      "lpage": "7",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1073/pnas.0812149106",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib4": {
+      "type": "article_citation",
+      "id": "article_citation_bib4",
+      "authors": [
+        {
+          "given-names": "N",
+          "last-name": "Harris"
+        },
+        {
+          "given-names": "V",
+          "last-name": "Costa"
+        },
+        {
+          "given-names": "M",
+          "last-name": "Maclean"
+        },
+        {
+          "given-names": "M",
+          "last-name": "Mollapour"
+        },
+        {
+          "given-names": "P",
+          "last-name": "Moradas-Ferreira"
+        },
+        {
+          "given-names": "PW",
+          "last-name": "Piper"
+        }
+      ],
+      "title": "Mnsod overexpression extends the yeast chronological (G(0)) life span but acts independently of Sir2p histone deacetylase to shorten the replicative life span of dividing cells",
+      "year": "2003",
+      "volume": "34",
+      "source": "Free Radic Biol Med",
+      "issue": "",
+      "fpage": "1599",
+      "lpage": "606",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/S0891-5849(03)00210-7",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib5": {
+      "type": "article_citation",
+      "id": "article_citation_bib5",
+      "authors": [
+        {
+          "given-names": "VD",
+          "last-name": "Longo"
+        },
+        {
+          "given-names": "EB",
+          "last-name": "Gralla"
+        },
+        {
+          "given-names": "JS",
+          "last-name": "Valentine"
+        }
+      ],
+      "title": "Superoxide dismutase activity is essential for stationary phase survival in Saccharomyces cerevisiae. Mitochondrial production of toxic oxygen species in vivo",
+      "year": "1996",
+      "volume": "271",
+      "source": "J Biol Chem",
+      "issue": "",
+      "fpage": "12275",
+      "lpage": "80",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1074/jbc.271.21.12275",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib6": {
+      "type": "article_citation",
+      "id": "article_citation_bib6",
+      "authors": [
+        {
+          "given-names": "T",
+          "last-name": "Nyström"
+        }
+      ],
+      "title": "Role of oxidative carbonylation in protein quality control and senescence",
+      "year": "2005",
+      "volume": "24",
+      "source": "EMBO J",
+      "issue": "",
+      "fpage": "1311",
+      "lpage": "7",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1038/sj.emboj.7600599",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    }
+  }
+}

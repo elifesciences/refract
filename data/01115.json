@@ -1,0 +1,849 @@
+{
+  "id": "01115",
+  "nodes": {
+    "content": {
+      "type": "view",
+      "id": "content",
+      "nodes": [
+        "abstract",
+        "paragraph_3",
+        "paragraph_10",
+        "paragraph_12",
+        "paragraph_13",
+        "paragraph_19",
+        "paragraph_24",
+        "paragraph_28",
+        "paragraph_30",
+        "paragraph_34"
+      ]
+    },
+    "figures": {
+      "type": "view",
+      "id": "figures",
+      "nodes": [
+        "box_4",
+        "image_fig1"
+      ]
+    },
+    "citations": {
+      "type": "view",
+      "id": "citations",
+      "nodes": [
+        "article_citation_bib1",
+        "article_citation_bib2",
+        "article_citation_bib4",
+        "article_citation_bib5",
+        "article_citation_bib3",
+        "article_citation_bib6",
+        "article_citation_bib7",
+        "article_citation_bib8"
+      ]
+    },
+    "document": {
+      "type": "document",
+      "id": "document",
+      "views": [
+        "content",
+        "figures",
+        "citations"
+      ],
+      "guid": "01115",
+      "title": "On the trail of a tropical disease",
+      "authors": [
+        "person_author_1179"
+      ],
+      "received_on": "",
+      "accepted_on": "",
+      "published_on": "2013-07-30",
+      "journal": "elife",
+      "article_type": "",
+      "keywords": [
+        "stem cells",
+        "neoblasts",
+        "trematode development",
+        "schistosomiasis"
+      ],
+      "research_organisms": [
+        "Other"
+      ],
+      "subjects": [
+        "Developmental biology and stem cells",
+        "Microbiology and infectious disease"
+      ],
+      "pdf_link": "",
+      "xml_link": "",
+      "json_link": "",
+      "doi": ""
+    },
+    "person_author_1179": {
+      "type": "person",
+      "id": "person_author_1179",
+      "given-names": "Alejandro",
+      "last-name": "Sánchez Alvarado",
+      "role": "author",
+      "affiliations": [],
+      "image": "",
+      "contribution": "",
+      "email": "",
+      "funding": []
+    },
+    "info:copyright": {
+      "type": "heading",
+      "id": "info:copyright",
+      "level": 2,
+      "content": "Copyright",
+      "nodes": [
+        "paragraph_1"
+      ]
+    },
+    "paragraph_1": {
+      "type": "paragraph",
+      "id": "paragraph_1",
+      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "annotation_2": {
+      "type": "link",
+      "id": "annotation_2",
+      "path": [
+        "paragraph_1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        51,
+        87
+      ],
+      "url": "http://creativecommons.org/licenses/by/3.0/"
+    },
+    "abstract": {
+      "type": "heading",
+      "id": "abstract",
+      "level": 1,
+      "content": "Abstract",
+      "nodes": []
+    },
+    "paragraph_3": {
+      "type": "paragraph",
+      "id": "paragraph_3",
+      "content": "Learning more about the cells that enable parasitic worms called schistosomes to reproduce inside snails could lead to new treatments that prevent these parasites from being transmitted to humans."
+    },
+    "box_4": {
+      "type": "box",
+      "id": "box_4",
+      "label": "",
+      "url": "",
+      "title": "",
+      "caption": "",
+      "content": "Related research article Wang B, Collins JJ III, Newmark PA. 2013. Functional genomic characterization of neoblast-like stem cells in larval Schistosoma mansoni. eLife 2:e00768. doi: 10.7554/eLife.00768",
+      "doi": ""
+    },
+    "annotation_5": {
+      "type": "strong",
+      "id": "annotation_5",
+      "path": [
+        "box_4",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        24
+      ]
+    },
+    "annotation_6": {
+      "type": "emphasis",
+      "id": "annotation_6",
+      "path": [
+        "box_4",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        141,
+        160
+      ]
+    },
+    "annotation_7": {
+      "type": "emphasis",
+      "id": "annotation_7",
+      "path": [
+        "box_4",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        162,
+        167
+      ]
+    },
+    "annotation_8": {
+      "type": "strong",
+      "id": "annotation_8",
+      "path": [
+        "box_4",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        168,
+        169
+      ]
+    },
+    "annotation_9": {
+      "type": "link",
+      "id": "annotation_9",
+      "path": [
+        "box_4",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        183,
+        202
+      ],
+      "url": "http://dx.doi.org/10.7554/eLife.00768"
+    },
+    "paragraph_10": {
+      "type": "paragraph",
+      "id": "paragraph_10",
+      "content": "Image Schistosome parasites (purple) undergo asexual reproduction inside a snail host"
+    },
+    "annotation_11": {
+      "type": "strong",
+      "id": "annotation_11",
+      "path": [
+        "paragraph_10",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        5
+      ]
+    },
+    "paragraph_12": {
+      "type": "paragraph",
+      "id": "paragraph_12",
+      "content": ""
+    },
+    "paragraph_13": {
+      "type": "paragraph",
+      "id": "paragraph_13",
+      "content": "Diseases caused by parasites can have devastating effects, particularly in the developing world. Some of these effects are quantifiable, including morbidity and loss of life, while others are much harder to measure, such as the loss of human potential. The fact that children are especially vulnerable to infection makes these diseases particularly tragic. One such disease is schistosomiasis, also known as bilharzia after its discoverer, Theodor Bilharz (Jordan, 2000). It is caused by blood-dwelling parasitic flatworms called schistosomes, and is estimated to affect about 250 million people worldwide (WHO, 2011), with a further 800 million at risk of infection (Steinmann et al., 2006). Now, in eLife, Bo Wang, James Collins III and Phillip Newmark from the University of Illinois at Urbana-Champaign report new insights into the biology of schistosomes that could potentially lead to novel strategies for controlling their transmission (Wang et al., 2013)."
+    },
+    "citation_reference_14": {
+      "type": "citation_reference",
+      "id": "citation_reference_14",
+      "path": [
+        "paragraph_13",
+        "content"
+      ],
+      "target": "article_citation_bib4",
+      "range": [
+        457,
+        469
+      ]
+    },
+    "citation_reference_15": {
+      "type": "citation_reference",
+      "id": "citation_reference_15",
+      "path": [
+        "paragraph_13",
+        "content"
+      ],
+      "target": "article_citation_bib8",
+      "range": [
+        607,
+        616
+      ]
+    },
+    "citation_reference_16": {
+      "type": "citation_reference",
+      "id": "citation_reference_16",
+      "path": [
+        "paragraph_13",
+        "content"
+      ],
+      "target": "article_citation_bib6",
+      "range": [
+        668,
+        690
+      ]
+    },
+    "annotation_17": {
+      "type": "emphasis",
+      "id": "annotation_17",
+      "path": [
+        "paragraph_13",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        701,
+        706
+      ]
+    },
+    "citation_reference_18": {
+      "type": "citation_reference",
+      "id": "citation_reference_18",
+      "path": [
+        "paragraph_13",
+        "content"
+      ],
+      "target": "article_citation_bib7",
+      "range": [
+        944,
+        961
+      ]
+    },
+    "paragraph_19": {
+      "type": "paragraph",
+      "id": "paragraph_19",
+      "content": "Schistosomiasis is primarily caused by two species of parasites, Schistosoma japonicum and Schistosoma mansoni, which differ in prevalence across the world. The genomes of both species have been sequenced (Berriman et al., 2009; The Schistosoma japonicum genome sequencing and functional analysis consortium, 2009), and both infections can be treated with an efficient, widely available and relatively inexpensive drug, praziquantel. So why have we failed to eradicate schistosomiasis? Reasons abound, but the fact that efforts have focused primarily on pharmacological treatment of infected individuals means that socioeconomic factors—such as a lack of infrastructure, poor management of resources, and political instability in affected regions—have been able to thwart attempts to control the disease. It would be much better, therefore, if we could develop methods to combat schistosomes before they infect humans, rather than only treating people after the event."
+    },
+    "annotation_20": {
+      "type": "emphasis",
+      "id": "annotation_20",
+      "path": [
+        "paragraph_19",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        65,
+        86
+      ]
+    },
+    "annotation_21": {
+      "type": "emphasis",
+      "id": "annotation_21",
+      "path": [
+        "paragraph_19",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        91,
+        110
+      ]
+    },
+    "citation_reference_22": {
+      "type": "citation_reference",
+      "id": "citation_reference_22",
+      "path": [
+        "paragraph_19",
+        "content"
+      ],
+      "target": "article_citation_bib1",
+      "range": [
+        206,
+        227
+      ]
+    },
+    "citation_reference_23": {
+      "type": "citation_reference",
+      "id": "citation_reference_23",
+      "path": [
+        "paragraph_19",
+        "content"
+      ],
+      "target": "article_citation_bib3",
+      "range": [
+        229,
+        313
+      ]
+    },
+    "paragraph_24": {
+      "type": "paragraph",
+      "id": "paragraph_24",
+      "content": "The parasites that cause schistosomiasis are members of the phylum Platyhelminthes, and have a complex life cycle that alternates between sexual and asexual generations in two different hosts: mammals and snails. Eggs are first excreted from a mammalian host into freshwater, where they hatch into free-living larvae called miracidia. The larvae then infect snails, and undergo a remarkable asexual embryogenesis that results in sporocysts (Figure 1) laden with pluripotent stem cells called germinal cells, which then differentiate to produce parasites that can infect humans. The parasites, which are now known as cercariae, emerge from the snail into freshwater, where they can burrow through the epidermis of mammals. Once inside a host, they develop into adults and begin to reproduce sexually."
+    },
+    "figure_reference_25": {
+      "type": "figure_reference",
+      "id": "figure_reference_25",
+      "path": [
+        "paragraph_24",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        441,
+        449
+      ]
+    },
+    "annotation_26": {
+      "type": "strong",
+      "id": "annotation_26",
+      "path": [
+        "paragraph_24",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        576,
+        577
+      ]
+    },
+    "image_fig1": {
+      "type": "image",
+      "id": "image_fig1",
+      "label": "Figure 1.",
+      "url": "",
+      "object_id": "F1",
+      "title": "",
+      "content_type": "",
+      "large_url": "",
+      "content": "",
+      "group": [
+        "parent",
+        null
+      ],
+      "doi": "",
+      "caption": "paragraph_image_fig1",
+      "graphic_id": "elife01115f001"
+    },
+    "paragraph_image_fig1": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig1",
+      "content": "A cryosection of a Schistosoma mansoni daughter sporocyst within a snail intermediate host, six weeks post-infection. The section is stained with: phalloidin (magenta) to show the musculature in both the snail and schistosome; POPO-1 (blue) to label germinal cells in the sporocyst; and lectin PSA (green) to reveal secretory glands within the developing parasite embryo. The image is a maximum intensity projection of confocal sections."
+    },
+    "annotation_27": {
+      "type": "emphasis",
+      "id": "annotation_27",
+      "path": [
+        "paragraph_image_fig1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        19,
+        38
+      ]
+    },
+    "paragraph_28": {
+      "type": "paragraph",
+      "id": "paragraph_28",
+      "content": "Germinal cells within sporocysts have long been thought to be responsible for the asexual multiplication of the parasite within snails (Olivier and Mao, 1949). However, little to nothing is known about these cells at the molecular level. Wang, Collins and Newmark have now characterized the germinal cell population by profiling gene expression in the cells, validating these findings with fluorescence in situ hybridization, and then using RNA interference to silence individual genes in order to determine their functions."
+    },
+    "citation_reference_29": {
+      "type": "citation_reference",
+      "id": "citation_reference_29",
+      "path": [
+        "paragraph_28",
+        "content"
+      ],
+      "target": "article_citation_bib5",
+      "range": [
+        136,
+        157
+      ]
+    },
+    "paragraph_30": {
+      "type": "paragraph",
+      "id": "paragraph_30",
+      "content": "Their results uncovered similarities, at both the molecular and functional level, between these germinal cells and stem cells that have recently been identified in adult parasites (Collins et al., 2013). There were also similarities with pluripotent stem cells known as neoblasts found in non-parasitic free-living flatworms (planarians), and with cells that produce gametes in other multicellular animals. For instance, a subpopulation of germinal cells express a gene called nanos-2, which is involved in regulating gamete production across multiple taxa. Germinal cells that express this gene progress more slowly through the cell cycle—consistent with the conserved role of nanos in lengthening the cell cycle by repressing mitosis in the primordial germ cells of many animals."
+    },
+    "citation_reference_31": {
+      "type": "citation_reference",
+      "id": "citation_reference_31",
+      "path": [
+        "paragraph_30",
+        "content"
+      ],
+      "target": "article_citation_bib2",
+      "range": [
+        181,
+        201
+      ]
+    },
+    "annotation_32": {
+      "type": "emphasis",
+      "id": "annotation_32",
+      "path": [
+        "paragraph_30",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        477,
+        484
+      ]
+    },
+    "annotation_33": {
+      "type": "emphasis",
+      "id": "annotation_33",
+      "path": [
+        "paragraph_30",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        678,
+        683
+      ]
+    },
+    "paragraph_34": {
+      "type": "paragraph",
+      "id": "paragraph_34",
+      "content": "Finally, the work of Wang, Collins III and Newmark unites two important, but disparate, fields of biomedical science—parasitology and developmental biology—and demonstrates the potential for these types of analyses to enrich and inform both. Studying an organism with a genome that essentially encodes multiple body plans (miracidia, sporocysts, cercariae, plus different forms of the adult in the blood, lungs and liver of mammalian hosts) should enable us to uncover vulnerabilities in development that will provide opportunities to intervene and block disease transmission. Attacking the parasite when it is outside the human body removes issues associated with human physiology and should significantly mitigate socioeconomic problems that impede the delivery of drugs. Imagine eradicating the risk of schistosomiasis for 800 million people, not by treating them, but by treating the snails in their water supply instead. By changing the way we attempt to eradicate parasitic diseases, this approach could ultimately improve the health of millions."
+    },
+    "info:competing-interest": {
+      "type": "heading",
+      "id": "info:competing-interest",
+      "level": 2,
+      "content": "Competing Interests",
+      "nodes": [
+        "paragraph_35"
+      ]
+    },
+    "paragraph_35": {
+      "type": "paragraph",
+      "id": "paragraph_35",
+      "content": "Competing interests:The author declares that no competing interests exist.References"
+    },
+    "article_citation_bib1": {
+      "type": "article_citation",
+      "id": "article_citation_bib1",
+      "authors": [
+        {
+          "given-names": "M",
+          "last-name": "Berriman"
+        },
+        {
+          "given-names": "BJ",
+          "last-name": "Haas"
+        },
+        {
+          "given-names": "PT",
+          "last-name": "LoVerde"
+        },
+        {
+          "given-names": "RA",
+          "last-name": "Wilson"
+        },
+        {
+          "given-names": "GP",
+          "last-name": "Dillon"
+        },
+        {
+          "given-names": "GC",
+          "last-name": "Cerqueira"
+        }
+      ],
+      "title": "The genome of the blood fluke Schistosoma mansoni",
+      "year": "2009",
+      "volume": "460",
+      "source": "Nature",
+      "issue": "",
+      "fpage": "352",
+      "lpage": "8",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1038/nature08160",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "annotation_36": {
+      "type": "emphasis",
+      "id": "annotation_36",
+      "path": [
+        "article_citation_bib1",
+        "title"
+      ],
+      "target": null,
+      "range": [
+        30,
+        49
+      ]
+    },
+    "article_citation_bib2": {
+      "type": "article_citation",
+      "id": "article_citation_bib2",
+      "authors": [
+        {
+          "given-names": "III",
+          "last-name": "Collins"
+        },
+        {
+          "given-names": "B",
+          "last-name": "Wang"
+        },
+        {
+          "given-names": "BG",
+          "last-name": "Lambrus"
+        },
+        {
+          "given-names": "ME",
+          "last-name": "Tharp"
+        },
+        {
+          "given-names": "H",
+          "last-name": "Iyer"
+        },
+        {
+          "given-names": "PA",
+          "last-name": "Newmark"
+        }
+      ],
+      "title": "Adult somatic stem cells in the human parasite Schistosoma mansoni",
+      "year": "2013",
+      "volume": "494",
+      "source": "Nature",
+      "issue": "",
+      "fpage": "476",
+      "lpage": "9",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1038/nature11924",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "annotation_37": {
+      "type": "emphasis",
+      "id": "annotation_37",
+      "path": [
+        "article_citation_bib2",
+        "title"
+      ],
+      "target": null,
+      "range": [
+        47,
+        66
+      ]
+    },
+    "article_citation_bib4": {
+      "type": "article_citation",
+      "id": "article_citation_bib4",
+      "authors": [
+        {
+          "given-names": "P",
+          "last-name": "Jordan"
+        }
+      ],
+      "title": "From katayama to the Dakhla Oasis: the beginning of epidemiology and control of bilharzia",
+      "year": "2000",
+      "volume": "77",
+      "source": "Acta Trop",
+      "issue": "",
+      "fpage": "9",
+      "lpage": "40",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/S0001-706X(00)00121-2",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib5": {
+      "type": "article_citation",
+      "id": "article_citation_bib5",
+      "authors": [
+        {
+          "given-names": "L",
+          "last-name": "Olivier"
+        },
+        {
+          "given-names": "C",
+          "last-name": "Mao"
+        }
+      ],
+      "title": "The early larval stages of Schistosoma mansoni Sambon, 1907 in the snail host, Australorbis glabratus (Say, 1818)",
+      "year": "1949",
+      "volume": "35",
+      "source": "J Parasitol",
+      "issue": "",
+      "fpage": "267",
+      "lpage": "75",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.2307/3273302",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "annotation_38": {
+      "type": "emphasis",
+      "id": "annotation_38",
+      "path": [
+        "article_citation_bib5",
+        "title"
+      ],
+      "target": null,
+      "range": [
+        27,
+        46
+      ]
+    },
+    "annotation_39": {
+      "type": "emphasis",
+      "id": "annotation_39",
+      "path": [
+        "article_citation_bib5",
+        "title"
+      ],
+      "target": null,
+      "range": [
+        79,
+        101
+      ]
+    },
+    "article_citation_bib3": {
+      "type": "article_citation",
+      "id": "article_citation_bib3",
+      "authors": [],
+      "title": "The Schistosoma japonicum genome reveals features of host-parasite interplay",
+      "year": "2009",
+      "volume": "460",
+      "source": "Nature",
+      "issue": "",
+      "fpage": "345",
+      "lpage": "51",
+      "collab": "The Schistosoma japonicum genome sequencing and functional analysis consortium",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1038/nature08140",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "annotation_40": {
+      "type": "emphasis",
+      "id": "annotation_40",
+      "path": [
+        "article_citation_bib3",
+        "title"
+      ],
+      "target": null,
+      "range": [
+        4,
+        25
+      ]
+    },
+    "article_citation_bib6": {
+      "type": "article_citation",
+      "id": "article_citation_bib6",
+      "authors": [
+        {
+          "given-names": "P",
+          "last-name": "Steinmann"
+        },
+        {
+          "given-names": "J",
+          "last-name": "Keiser"
+        },
+        {
+          "given-names": "R",
+          "last-name": "Bos"
+        },
+        {
+          "given-names": "M",
+          "last-name": "Tanner"
+        },
+        {
+          "given-names": "J",
+          "last-name": "Utzinger"
+        }
+      ],
+      "title": "Schistosomiasis and water resources development: systematic review, meta-analysis, and estimates of people at risk",
+      "year": "2006",
+      "volume": "6",
+      "source": "Lancet Infect Dis",
+      "issue": "",
+      "fpage": "411",
+      "lpage": "25",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/S1473-3099(06)70521-7",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib7": {
+      "type": "article_citation",
+      "id": "article_citation_bib7",
+      "authors": [
+        {
+          "given-names": "B",
+          "last-name": "Wang"
+        },
+        {
+          "given-names": "III",
+          "last-name": "Collins"
+        },
+        {
+          "given-names": "PA",
+          "last-name": "Newmark"
+        }
+      ],
+      "title": "Functional genomic characterization of neoblast-like stem cells in larval Schistosoma mansoni",
+      "year": "2013",
+      "volume": "2",
+      "source": "eLife",
+      "issue": "",
+      "fpage": "e00768",
+      "lpage": "",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.7554/eLife.00768",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "annotation_41": {
+      "type": "emphasis",
+      "id": "annotation_41",
+      "path": [
+        "article_citation_bib7",
+        "title"
+      ],
+      "target": null,
+      "range": [
+        74,
+        93
+      ]
+    },
+    "article_citation_bib8": {
+      "type": "article_citation",
+      "id": "article_citation_bib8",
+      "authors": [],
+      "title": "Schistosomiasis",
+      "year": "2011",
+      "volume": "",
+      "source": "",
+      "issue": "",
+      "fpage": "",
+      "lpage": "",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/http://www.who.int/mediacentre/factsheets/fs115/en/",
+      "citation_url": [],
+      "format": "web",
+      "label": "",
+      "editors": []
+    }
+  }
+}

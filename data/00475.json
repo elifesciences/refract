@@ -1,0 +1,1258 @@
+{
+  "id": "00475",
+  "nodes": {
+    "content": {
+      "type": "view",
+      "id": "content",
+      "nodes": [
+        "abstract",
+        "paragraph_3",
+        "paragraph_8",
+        "paragraph_10",
+        "paragraph_11",
+        "paragraph_16",
+        "paragraph_19",
+        "paragraph_49",
+        "paragraph_56",
+        "paragraph_61",
+        "paragraph_64"
+      ]
+    },
+    "figures": {
+      "type": "view",
+      "id": "figures",
+      "nodes": [
+        "box_B1",
+        "image_fig1"
+      ]
+    },
+    "citations": {
+      "type": "view",
+      "id": "citations",
+      "nodes": [
+        "article_citation_bib1",
+        "article_citation_bib2",
+        "article_citation_bib3",
+        "article_citation_bib4",
+        "article_citation_bib5",
+        "article_citation_bib6",
+        "article_citation_bib7",
+        "article_citation_bib8"
+      ]
+    },
+    "document": {
+      "type": "document",
+      "id": "document",
+      "views": [
+        "content",
+        "figures",
+        "citations"
+      ],
+      "guid": "00475",
+      "title": "Nanoscopy at low light intensities shows its potential",
+      "authors": [
+        "person_author_3540",
+        "person_author_2353"
+      ],
+      "received_on": "",
+      "accepted_on": "",
+      "published_on": "2012-12-31",
+      "journal": "eLife",
+      "article_type": "",
+      "keywords": [
+        "confocal microscopy",
+        "fluorescent probes",
+        "GFP",
+        "nanoscopy",
+        "superresolution",
+        "live-cell imaging"
+      ],
+      "research_organisms": [
+        "None"
+      ],
+      "subjects": [
+        "Biophysics and structural biology"
+      ],
+      "pdf_link": "",
+      "xml_link": "",
+      "json_link": "",
+      "doi": ""
+    },
+    "person_author_3540": {
+      "type": "person",
+      "id": "person_author_3540",
+      "given-names": "Travis J",
+      "last-name": "Gould",
+      "role": "author",
+      "affiliations": [],
+      "image": "",
+      "contribution": "",
+      "email": "",
+      "funding": []
+    },
+    "person_author_2353": {
+      "type": "person",
+      "id": "person_author_2353",
+      "given-names": "Joerg",
+      "last-name": "Bewersdorf",
+      "role": "author",
+      "affiliations": [],
+      "image": "",
+      "contribution": "",
+      "email": "",
+      "funding": []
+    },
+    "institution_aff1": {
+      "type": "institution",
+      "id": "institution_aff1",
+      "name": "Yale University School of Medicine",
+      "city": "New Haven",
+      "country": "United States",
+      "email": "travis.gould@yale.edu",
+      "image": ""
+    },
+    "institution_aff2": {
+      "type": "institution",
+      "id": "institution_aff2",
+      "name": "Yale University School of Medicine",
+      "city": "New Haven",
+      "country": "United States",
+      "email": "joerg.bewersdorf@yale.edu",
+      "image": ""
+    },
+    "info:copyright": {
+      "type": "heading",
+      "id": "info:copyright",
+      "level": 2,
+      "content": "Copyright",
+      "nodes": [
+        "paragraph_1"
+      ]
+    },
+    "paragraph_1": {
+      "type": "paragraph",
+      "id": "paragraph_1",
+      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "annotation_2": {
+      "type": "link",
+      "id": "annotation_2",
+      "path": [
+        "paragraph_1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        51,
+        87
+      ],
+      "url": "http://creativecommons.org/licenses/by/3.0/"
+    },
+    "abstract": {
+      "type": "heading",
+      "id": "abstract",
+      "level": 1,
+      "content": "Abstract",
+      "nodes": []
+    },
+    "paragraph_3": {
+      "type": "paragraph",
+      "id": "paragraph_3",
+      "content": "A new form of green fluorescent protein allows super-resolution imaging to be performed faster on living cells with low radiation doses."
+    },
+    "box_B1": {
+      "type": "box",
+      "id": "box_B1",
+      "label": "",
+      "url": "",
+      "title": "",
+      "caption": "",
+      "content": "Related research article Grotjohann T, Testa I, Reuss M, Brakemann T, Eggeling C, Hell SW, Jakobs S. 2012. rsEGFP2 enables fast RESOLFT nanoscopy of living cells. eLife 1:e00248. doi: 10.7554/eLife.00248",
+      "doi": ""
+    },
+    "annotation_4": {
+      "type": "strong",
+      "id": "annotation_4",
+      "path": [
+        "box_B1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        24
+      ]
+    },
+    "annotation_5": {
+      "type": "emphasis",
+      "id": "annotation_5",
+      "path": [
+        "box_B1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        163,
+        168
+      ]
+    },
+    "annotation_6": {
+      "type": "strong",
+      "id": "annotation_6",
+      "path": [
+        "box_B1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        169,
+        170
+      ]
+    },
+    "annotation_7": {
+      "type": "link",
+      "id": "annotation_7",
+      "path": [
+        "box_B1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        184,
+        203
+      ],
+      "url": "http://dx.doi.org/10.7554/eLife.00248"
+    },
+    "paragraph_8": {
+      "type": "paragraph",
+      "id": "paragraph_8",
+      "content": "Image Super-resolution image of a live mammalian cell"
+    },
+    "annotation_9": {
+      "type": "strong",
+      "id": "annotation_9",
+      "path": [
+        "paragraph_8",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        5
+      ]
+    },
+    "paragraph_10": {
+      "type": "paragraph",
+      "id": "paragraph_10",
+      "content": ""
+    },
+    "paragraph_11": {
+      "type": "paragraph",
+      "id": "paragraph_11",
+      "content": "The availability of fluorescence microscopes that can image sub-cellular structures labelled by fluorescent markers in living cells has provided fresh insights into a variety of cellular processes and functions. For most of the 20th century the resolution of such lens-based microscopes was limited by diffraction of the light used to form the image. This diffraction limit is about half the wavelength of the light, which means that an optical microscope cannot achieve a resolution any better than about 250 nm. In 1994, however, Stefan Hell and Jan Wichmann predicted that the diffraction limit could be beaten by a new form of fluorescence microscopy called stimulated emission depletion (STED) microscopy (Hell and Wichmann, 1994). This approach and related techniques are now routinely used to image fixed and living cells with a resolution of better than 100 nm (Gould et al., 2012). However, the high light intensities needed for these forms of ‘nanoscopy’, combined with relatively slow imaging speeds, can be problematic when imaging living samples. Now, in eLife, Hell and co-workers report that a new fluorescent marker called rsEGFP2 allows them to image living cells at low light intensities some 25–250 times faster than was possible previously (Grotjohann et al., 2012)."
+    },
+    "citation_reference_12": {
+      "type": "citation_reference",
+      "id": "citation_reference_12",
+      "path": [
+        "paragraph_11",
+        "content"
+      ],
+      "target": "article_citation_bib7",
+      "range": [
+        711,
+        734
+      ]
+    },
+    "citation_reference_13": {
+      "type": "citation_reference",
+      "id": "citation_reference_13",
+      "path": [
+        "paragraph_11",
+        "content"
+      ],
+      "target": "article_citation_bib2",
+      "range": [
+        870,
+        888
+      ]
+    },
+    "annotation_14": {
+      "type": "emphasis",
+      "id": "annotation_14",
+      "path": [
+        "paragraph_11",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1068,
+        1073
+      ]
+    },
+    "citation_reference_15": {
+      "type": "citation_reference",
+      "id": "citation_reference_15",
+      "path": [
+        "paragraph_11",
+        "content"
+      ],
+      "target": "article_citation_bib4",
+      "range": [
+        1261,
+        1284
+      ]
+    },
+    "paragraph_16": {
+      "type": "paragraph",
+      "id": "paragraph_16",
+      "content": "In fluorescence microscopy, fluorescent markers (also known as fluorophores) are excited by a bright light source, often a laser. After a short time the excited fluorophore returns to its electronic ground state by releasing a fluorescence photon, and an image of the sample can be built up by detecting these photons. Whereas the resolution of a conventional microscope is determined by the optics of the instrument, the resolution achievable with a fluorescence nanoscope depends on both the optics and the properties of the fluorophore. The diffraction limit is overcome by switching the fluorophores in the sample on and off (Hell, 2009). In STED microscopy, for example, a second laser is used to transfer the fluorophore from the excited state to the ground state without fluorescing. By focusing the second laser (the depletion laser) in a ring shape, and then overlaying this pattern on the first laser, it is possible to effectively switch off all of the fluorophores, apart from those very close to the centre of the ring (where the intensity of the depletion laser is negligible; Figure 1). This targeted switching approach thereby creates a sub-diffraction sized region from which fluorescence can be emitted. A ‘super-resolution’ image is built up by scanning the two laser foci across the sample and recording the fluorescence signal."
+    },
+    "citation_reference_17": {
+      "type": "citation_reference",
+      "id": "citation_reference_17",
+      "path": [
+        "paragraph_16",
+        "content"
+      ],
+      "target": "article_citation_bib5",
+      "range": [
+        630,
+        640
+      ]
+    },
+    "figure_reference_18": {
+      "type": "figure_reference",
+      "id": "figure_reference_18",
+      "path": [
+        "paragraph_16",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        1091,
+        1099
+      ]
+    },
+    "image_fig1": {
+      "type": "image",
+      "id": "image_fig1",
+      "label": "Figure 1.",
+      "url": "",
+      "object_id": "F1",
+      "title": "",
+      "content_type": "",
+      "large_url": "",
+      "content": "",
+      "group": [
+        "parent",
+        null
+      ],
+      "doi": "",
+      "caption": "paragraph_image_fig1",
+      "graphic_id": "elife00475f001"
+    },
+    "paragraph_image_fig1": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig1",
+      "content": "Comparison of three forms of fluorescence microscopy. In conventional fluorescence microscopy (top), a single laser (shown here in blue) is used to excite green fluorescent protein (GFP) or some other fluorophore, and the resulting fluorescence is detected. The resolution is determined by the size of region in which the GFP is excited (shown in green) and corresponds to the diffraction-limited laser focus size. In stimulated emission depletion (STED) nanoscopy (middle), a second ring-shaped laser focus (shown here in orange) is used to transfer excited GFP molecules at the periphery of the excitation focus back to the ground state without fluorescing: the size of the region in which the GFP can still fluoresce is smaller than in conventional fluorescence microscopy and is no longer limited by the laser focus size. In RESOLFT nanoscopy with rsEGFP2 (bottom), inactive fluorophores (shown as black molecular structures) are first activated by a violet laser focus. A second blue ring-shaped laser focus then continuously excites activated fluorophores until they have switched back to the inactive state. After these two steps, a conventional blue laser focus is used to illuminate the remaining active molecules and the resulting fluorescence is detected. Similar to STED nanoscopy, the size of the region in which rsEGFP2 can still fluoresce is not limited by diffraction. Typical wavelengths, laser intensities, and illumination times are shown for each laser. The period during which fluorescence is detected by all three methods is comparable (∼1 to 10 μs). Note that GFPs are not shown to scale. EGFP is enhanced GFP."
+    },
+    "paragraph_19": {
+      "type": "paragraph",
+      "id": "paragraph_19",
+      "content": "The resolution of STED microscopes is given by the equation Δr ≈ λ/(2NA(1+Imax/Isat)1/2), where λ is the wavelength of the depletion laser, NA is the numerical aperture of the objective lens, Imax is the peak intensity of the depletion laser, and Isat is the saturation intensity of the fluorophore (that is, the intensity at which 50% of the fluorescence is depleted; Hell, 2009). The size of the fluorescent region can, in principle, be made arbitrarily small by increasing the peak intensity of the depletion laser Imax or by using a fluorophore with a low saturation intensity Isat, which can be achieved by using a fluorophore with a long excited state lifetime Tfluor (because Isat is inversely proportional to Tfluor). Due to the short lifetimes of most fluorophores, which are on the order of nanoseconds, the saturation intensity Isat is typically ∼104 kW/cm2 (Hell, 2009). This means that the peak intensity of the depletion laser Imax needs to be higher than ∼105 kW/cm2 to push the resolution significantly below the diffraction limit. In addition to limiting laser choice, such high intensities raise concerns that living specimens could suffer long-term photodamage."
+    },
+    "annotation_20": {
+      "type": "emphasis",
+      "id": "annotation_20",
+      "path": [
+        "paragraph_19",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        74,
+        75
+      ]
+    },
+    "annotation_21": {
+      "type": "subscript",
+      "id": "annotation_21",
+      "path": [
+        "paragraph_19",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        75,
+        78
+      ]
+    },
+    "annotation_22": {
+      "type": "emphasis",
+      "id": "annotation_22",
+      "path": [
+        "paragraph_19",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        79,
+        80
+      ]
+    },
+    "annotation_23": {
+      "type": "subscript",
+      "id": "annotation_23",
+      "path": [
+        "paragraph_19",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        80,
+        83
+      ]
+    },
+    "annotation_24": {
+      "type": "superscript",
+      "id": "annotation_24",
+      "path": [
+        "paragraph_19",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        84,
+        87
+      ]
+    },
+    "annotation_25": {
+      "type": "emphasis",
+      "id": "annotation_25",
+      "path": [
+        "paragraph_19",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        192,
+        193
+      ]
+    },
+    "annotation_26": {
+      "type": "subscript",
+      "id": "annotation_26",
+      "path": [
+        "paragraph_19",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        193,
+        196
+      ]
+    },
+    "annotation_27": {
+      "type": "emphasis",
+      "id": "annotation_27",
+      "path": [
+        "paragraph_19",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        247,
+        248
+      ]
+    },
+    "annotation_28": {
+      "type": "subscript",
+      "id": "annotation_28",
+      "path": [
+        "paragraph_19",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        248,
+        251
+      ]
+    },
+    "citation_reference_29": {
+      "type": "citation_reference",
+      "id": "citation_reference_29",
+      "path": [
+        "paragraph_19",
+        "content"
+      ],
+      "target": "article_citation_bib5",
+      "range": [
+        369,
+        379
+      ]
+    },
+    "annotation_30": {
+      "type": "emphasis",
+      "id": "annotation_30",
+      "path": [
+        "paragraph_19",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        518,
+        519
+      ]
+    },
+    "annotation_31": {
+      "type": "subscript",
+      "id": "annotation_31",
+      "path": [
+        "paragraph_19",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        519,
+        522
+      ]
+    },
+    "annotation_32": {
+      "type": "emphasis",
+      "id": "annotation_32",
+      "path": [
+        "paragraph_19",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        581,
+        582
+      ]
+    },
+    "annotation_33": {
+      "type": "subscript",
+      "id": "annotation_33",
+      "path": [
+        "paragraph_19",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        582,
+        585
+      ]
+    },
+    "annotation_34": {
+      "type": "emphasis",
+      "id": "annotation_34",
+      "path": [
+        "paragraph_19",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        667,
+        668
+      ]
+    },
+    "annotation_35": {
+      "type": "subscript",
+      "id": "annotation_35",
+      "path": [
+        "paragraph_19",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        668,
+        673
+      ]
+    },
+    "annotation_36": {
+      "type": "emphasis",
+      "id": "annotation_36",
+      "path": [
+        "paragraph_19",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        683,
+        684
+      ]
+    },
+    "annotation_37": {
+      "type": "subscript",
+      "id": "annotation_37",
+      "path": [
+        "paragraph_19",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        684,
+        687
+      ]
+    },
+    "annotation_38": {
+      "type": "emphasis",
+      "id": "annotation_38",
+      "path": [
+        "paragraph_19",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        717,
+        718
+      ]
+    },
+    "annotation_39": {
+      "type": "subscript",
+      "id": "annotation_39",
+      "path": [
+        "paragraph_19",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        718,
+        723
+      ]
+    },
+    "annotation_40": {
+      "type": "emphasis",
+      "id": "annotation_40",
+      "path": [
+        "paragraph_19",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        839,
+        840
+      ]
+    },
+    "annotation_41": {
+      "type": "subscript",
+      "id": "annotation_41",
+      "path": [
+        "paragraph_19",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        840,
+        843
+      ]
+    },
+    "annotation_42": {
+      "type": "superscript",
+      "id": "annotation_42",
+      "path": [
+        "paragraph_19",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        860,
+        861
+      ]
+    },
+    "annotation_43": {
+      "type": "superscript",
+      "id": "annotation_43",
+      "path": [
+        "paragraph_19",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        867,
+        868
+      ]
+    },
+    "citation_reference_44": {
+      "type": "citation_reference",
+      "id": "citation_reference_44",
+      "path": [
+        "paragraph_19",
+        "content"
+      ],
+      "target": "article_citation_bib5",
+      "range": [
+        870,
+        880
+      ]
+    },
+    "annotation_45": {
+      "type": "emphasis",
+      "id": "annotation_45",
+      "path": [
+        "paragraph_19",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        941,
+        942
+      ]
+    },
+    "annotation_46": {
+      "type": "subscript",
+      "id": "annotation_46",
+      "path": [
+        "paragraph_19",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        942,
+        945
+      ]
+    },
+    "annotation_47": {
+      "type": "superscript",
+      "id": "annotation_47",
+      "path": [
+        "paragraph_19",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        973,
+        974
+      ]
+    },
+    "annotation_48": {
+      "type": "superscript",
+      "id": "annotation_48",
+      "path": [
+        "paragraph_19",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        980,
+        981
+      ]
+    },
+    "paragraph_49": {
+      "type": "paragraph",
+      "id": "paragraph_49",
+      "content": "Targeted switching can, in principle, be used with any reversibly switchable optical transition, not just stimulated emission, as described by the RESOLFT principle (Hell et al., 2003). By choosing a transition with a lifetime that is much longer than Tfluor, it is possible to push the resolution well below the diffraction limit with laser intensities much lower than those used in STED microscopy. One variant of RESOLFT nanoscopy has recently come to fruition in biological imaging experiments using fluorescent proteins that can be reversibly switched between two states (Brakemann et al., 2011; Grotjohann et al., 2011; Testa et al., 2012)."
+    },
+    "citation_reference_50": {
+      "type": "citation_reference",
+      "id": "citation_reference_50",
+      "path": [
+        "paragraph_49",
+        "content"
+      ],
+      "target": "article_citation_bib6",
+      "range": [
+        166,
+        183
+      ]
+    },
+    "annotation_51": {
+      "type": "emphasis",
+      "id": "annotation_51",
+      "path": [
+        "paragraph_49",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        252,
+        253
+      ]
+    },
+    "annotation_52": {
+      "type": "subscript",
+      "id": "annotation_52",
+      "path": [
+        "paragraph_49",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        253,
+        258
+      ]
+    },
+    "citation_reference_53": {
+      "type": "citation_reference",
+      "id": "citation_reference_53",
+      "path": [
+        "paragraph_49",
+        "content"
+      ],
+      "target": "article_citation_bib1",
+      "range": [
+        577,
+        599
+      ]
+    },
+    "citation_reference_54": {
+      "type": "citation_reference",
+      "id": "citation_reference_54",
+      "path": [
+        "paragraph_49",
+        "content"
+      ],
+      "target": "article_citation_bib3",
+      "range": [
+        601,
+        624
+      ]
+    },
+    "citation_reference_55": {
+      "type": "citation_reference",
+      "id": "citation_reference_55",
+      "path": [
+        "paragraph_49",
+        "content"
+      ],
+      "target": "article_citation_bib8",
+      "range": [
+        626,
+        644
+      ]
+    },
+    "paragraph_56": {
+      "type": "paragraph",
+      "id": "paragraph_56",
+      "content": "These approaches require three illumination steps: one for activation, one for targeted deactivation and one for readout of the remaining activated probe molecules. For example RESOLFT nanoscopy using rsEGFP (reversibly switching enhanced green fluorescent protein) works as follows: first, a diffraction-limited violet laser focus is used to activate the fluorophores (i.e., switch them to a state that is capable of fluorescence). Second, a ring-shaped blue laser focus repeatedly excites the activated molecules to fluoresce, although this fluorescence is not recorded, and eventually deactivates them (i.e., switches them to a fluorescence incapable state). Laser light of the same colour, but conventionally focused, is then used to excite the remaining activated fluorophores at the centre of the ring and the fluorescence from this sub-diffraction area is detected. This three-step process is repeated for every pixel of the super-resolution image. Due to the long lifetime of the activated state, low intensities of the ring-shaped focus of Imax ∼1 to 10 kW/cm2 have been sufficient to achieve sub-100 nm resolution. However, the long pixel dwell times required by the slow switching kinetics of the fluorophore, rsEGFP, have led to image acquisition times of up to about an hour in the past (Grotjohann et al., 2011)."
+    },
+    "annotation_57": {
+      "type": "emphasis",
+      "id": "annotation_57",
+      "path": [
+        "paragraph_56",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1049,
+        1050
+      ]
+    },
+    "annotation_58": {
+      "type": "subscript",
+      "id": "annotation_58",
+      "path": [
+        "paragraph_56",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1050,
+        1053
+      ]
+    },
+    "annotation_59": {
+      "type": "superscript",
+      "id": "annotation_59",
+      "path": [
+        "paragraph_56",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1068,
+        1069
+      ]
+    },
+    "citation_reference_60": {
+      "type": "citation_reference",
+      "id": "citation_reference_60",
+      "path": [
+        "paragraph_56",
+        "content"
+      ],
+      "target": "article_citation_bib3",
+      "range": [
+        1301,
+        1324
+      ]
+    },
+    "paragraph_61": {
+      "type": "paragraph",
+      "id": "paragraph_61",
+      "content": "Now Hell and co-workers—including Tim Grotjohann and Ilaria Testa of the Max Planck Institute for Biophysical Chemistry as joint first authors, and Stefan Jakobs as joint corresponding author—report that they have modified this protein to make a new fluorophore called rsEGFP2 with a shorter switching time and improved resistance to switching fatigue (Grotjohann et al., 2012). This has allowed them to image various structures inside living cells 25–250 times faster than previously reported. Importantly, the relatively low laser intensities (∼1 to 80 kW/cm2 in a laser scanning configuration in which every point of the sample is illuminated for only a fraction of the frame acquisition time) needed to switch off the fluorescence mean that this approach exposes samples to the lowest radiation doses of all the nanoscopy techniques demonstrated to date."
+    },
+    "citation_reference_62": {
+      "type": "citation_reference",
+      "id": "citation_reference_62",
+      "path": [
+        "paragraph_61",
+        "content"
+      ],
+      "target": "article_citation_bib4",
+      "range": [
+        353,
+        376
+      ]
+    },
+    "annotation_63": {
+      "type": "superscript",
+      "id": "annotation_63",
+      "path": [
+        "paragraph_61",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        560,
+        561
+      ]
+    },
+    "paragraph_64": {
+      "type": "paragraph",
+      "id": "paragraph_64",
+      "content": "Compared to STED nanoscopy, the current approach to RESOLFT nanoscopy requires additional activation and deactivation steps before the actual fluorescence can be recorded (see Figure 1). These steps inherently add overhead to the imaging process, and this slows down data acquisition. However, the advent of new fluorescent proteins such as rsEGFP2 extends RESOLFT nanoscopy with photoswitchable markers to faster live-cell imaging and holds great promise for future biological applications. The use of low light intensities results in reduced phototoxicity and is likely to allow imaging over extended time periods. Temporal resolution can be further improved using parallelization techniques and, if combined with faster switching rates, this should lead to video-rate RESOLFT nanoscopy over large fields of view."
+    },
+    "figure_reference_65": {
+      "type": "figure_reference",
+      "id": "figure_reference_65",
+      "path": [
+        "paragraph_64",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        176,
+        184
+      ]
+    },
+    "info:competing-interest": {
+      "type": "heading",
+      "id": "info:competing-interest",
+      "level": 2,
+      "content": "Competing Interests",
+      "nodes": [
+        "paragraph_66"
+      ]
+    },
+    "paragraph_66": {
+      "type": "paragraph",
+      "id": "paragraph_66",
+      "content": "Competing interests:JB discloses significant financial interest in Vutara, Inc.References"
+    },
+    "article_citation_bib1": {
+      "type": "article_citation",
+      "id": "article_citation_bib1",
+      "authors": [
+        {
+          "given-names": "T",
+          "last-name": "Brakemann"
+        },
+        {
+          "given-names": "AC",
+          "last-name": "Stiel"
+        },
+        {
+          "given-names": "G",
+          "last-name": "Weber"
+        },
+        {
+          "given-names": "M",
+          "last-name": "Andresen"
+        },
+        {
+          "given-names": "I",
+          "last-name": "Testa"
+        },
+        {
+          "given-names": "T",
+          "last-name": "Grotjohann"
+        }
+      ],
+      "title": "A reversibly photoswitchable GFP-like protein with fluorescence excitation decoupled from switching",
+      "year": "2011",
+      "volume": "29",
+      "source": "Nat Biotechnol",
+      "issue": "",
+      "fpage": "942",
+      "lpage": "7",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1038/nbt.1952",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib2": {
+      "type": "article_citation",
+      "id": "article_citation_bib2",
+      "authors": [
+        {
+          "given-names": "TJ",
+          "last-name": "Gould"
+        },
+        {
+          "given-names": "ST",
+          "last-name": "Hess"
+        },
+        {
+          "given-names": "J",
+          "last-name": "Bewersdorf"
+        }
+      ],
+      "title": "Optical nanoscopy: from acquisition to analysis",
+      "year": "2012",
+      "volume": "14",
+      "source": "Annu Rev Biomed Eng",
+      "issue": "",
+      "fpage": "231",
+      "lpage": "54",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1146/annurev-bioeng-071811-150025",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib3": {
+      "type": "article_citation",
+      "id": "article_citation_bib3",
+      "authors": [
+        {
+          "given-names": "T",
+          "last-name": "Grotjohann"
+        },
+        {
+          "given-names": "I",
+          "last-name": "Testa"
+        },
+        {
+          "given-names": "M",
+          "last-name": "Leutenegger"
+        },
+        {
+          "given-names": "H",
+          "last-name": "Bock"
+        },
+        {
+          "given-names": "NT",
+          "last-name": "Urban"
+        },
+        {
+          "given-names": "F",
+          "last-name": "Lavoie-Cardinal"
+        }
+      ],
+      "title": "Diffraction-unlimited all-optical imaging and writing with a photochromic GFP",
+      "year": "2011",
+      "volume": "478",
+      "source": "Nature",
+      "issue": "",
+      "fpage": "204",
+      "lpage": "8",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1038/nature10497",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib4": {
+      "type": "article_citation",
+      "id": "article_citation_bib4",
+      "authors": [
+        {
+          "given-names": "T",
+          "last-name": "Grotjohann"
+        },
+        {
+          "given-names": "I",
+          "last-name": "Testa"
+        },
+        {
+          "given-names": "M",
+          "last-name": "Reuss"
+        },
+        {
+          "given-names": "T",
+          "last-name": "Brakemann"
+        },
+        {
+          "given-names": "C",
+          "last-name": "Eggeling"
+        },
+        {
+          "given-names": "SW",
+          "last-name": "Hell"
+        },
+        {
+          "given-names": "S",
+          "last-name": "Jakobs"
+        }
+      ],
+      "title": "rsEGFP2 enables fast RESOLFT nanoscopy of living cells",
+      "year": "2012",
+      "volume": "1",
+      "source": "eLife",
+      "issue": "",
+      "fpage": "e00248",
+      "lpage": "",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.7554/eLife.00248",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib5": {
+      "type": "article_citation",
+      "id": "article_citation_bib5",
+      "authors": [
+        {
+          "given-names": "SW",
+          "last-name": "Hell"
+        }
+      ],
+      "title": "Microscopy and its focal switch",
+      "year": "2009",
+      "volume": "6",
+      "source": "Nat Methods",
+      "issue": "",
+      "fpage": "24",
+      "lpage": "32",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1038/nmeth.1291",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib6": {
+      "type": "article_citation",
+      "id": "article_citation_bib6",
+      "authors": [
+        {
+          "given-names": "SW",
+          "last-name": "Hell"
+        },
+        {
+          "given-names": "S",
+          "last-name": "Jakobs"
+        },
+        {
+          "given-names": "L",
+          "last-name": "Kastrup"
+        }
+      ],
+      "title": "Imaging and writing at the nanoscale with focused visible light through saturable optical transitions",
+      "year": "2003",
+      "volume": "77",
+      "source": "Appl Phys A",
+      "issue": "",
+      "fpage": "859",
+      "lpage": "60",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1007/s00339-003-2292-4",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib7": {
+      "type": "article_citation",
+      "id": "article_citation_bib7",
+      "authors": [
+        {
+          "given-names": "SW",
+          "last-name": "Hell"
+        },
+        {
+          "given-names": "J",
+          "last-name": "Wichmann"
+        }
+      ],
+      "title": "Breaking the diffraction resolution limit by stimulated emission: stimulated-emission-depletion fluorescence microscopy",
+      "year": "1994",
+      "volume": "19",
+      "source": "Opt Lett",
+      "issue": "",
+      "fpage": "780",
+      "lpage": "2",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1364/OL.19.000780",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib8": {
+      "type": "article_citation",
+      "id": "article_citation_bib8",
+      "authors": [
+        {
+          "given-names": "I",
+          "last-name": "Testa"
+        },
+        {
+          "given-names": "NT",
+          "last-name": "Urban"
+        },
+        {
+          "given-names": "S",
+          "last-name": "Jakobs"
+        },
+        {
+          "given-names": "C",
+          "last-name": "Eggeling"
+        },
+        {
+          "given-names": "KI",
+          "last-name": "Willig"
+        },
+        {
+          "given-names": "SW",
+          "last-name": "Hell"
+        }
+      ],
+      "title": "Nanoscopy of living brain slices with low light levels",
+      "year": "2012",
+      "volume": "75",
+      "source": "Neuron",
+      "issue": "",
+      "fpage": "992",
+      "lpage": "1000",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/j.neuron.2012.07.028",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    }
+  }
+}

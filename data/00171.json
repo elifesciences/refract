@@ -98,6 +98,7 @@
         "heading_s4-11",
         "paragraph_514",
         "paragraph_518",
+        "sub-article",
         "sub-article"
       ]
     },
@@ -127,7 +128,56 @@
     "citations": {
       "type": "view",
       "id": "citations",
-      "nodes": []
+      "nodes": [
+        "article_citation_bib1",
+        "article_citation_bib2",
+        "article_citation_bib3",
+        "article_citation_bib4",
+        "article_citation_bib5",
+        "article_citation_bib6",
+        "article_citation_bib7",
+        "article_citation_bib8",
+        "article_citation_bib9",
+        "article_citation_bib10",
+        "article_citation_bib11",
+        "article_citation_bib12",
+        "article_citation_bib13",
+        "article_citation_bib14",
+        "article_citation_bib15",
+        "article_citation_bib16",
+        "article_citation_bib17",
+        "article_citation_bib18",
+        "article_citation_bib19",
+        "article_citation_bib20",
+        "article_citation_bib21",
+        "article_citation_bib22",
+        "article_citation_bib23",
+        "article_citation_bib24",
+        "article_citation_bib25",
+        "article_citation_bib26",
+        "article_citation_bib27",
+        "article_citation_bib28",
+        "article_citation_bib29",
+        "article_citation_bib30",
+        "article_citation_bib31",
+        "article_citation_bib32",
+        "article_citation_bib33",
+        "article_citation_bib34",
+        "article_citation_bib35",
+        "article_citation_bib36",
+        "article_citation_bib37",
+        "article_citation_bib38",
+        "article_citation_bib39",
+        "article_citation_bib40",
+        "article_citation_bib41",
+        "article_citation_bib42",
+        "article_citation_bib43",
+        "article_citation_bib44",
+        "article_citation_bib45",
+        "article_citation_bib46",
+        "article_citation_bib47",
+        "article_citation_bib48"
+      ]
     },
     "document": {
       "type": "document",
@@ -1561,7 +1611,7 @@
         "paragraph_image_fig1",
         "content"
       ],
-      "target": "image_fig3 fig4 fig5 fig6",
+      "target": "image_fig3",
       "range": [
         2502,
         2526
@@ -3391,7 +3441,7 @@
         "paragraph_image_fig6",
         "content"
       ],
-      "target": "image_fig6s1 fig6s2 fig6s3",
+      "target": "image_fig6s1",
       "range": [
         2033,
         2063
@@ -6499,9 +6549,9 @@
         179
       ]
     },
-    "cross_reference_472": {
-      "type": "cross_reference",
-      "id": "cross_reference_472",
+    "figure_reference_472": {
+      "type": "figure_reference",
+      "id": "figure_reference_472",
       "path": [
         "paragraph_470",
         "content"
@@ -6913,9 +6963,9 @@
       "id": "paragraph_506",
       "content": "Supplementary file 1 shows the primer pairs that were used to detect the target locus Fab-7 HS1 (Fab-7) as well as two control loci Sex-lethal (Sxl) and twine (twe). The quantitative PCR (qPCR) was performed with triplicated 25 μl reactions using Power SYBR Green (Applied Biosystems) and 0.5 μl of sample DNA in Agilent M×3000P qPCR system. The ratio of immune/pre-immune precipitation was calculated by the comparative Ct method (∆∆CT Method). The chromatin IPs were done four times for Elba1 and five times for Elba2 and the significance was determined using the unpaired t-test."
     },
-    "cross_reference_507": {
-      "type": "cross_reference",
-      "id": "cross_reference_507",
+    "figure_reference_507": {
+      "type": "figure_reference",
+      "id": "figure_reference_507",
       "path": [
         "paragraph_506",
         "content"
@@ -7141,6 +7191,1883 @@
       "type": "paragraph",
       "id": "paragraph_supplement_SD1_data",
       "content": "The list of oligonucleotides used in this study. See also ‘Materials and methods’ for the use of each DNA."
+    },
+    "info:dataset": {
+      "type": "heading",
+      "id": "info:dataset",
+      "level": 2,
+      "content": "Major Datasets",
+      "nodes": [
+        "paragraph_dataro1",
+        "paragraph_dataro2",
+        "paragraph_dataro3",
+        "paragraph_dataro4"
+      ]
+    },
+    "paragraph_dataro1": {
+      "type": "paragraph",
+      "id": "paragraph_dataro1",
+      "content": "Gelbart, WM, Emmert, DB. 2010. FlyBase High Throughput Expression Pattern Data Beta Version: http://flybase.org/reports/FBgn0000227.html. Publicly available at Flybase http://flybase.org/"
+    },
+    "paragraph_dataro2": {
+      "type": "paragraph",
+      "id": "paragraph_dataro2",
+      "content": "Gelbart, WM, Emmert, DB. 2010. FlyBase High Throughput Expression Pattern Data Beta Version: http://flybase.org/reports/FBgn0031621.html. Publicly available at Flybase http://flybase.org/"
+    },
+    "paragraph_dataro3": {
+      "type": "paragraph",
+      "id": "paragraph_dataro3",
+      "content": "Gelbart, WM, Emmert, DB. 2010. FlyBase High Throughput Expression Pattern Data Beta Version: http://flybase.org/reports/FBgn0031434.html. Publicly available at Flybase http://flybase.org/"
+    },
+    "paragraph_dataro4": {
+      "type": "paragraph",
+      "id": "paragraph_dataro4",
+      "content": "Gelbart, WM, Emmert, DB. 2010. FlyBase High Throughput Expression Pattern Data Beta Version: http://flybase.org/reports/FBgn0031435.html. Publicly available at Flybase http://flybase.org/"
+    },
+    "article_citation_bib1": {
+      "type": "article_citation",
+      "id": "article_citation_bib1",
+      "authors": [
+        {
+          "given-names": "S",
+          "last-name": "Abhiman"
+        },
+        {
+          "given-names": "LM",
+          "last-name": "Iyer"
+        },
+        {
+          "given-names": "L",
+          "last-name": "Aravind"
+        }
+      ],
+      "title": "BEN: a novel domain in chromatin factors and DNA viral proteins",
+      "year": "2008",
+      "volume": "24",
+      "source": "Bioinformatics",
+      "issue": "",
+      "fpage": "458",
+      "lpage": "61",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1093/bioinformatics/btn007",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib2": {
+      "type": "article_citation",
+      "id": "article_citation_bib2",
+      "authors": [
+        {
+          "given-names": "T",
+          "last-name": "Aoki"
+        },
+        {
+          "given-names": "S",
+          "last-name": "Schweinsberg"
+        },
+        {
+          "given-names": "J",
+          "last-name": "Manasson"
+        },
+        {
+          "given-names": "P",
+          "last-name": "Schedl"
+        }
+      ],
+      "title": "A stage-specific factor confers Fab-7 boundary activity during early embryogenesis in Drosophila",
+      "year": "2008",
+      "volume": "28",
+      "source": "Mol Cell Biol",
+      "issue": "",
+      "fpage": "1047",
+      "lpage": "60",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1128/MCB.01622-07",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib3": {
+      "type": "article_citation",
+      "id": "article_citation_bib3",
+      "authors": [
+        {
+          "given-names": "AC",
+          "last-name": "Bell"
+        },
+        {
+          "given-names": "G",
+          "last-name": "Felsenfeld"
+        }
+      ],
+      "title": "Methylation of a CTCF-dependent boundary controls imprinted expression of the Igf2 gene",
+      "year": "2000",
+      "volume": "405",
+      "source": "Nature",
+      "issue": "",
+      "fpage": "482",
+      "lpage": "5",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1038/35013100",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib4": {
+      "type": "article_citation",
+      "id": "article_citation_bib4",
+      "authors": [
+        {
+          "given-names": "M",
+          "last-name": "Bern"
+        },
+        {
+          "given-names": "D",
+          "last-name": "Goldberg"
+        },
+        {
+          "given-names": "WH",
+          "last-name": "McDonald"
+        },
+        {
+          "given-names": "III",
+          "last-name": "Yates"
+        }
+      ],
+      "title": "Automatic quality assessment of peptide tandem mass spectra",
+      "year": "2004",
+      "volume": "20",
+      "source": "Bioinformatics",
+      "issue": "",
+      "fpage": "i49",
+      "lpage": "54",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1093/bioinformatics/bth947",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib5": {
+      "type": "article_citation",
+      "id": "article_citation_bib5",
+      "authors": [
+        {
+          "given-names": "B",
+          "last-name": "Burgess-Beusse"
+        },
+        {
+          "given-names": "C",
+          "last-name": "Farrell"
+        },
+        {
+          "given-names": "M",
+          "last-name": "Gaszner"
+        },
+        {
+          "given-names": "M",
+          "last-name": "Litt"
+        },
+        {
+          "given-names": "V",
+          "last-name": "Mutskov"
+        },
+        {
+          "given-names": "F",
+          "last-name": "Recillas-Targa"
+        }
+      ],
+      "title": "The insulation of genes from external enhancers and silencing chromatin",
+      "year": "2002",
+      "volume": "99",
+      "source": "Proc Natl Acad Sci USA",
+      "issue": "",
+      "fpage": "16433",
+      "lpage": "7",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1073/pnas.162342499",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib6": {
+      "type": "article_citation",
+      "id": "article_citation_bib6",
+      "authors": [
+        {
+          "given-names": "HN",
+          "last-name": "Cai"
+        },
+        {
+          "given-names": "P",
+          "last-name": "Shen"
+        }
+      ],
+      "title": "Effects of cis arrangement of chromatin insulators on enhancer-blocking activity",
+      "year": "2001",
+      "volume": "291",
+      "source": "Science",
+      "issue": "",
+      "fpage": "493",
+      "lpage": "5",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1126/science.291.5503.493",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib7": {
+      "type": "article_citation",
+      "id": "article_citation_bib7",
+      "authors": [
+        {
+          "given-names": "XY",
+          "last-name": "Cha"
+        },
+        {
+          "given-names": "RC",
+          "last-name": "Pierce"
+        },
+        {
+          "given-names": "PW",
+          "last-name": "Kalivas"
+        },
+        {
+          "given-names": "SA",
+          "last-name": "Mackler"
+        }
+      ],
+      "title": "NAC-1, a rat brain mRNA, is increased in the nucleus accumbens three weeks after chronic cocaine self-administration",
+      "year": "1997",
+      "volume": "17",
+      "source": "J Neurosci",
+      "issue": "",
+      "fpage": "6864",
+      "lpage": "71",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib8": {
+      "type": "article_citation",
+      "id": "article_citation_bib8",
+      "authors": [
+        {
+          "given-names": "S",
+          "last-name": "Chattopadhyay"
+        },
+        {
+          "given-names": "R",
+          "last-name": "Kaul"
+        },
+        {
+          "given-names": "A",
+          "last-name": "Charest"
+        },
+        {
+          "given-names": "D",
+          "last-name": "Housman"
+        },
+        {
+          "given-names": "J",
+          "last-name": "Chen"
+        }
+      ],
+      "title": "SMAR1, a novel, alternatively spliced gene product, binds the Scaffold/Matrix-associated region at the T cell receptor beta locus",
+      "year": "2000",
+      "volume": "68",
+      "source": "Genomics",
+      "issue": "",
+      "fpage": "93",
+      "lpage": "6",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1006/geno.2000.6279",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib9": {
+      "type": "article_citation",
+      "id": "article_citation_bib9",
+      "authors": [
+        {
+          "given-names": "JH",
+          "last-name": "Chung"
+        },
+        {
+          "given-names": "M",
+          "last-name": "Whiteley"
+        },
+        {
+          "given-names": "G",
+          "last-name": "Felsenfeld"
+        }
+      ],
+      "title": "A 5' element of the chicken beta-globin domain serves as an insulator in human erythroid cells and protects against position effect in Drosophila",
+      "year": "1993",
+      "volume": "74",
+      "source": "Cell",
+      "issue": "",
+      "fpage": "505",
+      "lpage": "14",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/0092-8674(93)80052-G",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib10": {
+      "type": "article_citation",
+      "id": "article_citation_bib10",
+      "authors": [
+        {
+          "given-names": "H",
+          "last-name": "Duan"
+        },
+        {
+          "given-names": "Q",
+          "last-name": "Dai"
+        },
+        {
+          "given-names": "J",
+          "last-name": "Kavaler"
+        },
+        {
+          "given-names": "F",
+          "last-name": "Bejarano"
+        },
+        {
+          "given-names": "G",
+          "last-name": "Medranda"
+        },
+        {
+          "given-names": "N",
+          "last-name": "Negre"
+        }
+      ],
+      "title": "Insensitive is a corepressor for Suppressor of Hairless and regulates Notch signalling during neural development",
+      "year": "2011",
+      "volume": "30",
+      "source": "EMBO J",
+      "issue": "",
+      "fpage": "3120",
+      "lpage": "33",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1038/emboj.2011.218",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib11": {
+      "type": "article_citation",
+      "id": "article_citation_bib11",
+      "authors": [
+        {
+          "given-names": "GN",
+          "last-name": "Filippova"
+        },
+        {
+          "given-names": "S",
+          "last-name": "Fagerlie"
+        },
+        {
+          "given-names": "EM",
+          "last-name": "Klenova"
+        },
+        {
+          "given-names": "C",
+          "last-name": "Myers"
+        },
+        {
+          "given-names": "Y",
+          "last-name": "Dehner"
+        },
+        {
+          "given-names": "G",
+          "last-name": "Goodwin"
+        }
+      ],
+      "title": "An exceptionally conserved transcriptional repressor, CTCF, employs different combinations of zinc fingers to bind diverged promoter sequences of avian and mammalian c-myc oncogenes",
+      "year": "1996",
+      "volume": "16",
+      "source": "Mol Cell Biol",
+      "issue": "",
+      "fpage": "2802",
+      "lpage": "13",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib12": {
+      "type": "article_citation",
+      "id": "article_citation_bib12",
+      "authors": [
+        {
+          "given-names": "M",
+          "last-name": "Galloni"
+        },
+        {
+          "given-names": "H",
+          "last-name": "Gyurkovics"
+        },
+        {
+          "given-names": "P",
+          "last-name": "Schedl"
+        },
+        {
+          "given-names": "F",
+          "last-name": "Karch"
+        }
+      ],
+      "title": "The bluetail transposon: evidence for independent cis-regulatory domains and domain boundaries in the bithorax complex",
+      "year": "1993",
+      "volume": "12",
+      "source": "EMBO J",
+      "issue": "",
+      "fpage": "1087",
+      "lpage": "97",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib13": {
+      "type": "article_citation",
+      "id": "article_citation_bib13",
+      "authors": [
+        {
+          "given-names": "M",
+          "last-name": "Gaszner"
+        },
+        {
+          "given-names": "G",
+          "last-name": "Felsenfeld"
+        }
+      ],
+      "title": "Insulators: exploiting transcriptional and epigenetic mechanisms",
+      "year": "2006",
+      "volume": "7",
+      "source": "Nat Rev Genet",
+      "issue": "",
+      "fpage": "703",
+      "lpage": "13",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1038/nrg1925",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib14": {
+      "type": "article_citation",
+      "id": "article_citation_bib14",
+      "authors": [
+        {
+          "given-names": "D",
+          "last-name": "Gohl"
+        },
+        {
+          "given-names": "T",
+          "last-name": "Aoki"
+        },
+        {
+          "given-names": "J",
+          "last-name": "Blanton"
+        },
+        {
+          "given-names": "G",
+          "last-name": "Shanower"
+        },
+        {
+          "given-names": "G",
+          "last-name": "Kappes"
+        },
+        {
+          "given-names": "P",
+          "last-name": "Schedl"
+        }
+      ],
+      "title": "Mechanism of chromosomal boundary action: roadblock, sink, or loop?",
+      "year": "2011",
+      "volume": "187",
+      "source": "Genetics",
+      "issue": "",
+      "fpage": "731",
+      "lpage": "48",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1534/genetics.110.123752",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib15": {
+      "type": "article_citation",
+      "id": "article_citation_bib15",
+      "authors": [
+        {
+          "given-names": "NP",
+          "last-name": "Gomes"
+        },
+        {
+          "given-names": "JM",
+          "last-name": "Espinosa"
+        }
+      ],
+      "title": "Gene-specific repression of the p53 target gene PUMA via intragenic CTCF-Cohesin binding",
+      "year": "2010",
+      "volume": "24",
+      "source": "Genes Dev",
+      "issue": "",
+      "fpage": "1022",
+      "lpage": "34",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1101/gad.1881010",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib16": {
+      "type": "article_citation",
+      "id": "article_citation_bib16",
+      "authors": [
+        {
+          "given-names": "C",
+          "last-name": "Guo"
+        },
+        {
+          "given-names": "HS",
+          "last-name": "Yoon"
+        },
+        {
+          "given-names": "A",
+          "last-name": "Franklin"
+        },
+        {
+          "given-names": "S",
+          "last-name": "Jain"
+        },
+        {
+          "given-names": "A",
+          "last-name": "Ebert"
+        },
+        {
+          "given-names": "HL",
+          "last-name": "Cheng"
+        }
+      ],
+      "title": "CTCF-binding elements mediate control of V(D)J recombination",
+      "year": "2011",
+      "volume": "477",
+      "source": "Nature",
+      "issue": "",
+      "fpage": "424",
+      "lpage": "30",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1038/nature10495",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib17": {
+      "type": "article_citation",
+      "id": "article_citation_bib17",
+      "authors": [
+        {
+          "given-names": "H",
+          "last-name": "Gyurkovics"
+        },
+        {
+          "given-names": "J",
+          "last-name": "Gausz"
+        },
+        {
+          "given-names": "J",
+          "last-name": "Kummer"
+        },
+        {
+          "given-names": "F",
+          "last-name": "Karch"
+        }
+      ],
+      "title": "A new homeotic mutation in the Drosophila bithorax complex removes a boundary separating two domains of regulation",
+      "year": "1990",
+      "volume": "9",
+      "source": "EMBO J",
+      "issue": "",
+      "fpage": "2579",
+      "lpage": "85",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib18": {
+      "type": "article_citation",
+      "id": "article_citation_bib18",
+      "authors": [
+        {
+          "given-names": "K",
+          "last-name": "Hagstrom"
+        },
+        {
+          "given-names": "M",
+          "last-name": "Muller"
+        },
+        {
+          "given-names": "P",
+          "last-name": "Schedl"
+        }
+      ],
+      "title": "Fab-7 functions as a chromatin domain boundary to ensure proper segment specification by the Drosophila bithorax complex",
+      "year": "1996",
+      "volume": "10",
+      "source": "Genes Dev",
+      "issue": "",
+      "fpage": "3202",
+      "lpage": "15",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib19": {
+      "type": "article_citation",
+      "id": "article_citation_bib19",
+      "authors": [
+        {
+          "given-names": "AT",
+          "last-name": "Hark"
+        },
+        {
+          "given-names": "CJ",
+          "last-name": "Schoenherr"
+        },
+        {
+          "given-names": "DJ",
+          "last-name": "Katz"
+        },
+        {
+          "given-names": "RS",
+          "last-name": "Ingram"
+        },
+        {
+          "given-names": "JM",
+          "last-name": "Levorse"
+        },
+        {
+          "given-names": "SM",
+          "last-name": "Tilghman"
+        }
+      ],
+      "title": "CTCF mediates methylation-sensitive enhancer-blocking activity at the H19/Igf2 locus",
+      "year": "2000",
+      "volume": "405",
+      "source": "Nature",
+      "issue": "",
+      "fpage": "486",
+      "lpage": "9",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1038/35013106",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib20": {
+      "type": "article_citation",
+      "id": "article_citation_bib20",
+      "authors": [
+        {
+          "given-names": "I",
+          "last-name": "Hogga"
+        },
+        {
+          "given-names": "J",
+          "last-name": "Mihaly"
+        },
+        {
+          "given-names": "S",
+          "last-name": "Barges"
+        },
+        {
+          "given-names": "F",
+          "last-name": "Karch"
+        }
+      ],
+      "title": "Replacement of Fab-7 by the gypsy or scs insulator disrupts long-distance regulatory interactions in the Abd-B gene of the bithorax complex",
+      "year": "2001",
+      "volume": "8",
+      "source": "Mol Cell",
+      "issue": "",
+      "fpage": "1145",
+      "lpage": "51",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib21": {
+      "type": "article_citation",
+      "id": "article_citation_bib21",
+      "authors": [
+        {
+          "given-names": "C",
+          "last-name": "Holdridge"
+        },
+        {
+          "given-names": "D",
+          "last-name": "Dorsett"
+        }
+      ],
+      "title": "Repression of hsp70 heat shock gene transcription by the suppressor of hairy-wing protein of Drosophila melanogaster",
+      "year": "1991",
+      "volume": "11",
+      "source": "Mol Cell Biol",
+      "issue": "",
+      "fpage": "1894",
+      "lpage": "1900",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "annotation_522": {
+      "type": "emphasis",
+      "id": "annotation_522",
+      "path": [
+        "article_citation_bib21",
+        "title"
+      ],
+      "target": null,
+      "range": [
+        93,
+        116
+      ]
+    },
+    "article_citation_bib22": {
+      "type": "article_citation",
+      "id": "article_citation_bib22",
+      "authors": [
+        {
+          "given-names": "EE",
+          "last-name": "Holohan"
+        },
+        {
+          "given-names": "C",
+          "last-name": "Kwong"
+        },
+        {
+          "given-names": "B",
+          "last-name": "Adryan"
+        },
+        {
+          "given-names": "M",
+          "last-name": "Bartkuhn"
+        },
+        {
+          "given-names": "M",
+          "last-name": "Herold"
+        },
+        {
+          "given-names": "R",
+          "last-name": "Renkawitz"
+        }
+      ],
+      "title": "CTCF genomic binding sites in Drosophila and the organisation of the bithorax complex",
+      "year": "2007",
+      "volume": "3",
+      "source": "PLoS Genet",
+      "issue": "",
+      "fpage": "e112",
+      "lpage": "",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1371/journal.pgen.0030112",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib23": {
+      "type": "article_citation",
+      "id": "article_citation_bib23",
+      "authors": [
+        {
+          "given-names": "C",
+          "last-name": "Iampietro"
+        },
+        {
+          "given-names": "F",
+          "last-name": "Cleard"
+        },
+        {
+          "given-names": "H",
+          "last-name": "Gyurkovics"
+        },
+        {
+          "given-names": "RK",
+          "last-name": "Maeda"
+        },
+        {
+          "given-names": "F",
+          "last-name": "Karch"
+        }
+      ],
+      "title": "Boundary swapping in the Drosophila Bithorax complex",
+      "year": "2008",
+      "volume": "135",
+      "source": "Development",
+      "issue": "",
+      "fpage": "3983",
+      "lpage": "7",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1242/dev.025700",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib24": {
+      "type": "article_citation",
+      "id": "article_citation_bib24",
+      "authors": [
+        {
+          "given-names": "G",
+          "last-name": "Kappes"
+        },
+        {
+          "given-names": "G",
+          "last-name": "Deshpande"
+        },
+        {
+          "given-names": "BB",
+          "last-name": "Mulvey"
+        },
+        {
+          "given-names": "JI",
+          "last-name": "Horabin"
+        },
+        {
+          "given-names": "P",
+          "last-name": "Schedl"
+        }
+      ],
+      "title": "The Drosophila Myc gene, diminutive, is a positive regulator of the Sex-lethal establishment promoter, Sxl-Pe",
+      "year": "2011",
+      "volume": "108",
+      "source": "Proc Natl Acad Sci USA",
+      "issue": "",
+      "fpage": "1543",
+      "lpage": "8",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1073/pnas.1017006108",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib25": {
+      "type": "article_citation",
+      "id": "article_citation_bib25",
+      "authors": [
+        {
+          "given-names": "AD",
+          "last-name": "Keefe"
+        },
+        {
+          "given-names": "DS",
+          "last-name": "Wilson"
+        },
+        {
+          "given-names": "B",
+          "last-name": "Seelig"
+        },
+        {
+          "given-names": "JW",
+          "last-name": "Szostak"
+        }
+      ],
+      "title": "One-step purification of recombinant proteins using a nanomolar-affinity streptavidin-binding peptide, the SBP-Tag",
+      "year": "2001",
+      "volume": "23",
+      "source": "Protein Expr Purif",
+      "issue": "",
+      "fpage": "440",
+      "lpage": "6",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1006/prep.2001.1515",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib26": {
+      "type": "article_citation",
+      "id": "article_citation_bib26",
+      "authors": [
+        {
+          "given-names": "R",
+          "last-name": "Kellum"
+        },
+        {
+          "given-names": "P",
+          "last-name": "Schedl"
+        }
+      ],
+      "title": "A position-effect assay for boundaries of higher order chromosomal domains",
+      "year": "1991",
+      "volume": "64",
+      "source": "Cell",
+      "issue": "",
+      "fpage": "941",
+      "lpage": "50",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/0092-8674(91)90318-S",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib27": {
+      "type": "article_citation",
+      "id": "article_citation_bib27",
+      "authors": [
+        {
+          "given-names": "JR",
+          "last-name": "Kennerdell"
+        },
+        {
+          "given-names": "RW",
+          "last-name": "Carthew"
+        }
+      ],
+      "title": "Use of dsRNA-mediated genetic interference to demonstrate that frizzled and frizzled 2 act in the wingless pathway",
+      "year": "1998",
+      "volume": "95",
+      "source": "Cell",
+      "issue": "",
+      "fpage": "1017",
+      "lpage": "26",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/S0092-8674(00)81725-0",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib28": {
+      "type": "article_citation",
+      "id": "article_citation_bib28",
+      "authors": [
+        {
+          "given-names": "L",
+          "last-name": "Korutla"
+        },
+        {
+          "given-names": "P",
+          "last-name": "Wang"
+        },
+        {
+          "given-names": "TG",
+          "last-name": "Jackson"
+        },
+        {
+          "given-names": "SA",
+          "last-name": "Mackler"
+        }
+      ],
+      "title": "NAC1, a POZ/BTB protein that functions as a corepressor",
+      "year": "2009",
+      "volume": "54",
+      "source": "Neurochem Int",
+      "issue": "",
+      "fpage": "245",
+      "lpage": "52",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/j.neuint.2008.12.008",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib29": {
+      "type": "article_citation",
+      "id": "article_citation_bib29",
+      "authors": [
+        {
+          "given-names": "O",
+          "last-name": "Kyrchanova"
+        },
+        {
+          "given-names": "D",
+          "last-name": "Chetverina"
+        },
+        {
+          "given-names": "O",
+          "last-name": "Maksimenko"
+        },
+        {
+          "given-names": "A",
+          "last-name": "Kullyev"
+        },
+        {
+          "given-names": "P",
+          "last-name": "Georgiev"
+        }
+      ],
+      "title": "Orientation-dependent interaction between Drosophila insulators is a property of this class of regulatory elements",
+      "year": "2008a",
+      "volume": "36",
+      "source": "Nucleic Acids Res",
+      "issue": "",
+      "fpage": "7019",
+      "lpage": "28",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1093/nar/gkn781",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib30": {
+      "type": "article_citation",
+      "id": "article_citation_bib30",
+      "authors": [
+        {
+          "given-names": "O",
+          "last-name": "Kyrchanova"
+        },
+        {
+          "given-names": "S",
+          "last-name": "Toshchakov"
+        },
+        {
+          "given-names": "Y",
+          "last-name": "Podstreshnaya"
+        },
+        {
+          "given-names": "A",
+          "last-name": "Parshikov"
+        },
+        {
+          "given-names": "P",
+          "last-name": "Georgiev"
+        }
+      ],
+      "title": "Functional interaction between the Fab-7 and Fab-8 boundaries and the upstream promoter region in the Drosophila Abd-B gene",
+      "year": "2008b",
+      "volume": "28",
+      "source": "Mol Cell Biol",
+      "issue": "",
+      "fpage": "4188",
+      "lpage": "95",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1128/MCB.00229-08",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib31": {
+      "type": "article_citation",
+      "id": "article_citation_bib31",
+      "authors": [
+        {
+          "given-names": "O",
+          "last-name": "Kyrchanova"
+        },
+        {
+          "given-names": "T",
+          "last-name": "Ivlieva"
+        },
+        {
+          "given-names": "S",
+          "last-name": "Toshchakov"
+        },
+        {
+          "given-names": "A",
+          "last-name": "Parshikov"
+        },
+        {
+          "given-names": "O",
+          "last-name": "Maksimenko"
+        },
+        {
+          "given-names": "P",
+          "last-name": "Georgiev"
+        }
+      ],
+      "title": "Selective interactions of boundaries with upstream region of Abd-B promoter in Drosophila bithorax complex and role of dCTCF in this process",
+      "year": "2011",
+      "volume": "39",
+      "source": "Nucleic Acids Res",
+      "issue": "",
+      "fpage": "3042",
+      "lpage": "52",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1093/nar/gkq1248",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib32": {
+      "type": "article_citation",
+      "id": "article_citation_bib32",
+      "authors": [
+        {
+          "given-names": "SA",
+          "last-name": "Mackler"
+        },
+        {
+          "given-names": "L",
+          "last-name": "Korutla"
+        },
+        {
+          "given-names": "XY",
+          "last-name": "Cha"
+        },
+        {
+          "given-names": "MJ",
+          "last-name": "Koebbe"
+        },
+        {
+          "given-names": "KM",
+          "last-name": "Fournier"
+        },
+        {
+          "given-names": "MS",
+          "last-name": "Bowers"
+        }
+      ],
+      "title": "NAC-1 is a brain POZ/BTB protein that can prevent cocaine-induced sensitization in the rat",
+      "year": "2000",
+      "volume": "20",
+      "source": "J Neurosci",
+      "issue": "",
+      "fpage": "6210",
+      "lpage": "7",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib33": {
+      "type": "article_citation",
+      "id": "article_citation_bib33",
+      "authors": [
+        {
+          "given-names": "RK",
+          "last-name": "Maeda"
+        },
+        {
+          "given-names": "F",
+          "last-name": "Karch"
+        }
+      ],
+      "title": "The ABC of the BX-C: the bithorax complex explained",
+      "year": "2006",
+      "volume": "133",
+      "source": "Development",
+      "issue": "",
+      "fpage": "1413",
+      "lpage": "22",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1242/dev.02323",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib34": {
+      "type": "article_citation",
+      "id": "article_citation_bib34",
+      "authors": [
+        {
+          "given-names": "RK",
+          "last-name": "Maeda"
+        },
+        {
+          "given-names": "F",
+          "last-name": "Karch"
+        }
+      ],
+      "title": "Cis-regulation in the Drosophila Bithorax Complex",
+      "year": "2010",
+      "volume": "689",
+      "source": "Adv Exp Med Biol",
+      "issue": "",
+      "fpage": "17",
+      "lpage": "40",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib35": {
+      "type": "article_citation",
+      "id": "article_citation_bib35",
+      "authors": [
+        {
+          "given-names": "O",
+          "last-name": "Maksimenko"
+        },
+        {
+          "given-names": "A",
+          "last-name": "Golovnin"
+        },
+        {
+          "given-names": "P",
+          "last-name": "Georgiev"
+        }
+      ],
+      "title": "Enhancer-promoter communication is regulated by insulator pairing in a Drosophila model bigenic locus",
+      "year": "2008",
+      "volume": "28",
+      "source": "Mol Cell Biol",
+      "issue": "",
+      "fpage": "5469",
+      "lpage": "77",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1128/MCB.00461-08",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib36": {
+      "type": "article_citation",
+      "id": "article_citation_bib36",
+      "authors": [
+        {
+          "given-names": "J",
+          "last-name": "Mihaly"
+        },
+        {
+          "given-names": "I",
+          "last-name": "Hogga"
+        },
+        {
+          "given-names": "J",
+          "last-name": "Gausz"
+        },
+        {
+          "given-names": "H",
+          "last-name": "Gyurkovics"
+        },
+        {
+          "given-names": "F",
+          "last-name": "Karch"
+        }
+      ],
+      "title": "In situ dissection of the Fab-7 region of the bithorax complex into a chromatin domain boundary and a Polycomb-response element",
+      "year": "1997",
+      "volume": "124",
+      "source": "Development",
+      "issue": "",
+      "fpage": "1809",
+      "lpage": "20",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib37": {
+      "type": "article_citation",
+      "id": "article_citation_bib37",
+      "authors": [
+        {
+          "given-names": "K",
+          "last-name": "Monahan"
+        },
+        {
+          "given-names": "ND",
+          "last-name": "Rudnick"
+        },
+        {
+          "given-names": "PD",
+          "last-name": "Kehayova"
+        },
+        {
+          "given-names": "F",
+          "last-name": "Pauli"
+        },
+        {
+          "given-names": "KM",
+          "last-name": "Newberry"
+        },
+        {
+          "given-names": "RM",
+          "last-name": "Myers"
+        }
+      ],
+      "title": "Role of CCCTC binding factor (CTCF) and cohesin in the generation of single-cell diversity of Protocadherin-alpha gene expression",
+      "year": "2012",
+      "volume": "109",
+      "source": "Proc Natl Acad Sci USA",
+      "issue": "",
+      "fpage": "9125",
+      "lpage": "30",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1073/pnas.1205074109",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib38": {
+      "type": "article_citation",
+      "id": "article_citation_bib38",
+      "authors": [
+        {
+          "given-names": "E",
+          "last-name": "Muravyova"
+        },
+        {
+          "given-names": "A",
+          "last-name": "Golovnin"
+        },
+        {
+          "given-names": "E",
+          "last-name": "Gracheva"
+        },
+        {
+          "given-names": "A",
+          "last-name": "Parshikov"
+        },
+        {
+          "given-names": "T",
+          "last-name": "Belenkaya"
+        },
+        {
+          "given-names": "V",
+          "last-name": "Pirrotta"
+        }
+      ],
+      "title": "Loss of insulator activity by paired Su(Hw) chromatin insulators",
+      "year": "2001",
+      "volume": "291",
+      "source": "Science",
+      "issue": "",
+      "fpage": "495",
+      "lpage": "8",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1126/science.291.5503.495",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib39": {
+      "type": "article_citation",
+      "id": "article_citation_bib39",
+      "authors": [
+        {
+          "given-names": "K",
+          "last-name": "Noma"
+        },
+        {
+          "given-names": "CD",
+          "last-name": "Allis"
+        },
+        {
+          "given-names": "SI",
+          "last-name": "Grewal"
+        }
+      ],
+      "title": "Transitions in distinct histone H3 methylation patterns at the heterochromatin domain boundaries",
+      "year": "2001",
+      "volume": "293",
+      "source": "Science",
+      "issue": "",
+      "fpage": "1150",
+      "lpage": "5",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1126/science.1064150",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib40": {
+      "type": "article_citation",
+      "id": "article_citation_bib40",
+      "authors": [
+        {
+          "given-names": "DE",
+          "last-name": "Nowak"
+        },
+        {
+          "given-names": "B",
+          "last-name": "Tian"
+        },
+        {
+          "given-names": "AR",
+          "last-name": "Brasier"
+        }
+      ],
+      "title": "Two-step cross-linking method for identification of NF-kappaB gene network by chromatin immunoprecipitation",
+      "year": "2005",
+      "volume": "39",
+      "source": "Biotechniques",
+      "issue": "",
+      "fpage": "715",
+      "lpage": "25",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/http://www.biotechniques.com/UrlManager?doi=000112014",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib41": {
+      "type": "article_citation",
+      "id": "article_citation_bib41",
+      "authors": [
+        {
+          "given-names": "C",
+          "last-name": "Ribeiro de Almeida"
+        },
+        {
+          "given-names": "R",
+          "last-name": "Stadhouders"
+        },
+        {
+          "given-names": "MJ",
+          "last-name": "de Bruijn"
+        },
+        {
+          "given-names": "IM",
+          "last-name": "Bergen"
+        },
+        {
+          "given-names": "S",
+          "last-name": "Thongjuea"
+        },
+        {
+          "given-names": "B",
+          "last-name": "Lenhard"
+        }
+      ],
+      "title": "The DNA-binding protein CTCF limits proximal Vkappa recombination and restricts kappa enhancer interactions to the immunoglobulin kappa light chain locus",
+      "year": "2011",
+      "volume": "35",
+      "source": "Immunity",
+      "issue": "",
+      "fpage": "501",
+      "lpage": "13",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/j.immuni.2011.07.014",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib42": {
+      "type": "article_citation",
+      "id": "article_citation_bib42",
+      "authors": [
+        {
+          "given-names": "S",
+          "last-name": "Schweinsberg"
+        },
+        {
+          "given-names": "P",
+          "last-name": "Schedl"
+        }
+      ],
+      "title": "Developmental modulation of Fab-7 boundary function",
+      "year": "2004",
+      "volume": "131",
+      "source": "Development",
+      "issue": "",
+      "fpage": "4743",
+      "lpage": "9",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1242/dev.01343",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib43": {
+      "type": "article_citation",
+      "id": "article_citation_bib43",
+      "authors": [
+        {
+          "given-names": "S",
+          "last-name": "Schweinsberg"
+        },
+        {
+          "given-names": "K",
+          "last-name": "Hagstrom"
+        },
+        {
+          "given-names": "D",
+          "last-name": "Gohl"
+        },
+        {
+          "given-names": "P",
+          "last-name": "Schedl"
+        },
+        {
+          "given-names": "RP",
+          "last-name": "Kumar"
+        },
+        {
+          "given-names": "R",
+          "last-name": "Mishra"
+        }
+      ],
+      "title": "The enhancer-blocking activity of the Fab-7 boundary from the Drosophila bithorax complex requires GAGA-factor-binding sites",
+      "year": "2004",
+      "volume": "168",
+      "source": "Genetics",
+      "issue": "",
+      "fpage": "1371",
+      "lpage": "84",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1534/genetics.104.029561",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib44": {
+      "type": "article_citation",
+      "id": "article_citation_bib44",
+      "authors": [
+        {
+          "given-names": "JB",
+          "last-name": "Singer"
+        },
+        {
+          "given-names": "JA",
+          "last-name": "Lengyel"
+        }
+      ],
+      "title": "Expression and sequence analysis of the Drosophila blastoderm-specific gene bsg25A",
+      "year": "1997",
+      "volume": "197",
+      "source": "Gene",
+      "issue": "",
+      "fpage": "379",
+      "lpage": "82",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib45": {
+      "type": "article_citation",
+      "id": "article_citation_bib45",
+      "authors": [
+        {
+          "given-names": "DL",
+          "last-name": "Tabb"
+        },
+        {
+          "given-names": "WH",
+          "last-name": "McDonald"
+        },
+        {
+          "given-names": "III",
+          "last-name": "Yates"
+        }
+      ],
+      "title": "DTASelect and Contrast: tools for assembling and comparing protein identifications from shotgun proteomics",
+      "year": "2002",
+      "volume": "1",
+      "source": "J Proteome Res",
+      "issue": "",
+      "fpage": "21",
+      "lpage": "6",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib46": {
+      "type": "article_citation",
+      "id": "article_citation_bib46",
+      "authors": [
+        {
+          "given-names": "J",
+          "last-name": "Wang"
+        },
+        {
+          "given-names": "S",
+          "last-name": "Rao"
+        },
+        {
+          "given-names": "J",
+          "last-name": "Chu"
+        },
+        {
+          "given-names": "X",
+          "last-name": "Shen"
+        },
+        {
+          "given-names": "DN",
+          "last-name": "Levasseur"
+        },
+        {
+          "given-names": "TW",
+          "last-name": "Theunissen"
+        }
+      ],
+      "title": "A protein interaction network for pluripotency of embryonic stem cells",
+      "year": "2006",
+      "volume": "444",
+      "source": "Nature",
+      "issue": "",
+      "fpage": "364",
+      "lpage": "8",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1038/nature05284",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib47": {
+      "type": "article_citation",
+      "id": "article_citation_bib47",
+      "authors": [
+        {
+          "given-names": "MP",
+          "last-name": "Washburn"
+        },
+        {
+          "given-names": "D",
+          "last-name": "Wolters"
+        },
+        {
+          "given-names": "III",
+          "last-name": "Yates"
+        }
+      ],
+      "title": "Large-scale analysis of the yeast proteome by multidimensional protein identification technology",
+      "year": "2001",
+      "volume": "19",
+      "source": "Nat Biotechnol",
+      "issue": "",
+      "fpage": "242",
+      "lpage": "7",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1038/85686",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib48": {
+      "type": "article_citation",
+      "id": "article_citation_bib48",
+      "authors": [
+        {
+          "given-names": "M",
+          "last-name": "Witcher"
+        },
+        {
+          "given-names": "BM",
+          "last-name": "Emerson"
+        }
+      ],
+      "title": "Epigenetic silencing of the p16(INK4a) tumor suppressor is associated with loss of CTCF binding and a chromatin boundary",
+      "year": "2009",
+      "volume": "34",
+      "source": "Mol Cell",
+      "issue": "",
+      "fpage": "271",
+      "lpage": "84",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/j.molcel.2009.04.001",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
     },
     "sub-article": {
       "type": "heading",

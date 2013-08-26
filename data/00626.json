@@ -1,0 +1,5014 @@
+{
+  "id": "00626",
+  "nodes": {
+    "content": {
+      "type": "view",
+      "id": "content",
+      "nodes": [
+        "abstract",
+        "paragraph_5",
+        "paragraph_9",
+        "heading_12",
+        "paragraph_13",
+        "paragraph_15",
+        "paragraph_18",
+        "paragraph_19",
+        "paragraph_21",
+        "paragraph_22",
+        "heading_s1",
+        "paragraph_26",
+        "paragraph_35",
+        "paragraph_39",
+        "paragraph_45",
+        "paragraph_52",
+        "heading_s2",
+        "paragraph_58",
+        "paragraph_75",
+        "paragraph_79",
+        "heading_s3",
+        "paragraph_90",
+        "paragraph_96",
+        "paragraph_102",
+        "paragraph_105",
+        "paragraph_112",
+        "paragraph_117",
+        "heading_s4",
+        "heading_s4-1",
+        "paragraph_121",
+        "paragraph_122",
+        "formula_eqn1",
+        "paragraph_128",
+        "formula_eqn2",
+        "paragraph_145",
+        "heading_s4-2",
+        "paragraph_158",
+        "formula_eqn3",
+        "paragraph_168",
+        "formula_eqn4",
+        "paragraph_176",
+        "paragraph_181",
+        "heading_s4-3",
+        "paragraph_186",
+        "formula_eqn5",
+        "paragraph_193",
+        "heading_s4-4",
+        "paragraph_197",
+        "paragraph_200",
+        "heading_s4-5",
+        "paragraph_202",
+        "sub-article",
+        "sub-article"
+      ]
+    },
+    "figures": {
+      "type": "view",
+      "id": "figures",
+      "nodes": [
+        "image_fig1",
+        "supplement_SD1_data",
+        "supplement_SD2_data",
+        "image_fig2",
+        "supplement_SD3_data",
+        "supplement_SD4_data",
+        "table_tbl1"
+      ]
+    },
+    "citations": {
+      "type": "view",
+      "id": "citations",
+      "nodes": [
+        "article_citation_bib1",
+        "article_citation_bib2",
+        "article_citation_bib3",
+        "article_citation_bib4",
+        "article_citation_bib5",
+        "article_citation_bib6",
+        "article_citation_bib7",
+        "article_citation_bib8",
+        "article_citation_bib9",
+        "article_citation_bib10",
+        "article_citation_bib11",
+        "article_citation_bib12",
+        "article_citation_bib13",
+        "article_citation_bib14",
+        "article_citation_bib15",
+        "article_citation_bib16",
+        "article_citation_bib17",
+        "article_citation_bib18",
+        "article_citation_bib19",
+        "article_citation_bib20",
+        "article_citation_bib21",
+        "article_citation_bib22",
+        "article_citation_bib23",
+        "article_citation_bib24",
+        "article_citation_bib25",
+        "article_citation_bib26",
+        "article_citation_bib27",
+        "article_citation_bib28",
+        "article_citation_bib29",
+        "article_citation_bib30",
+        "article_citation_bib31",
+        "article_citation_bib32",
+        "article_citation_bib33",
+        "article_citation_bib34",
+        "article_citation_bib35",
+        "article_citation_bib36",
+        "article_citation_bib37",
+        "article_citation_bib38",
+        "article_citation_bib39",
+        "article_citation_bib40",
+        "article_citation_bib41",
+        "article_citation_bib42",
+        "article_citation_bib43",
+        "article_citation_bib44"
+      ]
+    },
+    "document": {
+      "type": "document",
+      "id": "document",
+      "views": [
+        "content",
+        "figures",
+        "citations"
+      ],
+      "guid": "00626",
+      "title": "Predicting mosquito infection from Plasmodium falciparum gametocyte density and estimating the reservoir of infection",
+      "authors": [
+        "person_author_4024",
+        "person_author_4069",
+        "person_author_4070",
+        "person_author_4071",
+        "person_author_4072",
+        "person_author_4073",
+        "person_author_4074"
+      ],
+      "received_on": "2013-02-11",
+      "accepted_on": "2013-04-09",
+      "published_on": "2013-05-21",
+      "journal": "elife",
+      "article_type": "",
+      "keywords": [
+        "Malaria",
+        "Mathematical Model",
+        "Gametocyte",
+        "Mosquito",
+        "Reservoir of infection"
+      ],
+      "research_organisms": [
+        "Human"
+      ],
+      "subjects": [
+        "Epidemiology and global health"
+      ],
+      "pdf_link": "",
+      "xml_link": "",
+      "json_link": "",
+      "doi": ""
+    },
+    "annotation_1": {
+      "type": "emphasis",
+      "id": "annotation_1",
+      "path": [
+        "document",
+        "title"
+      ],
+      "target": null,
+      "range": [
+        35,
+        56
+      ]
+    },
+    "person_author_4024": {
+      "type": "person",
+      "id": "person_author_4024",
+      "given-names": "Thomas S",
+      "last-name": "Churcher",
+      "role": "author",
+      "affiliations": [],
+      "image": "",
+      "contribution": " Conception and design, Analysis and interpretation of data, Drafting or revising the article",
+      "email": "email_cor1",
+      "funding": []
+    },
+    "person_author_4069": {
+      "type": "person",
+      "id": "person_author_4069",
+      "given-names": "Teun",
+      "last-name": "Bousema",
+      "role": "author",
+      "affiliations": [],
+      "image": "",
+      "contribution": " Conception and design, Drafting or revising the article",
+      "email": "",
+      "funding": []
+    },
+    "person_author_4070": {
+      "type": "person",
+      "id": "person_author_4070",
+      "given-names": "Martin",
+      "last-name": "Walker",
+      "role": "author",
+      "affiliations": [],
+      "image": "",
+      "contribution": " Conception and design, Drafting or revising the article",
+      "email": "",
+      "funding": []
+    },
+    "person_author_4071": {
+      "type": "person",
+      "id": "person_author_4071",
+      "given-names": "Chris",
+      "last-name": "Drakeley",
+      "role": "author",
+      "affiliations": [],
+      "image": "",
+      "contribution": " Conception and design, Drafting or revising the article",
+      "email": "",
+      "funding": []
+    },
+    "person_author_4072": {
+      "type": "person",
+      "id": "person_author_4072",
+      "given-names": "Petra",
+      "last-name": "Schneider",
+      "role": "author",
+      "affiliations": [],
+      "image": "",
+      "contribution": " Acquisition of data, Drafting or revising the article, Contributed unpublished essential data or reagents",
+      "email": "",
+      "funding": []
+    },
+    "person_author_4073": {
+      "type": "person",
+      "id": "person_author_4073",
+      "given-names": "André Lin",
+      "last-name": "Ouédraogo",
+      "role": "author",
+      "affiliations": [],
+      "image": "",
+      "contribution": " Acquisition of data, Drafting or revising the article",
+      "email": "",
+      "funding": [
+        "funding_par_2"
+      ]
+    },
+    "person_author_4074": {
+      "type": "person",
+      "id": "person_author_4074",
+      "given-names": "María-Gloria",
+      "last-name": "Basáñez",
+      "role": "author",
+      "affiliations": [],
+      "image": "",
+      "contribution": " Acquisition of data, Drafting or revising the article, Contributed unpublished essential data or reagents",
+      "email": "",
+      "funding": [
+        "funding_par_1"
+      ]
+    },
+    "institution_aff1": {
+      "type": "institution",
+      "id": "institution_aff1",
+      "name": "Imperial College London",
+      "city": "London",
+      "country": "United Kingdom",
+      "email": "",
+      "image": ""
+    },
+    "institution_aff2": {
+      "type": "institution",
+      "id": "institution_aff2",
+      "name": "Radboud University Nijmegen Medical Centre",
+      "city": "Nijmegen",
+      "country": "The Netherlands",
+      "email": "",
+      "image": ""
+    },
+    "institution_aff3": {
+      "type": "institution",
+      "id": "institution_aff3",
+      "name": "London School of Hygiene and Tropical Medicine",
+      "city": "London",
+      "country": "United Kingdom",
+      "email": "",
+      "image": ""
+    },
+    "institution_aff4": {
+      "type": "institution",
+      "id": "institution_aff4",
+      "name": "University of Edinburgh",
+      "city": "Edinburgh",
+      "country": "United Kingdom",
+      "email": "",
+      "image": ""
+    },
+    "institution_aff5": {
+      "type": "institution",
+      "id": "institution_aff5",
+      "name": "Centre National de Recherche et de Formation sur le Paludisme",
+      "city": "Ouagadougou",
+      "country": "Burkina Faso",
+      "email": "",
+      "image": ""
+    },
+    "person_2": {
+      "type": "person",
+      "id": "person_2",
+      "given-names": "Prabhat",
+      "last-name": "Jha",
+      "role": "editor",
+      "affiliations": [],
+      "image": "",
+      "contribution": "",
+      "email": "",
+      "funding": []
+    },
+    "info:review": {
+      "type": "heading",
+      "id": "info:review",
+      "level": 2,
+      "content": "Reviewing Editor",
+      "nodes": [
+        "person_2"
+      ]
+    },
+    "email_cor1": {
+      "type": "email",
+      "id": "email_cor1",
+      "node": "",
+      "email": "thomas.churcher@imperial.ac.uk"
+    },
+    "info:copyright": {
+      "type": "heading",
+      "id": "info:copyright",
+      "level": 2,
+      "content": "Copyright",
+      "nodes": [
+        "paragraph_3"
+      ]
+    },
+    "paragraph_3": {
+      "type": "paragraph",
+      "id": "paragraph_3",
+      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited.10.7554/eLife.00626.001"
+    },
+    "annotation_4": {
+      "type": "link",
+      "id": "annotation_4",
+      "path": [
+        "paragraph_3",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        51,
+        87
+      ],
+      "url": "http://creativecommons.org/licenses/by/3.0/"
+    },
+    "abstract": {
+      "type": "heading",
+      "id": "abstract",
+      "level": 1,
+      "content": "Abstract",
+      "nodes": []
+    },
+    "paragraph_5": {
+      "type": "paragraph",
+      "id": "paragraph_5",
+      "content": "Transmission reduction is a key component of global efforts to control and eliminate malaria; yet, it is unclear how the density of transmission stages (gametocytes) influences infection (proportion of mosquitoes infected). Human to mosquito transmission was assessed using 171 direct mosquito feeding assays conducted in Burkina Faso and Kenya. Plasmodium falciparum infects Anopheles gambiae efficiently at low densities (4% mosquitoes at 1/µl blood), although substantially more (>200/µl) are required to increase infection further. In a site in Burkina Faso, children harbour more gametocytes than adults though the non-linear relationship between gametocyte density and mosquito infection means that (per person) they only contribute slightly more to transmission. This method can be used to determine the reservoir of infection in different endemic settings. Interventions reducing gametocyte density need to be highly effective in order to halt human–mosquito transmission, although their use can be optimised by targeting those contributing the most to transmission."
+    },
+    "annotation_6": {
+      "type": "emphasis",
+      "id": "annotation_6",
+      "path": [
+        "paragraph_5",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        346,
+        356
+      ]
+    },
+    "annotation_7": {
+      "type": "emphasis",
+      "id": "annotation_7",
+      "path": [
+        "paragraph_5",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        357,
+        367
+      ]
+    },
+    "annotation_8": {
+      "type": "emphasis",
+      "id": "annotation_8",
+      "path": [
+        "paragraph_5",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        376,
+        393
+      ]
+    },
+    "paragraph_9": {
+      "type": "paragraph",
+      "id": "paragraph_9",
+      "content": "DOI: http://dx.doi.org/10.7554/eLife.00626.00110.7554/eLife.00626.002"
+    },
+    "annotation_10": {
+      "type": "strong",
+      "id": "annotation_10",
+      "path": [
+        "paragraph_9",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        4
+      ]
+    },
+    "annotation_11": {
+      "type": "link",
+      "id": "annotation_11",
+      "path": [
+        "paragraph_9",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        5,
+        46
+      ],
+      "url": "10.7554/eLife.00626.001"
+    },
+    "heading_12": {
+      "type": "heading",
+      "id": "heading_12",
+      "level": 0,
+      "content": "eLife digest",
+      "nodes": []
+    },
+    "paragraph_13": {
+      "type": "paragraph",
+      "id": "paragraph_13",
+      "content": "Malaria is one of the world’s most deadly infectious diseases. The most severe form is caused by the parasite Plasmodium falciparum, which can reside within red blood cells and thus evade the human immune system."
+    },
+    "annotation_14": {
+      "type": "emphasis",
+      "id": "annotation_14",
+      "path": [
+        "paragraph_13",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        110,
+        131
+      ]
+    },
+    "paragraph_15": {
+      "type": "paragraph",
+      "id": "paragraph_15",
+      "content": "Plasmodium is transmitted between humans by mosquitoes. When a mosquito takes a blood meal from an individual infected with the parasite, the insect ingests Plasmodium gametocytes (i.e., eggs and sperm), and these go on to reproduce in the gut of the mosquito. These parasites then move to the mosquito’s salivary glands, to be injected into the next person whom the mosquito bites."
+    },
+    "annotation_16": {
+      "type": "emphasis",
+      "id": "annotation_16",
+      "path": [
+        "paragraph_15",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        10
+      ]
+    },
+    "annotation_17": {
+      "type": "emphasis",
+      "id": "annotation_17",
+      "path": [
+        "paragraph_15",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        157,
+        167
+      ]
+    },
+    "paragraph_18": {
+      "type": "paragraph",
+      "id": "paragraph_18",
+      "content": "Although malaria is both preventable and curable, the mortality rates in many African countries remain high, especially among children. Reducing the transmission of malaria to mosquitoes is one of the primary goals in the global effort to control and eliminate the disease. While a range of drugs and vaccines that specifically try to reduce transmission are in development, non-medical interventions such as mosquito nets and insecticide spraying can quickly and effectively reduce infection rates."
+    },
+    "paragraph_19": {
+      "type": "paragraph",
+      "id": "paragraph_19",
+      "content": "Here, Churcher et al. examine the dynamics of human to mosquito transmission of P. falciparum, and report that the ease with which mosquitoes become infected is not directly proportional to the density of parasite gametocytes in human blood. They found that the transmission occurs readily at very low gametocyte densities. Moreover, the transmission rate remains relatively stable as the density increases, before increasing significantly when the density reaches around 200 cells per microlitre."
+    },
+    "annotation_20": {
+      "type": "emphasis",
+      "id": "annotation_20",
+      "path": [
+        "paragraph_19",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        80,
+        93
+      ]
+    },
+    "paragraph_21": {
+      "type": "paragraph",
+      "id": "paragraph_21",
+      "content": "Churcher et al. also challenge the assumption that children are mostly responsible for transmitting the malaria parasite by suggesting that, in certain locations, there is a more significant role for adults than previously assumed. By identifying the groups that contribute most to transmission, and targeting resources to reduce gametocyte density in those individuals, it could be possible to greatly reduce the number of infected mosquitoes and, therefore, the number of infected humans."
+    },
+    "paragraph_22": {
+      "type": "paragraph",
+      "id": "paragraph_22",
+      "content": "DOI: http://dx.doi.org/10.7554/eLife.00626.002"
+    },
+    "annotation_23": {
+      "type": "strong",
+      "id": "annotation_23",
+      "path": [
+        "paragraph_22",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        4
+      ]
+    },
+    "annotation_24": {
+      "type": "link",
+      "id": "annotation_24",
+      "path": [
+        "paragraph_22",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        5,
+        46
+      ],
+      "url": "10.7554/eLife.00626.002"
+    },
+    "funding_par_1": {
+      "type": "funding",
+      "id": "funding_par_1",
+      "institution": "European Commission FP7 Collaborative Project",
+      "accession": "HEALTH-F3-2008-223736",
+      "person": "person_author_4074",
+      "given-names": "María-Gloria",
+      "last-name": "Basáñez"
+    },
+    "funding_par_2": {
+      "type": "funding",
+      "id": "funding_par_2",
+      "institution": "AFIRM grant from the Bill & Melinda Gates Foundation",
+      "accession": "OPP1034789",
+      "person": "person_author_4073",
+      "given-names": "André Lin",
+      "last-name": "Ouédraogo"
+    },
+    "info:impact": {
+      "type": "heading",
+      "id": "info:impact",
+      "level": 2,
+      "content": "ImpactAuthor impact statementIdentifying and treating those groups of individuals that are most likely to transmit the malaria parasite to mosquitoes could help to control the spread of the disease.",
+      "nodes": [
+        "paragraph_25"
+      ]
+    },
+    "paragraph_25": {
+      "type": "paragraph",
+      "id": "paragraph_25",
+      "content": ""
+    },
+    "heading_s1": {
+      "type": "heading",
+      "id": "heading_s1",
+      "level": 1,
+      "content": "Introduction",
+      "nodes": []
+    },
+    "paragraph_26": {
+      "type": "paragraph",
+      "id": "paragraph_26",
+      "content": "The malaria parasite is transmitted among humans by anopheline mosquitoes. Male and female transmission stages (gametocytes) are ingested by the mosquito and reproduce sexually in its stomach before developing into oocysts. Once oocysts establish, it is assumed that mosquitoes will form infectious sporozoites, so the proportion of mosquitoes developing oocysts is used as a measure of mosquito infectivity. In the human malaria parasite Plasmodium falciparum, mosquito infection is thought to increase with the number of gametocytes ingested by the mosquito (Jeffery and Eyles, 1955; Graves et al., 1988; Bousema and Drakeley, 2011). However, several studies have failed to find an association (Boudin et al., 1993; Haji et al., 1996), and the precise shape of the relationship has never been rigorously quantified, particularly at very low gametocyte densities. Difficulties arise because estimates of gametocyte density have relied on microscopy, which may miss up to 80% of parasites (Dowling and Shute, 1966). More sensitive molecular methods such as Pfs25mRNA quantitative nucleic acid sequence–based amplification (QT-NASBA) have been developed (Schneider et al., 2004). Unlike conventional microscopy, this technique enables gametocyte densities to be quantified over the entire epidemiologically relevant range."
+    },
+    "annotation_27": {
+      "type": "emphasis",
+      "id": "annotation_27",
+      "path": [
+        "paragraph_26",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        439,
+        460
+      ]
+    },
+    "citation_reference_28": {
+      "type": "citation_reference",
+      "id": "citation_reference_28",
+      "path": [
+        "paragraph_26",
+        "content"
+      ],
+      "target": "article_citation_bib23",
+      "range": [
+        561,
+        584
+      ]
+    },
+    "citation_reference_29": {
+      "type": "citation_reference",
+      "id": "citation_reference_29",
+      "path": [
+        "paragraph_26",
+        "content"
+      ],
+      "target": "article_citation_bib17",
+      "range": [
+        586,
+        605
+      ]
+    },
+    "citation_reference_30": {
+      "type": "citation_reference",
+      "id": "citation_reference_30",
+      "path": [
+        "paragraph_26",
+        "content"
+      ],
+      "target": "article_citation_bib6",
+      "range": [
+        607,
+        633
+      ]
+    },
+    "citation_reference_31": {
+      "type": "citation_reference",
+      "id": "citation_reference_31",
+      "path": [
+        "paragraph_26",
+        "content"
+      ],
+      "target": "article_citation_bib4",
+      "range": [
+        697,
+        716
+      ]
+    },
+    "citation_reference_32": {
+      "type": "citation_reference",
+      "id": "citation_reference_32",
+      "path": [
+        "paragraph_26",
+        "content"
+      ],
+      "target": "article_citation_bib20",
+      "range": [
+        718,
+        735
+      ]
+    },
+    "citation_reference_33": {
+      "type": "citation_reference",
+      "id": "citation_reference_33",
+      "path": [
+        "paragraph_26",
+        "content"
+      ],
+      "target": "article_citation_bib11",
+      "range": [
+        990,
+        1013
+      ]
+    },
+    "citation_reference_34": {
+      "type": "citation_reference",
+      "id": "citation_reference_34",
+      "path": [
+        "paragraph_26",
+        "content"
+      ],
+      "target": "article_citation_bib38",
+      "range": [
+        1154,
+        1176
+      ]
+    },
+    "paragraph_35": {
+      "type": "paragraph",
+      "id": "paragraph_35",
+      "content": "Transmission reduction is now a key component of global efforts to control and eliminate malaria (Alonso et al., 2011). A wide range of novel transmission-reducing drugs and vaccines are currently under development, which aim to reduce malaria incidence by restricting human to mosquito transmission. The transmission-reducing ability of front-line therapeutics (such as artemisinin-based combination therapies [ACTs], or potential combinations of ACTs with gametocytocidal drugs) is also gaining increased attention (WHO, 2012; White, 2013). It is likely that these interventions will be partially effective, but it remains unclear how much they need to reduce transmission from humans to mosquitoes in a particular location, and to which age groups they should be delivered in order to halt malaria transmission."
+    },
+    "citation_reference_36": {
+      "type": "citation_reference",
+      "id": "citation_reference_36",
+      "path": [
+        "paragraph_35",
+        "content"
+      ],
+      "target": "article_citation_bib1",
+      "range": [
+        98,
+        117
+      ]
+    },
+    "citation_reference_37": {
+      "type": "citation_reference",
+      "id": "citation_reference_37",
+      "path": [
+        "paragraph_35",
+        "content"
+      ],
+      "target": "article_citation_bib44",
+      "range": [
+        518,
+        527
+      ]
+    },
+    "citation_reference_38": {
+      "type": "citation_reference",
+      "id": "citation_reference_38",
+      "path": [
+        "paragraph_35",
+        "content"
+      ],
+      "target": "article_citation_bib43",
+      "range": [
+        529,
+        540
+      ]
+    },
+    "paragraph_39": {
+      "type": "paragraph",
+      "id": "paragraph_39",
+      "content": "Mathematical models of malaria transmission tend not to include explicitly the relationship between gametocytaemia and mosquito infectivity, opting, for simplicity, to assume density-independent transmission probabilities (Smith et al., 2007; Griffin et al., 2010), or fit functions to the relationship between the number of asexual parasites and the probability of a blood-feeding mosquito becoming infected (Ross et al., 2006). Greater complexity, however, will be required to capture fully malaria population dynamics following the introduction of drugs and vaccines that specifically target transmission stages. For example, the World Health Organization (WHO) has recently recommended that in pre-elimination or elimination malaria programmes, single-dose primaquine (0·25 mg base per kg) with an ACT should be given to all patients with falciparum malaria except pregnant women and infants <1 year old (WHO, 2012). More detailed mathematical models will allow the full impact of this change in strategy to be assessed in a range of different endemic settings."
+    },
+    "citation_reference_40": {
+      "type": "citation_reference",
+      "id": "citation_reference_40",
+      "path": [
+        "paragraph_39",
+        "content"
+      ],
+      "target": "article_citation_bib41",
+      "range": [
+        223,
+        241
+      ]
+    },
+    "citation_reference_41": {
+      "type": "citation_reference",
+      "id": "citation_reference_41",
+      "path": [
+        "paragraph_39",
+        "content"
+      ],
+      "target": "article_citation_bib19",
+      "range": [
+        243,
+        263
+      ]
+    },
+    "citation_reference_42": {
+      "type": "citation_reference",
+      "id": "citation_reference_42",
+      "path": [
+        "paragraph_39",
+        "content"
+      ],
+      "target": "article_citation_bib35",
+      "range": [
+        410,
+        427
+      ]
+    },
+    "annotation_43": {
+      "type": "emphasis",
+      "id": "annotation_43",
+      "path": [
+        "paragraph_39",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        843,
+        853
+      ]
+    },
+    "citation_reference_44": {
+      "type": "citation_reference",
+      "id": "citation_reference_44",
+      "path": [
+        "paragraph_39",
+        "content"
+      ],
+      "target": "article_citation_bib44",
+      "range": [
+        909,
+        918
+      ]
+    },
+    "paragraph_45": {
+      "type": "paragraph",
+      "id": "paragraph_45",
+      "content": "The optimal use of transmission-reducing interventions will also require a better understanding of the human reservoir of infection, which is likely to vary between different endemic settings. Various studies have attempted to estimate the relative contribution of different age groups to mosquito infection using skin or membrane feeding assays (Muirhead-Thomson, 1957; Graves et al., 1988; Boudin et al., 1991; Githeko et al., 1992; Drakeley et al., 2000; Bonnet et al., 2003). These studies are logistically complicated and expensive, so more efficient methods of determining the reservoir of infection are required in order to target interventions optimally. A thorough understanding of the factors determining mosquito infection would allow mathematical models to predict the relative contribution of different groups to transmission from cross-sectional surveys, both before and after the introduction of transmission-reducing interventions."
+    },
+    "citation_reference_46": {
+      "type": "citation_reference",
+      "id": "citation_reference_46",
+      "path": [
+        "paragraph_45",
+        "content"
+      ],
+      "target": "article_citation_bib28",
+      "range": [
+        347,
+        369
+      ]
+    },
+    "citation_reference_47": {
+      "type": "citation_reference",
+      "id": "citation_reference_47",
+      "path": [
+        "paragraph_45",
+        "content"
+      ],
+      "target": "article_citation_bib17",
+      "range": [
+        371,
+        390
+      ]
+    },
+    "citation_reference_48": {
+      "type": "citation_reference",
+      "id": "citation_reference_48",
+      "path": [
+        "paragraph_45",
+        "content"
+      ],
+      "target": "article_citation_bib3",
+      "range": [
+        392,
+        411
+      ]
+    },
+    "citation_reference_49": {
+      "type": "citation_reference",
+      "id": "citation_reference_49",
+      "path": [
+        "paragraph_45",
+        "content"
+      ],
+      "target": "article_citation_bib16",
+      "range": [
+        413,
+        433
+      ]
+    },
+    "citation_reference_50": {
+      "type": "citation_reference",
+      "id": "citation_reference_50",
+      "path": [
+        "paragraph_45",
+        "content"
+      ],
+      "target": "article_citation_bib12",
+      "range": [
+        435,
+        456
+      ]
+    },
+    "citation_reference_51": {
+      "type": "citation_reference",
+      "id": "citation_reference_51",
+      "path": [
+        "paragraph_45",
+        "content"
+      ],
+      "target": "article_citation_bib2",
+      "range": [
+        458,
+        477
+      ]
+    },
+    "paragraph_52": {
+      "type": "paragraph",
+      "id": "paragraph_52",
+      "content": "This article uses data from mosquito feeding assays conducted in Burkina Faso (Ouédraogo et al., 2009, Dryad: Ouédraogo et al., 2013) and Kenya (Schneider et al., 2007, Dryad: Schneider et al., 2013) to estimate the shape of the relationship between gametocyte density and mosquito infection (processed data available at Dryad, Churcher et al., 2013). Other covariates that may influence infection such as asexual parasite density (measured by microscopy) and host age were also included to improve predictions of human to mosquito transmission. These results are combined with data from a cross-sectional survey conducted in a high transmission setting in Burkina Faso to predict the relative contribution of different age groups to overall malaria transmission."
+    },
+    "citation_reference_53": {
+      "type": "citation_reference",
+      "id": "citation_reference_53",
+      "path": [
+        "paragraph_52",
+        "content"
+      ],
+      "target": "article_citation_bib32",
+      "range": [
+        79,
+        101
+      ]
+    },
+    "citation_reference_54": {
+      "type": "citation_reference",
+      "id": "citation_reference_54",
+      "path": [
+        "paragraph_52",
+        "content"
+      ],
+      "target": "article_citation_bib33",
+      "range": [
+        110,
+        132
+      ]
+    },
+    "citation_reference_55": {
+      "type": "citation_reference",
+      "id": "citation_reference_55",
+      "path": [
+        "paragraph_52",
+        "content"
+      ],
+      "target": "article_citation_bib37",
+      "range": [
+        145,
+        167
+      ]
+    },
+    "citation_reference_56": {
+      "type": "citation_reference",
+      "id": "citation_reference_56",
+      "path": [
+        "paragraph_52",
+        "content"
+      ],
+      "target": "article_citation_bib39",
+      "range": [
+        176,
+        198
+      ]
+    },
+    "citation_reference_57": {
+      "type": "citation_reference",
+      "id": "citation_reference_57",
+      "path": [
+        "paragraph_52",
+        "content"
+      ],
+      "target": "article_citation_bib10",
+      "range": [
+        328,
+        349
+      ]
+    },
+    "heading_s2": {
+      "type": "heading",
+      "id": "heading_s2",
+      "level": 1,
+      "content": "Results",
+      "nodes": []
+    },
+    "paragraph_58": {
+      "type": "paragraph",
+      "id": "paragraph_58",
+      "content": "The relationship between the number of gametocytes in the blood and mosquito infection was found to be highly non-linear (Figure 1A). Plasmodium falciparum infects mosquitoes at the very low gametocyte densities that predominate in natural infections and may not be detected using standard microscopy (Bousema and Drakeley, 2011). Infection rises rapidly with increasing gametocyte density, and by 1 gametocyte per microlitre, ∼4% (95% Bayesian credible interval [CI], 3–5%) of all mosquitoes develop oocysts. The subsequent increase in infection with increasing gametocyte density is best described by the Gompertz model (deviance information criterion [DIC] = 1034), which gave a significantly better fit than the linear (DIC = 1073), power (DIC = 1059), or hyperbolic (DIC = 1062) functions (Figure 1A). The best-fit model predicts that increasing density from 1 to 200 gametocytes per microlitre does not appreciably increase infection. Beyond 200 gametocytes per microlitre, infection rises again to finally plateau at ∼18% infected mosquitoes. Gametocyte density on an arithmetic scale was a better predictor of mosquito infection than gametocyte density on a logarithmic scale. Including information on the host’s asexual parasite density significantly improved model fit. Children with asexual parasite densities between 1 and 1000 parasites per microlitre were on average 27% (CI, 19–58%) less infectious to mosquitoes than those with no detectable asexual parasites, whereas those with asexual densities >1000 µl−1 were 77% (CI, 14–140%) more infectious. Including age improves the fit of the model suggesting that age is an important confounder, although the Bayesian credible intervals include 0. Children >6 years old were 15% (CI, 24–64%) more likely to infect mosquitoes than those of younger ages, whereas no difference in the relationship between gametocyte density and mosquito infection was detected between Burkina Faso and Kenya."
+    },
+    "figure_reference_59": {
+      "type": "figure_reference",
+      "id": "figure_reference_59",
+      "path": [
+        "paragraph_58",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        122,
+        131
+      ]
+    },
+    "annotation_60": {
+      "type": "emphasis",
+      "id": "annotation_60",
+      "path": [
+        "paragraph_58",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        134,
+        144
+      ]
+    },
+    "annotation_61": {
+      "type": "emphasis",
+      "id": "annotation_61",
+      "path": [
+        "paragraph_58",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        145,
+        155
+      ]
+    },
+    "citation_reference_62": {
+      "type": "citation_reference",
+      "id": "citation_reference_62",
+      "path": [
+        "paragraph_58",
+        "content"
+      ],
+      "target": "article_citation_bib6",
+      "range": [
+        302,
+        328
+      ]
+    },
+    "figure_reference_63": {
+      "type": "figure_reference",
+      "id": "figure_reference_63",
+      "path": [
+        "paragraph_58",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        795,
+        804
+      ]
+    },
+    "annotation_64": {
+      "type": "superscript",
+      "id": "annotation_64",
+      "path": [
+        "paragraph_58",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1522,
+        1524
+      ]
+    },
+    "image_fig1": {
+      "type": "image",
+      "id": "image_fig1",
+      "label": "Figure 1.",
+      "url": "",
+      "object_id": "F1",
+      "title": "The relationship between gametocyte density and mosquito infection and the impact this will have on the effectiveness of gametocytocidal interventions.",
+      "content_type": "",
+      "large_url": "",
+      "content": "",
+      "group": [
+        "parent",
+        null
+      ],
+      "doi": "http://dx.doi.org/10.7554/eLife.00626.003",
+      "caption": "paragraph_image_fig1"
+    },
+    "paragraph_image_fig1": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig1",
+      "content": "(A) The relationship between Plasmodium falciparum gametocyte density and the percentage of Anopheles gambiae mosquitoes that develop oocysts. Point colour, shading, and shape denote characteristics of the blood donor, such as location (blue = Burkina Faso; red = Kenya), asexual parasite density as measured by microscopy (no fill colour = none detectable, light shading = 1–1000 parasites per microlitre, dark shading ≥1000 µl−1), or host age (<6 years old = square, ≥6 years old = circle). The size of the point is proportional to the number of mosquitoes dissected. Coloured horizontal and vertical lines indicate 95% Bayesian credible intervals (CIs) around point estimates. The solid black line indicates the best-fit model, whereas the grey shaded area indicates the uncertainty around this line. The inset shows the relationship at very low gametocyte densities (on a logarithmic scale). The outputs show the shape of the relationship for a child with no detectable asexual parasites. A full description of data used to fit the model are given in Figure 1—source data 1. Regression coefficients and a measure of goodness-of-fit of the different models are given in Figure 1—source data 2. Panel (B) shows how efficacious transmission-reducing interventions would need to be (on the vertical axis) at decreasing gametocyte density in order to reduce human to mosquito transmission (contour lines). The best-fit line from (A) is used to illustrate the percentage reduction in mosquito infection that would be achieved according to the pre-intervention host’s gametocyte density (on the horizontal axis) for an intervention, which reduces gametocyte density by a given percentage (which is assumed to be constant over different gametocyte densities). The colours represent the percentage reduction in mosquito infection that would be achieved, ranging from red (low, 0–10% reduction) to darker hues of blue (high, 70–80% and 80–90% reduction, see legend). The 90–100% reduction in transmission is hardly visible and would correspond to nearly 100% efficacious interventions at the top of the graph."
+    },
+    "annotation_65": {
+      "type": "strong",
+      "id": "annotation_65",
+      "path": [
+        "paragraph_image_fig1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1,
+        2
+      ]
+    },
+    "annotation_66": {
+      "type": "emphasis",
+      "id": "annotation_66",
+      "path": [
+        "paragraph_image_fig1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        29,
+        50
+      ]
+    },
+    "annotation_67": {
+      "type": "emphasis",
+      "id": "annotation_67",
+      "path": [
+        "paragraph_image_fig1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        92,
+        109
+      ]
+    },
+    "annotation_68": {
+      "type": "superscript",
+      "id": "annotation_68",
+      "path": [
+        "paragraph_image_fig1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        428,
+        430
+      ]
+    },
+    "figure_reference_69": {
+      "type": "figure_reference",
+      "id": "figure_reference_69",
+      "path": [
+        "paragraph_image_fig1",
+        "content"
+      ],
+      "target": "supplement_SD1_data",
+      "range": [
+        1055,
+        1077
+      ]
+    },
+    "figure_reference_70": {
+      "type": "figure_reference",
+      "id": "figure_reference_70",
+      "path": [
+        "paragraph_image_fig1",
+        "content"
+      ],
+      "target": "supplement_SD2_data",
+      "range": [
+        1173,
+        1195
+      ]
+    },
+    "annotation_71": {
+      "type": "strong",
+      "id": "annotation_71",
+      "path": [
+        "paragraph_image_fig1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1204,
+        1205
+      ]
+    },
+    "annotation_72": {
+      "type": "strong",
+      "id": "annotation_72",
+      "path": [
+        "paragraph_image_fig1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1429,
+        1430
+      ]
+    },
+    "supplement_SD1_data": {
+      "type": "supplement",
+      "id": "supplement_SD1_data",
+      "label": "Figure 1—source data 1.",
+      "source": "",
+      "title": "Description of the direct feeding assay data used to estimate mosquito infection.",
+      "caption": "paragraph_supplement_SD1_data",
+      "content": "",
+      "doi": "",
+      "graphic_id": "elife00626s001.docx"
+    },
+    "paragraph_supplement_SD1_data": {
+      "type": "paragraph",
+      "id": "paragraph_supplement_SD1_data",
+      "content": "DOI: http://dx.doi.org/10.7554/eLife.00626.004"
+    },
+    "annotation_73": {
+      "type": "strong",
+      "id": "annotation_73",
+      "path": [
+        "paragraph_supplement_SD1_data",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        4
+      ]
+    },
+    "annotation_74": {
+      "type": "link",
+      "id": "annotation_74",
+      "path": [
+        "paragraph_supplement_SD1_data",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        5,
+        46
+      ],
+      "url": "10.7554/eLife.00626.004"
+    },
+    "supplement_SD2_data": {
+      "type": "supplement",
+      "id": "supplement_SD2_data",
+      "label": "Figure 1—source data 2.",
+      "source": "",
+      "title": "Best-fit model and parameters.",
+      "caption": "paragraph_supplement_SD2_data",
+      "content": "",
+      "doi": "http://dx.doi.org/10.7554/eLife.00626.005",
+      "graphic_id": "elife00626f001"
+    },
+    "paragraph_supplement_SD2_data": {
+      "type": "paragraph",
+      "id": "paragraph_supplement_SD2_data",
+      "content": "Lower DIC values indicate a more parsimonious fit to the data. All models were fitted with gametocyte density on the arithmetic scale. There was no evidence of any difference between study sites (DIC of best-fit model allowing mosquito infection to vary between study location = 1042). The best-fit model on the logarithmic scale was the Gompertz model (DIC = 1053)."
+    },
+    "paragraph_75": {
+      "type": "paragraph",
+      "id": "paragraph_75",
+      "content": "The complex shape of the relationship between gametocyte density and mosquito infection will influence the success of transmission-reducing interventions and may explain why their ability to reduce the proportion of infected mosquitoes has been shown to depend on the gametocyte density of the host (Churcher et al., 2012). For example, reducing gametocyte density by 99% in a host with 200 gametocytes per microlitre may not have much effect on their immediate contribution to transmission (Figure 1B), although it will probably reduce the duration of infectivity. The same intervention efficacy at reducing gametocyte density in a host with 300 gametocytes per microlitre would cause an appreciable reduction in human to mosquito transmission from that individual. Figure 1B can be used to estimate how a reduction in the number of gametocytes will equate to a reduction in the proportion of mosquitoes becoming infected, and hence mosquito to human transmission. How this relates to the incidence of malaria and subsequent disease will depend, in part, on the degree of immunity in the human population."
+    },
+    "citation_reference_76": {
+      "type": "citation_reference",
+      "id": "citation_reference_76",
+      "path": [
+        "paragraph_75",
+        "content"
+      ],
+      "target": "article_citation_bib9",
+      "range": [
+        300,
+        321
+      ]
+    },
+    "figure_reference_77": {
+      "type": "figure_reference",
+      "id": "figure_reference_77",
+      "path": [
+        "paragraph_75",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        492,
+        501
+      ]
+    },
+    "figure_reference_78": {
+      "type": "figure_reference",
+      "id": "figure_reference_78",
+      "path": [
+        "paragraph_75",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        767,
+        776
+      ]
+    },
+    "paragraph_79": {
+      "type": "paragraph",
+      "id": "paragraph_79",
+      "content": "In the cross-sectional survey in Burkina Faso, children harbour more gametocytes than adults, with 10 year olds having five times as many gametocytes compared to the 50 year olds (Figure 2A). However, the relationship between gametocyte density and mosquito infection established here means that adults are only 37% less likely to infect mosquitoes (infecting on average 3.5% of them, Figure 2B). Results indicate that, at the time of the survey conducted in Burkina Faso, the peak in the reservoir of infection occurs at an earlier age than the peak in gametocyte density, which will improve the (cost) effectiveness of school-based programmes."
+    },
+    "figure_reference_80": {
+      "type": "figure_reference",
+      "id": "figure_reference_80",
+      "path": [
+        "paragraph_79",
+        "content"
+      ],
+      "target": "image_fig2",
+      "range": [
+        180,
+        189
+      ]
+    },
+    "figure_reference_81": {
+      "type": "figure_reference",
+      "id": "figure_reference_81",
+      "path": [
+        "paragraph_79",
+        "content"
+      ],
+      "target": "image_fig2",
+      "range": [
+        385,
+        394
+      ]
+    },
+    "image_fig2": {
+      "type": "image",
+      "id": "image_fig2",
+      "label": "Figure 2.",
+      "url": "",
+      "object_id": "F2",
+      "title": "Age patterns of gametocyte density and estimates of the age profile of the human reservoir of infection.",
+      "content_type": "",
+      "large_url": "",
+      "content": "",
+      "group": [
+        "parent",
+        null
+      ],
+      "doi": "http://dx.doi.org/10.7554/eLife.00626.006",
+      "caption": "paragraph_image_fig2"
+    },
+    "paragraph_image_fig2": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig2",
+      "content": "(A) Results from a cross-sectional survey conducted in a high transmission setting in Burkina Faso showing how the mean number of gametocytes per microlitre of blood (including 0s) changes with host age. The distribution of gametocytes among hosts is highly overdispersed. A full description of data used to fit the model are given in Figure 2—source data 1 with the best-fit parameter estimates shown in Figure 2—source data 2. The relationship between gametocyte density and oocyst prevalence shown in Figure 1A is used to predict the percentage of mosquitoes that will become infected after biting a host of a certain age. This is shown in panel (B), which can be interpreted as the contribution of each age group towards the human to mosquito transmission. In both figures, the black solid line shows the best-fit model and the grey shaded area indicates the uncertainty (95% Bayesian credible Interval, CI) having fitted the model to the individual data (a total of 412 individuals). For illustrative purposes, the data are grouped into seven bins, namely 0–5, 5–10, 10–15, 15–20, 20–30, 30–40, 40–50, and ≥50 year olds, and the size of the point is proportional to the number of individuals in the group. In Figure 1A, the 10–15 and 15–20 year groups appear lower than the best-fit line due to sampling artefacts generated by the highly overdispersed data. Vertical lines indicate the 95% CI around grouped estimates."
+    },
+    "annotation_82": {
+      "type": "strong",
+      "id": "annotation_82",
+      "path": [
+        "paragraph_image_fig2",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1,
+        2
+      ]
+    },
+    "figure_reference_83": {
+      "type": "figure_reference",
+      "id": "figure_reference_83",
+      "path": [
+        "paragraph_image_fig2",
+        "content"
+      ],
+      "target": "supplement_SD3_data",
+      "range": [
+        335,
+        357
+      ]
+    },
+    "figure_reference_84": {
+      "type": "figure_reference",
+      "id": "figure_reference_84",
+      "path": [
+        "paragraph_image_fig2",
+        "content"
+      ],
+      "target": "supplement_SD4_data",
+      "range": [
+        405,
+        427
+      ]
+    },
+    "figure_reference_85": {
+      "type": "figure_reference",
+      "id": "figure_reference_85",
+      "path": [
+        "paragraph_image_fig2",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        504,
+        513
+      ]
+    },
+    "annotation_86": {
+      "type": "strong",
+      "id": "annotation_86",
+      "path": [
+        "paragraph_image_fig2",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        650,
+        651
+      ]
+    },
+    "figure_reference_87": {
+      "type": "figure_reference",
+      "id": "figure_reference_87",
+      "path": [
+        "paragraph_image_fig2",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        1214,
+        1223
+      ]
+    },
+    "supplement_SD3_data": {
+      "type": "supplement",
+      "id": "supplement_SD3_data",
+      "label": "Figure 2—source data 1.",
+      "source": "",
+      "title": "Description of the cross-sectional survey on 412 hosts carried out in Burkina Faso.",
+      "caption": "paragraph_supplement_SD3_data",
+      "content": "",
+      "doi": "http://dx.doi.org/10.7554/eLife.00626.007",
+      "graphic_id": "elife00626s003.docx"
+    },
+    "paragraph_supplement_SD3_data": {
+      "type": "paragraph",
+      "id": "paragraph_supplement_SD3_data",
+      "content": "Asexual parasite density was estimated by microscopy while gametocyte density was estimated using QT-NASBA."
+    },
+    "supplement_SD4_data": {
+      "type": "supplement",
+      "id": "supplement_SD4_data",
+      "label": "Figure 2—source data 2.",
+      "source": "",
+      "title": "Parameter estimates for the age profile of gametocyte density and the force of infection.",
+      "caption": "paragraph_supplement_SD4_data",
+      "content": "",
+      "doi": "",
+      "graphic_id": "elife00626f002"
+    },
+    "paragraph_supplement_SD4_data": {
+      "type": "paragraph",
+      "id": "paragraph_supplement_SD4_data",
+      "content": "DOI: http://dx.doi.org/10.7554/eLife.00626.008"
+    },
+    "annotation_88": {
+      "type": "strong",
+      "id": "annotation_88",
+      "path": [
+        "paragraph_supplement_SD4_data",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        4
+      ]
+    },
+    "annotation_89": {
+      "type": "link",
+      "id": "annotation_89",
+      "path": [
+        "paragraph_supplement_SD4_data",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        5,
+        46
+      ],
+      "url": "10.7554/eLife.00626.008"
+    },
+    "heading_s3": {
+      "type": "heading",
+      "id": "heading_s3",
+      "level": 1,
+      "content": "Discussion",
+      "nodes": []
+    },
+    "paragraph_90": {
+      "type": "paragraph",
+      "id": "paragraph_90",
+      "content": "The complex shape of the relationship between gametocyte density and mosquito infection elucidated here will influence our understanding of the population dynamics of falciparum malaria and will determine the success of transmission-reducing interventions. The efficiency with which P. falciparum gametocytes can infect mosquitoes means that transmission-reducing interventions, which reduce gametocyte density, will need to be highly effective in order to reduce human–mosquito transmission. Gametocytes can infect mosquitoes at very low densities, despite the mosquito needing to ingest both male and female parasites in the same blood meal. Substantial transmission was seen from hosts with <1 gametocyte per microlitre of blood. After this initial increase in infection, considerably more gametocytes are required in order to increase further the proportion of mosquitoes developing oocysts. The causes of this are unclear, but experimental systems may be informative. Data from the rodent malaria model Plasmodium berghei (Sinden et al., 2007) suggest that the phenomenon could be associated with parasite mortality during penetration of the mosquito gut wall or due to the mosquito’s immune response. Beyond 200 gametocytes per microlitre mosquito infection rises again (although QT-NASBA measurement error makes the exact gametocyte density for this transition relatively uncertain). If an intervention can keep gametocyte density beneath 200 gametocytes per microlitre in a low transmission area, it may be sufficient to push the basic reproduction number of malaria beneath one and eliminate the disease. However, the highly overdispersed distribution of gametocytes between hosts (adequately described by the negative binomial distribution) means that in the population from Burkina Faso, 30% of transmission comes from hosts with densities beneath the microscopy detection threshold of 16 gametocytes per microlitre. This means that evaluating interventions solely on their ability to reduce microscopically detectable gametocytes, as has been suggested (Graves et al., 2012), may give misleading results."
+    },
+    "annotation_91": {
+      "type": "emphasis",
+      "id": "annotation_91",
+      "path": [
+        "paragraph_90",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        167,
+        177
+      ]
+    },
+    "annotation_92": {
+      "type": "emphasis",
+      "id": "annotation_92",
+      "path": [
+        "paragraph_90",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        283,
+        296
+      ]
+    },
+    "annotation_93": {
+      "type": "emphasis",
+      "id": "annotation_93",
+      "path": [
+        "paragraph_90",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1008,
+        1026
+      ]
+    },
+    "citation_reference_94": {
+      "type": "citation_reference",
+      "id": "citation_reference_94",
+      "path": [
+        "paragraph_90",
+        "content"
+      ],
+      "target": "article_citation_bib40",
+      "range": [
+        1028,
+        1047
+      ]
+    },
+    "citation_reference_95": {
+      "type": "citation_reference",
+      "id": "citation_reference_95",
+      "path": [
+        "paragraph_90",
+        "content"
+      ],
+      "target": "article_citation_bib18",
+      "range": [
+        2066,
+        2085
+      ]
+    },
+    "paragraph_96": {
+      "type": "paragraph",
+      "id": "paragraph_96",
+      "content": "Including information on asexual parasite density (as measured by microscopy) significantly improved the fit of the model, with hosts harbouring intermediate densities having the highest infectivity. It is unclear whether asexual parasites directly influence parasite infectivity or are associated with other (here unmeasured) variables such as the multiplicity of infection (Nsango et al., 2012) or factors influencing the blood environment such as immunity (Bousema and Drakeley, 2011). Plasmodium falciparum has asynchronous waves of asexual and sexual parasites. Circulating gametocytes take 2–3 days to mature before they can infect mosquitoes (Lensen et al., 1999), which may explain the complicated relationship between infectivity and asexual density (i.e., intermediate asexual parasite densities might occur at the start of gametocyte production and have a relatively low proportion of infectious mature gametocytes). On average, older children were more infectious, supporting previous indications that transmission-reducing immunity may predominate in young children (Drakeley et al., 2006)."
+    },
+    "citation_reference_97": {
+      "type": "citation_reference",
+      "id": "citation_reference_97",
+      "path": [
+        "paragraph_96",
+        "content"
+      ],
+      "target": "article_citation_bib29",
+      "range": [
+        376,
+        395
+      ]
+    },
+    "citation_reference_98": {
+      "type": "citation_reference",
+      "id": "citation_reference_98",
+      "path": [
+        "paragraph_96",
+        "content"
+      ],
+      "target": "article_citation_bib6",
+      "range": [
+        460,
+        486
+      ]
+    },
+    "annotation_99": {
+      "type": "emphasis",
+      "id": "annotation_99",
+      "path": [
+        "paragraph_96",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        489,
+        510
+      ]
+    },
+    "citation_reference_100": {
+      "type": "citation_reference",
+      "id": "citation_reference_100",
+      "path": [
+        "paragraph_96",
+        "content"
+      ],
+      "target": "article_citation_bib25",
+      "range": [
+        650,
+        669
+      ]
+    },
+    "citation_reference_101": {
+      "type": "citation_reference",
+      "id": "citation_reference_101",
+      "path": [
+        "paragraph_96",
+        "content"
+      ],
+      "target": "article_citation_bib13",
+      "range": [
+        1080,
+        1101
+      ]
+    },
+    "paragraph_102": {
+      "type": "paragraph",
+      "id": "paragraph_102",
+      "content": "Figure 1A indicates that individual QT-NASBA gametocyte density estimates are relatively uncertain. Despite this, they are considerably more accurate than conventional microscopy. Molecular techniques may be highly precise in a state-of-the-art laboratory, but the practicalities of collecting and processing samples in non-ideal field settings increases the risks of incurring measurement error. Even though uncertainty is generally accepted by those conducting the experiments, measures of precision such as confidence intervals or standard errors around such density estimates are rarely reported in the scientific literature. Methods such as those presented in this article can allow robust quantitative insight to be gained from uncertain molecular methods. Care should be taken when interpreting gametocyte density estimates as it has been suggested that the marker used in this analysis (Pfs25 mRNA) might be parasite female specific (Schneider, 2006). Even if the current QT-NASBA method does only detect female gametocytes, it will neither change the qualitative conclusions of this study nor their application if other studies use the same technique. However, direct comparison of our results with those of studies using different methods for quantifying gametocyte density should be aware that the shape of the relationship may differ."
+    },
+    "figure_reference_103": {
+      "type": "figure_reference",
+      "id": "figure_reference_103",
+      "path": [
+        "paragraph_102",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        0,
+        9
+      ]
+    },
+    "citation_reference_104": {
+      "type": "citation_reference",
+      "id": "citation_reference_104",
+      "path": [
+        "paragraph_102",
+        "content"
+      ],
+      "target": "article_citation_bib36",
+      "range": [
+        942,
+        957
+      ]
+    },
+    "paragraph_105": {
+      "type": "paragraph",
+      "id": "paragraph_105",
+      "content": "Gametocyte density measurement error is likely to cause the majority of the uncertainty seen in model outputs, although the complexity of the membrane feeding assay is also likely to contribute. The proportion of mosquitoes infected by Plasmodium-infected blood is known to vary substantially within and between studies. This is in part due to methodological issues with the membrane feeding assay (Bousema et al., 2013) but also related to biological differences in the parasite-vector combination and the blood environment (Bousema and Drakeley, 2011). Further standardising the membrane feeding assay, improving the accuracy of QT-NASBA technique and the inclusion of additional covariates (such as estimates of gametocyte maturity, which have been investigated in Plasmodium vivax; Chansamut et al., 2012), would improve the accuracy of the relationship between gametocyte density and mosquito infection. It would also permit the patterns described here to be checked for consistency across time and space, and enable a wider range of functional forms to be tested. Care should also be taken when interpreting the results of feeding assays as the mosquitoes used, and their biting behaviour is likely to be different from that seen in wild mosquitoes in field situations (Bousema et al., 2013)."
+    },
+    "annotation_106": {
+      "type": "emphasis",
+      "id": "annotation_106",
+      "path": [
+        "paragraph_105",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        236,
+        246
+      ]
+    },
+    "citation_reference_107": {
+      "type": "citation_reference",
+      "id": "citation_reference_107",
+      "path": [
+        "paragraph_105",
+        "content"
+      ],
+      "target": "article_citation_bib5",
+      "range": [
+        399,
+        419
+      ]
+    },
+    "citation_reference_108": {
+      "type": "citation_reference",
+      "id": "citation_reference_108",
+      "path": [
+        "paragraph_105",
+        "content"
+      ],
+      "target": "article_citation_bib6",
+      "range": [
+        526,
+        552
+      ]
+    },
+    "annotation_109": {
+      "type": "emphasis",
+      "id": "annotation_109",
+      "path": [
+        "paragraph_105",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        768,
+        784
+      ]
+    },
+    "citation_reference_110": {
+      "type": "citation_reference",
+      "id": "citation_reference_110",
+      "path": [
+        "paragraph_105",
+        "content"
+      ],
+      "target": "article_citation_bib8",
+      "range": [
+        786,
+        808
+      ]
+    },
+    "citation_reference_111": {
+      "type": "citation_reference",
+      "id": "citation_reference_111",
+      "path": [
+        "paragraph_105",
+        "content"
+      ],
+      "target": "article_citation_bib5",
+      "range": [
+        1276,
+        1296
+      ]
+    },
+    "paragraph_112": {
+      "type": "paragraph",
+      "id": "paragraph_112",
+      "content": "Transmission reduction will become increasingly important as areas approach local elimination. Identifying host age groups that contribute most to the reservoir of infection will allow the optimal targeting of malaria control. In the high transmission site in Burkina Faso, young children harbour the majority of gametocytes but are only slightly more infective to mosquitoes than adults. The per person contribution of adults estimated here is considerably greater than that predicted by other mathematical models (Ross et al., 2006) and may increase further once age-dependent biting rates are taken into consideration (Carnevale et al., 1978; Ross et al., 2006). The contribution of different age groups to overall transmission will depend on local demography, age-dependent protection by malaria interventions (such as the use of bed nets or time spent in the house and therefore personally protected by indoor residual spraying), and human to mosquito contact patterns. The last two of these are difficult to measure and poorly understood, reducing our ability to accurately predict the sources of infection. The reservoir of infection is likely to vary between endemicity settings and over time so multiple cross-sectional surveys may be required. The relationship between gametocyte density and mosquito infection will allow estimates of the reservoir of infection from cross-sectional gametocytaemia surveys without the need for logistically complicated mosquito feeding assays. The results of this article should be included within mathematical models that capture changes in gametocyte density with time (Lawpoolsri et al., 2009) to evaluate the full impact that different transmission-reducing interventions will have on transmission and prioritise the most appropriate candidates according to transmission setting."
+    },
+    "citation_reference_113": {
+      "type": "citation_reference",
+      "id": "citation_reference_113",
+      "path": [
+        "paragraph_112",
+        "content"
+      ],
+      "target": "article_citation_bib35",
+      "range": [
+        516,
+        533
+      ]
+    },
+    "citation_reference_114": {
+      "type": "citation_reference",
+      "id": "citation_reference_114",
+      "path": [
+        "paragraph_112",
+        "content"
+      ],
+      "target": "article_citation_bib7",
+      "range": [
+        622,
+        644
+      ]
+    },
+    "citation_reference_115": {
+      "type": "citation_reference",
+      "id": "citation_reference_115",
+      "path": [
+        "paragraph_112",
+        "content"
+      ],
+      "target": "article_citation_bib35",
+      "range": [
+        646,
+        663
+      ]
+    },
+    "citation_reference_116": {
+      "type": "citation_reference",
+      "id": "citation_reference_116",
+      "path": [
+        "paragraph_112",
+        "content"
+      ],
+      "target": "article_citation_bib24",
+      "range": [
+        1615,
+        1638
+      ]
+    },
+    "paragraph_117": {
+      "type": "paragraph",
+      "id": "paragraph_117",
+      "content": "This article provides insights into the relationship between gametocyte density and mosquito infection that are needed to predict the outcome of transmission-reducing interventions. It shows that, given the ability of very low P. falciparum gametocyte densities to establish infection in A. gambiae, transmission-reducing interventions will need to be highly efficacious at reducing gametocyte density in order to halt human to mosquito transmission. The complex and non-linear shape of the relationship between gametocyte density and mosquito infection may explain why the ability of an interventions to reduce the proportion of infected mosquitoes has been shown to depend on the parasite load of the host (Churcher et al., 2012). Gametocyte density also changes with host age so the effectiveness of transmission-reducing interventions that target gametocytes will also vary with age. This should be considered in clinical trials of transmission-reducing candidate drugs and vaccines. The highly overdispersed distribution of gametocytes in the host population and the non-linear relationship between gametocytes/asexual parasite density and mosquito infection means that the impact of different transmission-reducing interventions on overall transmission at the population level will be far from intuitive."
+    },
+    "annotation_118": {
+      "type": "emphasis",
+      "id": "annotation_118",
+      "path": [
+        "paragraph_117",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        227,
+        240
+      ]
+    },
+    "annotation_119": {
+      "type": "emphasis",
+      "id": "annotation_119",
+      "path": [
+        "paragraph_117",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        288,
+        298
+      ]
+    },
+    "citation_reference_120": {
+      "type": "citation_reference",
+      "id": "citation_reference_120",
+      "path": [
+        "paragraph_117",
+        "content"
+      ],
+      "target": "article_citation_bib9",
+      "range": [
+        709,
+        730
+      ]
+    },
+    "heading_s4": {
+      "type": "heading",
+      "id": "heading_s4",
+      "level": 1,
+      "content": "Material and methods",
+      "nodes": []
+    },
+    "heading_s4-1": {
+      "type": "heading",
+      "id": "heading_s4-1",
+      "level": 2,
+      "content": "Estimating gametocyte density and its associated uncertainty",
+      "nodes": []
+    },
+    "paragraph_121": {
+      "type": "paragraph",
+      "id": "paragraph_121",
+      "content": "Quantitative nucleic acid sequence-based amplification (QT-NASBA) is routinely used to estimate pathogen density. Like all diagnostic methods, it is prone to measurement error. To understand fully the associated uncertainty, it is important to appreciate the causes of the variability and how the quantification process might magnify uncertainty of point density estimates. Here, the uncertainty is quantified by repeatedly testing samples with known gametocyte density and fitting a hierarchical mathematical model."
+    },
+    "paragraph_122": {
+      "type": "paragraph",
+      "id": "paragraph_122",
+      "content": "Nucleic acids are extracted from 50 µl of blood and then amplified in the presence of a fluorescence probe. The assay measures time to positivity (TTP), which is the time it takes for the number of target amplicons detected to exceed a defined threshold (Schneider et al., 2004). The relationship between TTP and gametocyte density is estimated by fitting a linear regression to TTP estimates generated using a sample with known gametocyte density (a 10-fold dilution series of in vitro cultured gametocytes ranging from 106 to 101 gametocytes per millilitre). Let the observed TTP be denoted by Y then,"
+    },
+    "citation_reference_123": {
+      "type": "citation_reference",
+      "id": "citation_reference_123",
+      "path": [
+        "paragraph_122",
+        "content"
+      ],
+      "target": "article_citation_bib38",
+      "range": [
+        255,
+        277
+      ]
+    },
+    "annotation_124": {
+      "type": "superscript",
+      "id": "annotation_124",
+      "path": [
+        "paragraph_122",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        523,
+        524
+      ]
+    },
+    "annotation_125": {
+      "type": "superscript",
+      "id": "annotation_125",
+      "path": [
+        "paragraph_122",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        530,
+        531
+      ]
+    },
+    "annotation_126": {
+      "type": "emphasis",
+      "id": "annotation_126",
+      "path": [
+        "paragraph_122",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        596,
+        597
+      ]
+    },
+    "formula_eqn1": {
+      "type": "formula",
+      "id": "formula_eqn1",
+      "label": "(1)",
+      "content": "<mml:mrow><mml:mi>Y</mml:mi><mml:mo>=</mml:mo><mml:msub><mml:mi>β</mml:mi><mml:mn>0</mml:mn></mml:msub><mml:mo>+</mml:mo><mml:msub><mml:mi>β</mml:mi><mml:mn>1</mml:mn></mml:msub><mml:mo>⁡</mml:mo><mml:mi>ln</mml:mi><mml:mo>⁡</mml:mo><mml:mi>x</mml:mi><mml:mo>+</mml:mo><mml:mi>ε</mml:mi><mml:mo>,</mml:mo></mml:mrow>",
+      "format": ""
+    },
+    "formula_127": {
+      "type": "formula",
+      "id": "formula_127",
+      "label": "",
+      "content": "",
+      "format": "",
+      "key": "content",
+      "source": "paragraph_122",
+      "target": "formula_eqn1",
+      "pos": [
+        603,
+        1
+      ]
+    },
+    "paragraph_128": {
+      "type": "paragraph",
+      "id": "paragraph_128",
+      "content": "where β0 and β1 are regression coefficients estimates, x is the (known) parasite density from the dilution series and ε represents a normally distributed random error with mean equal to 0 and constant variance, that is ε ∼ N(0,σ2). A full list of the parameters is given in Table 1. The so-called statistical calibration or inverse regression problem (Osborne, 1991) concerns the issue of making statistical inference on the value of an unknown (log-transformed) gametocyte density), denoted as ln x′, from a new TTP observation, Y′ The classical approach (Eisenhart, 1939) involves rearranging the regression model (equation 1) so that"
+    },
+    "annotation_129": {
+      "type": "emphasis",
+      "id": "annotation_129",
+      "path": [
+        "paragraph_128",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        6,
+        7
+      ]
+    },
+    "annotation_130": {
+      "type": "subscript",
+      "id": "annotation_130",
+      "path": [
+        "paragraph_128",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        7,
+        8
+      ]
+    },
+    "annotation_131": {
+      "type": "emphasis",
+      "id": "annotation_131",
+      "path": [
+        "paragraph_128",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        13,
+        14
+      ]
+    },
+    "annotation_132": {
+      "type": "subscript",
+      "id": "annotation_132",
+      "path": [
+        "paragraph_128",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        14,
+        15
+      ]
+    },
+    "annotation_133": {
+      "type": "emphasis",
+      "id": "annotation_133",
+      "path": [
+        "paragraph_128",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        55,
+        56
+      ]
+    },
+    "annotation_134": {
+      "type": "emphasis",
+      "id": "annotation_134",
+      "path": [
+        "paragraph_128",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        118,
+        119
+      ]
+    },
+    "annotation_135": {
+      "type": "emphasis",
+      "id": "annotation_135",
+      "path": [
+        "paragraph_128",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        219,
+        220
+      ]
+    },
+    "annotation_136": {
+      "type": "emphasis",
+      "id": "annotation_136",
+      "path": [
+        "paragraph_128",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        223,
+        224
+      ]
+    },
+    "annotation_137": {
+      "type": "superscript",
+      "id": "annotation_137",
+      "path": [
+        "paragraph_128",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        228,
+        229
+      ]
+    },
+    "figure_reference_138": {
+      "type": "figure_reference",
+      "id": "figure_reference_138",
+      "path": [
+        "paragraph_128",
+        "content"
+      ],
+      "target": "table_tbl1",
+      "range": [
+        274,
+        281
+      ]
+    },
+    "citation_reference_139": {
+      "type": "citation_reference",
+      "id": "citation_reference_139",
+      "path": [
+        "paragraph_128",
+        "content"
+      ],
+      "target": "article_citation_bib30",
+      "range": [
+        352,
+        365
+      ]
+    },
+    "annotation_140": {
+      "type": "emphasis",
+      "id": "annotation_140",
+      "path": [
+        "paragraph_128",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        498,
+        499
+      ]
+    },
+    "annotation_141": {
+      "type": "emphasis",
+      "id": "annotation_141",
+      "path": [
+        "paragraph_128",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        530,
+        531
+      ]
+    },
+    "citation_reference_142": {
+      "type": "citation_reference",
+      "id": "citation_reference_142",
+      "path": [
+        "paragraph_128",
+        "content"
+      ],
+      "target": "article_citation_bib14",
+      "range": [
+        557,
+        572
+      ]
+    },
+    "cross_reference_143": {
+      "type": "cross_reference",
+      "id": "cross_reference_143",
+      "path": [
+        "paragraph_128",
+        "content"
+      ],
+      "target": "formula_eqn1",
+      "range": [
+        617,
+        627
+      ]
+    },
+    "formula_eqn2": {
+      "type": "formula",
+      "id": "formula_eqn2",
+      "label": "(2)",
+      "content": "<mml:mrow><mml:mi>ln</mml:mi><mml:mo>⁡</mml:mo><mml:msup><mml:mi>x</mml:mi><mml:mo>′</mml:mo></mml:msup><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:msup><mml:mi>Y</mml:mi><mml:mo>′</mml:mo></mml:msup><mml:mo>−</mml:mo><mml:msub><mml:mi>β</mml:mi><mml:mn>0</mml:mn></mml:msub></mml:mrow><mml:mrow><mml:msub><mml:mi>β</mml:mi><mml:mn>1</mml:mn></mml:msub></mml:mrow></mml:mfrac><mml:mo>,</mml:mo></mml:mrow>",
+      "format": ""
+    },
+    "formula_144": {
+      "type": "formula",
+      "id": "formula_144",
+      "label": "",
+      "content": "",
+      "format": "",
+      "key": "content",
+      "source": "paragraph_128",
+      "target": "formula_eqn2",
+      "pos": [
+        636,
+        1
+      ]
+    },
+    "paragraph_145": {
+      "type": "paragraph",
+      "id": "paragraph_145",
+      "content": "and substituting the regression parameters with their estimates β^0 and β^1 to yield an estimate lnx^′. Here, we adapt this approach for use in a Bayesian hierarchical model. A number of different methods have been used to do this (see Hoadley, 1970 and Hunter and Lamboy, 1981 and for discussion see Osborne, 1991), each of which has a different method for dealing with the problem of high β^1 values (i.e., a gentle gradient, which when used in equation 2 can generate infinitely large confidence interval estimates). Here, we use the most parsimonious approach that does not require assignment of previous distributions to (the unknown) gametocyte densities. Rather, uncertainty in the estimated regression coefficients of equation 1 is propagated numerically via equation 2 to yield uncertainty in the estimated gametocyte densities. Since all the calibration line data have a relatively steep gradient, the difference between the different methods will be relatively minor, and all will generate sensibly tight confidence interval estimates.x^′, on the logarithmic scale. Estimates on the arithmetic scale are generated by taking the exponent, that is x′^=exp(lnx^′). These estimates are used in the functions below to determine the relationship between gametocyte density and the proportion of mosquitoes developing oocysts."
+    },
+    "formula_146": {
+      "type": "formula",
+      "id": "formula_146",
+      "label": "",
+      "content": "",
+      "format": ""
+    },
+    "annotation_147": {
+      "type": "inline_formula",
+      "id": "annotation_147",
+      "path": "",
+      "target": "formula_146",
+      "range": "",
+      "source": "paragraph_145",
+      "key": "content",
+      "pos": [
+        64,
+        0
+      ]
+    },
+    "formula_148": {
+      "type": "formula",
+      "id": "formula_148",
+      "label": "",
+      "content": "",
+      "format": ""
+    },
+    "annotation_149": {
+      "type": "inline_formula",
+      "id": "annotation_149",
+      "path": "",
+      "target": "formula_148",
+      "range": "",
+      "source": "paragraph_145",
+      "key": "content",
+      "pos": [
+        72,
+        0
+      ]
+    },
+    "formula_150": {
+      "type": "formula",
+      "id": "formula_150",
+      "label": "",
+      "content": "",
+      "format": ""
+    },
+    "annotation_151": {
+      "type": "inline_formula",
+      "id": "annotation_151",
+      "path": "",
+      "target": "formula_150",
+      "range": "",
+      "source": "paragraph_145",
+      "key": "content",
+      "pos": [
+        97,
+        0
+      ]
+    },
+    "formula_152": {
+      "type": "formula",
+      "id": "formula_152",
+      "label": "",
+      "content": "",
+      "format": ""
+    },
+    "annotation_153": {
+      "type": "inline_formula",
+      "id": "annotation_153",
+      "path": "",
+      "target": "formula_152",
+      "range": "",
+      "source": "paragraph_145",
+      "key": "content",
+      "pos": [
+        391,
+        0
+      ]
+    },
+    "table_tbl1": {
+      "type": "table",
+      "id": "table_tbl1",
+      "label": "Table 1.",
+      "content": "<table><thead><tr><td>Notation</td><td>Description</td><td>Equation</td></tr></thead><tbody><tr><td><em>Y</em></td><td>Time to positivity (TTP) readout generated by QT-NASBA</td><td><sup>Equation 1</sup></td></tr><tr><td><em>x</em></td><td>Known density of gametocytes per millilitre (generated using dilution series)</td><td><sup>Equation 1</sup></td></tr><tr><td><mml:math><mml:mrow><mml:mi>ln</mml:mi><mml:msup><mml:mrow><mml:mover><mml:mi>x</mml:mi><mml:mo>^</mml:mo></mml:mover></mml:mrow><mml:mo>′</mml:mo></mml:msup></mml:mrow></mml:math></td><td>Estimate of (unknown) gametocyte density on the logarithmic scale</td><td><sup>Equation 2</sup></td></tr><tr><td><mml:math><mml:msup><mml:mrow><mml:mover><mml:mi>x</mml:mi><mml:mo>^</mml:mo></mml:mover></mml:mrow><mml:mo>′</mml:mo></mml:msup></mml:math></td><td>Estimate of gametocyte density on the arithmetic scale</td><td><sup>Equation 2</sup></td></tr><tr><td><em>β</em><sub>0</sub></td><td>Intercept of the calibration line fitted to the dilution series</td><td><sup>Equation 1</sup></td></tr><tr><td><em>β</em><sub>1</sub></td><td>Gradient of the calibration line fitted to the dilution series</td><td><sup>Equation 1</sup></td></tr><tr><td><em>σ</em><sup>2</sup></td><td>Intra-assay variance measuring the accuracy with which the calibration line fits the TTP estimates from the dilution series</td><td><sup>Equation 1</sup></td></tr><tr><td><em>g</em></td><td>Proportion of mosquitoes developing oocysts</td><td><sup>Equation 3</sup></td></tr><tr><td><mml:math><mml:mrow><mml:mi>ϕ</mml:mi><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:msup><mml:mrow><mml:mover><mml:mi>x</mml:mi><mml:mo>^</mml:mo></mml:mover></mml:mrow><mml:mo>′</mml:mo></mml:msup><mml:mo>,</mml:mo><mml:mi>κ</mml:mi></mml:mrow><mml:mo>)</mml:mo></mml:mrow></mml:mrow></mml:math></td><td>Saturating function determining the shape of the initial relationship between gametocytes and the proportion of mosquitoes developing oocysts</td><td><sup>Equation 4</sup></td></tr><tr><td><mml:math><mml:mrow><mml:msub><mml:mi>f</mml:mi><mml:mi>i</mml:mi></mml:msub><mml:mrow><mml:mo>(</mml:mo><mml:msup><mml:mrow><mml:mover><mml:mi>x</mml:mi><mml:mo>^</mml:mo></mml:mover></mml:mrow><mml:mo>′</mml:mo></mml:msup><mml:mo>)</mml:mo></mml:mrow></mml:mrow></mml:math></td><td>Function determining the shape of the relationship between gametocytes and proportion of mosquitoes developing oocysts. Subscript <em>i</em> indicates the functional form used, be it <mml:math><mml:mrow><mml:msub><mml:mi>f</mml:mi><mml:mi>α</mml:mi></mml:msub><mml:mrow><mml:mo>(</mml:mo><mml:msup><mml:mrow><mml:mover><mml:mi>x</mml:mi><mml:mo>^</mml:mo></mml:mover></mml:mrow><mml:mo>′</mml:mo></mml:msup><mml:mo>)</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:msub><mml:mi>α</mml:mi><mml:mn>0</mml:mn></mml:msub><mml:mo>+</mml:mo><mml:mfrac><mml:mrow><mml:msub><mml:mi>α</mml:mi><mml:mn>1</mml:mn></mml:msub><mml:msup><mml:msup><mml:mrow><mml:mover><mml:mi>x</mml:mi><mml:mo>^</mml:mo></mml:mover></mml:mrow><mml:mo>′</mml:mo></mml:msup><mml:mrow><mml:msub><mml:mi>α</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mrow></mml:msup></mml:mrow><mml:mrow><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mn>1</mml:mn><mml:mo>+</mml:mo><mml:msub><mml:mi>α</mml:mi><mml:mn>3</mml:mn></mml:msub><mml:msup><mml:msup><mml:mrow><mml:mover><mml:mi>x</mml:mi><mml:mo>^</mml:mo></mml:mover></mml:mrow><mml:mo>′</mml:mo></mml:msup><mml:mrow><mml:msub><mml:mi>α</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mrow></mml:msup></mml:mrow><mml:mo>)</mml:mo></mml:mrow></mml:mrow></mml:mfrac></mml:mrow></mml:math>, where constraining different parameters can generate a range of different shapes (constant <em>α</em><sub>1</sub> = 0, linear <em>α</em><sub>2</sub> = 1; <em>α</em><sub><em>3</em></sub> = 0, power <em>α</em><sub>3</sub> = 0, hyperbolic <em>α</em><sub>1</sub> > 0 <em>α</em><sub>2</sub> = 1 <em>α</em><sub>3</sub> > 0, or sigmoid <em>α</em><sub>2</sub> > 1) or <mml:math><mml:mrow><mml:msub><mml:mi>f</mml:mi><mml:mi>γ</mml:mi></mml:msub><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mover><mml:msup><mml:mi>x</mml:mi><mml:mo>′</mml:mo></mml:msup><mml:mo>^</mml:mo></mml:mover></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:msub><mml:mi>γ</mml:mi><mml:mn>0</mml:mn></mml:msub><mml:mo>+</mml:mo><mml:msub><mml:mi>γ</mml:mi><mml:mn>1</mml:mn></mml:msub><mml:mo>⁡</mml:mo><mml:mi>exp</mml:mi><mml:mrow><mml:mo>[</mml:mo><mml:mrow><mml:msub><mml:mi>γ</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mo>⁡</mml:mo><mml:mi>exp</mml:mi><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:msub><mml:mi>γ</mml:mi><mml:mn>3</mml:mn></mml:msub><mml:mrow><mml:mover><mml:msup><mml:mi>x</mml:mi><mml:mo>′</mml:mo></mml:msup><mml:mo>^</mml:mo></mml:mover></mml:mrow></mml:mrow><mml:mo>)</mml:mo></mml:mrow></mml:mrow><mml:mo>]</mml:mo></mml:mrow><mml:mo>,</mml:mo></mml:mrow></mml:math>, which generates a Gompertz (sigmoid-like) function</td><td><sup>Equation 3</sup></td></tr><tr><td><em>μ</em></td><td>Vector of regression coefficients</td><td><sup>Equation 3</sup></td></tr><tr><td><em>z</em></td><td>Vector of dummy variables denoting donor blood characteristics, <em>z</em><sub>1</sub> = asexual parasite density (0 = undetected, 1 = low, 2 = high), <em>z</em><sub>2</sub> = host age (0 = younger than 6 years old, 1 = 6 or older), <em>z</em><sub>3</sub> = study locale (0 = Burkina Faso, 1 = Kenya)</td><td><sup>Equation 3</sup></td></tr><tr><td><em>h</em>(<em>A</em>)</td><td>Function describing how gametocyte density and the reservoir of infection change with host age (<em>A</em>). Shape determined by parameters τ, <em>ψ</em>, and <em>ω</em></td><td><sup>Equation 5</sup></td></tr></tbody></table>",
+      "title": "",
+      "footers": [],
+      "doi": "http://dx.doi.org/10.7554/eLife.00626.009",
+      "caption": "paragraph_table_tbl1",
+      "format": ""
+    },
+    "paragraph_table_tbl1": {
+      "type": "paragraph",
+      "id": "paragraph_table_tbl1",
+      "content": "Notation of statistical and mathematical models"
+    },
+    "formula_154": {
+      "type": "formula",
+      "id": "formula_154",
+      "label": "",
+      "content": "",
+      "format": ""
+    },
+    "annotation_155": {
+      "type": "inline_formula",
+      "id": "annotation_155",
+      "path": "",
+      "target": "formula_154",
+      "range": "",
+      "source": "paragraph_145",
+      "key": "content",
+      "pos": [
+        1046,
+        0
+      ]
+    },
+    "formula_156": {
+      "type": "formula",
+      "id": "formula_156",
+      "label": "",
+      "content": "",
+      "format": ""
+    },
+    "annotation_157": {
+      "type": "inline_formula",
+      "id": "annotation_157",
+      "path": "",
+      "target": "formula_156",
+      "range": "",
+      "source": "paragraph_145",
+      "key": "content",
+      "pos": [
+        1157,
+        0
+      ]
+    },
+    "heading_s4-2": {
+      "type": "heading",
+      "id": "heading_s4-2",
+      "level": 2,
+      "content": "Mosquito infection",
+      "nodes": []
+    },
+    "paragraph_158": {
+      "type": "paragraph",
+      "id": "paragraph_158",
+      "content": "Plasmodium falciparum–infected blood was collected from children and fed through a membrane to A. gambiae sensu stricto mosquitoes that were dissected 7–9 days later to determine infection (oocyst carriage). Data from 171 mosquito feeds on patients’ blood conducted in Burkina Faso (Ouédraogo et al., 2009) and Kenya (Schneider et al., 2007) were combined and used to fit a quantitative relationship between gametocyte density, asexual parasite density, host age, and mosquito infection (proportion of mosquitoes developing oocysts). A full description of these data is given in Figure 1—source data 1. Gametocyte density was quantified using QT-NASBA, and the uncertainty in the density estimates (the intra-assay variability) was quantified by fitting a hierarchical model to the 16 independent dilution series. In the Burkina Faso dataset, multiple assays were carried out on the same blood sample (an average of 2.63 assays per unknown blood sample). The mean gametocyte density from these multiple assays was taken to increase the accuracy of the estimates. The precise shape of the relationship was determined by fitting a range of different functional forms (a modified constant, linear, power, hyperbolic, sigmoid, and Gompertz functions) to data presented in Figure 1—source data 1 and statistically determining which gave the best fit. The proportion of mosquitoes developing oocysts, denoted by g, can be described by equation 3"
+    },
+    "annotation_159": {
+      "type": "emphasis",
+      "id": "annotation_159",
+      "path": [
+        "paragraph_158",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        22
+      ]
+    },
+    "annotation_160": {
+      "type": "emphasis",
+      "id": "annotation_160",
+      "path": [
+        "paragraph_158",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        95,
+        105
+      ]
+    },
+    "citation_reference_161": {
+      "type": "citation_reference",
+      "id": "citation_reference_161",
+      "path": [
+        "paragraph_158",
+        "content"
+      ],
+      "target": "article_citation_bib32",
+      "range": [
+        283,
+        305
+      ]
+    },
+    "citation_reference_162": {
+      "type": "citation_reference",
+      "id": "citation_reference_162",
+      "path": [
+        "paragraph_158",
+        "content"
+      ],
+      "target": "article_citation_bib37",
+      "range": [
+        318,
+        340
+      ]
+    },
+    "figure_reference_163": {
+      "type": "figure_reference",
+      "id": "figure_reference_163",
+      "path": [
+        "paragraph_158",
+        "content"
+      ],
+      "target": "supplement_SD1_data",
+      "range": [
+        579,
+        601
+      ]
+    },
+    "figure_reference_164": {
+      "type": "figure_reference",
+      "id": "figure_reference_164",
+      "path": [
+        "paragraph_158",
+        "content"
+      ],
+      "target": "supplement_SD1_data",
+      "range": [
+        1268,
+        1290
+      ]
+    },
+    "annotation_165": {
+      "type": "emphasis",
+      "id": "annotation_165",
+      "path": [
+        "paragraph_158",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1406,
+        1407
+      ]
+    },
+    "cross_reference_166": {
+      "type": "cross_reference",
+      "id": "cross_reference_166",
+      "path": [
+        "paragraph_158",
+        "content"
+      ],
+      "target": "formula_eqn3",
+      "range": [
+        1429,
+        1439
+      ]
+    },
+    "formula_eqn3": {
+      "type": "formula",
+      "id": "formula_eqn3",
+      "label": "(3)",
+      "content": "<mml:mrow><mml:mi>g</mml:mi><mml:mo>=</mml:mo><mml:mi>ϕ</mml:mi><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:msup><mml:mrow><mml:mover><mml:mi>x</mml:mi><mml:mo>^</mml:mo></mml:mover></mml:mrow><mml:mo>′</mml:mo></mml:msup><mml:mo>,</mml:mo><mml:mi>κ</mml:mi></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:msub><mml:mi>f</mml:mi><mml:mi>i</mml:mi></mml:msub><mml:mrow><mml:mo>(</mml:mo><mml:msup><mml:mrow><mml:mover><mml:mi>x</mml:mi><mml:mo>^</mml:mo></mml:mover></mml:mrow><mml:mo>′</mml:mo></mml:msup><mml:mo>)</mml:mo></mml:mrow><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mn>1</mml:mn><mml:mo>+</mml:mo><mml:mi>μ</mml:mi><mml:msub><mml:mi>z</mml:mi><mml:mn>1</mml:mn></mml:msub><mml:mo>+</mml:mo><mml:mi>μ</mml:mi><mml:msub><mml:mi>z</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mo>+</mml:mo><mml:mi>μ</mml:mi><mml:msub><mml:mi>z</mml:mi><mml:mn>3</mml:mn></mml:msub></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:mo>.</mml:mo></mml:mrow>",
+      "format": ""
+    },
+    "formula_167": {
+      "type": "formula",
+      "id": "formula_167",
+      "label": "",
+      "content": "",
+      "format": "",
+      "key": "content",
+      "source": "paragraph_158",
+      "target": "formula_eqn3",
+      "pos": [
+        1439,
+        1
+      ]
+    },
+    "paragraph_168": {
+      "type": "paragraph",
+      "id": "paragraph_168",
+      "content": "Function fi(x^′) describes how infection changes with increasing estimated gametocyte density with subscript i indicating the different functions tested (whose equations are given in Table 1); μ is a vector of regression coefficients and z1, z2 and z3 are dummy variables denoting asexual parasite density, age of the blood donor for the membrane feeing assays, and location of provenance, respectively. Asexual parasite density (estimated by microscopy) was categorized as being either undetectable (z1 = 0), low (<1000 parasites per microlitre of blood, z1 = 1) or high (≥1000 parasites per microlitre of blood, z1 = 2). Hosts were classified into two different age categories (<6 years [children, z2 = 0] or ≥ 6 yr [older children, z2 = 1). Mosquito infection was allowed to vary between Burkina Faso and Kenya (z3 = 0 for Burkina Faso, z3 = 1 for Kenya). The function ϕ(x^′,η) determines the shape of the relationship at very low gametocyte densities and is motivated by the observation that the malaria parasite can adjust its sex ratio to optimise transmission (Reece et al., 2008). Evidence indicates that transmission is possible even at very low gametocyte densities (Schneider et al., 2007; Ouédraogo et al., 2009), so ϕ(x^′,η) allows infection to rise very quickly with increasing gametocyte density at a rate determined by parameter η,"
+    },
+    "formula_169": {
+      "type": "formula",
+      "id": "formula_169",
+      "label": "",
+      "content": "",
+      "format": ""
+    },
+    "annotation_170": {
+      "type": "inline_formula",
+      "id": "annotation_170",
+      "path": "",
+      "target": "formula_169",
+      "range": "",
+      "source": "paragraph_168",
+      "key": "content",
+      "pos": [
+        9,
+        0
+      ]
+    },
+    "formula_171": {
+      "type": "formula",
+      "id": "formula_171",
+      "label": "",
+      "content": "",
+      "format": ""
+    },
+    "annotation_172": {
+      "type": "inline_formula",
+      "id": "annotation_172",
+      "path": "",
+      "target": "formula_171",
+      "range": "",
+      "source": "paragraph_168",
+      "key": "content",
+      "pos": [
+        872,
+        0
+      ]
+    },
+    "formula_173": {
+      "type": "formula",
+      "id": "formula_173",
+      "label": "",
+      "content": "",
+      "format": ""
+    },
+    "annotation_174": {
+      "type": "inline_formula",
+      "id": "annotation_174",
+      "path": "",
+      "target": "formula_173",
+      "range": "",
+      "source": "paragraph_168",
+      "key": "content",
+      "pos": [
+        1229,
+        0
+      ]
+    },
+    "formula_eqn4": {
+      "type": "formula",
+      "id": "formula_eqn4",
+      "label": "(4)",
+      "content": "<mml:mrow><mml:mi>ϕ</mml:mi><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:msup><mml:mrow><mml:mover><mml:mi>x</mml:mi><mml:mo>^</mml:mo></mml:mover></mml:mrow><mml:mo>′</mml:mo></mml:msup><mml:mo>,</mml:mo><mml:mi>η</mml:mi></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:mn>1</mml:mn><mml:mo>−</mml:mo><mml:msup><mml:mrow><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mn>1</mml:mn><mml:mo>+</mml:mo><mml:mfrac><mml:msup><mml:mrow><mml:mover><mml:mi>x</mml:mi><mml:mo>^</mml:mo></mml:mover></mml:mrow><mml:mo>′</mml:mo></mml:msup><mml:mrow><mml:mn>2</mml:mn><mml:mi>η</mml:mi></mml:mrow></mml:mfrac></mml:mrow><mml:mo>)</mml:mo></mml:mrow></mml:mrow><mml:mrow><mml:mo>−</mml:mo><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mi>η</mml:mi><mml:mo>+</mml:mo><mml:mn>1</mml:mn></mml:mrow><mml:mo>)</mml:mo></mml:mrow></mml:mrow></mml:msup><mml:mo>.</mml:mo></mml:mrow>",
+      "format": ""
+    },
+    "formula_175": {
+      "type": "formula",
+      "id": "formula_175",
+      "label": "",
+      "content": "",
+      "format": "",
+      "key": "content",
+      "source": "paragraph_168",
+      "target": "formula_eqn4",
+      "pos": [
+        1347,
+        1
+      ]
+    },
+    "paragraph_176": {
+      "type": "paragraph",
+      "id": "paragraph_176",
+      "content": "Equation 4 was originally derived to describe the probability that a host would contain both male and female parasites according to the mean number of parasites and the aggregation (overdispersion) parameter of the negative binomial distribution (May, 1977). Reproduction in malaria is more complex than in the (helminth) system for which equation 4 was devised; hence, parameter η is not biologically interpretable."
+    },
+    "cross_reference_177": {
+      "type": "cross_reference",
+      "id": "cross_reference_177",
+      "path": [
+        "paragraph_176",
+        "content"
+      ],
+      "target": "formula_eqn4",
+      "range": [
+        0,
+        10
+      ]
+    },
+    "citation_reference_178": {
+      "type": "citation_reference",
+      "id": "citation_reference_178",
+      "path": [
+        "paragraph_176",
+        "content"
+      ],
+      "target": "article_citation_bib27",
+      "range": [
+        247,
+        256
+      ]
+    },
+    "cross_reference_179": {
+      "type": "cross_reference",
+      "id": "cross_reference_179",
+      "path": [
+        "paragraph_176",
+        "content"
+      ],
+      "target": "formula_eqn4",
+      "range": [
+        339,
+        349
+      ]
+    },
+    "annotation_180": {
+      "type": "emphasis",
+      "id": "annotation_180",
+      "path": [
+        "paragraph_176",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        380,
+        381
+      ]
+    },
+    "paragraph_181": {
+      "type": "paragraph",
+      "id": "paragraph_181",
+      "content": "To investigate whether mosquito infection is best predicted by gametocyte density on the arithmetic or logarithmic scale, both hypotheses were tested in the model, substituting an estimate of gametocyte density on the logarithmic scale (lnx′^) for x^′ in equations 3 and 4 and comparing model fits. The model quantifying the uncertainty in gametocyte density estimates was fitted at the same time as the regression determining the relationship between gametocyte density (and other covariates) and the proportion of mosquitoes infected using Bayesian Markov Chain Monte Carlo methods. Fitting the models simultaneously enables the uncertainty in the gametocyte density estimates to be reflected in the uncertainty of the shape of the relationship."
+    },
+    "formula_182": {
+      "type": "formula",
+      "id": "formula_182",
+      "label": "",
+      "content": "",
+      "format": ""
+    },
+    "annotation_183": {
+      "type": "inline_formula",
+      "id": "annotation_183",
+      "path": "",
+      "target": "formula_182",
+      "range": "",
+      "source": "paragraph_181",
+      "key": "content",
+      "pos": [
+        237,
+        0
+      ]
+    },
+    "formula_184": {
+      "type": "formula",
+      "id": "formula_184",
+      "label": "",
+      "content": "",
+      "format": ""
+    },
+    "annotation_185": {
+      "type": "inline_formula",
+      "id": "annotation_185",
+      "path": "",
+      "target": "formula_184",
+      "range": "",
+      "source": "paragraph_181",
+      "key": "content",
+      "pos": [
+        248,
+        0
+      ]
+    },
+    "heading_s4-3": {
+      "type": "heading",
+      "id": "heading_s4-3",
+      "level": 2,
+      "content": "Age profile of gametocyte density",
+      "nodes": []
+    },
+    "paragraph_186": {
+      "type": "paragraph",
+      "id": "paragraph_186",
+      "content": "Blood samples were randomly collected from 412 hosts from a single village in Burkina Faso (Ouédraogo et al., 2010). QT-NASBA assays were run on the samples, and the methods described above were used to convert assay results into estimates of gametocyte density. A description of these data is given in Figure 2—source data 1. To facilitate visual inspection of the age profile of gametocyte density, and to generate summary statistics, the function h(A) was fitted to these data to describe how the mean number of gametocytes per microlitre of blood changes with host age (A)"
+    },
+    "citation_reference_187": {
+      "type": "citation_reference",
+      "id": "citation_reference_187",
+      "path": [
+        "paragraph_186",
+        "content"
+      ],
+      "target": "article_citation_bib31",
+      "range": [
+        92,
+        114
+      ]
+    },
+    "figure_reference_188": {
+      "type": "figure_reference",
+      "id": "figure_reference_188",
+      "path": [
+        "paragraph_186",
+        "content"
+      ],
+      "target": "supplement_SD3_data",
+      "range": [
+        303,
+        325
+      ]
+    },
+    "annotation_189": {
+      "type": "emphasis",
+      "id": "annotation_189",
+      "path": [
+        "paragraph_186",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        450,
+        451
+      ]
+    },
+    "annotation_190": {
+      "type": "emphasis",
+      "id": "annotation_190",
+      "path": [
+        "paragraph_186",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        452,
+        453
+      ]
+    },
+    "annotation_191": {
+      "type": "emphasis",
+      "id": "annotation_191",
+      "path": [
+        "paragraph_186",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        574,
+        575
+      ]
+    },
+    "formula_eqn5": {
+      "type": "formula",
+      "id": "formula_eqn5",
+      "label": "(5)",
+      "content": "<mml:mrow><mml:mi>h</mml:mi><mml:mrow><mml:mo>(</mml:mo><mml:mi>A</mml:mi><mml:mo>)</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:mi>τ</mml:mi><mml:mo>+</mml:mo><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mi>ψ</mml:mi><mml:mi>A</mml:mi><mml:mo>−</mml:mo><mml:mi>τ</mml:mi></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:mtext> </mml:mtext><mml:mi>exp</mml:mi><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mo>−</mml:mo><mml:mi>ω</mml:mi><mml:mi>A</mml:mi></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:mo>.</mml:mo></mml:mrow>",
+      "format": ""
+    },
+    "formula_192": {
+      "type": "formula",
+      "id": "formula_192",
+      "label": "",
+      "content": "",
+      "format": "",
+      "key": "content",
+      "source": "paragraph_186",
+      "target": "formula_eqn5",
+      "pos": [
+        576,
+        1
+      ]
+    },
+    "paragraph_193": {
+      "type": "paragraph",
+      "id": "paragraph_193",
+      "content": "Parameters τ, ψ, and ω were estimated assuming a negative binomial error structure to account for the high degree of overdispersion (aggregation) observed in gametocyte density estimates (using an overdispersion parameter that did not change with host age or gametocyte density). As above, a hierarchical model was used to estimate the gametocyte density and its associated uncertainty at the same time as the age profile allowing the full uncertainty of the shape of the function to be expressed."
+    },
+    "annotation_194": {
+      "type": "emphasis",
+      "id": "annotation_194",
+      "path": [
+        "paragraph_193",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        11,
+        12
+      ]
+    },
+    "annotation_195": {
+      "type": "emphasis",
+      "id": "annotation_195",
+      "path": [
+        "paragraph_193",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        14,
+        15
+      ]
+    },
+    "annotation_196": {
+      "type": "emphasis",
+      "id": "annotation_196",
+      "path": [
+        "paragraph_193",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        21,
+        22
+      ]
+    },
+    "heading_s4-4": {
+      "type": "heading",
+      "id": "heading_s4-4",
+      "level": 2,
+      "content": "Age profile of the infectious reservoir",
+      "nodes": []
+    },
+    "paragraph_197": {
+      "type": "paragraph",
+      "id": "paragraph_197",
+      "content": "The probability that a mosquito biting a host of a particular age will become infected can be estimated using the above model together with estimates of the host gametocyte and asexual parasite density. This was done using the cross-sectional data from Burkina Faso to generate a proxy for the human reservoir of infection at this specific time in this location (although it does not take into account how vector biting rate may vary with host age). It is important to use individual host estimates of gametocyte density instead of mean estimates as the high degree of gametocyte overdispersion among hosts may accentuate the non-linear relationship between gametocyte density and mosquito infection. For each of the 412 hosts, point estimates were obtained of the percentage of feeding mosquitoes (taking a single full blood meal) that would develop oocysts according to the age and the gametocyte/asexual parasite density of the host (equation 3). Equation 5 was used to fit a relationship between host age and their contribution towards human to mosquito transmission. This best-fit line was used to predict the percentage of overall transmission that originated from hosts who had gametocyte density estimates below the detection threshold of microscopy. Here, we define the detection threshold as the minimum (positive) density that can be estimated by sampling a certain volume of blood. It is assumed that gametocytes are counted against 500 white blood cells (WBC) and that there are on average 8000 WBC per µl of blood. This gives an average detection threshold of 16 gametocytes per microlitre of blood. This is a conservative estimate of the threshold density since densities above this value may still give false negative results both due reading errors or random sampling of gametocytes on the microscope slide."
+    },
+    "cross_reference_198": {
+      "type": "cross_reference",
+      "id": "cross_reference_198",
+      "path": [
+        "paragraph_197",
+        "content"
+      ],
+      "target": "formula_eqn3",
+      "range": [
+        937,
+        947
+      ]
+    },
+    "cross_reference_199": {
+      "type": "cross_reference",
+      "id": "cross_reference_199",
+      "path": [
+        "paragraph_197",
+        "content"
+      ],
+      "target": "formula_eqn5",
+      "range": [
+        950,
+        960
+      ]
+    },
+    "paragraph_200": {
+      "type": "paragraph",
+      "id": "paragraph_200",
+      "content": "Care should be taken when interpreting the results as mosquito membrane feeding experiments were not performed with blood from adult hosts. Evidence indicates that antibodies associated with transmission-blocking activity may be lower in older age groups (Drakeley et al., 2006), which could mean that adult hosts could have a greater potential to contribute to overall transmission."
+    },
+    "citation_reference_201": {
+      "type": "citation_reference",
+      "id": "citation_reference_201",
+      "path": [
+        "paragraph_200",
+        "content"
+      ],
+      "target": "article_citation_bib13",
+      "range": [
+        256,
+        277
+      ]
+    },
+    "heading_s4-5": {
+      "type": "heading",
+      "id": "heading_s4-5",
+      "level": 2,
+      "content": "Fitting procedure",
+      "nodes": []
+    },
+    "paragraph_202": {
+      "type": "paragraph",
+      "id": "paragraph_202",
+      "content": "Bayesian Markov Chain Monte Carlo techniques were used to fit the models in OpenBUGS (Lunn et al., 2009). This approach allows the uncertainties in the assessments of gametocyte density and mosquito infection rates (generated by different numbers of mosquitoes being dissected) to be taken into consideration, propagated into parameter posterior distributions. All parameters were assigned uninformative priors and were run until convergence was reached using standard methodology (Gelman and Rubin, 1996). The most parsimonious models were selected by comparing deviance information criteria (DIC) values (the lowest value giving the most parsimonious yet adequate fit) (Spiegelhalter et al., 2002). Uncertainly around the best-fit line is indicated by showing the 95% range of 10,000 runs randomly sampled from the posterior distribution. The distribution of gametocytes between hosts was highly overdispersed, with an aggregation parameter of the negative binomial distribution of 0.185 (95% Bayesian credible interval [CI], 0.16–0.21).Additional information"
+    },
+    "citation_reference_203": {
+      "type": "citation_reference",
+      "id": "citation_reference_203",
+      "path": [
+        "paragraph_202",
+        "content"
+      ],
+      "target": "article_citation_bib26",
+      "range": [
+        86,
+        103
+      ]
+    },
+    "citation_reference_204": {
+      "type": "citation_reference",
+      "id": "citation_reference_204",
+      "path": [
+        "paragraph_202",
+        "content"
+      ],
+      "target": "article_citation_bib15",
+      "range": [
+        482,
+        504
+      ]
+    },
+    "citation_reference_205": {
+      "type": "citation_reference",
+      "id": "citation_reference_205",
+      "path": [
+        "paragraph_202",
+        "content"
+      ],
+      "target": "article_citation_bib42",
+      "range": [
+        672,
+        698
+      ]
+    },
+    "info:competing-interest": {
+      "type": "heading",
+      "id": "info:competing-interest",
+      "level": 2,
+      "content": "Competing Interests",
+      "nodes": [
+        "paragraph_206"
+      ]
+    },
+    "paragraph_206": {
+      "type": "paragraph",
+      "id": "paragraph_206",
+      "content": "Competing interestsThe authors declare that no competing interests exist."
+    },
+    "info:author_contribution": {
+      "type": "heading",
+      "id": "info:author_contribution",
+      "level": 2,
+      "content": "Authors",
+      "nodes": [
+        "person_author_4024",
+        "person_author_4069",
+        "person_author_4070",
+        "person_author_4071",
+        "person_author_4072",
+        "person_author_4073",
+        "person_author_4074"
+      ]
+    },
+    "info:dataset": {
+      "type": "heading",
+      "id": "info:dataset",
+      "level": 2,
+      "content": "Major Datasets",
+      "nodes": [
+        "paragraph_dataro1",
+        "paragraph_dataro2",
+        "paragraph_dataro3"
+      ]
+    },
+    "paragraph_dataro1": {
+      "type": "paragraph",
+      "id": "paragraph_dataro1",
+      "content": "Churcher, TS, Bousema, T, Walker, M, Drakeley, C, Schneider, P, Ouédraogo, AL, Basáñez, M, 2013, Data from: Predicting mosquito infection from Plasmodium falciparum gametocyte density and estimating the reservoir of infection, http://dx.doi.org/10.5061/dryad.0k402, Available at Dryad Digital Repository under a CC0 Public Domain Dedication"
+    },
+    "paragraph_dataro2": {
+      "type": "paragraph",
+      "id": "paragraph_dataro2",
+      "content": "Ouédraogo, AL, Bousema, T, Schneider, P, de Vlas, SJ, Ilboudo-Sanogo, E, Cuzin-Ouattara, N, Nébié, I, Roeffen, W, Verhave, JP, Luty, AJF, Sauerwein, R, 2013, Data from: Substantial contribution of submicroscopical Plasmodium falciparum gametocyte carriage to the infectious reservoir in an area of seasonal transmission, http://dx.doi.org/10.5061/dryad.hv01f, Available at Dryad Digital Repository under a CC0 Public Domain Dedication"
+    },
+    "paragraph_dataro3": {
+      "type": "paragraph",
+      "id": "paragraph_dataro3",
+      "content": "Schneider, P, Bousema, JT, Gouagna, LC, Otieno, S, van de Vegte-Bolmer, M, Omar, SA, Sauerwein, RW, 2013, Data from: Submicroscopic Plasmodium falciparum gametocyte densities frequently result in mosquito infection, http://dx.doi.org/10.5061/dryad.589ft, Available at Dryad Digital Repository under a CC0 Public Domain Dedication"
+    },
+    "article_citation_bib1": {
+      "type": "article_citation",
+      "id": "article_citation_bib1",
+      "authors": [
+        {
+          "given-names": "PL",
+          "last-name": "Alonso"
+        },
+        {
+          "given-names": "G",
+          "last-name": "Brown"
+        },
+        {
+          "given-names": "M",
+          "last-name": "Arevalo-Herrera"
+        },
+        {
+          "given-names": "F",
+          "last-name": "Binka"
+        },
+        {
+          "given-names": "C",
+          "last-name": "Chitnis"
+        },
+        {
+          "given-names": "F",
+          "last-name": "Collins"
+        }
+      ],
+      "title": "A research agenda to underpin malaria eradication",
+      "year": "2011",
+      "volume": "8",
+      "source": "PLoS Med",
+      "issue": "",
+      "fpage": "e1000406",
+      "lpage": "",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1371/journal.pmed.1000406",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib2": {
+      "type": "article_citation",
+      "id": "article_citation_bib2",
+      "authors": [
+        {
+          "given-names": "S",
+          "last-name": "Bonnet"
+        },
+        {
+          "given-names": "LC",
+          "last-name": "Gouagna"
+        },
+        {
+          "given-names": "RE",
+          "last-name": "Paul"
+        },
+        {
+          "given-names": "I",
+          "last-name": "Safeukui"
+        },
+        {
+          "given-names": "JY",
+          "last-name": "Meunier"
+        },
+        {
+          "given-names": "C",
+          "last-name": "Boudin"
+        }
+      ],
+      "title": "Estimation of malaria transmission from humans to mosquitoes in two neighbouring villages in south Cameroon: evaluation and comparison of several indices",
+      "year": "2003",
+      "volume": "97",
+      "source": "Trans R Soc Trop Med Hyg",
+      "issue": "",
+      "fpage": "53",
+      "lpage": "9",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/S0035-9203(03)90022-8",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib3": {
+      "type": "article_citation",
+      "id": "article_citation_bib3",
+      "authors": [
+        {
+          "given-names": "C",
+          "last-name": "Boudin"
+        },
+        {
+          "given-names": "J",
+          "last-name": "Lyannaz"
+        },
+        {
+          "given-names": "MF",
+          "last-name": "Bosseno"
+        },
+        {
+          "given-names": "P",
+          "last-name": "Carnevale"
+        },
+        {
+          "given-names": "P",
+          "last-name": "Ambroise-Thomas"
+        }
+      ],
+      "title": "Epidemiology of Plasmodium falciparum in a rice field and a savanna area in Burkina Faso: seasonal fluctuations of gametocytaemia and malarial infectivity",
+      "year": "1991",
+      "volume": "85",
+      "source": "Ann Trop Med Parasitol",
+      "issue": "",
+      "fpage": "377",
+      "lpage": "85",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "annotation_207": {
+      "type": "emphasis",
+      "id": "annotation_207",
+      "path": [
+        "article_citation_bib3",
+        "title"
+      ],
+      "target": null,
+      "range": [
+        16,
+        37
+      ]
+    },
+    "article_citation_bib4": {
+      "type": "article_citation",
+      "id": "article_citation_bib4",
+      "authors": [
+        {
+          "given-names": "C",
+          "last-name": "Boudin"
+        },
+        {
+          "given-names": "M",
+          "last-name": "Olivier"
+        },
+        {
+          "given-names": "JF",
+          "last-name": "Molez"
+        },
+        {
+          "given-names": "JP",
+          "last-name": "Chiron"
+        },
+        {
+          "given-names": "P",
+          "last-name": "Ambroise-Thomas"
+        }
+      ],
+      "title": "High human malarial infectivity to laboratory-bred Anopheles gambiae in a village in Burkina Faso",
+      "year": "1993",
+      "volume": "48",
+      "source": "Am J Trop Med Hyg",
+      "issue": "",
+      "fpage": "700",
+      "lpage": "6",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "annotation_208": {
+      "type": "emphasis",
+      "id": "annotation_208",
+      "path": [
+        "article_citation_bib4",
+        "title"
+      ],
+      "target": null,
+      "range": [
+        51,
+        68
+      ]
+    },
+    "article_citation_bib5": {
+      "type": "article_citation",
+      "id": "article_citation_bib5",
+      "authors": [
+        {
+          "given-names": "T",
+          "last-name": "Bousema"
+        },
+        {
+          "given-names": "TS",
+          "last-name": "Churcher"
+        },
+        {
+          "given-names": "I",
+          "last-name": "Morlais"
+        },
+        {
+          "given-names": "RR",
+          "last-name": "Dinglasan"
+        }
+      ],
+      "title": "Can field-based mosquito feeding assays be used for evaluating transmission-blocking interventions?",
+      "year": "2013",
+      "volume": "29",
+      "source": "Trends Parasitol",
+      "issue": "",
+      "fpage": "53",
+      "lpage": "9",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/j.pt.2012.11.004",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib6": {
+      "type": "article_citation",
+      "id": "article_citation_bib6",
+      "authors": [
+        {
+          "given-names": "T",
+          "last-name": "Bousema"
+        },
+        {
+          "given-names": "C",
+          "last-name": "Drakeley"
+        }
+      ],
+      "title": "Epidemiology and infectivity of Plasmodium falciparum and Plasmodium vivax gametocytes in relation to malaria control and elimination",
+      "year": "2011",
+      "volume": "24",
+      "source": "Clin Microbiol Rev",
+      "issue": "",
+      "fpage": "377",
+      "lpage": "410",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1128/CMR.00051-10",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "annotation_209": {
+      "type": "emphasis",
+      "id": "annotation_209",
+      "path": [
+        "article_citation_bib6",
+        "title"
+      ],
+      "target": null,
+      "range": [
+        32,
+        53
+      ]
+    },
+    "annotation_210": {
+      "type": "emphasis",
+      "id": "annotation_210",
+      "path": [
+        "article_citation_bib6",
+        "title"
+      ],
+      "target": null,
+      "range": [
+        58,
+        74
+      ]
+    },
+    "article_citation_bib7": {
+      "type": "article_citation",
+      "id": "article_citation_bib7",
+      "authors": [
+        {
+          "given-names": "P",
+          "last-name": "Carnevale"
+        },
+        {
+          "given-names": "JL",
+          "last-name": "Frezil"
+        },
+        {
+          "given-names": "MF",
+          "last-name": "Bosseno"
+        },
+        {
+          "given-names": "F",
+          "last-name": "Le Pont"
+        },
+        {
+          "given-names": "J",
+          "last-name": "Lancien"
+        }
+      ],
+      "title": "The aggressiveness of Anopheles gambiae A in relation to the age and sex of the human subjects",
+      "year": "1978",
+      "volume": "56",
+      "source": "Bull World Health Organ",
+      "issue": "",
+      "fpage": "147",
+      "lpage": "54",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "annotation_211": {
+      "type": "emphasis",
+      "id": "annotation_211",
+      "path": [
+        "article_citation_bib7",
+        "title"
+      ],
+      "target": null,
+      "range": [
+        22,
+        41
+      ]
+    },
+    "article_citation_bib8": {
+      "type": "article_citation",
+      "id": "article_citation_bib8",
+      "authors": [
+        {
+          "given-names": "N",
+          "last-name": "Chansamut"
+        },
+        {
+          "given-names": "S",
+          "last-name": "Buates"
+        },
+        {
+          "given-names": "R",
+          "last-name": "Takhampunya"
+        },
+        {
+          "given-names": "R",
+          "last-name": "Udomsangpetch"
+        },
+        {
+          "given-names": "S",
+          "last-name": "Bantuchai"
+        },
+        {
+          "given-names": "J",
+          "last-name": "Sattabongkot"
+        }
+      ],
+      "title": "Correlation of Pfg377 ortholog gene expression of Plasmodium vivax and mosquito infection",
+      "year": "2012",
+      "volume": "17",
+      "source": "Trop Med Int Health",
+      "issue": "",
+      "fpage": "414",
+      "lpage": "22",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1111/j.1365-3156.2011.02940.x",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "annotation_212": {
+      "type": "emphasis",
+      "id": "annotation_212",
+      "path": [
+        "article_citation_bib8",
+        "title"
+      ],
+      "target": null,
+      "range": [
+        50,
+        66
+      ]
+    },
+    "article_citation_bib9": {
+      "type": "article_citation",
+      "id": "article_citation_bib9",
+      "authors": [
+        {
+          "given-names": "TS",
+          "last-name": "Churcher"
+        },
+        {
+          "given-names": "AM",
+          "last-name": "Blagborough"
+        },
+        {
+          "given-names": "M",
+          "last-name": "Delves"
+        },
+        {
+          "given-names": "C",
+          "last-name": "Ramakrishnan"
+        },
+        {
+          "given-names": "MC",
+          "last-name": "Kapulu"
+        },
+        {
+          "given-names": "AR",
+          "last-name": "Williams"
+        }
+      ],
+      "title": "Measuring the blockade of malaria transmission—an analysis of the Standard Membrane Feeding Assay",
+      "year": "2012",
+      "volume": "42",
+      "source": "Int J Parasitol",
+      "issue": "",
+      "fpage": "1037",
+      "lpage": "44",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/j.ijpara.2012.09.002",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib10": {
+      "type": "article_citation",
+      "id": "article_citation_bib10",
+      "authors": [
+        {
+          "given-names": "TS",
+          "last-name": "Churcher"
+        },
+        {
+          "given-names": "T",
+          "last-name": "Bousema"
+        },
+        {
+          "given-names": "M",
+          "last-name": "Walker"
+        },
+        {
+          "given-names": "C",
+          "last-name": "Drakeley"
+        },
+        {
+          "given-names": "P",
+          "last-name": "Schneider"
+        },
+        {
+          "given-names": "AL",
+          "last-name": "Ouédraogo"
+        },
+        {
+          "given-names": "M",
+          "last-name": "Basáñez"
+        }
+      ],
+      "title": "Data from: Predicting mosquito infection from Plasmodium falciparum gametocyte density and estimating the reservoir of infection",
+      "year": "2013",
+      "volume": "",
+      "source": "Dryad Digital Repository",
+      "issue": "",
+      "fpage": "",
+      "lpage": "",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.5061/dryad.0k402",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "annotation_213": {
+      "type": "emphasis",
+      "id": "annotation_213",
+      "path": [
+        "article_citation_bib10",
+        "title"
+      ],
+      "target": null,
+      "range": [
+        46,
+        67
+      ]
+    },
+    "article_citation_bib11": {
+      "type": "article_citation",
+      "id": "article_citation_bib11",
+      "authors": [
+        {
+          "given-names": "MA",
+          "last-name": "Dowling"
+        },
+        {
+          "given-names": "GT",
+          "last-name": "Shute"
+        }
+      ],
+      "title": "A comparative study of thick and thin blood films in the diagnosis of scanty malaria parasitaemia",
+      "year": "1966",
+      "volume": "34",
+      "source": "Bull World Health Organ",
+      "issue": "",
+      "fpage": "249",
+      "lpage": "67",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib12": {
+      "type": "article_citation",
+      "id": "article_citation_bib12",
+      "authors": [
+        {
+          "given-names": "CJ",
+          "last-name": "Drakeley"
+        },
+        {
+          "given-names": "NI",
+          "last-name": "Akim"
+        },
+        {
+          "given-names": "RW",
+          "last-name": "Sauerwein"
+        },
+        {
+          "given-names": "BM",
+          "last-name": "Greenwood"
+        },
+        {
+          "given-names": "GA",
+          "last-name": "Targett"
+        }
+      ],
+      "title": "Estimates of the infectious reservoir of Plasmodium falciparum malaria in the Gambia and in Tanzania",
+      "year": "2000",
+      "volume": "94",
+      "source": "Trans R Soc Trop Med Hyg",
+      "issue": "",
+      "fpage": "472",
+      "lpage": "6",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/S0035-9203(00)90056-7",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "annotation_214": {
+      "type": "emphasis",
+      "id": "annotation_214",
+      "path": [
+        "article_citation_bib12",
+        "title"
+      ],
+      "target": null,
+      "range": [
+        41,
+        62
+      ]
+    },
+    "article_citation_bib13": {
+      "type": "article_citation",
+      "id": "article_citation_bib13",
+      "authors": [
+        {
+          "given-names": "CJ",
+          "last-name": "Drakeley"
+        },
+        {
+          "given-names": "JT",
+          "last-name": "Bousema"
+        },
+        {
+          "given-names": "NI",
+          "last-name": "Akim"
+        },
+        {
+          "given-names": "K",
+          "last-name": "Teelen"
+        },
+        {
+          "given-names": "W",
+          "last-name": "Roeffen"
+        },
+        {
+          "given-names": "AH",
+          "last-name": "Lensen"
+        }
+      ],
+      "title": "Transmission-reducing immunity is inversely related to age in Plasmodium falciparum gametocyte carriers",
+      "year": "2006",
+      "volume": "28",
+      "source": "Parasite Immunol",
+      "issue": "",
+      "fpage": "185",
+      "lpage": "90",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1111/j.1365-3024.2005.00818.x",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "annotation_215": {
+      "type": "emphasis",
+      "id": "annotation_215",
+      "path": [
+        "article_citation_bib13",
+        "title"
+      ],
+      "target": null,
+      "range": [
+        62,
+        83
+      ]
+    },
+    "article_citation_bib14": {
+      "type": "article_citation",
+      "id": "article_citation_bib14",
+      "authors": [
+        {
+          "given-names": "C",
+          "last-name": "Eisenhart"
+        }
+      ],
+      "title": "The interpretation of certain regression methods and their use in biological and industrial research",
+      "year": "1939",
+      "volume": "10",
+      "source": "Ann Math Statist",
+      "issue": "",
+      "fpage": "162",
+      "lpage": "86",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1214/aoms/1177732214",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib15": {
+      "type": "article_citation",
+      "id": "article_citation_bib15",
+      "authors": [
+        {
+          "given-names": "A",
+          "last-name": "Gelman"
+        },
+        {
+          "given-names": "DB",
+          "last-name": "Rubin"
+        }
+      ],
+      "title": "Markov chain Monte Carlo methods in biostatistics",
+      "year": "1996",
+      "volume": "5",
+      "source": "Stat Methods Med Res",
+      "issue": "",
+      "fpage": "339",
+      "lpage": "55",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1177/096228029600500402",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib16": {
+      "type": "article_citation",
+      "id": "article_citation_bib16",
+      "authors": [
+        {
+          "given-names": "AK",
+          "last-name": "Githeko"
+        },
+        {
+          "given-names": "AD",
+          "last-name": "Brandling-Bennett"
+        },
+        {
+          "given-names": "M",
+          "last-name": "Beier"
+        },
+        {
+          "given-names": "F",
+          "last-name": "Atieli"
+        },
+        {
+          "given-names": "M",
+          "last-name": "Owaga"
+        },
+        {
+          "given-names": "FH",
+          "last-name": "Collins"
+        }
+      ],
+      "title": "The reservoir of Plasmodium falciparum malaria in a holoendemic area of western Kenya",
+      "year": "1992",
+      "volume": "86",
+      "source": "Trans R Soc Trop Med Hyg",
+      "issue": "",
+      "fpage": "355",
+      "lpage": "8",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/0035-9203(92)90216-Y",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "annotation_216": {
+      "type": "emphasis",
+      "id": "annotation_216",
+      "path": [
+        "article_citation_bib16",
+        "title"
+      ],
+      "target": null,
+      "range": [
+        17,
+        38
+      ]
+    },
+    "article_citation_bib17": {
+      "type": "article_citation",
+      "id": "article_citation_bib17",
+      "authors": [
+        {
+          "given-names": "PM",
+          "last-name": "Graves"
+        },
+        {
+          "given-names": "TR",
+          "last-name": "Burkot"
+        },
+        {
+          "given-names": "R",
+          "last-name": "Carter"
+        },
+        {
+          "given-names": "JA",
+          "last-name": "Cattani"
+        },
+        {
+          "given-names": "M",
+          "last-name": "Lagog"
+        },
+        {
+          "given-names": "J",
+          "last-name": "Parker"
+        }
+      ],
+      "title": "Measurement of malarial infectivity of human populations to mosquitoes in the Madang area, Papua, New Guinea",
+      "year": "1988",
+      "volume": "96",
+      "source": "Parasitology",
+      "issue": "",
+      "fpage": "251",
+      "lpage": "63",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1017/S003118200005825X",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib18": {
+      "type": "article_citation",
+      "id": "article_citation_bib18",
+      "authors": [
+        {
+          "given-names": "PM",
+          "last-name": "Graves"
+        },
+        {
+          "given-names": "H",
+          "last-name": "Gelband"
+        },
+        {
+          "given-names": "P",
+          "last-name": "Garner"
+        }
+      ],
+      "title": "Primaquine for reducing Plasmodium falciparum transmission",
+      "year": "2012",
+      "volume": "9",
+      "source": "Cochrane Database Syst Rev",
+      "issue": "",
+      "fpage": "CD008152",
+      "lpage": "",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1002/14651858.CD008152.pub2",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "annotation_217": {
+      "type": "emphasis",
+      "id": "annotation_217",
+      "path": [
+        "article_citation_bib18",
+        "title"
+      ],
+      "target": null,
+      "range": [
+        24,
+        45
+      ]
+    },
+    "article_citation_bib19": {
+      "type": "article_citation",
+      "id": "article_citation_bib19",
+      "authors": [
+        {
+          "given-names": "JT",
+          "last-name": "Griffin"
+        },
+        {
+          "given-names": "TD",
+          "last-name": "Hollingsworth"
+        },
+        {
+          "given-names": "LC",
+          "last-name": "Okell"
+        },
+        {
+          "given-names": "TS",
+          "last-name": "Churcher"
+        },
+        {
+          "given-names": "M",
+          "last-name": "White"
+        },
+        {
+          "given-names": "W",
+          "last-name": "Hinsley"
+        }
+      ],
+      "title": "Reducing Plasmodium falciparum malaria transmission in Africa: a model-based evaluation of intervention strategies",
+      "year": "2010",
+      "volume": "7",
+      "source": "PLoS Med",
+      "issue": "",
+      "fpage": "e1000324",
+      "lpage": "",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1371/journal.pmed.1000324",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "annotation_218": {
+      "type": "emphasis",
+      "id": "annotation_218",
+      "path": [
+        "article_citation_bib19",
+        "title"
+      ],
+      "target": null,
+      "range": [
+        9,
+        30
+      ]
+    },
+    "article_citation_bib20": {
+      "type": "article_citation",
+      "id": "article_citation_bib20",
+      "authors": [
+        {
+          "given-names": "H",
+          "last-name": "Haji"
+        },
+        {
+          "given-names": "T",
+          "last-name": "Smith"
+        },
+        {
+          "given-names": "JD",
+          "last-name": "Charlwood"
+        },
+        {
+          "given-names": "JH",
+          "last-name": "Meuwissen"
+        }
+      ],
+      "title": "Absence of relationships between selected human factors and natural infectivity of Plasmodium falciparum to mosquitoes in an area of high transmission",
+      "year": "1996",
+      "volume": "113",
+      "source": "Parasitology",
+      "issue": "",
+      "fpage": "425",
+      "lpage": "31",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1017/S0031182000081488",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "annotation_219": {
+      "type": "emphasis",
+      "id": "annotation_219",
+      "path": [
+        "article_citation_bib20",
+        "title"
+      ],
+      "target": null,
+      "range": [
+        83,
+        104
+      ]
+    },
+    "article_citation_bib21": {
+      "type": "article_citation",
+      "id": "article_citation_bib21",
+      "authors": [
+        {
+          "given-names": "B",
+          "last-name": "Hoadley"
+        }
+      ],
+      "title": "A Bayesian look at inverse linear regression",
+      "year": "1970",
+      "volume": "65",
+      "source": "J Am Stat Assoc",
+      "issue": "",
+      "fpage": "356",
+      "lpage": "69",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib22": {
+      "type": "article_citation",
+      "id": "article_citation_bib22",
+      "authors": [
+        {
+          "given-names": "WG",
+          "last-name": "Hunter"
+        },
+        {
+          "given-names": "WF",
+          "last-name": "Lamboy"
+        }
+      ],
+      "title": "A Bayesian-analysis of the linear calibration-problem—response",
+      "year": "1981",
+      "volume": "23",
+      "source": "Technometrics",
+      "issue": "",
+      "fpage": "344",
+      "lpage": "50",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.2307/1268224",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib23": {
+      "type": "article_citation",
+      "id": "article_citation_bib23",
+      "authors": [
+        {
+          "given-names": "GM",
+          "last-name": "Jeffery"
+        },
+        {
+          "given-names": "DE",
+          "last-name": "Eyles"
+        }
+      ],
+      "title": "Infectivity to mosquitoes of Plasmodium falciparum as related to gametocyte density and duration of infection",
+      "year": "1955",
+      "volume": "4",
+      "source": "Am J Trop Med Hyg",
+      "issue": "",
+      "fpage": "781",
+      "lpage": "9",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "annotation_220": {
+      "type": "emphasis",
+      "id": "annotation_220",
+      "path": [
+        "article_citation_bib23",
+        "title"
+      ],
+      "target": null,
+      "range": [
+        29,
+        50
+      ]
+    },
+    "article_citation_bib24": {
+      "type": "article_citation",
+      "id": "article_citation_bib24",
+      "authors": [
+        {
+          "given-names": "S",
+          "last-name": "Lawpoolsri"
+        },
+        {
+          "given-names": "EY",
+          "last-name": "Klein"
+        },
+        {
+          "given-names": "P",
+          "last-name": "Singhasivanon"
+        },
+        {
+          "given-names": "S",
+          "last-name": "Yimsamran"
+        },
+        {
+          "given-names": "N",
+          "last-name": "Thanyavanich"
+        },
+        {
+          "given-names": "W",
+          "last-name": "Maneeboonyang"
+        }
+      ],
+      "title": "Optimally timing primaquine treatment to reduce Plasmodium falciparum transmission in low endemicity Thai-Myanmar border populations",
+      "year": "2009",
+      "volume": "8",
+      "source": "Malar J",
+      "issue": "",
+      "fpage": "159",
+      "lpage": "",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1186/1475-2875-8-159",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "annotation_221": {
+      "type": "emphasis",
+      "id": "annotation_221",
+      "path": [
+        "article_citation_bib24",
+        "title"
+      ],
+      "target": null,
+      "range": [
+        48,
+        69
+      ]
+    },
+    "article_citation_bib25": {
+      "type": "article_citation",
+      "id": "article_citation_bib25",
+      "authors": [
+        {
+          "given-names": "A",
+          "last-name": "Lensen"
+        },
+        {
+          "given-names": "A",
+          "last-name": "Bril"
+        },
+        {
+          "given-names": "M",
+          "last-name": "van de Vegte"
+        },
+        {
+          "given-names": "GJ",
+          "last-name": "van Gemert"
+        },
+        {
+          "given-names": "W",
+          "last-name": "Eling"
+        }
+      ],
+      "title": "Plasmodium falciparum: infectivity of cultured, synchronized gametocytes to mosquitoes",
+      "year": "1999",
+      "volume": "91",
+      "source": "Exp Parasitol",
+      "issue": "",
+      "fpage": "101",
+      "lpage": "3",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1006/expr.1998.4354",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "annotation_222": {
+      "type": "emphasis",
+      "id": "annotation_222",
+      "path": [
+        "article_citation_bib25",
+        "title"
+      ],
+      "target": null,
+      "range": [
+        0,
+        21
+      ]
+    },
+    "article_citation_bib26": {
+      "type": "article_citation",
+      "id": "article_citation_bib26",
+      "authors": [
+        {
+          "given-names": "D",
+          "last-name": "Lunn"
+        },
+        {
+          "given-names": "D",
+          "last-name": "Spiegelhalter"
+        },
+        {
+          "given-names": "A",
+          "last-name": "Thomas"
+        },
+        {
+          "given-names": "N",
+          "last-name": "Best"
+        }
+      ],
+      "title": "The BUGS project: evolution, critique and future directions",
+      "year": "2009",
+      "volume": "28",
+      "source": "Stat Med",
+      "issue": "",
+      "fpage": "3049",
+      "lpage": "67",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1002/sim.3680",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib27": {
+      "type": "article_citation",
+      "id": "article_citation_bib27",
+      "authors": [
+        {
+          "given-names": "RM",
+          "last-name": "May"
+        }
+      ],
+      "title": "Togetherness in schistosomes: its effects on the dynamics of infection",
+      "year": "1977",
+      "volume": "35",
+      "source": "Math Biosci",
+      "issue": "",
+      "fpage": "301",
+      "lpage": "45",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/0025-5564(77)90030-X",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib28": {
+      "type": "article_citation",
+      "id": "article_citation_bib28",
+      "authors": [
+        {
+          "given-names": "RC",
+          "last-name": "Muirhead-Thomson"
+        }
+      ],
+      "title": "The malarial infectivity of an African village population to mosquitoes (Anopheles gambiae): a random xenodiagnostic survey",
+      "year": "1957",
+      "volume": "6",
+      "source": "Am J Trop Med Hyg",
+      "issue": "",
+      "fpage": "971",
+      "lpage": "9",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "annotation_223": {
+      "type": "emphasis",
+      "id": "annotation_223",
+      "path": [
+        "article_citation_bib28",
+        "title"
+      ],
+      "target": null,
+      "range": [
+        73,
+        90
+      ]
+    },
+    "article_citation_bib29": {
+      "type": "article_citation",
+      "id": "article_citation_bib29",
+      "authors": [
+        {
+          "given-names": "SE",
+          "last-name": "Nsango"
+        },
+        {
+          "given-names": "L",
+          "last-name": "Abate"
+        },
+        {
+          "given-names": "M",
+          "last-name": "Thoma"
+        },
+        {
+          "given-names": "J",
+          "last-name": "Pompon"
+        },
+        {
+          "given-names": "M",
+          "last-name": "Fraiture"
+        },
+        {
+          "given-names": "A",
+          "last-name": "Rademacher"
+        }
+      ],
+      "title": "Genetic clonality of Plasmodium falciparum affects the outcome of infection in Anopheles gambiae",
+      "year": "2012",
+      "volume": "42",
+      "source": "Int J Parasitol",
+      "issue": "",
+      "fpage": "589",
+      "lpage": "95",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/j.ijpara.2012.03.008",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "annotation_224": {
+      "type": "emphasis",
+      "id": "annotation_224",
+      "path": [
+        "article_citation_bib29",
+        "title"
+      ],
+      "target": null,
+      "range": [
+        21,
+        42
+      ]
+    },
+    "annotation_225": {
+      "type": "emphasis",
+      "id": "annotation_225",
+      "path": [
+        "article_citation_bib29",
+        "title"
+      ],
+      "target": null,
+      "range": [
+        79,
+        96
+      ]
+    },
+    "article_citation_bib30": {
+      "type": "article_citation",
+      "id": "article_citation_bib30",
+      "authors": [
+        {
+          "given-names": "C",
+          "last-name": "Osborne"
+        }
+      ],
+      "title": "Statistical calibration—a review",
+      "year": "1991",
+      "volume": "59",
+      "source": "Int Stat Rev",
+      "issue": "",
+      "fpage": "309",
+      "lpage": "36",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.2307/1403690",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib31": {
+      "type": "article_citation",
+      "id": "article_citation_bib31",
+      "authors": [
+        {
+          "given-names": "AL",
+          "last-name": "Ouédraogo"
+        },
+        {
+          "given-names": "T",
+          "last-name": "Bousema"
+        },
+        {
+          "given-names": "SJ",
+          "last-name": "de Vlas"
+        },
+        {
+          "given-names": "N",
+          "last-name": "Cuzin-Ouattara"
+        },
+        {
+          "given-names": "JP",
+          "last-name": "Verhave"
+        }
+      ],
+      "title": "The plasticity of Plasmodium falciparum gametocytaemia in relation to age in Burkina Faso",
+      "year": "2010",
+      "volume": "9",
+      "source": "Malar J",
+      "issue": "",
+      "fpage": "281",
+      "lpage": "",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1186/1475-2875-9-281",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "annotation_226": {
+      "type": "emphasis",
+      "id": "annotation_226",
+      "path": [
+        "article_citation_bib31",
+        "title"
+      ],
+      "target": null,
+      "range": [
+        18,
+        39
+      ]
+    },
+    "article_citation_bib32": {
+      "type": "article_citation",
+      "id": "article_citation_bib32",
+      "authors": [
+        {
+          "given-names": "AL",
+          "last-name": "Ouédraogo"
+        },
+        {
+          "given-names": "T",
+          "last-name": "Bousema"
+        },
+        {
+          "given-names": "P",
+          "last-name": "Schneider"
+        },
+        {
+          "given-names": "SJ",
+          "last-name": "de Vlas"
+        },
+        {
+          "given-names": "E",
+          "last-name": "Ilboudo-Sanogo"
+        }
+      ],
+      "title": "Substantial contribution of submicroscopical Plasmodium falciparum gametocyte carriage to the infectious reservoir in an area of seasonal transmission",
+      "year": "2009",
+      "volume": "4",
+      "source": "PLoS One",
+      "issue": "",
+      "fpage": "e8410",
+      "lpage": "",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1371/journal.pone.0008410",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "annotation_227": {
+      "type": "emphasis",
+      "id": "annotation_227",
+      "path": [
+        "article_citation_bib32",
+        "title"
+      ],
+      "target": null,
+      "range": [
+        45,
+        66
+      ]
+    },
+    "article_citation_bib33": {
+      "type": "article_citation",
+      "id": "article_citation_bib33",
+      "authors": [
+        {
+          "given-names": "AL",
+          "last-name": "Ouédraogo"
+        },
+        {
+          "given-names": "T",
+          "last-name": "Bousema"
+        },
+        {
+          "given-names": "P",
+          "last-name": "Schneider"
+        },
+        {
+          "given-names": "SJ",
+          "last-name": "de Vlas"
+        },
+        {
+          "given-names": "E",
+          "last-name": "Ilboudo-Sanogo"
+        }
+      ],
+      "title": "Data from: Substantial contribution of submicroscopical Plasmodium falciparum gametocyte carriage to the infectious reservoir in an area of seasonal transmission",
+      "year": "2013",
+      "volume": "",
+      "source": "Dryad Digital Repository",
+      "issue": "",
+      "fpage": "",
+      "lpage": "",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.5061/dryad.hv01f",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "annotation_228": {
+      "type": "emphasis",
+      "id": "annotation_228",
+      "path": [
+        "article_citation_bib33",
+        "title"
+      ],
+      "target": null,
+      "range": [
+        56,
+        77
+      ]
+    },
+    "article_citation_bib34": {
+      "type": "article_citation",
+      "id": "article_citation_bib34",
+      "authors": [
+        {
+          "given-names": "SE",
+          "last-name": "Reece"
+        },
+        {
+          "given-names": "DR",
+          "last-name": "Drew"
+        },
+        {
+          "given-names": "A",
+          "last-name": "Gardner"
+        }
+      ],
+      "title": "Sex ratio adjustment and kin discrimination in malaria parasites",
+      "year": "2008",
+      "volume": "453",
+      "source": "Nature",
+      "issue": "",
+      "fpage": "609",
+      "lpage": "14",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1038/nature06954",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib35": {
+      "type": "article_citation",
+      "id": "article_citation_bib35",
+      "authors": [
+        {
+          "given-names": "A",
+          "last-name": "Ross"
+        },
+        {
+          "given-names": "G",
+          "last-name": "Killeen"
+        },
+        {
+          "given-names": "T",
+          "last-name": "Smith"
+        }
+      ],
+      "title": "Relationships between host infectivity to mosquitoes and asexual parasite density in Plasmodium falciparum",
+      "year": "2006",
+      "volume": "75",
+      "source": "Am J Trop Med Hyg",
+      "issue": "",
+      "fpage": "32",
+      "lpage": "7",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": [],
+      "supplement": "2 suppl"
+    },
+    "annotation_229": {
+      "type": "emphasis",
+      "id": "annotation_229",
+      "path": [
+        "article_citation_bib35",
+        "title"
+      ],
+      "target": null,
+      "range": [
+        85,
+        106
+      ]
+    },
+    "article_citation_bib36": {
+      "type": "article_citation",
+      "id": "article_citation_bib36",
+      "authors": [
+        {
+          "given-names": "P",
+          "last-name": "Schneider"
+        }
+      ],
+      "title": "Submicroscopic Plasmodium falciparum gametocytaemia and the contribution to malaria transmission",
+      "year": "2006",
+      "volume": "",
+      "source": "",
+      "issue": "",
+      "fpage": "",
+      "lpage": "",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "Radboud University Nijmegen Medical Centre",
+      "publisher-loc": "Nijmegen, The Netherlands",
+      "doi": "",
+      "citation_url": [],
+      "format": "thesis",
+      "label": "",
+      "editors": [],
+      "comment": "PhD Thesis"
+    },
+    "annotation_230": {
+      "type": "emphasis",
+      "id": "annotation_230",
+      "path": [
+        "article_citation_bib36",
+        "title"
+      ],
+      "target": null,
+      "range": [
+        15,
+        36
+      ]
+    },
+    "article_citation_bib37": {
+      "type": "article_citation",
+      "id": "article_citation_bib37",
+      "authors": [
+        {
+          "given-names": "P",
+          "last-name": "Schneider"
+        },
+        {
+          "given-names": "JT",
+          "last-name": "Bousema"
+        },
+        {
+          "given-names": "LC",
+          "last-name": "Gouagna"
+        },
+        {
+          "given-names": "S",
+          "last-name": "Otieno"
+        },
+        {
+          "given-names": "M",
+          "last-name": "van de Vegte-Bolmer"
+        },
+        {
+          "given-names": "SA",
+          "last-name": "Omar"
+        }
+      ],
+      "title": "Submicroscopic Plasmodium falciparum gametocyte densities frequently result in mosquito infection",
+      "year": "2007",
+      "volume": "76",
+      "source": "Am J Trop Med Hyg",
+      "issue": "",
+      "fpage": "470",
+      "lpage": "4",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "annotation_231": {
+      "type": "emphasis",
+      "id": "annotation_231",
+      "path": [
+        "article_citation_bib37",
+        "title"
+      ],
+      "target": null,
+      "range": [
+        15,
+        36
+      ]
+    },
+    "article_citation_bib38": {
+      "type": "article_citation",
+      "id": "article_citation_bib38",
+      "authors": [
+        {
+          "given-names": "P",
+          "last-name": "Schneider"
+        },
+        {
+          "given-names": "G",
+          "last-name": "Schoone"
+        },
+        {
+          "given-names": "H",
+          "last-name": "Schallig"
+        },
+        {
+          "given-names": "D",
+          "last-name": "Verhage"
+        },
+        {
+          "given-names": "D",
+          "last-name": "Telgt"
+        },
+        {
+          "given-names": "W",
+          "last-name": "Eling"
+        }
+      ],
+      "title": "Quantification of Plasmodium falciparum gametocytes in differential stages of development by quantitative nucleic acid sequence-based amplification",
+      "year": "2004",
+      "volume": "137",
+      "source": "Mol Biochem Parasitol",
+      "issue": "",
+      "fpage": "35",
+      "lpage": "41",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/j.molbiopara.2004.03.018",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "annotation_232": {
+      "type": "emphasis",
+      "id": "annotation_232",
+      "path": [
+        "article_citation_bib38",
+        "title"
+      ],
+      "target": null,
+      "range": [
+        18,
+        39
+      ]
+    },
+    "article_citation_bib39": {
+      "type": "article_citation",
+      "id": "article_citation_bib39",
+      "authors": [
+        {
+          "given-names": "P",
+          "last-name": "Schneider"
+        },
+        {
+          "given-names": "JT",
+          "last-name": "Bousema"
+        },
+        {
+          "given-names": "LC",
+          "last-name": "Gouagna"
+        },
+        {
+          "given-names": "S",
+          "last-name": "Otieno"
+        },
+        {
+          "given-names": "M",
+          "last-name": "van de Vegte-Bolmer"
+        }
+      ],
+      "title": "Data from: Submicroscopic Plasmodium falciparum gametocyte densities frequently result in mosquito infection",
+      "year": "2013",
+      "volume": "",
+      "source": "Dryad Digital Repository",
+      "issue": "",
+      "fpage": "",
+      "lpage": "",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.5061/dryad.589ft",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "annotation_233": {
+      "type": "emphasis",
+      "id": "annotation_233",
+      "path": [
+        "article_citation_bib39",
+        "title"
+      ],
+      "target": null,
+      "range": [
+        26,
+        47
+      ]
+    },
+    "article_citation_bib40": {
+      "type": "article_citation",
+      "id": "article_citation_bib40",
+      "authors": [
+        {
+          "given-names": "RE",
+          "last-name": "Sinden"
+        },
+        {
+          "given-names": "EJ",
+          "last-name": "Dawes"
+        },
+        {
+          "given-names": "Y",
+          "last-name": "Alavi"
+        },
+        {
+          "given-names": "J",
+          "last-name": "Waldock"
+        },
+        {
+          "given-names": "O",
+          "last-name": "Finney"
+        },
+        {
+          "given-names": "J",
+          "last-name": "Mendoza"
+        }
+      ],
+      "title": "Progression of Plasmodium berghei through Anopheles stephensi is density-dependent",
+      "year": "2007",
+      "volume": "3",
+      "source": "PLoS Pathog",
+      "issue": "",
+      "fpage": "e195",
+      "lpage": "",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1371/journal.ppat.0030195",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "annotation_234": {
+      "type": "emphasis",
+      "id": "annotation_234",
+      "path": [
+        "article_citation_bib40",
+        "title"
+      ],
+      "target": null,
+      "range": [
+        15,
+        33
+      ]
+    },
+    "annotation_235": {
+      "type": "emphasis",
+      "id": "annotation_235",
+      "path": [
+        "article_citation_bib40",
+        "title"
+      ],
+      "target": null,
+      "range": [
+        42,
+        61
+      ]
+    },
+    "article_citation_bib41": {
+      "type": "article_citation",
+      "id": "article_citation_bib41",
+      "authors": [
+        {
+          "given-names": "DL",
+          "last-name": "Smith"
+        },
+        {
+          "given-names": "FE",
+          "last-name": "McKenzie"
+        },
+        {
+          "given-names": "RW",
+          "last-name": "Snow"
+        },
+        {
+          "given-names": "SI",
+          "last-name": "Hay"
+        }
+      ],
+      "title": "Revisiting the basic reproductive number for malaria and its implications for malaria control",
+      "year": "2007",
+      "volume": "5",
+      "source": "PLoS Biol",
+      "issue": "",
+      "fpage": "e42",
+      "lpage": "",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1371/journal.pbio.0050042",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib42": {
+      "type": "article_citation",
+      "id": "article_citation_bib42",
+      "authors": [
+        {
+          "given-names": "DJ",
+          "last-name": "Spiegelhalter"
+        },
+        {
+          "given-names": "NG",
+          "last-name": "Best"
+        },
+        {
+          "given-names": "BR",
+          "last-name": "Carlin"
+        },
+        {
+          "given-names": "A",
+          "last-name": "van der Linde"
+        }
+      ],
+      "title": "Bayesian measures of model complexity and fit",
+      "year": "2002",
+      "volume": "64",
+      "source": "J Roy Stat Soc B Stat Meth",
+      "issue": "",
+      "fpage": "583",
+      "lpage": "616",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1111/1467-9868.00353",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib43": {
+      "type": "article_citation",
+      "id": "article_citation_bib43",
+      "authors": [
+        {
+          "given-names": "NJ",
+          "last-name": "White"
+        }
+      ],
+      "title": "Primaquine to prevent transmission of falciparum malaria",
+      "year": "2013",
+      "volume": "13",
+      "source": "Lancet Infect Dis",
+      "issue": "",
+      "fpage": "175",
+      "lpage": "81",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/S1473-3099(12)70198-6",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib44": {
+      "type": "article_citation",
+      "id": "article_citation_bib44",
+      "authors": [],
+      "title": "Updated WHO policy recommendation (October 2012): single dose primaquine as a gametocytocide in Plasmodium falciparum malaria",
+      "year": "2012",
+      "volume": "",
+      "source": "",
+      "issue": "",
+      "fpage": "",
+      "lpage": "",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/http://www.who.int/malaria/pq_updated_policy_recommendation_en_102012.pdf",
+      "citation_url": [],
+      "format": "web",
+      "label": "",
+      "editors": [],
+      "comment": "(accessed Dec 14, 2012)"
+    },
+    "annotation_236": {
+      "type": "emphasis",
+      "id": "annotation_236",
+      "path": [
+        "article_citation_bib44",
+        "title"
+      ],
+      "target": null,
+      "range": [
+        96,
+        117
+      ]
+    },
+    "sub-article": {
+      "type": "heading",
+      "id": "sub-article",
+      "level": 1,
+      "content": "Article Commentary",
+      "nodes": []
+    }
+  }
+}

@@ -38,43 +38,46 @@
         "paragraph_147",
         "paragraph_149",
         "paragraph_151",
-        "paragraph_191",
+        "heading_s2-5",
+        "paragraph_160",
+        "paragraph_202",
         "heading_s3",
-        "paragraph_206",
-        "paragraph_218",
-        "paragraph_221",
+        "paragraph_217",
+        "paragraph_229",
+        "paragraph_232",
         "heading_s3-1",
-        "paragraph_224",
-        "paragraph_233",
-        "paragraph_236",
-        "paragraph_242",
+        "paragraph_235",
+        "paragraph_244",
         "paragraph_247",
-        "paragraph_255",
-        "heading_s3-2",
+        "paragraph_253",
         "paragraph_258",
-        "paragraph_260",
-        "paragraph_261",
+        "paragraph_266",
+        "heading_s3-2",
+        "paragraph_269",
+        "paragraph_271",
+        "paragraph_272",
         "heading_s4",
         "heading_s4-1",
-        "paragraph_265",
-        "heading_s4-2",
-        "paragraph_270",
-        "heading_s4-3",
         "paragraph_276",
+        "heading_s4-2",
+        "paragraph_281",
+        "heading_s4-3",
+        "paragraph_287",
         "heading_s4-4",
-        "paragraph_279",
-        "heading_s4-5",
-        "paragraph_282",
-        "heading_s4-6",
-        "paragraph_284",
         "paragraph_290",
-        "paragraph_296",
+        "heading_s4-5",
+        "paragraph_293",
+        "heading_s4-6",
+        "paragraph_295",
+        "paragraph_301",
+        "paragraph_307",
         "heading_s4-7",
-        "paragraph_299",
+        "paragraph_310",
         "heading_s4-8",
-        "paragraph_302",
+        "paragraph_313",
         "heading_s4-9",
-        "paragraph_303",
+        "paragraph_314",
+        "sub-article",
         "sub-article"
       ]
     },
@@ -111,7 +114,58 @@
     "citations": {
       "type": "view",
       "id": "citations",
-      "nodes": []
+      "nodes": [
+        "article_citation_bib1",
+        "article_citation_bib2",
+        "article_citation_bib3",
+        "article_citation_bib4",
+        "article_citation_bib5",
+        "article_citation_bib6",
+        "article_citation_bib7",
+        "article_citation_bib8",
+        "article_citation_bib9",
+        "article_citation_bib10",
+        "article_citation_bib11",
+        "article_citation_bib12",
+        "article_citation_bib13",
+        "article_citation_bib14",
+        "article_citation_bib15",
+        "article_citation_bib16",
+        "article_citation_bib17",
+        "article_citation_bib18",
+        "article_citation_bib19",
+        "article_citation_bib20",
+        "article_citation_bib21",
+        "article_citation_bib22",
+        "article_citation_bib23",
+        "article_citation_bib24",
+        "article_citation_bib25",
+        "article_citation_bib26",
+        "article_citation_bib27",
+        "article_citation_bib28",
+        "article_citation_bib29",
+        "article_citation_bib30",
+        "article_citation_bib31",
+        "article_citation_bib32",
+        "article_citation_bib33",
+        "article_citation_bib34",
+        "article_citation_bib35",
+        "article_citation_bib36",
+        "article_citation_bib37",
+        "article_citation_bib38",
+        "article_citation_bib39",
+        "article_citation_bib40",
+        "article_citation_bib41",
+        "article_citation_bib42",
+        "article_citation_bib43",
+        "article_citation_bib44",
+        "article_citation_bib45",
+        "article_citation_bib46",
+        "article_citation_bib47",
+        "article_citation_bib48",
+        "article_citation_bib49",
+        "article_citation_bib50"
+      ]
     },
     "document": {
       "type": "document",
@@ -836,7 +890,7 @@
         "paragraph_46",
         "content"
       ],
-      "target": "image_fig1s1 fig1s2",
+      "target": "image_fig1s1",
       "range": [
         976,
         1011
@@ -1837,7 +1891,7 @@
         "paragraph_109",
         "content"
       ],
-      "target": "image_fig6s1 fig6s2 fig6s3",
+      "target": "image_fig6s1",
       "range": [
         456,
         487
@@ -2566,6 +2620,148 @@
       "id": "paragraph_table_tbl1",
       "content": "Statistical analysis of ChIP-chip data"
     },
+    "heading_s2-5": {
+      "type": "heading",
+      "id": "heading_s2-5",
+      "level": 2,
+      "content": "The composition of hESC TAFs is required for proper regulation of gene expression and maintenance of the undifferentiated state",
+      "nodes": []
+    },
+    "paragraph_160": {
+      "type": "paragraph",
+      "id": "paragraph_160",
+      "content": "Finally, we analyzed whether the unusual composition of TAFs was important for the characteristic ability of hESCs to maintain an undifferentiated state and self-renew. Figure 8A shows that shRNA-mediated knockdown of each of the six hESC TAFs (Figure 8—figure supplement 1) induced differentiation, as evidenced by a decreased percentage of alkaline phosphatase-positive colonies. To confirm this conclusion, we also tested whether knocking down hESC TAFs would induce differentiation by analyzing expression of a diverse set of differentiation markers: AFP (endoderm), CGB7 (trophoectoderm), IGF2 (mesoderm), NES (ectoderm) and SOX1 (neuroectoderm). Figure 8B shows that depletion of each hESC TAF resulted in up-regulation, to varying extents, of these differentiation markers. Comparable results were obtained with a second, unrelated shRNA or siRNA directed against each of the six TAFs (Figure 8—figure supplements 2 and 3). Finally, the induction of differentiation following knockdown of hESC TAFs was also evidenced by decreased expression of the pluripotency genes NANOG (Figure 8C and Figure 8—figure supplement 4) and OCT4 (Figure 5 and Figure 5—figure supplement 2). Thus, the hESC TAFs are required to maintain the undifferentiated state."
+    },
+    "figure_reference_161": {
+      "type": "figure_reference",
+      "id": "figure_reference_161",
+      "path": [
+        "paragraph_160",
+        "content"
+      ],
+      "target": "image_fig8",
+      "range": [
+        169,
+        178
+      ]
+    },
+    "figure_reference_162": {
+      "type": "figure_reference",
+      "id": "figure_reference_162",
+      "path": [
+        "paragraph_160",
+        "content"
+      ],
+      "target": "image_fig8s1",
+      "range": [
+        245,
+        273
+      ]
+    },
+    "figure_reference_163": {
+      "type": "figure_reference",
+      "id": "figure_reference_163",
+      "path": [
+        "paragraph_160",
+        "content"
+      ],
+      "target": "image_fig8",
+      "range": [
+        652,
+        661
+      ]
+    },
+    "figure_reference_164": {
+      "type": "figure_reference",
+      "id": "figure_reference_164",
+      "path": [
+        "paragraph_160",
+        "content"
+      ],
+      "target": "image_fig8s2",
+      "range": [
+        893,
+        928
+      ]
+    },
+    "annotation_165": {
+      "type": "emphasis",
+      "id": "annotation_165",
+      "path": [
+        "paragraph_160",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1075,
+        1080
+      ]
+    },
+    "figure_reference_166": {
+      "type": "figure_reference",
+      "id": "figure_reference_166",
+      "path": [
+        "paragraph_160",
+        "content"
+      ],
+      "target": "image_fig8",
+      "range": [
+        1082,
+        1091
+      ]
+    },
+    "figure_reference_167": {
+      "type": "figure_reference",
+      "id": "figure_reference_167",
+      "path": [
+        "paragraph_160",
+        "content"
+      ],
+      "target": "image_fig8s4",
+      "range": [
+        1096,
+        1124
+      ]
+    },
+    "annotation_168": {
+      "type": "emphasis",
+      "id": "annotation_168",
+      "path": [
+        "paragraph_160",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1130,
+        1134
+      ]
+    },
+    "figure_reference_169": {
+      "type": "figure_reference",
+      "id": "figure_reference_169",
+      "path": [
+        "paragraph_160",
+        "content"
+      ],
+      "target": "image_fig5",
+      "range": [
+        1136,
+        1144
+      ]
+    },
+    "figure_reference_170": {
+      "type": "figure_reference",
+      "id": "figure_reference_170",
+      "path": [
+        "paragraph_160",
+        "content"
+      ],
+      "target": "image_fig5s2",
+      "range": [
+        1149,
+        1177
+      ]
+    },
     "image_fig8": {
       "type": "image",
       "id": "image_fig8",
@@ -2589,9 +2785,9 @@
       "id": "paragraph_image_fig8",
       "content": "(A) Percent of H9 TAF knockdown (KD) colonies staining with alkaline phosphatase. Data are represented as mean ± SD. (B) qRT-PCR analysis monitoring expression of differentiation markers (AFP, CGB7, IGF2, NES and SOX1) in H9 cells treated with a TAF siRNA. Values are relative to those obtained with a control luciferase siRNA, which was set to 1. Data are represented as mean ± SEM. (C) qRT-PCR analysis monitoring expression of NANOG in H9 cells treated with a TAF siRNA. Values are relative to those obtained with a control luciferase siRNA, which was set to 1. Data are represented as mean ± SEM. (D) qRT-PCR analysis monitoring TAF1 expression in H9 cells transfected with a plasmid expressing TAF1 or, as a control, empty vector. Expression of TAF1 was monitored 48 hr following transfection. TAF1 expression is specified relative to that obtained with the empty vector, which was set to 1. Data are represented as mean ± SEM. (E) Alkaline phosphatase staining of H9 colonies ectopically expressing TAF1 or, as a control, vector. Data are represented as mean ± SD. (F) qRT-PCR monitoring expression of differentiation markers (AFP, CGB7, IGF2, NES and SOX1) in H9 cells ectopically expressing TAF1. Values are relative to those obtained in H9 cells expressing vector, which was set to 1. Data are represented as mean ± SEM. (G) qRT-PCR monitoring expression of class I and II genes in H9 cells ectopically expressing TAF1. Data are represented as mean ± SEM. (H) Immunoblot analysis showing OCT4 levels in H9 cells over-expressing TAFs, TBP or vector. (I) ChIP analysis monitoring recruitment of TBP, POL2 and TAF1 to the OCT4 promoter in H9 cells ectopically expressing TAF1 or vector. Data are represented as mean ± SD. (J) Schematic model. Some of the protein interactions shown are arbitrary."
     },
-    "annotation_160": {
+    "annotation_171": {
       "type": "strong",
-      "id": "annotation_160",
+      "id": "annotation_171",
       "path": [
         "paragraph_image_fig8",
         "content"
@@ -2602,9 +2798,9 @@
         2
       ]
     },
-    "annotation_161": {
+    "annotation_172": {
       "type": "strong",
-      "id": "annotation_161",
+      "id": "annotation_172",
       "path": [
         "paragraph_image_fig8",
         "content"
@@ -2613,149 +2809,6 @@
       "range": [
         118,
         119
-      ]
-    },
-    "annotation_162": {
-      "type": "emphasis",
-      "id": "annotation_162",
-      "path": [
-        "paragraph_image_fig8",
-        "content"
-      ],
-      "target": null,
-      "range": [
-        188,
-        191
-      ]
-    },
-    "annotation_163": {
-      "type": "emphasis",
-      "id": "annotation_163",
-      "path": [
-        "paragraph_image_fig8",
-        "content"
-      ],
-      "target": null,
-      "range": [
-        193,
-        197
-      ]
-    },
-    "annotation_164": {
-      "type": "emphasis",
-      "id": "annotation_164",
-      "path": [
-        "paragraph_image_fig8",
-        "content"
-      ],
-      "target": null,
-      "range": [
-        199,
-        203
-      ]
-    },
-    "annotation_165": {
-      "type": "emphasis",
-      "id": "annotation_165",
-      "path": [
-        "paragraph_image_fig8",
-        "content"
-      ],
-      "target": null,
-      "range": [
-        205,
-        208
-      ]
-    },
-    "annotation_166": {
-      "type": "emphasis",
-      "id": "annotation_166",
-      "path": [
-        "paragraph_image_fig8",
-        "content"
-      ],
-      "target": null,
-      "range": [
-        213,
-        217
-      ]
-    },
-    "annotation_167": {
-      "type": "strong",
-      "id": "annotation_167",
-      "path": [
-        "paragraph_image_fig8",
-        "content"
-      ],
-      "target": null,
-      "range": [
-        385,
-        386
-      ]
-    },
-    "annotation_168": {
-      "type": "emphasis",
-      "id": "annotation_168",
-      "path": [
-        "paragraph_image_fig8",
-        "content"
-      ],
-      "target": null,
-      "range": [
-        430,
-        435
-      ]
-    },
-    "annotation_169": {
-      "type": "strong",
-      "id": "annotation_169",
-      "path": [
-        "paragraph_image_fig8",
-        "content"
-      ],
-      "target": null,
-      "range": [
-        602,
-        603
-      ]
-    },
-    "annotation_170": {
-      "type": "emphasis",
-      "id": "annotation_170",
-      "path": [
-        "paragraph_image_fig8",
-        "content"
-      ],
-      "target": null,
-      "range": [
-        633,
-        637
-      ]
-    },
-    "annotation_171": {
-      "type": "emphasis",
-      "id": "annotation_171",
-      "path": [
-        "paragraph_image_fig8",
-        "content"
-      ],
-      "target": null,
-      "range": [
-        699,
-        703
-      ]
-    },
-    "annotation_172": {
-      "type": "emphasis",
-      "id": "annotation_172",
-      "path": [
-        "paragraph_image_fig8",
-        "content"
-      ],
-      "target": null,
-      "range": [
-        750,
-        754
       ]
     },
     "annotation_173": {
@@ -2767,12 +2820,12 @@
       ],
       "target": null,
       "range": [
-        799,
-        803
+        188,
+        191
       ]
     },
     "annotation_174": {
-      "type": "strong",
+      "type": "emphasis",
       "id": "annotation_174",
       "path": [
         "paragraph_image_fig8",
@@ -2780,12 +2833,12 @@
       ],
       "target": null,
       "range": [
-        934,
-        935
+        193,
+        197
       ]
     },
     "annotation_175": {
-      "type": "strong",
+      "type": "emphasis",
       "id": "annotation_175",
       "path": [
         "paragraph_image_fig8",
@@ -2793,8 +2846,8 @@
       ],
       "target": null,
       "range": [
-        1072,
-        1073
+        199,
+        203
       ]
     },
     "annotation_176": {
@@ -2806,8 +2859,8 @@
       ],
       "target": null,
       "range": [
-        1133,
-        1136
+        205,
+        208
       ]
     },
     "annotation_177": {
@@ -2819,12 +2872,12 @@
       ],
       "target": null,
       "range": [
-        1138,
-        1142
+        213,
+        217
       ]
     },
     "annotation_178": {
-      "type": "emphasis",
+      "type": "strong",
       "id": "annotation_178",
       "path": [
         "paragraph_image_fig8",
@@ -2832,8 +2885,8 @@
       ],
       "target": null,
       "range": [
-        1144,
-        1148
+        385,
+        386
       ]
     },
     "annotation_179": {
@@ -2845,12 +2898,12 @@
       ],
       "target": null,
       "range": [
-        1150,
-        1153
+        430,
+        435
       ]
     },
     "annotation_180": {
-      "type": "emphasis",
+      "type": "strong",
       "id": "annotation_180",
       "path": [
         "paragraph_image_fig8",
@@ -2858,12 +2911,12 @@
       ],
       "target": null,
       "range": [
-        1158,
-        1162
+        602,
+        603
       ]
     },
     "annotation_181": {
-      "type": "strong",
+      "type": "emphasis",
       "id": "annotation_181",
       "path": [
         "paragraph_image_fig8",
@@ -2871,12 +2924,12 @@
       ],
       "target": null,
       "range": [
-        1331,
-        1332
+        633,
+        637
       ]
     },
     "annotation_182": {
-      "type": "strong",
+      "type": "emphasis",
       "id": "annotation_182",
       "path": [
         "paragraph_image_fig8",
@@ -2884,12 +2937,12 @@
       ],
       "target": null,
       "range": [
-        1466,
-        1467
+        699,
+        703
       ]
     },
     "annotation_183": {
-      "type": "strong",
+      "type": "emphasis",
       "id": "annotation_183",
       "path": [
         "paragraph_image_fig8",
@@ -2897,8 +2950,8 @@
       ],
       "target": null,
       "range": [
-        1559,
-        1560
+        750,
+        754
       ]
     },
     "annotation_184": {
@@ -2910,13 +2963,156 @@
       ],
       "target": null,
       "range": [
-        1628,
-        1632
+        799,
+        803
       ]
     },
     "annotation_185": {
       "type": "strong",
       "id": "annotation_185",
+      "path": [
+        "paragraph_image_fig8",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        934,
+        935
+      ]
+    },
+    "annotation_186": {
+      "type": "strong",
+      "id": "annotation_186",
+      "path": [
+        "paragraph_image_fig8",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1072,
+        1073
+      ]
+    },
+    "annotation_187": {
+      "type": "emphasis",
+      "id": "annotation_187",
+      "path": [
+        "paragraph_image_fig8",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1133,
+        1136
+      ]
+    },
+    "annotation_188": {
+      "type": "emphasis",
+      "id": "annotation_188",
+      "path": [
+        "paragraph_image_fig8",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1138,
+        1142
+      ]
+    },
+    "annotation_189": {
+      "type": "emphasis",
+      "id": "annotation_189",
+      "path": [
+        "paragraph_image_fig8",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1144,
+        1148
+      ]
+    },
+    "annotation_190": {
+      "type": "emphasis",
+      "id": "annotation_190",
+      "path": [
+        "paragraph_image_fig8",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1150,
+        1153
+      ]
+    },
+    "annotation_191": {
+      "type": "emphasis",
+      "id": "annotation_191",
+      "path": [
+        "paragraph_image_fig8",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1158,
+        1162
+      ]
+    },
+    "annotation_192": {
+      "type": "strong",
+      "id": "annotation_192",
+      "path": [
+        "paragraph_image_fig8",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1331,
+        1332
+      ]
+    },
+    "annotation_193": {
+      "type": "strong",
+      "id": "annotation_193",
+      "path": [
+        "paragraph_image_fig8",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1466,
+        1467
+      ]
+    },
+    "annotation_194": {
+      "type": "strong",
+      "id": "annotation_194",
+      "path": [
+        "paragraph_image_fig8",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1559,
+        1560
+      ]
+    },
+    "annotation_195": {
+      "type": "emphasis",
+      "id": "annotation_195",
+      "path": [
+        "paragraph_image_fig8",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1628,
+        1632
+      ]
+    },
+    "annotation_196": {
+      "type": "strong",
+      "id": "annotation_196",
       "path": [
         "paragraph_image_fig8",
         "content"
@@ -2950,9 +3146,9 @@
       "id": "paragraph_image_fig8s1",
       "content": "qRT-PCR analysis monitoring TAF expression in H9 cells treated with two independent shRNAs directed against the indicated TAF. TAF expression is specified relative to that obtained with a control non-silencing shRNA, which was set to 1. Data are represented as mean ± SD."
     },
-    "annotation_186": {
+    "annotation_197": {
       "type": "emphasis",
-      "id": "annotation_186",
+      "id": "annotation_197",
       "path": [
         "paragraph_image_fig8s1",
         "content"
@@ -2986,9 +3182,9 @@
       "id": "paragraph_image_fig8s2",
       "content": "Percent of H9 TAF knockdown (KD) colonies staining with alkaline phosphatase. Data are represented as mean ± SD."
     },
-    "figure_reference_187": {
+    "figure_reference_198": {
       "type": "figure_reference",
-      "id": "figure_reference_187",
+      "id": "figure_reference_198",
       "path": [
         "image_fig8s2",
         "title"
@@ -3022,9 +3218,9 @@
       "id": "paragraph_image_fig8s3",
       "content": "qRT-PCR analysis monitoring expression of differentiation markers in H9 cells treated with a TAF siRNA. Values are given relative to that obtained with a control luciferase siRNA, which was set to 1. Data are represented as mean ± SEM."
     },
-    "figure_reference_188": {
+    "figure_reference_199": {
       "type": "figure_reference",
-      "id": "figure_reference_188",
+      "id": "figure_reference_199",
       "path": [
         "image_fig8s3",
         "title"
@@ -3058,9 +3254,9 @@
       "id": "paragraph_image_fig8s4",
       "content": "qRT-PCR analysis monitoring expression of NANOG in H9 cells treated with a TAF siRNA. Values are given relative to that obtained with a control luciferase siRNA, which was set to 1. Data are represented as mean ± SEM."
     },
-    "figure_reference_189": {
+    "figure_reference_200": {
       "type": "figure_reference",
-      "id": "figure_reference_189",
+      "id": "figure_reference_200",
       "path": [
         "image_fig8s4",
         "title"
@@ -3071,9 +3267,9 @@
         44
       ]
     },
-    "annotation_190": {
+    "annotation_201": {
       "type": "emphasis",
-      "id": "annotation_190",
+      "id": "annotation_201",
       "path": [
         "paragraph_image_fig8s4",
         "content"
@@ -3084,16 +3280,16 @@
         47
       ]
     },
-    "paragraph_191": {
+    "paragraph_202": {
       "type": "paragraph",
-      "id": "paragraph_191",
+      "id": "paragraph_202",
       "content": "In a reciprocal set of experiments, we altered TAF composition by ectopically expressing a TAF that is not normally present in hESCs. We found that ectopic expression of TAF1 (Figure 8D) resulted in differentiation, as evidenced by a decreased number of alkaline phosphatase-positive colonies (Figure 8E), the induction of differentiation markers (Figure 8F, left), and decreased expression of NANOG (Figure 8F, right). Interestingly, Figure 8G shows that ectopic TAF1 expression decreased expression of several class II genes, including as expected OCT4, whereas expression of class I genes was either unaffected or in some instances increased modestly. Ectopic expression of several other TAFs not present in hESCs also resulted in loss of expression of OCT4, a class II gene, but not ACTB, a class I gene (Figure 8H). By contrast, ectopic expression of TBP or TAFs that are present in hESCs did not affect OCT4 levels. To investigate the basis for the decreased OCT4 expression, we performed ChIP analysis. Figure 8I shows that, following ectopic expression of TAF1, TBP and POL2 were no longer recruited to the OCT4 promoter. Collectively, the results of Figure 8 show that altering the composition of hESC TAFs results in misregulation of gene expression and induction of differentiation."
     },
-    "figure_reference_192": {
+    "figure_reference_203": {
       "type": "figure_reference",
-      "id": "figure_reference_192",
+      "id": "figure_reference_203",
       "path": [
-        "paragraph_191",
+        "paragraph_202",
         "content"
       ],
       "target": "image_fig8",
@@ -3102,11 +3298,11 @@
         185
       ]
     },
-    "figure_reference_193": {
+    "figure_reference_204": {
       "type": "figure_reference",
-      "id": "figure_reference_193",
+      "id": "figure_reference_204",
       "path": [
-        "paragraph_191",
+        "paragraph_202",
         "content"
       ],
       "target": "image_fig8",
@@ -3115,11 +3311,11 @@
         303
       ]
     },
-    "figure_reference_194": {
+    "figure_reference_205": {
       "type": "figure_reference",
-      "id": "figure_reference_194",
+      "id": "figure_reference_205",
       "path": [
-        "paragraph_191",
+        "paragraph_202",
         "content"
       ],
       "target": "image_fig8",
@@ -3128,11 +3324,11 @@
         357
       ]
     },
-    "annotation_195": {
+    "annotation_206": {
       "type": "emphasis",
-      "id": "annotation_195",
+      "id": "annotation_206",
       "path": [
-        "paragraph_191",
+        "paragraph_202",
         "content"
       ],
       "target": null,
@@ -3141,11 +3337,11 @@
         399
       ]
     },
-    "figure_reference_196": {
+    "figure_reference_207": {
       "type": "figure_reference",
-      "id": "figure_reference_196",
+      "id": "figure_reference_207",
       "path": [
-        "paragraph_191",
+        "paragraph_202",
         "content"
       ],
       "target": "image_fig8",
@@ -3154,11 +3350,11 @@
         410
       ]
     },
-    "figure_reference_197": {
+    "figure_reference_208": {
       "type": "figure_reference",
-      "id": "figure_reference_197",
+      "id": "figure_reference_208",
       "path": [
-        "paragraph_191",
+        "paragraph_202",
         "content"
       ],
       "target": "image_fig8",
@@ -3167,11 +3363,11 @@
         444
       ]
     },
-    "annotation_198": {
+    "annotation_209": {
       "type": "emphasis",
-      "id": "annotation_198",
+      "id": "annotation_209",
       "path": [
-        "paragraph_191",
+        "paragraph_202",
         "content"
       ],
       "target": null,
@@ -3180,11 +3376,11 @@
         554
       ]
     },
-    "annotation_199": {
+    "annotation_210": {
       "type": "emphasis",
-      "id": "annotation_199",
+      "id": "annotation_210",
       "path": [
-        "paragraph_191",
+        "paragraph_202",
         "content"
       ],
       "target": null,
@@ -3193,11 +3389,11 @@
         760
       ]
     },
-    "annotation_200": {
+    "annotation_211": {
       "type": "emphasis",
-      "id": "annotation_200",
+      "id": "annotation_211",
       "path": [
-        "paragraph_191",
+        "paragraph_202",
         "content"
       ],
       "target": null,
@@ -3206,11 +3402,11 @@
         791
       ]
     },
-    "figure_reference_201": {
+    "figure_reference_212": {
       "type": "figure_reference",
-      "id": "figure_reference_201",
+      "id": "figure_reference_212",
       "path": [
-        "paragraph_191",
+        "paragraph_202",
         "content"
       ],
       "target": "image_fig8",
@@ -3219,11 +3415,11 @@
         818
       ]
     },
-    "annotation_202": {
+    "annotation_213": {
       "type": "emphasis",
-      "id": "annotation_202",
+      "id": "annotation_213",
       "path": [
-        "paragraph_191",
+        "paragraph_202",
         "content"
       ],
       "target": null,
@@ -3232,11 +3428,11 @@
         969
       ]
     },
-    "figure_reference_203": {
+    "figure_reference_214": {
       "type": "figure_reference",
-      "id": "figure_reference_203",
+      "id": "figure_reference_214",
       "path": [
-        "paragraph_191",
+        "paragraph_202",
         "content"
       ],
       "target": "image_fig8",
@@ -3245,11 +3441,11 @@
         1019
       ]
     },
-    "annotation_204": {
+    "annotation_215": {
       "type": "emphasis",
-      "id": "annotation_204",
+      "id": "annotation_215",
       "path": [
-        "paragraph_191",
+        "paragraph_202",
         "content"
       ],
       "target": null,
@@ -3258,11 +3454,11 @@
         1119
       ]
     },
-    "figure_reference_205": {
+    "figure_reference_216": {
       "type": "figure_reference",
-      "id": "figure_reference_205",
+      "id": "figure_reference_216",
       "path": [
-        "paragraph_191",
+        "paragraph_202",
         "content"
       ],
       "target": "image_fig8",
@@ -3278,16 +3474,16 @@
       "content": "Discussion",
       "nodes": []
     },
-    "paragraph_206": {
+    "paragraph_217": {
       "type": "paragraph",
-      "id": "paragraph_206",
+      "id": "paragraph_217",
       "content": "In this report we have shown that the general transcription machinery of hESCs is highly unusual in that approximately half of the canonical TFIID TAFs are not detectably expressed. The absence of TAFs was confirmed by multiple, independent experimental approaches including immunoblotting (Figure 1A and Figure 1—figure supplement 3), qRT-PCR (Figure 1B) and ChIP (Figure 4B). Previous studies have reported tissue-specific TAF variants and alterations in TAF expression (reviewed in D'Alessio et al., 2009; Müller et al., 2010), but the composition of hESC TAFs is unprecedented and is likely highly specific, if not unique, to hESCs. For example, we find that mouse ESCs, which bear both similarities and differences to hESCs (Ginis et al., 2004; Wei et al., 2005; Schnerch et al., 2010), express all TFIID TAFs analyzed (Figure 9), consistent with the results of a recent study that focused on the role of TAF3 in mouse ESCs (Liu et al., 2011)."
     },
-    "figure_reference_207": {
+    "figure_reference_218": {
       "type": "figure_reference",
-      "id": "figure_reference_207",
+      "id": "figure_reference_218",
       "path": [
-        "paragraph_206",
+        "paragraph_217",
         "content"
       ],
       "target": "image_fig1",
@@ -3296,11 +3492,11 @@
         300
       ]
     },
-    "figure_reference_208": {
+    "figure_reference_219": {
       "type": "figure_reference",
-      "id": "figure_reference_208",
+      "id": "figure_reference_219",
       "path": [
-        "paragraph_206",
+        "paragraph_217",
         "content"
       ],
       "target": "image_fig1s3",
@@ -3309,11 +3505,11 @@
         333
       ]
     },
-    "figure_reference_209": {
+    "figure_reference_220": {
       "type": "figure_reference",
-      "id": "figure_reference_209",
+      "id": "figure_reference_220",
       "path": [
-        "paragraph_206",
+        "paragraph_217",
         "content"
       ],
       "target": "image_fig1",
@@ -3322,11 +3518,11 @@
         354
       ]
     },
-    "figure_reference_210": {
+    "figure_reference_221": {
       "type": "figure_reference",
-      "id": "figure_reference_210",
+      "id": "figure_reference_221",
       "path": [
-        "paragraph_206",
+        "paragraph_217",
         "content"
       ],
       "target": "image_fig4",
@@ -3335,11 +3531,11 @@
         375
       ]
     },
-    "citation_reference_211": {
+    "citation_reference_222": {
       "type": "citation_reference",
-      "id": "citation_reference_211",
+      "id": "citation_reference_222",
       "path": [
-        "paragraph_206",
+        "paragraph_217",
         "content"
       ],
       "target": "article_citation_bib7",
@@ -3348,11 +3544,11 @@
         507
       ]
     },
-    "citation_reference_212": {
+    "citation_reference_223": {
       "type": "citation_reference",
-      "id": "citation_reference_212",
+      "id": "citation_reference_223",
       "path": [
-        "paragraph_206",
+        "paragraph_217",
         "content"
       ],
       "target": "article_citation_bib29",
@@ -3361,11 +3557,11 @@
         528
       ]
     },
-    "citation_reference_213": {
+    "citation_reference_224": {
       "type": "citation_reference",
-      "id": "citation_reference_213",
+      "id": "citation_reference_224",
       "path": [
-        "paragraph_206",
+        "paragraph_217",
         "content"
       ],
       "target": "article_citation_bib15",
@@ -3374,11 +3570,11 @@
         748
       ]
     },
-    "citation_reference_214": {
+    "citation_reference_225": {
       "type": "citation_reference",
-      "id": "citation_reference_214",
+      "id": "citation_reference_225",
       "path": [
-        "paragraph_206",
+        "paragraph_217",
         "content"
       ],
       "target": "article_citation_bib46",
@@ -3387,11 +3583,11 @@
         766
       ]
     },
-    "citation_reference_215": {
+    "citation_reference_226": {
       "type": "citation_reference",
-      "id": "citation_reference_215",
+      "id": "citation_reference_226",
       "path": [
-        "paragraph_206",
+        "paragraph_217",
         "content"
       ],
       "target": "article_citation_bib37",
@@ -3400,11 +3596,11 @@
         789
       ]
     },
-    "figure_reference_216": {
+    "figure_reference_227": {
       "type": "figure_reference",
-      "id": "figure_reference_216",
+      "id": "figure_reference_227",
       "path": [
-        "paragraph_206",
+        "paragraph_217",
         "content"
       ],
       "target": "image_fig9",
@@ -3413,11 +3609,11 @@
         833
       ]
     },
-    "citation_reference_217": {
+    "citation_reference_228": {
       "type": "citation_reference",
-      "id": "citation_reference_217",
+      "id": "citation_reference_228",
       "path": [
-        "paragraph_206",
+        "paragraph_217",
         "content"
       ],
       "target": "article_citation_bib27",
@@ -3449,16 +3645,16 @@
       "id": "paragraph_image_fig9",
       "content": "Immunoblot analysis monitoring TAF levels in PGK12.1 mouse ESCs and, as a control, HeLa cells. ACTB was monitored as a loading control. The results show that TAFs 1, 4, 8, 9, 10 and 13, which are not expressed in hESCs, are expressed in mouse ESCs."
     },
-    "paragraph_218": {
+    "paragraph_229": {
       "type": "paragraph",
-      "id": "paragraph_218",
+      "id": "paragraph_229",
       "content": "Following submission of our manuscript, the Encyclopedia of DNA Elements (ENCODE) consortium released an extensive set of genome-wide analyses including ChIP-Sequencing (ChIP-Seq) results for TAF1 in H1 hESCs (http://encodeproject.org/ENCODE/), implying that TAF1 is present in H1 cells. Notably, all but one of our experiments were performed in another hESC line, H9 cells. In the one experiment performed in H1 cells, we compared TAF levels in H1 and H9 cells by immunoblotting (Figure 1—figure supplement 3). The pattern of TAF expression in H1 and H9 cells was qualitatively similar but the experiment could not rule out the possibility that TAF1 was present at low levels in H1 cells, which could explain the ENCODE ChIP-Seq results."
     },
-    "annotation_219": {
+    "annotation_230": {
       "type": "link",
-      "id": "annotation_219",
+      "id": "annotation_230",
       "path": [
-        "paragraph_218",
+        "paragraph_229",
         "content"
       ],
       "target": null,
@@ -3468,11 +3664,11 @@
       ],
       "url": "http://encodeproject.org/ENCODE/"
     },
-    "figure_reference_220": {
+    "figure_reference_231": {
       "type": "figure_reference",
-      "id": "figure_reference_220",
+      "id": "figure_reference_231",
       "path": [
-        "paragraph_218",
+        "paragraph_229",
         "content"
       ],
       "target": "image_fig1s3",
@@ -3481,16 +3677,16 @@
         509
       ]
     },
-    "paragraph_221": {
+    "paragraph_232": {
       "type": "paragraph",
-      "id": "paragraph_221",
+      "id": "paragraph_232",
       "content": "It is also possible that in the H9 cells used in our studies TAF1, as well as TAFs 4, 8, 9, 10, 12 and 13, are not entirely absent but rather present at low levels, which are below that we can detect in an immunoblotting assay. However, if H9 cells do contain low levels of TAFs 1, 4, 8, 9, 10, 12 and 13 our biochemical experiments indicate that they are below that required to stably associate with TBP and the TAFs that are detectably present in H9 cells to form the much larger TFIID complex (Figure 2A). In addition, we could not detect significant binding of TAFs 1, 8 and 9 on the promoters of seven transcriptionally active genes in H9 cells in a ChIP assay, although binding was readily detected on the same promoters in HeLa cells (Figure 4B). Thus, our conclusion that H9 cells contain no (or very low levels of) TAFs 1, 4, 8, 9, 10, 12 and 13 is based not only on expression data but also on biochemical results and promoter binding experiments."
     },
-    "figure_reference_222": {
+    "figure_reference_233": {
       "type": "figure_reference",
-      "id": "figure_reference_222",
+      "id": "figure_reference_233",
       "path": [
-        "paragraph_221",
+        "paragraph_232",
         "content"
       ],
       "target": "image_fig2",
@@ -3499,11 +3695,11 @@
         506
       ]
     },
-    "figure_reference_223": {
+    "figure_reference_234": {
       "type": "figure_reference",
-      "id": "figure_reference_223",
+      "id": "figure_reference_234",
       "path": [
-        "paragraph_221",
+        "paragraph_232",
         "content"
       ],
       "target": "image_fig4",
@@ -3519,16 +3715,16 @@
       "content": "A novel TBP-containing TAF complex in undifferentiated hESCs",
       "nodes": []
     },
-    "paragraph_224": {
+    "paragraph_235": {
       "type": "paragraph",
-      "id": "paragraph_224",
+      "id": "paragraph_235",
       "content": "The absence of seven of the conventional TFIID TAFs suggested that hESCs contain an alternative TBP-containing complex. Our ChIP and biochemical experiments confirmed this possibility and revealed a model in which a stable complex containing TBP and TAFs 2, 6, 7 and 11 is recruited to active class II genes, and TAFs 3 and 5 are recruited independently to all active genes (Figure 8J). Notably, this novel TBP-containing complex lacks TAF1, which in the canonical TFIID complex interacts directly with TBP (Chen et al., 1994), and TAF4, which is essential for assembly of Drosophila TFIID (Wright et al., 2006). However, consistent with the existence of a TBP/TAF 2,6,7,11 complex, previous studies have described interactions between TBP and TAF2 (Verrijzer et al., 1994), TAF6 (Weinzierl et al., 1993) and TAF11 (Lavigne et al., 1996), and between TAF7 and TAF11 (Lavigne et al., 1996)."
     },
-    "figure_reference_225": {
+    "figure_reference_236": {
       "type": "figure_reference",
-      "id": "figure_reference_225",
+      "id": "figure_reference_236",
       "path": [
-        "paragraph_224",
+        "paragraph_235",
         "content"
       ],
       "target": "image_fig8",
@@ -3537,11 +3733,11 @@
         384
       ]
     },
-    "citation_reference_226": {
+    "citation_reference_237": {
       "type": "citation_reference",
-      "id": "citation_reference_226",
+      "id": "citation_reference_237",
       "path": [
-        "paragraph_224",
+        "paragraph_235",
         "content"
       ],
       "target": "article_citation_bib3",
@@ -3550,11 +3746,11 @@
         525
       ]
     },
-    "annotation_227": {
+    "annotation_238": {
       "type": "emphasis",
-      "id": "annotation_227",
+      "id": "annotation_238",
       "path": [
-        "paragraph_224",
+        "paragraph_235",
         "content"
       ],
       "target": null,
@@ -3563,11 +3759,11 @@
         583
       ]
     },
-    "citation_reference_228": {
+    "citation_reference_239": {
       "type": "citation_reference",
-      "id": "citation_reference_228",
+      "id": "citation_reference_239",
       "path": [
-        "paragraph_224",
+        "paragraph_235",
         "content"
       ],
       "target": "article_citation_bib48",
@@ -3576,11 +3772,11 @@
         610
       ]
     },
-    "citation_reference_229": {
+    "citation_reference_240": {
       "type": "citation_reference",
-      "id": "citation_reference_229",
+      "id": "citation_reference_240",
       "path": [
-        "paragraph_224",
+        "paragraph_235",
         "content"
       ],
       "target": "article_citation_bib44",
@@ -3589,11 +3785,11 @@
         772
       ]
     },
-    "citation_reference_230": {
+    "citation_reference_241": {
       "type": "citation_reference",
-      "id": "citation_reference_230",
+      "id": "citation_reference_241",
       "path": [
-        "paragraph_224",
+        "paragraph_235",
         "content"
       ],
       "target": "article_citation_bib47",
@@ -3602,11 +3798,11 @@
         803
       ]
     },
-    "citation_reference_231": {
+    "citation_reference_242": {
       "type": "citation_reference",
-      "id": "citation_reference_231",
+      "id": "citation_reference_242",
       "path": [
-        "paragraph_224",
+        "paragraph_235",
         "content"
       ],
       "target": "article_citation_bib24",
@@ -3615,11 +3811,11 @@
         836
       ]
     },
-    "citation_reference_232": {
+    "citation_reference_243": {
       "type": "citation_reference",
-      "id": "citation_reference_232",
+      "id": "citation_reference_243",
       "path": [
-        "paragraph_224",
+        "paragraph_235",
         "content"
       ],
       "target": "article_citation_bib24",
@@ -3628,16 +3824,16 @@
         887
       ]
     },
-    "paragraph_233": {
+    "paragraph_244": {
       "type": "paragraph",
-      "id": "paragraph_233",
+      "id": "paragraph_244",
       "content": "Previous studies have shown that nine of the 14 TFIID TAFs contain a sequence motif homologous to histones, called the histone fold domain (HFD), which mediates protein–protein interactions (reviewed in Cler et al., 2009; Papai et al., 2011). These nine TAFs can form five specific heterodimers: TAF3–10, TAF6–9, TAF4–12, TAF8–10 and TAF11–13. Several of these heterodimers are thought to be important for the assembly and structure of TFIID. hESCs contain only three HFD-containing TAFs (3, 6 and 11), which cannot form any of the five known heterodimers. This observation strongly suggests there are major differences in assembly and structure of TFIID and the TBP/TAF 2,6,7,11 complex."
     },
-    "citation_reference_234": {
+    "citation_reference_245": {
       "type": "citation_reference",
-      "id": "citation_reference_234",
+      "id": "citation_reference_245",
       "path": [
-        "paragraph_233",
+        "paragraph_244",
         "content"
       ],
       "target": "article_citation_bib5",
@@ -3646,11 +3842,11 @@
         220
       ]
     },
-    "citation_reference_235": {
+    "citation_reference_246": {
       "type": "citation_reference",
-      "id": "citation_reference_235",
+      "id": "citation_reference_246",
       "path": [
-        "paragraph_233",
+        "paragraph_244",
         "content"
       ],
       "target": "article_citation_bib34",
@@ -3659,16 +3855,16 @@
         240
       ]
     },
-    "paragraph_236": {
+    "paragraph_247": {
       "type": "paragraph",
-      "id": "paragraph_236",
+      "id": "paragraph_247",
       "content": "An important question raised by our results is the basis by which TAFs are differentially recruited to class I or class II promoters. Studies in yeast have shown that differential recruitment of TAFs can be due to promoter-bound activators, core promoter elements, or both (Shen and Green, 1997; Li et al., 2002). In this regard, TAF2 and TAF6 have been shown to interact with promoter sequence elements (reviewed in Maston et al., 2006), which may contribute to differential promoter recognition by the TBP/TAF 2,6,7,11 complex. In addition, TAF3 contains a PHD finger domain that can bind to the H3K4me3 chromatin mark (Vermeulen et al., 2007), which is enriched at class I promoters (Figure 6E)."
     },
-    "citation_reference_237": {
+    "citation_reference_248": {
       "type": "citation_reference",
-      "id": "citation_reference_237",
+      "id": "citation_reference_248",
       "path": [
-        "paragraph_236",
+        "paragraph_247",
         "content"
       ],
       "target": "article_citation_bib38",
@@ -3677,11 +3873,11 @@
         294
       ]
     },
-    "citation_reference_238": {
+    "citation_reference_249": {
       "type": "citation_reference",
-      "id": "citation_reference_238",
+      "id": "citation_reference_249",
       "path": [
-        "paragraph_236",
+        "paragraph_247",
         "content"
       ],
       "target": "article_citation_bib26",
@@ -3690,11 +3886,11 @@
         311
       ]
     },
-    "citation_reference_239": {
+    "citation_reference_250": {
       "type": "citation_reference",
-      "id": "citation_reference_239",
+      "id": "citation_reference_250",
       "path": [
-        "paragraph_236",
+        "paragraph_247",
         "content"
       ],
       "target": "article_citation_bib28",
@@ -3703,11 +3899,11 @@
         436
       ]
     },
-    "citation_reference_240": {
+    "citation_reference_251": {
       "type": "citation_reference",
-      "id": "citation_reference_240",
+      "id": "citation_reference_251",
       "path": [
-        "paragraph_236",
+        "paragraph_247",
         "content"
       ],
       "target": "article_citation_bib43",
@@ -3716,11 +3912,11 @@
         644
       ]
     },
-    "figure_reference_241": {
+    "figure_reference_252": {
       "type": "figure_reference",
-      "id": "figure_reference_241",
+      "id": "figure_reference_252",
       "path": [
-        "paragraph_236",
+        "paragraph_247",
         "content"
       ],
       "target": "image_fig6",
@@ -3729,16 +3925,16 @@
         696
       ]
     },
-    "paragraph_242": {
+    "paragraph_253": {
       "type": "paragraph",
-      "id": "paragraph_242",
+      "id": "paragraph_253",
       "content": "Understanding the basis by which basic transcription factors are differentially recruited to promoters on a genome-wide scale appears to be a particularly challenging problem. For example, it is still not understood what distinguishes TAF-dependent and TAF-independent promoters in yeast (Kuras et al., 2000; Li et al., 2000), why some basic transcription factors, such as mediator, are bound at only some promoters (Fan et al., 2006), or the basis by which chromatin-modifying complexes are selectively recruited to promoters (Ng et al., 2002)."
     },
-    "citation_reference_243": {
+    "citation_reference_254": {
       "type": "citation_reference",
-      "id": "citation_reference_243",
+      "id": "citation_reference_254",
       "path": [
-        "paragraph_242",
+        "paragraph_253",
         "content"
       ],
       "target": "article_citation_bib23",
@@ -3747,11 +3943,11 @@
         307
       ]
     },
-    "citation_reference_244": {
+    "citation_reference_255": {
       "type": "citation_reference",
-      "id": "citation_reference_244",
+      "id": "citation_reference_255",
       "path": [
-        "paragraph_242",
+        "paragraph_253",
         "content"
       ],
       "target": "article_citation_bib25",
@@ -3760,11 +3956,11 @@
         324
       ]
     },
-    "citation_reference_245": {
+    "citation_reference_256": {
       "type": "citation_reference",
-      "id": "citation_reference_245",
+      "id": "citation_reference_256",
       "path": [
-        "paragraph_242",
+        "paragraph_253",
         "content"
       ],
       "target": "article_citation_bib13",
@@ -3773,11 +3969,11 @@
         433
       ]
     },
-    "citation_reference_246": {
+    "citation_reference_257": {
       "type": "citation_reference",
-      "id": "citation_reference_246",
+      "id": "citation_reference_257",
       "path": [
-        "paragraph_242",
+        "paragraph_253",
         "content"
       ],
       "target": "article_citation_bib30",
@@ -3786,16 +3982,16 @@
         543
       ]
     },
-    "paragraph_247": {
+    "paragraph_258": {
       "type": "paragraph",
-      "id": "paragraph_247",
+      "id": "paragraph_258",
       "content": "Another question arising from our findings is whether there are functional differences that distinguish class I and class II genes. Gene ontology analysis did not reveal any functional category that was differentially enriched in either class I or class II genes (data not shown). For example, although several pluripotency factors including OCT4 (Figure 3B) and NANOG (Figure 10) are encoded by class II genes, we found other pluripotency factors, such as SOX2, DPPA4 and KLF4, that are encoded by class I genes (Figure 10). There was, however, a statistically significant increase in alternative promoters at class II genes (Figure 6F). Notably, alternative promoter use has been suggested to play a role in generating tissue-specific transcripts (Kimura et al., 2006; Kolle et al., 2011; Pal et al., 2011)."
     },
-    "figure_reference_248": {
+    "figure_reference_259": {
       "type": "figure_reference",
-      "id": "figure_reference_248",
+      "id": "figure_reference_259",
       "path": [
-        "paragraph_247",
+        "paragraph_258",
         "content"
       ],
       "target": "image_fig3",
@@ -3804,11 +4000,11 @@
         357
       ]
     },
-    "figure_reference_249": {
+    "figure_reference_260": {
       "type": "figure_reference",
-      "id": "figure_reference_249",
+      "id": "figure_reference_260",
       "path": [
-        "paragraph_247",
+        "paragraph_258",
         "content"
       ],
       "target": "image_fig10",
@@ -3817,11 +4013,11 @@
         379
       ]
     },
-    "figure_reference_250": {
+    "figure_reference_261": {
       "type": "figure_reference",
-      "id": "figure_reference_250",
+      "id": "figure_reference_261",
       "path": [
-        "paragraph_247",
+        "paragraph_258",
         "content"
       ],
       "target": "image_fig10",
@@ -3830,11 +4026,11 @@
         523
       ]
     },
-    "figure_reference_251": {
+    "figure_reference_262": {
       "type": "figure_reference",
-      "id": "figure_reference_251",
+      "id": "figure_reference_262",
       "path": [
-        "paragraph_247",
+        "paragraph_258",
         "content"
       ],
       "target": "image_fig6",
@@ -3843,11 +4039,11 @@
         636
       ]
     },
-    "citation_reference_252": {
+    "citation_reference_263": {
       "type": "citation_reference",
-      "id": "citation_reference_252",
+      "id": "citation_reference_263",
       "path": [
-        "paragraph_247",
+        "paragraph_258",
         "content"
       ],
       "target": "article_citation_bib21",
@@ -3856,11 +4052,11 @@
         769
       ]
     },
-    "citation_reference_253": {
+    "citation_reference_264": {
       "type": "citation_reference",
-      "id": "citation_reference_253",
+      "id": "citation_reference_264",
       "path": [
-        "paragraph_247",
+        "paragraph_258",
         "content"
       ],
       "target": "article_citation_bib22",
@@ -3869,11 +4065,11 @@
         789
       ]
     },
-    "citation_reference_254": {
+    "citation_reference_265": {
       "type": "citation_reference",
-      "id": "citation_reference_254",
+      "id": "citation_reference_265",
       "path": [
-        "paragraph_247",
+        "paragraph_258",
         "content"
       ],
       "target": "article_citation_bib32",
@@ -3905,16 +4101,16 @@
       "id": "paragraph_image_fig10",
       "content": "ChIP analysis monitoring TAF recruitment to the promoters of four pluripotency genes in H9 cells. TAF recruitment is specified relative to TBP recruitment (which was set to 1), after normalizing to a no antibody control and for non-specific recruitment to a control gene desert locus. Data are represented as mean ± SEM."
     },
-    "paragraph_255": {
+    "paragraph_266": {
       "type": "paragraph",
-      "id": "paragraph_255",
+      "id": "paragraph_266",
       "content": "Our ChIP experiments show that genes that are broadly expressed, such as housekeeping genes, can be activated by diverse core promoter recognition complexes in different cell types (Figure 4C), revealing a remarkable plasticity of the transcription machinery. The core promoter sequence is identical in every cell, raising the possibility that in hESCs differences in activators or epigenetic signatures may be coordinated with the alterations in core promoter complexes. For example, in the myogenic program, core promoter recognition complex changes correlates with the presence of developmentally regulated activators (Deato et al., 2008)."
     },
-    "figure_reference_256": {
+    "figure_reference_267": {
       "type": "figure_reference",
-      "id": "figure_reference_256",
+      "id": "figure_reference_267",
       "path": [
-        "paragraph_255",
+        "paragraph_266",
         "content"
       ],
       "target": "image_fig4",
@@ -3923,11 +4119,11 @@
         191
       ]
     },
-    "citation_reference_257": {
+    "citation_reference_268": {
       "type": "citation_reference",
-      "id": "citation_reference_257",
+      "id": "citation_reference_268",
       "path": [
-        "paragraph_255",
+        "paragraph_266",
         "content"
       ],
       "target": "article_citation_bib9",
@@ -3943,16 +4139,16 @@
       "content": "The selective expression and use of TAFs is required for hESC self-renewal",
       "nodes": []
     },
-    "paragraph_258": {
+    "paragraph_269": {
       "type": "paragraph",
-      "id": "paragraph_258",
+      "id": "paragraph_269",
       "content": "We have found that altering the composition of hESC TAFs, either by RNAi-mediated knockdown of TAFs that are present or ectopic expression of TAFs that are absent, results in loss of pluripotency gene expression and induction of differentiation. Thus, the unusual composition of TAFs described here is required for the ability of hESCs to properly regulate gene expression, maintain an undifferentiated state, and self-renew. This conclusion is reinforced by the finding that the TAFs that are absent from undifferentiated hESCs are expressed following differentiation (Figure 1D). The transcriptional induction of several differentiation markers, which are not normally expressed in hESCs, following knockdown of an hESC TAF can be explained either by the dispensability of the TAF for transcription of the marker, or incomplete knockdown enabling transcription to occur at reduced TAF levels."
     },
-    "figure_reference_259": {
+    "figure_reference_270": {
       "type": "figure_reference",
-      "id": "figure_reference_259",
+      "id": "figure_reference_270",
       "path": [
-        "paragraph_258",
+        "paragraph_269",
         "content"
       ],
       "target": "image_fig1",
@@ -3961,21 +4157,21 @@
         579
       ]
     },
-    "paragraph_260": {
+    "paragraph_271": {
       "type": "paragraph",
-      "id": "paragraph_260",
+      "id": "paragraph_271",
       "content": "A characteristic feature of the switch of undifferentiated hESCs to the differentiated state is the loss of pluripotency gene expression. We have shown that ectopic expression of TAFs that are not present in undifferentiated hESCs results in transcriptional inactivation of pluripotency genes. Thus, the transcriptional induction of TFIID TAFs that are absent from undifferentiated hESCs may be at least part of the mechanism by which pluripotency genes are silenced following differentiation."
     },
-    "paragraph_261": {
+    "paragraph_272": {
       "type": "paragraph",
-      "id": "paragraph_261",
+      "id": "paragraph_272",
       "content": "As discussed above, previous studies have shown that terminal differentiation of muscle (Deato and Tjian, 2007) and liver (D'Alessio et al., 2011) is accompanied by loss of TFIID TAFs. These and other findings have prompted speculation that during differentiation the canonical TFIID complex becomes progressively specialized (reviewed in D'Alessio et al., 2009). However our results reveal a more complex model. Rather than starting from a complete, canonical TFIID and progressing to more restricted forms, undifferentiated hESCs start with a specialized, highly unique general transcription machinery, then switch to a period of complete TFIID before specialization of the transcription machinery again in some terminal differentiation programs. Collectively, these findings suggest that altering the composition of the basic transcription machinery in general and TAFs specifically may be a particularly powerful mechanism for developmental reprogramming."
     },
-    "citation_reference_262": {
+    "citation_reference_273": {
       "type": "citation_reference",
-      "id": "citation_reference_262",
+      "id": "citation_reference_273",
       "path": [
-        "paragraph_261",
+        "paragraph_272",
         "content"
       ],
       "target": "article_citation_bib10",
@@ -3984,11 +4180,11 @@
         110
       ]
     },
-    "citation_reference_263": {
+    "citation_reference_274": {
       "type": "citation_reference",
-      "id": "citation_reference_263",
+      "id": "citation_reference_274",
       "path": [
-        "paragraph_261",
+        "paragraph_272",
         "content"
       ],
       "target": "article_citation_bib6",
@@ -3997,11 +4193,11 @@
         145
       ]
     },
-    "citation_reference_264": {
+    "citation_reference_275": {
       "type": "citation_reference",
-      "id": "citation_reference_264",
+      "id": "citation_reference_275",
       "path": [
-        "paragraph_261",
+        "paragraph_272",
         "content"
       ],
       "target": "article_citation_bib7",
@@ -4024,16 +4220,16 @@
       "content": "Cell lines and culture",
       "nodes": []
     },
-    "paragraph_265": {
+    "paragraph_276": {
       "type": "paragraph",
-      "id": "paragraph_265",
+      "id": "paragraph_276",
       "content": "H9 (WA09) and H1 (WA01) hESCs were obtained from the UMass Human Stem Cell Bank and Registry. Cell lines were cultured on irradiated mouse feeder cells using DMEM/F12 media supplemented with KnockOut SR (Invitrogen, Carlsbad, CA) and basic FGF (R&D Systems, Minneapolis, MN), and cultures were karyotyped every 10–15 passages. All hESCs used were between passages 40–65. hESCs for ChIP experiments were harvested 5–6 days after passage to ensure high density, such that the mouse feeder cells represented less than ∼12% of the total material (similar to what has been used in previously published hESC ChIP experiments; Boyer et al., 2005). For Figure 1D, H9 cells were passaged using Accutase (STEMCELL Technologies, Vancouver, Canada) and plated without feeders in DMEM containing 10% FBS and 1 µM all-trans retinoic acid (Sigma, St. Louis, MO). For transfections, H9 cells were grown in mTesR1 media (STEMCELL Technologies) under feeder-free conditions on plates coated with Matrigel (BD Biosciences, San Jose, CA). HeLa cells were maintained in DMEM supplemented with 10% FCS at 37°C and 5% CO2. The mouse ESC line PGK12.1, provided by N. Brockdorff, was cultured as previously described (Penny et al., 1996)."
     },
-    "citation_reference_266": {
+    "citation_reference_277": {
       "type": "citation_reference",
-      "id": "citation_reference_266",
+      "id": "citation_reference_277",
       "path": [
-        "paragraph_265",
+        "paragraph_276",
         "content"
       ],
       "target": "article_citation_bib2",
@@ -4042,11 +4238,11 @@
         638
       ]
     },
-    "figure_reference_267": {
+    "figure_reference_278": {
       "type": "figure_reference",
-      "id": "figure_reference_267",
+      "id": "figure_reference_278",
       "path": [
-        "paragraph_265",
+        "paragraph_276",
         "content"
       ],
       "target": "image_fig1",
@@ -4055,11 +4251,11 @@
         654
       ]
     },
-    "annotation_268": {
+    "annotation_279": {
       "type": "subscript",
-      "id": "annotation_268",
+      "id": "annotation_279",
       "path": [
-        "paragraph_265",
+        "paragraph_276",
         "content"
       ],
       "target": null,
@@ -4068,11 +4264,11 @@
         1098
       ]
     },
-    "citation_reference_269": {
+    "citation_reference_280": {
       "type": "citation_reference",
-      "id": "citation_reference_269",
+      "id": "citation_reference_280",
       "path": [
-        "paragraph_265",
+        "paragraph_276",
         "content"
       ],
       "target": "article_citation_bib35",
@@ -4088,16 +4284,16 @@
       "content": "Immunoblot analysis",
       "nodes": []
     },
-    "paragraph_270": {
+    "paragraph_281": {
       "type": "paragraph",
-      "id": "paragraph_270",
+      "id": "paragraph_281",
       "content": "Cells were trypsinized, pelleted, and washed twice in PBS. Nuclei were isolated by incubating the cell pellet in lysis buffer [10 mM Pipes-K+ pH 6.9, 0.2% NP-40, 5 mM KCl, 1.5 mM MgCl2, 2 µM ZnSO4, 5% glycerol, 2% PEG 2000, plus 1 mM PMSF; Complete Protease Inhibitor Cocktail (Roche, Basel, Switzerland) and phosphatase inhibitors (Sigma P2850 and P5726)] for 2 min on ice, and pelleted by centrifugation. Nuclei were resuspended in nuclear extract buffer (NEB1: 25 mM PIPES pH 6.9, 0.2% Tween 20, 0.4 M NaCl, 1.5 mM MgCl2, 2 µM ZnSO4, 5% glycerol, 2% PEG 2000, plus 1 mM PMSF; Complete Protease Inhibitor Cocktail and phosphatase inhibitors) for 10 min on ice, followed by centrifugation to remove nuclear debris. Protein content of the nuclear extracts was measured by BCA assay. Nuclear extracts were separated on either 8% or 12% SDS-PAGE gels. Blots were probed with primary antibodies (listed in Supplementary file 1A) overnight at 4°C, washed five times in TBP plus 0.1% Tween (TBST) and then incubated with the appropriate HRP-conjugated secondary antibody for 1 hr at room temperature. Membranes were washed five times in TBST and visualized on autoradiography film after incubating with ECL reagent (Supersignal West Pico or Supersignal West Femto; Thermo Scientific, Waltham, MA)."
     },
-    "annotation_271": {
+    "annotation_282": {
       "type": "subscript",
-      "id": "annotation_271",
+      "id": "annotation_282",
       "path": [
-        "paragraph_270",
+        "paragraph_281",
         "content"
       ],
       "target": null,
@@ -4106,11 +4302,11 @@
         184
       ]
     },
-    "annotation_272": {
+    "annotation_283": {
       "type": "subscript",
-      "id": "annotation_272",
+      "id": "annotation_283",
       "path": [
-        "paragraph_270",
+        "paragraph_281",
         "content"
       ],
       "target": null,
@@ -4119,11 +4315,11 @@
         196
       ]
     },
-    "annotation_273": {
+    "annotation_284": {
       "type": "subscript",
-      "id": "annotation_273",
+      "id": "annotation_284",
       "path": [
-        "paragraph_270",
+        "paragraph_281",
         "content"
       ],
       "target": null,
@@ -4132,11 +4328,11 @@
         523
       ]
     },
-    "annotation_274": {
+    "annotation_285": {
       "type": "subscript",
-      "id": "annotation_274",
+      "id": "annotation_285",
       "path": [
-        "paragraph_270",
+        "paragraph_281",
         "content"
       ],
       "target": null,
@@ -4145,11 +4341,11 @@
         535
       ]
     },
-    "cross_reference_275": {
-      "type": "cross_reference",
-      "id": "cross_reference_275",
+    "figure_reference_286": {
+      "type": "figure_reference",
+      "id": "figure_reference_286",
       "path": [
-        "paragraph_270",
+        "paragraph_281",
         "content"
       ],
       "target": "supplement_SD1_data",
@@ -4165,16 +4361,16 @@
       "content": "Quantitative RT-PCR",
       "nodes": []
     },
-    "paragraph_276": {
+    "paragraph_287": {
       "type": "paragraph",
-      "id": "paragraph_276",
+      "id": "paragraph_287",
       "content": "Total RNA was isolated using TRIzol (Invitrogen), then treated with DNase I (Promega, Fitchburg, WI) and repurified using RNeasy columns (Qiagen, Hilden, Germany). Reverse transcription was performed using the SuperScript II Reverse Transcription Kit (Invitrogen) with random oligo priming, followed by quantitative real-time PCR using Platinum SYBR Green qPCR SuperMix-UDG with Rox (Invitrogen) on either an ABI 7500 or StepOne Plus Real-Time PCR System (Applied Biosystems, Carlsbad, CA). Primer sequences are listed in Supplementary file 1B. For all reactions, inputs were normalized and the Ct values of samples were analyzed after subtracting the signal obtained with the non-silencing shRNA (for RNAi) or no antibody (for ChIP) controls. For TAF knockdown experiments, human 18S rRNA (RN18S1) was used as the endogenous control, because its expression should not be affected by changes in TAF expression."
     },
-    "cross_reference_277": {
-      "type": "cross_reference",
-      "id": "cross_reference_277",
+    "figure_reference_288": {
+      "type": "figure_reference",
+      "id": "figure_reference_288",
       "path": [
-        "paragraph_276",
+        "paragraph_287",
         "content"
       ],
       "target": "supplement_SD1_data",
@@ -4183,11 +4379,11 @@
         543
       ]
     },
-    "annotation_278": {
+    "annotation_289": {
       "type": "emphasis",
-      "id": "annotation_278",
+      "id": "annotation_289",
       "path": [
-        "paragraph_276",
+        "paragraph_287",
         "content"
       ],
       "target": null,
@@ -4203,16 +4399,16 @@
       "content": "Sucrose gradient sedimentation",
       "nodes": []
     },
-    "paragraph_279": {
+    "paragraph_290": {
       "type": "paragraph",
-      "id": "paragraph_279",
+      "id": "paragraph_290",
       "content": "Sucrose gradient sedimentation analysis was performed as described (Tanese, 1997). Briefly, 10–40% gradients were formed by layering 500 µl NEB1 (see ‘Immunoblot analysis’) containing 10%, 20%, 30%, or 40% sucrose in a 11 × 34-mm centrifuge tube (Beckman, Brea, CA) and allowed to equilibrate at room temperature for 2 hr. Gradients were chilled, loaded with either 500 µg H9 nuclear extract (adjusted to a volume of 200 µl) or 200 µl molecular weight markers (Sigma MW-GF-1000), and centrifuged in a Beckman TLS-55 rotor at 50,000 rpm (214,000×g) for 12 hr. Twenty-three fractions of ∼90 µl were collected. For the markers, 20 µl of each fraction was electrophoresed and Coomassie stained. For the H9 gradient fractions, 25 µl of even-numbered fractions were analyzed by immunoblotting."
     },
-    "citation_reference_280": {
+    "citation_reference_291": {
       "type": "citation_reference",
-      "id": "citation_reference_280",
+      "id": "citation_reference_291",
       "path": [
-        "paragraph_279",
+        "paragraph_290",
         "content"
       ],
       "target": "article_citation_bib40",
@@ -4221,11 +4417,11 @@
         80
       ]
     },
-    "annotation_281": {
+    "annotation_292": {
       "type": "emphasis",
-      "id": "annotation_281",
+      "id": "annotation_292",
       "path": [
-        "paragraph_279",
+        "paragraph_290",
         "content"
       ],
       "target": null,
@@ -4241,16 +4437,16 @@
       "content": "Co-immunoprecipitation",
       "nodes": []
     },
-    "paragraph_282": {
+    "paragraph_293": {
       "type": "paragraph",
-      "id": "paragraph_282",
+      "id": "paragraph_293",
       "content": "H9 nuclear extract (600 µg) was incubated with 6 µg of anti-TBP antibody (Santa Cruz, Santa Cruz, CA) at overnight at 4°C. Immune complexes were captured on rabbit TrueBlot IP beads (eBioScience, San Diego, CA), washed three times in NEB1, and eluted by boiling 10 min in 2× SDS sample buffer. IP material was then analyzed for the presence of TAFs by immunoblotting (see Supplementary file 1A), using the Rabbit IgG TrueBlot HRP-conjugated secondary antibody (eBioScience)."
     },
-    "cross_reference_283": {
-      "type": "cross_reference",
-      "id": "cross_reference_283",
+    "figure_reference_294": {
+      "type": "figure_reference",
+      "id": "figure_reference_294",
       "path": [
-        "paragraph_282",
+        "paragraph_293",
         "content"
       ],
       "target": "supplement_SD1_data",
@@ -4266,16 +4462,16 @@
       "content": "ChIP and ChIP-chip assays",
       "nodes": []
     },
-    "paragraph_284": {
+    "paragraph_295": {
       "type": "paragraph",
-      "id": "paragraph_284",
+      "id": "paragraph_295",
       "content": "Cells were dual-cross-linked with ethylene glycolbis[succinimidyl succinate] (EGS), and formaldehyde as described (Zeng et al., 2006). Chromatin shearing and ChIP experiments were then performed essentially as reported (Hart et al., 2007), with slight modifications. For each ChIP experiment, 500 µg chromatin (based on BCA assay) was pre-cleared with BSA- and ytRNA-blocked protein G agarose beads (Millipore, Billerica, MA). The pre-cleared supernatant was then incubated with 5 µg of primary antibody (see Supplementary file 1A) at 4°C overnight. Immune complexes were precipitated with protein G-agarose beads, washed, eluted, and purified as described. ChIP products were analyzed by qRT-PCR using primers listed in Supplementary file 1B. Real-time PCR results were analyzed using QBasePlus software (Biogazelle, Zwijnaarde, Belgium). Site-specific relative fold changes of ChIP-enriched samples were calculated by comparing the amplification threshold (Ct) value of a given ChIP sample at a specific target locus (promoter) with the amplification Ct of a no-antibody control at the same target locus being analyzed, and also with the same ChIP sample and no-antibody control sample Ct values at a non-recruiting control locus found in a gene desert on human chromosome 16 (primers ‘GDM’ in Supplementary file 1B)."
     },
-    "citation_reference_285": {
+    "citation_reference_296": {
       "type": "citation_reference",
-      "id": "citation_reference_285",
+      "id": "citation_reference_296",
       "path": [
-        "paragraph_284",
+        "paragraph_295",
         "content"
       ],
       "target": "article_citation_bib49",
@@ -4284,11 +4480,11 @@
         132
       ]
     },
-    "citation_reference_286": {
+    "citation_reference_297": {
       "type": "citation_reference",
-      "id": "citation_reference_286",
+      "id": "citation_reference_297",
       "path": [
-        "paragraph_284",
+        "paragraph_295",
         "content"
       ],
       "target": "article_citation_bib19",
@@ -4297,11 +4493,11 @@
         237
       ]
     },
-    "cross_reference_287": {
-      "type": "cross_reference",
-      "id": "cross_reference_287",
+    "figure_reference_298": {
+      "type": "figure_reference",
+      "id": "figure_reference_298",
       "path": [
-        "paragraph_284",
+        "paragraph_295",
         "content"
       ],
       "target": "supplement_SD1_data",
@@ -4310,11 +4506,11 @@
         530
       ]
     },
-    "cross_reference_288": {
-      "type": "cross_reference",
-      "id": "cross_reference_288",
+    "figure_reference_299": {
+      "type": "figure_reference",
+      "id": "figure_reference_299",
       "path": [
-        "paragraph_284",
+        "paragraph_295",
         "content"
       ],
       "target": "supplement_SD1_data",
@@ -4323,11 +4519,11 @@
         742
       ]
     },
-    "cross_reference_289": {
-      "type": "cross_reference",
-      "id": "cross_reference_289",
+    "figure_reference_300": {
+      "type": "figure_reference",
+      "id": "figure_reference_300",
       "path": [
-        "paragraph_284",
+        "paragraph_295",
         "content"
       ],
       "target": "supplement_SD1_data",
@@ -4336,16 +4532,16 @@
         1317
       ]
     },
-    "paragraph_290": {
+    "paragraph_301": {
       "type": "paragraph",
-      "id": "paragraph_290",
+      "id": "paragraph_301",
       "content": "For ChIP-chip, 200 ng of ChIP-enriched or no-antibody control chip DNA fragments were blunted using End-It DNA End-Repair Kit (Epicentre Biotechnologies, Madison, WI), then ligated to unidirectional linkers (annealed oligos oJW102: 5′-GCGGTGACCCGGGAGATCTGAATTC and oJW103: 5′-GAATTCCAGATC) using Fast-link DNA ligation kit (Epicentre Biotechnologies). Linker-adapted DNA was amplified for 18 rounds using high-fidelity Pfu polymerase, then purified. DNA was labeled with either Cy5-dCTP (chip samples) or Cy3-dCTP (no antibody control) in a second PCR amplification of 18 rounds. The labeled DNAs were purified on QIAquick columns (Qiagen) and the incorporation was checked by spectrophotometry. 20 pmol of each labeled DNA (chip and control) was combined and used to hybridize to a Human ChIP-chip 3 × 720K RefSeq Promoter Array (Roche NimbleGen, Madison, WI) using a hybridization kit, sample tracking controls, wash buffer kit and array processing accessories from NimbleGen. Arrays were scanned on an Agilent Scanner at 5 µm resolution. Data were analyzed to identify peaks of binding using Nimblescan software (Roche NimbleGen) with default settings. Further analysis of ChIP data was conducted using ChipPeakAnno (Zhu et al., 2010). The list of sites were filtered to remove multiple peaks occurring in the same promoter, which resulted in a set of genes whose promoters are bound by each factor. The data discussed in this publication have been deposited in NCBI's Gene Expression Omnibus (Edgar et al., 2002) and are accessible through GEO Series accession number GSE39312 (http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE39312). Promoter maps shown in Figure 6 were generated using the UCSC Genome Browser (genome.ucsc.edu)."
     },
-    "citation_reference_291": {
+    "citation_reference_302": {
       "type": "citation_reference",
-      "id": "citation_reference_291",
+      "id": "citation_reference_302",
       "path": [
-        "paragraph_290",
+        "paragraph_301",
         "content"
       ],
       "target": "article_citation_bib50",
@@ -4354,11 +4550,11 @@
         1236
       ]
     },
-    "citation_reference_292": {
+    "citation_reference_303": {
       "type": "citation_reference",
-      "id": "citation_reference_292",
+      "id": "citation_reference_303",
       "path": [
-        "paragraph_290",
+        "paragraph_301",
         "content"
       ],
       "target": "article_citation_bib11",
@@ -4367,11 +4563,11 @@
         1515
       ]
     },
-    "annotation_293": {
+    "annotation_304": {
       "type": "link",
-      "id": "annotation_293",
+      "id": "annotation_304",
       "path": [
-        "paragraph_290",
+        "paragraph_301",
         "content"
       ],
       "target": null,
@@ -4381,11 +4577,11 @@
       ],
       "url": "http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE39312"
     },
-    "figure_reference_294": {
+    "figure_reference_305": {
       "type": "figure_reference",
-      "id": "figure_reference_294",
+      "id": "figure_reference_305",
       "path": [
-        "paragraph_290",
+        "paragraph_301",
         "content"
       ],
       "target": "image_fig6",
@@ -4394,11 +4590,11 @@
         1674
       ]
     },
-    "annotation_295": {
+    "annotation_306": {
       "type": "link",
-      "id": "annotation_295",
+      "id": "annotation_306",
       "path": [
-        "paragraph_290",
+        "paragraph_301",
         "content"
       ],
       "target": null,
@@ -4408,16 +4604,16 @@
       ],
       "url": "http://genome.ucsc.edu"
     },
-    "paragraph_296": {
+    "paragraph_307": {
       "type": "paragraph",
-      "id": "paragraph_296",
+      "id": "paragraph_307",
       "content": "For alternative promoter analyses, our ChIP-chip datasets were compared with the AltEvents track on the UCSC Genome Browser to find the frequency of overlap between chip peaks and ‘AltPro’ annotations. For comparison with H3K4me3, we used previously published data (Guenther et al., 2007) after converting that dataset to HG18 coordinates using Galaxy (Goecks et al., 2010). Statistical significance of differences in occurrence was determined using Fisher's exact test."
     },
-    "citation_reference_297": {
+    "citation_reference_308": {
       "type": "citation_reference",
-      "id": "citation_reference_297",
+      "id": "citation_reference_308",
       "path": [
-        "paragraph_296",
+        "paragraph_307",
         "content"
       ],
       "target": "article_citation_bib18",
@@ -4426,11 +4622,11 @@
         287
       ]
     },
-    "citation_reference_298": {
+    "citation_reference_309": {
       "type": "citation_reference",
-      "id": "citation_reference_298",
+      "id": "citation_reference_309",
       "path": [
-        "paragraph_296",
+        "paragraph_307",
         "content"
       ],
       "target": "article_citation_bib16",
@@ -4446,16 +4642,16 @@
       "content": "RNA interference",
       "nodes": []
     },
-    "paragraph_299": {
+    "paragraph_310": {
       "type": "paragraph",
-      "id": "paragraph_299",
+      "id": "paragraph_310",
       "content": "For transient siRNA transfections, 30 pmol of siRNA duplexes (see Supplementary file 1C) was mixed with 5 µl Lipofectamine RNAiMAX and OptiMEM Reduced-Serum media (Invitrogen) in a total volume of 500 µl, incubated for 20 min, and added to H9 cells 1 day after plating in a six-well plate (i.e., at ∼25% confluency) along with 2.5 ml fresh media. After 48 hr, RNA was isolated or nuclear extract prepared. For stable shRNA knockdowns, H9 cells seeded in a six-well plate to 25% confluency were stably transduced with 200-µl lentiviral particles expressing shRNAs (obtained from Open Biosystems through the UMMS RNAi Core Facility; see Supplementary file 1C) in a total volume of 2 ml of mTesR1 media supplemented with 6 µg/ml polybrene. Media was replaced after overnight incubation to remove the polybrene and viral particles."
     },
-    "cross_reference_300": {
-      "type": "cross_reference",
-      "id": "cross_reference_300",
+    "figure_reference_311": {
+      "type": "figure_reference",
+      "id": "figure_reference_311",
       "path": [
-        "paragraph_299",
+        "paragraph_310",
         "content"
       ],
       "target": "supplement_SD1_data",
@@ -4464,11 +4660,11 @@
         87
       ]
     },
-    "cross_reference_301": {
-      "type": "cross_reference",
-      "id": "cross_reference_301",
+    "figure_reference_312": {
+      "type": "figure_reference",
+      "id": "figure_reference_312",
       "path": [
-        "paragraph_299",
+        "paragraph_310",
         "content"
       ],
       "target": "supplement_SD1_data",
@@ -4484,9 +4680,9 @@
       "content": "Alkaline phosphatase staining",
       "nodes": []
     },
-    "paragraph_302": {
+    "paragraph_313": {
       "type": "paragraph",
-      "id": "paragraph_302",
+      "id": "paragraph_313",
       "content": "Alkaline phosphatase staining was performed using the Alkaline Phosphatase Staining Kit (Stemgent, Cambridge, MA). To assess differentiation, 500 colonies were evaluated for AP staining and the percent positively stained was calculated. All assays were performed in triplicate."
     },
     "heading_s4-9": {
@@ -4496,16 +4692,16 @@
       "content": "Ectopic TAF expression",
       "nodes": []
     },
-    "paragraph_303": {
+    "paragraph_314": {
       "type": "paragraph",
-      "id": "paragraph_303",
+      "id": "paragraph_314",
       "content": "Full-length open reading frames of human TAF genes were PCR-amplified from HeLa cDNA and cloned in-frame into pECFP vector (Clontech Laboratories, Mountain View, CA). Junctions were sequenced to confirm the construction. For transfection, 2 µg plasmid was mixed with 6 µl FuGENE HD Transfection Reagent (Roche) and OptiMEM in a total volume of 100 µl, incubated for 15 min, and then added to H9 cells in a six-well plate at 25% confluency. After 48 hr, RNA was isolated or nuclear extract prepared."
     },
-    "annotation_304": {
+    "annotation_315": {
       "type": "emphasis",
-      "id": "annotation_304",
+      "id": "annotation_315",
       "path": [
-        "paragraph_303",
+        "paragraph_314",
         "content"
       ],
       "target": null,
@@ -4534,12 +4730,12 @@
       "level": 2,
       "content": "Competing Interests",
       "nodes": [
-        "paragraph_305"
+        "paragraph_316"
       ]
     },
-    "paragraph_305": {
+    "paragraph_316": {
       "type": "paragraph",
-      "id": "paragraph_305",
+      "id": "paragraph_316",
       "content": "Competing interestsThe authors have declared that no competing interests exists"
     },
     "info:author_contribution": {
@@ -4570,9 +4766,9 @@
       "id": "paragraph_supplement_SD1_data",
       "content": "List of antibodies, primer sequences and siRNA/shRNAs used in this study. (A) List of antibodies used in this study. (B) Primers sequences for qRT-PCR, ChIP and ChIP-chip validation experiments. (C) Sequences of synthesized siRNAs, and clone ID numbers for shRNAs obtained from Open Biosystems (the luciferase siRNA sequence was previously reported (Elbashir et al., 2001))."
     },
-    "annotation_306": {
+    "annotation_317": {
       "type": "strong",
-      "id": "annotation_306",
+      "id": "annotation_317",
       "path": [
         "paragraph_supplement_SD1_data",
         "content"
@@ -4583,9 +4779,9 @@
         76
       ]
     },
-    "annotation_307": {
+    "annotation_318": {
       "type": "strong",
-      "id": "annotation_307",
+      "id": "annotation_318",
       "path": [
         "paragraph_supplement_SD1_data",
         "content"
@@ -4596,9 +4792,9 @@
         119
       ]
     },
-    "annotation_308": {
+    "annotation_319": {
       "type": "strong",
-      "id": "annotation_308",
+      "id": "annotation_319",
       "path": [
         "paragraph_supplement_SD1_data",
         "content"
@@ -4609,9 +4805,9 @@
         197
       ]
     },
-    "citation_reference_309": {
+    "citation_reference_320": {
       "type": "citation_reference",
-      "id": "citation_reference_309",
+      "id": "citation_reference_320",
       "path": [
         "paragraph_supplement_SD1_data",
         "content"
@@ -4621,6 +4817,1908 @@
         350,
         371
       ]
+    },
+    "info:dataset": {
+      "type": "heading",
+      "id": "info:dataset",
+      "level": 2,
+      "content": "Major Datasets",
+      "nodes": [
+        "paragraph_dataro1"
+      ]
+    },
+    "paragraph_dataro1": {
+      "type": "paragraph",
+      "id": "paragraph_dataro1",
+      "content": "Maston, GA, Green, MR, Zhu, LJ, Chamberlain, L, Lin, L, 2012, ChIP-chip from H9 hESCs for RNA Polymerase II, TBP, TAF3, TAF5, TAF7, and TAF11, GSE39312; http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE39312, In the public domain at GEO: http://www.ncbi.nlm.nih.gov/geo/Reporting Standards:"
+    },
+    "article_citation_bib1": {
+      "type": "article_citation",
+      "id": "article_citation_bib1",
+      "authors": [
+        {
+          "given-names": "MJ",
+          "last-name": "Abeyta"
+        },
+        {
+          "given-names": "AT",
+          "last-name": "Clark"
+        },
+        {
+          "given-names": "RT",
+          "last-name": "Rodriguez"
+        },
+        {
+          "given-names": "MS",
+          "last-name": "Bodnar"
+        },
+        {
+          "given-names": "RA",
+          "last-name": "Pera"
+        },
+        {
+          "given-names": "MT",
+          "last-name": "Firpo"
+        }
+      ],
+      "title": "Unique gene expression signatures of independently-derived human embryonic stem cell lines",
+      "year": "2004",
+      "volume": "13",
+      "source": "Hum Mol Genet",
+      "issue": "",
+      "fpage": "601",
+      "lpage": "8",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib2": {
+      "type": "article_citation",
+      "id": "article_citation_bib2",
+      "authors": [
+        {
+          "given-names": "LA",
+          "last-name": "Boyer"
+        },
+        {
+          "given-names": "TI",
+          "last-name": "Lee"
+        },
+        {
+          "given-names": "MF",
+          "last-name": "Cole"
+        },
+        {
+          "given-names": "SE",
+          "last-name": "Johnstone"
+        },
+        {
+          "given-names": "SS",
+          "last-name": "Levine"
+        },
+        {
+          "given-names": "JP",
+          "last-name": "Zucker"
+        }
+      ],
+      "title": "Core transcriptional regulatory circuitry in human embryonic stem cells",
+      "year": "2005",
+      "volume": "122",
+      "source": "Cell",
+      "issue": "",
+      "fpage": "947",
+      "lpage": "56",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/j.cell.2005.08.020",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib3": {
+      "type": "article_citation",
+      "id": "article_citation_bib3",
+      "authors": [
+        {
+          "given-names": "JL",
+          "last-name": "Chen"
+        },
+        {
+          "given-names": "LD",
+          "last-name": "Attardi"
+        },
+        {
+          "given-names": "CP",
+          "last-name": "Verrijzer"
+        },
+        {
+          "given-names": "K",
+          "last-name": "Yokomori"
+        },
+        {
+          "given-names": "R",
+          "last-name": "Tjian"
+        }
+      ],
+      "title": "Assembly of recombinant TFIID reveals differential coactivator requirements for distinct transcriptional activators",
+      "year": "1994",
+      "volume": "79",
+      "source": "Cell",
+      "issue": "",
+      "fpage": "93",
+      "lpage": "105",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/0092-8674(94)90403-0",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib4": {
+      "type": "article_citation",
+      "id": "article_citation_bib4",
+      "authors": [
+        {
+          "given-names": "L",
+          "last-name": "Chen"
+        },
+        {
+          "given-names": "GQ",
+          "last-name": "Daley"
+        }
+      ],
+      "title": "Molecular basis of pluripotency",
+      "year": "2008",
+      "volume": "17",
+      "source": "Hum Mol Genet",
+      "issue": "",
+      "fpage": "R23",
+      "lpage": "7",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1093/hmg/ddn050",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib5": {
+      "type": "article_citation",
+      "id": "article_citation_bib5",
+      "authors": [
+        {
+          "given-names": "E",
+          "last-name": "Cler"
+        },
+        {
+          "given-names": "G",
+          "last-name": "Papai"
+        },
+        {
+          "given-names": "P",
+          "last-name": "Schultz"
+        },
+        {
+          "given-names": "I",
+          "last-name": "Davidson"
+        }
+      ],
+      "title": "Recent advances in understanding the structure and function of general transcription factor TFIID",
+      "year": "2009",
+      "volume": "66",
+      "source": "Cell Mol Life Sci",
+      "issue": "",
+      "fpage": "2123",
+      "lpage": "34",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1007/s00018-009-0009-3",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib6": {
+      "type": "article_citation",
+      "id": "article_citation_bib6",
+      "authors": [
+        {
+          "given-names": "JA",
+          "last-name": "D'Alessio"
+        },
+        {
+          "given-names": "R",
+          "last-name": "Ng"
+        },
+        {
+          "given-names": "H",
+          "last-name": "Willenbring"
+        },
+        {
+          "given-names": "R",
+          "last-name": "Tjian"
+        }
+      ],
+      "title": "Core promoter recognition complex changes accompany liver development",
+      "year": "2011",
+      "volume": "108",
+      "source": "Proc Natl Acad Sci USA",
+      "issue": "",
+      "fpage": "3906",
+      "lpage": "11",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1073/pnas.1100640108",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib7": {
+      "type": "article_citation",
+      "id": "article_citation_bib7",
+      "authors": [
+        {
+          "given-names": "JA",
+          "last-name": "D'Alessio"
+        },
+        {
+          "given-names": "KJ",
+          "last-name": "Wright"
+        },
+        {
+          "given-names": "R",
+          "last-name": "Tjian"
+        }
+      ],
+      "title": "Shifting players and paradigms in cell-specific transcription",
+      "year": "2009",
+      "volume": "36",
+      "source": "Mol Cell",
+      "issue": "",
+      "fpage": "924",
+      "lpage": "31",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/j.molcel.2009.12.011",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib8": {
+      "type": "article_citation",
+      "id": "article_citation_bib8",
+      "authors": [
+        {
+          "given-names": "I",
+          "last-name": "Davidson"
+        }
+      ],
+      "title": "The genetics of TBP and TBP-related factors",
+      "year": "2003",
+      "volume": "28",
+      "source": "Trends Biochem Sci",
+      "issue": "",
+      "fpage": "391",
+      "lpage": "8",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib9": {
+      "type": "article_citation",
+      "id": "article_citation_bib9",
+      "authors": [
+        {
+          "given-names": "MD",
+          "last-name": "Deato"
+        },
+        {
+          "given-names": "MT",
+          "last-name": "Marr"
+        },
+        {
+          "given-names": "T",
+          "last-name": "Sottero"
+        },
+        {
+          "given-names": "C",
+          "last-name": "Inouye"
+        },
+        {
+          "given-names": "P",
+          "last-name": "Hu"
+        },
+        {
+          "given-names": "R",
+          "last-name": "Tjian"
+        }
+      ],
+      "title": "MyoD targets TAF3/TRF3 to activate myogenin transcription",
+      "year": "2008",
+      "volume": "32",
+      "source": "Mol Cell",
+      "issue": "",
+      "fpage": "96",
+      "lpage": "105",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/j.molcel.2008.09.009",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib10": {
+      "type": "article_citation",
+      "id": "article_citation_bib10",
+      "authors": [
+        {
+          "given-names": "MD",
+          "last-name": "Deato"
+        },
+        {
+          "given-names": "R",
+          "last-name": "Tjian"
+        }
+      ],
+      "title": "Switching of the core transcription machinery during myogenesis",
+      "year": "2007",
+      "volume": "21",
+      "source": "Genes Dev",
+      "issue": "",
+      "fpage": "2137",
+      "lpage": "49",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib11": {
+      "type": "article_citation",
+      "id": "article_citation_bib11",
+      "authors": [
+        {
+          "given-names": "R",
+          "last-name": "Edgar"
+        },
+        {
+          "given-names": "M",
+          "last-name": "Domrachev"
+        },
+        {
+          "given-names": "AE",
+          "last-name": "Lash"
+        }
+      ],
+      "title": "Gene Expression Omnibus: NCBI gene expression and hybridization array data repository",
+      "year": "2002",
+      "volume": "30",
+      "source": "Nucleic Acids Res",
+      "issue": "",
+      "fpage": "207",
+      "lpage": "10",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib12": {
+      "type": "article_citation",
+      "id": "article_citation_bib12",
+      "authors": [
+        {
+          "given-names": "SM",
+          "last-name": "Elbashir"
+        },
+        {
+          "given-names": "J",
+          "last-name": "Harborth"
+        },
+        {
+          "given-names": "W",
+          "last-name": "Lendeckel"
+        },
+        {
+          "given-names": "A",
+          "last-name": "Yalcin"
+        },
+        {
+          "given-names": "K",
+          "last-name": "Weber"
+        },
+        {
+          "given-names": "T",
+          "last-name": "Tuschl"
+        }
+      ],
+      "title": "Duplexes of 21-nucleotide RNAs mediate RNA interference in cultured mammalian cells",
+      "year": "2001",
+      "volume": "411",
+      "source": "Nature",
+      "issue": "",
+      "fpage": "494",
+      "lpage": "8",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1038/3507810735078107",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib13": {
+      "type": "article_citation",
+      "id": "article_citation_bib13",
+      "authors": [
+        {
+          "given-names": "X",
+          "last-name": "Fan"
+        },
+        {
+          "given-names": "DM",
+          "last-name": "Chou"
+        },
+        {
+          "given-names": "K",
+          "last-name": "Struhl"
+        }
+      ],
+      "title": "Activator-specific recruitment of Mediator in vivo",
+      "year": "2006",
+      "volume": "13",
+      "source": "Nat Struct Mol Biol",
+      "issue": "",
+      "fpage": "117",
+      "lpage": "20",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1038/nsmb1049",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib14": {
+      "type": "article_citation",
+      "id": "article_citation_bib14",
+      "authors": [
+        {
+          "given-names": "NJ",
+          "last-name": "Fuda"
+        },
+        {
+          "given-names": "MB",
+          "last-name": "Ardehali"
+        },
+        {
+          "given-names": "JT",
+          "last-name": "Lis"
+        }
+      ],
+      "title": "Defining mechanisms that regulate RNA polymerase II transcription in vivo",
+      "year": "2009",
+      "volume": "461",
+      "source": "Nature",
+      "issue": "",
+      "fpage": "186",
+      "lpage": "92",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1038/nature08449",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib15": {
+      "type": "article_citation",
+      "id": "article_citation_bib15",
+      "authors": [
+        {
+          "given-names": "I",
+          "last-name": "Ginis"
+        },
+        {
+          "given-names": "Y",
+          "last-name": "Luo"
+        },
+        {
+          "given-names": "T",
+          "last-name": "Miura"
+        },
+        {
+          "given-names": "S",
+          "last-name": "Thies"
+        },
+        {
+          "given-names": "R",
+          "last-name": "Brandenberger"
+        },
+        {
+          "given-names": "S",
+          "last-name": "Gerecht-Nir"
+        }
+      ],
+      "title": "Differences between human and mouse embryonic stem cells",
+      "year": "2004",
+      "volume": "269",
+      "source": "Dev Biol",
+      "issue": "",
+      "fpage": "360",
+      "lpage": "80",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/j.ydbio.2003.12.034",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib16": {
+      "type": "article_citation",
+      "id": "article_citation_bib16",
+      "authors": [
+        {
+          "given-names": "J",
+          "last-name": "Goecks"
+        },
+        {
+          "given-names": "A",
+          "last-name": "Nekrutenko"
+        },
+        {
+          "given-names": "J",
+          "last-name": "Taylor"
+        }
+      ],
+      "title": "Galaxy: a comprehensive approach for supporting accessible, reproducible, and transparent computational research in the life sciences",
+      "year": "2010",
+      "volume": "11",
+      "source": "Genome Biol",
+      "issue": "",
+      "fpage": "R86",
+      "lpage": "",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1186/gb-2010-11-8-r86",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib17": {
+      "type": "article_citation",
+      "id": "article_citation_bib17",
+      "authors": [
+        {
+          "given-names": "MR",
+          "last-name": "Green"
+        }
+      ],
+      "title": "Eukaryotic transcription activation: right on target",
+      "year": "2005",
+      "volume": "18",
+      "source": "Mol Cell",
+      "issue": "",
+      "fpage": "399",
+      "lpage": "402",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib18": {
+      "type": "article_citation",
+      "id": "article_citation_bib18",
+      "authors": [
+        {
+          "given-names": "MG",
+          "last-name": "Guenther"
+        },
+        {
+          "given-names": "SS",
+          "last-name": "Levine"
+        },
+        {
+          "given-names": "LA",
+          "last-name": "Boyer"
+        },
+        {
+          "given-names": "R",
+          "last-name": "Jaenisch"
+        },
+        {
+          "given-names": "RA",
+          "last-name": "Young"
+        }
+      ],
+      "title": "A chromatin landmark and transcription initiation at most promoters in human cells",
+      "year": "2007",
+      "volume": "130",
+      "source": "Cell",
+      "issue": "",
+      "fpage": "77",
+      "lpage": "88",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/j.cell.2007.05.042",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib19": {
+      "type": "article_citation",
+      "id": "article_citation_bib19",
+      "authors": [
+        {
+          "given-names": "DO",
+          "last-name": "Hart"
+        },
+        {
+          "given-names": "T",
+          "last-name": "Raha"
+        },
+        {
+          "given-names": "ND",
+          "last-name": "Lawson"
+        },
+        {
+          "given-names": "MR",
+          "last-name": "Green"
+        }
+      ],
+      "title": "Initiation of zebrafish haematopoiesis by the TATA-box-binding protein-related factor Trf3",
+      "year": "2007",
+      "volume": "450",
+      "source": "Nature",
+      "issue": "",
+      "fpage": "1082",
+      "lpage": "5",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib20": {
+      "type": "article_citation",
+      "id": "article_citation_bib20",
+      "authors": [
+        {
+          "given-names": "A.",
+          "last-name": "Hochheimer"
+        },
+        {
+          "given-names": "R",
+          "last-name": "Tjian"
+        }
+      ],
+      "title": "Diversified transcription initiation complexes expand promoter selectivity and tissue-specific gene expression",
+      "year": "2003",
+      "volume": "17",
+      "source": "Genes Dev",
+      "issue": "",
+      "fpage": "1309",
+      "lpage": "20",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib21": {
+      "type": "article_citation",
+      "id": "article_citation_bib21",
+      "authors": [
+        {
+          "given-names": "K",
+          "last-name": "Kimura"
+        },
+        {
+          "given-names": "A",
+          "last-name": "Wakamatsu"
+        },
+        {
+          "given-names": "Y",
+          "last-name": "Suzuki"
+        },
+        {
+          "given-names": "T",
+          "last-name": "Ota"
+        },
+        {
+          "given-names": "T",
+          "last-name": "Nishikawa"
+        },
+        {
+          "given-names": "R",
+          "last-name": "Yamashita"
+        }
+      ],
+      "title": "Diversification of transcriptional modulation: large-scale identification and characterization of putative alternative promoters of human genes",
+      "year": "2006",
+      "volume": "16",
+      "source": "Genome Res",
+      "issue": "",
+      "fpage": "55",
+      "lpage": "65",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1101/gr.4039406",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib22": {
+      "type": "article_citation",
+      "id": "article_citation_bib22",
+      "authors": [
+        {
+          "given-names": "G",
+          "last-name": "Kolle"
+        },
+        {
+          "given-names": "JL",
+          "last-name": "Shepherd"
+        },
+        {
+          "given-names": "B",
+          "last-name": "Gardiner"
+        },
+        {
+          "given-names": "KS",
+          "last-name": "Kassahn"
+        },
+        {
+          "given-names": "N",
+          "last-name": "Cloonan"
+        },
+        {
+          "given-names": "DL",
+          "last-name": "Wood"
+        }
+      ],
+      "title": "Deep-transcriptome and ribonome sequencing redefines the molecular networks of pluripotency and the extracellular space in human embryonic stem cells",
+      "year": "2011",
+      "volume": "21",
+      "source": "Genome Res",
+      "issue": "",
+      "fpage": "2014",
+      "lpage": "25",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1101/gr.119321.110",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib23": {
+      "type": "article_citation",
+      "id": "article_citation_bib23",
+      "authors": [
+        {
+          "given-names": "L",
+          "last-name": "Kuras"
+        },
+        {
+          "given-names": "P",
+          "last-name": "Kosa"
+        },
+        {
+          "given-names": "M",
+          "last-name": "Mencia"
+        },
+        {
+          "given-names": "K",
+          "last-name": "Struhl"
+        }
+      ],
+      "title": "TAF-Containing and TAF-independent forms of transcriptionally active TBP in vivo",
+      "year": "2000",
+      "volume": "288",
+      "source": "Science",
+      "issue": "",
+      "fpage": "1244",
+      "lpage": "8",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib24": {
+      "type": "article_citation",
+      "id": "article_citation_bib24",
+      "authors": [
+        {
+          "given-names": "AC",
+          "last-name": "Lavigne"
+        },
+        {
+          "given-names": "G",
+          "last-name": "Mengus"
+        },
+        {
+          "given-names": "M",
+          "last-name": "May"
+        },
+        {
+          "given-names": "V",
+          "last-name": "Dubrovskaya"
+        },
+        {
+          "given-names": "L",
+          "last-name": "Tora"
+        },
+        {
+          "given-names": "P",
+          "last-name": "Chambon"
+        }
+      ],
+      "title": "Multiple interactions between hTAFII55 and other TFIID subunits. Requirements for the formation of stable ternary complexes between hTAFII55 and the TATA-binding protein",
+      "year": "1996",
+      "volume": "271",
+      "source": "J Biol Chem",
+      "issue": "",
+      "fpage": "19774",
+      "lpage": "80",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib25": {
+      "type": "article_citation",
+      "id": "article_citation_bib25",
+      "authors": [
+        {
+          "given-names": "XY",
+          "last-name": "Li"
+        },
+        {
+          "given-names": "SR",
+          "last-name": "Bhaumik"
+        },
+        {
+          "given-names": "MR",
+          "last-name": "Green"
+        }
+      ],
+      "title": "Distinct classes of yeast promoters revealed by differential TAF recruitment",
+      "year": "2000",
+      "volume": "288",
+      "source": "Science",
+      "issue": "",
+      "fpage": "1242",
+      "lpage": "4",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib26": {
+      "type": "article_citation",
+      "id": "article_citation_bib26",
+      "authors": [
+        {
+          "given-names": "XY",
+          "last-name": "Li"
+        },
+        {
+          "given-names": "SR",
+          "last-name": "Bhaumik"
+        },
+        {
+          "given-names": "X",
+          "last-name": "Zhu"
+        },
+        {
+          "given-names": "L",
+          "last-name": "Li"
+        },
+        {
+          "given-names": "WC",
+          "last-name": "Shen"
+        },
+        {
+          "given-names": "BL",
+          "last-name": "Dixit"
+        }
+      ],
+      "title": "Selective recruitment of TAFs by yeast upstream activating sequences. Implications for eukaryotic promoter structure",
+      "year": "2002",
+      "volume": "12",
+      "source": "Curr Biol",
+      "issue": "",
+      "fpage": "1240",
+      "lpage": "4",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib27": {
+      "type": "article_citation",
+      "id": "article_citation_bib27",
+      "authors": [
+        {
+          "given-names": "Z",
+          "last-name": "Liu"
+        },
+        {
+          "given-names": "DR",
+          "last-name": "Scannell"
+        },
+        {
+          "given-names": "MB",
+          "last-name": "Eisen"
+        },
+        {
+          "given-names": "R",
+          "last-name": "Tjian"
+        }
+      ],
+      "title": "Control of embryonic stem cell lineage commitment by core promoter factor, TAF3",
+      "year": "2011",
+      "volume": "146",
+      "source": "Cell",
+      "issue": "",
+      "fpage": "720",
+      "lpage": "31",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/j.cell.2011.08.005",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib28": {
+      "type": "article_citation",
+      "id": "article_citation_bib28",
+      "authors": [
+        {
+          "given-names": "GA",
+          "last-name": "Maston"
+        },
+        {
+          "given-names": "SK",
+          "last-name": "Evans"
+        },
+        {
+          "given-names": "MR",
+          "last-name": "Green"
+        }
+      ],
+      "title": "Transcriptional regulatory elements in the human genome",
+      "year": "2006",
+      "volume": "7",
+      "source": "Annu Rev Genomics Hum Genet",
+      "issue": "",
+      "fpage": "29",
+      "lpage": "59",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1146/annurev.genom.7.080505.115623",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib29": {
+      "type": "article_citation",
+      "id": "article_citation_bib29",
+      "authors": [
+        {
+          "given-names": "F",
+          "last-name": "Müller"
+        },
+        {
+          "given-names": "A",
+          "last-name": "Zaucker"
+        },
+        {
+          "given-names": "L",
+          "last-name": "Tora"
+        }
+      ],
+      "title": "Developmental regulation of transcription initiation: more than just changing the actors",
+      "year": "2010",
+      "volume": "20",
+      "source": "Curr Opin Genet Dev",
+      "issue": "",
+      "fpage": "533",
+      "lpage": "40",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/j.gde.2010.06.004",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib30": {
+      "type": "article_citation",
+      "id": "article_citation_bib30",
+      "authors": [
+        {
+          "given-names": "HH",
+          "last-name": "Ng"
+        },
+        {
+          "given-names": "F",
+          "last-name": "Robert"
+        },
+        {
+          "given-names": "RA",
+          "last-name": "Young"
+        },
+        {
+          "given-names": "K",
+          "last-name": "Struhl"
+        }
+      ],
+      "title": "Genome-wide location and regulated recruitment of the RSC nucleosome-remodeling complex",
+      "year": "2002",
+      "volume": "16",
+      "source": "Genes Dev",
+      "issue": "",
+      "fpage": "806",
+      "lpage": "19",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1101/gad.978902",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib31": {
+      "type": "article_citation",
+      "id": "article_citation_bib31",
+      "authors": [
+        {
+          "given-names": "H",
+          "last-name": "Niwa"
+        },
+        {
+          "given-names": "J",
+          "last-name": "Miyazaki"
+        },
+        {
+          "given-names": "AG",
+          "last-name": "Smith"
+        }
+      ],
+      "title": "Quantitative expression of Oct-3/4 defines differentiation, dedifferentiation or self-renewal of ES cells",
+      "year": "2000",
+      "volume": "24",
+      "source": "Nat Genet",
+      "issue": "",
+      "fpage": "372",
+      "lpage": "6",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1038/74199",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib32": {
+      "type": "article_citation",
+      "id": "article_citation_bib32",
+      "authors": [
+        {
+          "given-names": "S",
+          "last-name": "Pal"
+        },
+        {
+          "given-names": "R",
+          "last-name": "Gupta"
+        },
+        {
+          "given-names": "H",
+          "last-name": "Kim"
+        },
+        {
+          "given-names": "P",
+          "last-name": "Wickramasinghe"
+        },
+        {
+          "given-names": "V",
+          "last-name": "Baubet"
+        },
+        {
+          "given-names": "LC",
+          "last-name": "Showe"
+        }
+      ],
+      "title": "Alternative transcription exceeds alternative splicing in generating the transcriptome diversity of cerebellar development",
+      "year": "2011",
+      "volume": "21",
+      "source": "Genome Res",
+      "issue": "",
+      "fpage": "1260",
+      "lpage": "72",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1101/gr.120535.111",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib33": {
+      "type": "article_citation",
+      "id": "article_citation_bib33",
+      "authors": [
+        {
+          "given-names": "G",
+          "last-name": "Pan"
+        },
+        {
+          "given-names": "JA",
+          "last-name": "Thomson"
+        }
+      ],
+      "title": "Nanog and transcriptional networks in embryonic stem cell pluripotency",
+      "year": "2007",
+      "volume": "17",
+      "source": "Cell Res",
+      "issue": "",
+      "fpage": "42",
+      "lpage": "9",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib34": {
+      "type": "article_citation",
+      "id": "article_citation_bib34",
+      "authors": [
+        {
+          "given-names": "G",
+          "last-name": "Papai"
+        },
+        {
+          "given-names": "PA",
+          "last-name": "Weil"
+        },
+        {
+          "given-names": "P",
+          "last-name": "Schultz"
+        }
+      ],
+      "title": "New insights into the function of transcription factor TFIID from recent structural studies",
+      "year": "2011",
+      "volume": "21",
+      "source": "Curr Opin Genet Dev",
+      "issue": "",
+      "fpage": "219",
+      "lpage": "24",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/j.gde.2011.01.009",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib35": {
+      "type": "article_citation",
+      "id": "article_citation_bib35",
+      "authors": [
+        {
+          "given-names": "GD",
+          "last-name": "Penny"
+        },
+        {
+          "given-names": "GF",
+          "last-name": "Kay"
+        },
+        {
+          "given-names": "SA",
+          "last-name": "Sheardown"
+        },
+        {
+          "given-names": "S",
+          "last-name": "Rastan"
+        },
+        {
+          "given-names": "N",
+          "last-name": "Brockdorff"
+        }
+      ],
+      "title": "Requirement for Xist in X chromosome inactivation",
+      "year": "1996",
+      "volume": "379",
+      "source": "Nature",
+      "issue": "",
+      "fpage": "131",
+      "lpage": "7",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1038/379131a0",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib36": {
+      "type": "article_citation",
+      "id": "article_citation_bib36",
+      "authors": [
+        {
+          "given-names": "T",
+          "last-name": "Raha"
+        },
+        {
+          "given-names": "SW",
+          "last-name": "Cheng"
+        },
+        {
+          "given-names": "MR",
+          "last-name": "Green"
+        }
+      ],
+      "title": "HIV-1 Tat stimulates transcription complex assembly through recruitment of TBP in the absence of TAFs",
+      "year": "2005",
+      "volume": "3",
+      "source": "PLoS Biol",
+      "issue": "",
+      "fpage": "e44",
+      "lpage": "",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib37": {
+      "type": "article_citation",
+      "id": "article_citation_bib37",
+      "authors": [
+        {
+          "given-names": "A",
+          "last-name": "Schnerch"
+        },
+        {
+          "given-names": "C",
+          "last-name": "Cerdan"
+        },
+        {
+          "given-names": "M",
+          "last-name": "Bhatia"
+        }
+      ],
+      "title": "Distinguishing between mouse and human pluripotent stem cell regulation: the best laid plans of mice and men",
+      "year": "2010",
+      "volume": "28",
+      "source": "Stem Cells",
+      "issue": "",
+      "fpage": "419",
+      "lpage": "30",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1002/stem.298",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib38": {
+      "type": "article_citation",
+      "id": "article_citation_bib38",
+      "authors": [
+        {
+          "given-names": "WC",
+          "last-name": "Shen"
+        },
+        {
+          "given-names": "MR",
+          "last-name": "Green"
+        }
+      ],
+      "title": "Yeast TAF(II)145 functions as a core promoter selectivity factor, not a general coactivator",
+      "year": "1997",
+      "volume": "90",
+      "source": "Cell",
+      "issue": "",
+      "fpage": "615",
+      "lpage": "24",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib39": {
+      "type": "article_citation",
+      "id": "article_citation_bib39",
+      "authors": [
+        {
+          "given-names": "Y",
+          "last-name": "Sun"
+        },
+        {
+          "given-names": "H",
+          "last-name": "Li"
+        },
+        {
+          "given-names": "H",
+          "last-name": "Yang"
+        },
+        {
+          "given-names": "MS",
+          "last-name": "Rao"
+        },
+        {
+          "given-names": "M",
+          "last-name": "Zhan"
+        }
+      ],
+      "title": "Mechanisms controlling embryonic stem cell self-renewal and differentiation",
+      "year": "2006",
+      "volume": "16",
+      "source": "Crit Rev Eukaryot Gene Expr",
+      "issue": "",
+      "fpage": "211",
+      "lpage": "31",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1615/CritRevEukarGeneExpr.v16.i3.20",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib40": {
+      "type": "article_citation",
+      "id": "article_citation_bib40",
+      "authors": [
+        {
+          "given-names": "N",
+          "last-name": "Tanese"
+        }
+      ],
+      "title": "Small-scale density gradient sedimentation to separate and analyze multiprotein complexes",
+      "year": "1997",
+      "volume": "12",
+      "source": "Methods",
+      "issue": "",
+      "fpage": "224",
+      "lpage": "34",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1006/meth.1997.0475",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib41": {
+      "type": "article_citation",
+      "id": "article_citation_bib41",
+      "authors": [
+        {
+          "given-names": "MC",
+          "last-name": "Thomas"
+        },
+        {
+          "given-names": "CM",
+          "last-name": "Chiang"
+        }
+      ],
+      "title": "The general transcription machinery and general cofactors",
+      "year": "2006",
+      "volume": "41",
+      "source": "Crit Rev Biochem Mol Biol",
+      "issue": "",
+      "fpage": "105",
+      "lpage": "78",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1080/10409230600648736",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib42": {
+      "type": "article_citation",
+      "id": "article_citation_bib42",
+      "authors": [
+        {
+          "given-names": "Y",
+          "last-name": "Tokusumi"
+        },
+        {
+          "given-names": "Y",
+          "last-name": "Ma"
+        },
+        {
+          "given-names": "X",
+          "last-name": "Song"
+        },
+        {
+          "given-names": "RH",
+          "last-name": "Jacobson"
+        },
+        {
+          "given-names": "S",
+          "last-name": "Takada"
+        }
+      ],
+      "title": "The new core promoter element XCPE1 (X Core Promoter Element 1) directs activator-, mediator-, and TATA-binding protein-dependent but TFIID-independent RNA polymerase II transcription from TATA-less promoters",
+      "year": "2007",
+      "volume": "27",
+      "source": "Mol Cell Biol",
+      "issue": "",
+      "fpage": "1844",
+      "lpage": "58",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1128/MCB.01363-06",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib43": {
+      "type": "article_citation",
+      "id": "article_citation_bib43",
+      "authors": [
+        {
+          "given-names": "M",
+          "last-name": "Vermeulen"
+        },
+        {
+          "given-names": "KW",
+          "last-name": "Mulder"
+        },
+        {
+          "given-names": "S",
+          "last-name": "Denissov"
+        },
+        {
+          "given-names": "WW",
+          "last-name": "Pijnappel"
+        },
+        {
+          "given-names": "FM",
+          "last-name": "van Schaik"
+        },
+        {
+          "given-names": "RA",
+          "last-name": "Varier"
+        }
+      ],
+      "title": "Selective anchoring of TFIID to nucleosomes by trimethylation of histone H3 lysine 4",
+      "year": "2007",
+      "volume": "131",
+      "source": "Cell",
+      "issue": "",
+      "fpage": "58",
+      "lpage": "69",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/j.cell.2007.08.016",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib44": {
+      "type": "article_citation",
+      "id": "article_citation_bib44",
+      "authors": [
+        {
+          "given-names": "CP",
+          "last-name": "Verrijzer"
+        },
+        {
+          "given-names": "K",
+          "last-name": "Yokomori"
+        },
+        {
+          "given-names": "JL",
+          "last-name": "Chen"
+        },
+        {
+          "given-names": "R",
+          "last-name": "Tjian"
+        }
+      ],
+      "title": "Drosophila TAFII150: similarity to yeast gene TSM-1 and specific binding to core promoter DNA",
+      "year": "1994",
+      "volume": "264",
+      "source": "Science",
+      "issue": "",
+      "fpage": "933",
+      "lpage": "41",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib45": {
+      "type": "article_citation",
+      "id": "article_citation_bib45",
+      "authors": [
+        {
+          "given-names": "VM",
+          "last-name": "Weake"
+        },
+        {
+          "given-names": "JL",
+          "last-name": "Workman"
+        }
+      ],
+      "title": "Inducible gene expression: diverse regulatory mechanisms",
+      "year": "2010",
+      "volume": "11",
+      "source": "Nat Rev Genet",
+      "issue": "",
+      "fpage": "426",
+      "lpage": "37",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1038/nrg2781",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib46": {
+      "type": "article_citation",
+      "id": "article_citation_bib46",
+      "authors": [
+        {
+          "given-names": "CL",
+          "last-name": "Wei"
+        },
+        {
+          "given-names": "T",
+          "last-name": "Miura"
+        },
+        {
+          "given-names": "P",
+          "last-name": "Robson"
+        },
+        {
+          "given-names": "SK",
+          "last-name": "Lim"
+        },
+        {
+          "given-names": "XQ",
+          "last-name": "Xu"
+        },
+        {
+          "given-names": "MY",
+          "last-name": "Lee"
+        }
+      ],
+      "title": "Transcriptome profiling of human and murine ESCs identifies divergent paths required to maintain the stem cell state",
+      "year": "2005",
+      "volume": "23",
+      "source": "Stem Cells",
+      "issue": "",
+      "fpage": "166",
+      "lpage": "85",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1634/stemcells.2004-0162",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib47": {
+      "type": "article_citation",
+      "id": "article_citation_bib47",
+      "authors": [
+        {
+          "given-names": "RO",
+          "last-name": "Weinzierl"
+        },
+        {
+          "given-names": "S",
+          "last-name": "Ruppert"
+        },
+        {
+          "given-names": "BD",
+          "last-name": "Dynlacht"
+        },
+        {
+          "given-names": "N",
+          "last-name": "Tanese"
+        },
+        {
+          "given-names": "R",
+          "last-name": "Tjian"
+        }
+      ],
+      "title": "Cloning and expression of Drosophila TAFII60 and human TAFII70 reveal conserved interactions with other subunits of TFIID",
+      "year": "1993",
+      "volume": "12",
+      "source": "EMBO J",
+      "issue": "",
+      "fpage": "5303",
+      "lpage": "9",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib48": {
+      "type": "article_citation",
+      "id": "article_citation_bib48",
+      "authors": [
+        {
+          "given-names": "KJ",
+          "last-name": "Wright"
+        },
+        {
+          "given-names": "II",
+          "last-name": "Marr"
+        },
+        {
+          "given-names": "R",
+          "last-name": "Tjian"
+        }
+      ],
+      "title": "TAF4 nucleates a core subcomplex of TFIID and mediates activated transcription from a TATA-less promoter",
+      "year": "2006",
+      "volume": "103",
+      "source": "Proc Natl Acad Sci USA",
+      "issue": "",
+      "fpage": "12347",
+      "lpage": "52",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1073/pnas.0605499103",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib49": {
+      "type": "article_citation",
+      "id": "article_citation_bib49",
+      "authors": [
+        {
+          "given-names": "PY",
+          "last-name": "Zeng"
+        },
+        {
+          "given-names": "CR",
+          "last-name": "Vakoc"
+        },
+        {
+          "given-names": "ZC",
+          "last-name": "Chen"
+        },
+        {
+          "given-names": "GA",
+          "last-name": "Blobel"
+        },
+        {
+          "given-names": "SL",
+          "last-name": "Berger"
+        }
+      ],
+      "title": "In vivo dual cross-linking for identification of indirect DNA-associated proteins by chromatin immunoprecipitation",
+      "year": "2006",
+      "volume": "41",
+      "source": "Biotechniques",
+      "issue": "",
+      "fpage": "694",
+      "lpage": "",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.2144/000112297",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib50": {
+      "type": "article_citation",
+      "id": "article_citation_bib50",
+      "authors": [
+        {
+          "given-names": "LJ",
+          "last-name": "Zhu"
+        },
+        {
+          "given-names": "C",
+          "last-name": "Gazin"
+        },
+        {
+          "given-names": "ND",
+          "last-name": "Lawson"
+        },
+        {
+          "given-names": "H",
+          "last-name": "Pagès"
+        },
+        {
+          "given-names": "SM",
+          "last-name": "Lin"
+        },
+        {
+          "given-names": "DS",
+          "last-name": "Lapointe"
+        }
+      ],
+      "title": "ChIPpeakAnno: a Bioconductor package to annotate ChIP-seq and ChIP-chip data",
+      "year": "2010",
+      "volume": "11",
+      "source": "BMC Bioinformatics",
+      "issue": "",
+      "fpage": "237",
+      "lpage": "",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1186/1471-2105-11-237",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
     },
     "sub-article": {
       "type": "heading",

@@ -1,0 +1,994 @@
+{
+  "id": "01042",
+  "nodes": {
+    "content": {
+      "type": "view",
+      "id": "content",
+      "nodes": [
+        "abstract",
+        "paragraph_3",
+        "paragraph_10",
+        "paragraph_12",
+        "paragraph_13",
+        "paragraph_14",
+        "paragraph_22",
+        "paragraph_24",
+        "paragraph_32",
+        "paragraph_35",
+        "paragraph_39",
+        "paragraph_41",
+        "paragraph_44"
+      ]
+    },
+    "figures": {
+      "type": "view",
+      "id": "figures",
+      "nodes": [
+        "box_4",
+        "image_fig1"
+      ]
+    },
+    "citations": {
+      "type": "view",
+      "id": "citations",
+      "nodes": [
+        "article_citation_bib1",
+        "article_citation_bib2",
+        "article_citation_bib3",
+        "article_citation_bib4",
+        "article_citation_bib5",
+        "article_citation_bib6",
+        "article_citation_bib7"
+      ]
+    },
+    "document": {
+      "type": "document",
+      "id": "document",
+      "views": [
+        "content",
+        "figures",
+        "citations"
+      ],
+      "guid": "01042",
+      "title": "Closing in on a new treatment for sleeping sickness",
+      "authors": [
+        "person_author_6184",
+        "person_author_1060"
+      ],
+      "received_on": "",
+      "accepted_on": "",
+      "published_on": "2013-07-09",
+      "journal": "elife",
+      "article_type": "",
+      "keywords": [
+        "chemical biology",
+        "chemoproteomics",
+        "hypothemycin",
+        "protein kinase"
+      ],
+      "research_organisms": [
+        "Mouse",
+        "Other"
+      ],
+      "subjects": [
+        "Biochemistry",
+        "Cell biology"
+      ],
+      "pdf_link": "",
+      "xml_link": "",
+      "json_link": "",
+      "doi": ""
+    },
+    "person_author_6184": {
+      "type": "person",
+      "id": "person_author_6184",
+      "given-names": "Emily R",
+      "last-name": "Derbyshire",
+      "role": "author",
+      "affiliations": [],
+      "image": "",
+      "contribution": "",
+      "email": "",
+      "funding": []
+    },
+    "person_author_1060": {
+      "type": "person",
+      "id": "person_author_1060",
+      "given-names": "Jon",
+      "last-name": "Clardy",
+      "role": "author",
+      "affiliations": [],
+      "image": "",
+      "contribution": "",
+      "email": "",
+      "funding": []
+    },
+    "institution_aff1": {
+      "type": "institution",
+      "id": "institution_aff1",
+      "name": "Harvard Medical School",
+      "city": "Boston",
+      "country": "United States",
+      "email": "emily_derbyshire@hms.harvard.edu",
+      "image": ""
+    },
+    "institution_aff2": {
+      "type": "institution",
+      "id": "institution_aff2",
+      "name": "Harvard Medical School",
+      "city": "Boston",
+      "country": "United States",
+      "email": "jon_clardy@hms.harvard.edu",
+      "image": ""
+    },
+    "info:copyright": {
+      "type": "heading",
+      "id": "info:copyright",
+      "level": 2,
+      "content": "Copyright",
+      "nodes": [
+        "paragraph_1"
+      ]
+    },
+    "paragraph_1": {
+      "type": "paragraph",
+      "id": "paragraph_1",
+      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "annotation_2": {
+      "type": "link",
+      "id": "annotation_2",
+      "path": [
+        "paragraph_1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        51,
+        87
+      ],
+      "url": "http://creativecommons.org/licenses/by/3.0/"
+    },
+    "abstract": {
+      "type": "heading",
+      "id": "abstract",
+      "level": 1,
+      "content": "Abstract",
+      "nodes": []
+    },
+    "paragraph_3": {
+      "type": "paragraph",
+      "id": "paragraph_3",
+      "content": "A chemoproteomics approach has been employed to identify a kinase that could be used as a druggable target in efforts to develop new treatments for African sleeping sickness."
+    },
+    "box_4": {
+      "type": "box",
+      "id": "box_4",
+      "label": "",
+      "url": "",
+      "title": "",
+      "caption": "",
+      "content": "Related research article Nishino M, Choy JW, Gushwa NN, Oses-Prieto JA, Koupparis K, Burlingame AL, Renslo AR, McKerrow JH, Taunton J. 2013. Hypothemycin, a fungal natural product, identifies therapeutic targets in Trypanosoma brucei. eLife 2:e00712. doi: 10.7554/eLife.00712",
+      "doi": ""
+    },
+    "annotation_5": {
+      "type": "strong",
+      "id": "annotation_5",
+      "path": [
+        "box_4",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        24
+      ]
+    },
+    "annotation_6": {
+      "type": "emphasis",
+      "id": "annotation_6",
+      "path": [
+        "box_4",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        215,
+        233
+      ]
+    },
+    "annotation_7": {
+      "type": "emphasis",
+      "id": "annotation_7",
+      "path": [
+        "box_4",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        235,
+        240
+      ]
+    },
+    "annotation_8": {
+      "type": "strong",
+      "id": "annotation_8",
+      "path": [
+        "box_4",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        241,
+        242
+      ]
+    },
+    "annotation_9": {
+      "type": "link",
+      "id": "annotation_9",
+      "path": [
+        "box_4",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        256,
+        275
+      ],
+      "url": "http://dx.doi.org/10.7554/eLife.00712"
+    },
+    "paragraph_10": {
+      "type": "paragraph",
+      "id": "paragraph_10",
+      "content": "Image Hypothemycin could lead to new treatments for sleeping sickness"
+    },
+    "annotation_11": {
+      "type": "strong",
+      "id": "annotation_11",
+      "path": [
+        "paragraph_10",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        5
+      ]
+    },
+    "paragraph_12": {
+      "type": "paragraph",
+      "id": "paragraph_12",
+      "content": ""
+    },
+    "paragraph_13": {
+      "type": "paragraph",
+      "id": "paragraph_13",
+      "content": "Chemists have created impressive collections of small molecules in recent years. The Molecular Libraries Program, for example, contains information on more than 300,000 different molecules, and PubChem lists chemical structures and the results of experimental investigations for some 5.5 million unique molecules. This immense amount of chemical information, combined with the availability of fully sequenced genomes for a growing number of hosts and pathogens, could in theory accelerate efforts to identify new drugs for the treatment of a variety of diseases. In practice, however, sampling the complete chemical space to discover molecules with therapeutic potential is inefficient. Instead, using a handful of carefully selected compounds that identify a limited set of targets may be a more fruitful means of uncovering candidate drugs."
+    },
+    "paragraph_14": {
+      "type": "paragraph",
+      "id": "paragraph_14",
+      "content": "African sleeping sickness, or trypanosomiasis, is a neglected tropical disease caused by the protozoan parasite Trypanosoma brucei (Kennedy, 2013). Untreated, the disease is often fatal, and the latest treatment, eflornithine, while still effective, is over 50 years old. The genomes of several strains of T. brucei have been sequenced, and together they contain genes that code for about 9000 proteins, including about 1700 that are specific to T. brucei (Berriman et al., 2005). Now, in eLife, Jack Taunton and colleagues at the University of California, San Francisco—including Mari Nishino, Jonathan Choy and Nathan Gushwa as joint first authors—report a chemoproteomics approach to focus their search for drug targets in a way that creates a clear path to new trypanosomiasis therapies (Nishino et al., 2013)."
+    },
+    "annotation_15": {
+      "type": "emphasis",
+      "id": "annotation_15",
+      "path": [
+        "paragraph_14",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        112,
+        130
+      ]
+    },
+    "citation_reference_16": {
+      "type": "citation_reference",
+      "id": "citation_reference_16",
+      "path": [
+        "paragraph_14",
+        "content"
+      ],
+      "target": "article_citation_bib3",
+      "range": [
+        132,
+        145
+      ]
+    },
+    "annotation_17": {
+      "type": "emphasis",
+      "id": "annotation_17",
+      "path": [
+        "paragraph_14",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        306,
+        315
+      ]
+    },
+    "annotation_18": {
+      "type": "emphasis",
+      "id": "annotation_18",
+      "path": [
+        "paragraph_14",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        446,
+        455
+      ]
+    },
+    "citation_reference_19": {
+      "type": "citation_reference",
+      "id": "citation_reference_19",
+      "path": [
+        "paragraph_14",
+        "content"
+      ],
+      "target": "article_citation_bib2",
+      "range": [
+        457,
+        478
+      ]
+    },
+    "annotation_20": {
+      "type": "emphasis",
+      "id": "annotation_20",
+      "path": [
+        "paragraph_14",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        489,
+        494
+      ]
+    },
+    "citation_reference_21": {
+      "type": "citation_reference",
+      "id": "citation_reference_21",
+      "path": [
+        "paragraph_14",
+        "content"
+      ],
+      "target": "article_citation_bib6",
+      "range": [
+        792,
+        812
+      ]
+    },
+    "paragraph_22": {
+      "type": "paragraph",
+      "id": "paragraph_22",
+      "content": "Chemoproteomics is a relatively recent entry in the -omics lexicon, and involves using chemical tools, often small molecules, to identify a group of functionally related proteins (Moellering and Cravatt, 2012). The UCSF team began by selecting protein kinases as their intended targets because inhibiting these enzymes in other systems is often lethal. As well as playing essential roles in the cell, kinases are druggable: that is, small molecules have been developed that can selectively inhibit these proteins in a variety of screening assays. More importantly, some of these small-molecule inhibitors have become effective drugs: Gleevec (imatinib), the tyrosine-kinase inhibitor used to treat chronic myelogenous leukemia and other cancers, is probably the best known."
+    },
+    "citation_reference_23": {
+      "type": "citation_reference",
+      "id": "citation_reference_23",
+      "path": [
+        "paragraph_22",
+        "content"
+      ],
+      "target": "article_citation_bib4",
+      "range": [
+        180,
+        208
+      ]
+    },
+    "paragraph_24": {
+      "type": "paragraph",
+      "id": "paragraph_24",
+      "content": "The T. brucei genome encodes 182 protein kinases, most with poorly understood functions. The UCSF team focused on a subset of 21 T. brucei kinases that had a cysteine residue near their active sites (Schirmer et al., 2006). Most of these ‘CDXG kinases’, named after the motif found at their active sites, were expected to react with and be inhibited by a proven CDXG inhibitor called hypothemycin (Nair and Carey, 1980; Agatsuma et al., 1993) (Figure 1). Hypothemycin is a compound produced by several fungal species, and it can inhibit some CDXG kinases by reacting with a cysteine residue at the active site."
+    },
+    "annotation_25": {
+      "type": "emphasis",
+      "id": "annotation_25",
+      "path": [
+        "paragraph_24",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        4,
+        13
+      ]
+    },
+    "annotation_26": {
+      "type": "emphasis",
+      "id": "annotation_26",
+      "path": [
+        "paragraph_24",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        129,
+        138
+      ]
+    },
+    "citation_reference_27": {
+      "type": "citation_reference",
+      "id": "citation_reference_27",
+      "path": [
+        "paragraph_24",
+        "content"
+      ],
+      "target": "article_citation_bib7",
+      "range": [
+        200,
+        221
+      ]
+    },
+    "citation_reference_28": {
+      "type": "citation_reference",
+      "id": "citation_reference_28",
+      "path": [
+        "paragraph_24",
+        "content"
+      ],
+      "target": "article_citation_bib5",
+      "range": [
+        398,
+        418
+      ]
+    },
+    "citation_reference_29": {
+      "type": "citation_reference",
+      "id": "citation_reference_29",
+      "path": [
+        "paragraph_24",
+        "content"
+      ],
+      "target": "article_citation_bib1",
+      "range": [
+        420,
+        441
+      ]
+    },
+    "figure_reference_30": {
+      "type": "figure_reference",
+      "id": "figure_reference_30",
+      "path": [
+        "paragraph_24",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        444,
+        452
+      ]
+    },
+    "image_fig1": {
+      "type": "image",
+      "id": "image_fig1",
+      "label": "Figure 1.",
+      "url": "",
+      "object_id": "F1",
+      "title": "",
+      "content_type": "",
+      "large_url": "",
+      "content": "",
+      "group": [
+        "parent",
+        null
+      ],
+      "doi": "",
+      "caption": "paragraph_image_fig1",
+      "graphic_id": "elife01042f001"
+    },
+    "paragraph_image_fig1": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig1",
+      "content": "The kinase inhibitor hypothemycin has been used to identify a druggable kinase to combat African sleeping sickness. Here a ball-and-stick molecular model of hypothemycin is overlaid on an image of Hypomyces subiculosus (orange), the fungus from which it was originally isolated over thirty years ago."
+    },
+    "annotation_31": {
+      "type": "emphasis",
+      "id": "annotation_31",
+      "path": [
+        "paragraph_image_fig1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        197,
+        218
+      ]
+    },
+    "paragraph_32": {
+      "type": "paragraph",
+      "id": "paragraph_32",
+      "content": "The UCSF team first established that hypothemycin killed T. brucei at therapeutically significant (sub-µM) levels in vitro, and then found that it reduced the parasite load in vivo in a mouse model. However, higher levels of hypothemycin resulted in toxicity, which means that the dose cannot be increased to a level that would completely eliminate the parasites. CDXG kinases are conserved in mammals, and these results highlight the liability of kinase inhibitors that lack sufficient host/parasite selectivity. Significantly, however, while hypothemycin could kill parasites in a mammalian host, it was not established that it did so by inhibiting CDXG kinases, or if it did, which of the 21 such kinases in T. brucei was affected."
+    },
+    "annotation_33": {
+      "type": "emphasis",
+      "id": "annotation_33",
+      "path": [
+        "paragraph_32",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        57,
+        66
+      ]
+    },
+    "annotation_34": {
+      "type": "emphasis",
+      "id": "annotation_34",
+      "path": [
+        "paragraph_32",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        711,
+        720
+      ]
+    },
+    "paragraph_35": {
+      "type": "paragraph",
+      "id": "paragraph_35",
+      "content": "The team then employed an impressive array of experimental techniques in an effort to identify the kinase that was targeted by hypothemycin. They also chemically modified hypothemycin to make it easy to detect (without altering its biological activity). In a follow-up assay, this modified hypothemycin labeled 11 proteins, all of which were CDXG kinases. More quantitative studies reduced these 11 potential targets to two, and still further studies fingered a single kinase called TbCLK1. An RNAi knockdown of TbCLK1 independently showed that it was essential in T. brucei."
+    },
+    "annotation_36": {
+      "type": "emphasis",
+      "id": "annotation_36",
+      "path": [
+        "paragraph_35",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        483,
+        485
+      ]
+    },
+    "annotation_37": {
+      "type": "emphasis",
+      "id": "annotation_37",
+      "path": [
+        "paragraph_35",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        512,
+        514
+      ]
+    },
+    "annotation_38": {
+      "type": "emphasis",
+      "id": "annotation_38",
+      "path": [
+        "paragraph_35",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        565,
+        575
+      ]
+    },
+    "paragraph_39": {
+      "type": "paragraph",
+      "id": "paragraph_39",
+      "content": "What did the chemoproteomics approach accomplish in this study? First, it allowed Taunton and colleagues to define the activity of a single molecule, hypothemycin, in a whole-organism assay that, by its very nature, includes all targets. Secondly, since hypothemycin had a known mechanism of action—covalently inhibiting a small class of kinases by reaction with a critical cysteine residue—the initial search for the target was greatly simplified. By narrowing down the original set of plausible suspects to TbCLK1, the UCSF team illustrated the power of systematically applying several new technologies."
+    },
+    "annotation_40": {
+      "type": "emphasis",
+      "id": "annotation_40",
+      "path": [
+        "paragraph_39",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        509,
+        511
+      ]
+    },
+    "paragraph_41": {
+      "type": "paragraph",
+      "id": "paragraph_41",
+      "content": "An important point, which Taunton and co-workers diplomatically mention only in passing, is that more inclusive assays to identify druggable T. brucei kinases failed to capture TbCLK1 as a potential therapeutic target. This discrepancy likely results from the experimental differences between probing cell lysates with small molecules and probing whole organisms. So the hypothemycin-based chemoproteomics approach, with its early attention to mechanism and target structure, yielded a significant dividend."
+    },
+    "annotation_42": {
+      "type": "emphasis",
+      "id": "annotation_42",
+      "path": [
+        "paragraph_41",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        141,
+        150
+      ]
+    },
+    "annotation_43": {
+      "type": "emphasis",
+      "id": "annotation_43",
+      "path": [
+        "paragraph_41",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        177,
+        179
+      ]
+    },
+    "paragraph_44": {
+      "type": "paragraph",
+      "id": "paragraph_44",
+      "content": "Hypothemycin’s disadvantages as a therapy, including the fact that it inhibits several human kinases (Schirmer et al., 2006), will prevent it from being developed as a new drug to treat human African trypanosomiasis. But there is room for optimism, as large numbers of kinase inhibitors already exist and may be repurposed to inhibit TbCLK1 or related factors in parasites that cause other neglected tropical diseases. Importantly, the amino-acid sequences of human and T. brucei CLK1s are dissimilar, so TbCLK1 holds promise as a drug target. Further studies should enable the development of inhibitors that preferentially bind the parasite kinase and cure trypanosomiasis without being toxic to humans."
+    },
+    "citation_reference_45": {
+      "type": "citation_reference",
+      "id": "citation_reference_45",
+      "path": [
+        "paragraph_44",
+        "content"
+      ],
+      "target": "article_citation_bib7",
+      "range": [
+        102,
+        123
+      ]
+    },
+    "annotation_46": {
+      "type": "emphasis",
+      "id": "annotation_46",
+      "path": [
+        "paragraph_44",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        334,
+        336
+      ]
+    },
+    "annotation_47": {
+      "type": "emphasis",
+      "id": "annotation_47",
+      "path": [
+        "paragraph_44",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        470,
+        479
+      ]
+    },
+    "annotation_48": {
+      "type": "emphasis",
+      "id": "annotation_48",
+      "path": [
+        "paragraph_44",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        505,
+        507
+      ]
+    },
+    "info:competing-interest": {
+      "type": "heading",
+      "id": "info:competing-interest",
+      "level": 2,
+      "content": "Competing Interests",
+      "nodes": [
+        "paragraph_49"
+      ]
+    },
+    "paragraph_49": {
+      "type": "paragraph",
+      "id": "paragraph_49",
+      "content": "Competing interests:The authors declare that no competing interests exist.References"
+    },
+    "article_citation_bib1": {
+      "type": "article_citation",
+      "id": "article_citation_bib1",
+      "authors": [
+        {
+          "given-names": "T",
+          "last-name": "Agatsuma"
+        },
+        {
+          "given-names": "A",
+          "last-name": "Takahashi"
+        },
+        {
+          "given-names": "C",
+          "last-name": "Kabuto"
+        },
+        {
+          "given-names": "S",
+          "last-name": "Nozoe"
+        }
+      ],
+      "title": "Revised structure and stereochemistry of hypothemycin",
+      "year": "1993",
+      "volume": "41",
+      "source": "Chem Pharm Bull (Tokyo)",
+      "issue": "",
+      "fpage": "373",
+      "lpage": "5",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1248/cpb.41.373",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib2": {
+      "type": "article_citation",
+      "id": "article_citation_bib2",
+      "authors": [
+        {
+          "given-names": "M",
+          "last-name": "Berriman"
+        },
+        {
+          "given-names": "E",
+          "last-name": "Ghedin"
+        },
+        {
+          "given-names": "C",
+          "last-name": "Hertz-Fowler"
+        },
+        {
+          "given-names": "G",
+          "last-name": "Blandin"
+        },
+        {
+          "given-names": "H",
+          "last-name": "Renauld"
+        },
+        {
+          "given-names": "D",
+          "last-name": "Bartholomeu"
+        }
+      ],
+      "title": "The genome of the African trypanosome Trypanosoma brucei",
+      "year": "2005",
+      "volume": "309",
+      "source": "Science",
+      "issue": "",
+      "fpage": "416",
+      "lpage": "22",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1126/science.1112642",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "annotation_50": {
+      "type": "emphasis",
+      "id": "annotation_50",
+      "path": [
+        "article_citation_bib2",
+        "title"
+      ],
+      "target": null,
+      "range": [
+        38,
+        56
+      ]
+    },
+    "article_citation_bib3": {
+      "type": "article_citation",
+      "id": "article_citation_bib3",
+      "authors": [
+        {
+          "given-names": "PG",
+          "last-name": "Kennedy"
+        }
+      ],
+      "title": "Clinical features, diagnosis, and treatment of human African trypanosomiasis (sleeping sickness)",
+      "year": "2013",
+      "volume": "12",
+      "source": "Lancet Neurol",
+      "issue": "",
+      "fpage": "186",
+      "lpage": "94",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/S1474-4422(12)70296-X",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib4": {
+      "type": "article_citation",
+      "id": "article_citation_bib4",
+      "authors": [
+        {
+          "given-names": "RE",
+          "last-name": "Moellering"
+        },
+        {
+          "given-names": "BF",
+          "last-name": "Cravatt"
+        }
+      ],
+      "title": "How chemoproteomics can enable drug discovery and development",
+      "year": "2012",
+      "volume": "19",
+      "source": "Chem Biol",
+      "issue": "",
+      "fpage": "11",
+      "lpage": "22",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/j.chembiol.2012.01.001",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib5": {
+      "type": "article_citation",
+      "id": "article_citation_bib5",
+      "authors": [
+        {
+          "given-names": "MSR",
+          "last-name": "Nair"
+        },
+        {
+          "given-names": "ST",
+          "last-name": "Carey"
+        }
+      ],
+      "title": "Metabolites of pyrenomycetes.13. Structure of (+) hypothemycin, an antibiotic macrolide from Hypomyces trichothecoides",
+      "year": "1980",
+      "volume": "21",
+      "source": "Tet Letters",
+      "issue": "",
+      "fpage": "2011",
+      "lpage": "2",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/S0040-4039(00)71472-9",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "annotation_51": {
+      "type": "emphasis",
+      "id": "annotation_51",
+      "path": [
+        "article_citation_bib5",
+        "title"
+      ],
+      "target": null,
+      "range": [
+        93,
+        118
+      ]
+    },
+    "article_citation_bib6": {
+      "type": "article_citation",
+      "id": "article_citation_bib6",
+      "authors": [
+        {
+          "given-names": "M",
+          "last-name": "Nishino"
+        },
+        {
+          "given-names": "JW",
+          "last-name": "Choy"
+        },
+        {
+          "given-names": "NN",
+          "last-name": "Gushwa"
+        },
+        {
+          "given-names": "JA",
+          "last-name": "Oses-Prieto"
+        },
+        {
+          "given-names": "K",
+          "last-name": "Koupparis"
+        },
+        {
+          "given-names": "AL",
+          "last-name": "Burlingame"
+        }
+      ],
+      "title": "Hypothemycin, a fungal natural product, identifies therapeutic targets in Trypanosoma brucei",
+      "year": "2013",
+      "volume": "2",
+      "source": "eLife",
+      "issue": "",
+      "fpage": "e00712",
+      "lpage": "",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.7554/eLife.00712",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "annotation_52": {
+      "type": "emphasis",
+      "id": "annotation_52",
+      "path": [
+        "article_citation_bib6",
+        "title"
+      ],
+      "target": null,
+      "range": [
+        74,
+        92
+      ]
+    },
+    "article_citation_bib7": {
+      "type": "article_citation",
+      "id": "article_citation_bib7",
+      "authors": [
+        {
+          "given-names": "A",
+          "last-name": "Schirmer"
+        },
+        {
+          "given-names": "J",
+          "last-name": "Kennedy"
+        },
+        {
+          "given-names": "S",
+          "last-name": "Murli"
+        },
+        {
+          "given-names": "R",
+          "last-name": "Reid"
+        },
+        {
+          "given-names": "DV",
+          "last-name": "Santi"
+        }
+      ],
+      "title": "Targeted covalent inactivation of protein kinases by resorcylic acid lactone polyketides",
+      "year": "2006",
+      "volume": "103",
+      "source": "Proc Natl Acad Sci USA",
+      "issue": "",
+      "fpage": "4234",
+      "lpage": "9",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1073/pnas.0600445103",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    }
+  }
+}

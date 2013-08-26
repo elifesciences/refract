@@ -1,0 +1,1057 @@
+{
+  "id": "00914",
+  "nodes": {
+    "content": {
+      "type": "view",
+      "id": "content",
+      "nodes": [
+        "abstract",
+        "paragraph_3",
+        "paragraph_9",
+        "paragraph_11",
+        "paragraph_12",
+        "paragraph_16",
+        "paragraph_22",
+        "paragraph_23",
+        "paragraph_26",
+        "paragraph_27",
+        "paragraph_29",
+        "paragraph_36"
+      ]
+    },
+    "figures": {
+      "type": "view",
+      "id": "figures",
+      "nodes": [
+        "box_4",
+        "image_fig1"
+      ]
+    },
+    "citations": {
+      "type": "view",
+      "id": "citations",
+      "nodes": [
+        "article_citation_bib1",
+        "article_citation_bib2",
+        "article_citation_bib3",
+        "article_citation_bib4",
+        "article_citation_bib5",
+        "article_citation_bib6",
+        "article_citation_bib7",
+        "article_citation_bib8",
+        "article_citation_bib9",
+        "article_citation_bib10",
+        "article_citation_bib11",
+        "article_citation_bib12",
+        "article_citation_bib13"
+      ]
+    },
+    "document": {
+      "type": "document",
+      "id": "document",
+      "views": [
+        "content",
+        "figures",
+        "citations"
+      ],
+      "guid": "00914",
+      "title": "Rad51, friend or foe?",
+      "authors": [
+        "person_author_5281",
+        "person_author_1166"
+      ],
+      "received_on": "",
+      "accepted_on": "",
+      "published_on": "2013-06-11",
+      "journal": "elife",
+      "article_type": "",
+      "keywords": [
+        "R loops",
+        "RNA-DNA hybrids",
+        "Rad51",
+        "Genome Instability",
+        "DNA repair"
+      ],
+      "research_organisms": [
+        "S. cerevisiae"
+      ],
+      "subjects": [
+        "Genes and chromosomes"
+      ],
+      "pdf_link": "",
+      "xml_link": "",
+      "json_link": "",
+      "doi": ""
+    },
+    "person_author_5281": {
+      "type": "person",
+      "id": "person_author_5281",
+      "given-names": "Sue Mei",
+      "last-name": "Tan-Wong",
+      "role": "author",
+      "affiliations": [],
+      "image": "",
+      "contribution": "",
+      "email": "",
+      "funding": []
+    },
+    "person_author_1166": {
+      "type": "person",
+      "id": "person_author_1166",
+      "given-names": "Nick J",
+      "last-name": "Proudfoot",
+      "role": "author",
+      "affiliations": [],
+      "image": "",
+      "contribution": "",
+      "email": "",
+      "funding": []
+    },
+    "institution_aff1": {
+      "type": "institution",
+      "id": "institution_aff1",
+      "name": "University of Oxford",
+      "city": "Oxford",
+      "country": "United Kingdom",
+      "email": "sue.wong@path.ox.ac.uk",
+      "image": ""
+    },
+    "institution_aff2": {
+      "type": "institution",
+      "id": "institution_aff2",
+      "name": "University of Oxford",
+      "city": "Oxford",
+      "country": "United Kingdom",
+      "email": "nicholas.proudfoot@path.ox.ac.uk",
+      "image": ""
+    },
+    "info:copyright": {
+      "type": "heading",
+      "id": "info:copyright",
+      "level": 2,
+      "content": "Copyright",
+      "nodes": [
+        "paragraph_1"
+      ]
+    },
+    "paragraph_1": {
+      "type": "paragraph",
+      "id": "paragraph_1",
+      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "annotation_2": {
+      "type": "link",
+      "id": "annotation_2",
+      "path": [
+        "paragraph_1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        51,
+        87
+      ],
+      "url": "http://creativecommons.org/licenses/by/3.0/"
+    },
+    "abstract": {
+      "type": "heading",
+      "id": "abstract",
+      "level": 1,
+      "content": "Abstract",
+      "nodes": []
+    },
+    "paragraph_3": {
+      "type": "paragraph",
+      "id": "paragraph_3",
+      "content": "A protein long recognized for its role in DNA repair has now paradoxically been implicated in DNA damage."
+    },
+    "box_4": {
+      "type": "box",
+      "id": "box_4",
+      "label": "",
+      "url": "",
+      "title": "",
+      "caption": "",
+      "content": "Related research article Wahba L, Gore SK, Koshland D. 2013. The homologous recombination machinery modulates the formation of RNA-DNA hybrids and associated chromosome instability. eLife 2:e00505. doi: 10.7554/eLife.00505",
+      "doi": ""
+    },
+    "annotation_5": {
+      "type": "strong",
+      "id": "annotation_5",
+      "path": [
+        "box_4",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        24
+      ]
+    },
+    "annotation_6": {
+      "type": "emphasis",
+      "id": "annotation_6",
+      "path": [
+        "box_4",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        182,
+        187
+      ]
+    },
+    "annotation_7": {
+      "type": "strong",
+      "id": "annotation_7",
+      "path": [
+        "box_4",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        188,
+        189
+      ]
+    },
+    "annotation_8": {
+      "type": "link",
+      "id": "annotation_8",
+      "path": [
+        "box_4",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        203,
+        222
+      ],
+      "url": "http://dx.doi.org/10.7554/eLife.00505"
+    },
+    "paragraph_9": {
+      "type": "paragraph",
+      "id": "paragraph_9",
+      "content": "Image Cartoon showing one way in which Rad51 (blue) could promote the formation of RNA-DNA hybrids"
+    },
+    "annotation_10": {
+      "type": "strong",
+      "id": "annotation_10",
+      "path": [
+        "paragraph_9",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        5
+      ]
+    },
+    "paragraph_11": {
+      "type": "paragraph",
+      "id": "paragraph_11",
+      "content": ""
+    },
+    "paragraph_12": {
+      "type": "paragraph",
+      "id": "paragraph_12",
+      "content": "Imagine your frustration if, in the event of a breakdown, the emergency mechanic not only failed to repair your vehicle but actually damaged it even further. A similar situation can arise with our own DNA which, when damaged, is subjected to a system of rigorous checks and balances by the DNA repair machinery. However, DNA can also be damaged through the actions of structures called R-loops. These are RNA-DNA hybrids formed when an RNA transcript invades the DNA double helix, and they are a natural byproduct of the transcription process (Aguilera and Garcia-Muse, 2012). Now, in eLife, Douglas Koshland at the University of California, Berkeley, and co-workers reveal that proteins normally involved in DNA repair can also facilitate the formation of R-loops, thus increasing DNA damage (Wahba et al., 2013)."
+    },
+    "citation_reference_13": {
+      "type": "citation_reference",
+      "id": "citation_reference_13",
+      "path": [
+        "paragraph_12",
+        "content"
+      ],
+      "target": "article_citation_bib1",
+      "range": [
+        544,
+        574
+      ]
+    },
+    "annotation_14": {
+      "type": "emphasis",
+      "id": "annotation_14",
+      "path": [
+        "paragraph_12",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        585,
+        590
+      ]
+    },
+    "citation_reference_15": {
+      "type": "citation_reference",
+      "id": "citation_reference_15",
+      "path": [
+        "paragraph_12",
+        "content"
+      ],
+      "target": "article_citation_bib11",
+      "range": [
+        794,
+        812
+      ]
+    },
+    "paragraph_16": {
+      "type": "paragraph",
+      "id": "paragraph_16",
+      "content": "Initial work in bacteria showed that the repair protein RecA (Kasahara et al., 2000) can potentiate the formation of R-loops in the absence of active transcription. Building on this study, Koshland and colleagues—including Lamia Wahba, who is also at Johns Hopkins University, and Steven Gore—report three sets of experiments on the yeast counterpart of RecA, which is known as Rad51. Firstly, they provide evidence that Rad51 is also involved in R-loop formation. Secondly, they show that Rad51 is already present at R-loops before DNA damage occurs, suggesting that it may be oncogenic (i.e., have the potential to cause cancer). Thirdly, through elegant experimentation, they challenge the dogma that R-loop formation must invariably occur at the site of transcription (cis-acting) by revealing that R-loops can also be formed by RNA invading the DNA duplex at a remote genomic location (trans-acting)."
+    },
+    "citation_reference_17": {
+      "type": "citation_reference",
+      "id": "citation_reference_17",
+      "path": [
+        "paragraph_16",
+        "content"
+      ],
+      "target": "article_citation_bib5",
+      "range": [
+        62,
+        83
+      ]
+    },
+    "annotation_18": {
+      "type": "emphasis",
+      "id": "annotation_18",
+      "path": [
+        "paragraph_16",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        773,
+        776
+      ]
+    },
+    "annotation_19": {
+      "type": "emphasis",
+      "id": "annotation_19",
+      "path": [
+        "paragraph_16",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        891,
+        896
+      ]
+    },
+    "image_fig1": {
+      "type": "image",
+      "id": "image_fig1",
+      "label": "Figure 1.",
+      "url": "",
+      "object_id": "F1",
+      "title": "Rad51 can contribute to DNA repair or DNA assault.",
+      "content_type": "",
+      "large_url": "",
+      "content": "",
+      "group": [
+        "parent",
+        null
+      ],
+      "doi": "",
+      "caption": "paragraph_image_fig1",
+      "graphic_id": "elife00914f001"
+    },
+    "paragraph_image_fig1": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig1",
+      "content": "Left: DNA repair through homologous recombination, where one strand is used as a template to repair the other. DNA damage (red bolt) leads to double-strand breaks. At the break point, one strand of the DNA is slightly longer than the other and Rad52 (not shown) promotes the loading of Rad51 (orange) onto these single-strand overhangs. This initiates the process of DNA repair via homologous recombination. Rad51 is removed from the single-strand overhangs by the negative regulator Srs2 (not shown) before the final stages of DNA repair. Right: Rad51 can promote the formation of DNA-RNA hybrids (R-loops), which can damage DNA. R-loops form when Rad51 binds repeatedly to RNA (red lines). Srs2 (not shown) inhibits R-loop formation by removing Rad51."
+    },
+    "annotation_20": {
+      "type": "strong",
+      "id": "annotation_20",
+      "path": [
+        "paragraph_image_fig1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        4
+      ]
+    },
+    "annotation_21": {
+      "type": "strong",
+      "id": "annotation_21",
+      "path": [
+        "paragraph_image_fig1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        540,
+        545
+      ]
+    },
+    "paragraph_22": {
+      "type": "paragraph",
+      "id": "paragraph_22",
+      "content": "Wahba et al. show that the accumulation of R-loops is dependent on Rad51 activity: in the absence of Rad51, aberrant transcription does not result in the formation of R-loops and the genome remains intact. To measure the destabilizing effects of R-loops on DNA, Wahba et al. used a yeast artificial chromosome (or YAC), which they introduced into the yeast nucleus. They found that Rad51 does not work alone but is regulated by other factors: removing a positive protein regulator of Rad51, called Rad52, blocks the formation of R-loops, whereas removing a negative protein regulator, Srs2, increases their formation."
+    },
+    "paragraph_23": {
+      "type": "paragraph",
+      "id": "paragraph_23",
+      "content": "Koshland and colleagues reveal, in addition, that Rad51 localizes to R-loops. Previous work has shown that Rad51 binds at break points in DNA to initiate DNA repair (Sugawara et al., 2003). Moreover, mammalian Rad51 is known to help cells resist the damaging effects of ionizing radiation, chemotherapeutic agents, and the spontaneous breaks and aberrations that occur during DNA replication. A natural assumption therefore is that the high levels of Rad51 expression seen in tumour cells (Klein, 2008) reflect the protein’s role in DNA repair; in other words, that Rad51 may act as a tumour suppressor."
+    },
+    "citation_reference_24": {
+      "type": "citation_reference",
+      "id": "citation_reference_24",
+      "path": [
+        "paragraph_23",
+        "content"
+      ],
+      "target": "article_citation_bib10",
+      "range": [
+        166,
+        187
+      ]
+    },
+    "citation_reference_25": {
+      "type": "citation_reference",
+      "id": "citation_reference_25",
+      "path": [
+        "paragraph_23",
+        "content"
+      ],
+      "target": "article_citation_bib6",
+      "range": [
+        490,
+        501
+      ]
+    },
+    "paragraph_26": {
+      "type": "paragraph",
+      "id": "paragraph_26",
+      "content": "So what is Rad51 doing at R-loop sites? To address this question, Wahba et al. studied the deposition of a histone called H2AX—a well-defined marker for the formation of double-strand DNA breaks—and compared the timing of this event with the accumulation of Rad51 at an R-loop site. They confirmed that Rad51 was present prior to DNA damage, suggesting that rather than contributing to repair, Rad51 could be driving R-loop-mediated genome instability in cancer cells, and promoting tumour biogenesis."
+    },
+    "paragraph_27": {
+      "type": "paragraph",
+      "id": "paragraph_27",
+      "content": "Having established that Rad51 induces the formation of R-loops, and drawing encouragement from bacterial work, Koshland and colleagues went on to show that R-loop formation is not directly dependent on the act of transcription. To do this, they created yeast cells that contained two copies of a particular DNA sequence—one in a YAC and the other in one of the yeast’s own chromosomes—and placed the latter under the control of a transcriptional switch. When the switch was triggered, the induced chromosomal transcript—with the help of Rad51—invaded the homologous DNA in the YAC. This resulted in the formation of an R-loop, distinct and distant from the original site of transcription. And sure enough, this trans induced R-loop destabilized the YAC DNA."
+    },
+    "annotation_28": {
+      "type": "emphasis",
+      "id": "annotation_28",
+      "path": [
+        "paragraph_27",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        711,
+        716
+      ]
+    },
+    "paragraph_29": {
+      "type": "paragraph",
+      "id": "paragraph_29",
+      "content": "It is noteworthy that R-loops are not always deleterious. As obligatory intermediates, they are essential for mitochondrial DNA replication (Pohjoismaki et al., 2010) and immunoglobulin gene class-switch recombination (Yu et al., 2003)—a complex process in which antibody genes genetically rearrange during the development of immune cells called B cells. They are also implicated in transcription termination (Skourti-Stathaki et al., 2011) and in transcription activation of CpG island promoters (Ginno et al., 2012). However, when R-loops occur out of their natural context and pose a threat to cell survival, all is not lost. Cells have the innate capacity to counteract such hazardous structures. One line of defense is Srs2, which can remove Rad51 from DNA. Other options include Sen1 helicase, an enzyme that can unwind R-loops formed in the wake of transcription (Mischo et al., 2011), and RNAse H, which can degrade RNA that is base-paired with DNA in R-loops (Cerritelli and Crouch, 2009). All of these proteins serve to protect the cellular genome from destruction."
+    },
+    "citation_reference_30": {
+      "type": "citation_reference",
+      "id": "citation_reference_30",
+      "path": [
+        "paragraph_29",
+        "content"
+      ],
+      "target": "article_citation_bib8",
+      "range": [
+        141,
+        165
+      ]
+    },
+    "citation_reference_31": {
+      "type": "citation_reference",
+      "id": "citation_reference_31",
+      "path": [
+        "paragraph_29",
+        "content"
+      ],
+      "target": "article_citation_bib13",
+      "range": [
+        219,
+        234
+      ]
+    },
+    "citation_reference_32": {
+      "type": "citation_reference",
+      "id": "citation_reference_32",
+      "path": [
+        "paragraph_29",
+        "content"
+      ],
+      "target": "article_citation_bib9",
+      "range": [
+        410,
+        439
+      ]
+    },
+    "citation_reference_33": {
+      "type": "citation_reference",
+      "id": "citation_reference_33",
+      "path": [
+        "paragraph_29",
+        "content"
+      ],
+      "target": "article_citation_bib3",
+      "range": [
+        498,
+        516
+      ]
+    },
+    "citation_reference_34": {
+      "type": "citation_reference",
+      "id": "citation_reference_34",
+      "path": [
+        "paragraph_29",
+        "content"
+      ],
+      "target": "article_citation_bib7",
+      "range": [
+        871,
+        890
+      ]
+    },
+    "citation_reference_35": {
+      "type": "citation_reference",
+      "id": "citation_reference_35",
+      "path": [
+        "paragraph_29",
+        "content"
+      ],
+      "target": "article_citation_bib2",
+      "range": [
+        969,
+        996
+      ]
+    },
+    "paragraph_36": {
+      "type": "paragraph",
+      "id": "paragraph_36",
+      "content": "Exploring and harnessing the potential applications of Rad51-dependent R-loop formation is an exciting prospect. The current findings have intriguing parallels with the CRISPR system (Horvath and Barrangou, 2013), which is a mechanism used by bacteria and archaea to defend themselves against invading phages. In brief, short DNA fragments from phage genomes are integrated into the bacterial or archael genome within the CRISPR locus, and transcripts from the CRISPR regions then form R-loops with the infecting phage DNA. These R-loops recruit enzymes to destroy the phage genome. Engineered CRISPR-derived constructs have been used to successfully target specific DNA sequences for replacement or modification in mammalian cells (Wang et al., 2013). Koshland and colleagues now potentially add Rad51 to the arsenal available for genetic search and destroy missions. Consequently, their work may have broad implications for synthetic biology, gene function studies and gene therapy."
+    },
+    "citation_reference_37": {
+      "type": "citation_reference",
+      "id": "citation_reference_37",
+      "path": [
+        "paragraph_36",
+        "content"
+      ],
+      "target": "article_citation_bib4",
+      "range": [
+        184,
+        211
+      ]
+    },
+    "citation_reference_38": {
+      "type": "citation_reference",
+      "id": "citation_reference_38",
+      "path": [
+        "paragraph_36",
+        "content"
+      ],
+      "target": "article_citation_bib12",
+      "range": [
+        733,
+        750
+      ]
+    },
+    "info:competing-interest": {
+      "type": "heading",
+      "id": "info:competing-interest",
+      "level": 2,
+      "content": "Competing Interests",
+      "nodes": [
+        "paragraph_39"
+      ]
+    },
+    "paragraph_39": {
+      "type": "paragraph",
+      "id": "paragraph_39",
+      "content": "Competing interests:The authors declare that no competing interests exist.References"
+    },
+    "article_citation_bib1": {
+      "type": "article_citation",
+      "id": "article_citation_bib1",
+      "authors": [
+        {
+          "given-names": "A",
+          "last-name": "Aguilera"
+        },
+        {
+          "given-names": "T",
+          "last-name": "Garcia-Muse"
+        }
+      ],
+      "title": "R loops: from transcription byproducts to threats to genome stability",
+      "year": "2012",
+      "volume": "46",
+      "source": "Mol Cell",
+      "issue": "",
+      "fpage": "115",
+      "lpage": "24",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/j.molcel.2012.04.009",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib2": {
+      "type": "article_citation",
+      "id": "article_citation_bib2",
+      "authors": [
+        {
+          "given-names": "SM",
+          "last-name": "Cerritelli"
+        },
+        {
+          "given-names": "RJ",
+          "last-name": "Crouch"
+        }
+      ],
+      "title": "Ribonuclease H: the enzymes in eukaryotes",
+      "year": "2009",
+      "volume": "276",
+      "source": "FEBS J",
+      "issue": "",
+      "fpage": "1494",
+      "lpage": "505",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1111/j.1742-4658.2009.06908.x",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib3": {
+      "type": "article_citation",
+      "id": "article_citation_bib3",
+      "authors": [
+        {
+          "given-names": "PA",
+          "last-name": "Ginno"
+        },
+        {
+          "given-names": "PL",
+          "last-name": "Lott"
+        },
+        {
+          "given-names": "HC",
+          "last-name": "Christensen"
+        },
+        {
+          "given-names": "I",
+          "last-name": "Korf"
+        },
+        {
+          "given-names": "F",
+          "last-name": "Chedin"
+        }
+      ],
+      "title": "R-loop formation is a distinctive characteristic of unmethylated human CpG island promoters",
+      "year": "2012",
+      "volume": "45",
+      "source": "Mol Cell",
+      "issue": "",
+      "fpage": "814",
+      "lpage": "25",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/j.molcel.2012.01.017",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib4": {
+      "type": "article_citation",
+      "id": "article_citation_bib4",
+      "authors": [
+        {
+          "given-names": "P",
+          "last-name": "Horvath"
+        },
+        {
+          "given-names": "R",
+          "last-name": "Barrangou"
+        }
+      ],
+      "title": "RNA-guided genome editing a la carte",
+      "year": "2013",
+      "volume": "23",
+      "source": "Cell Res",
+      "issue": "",
+      "fpage": "733",
+      "lpage": "4",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1038/cr.2013.39",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib5": {
+      "type": "article_citation",
+      "id": "article_citation_bib5",
+      "authors": [
+        {
+          "given-names": "M",
+          "last-name": "Kasahara"
+        },
+        {
+          "given-names": "JA",
+          "last-name": "Clikeman"
+        },
+        {
+          "given-names": "DB",
+          "last-name": "Bates"
+        },
+        {
+          "given-names": "T",
+          "last-name": "Kogoma"
+        }
+      ],
+      "title": "RecA protein-dependent R-loop formation in vitro",
+      "year": "2000",
+      "volume": "14",
+      "source": "Genes Dev",
+      "issue": "",
+      "fpage": "360",
+      "lpage": "5",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1101/gad.14.3.360",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib6": {
+      "type": "article_citation",
+      "id": "article_citation_bib6",
+      "authors": [
+        {
+          "given-names": "HL",
+          "last-name": "Klein"
+        }
+      ],
+      "title": "The consequences of Rad51 overexpression for normal and tumor cells",
+      "year": "2008",
+      "volume": "7",
+      "source": "DNA Repair (Amst)",
+      "issue": "",
+      "fpage": "686",
+      "lpage": "93",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/j.dnarep.2007.12.008",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib7": {
+      "type": "article_citation",
+      "id": "article_citation_bib7",
+      "authors": [
+        {
+          "given-names": "HE",
+          "last-name": "Mischo"
+        },
+        {
+          "given-names": "B",
+          "last-name": "Gomez-Gonzalez"
+        },
+        {
+          "given-names": "P",
+          "last-name": "Grzechnik"
+        },
+        {
+          "given-names": "AG",
+          "last-name": "Rondon"
+        },
+        {
+          "given-names": "W",
+          "last-name": "Wei"
+        },
+        {
+          "given-names": "L",
+          "last-name": "Steinmetz"
+        }
+      ],
+      "title": "Yeast Sen1 helicase protects the genome from transcription-associated instability",
+      "year": "2011",
+      "volume": "41",
+      "source": "Mol Cell",
+      "issue": "",
+      "fpage": "21",
+      "lpage": "32",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/j.molcel.2010.12.007",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib8": {
+      "type": "article_citation",
+      "id": "article_citation_bib8",
+      "authors": [
+        {
+          "given-names": "JL",
+          "last-name": "Pohjoismaki"
+        },
+        {
+          "given-names": "JB",
+          "last-name": "Holmes"
+        },
+        {
+          "given-names": "SR",
+          "last-name": "Wood"
+        },
+        {
+          "given-names": "MY",
+          "last-name": "Yang"
+        },
+        {
+          "given-names": "T",
+          "last-name": "Yasukawa"
+        },
+        {
+          "given-names": "A",
+          "last-name": "Reyes"
+        }
+      ],
+      "title": "Mammalian mitochondrial DNA replication intermediates are essentially duplex but contain extensive tracts of RNA/DNA hybrid",
+      "year": "2010",
+      "volume": "397",
+      "source": "J Mol Biol",
+      "issue": "",
+      "fpage": "1144",
+      "lpage": "55",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/j.jmb.2010.02.029",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib9": {
+      "type": "article_citation",
+      "id": "article_citation_bib9",
+      "authors": [
+        {
+          "given-names": "K",
+          "last-name": "Skourti-Stathaki"
+        },
+        {
+          "given-names": "NJ",
+          "last-name": "Proudfoot"
+        },
+        {
+          "given-names": "N",
+          "last-name": "Gromak"
+        }
+      ],
+      "title": "Human senataxin resolves RNA/DNA hybrids formed at transcriptional pause sites to promote Xrn2-dependent termination",
+      "year": "2011",
+      "volume": "42",
+      "source": "Mol Cell",
+      "issue": "",
+      "fpage": "794",
+      "lpage": "805",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/j.molcel.2011.04.026",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib10": {
+      "type": "article_citation",
+      "id": "article_citation_bib10",
+      "authors": [
+        {
+          "given-names": "N",
+          "last-name": "Sugawara"
+        },
+        {
+          "given-names": "X",
+          "last-name": "Wang"
+        },
+        {
+          "given-names": "JE",
+          "last-name": "Haber"
+        }
+      ],
+      "title": "In vivo roles of Rad52, Rad54, and Rad55 proteins in Rad51-mediated recombination",
+      "year": "2003",
+      "volume": "12",
+      "source": "Mol Cell",
+      "issue": "",
+      "fpage": "209",
+      "lpage": "19",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/S1097-2765(03)00269-7",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib11": {
+      "type": "article_citation",
+      "id": "article_citation_bib11",
+      "authors": [
+        {
+          "given-names": "L",
+          "last-name": "Wahba"
+        },
+        {
+          "given-names": "S",
+          "last-name": "Gore"
+        },
+        {
+          "given-names": "D",
+          "last-name": "Koshland"
+        }
+      ],
+      "title": "The homologous recombination machinery modulates the formation of RNA-DNA hybrids and associated chromosome instability",
+      "year": "2013",
+      "volume": "2",
+      "source": "eLife",
+      "issue": "",
+      "fpage": "e00505",
+      "lpage": "",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.7554/eLife.00505",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib12": {
+      "type": "article_citation",
+      "id": "article_citation_bib12",
+      "authors": [
+        {
+          "given-names": "H",
+          "last-name": "Wang"
+        },
+        {
+          "given-names": "H",
+          "last-name": "Yang"
+        },
+        {
+          "given-names": "CS",
+          "last-name": "Shivalila"
+        },
+        {
+          "given-names": "MM",
+          "last-name": "Dawlaty"
+        },
+        {
+          "given-names": "AW",
+          "last-name": "Cheng"
+        },
+        {
+          "given-names": "F",
+          "last-name": "Zhang"
+        }
+      ],
+      "title": "One-step generation of mice carrying mutations in multiple genes by CRISPR/Cas-mediated genome engineering",
+      "year": "2013",
+      "volume": "153",
+      "source": "Cell",
+      "issue": "",
+      "fpage": "910",
+      "lpage": "8",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/j.cell.2013.04.025",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib13": {
+      "type": "article_citation",
+      "id": "article_citation_bib13",
+      "authors": [
+        {
+          "given-names": "K",
+          "last-name": "Yu"
+        },
+        {
+          "given-names": "F",
+          "last-name": "Chedin"
+        },
+        {
+          "given-names": "CL",
+          "last-name": "Hsieh"
+        },
+        {
+          "given-names": "TE",
+          "last-name": "Wilson"
+        },
+        {
+          "given-names": "MR",
+          "last-name": "Lieber"
+        }
+      ],
+      "title": "R-loops at immunoglobulin class switch regions in the chromosomes of stimulated B cells",
+      "year": "2003",
+      "volume": "4",
+      "source": "Nat Immunol",
+      "issue": "",
+      "fpage": "442",
+      "lpage": "51",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1038/ni919",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    }
+  }
+}

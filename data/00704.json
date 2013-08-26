@@ -1,0 +1,3986 @@
+{
+  "id": "00704",
+  "nodes": {
+    "content": {
+      "type": "view",
+      "id": "content",
+      "nodes": [
+        "abstract",
+        "paragraph_5",
+        "paragraph_21",
+        "heading_24",
+        "paragraph_25",
+        "paragraph_26",
+        "paragraph_27",
+        "paragraph_30",
+        "paragraph_33",
+        "paragraph_37",
+        "heading_s1",
+        "paragraph_41",
+        "paragraph_62",
+        "paragraph_71",
+        "paragraph_79",
+        "heading_s2",
+        "paragraph_108",
+        "paragraph_135",
+        "paragraph_146",
+        "paragraph_180",
+        "heading_s3",
+        "paragraph_198",
+        "paragraph_205",
+        "heading_s4",
+        "heading_s4-1",
+        "paragraph_218",
+        "heading_s4-2",
+        "paragraph_220",
+        "heading_s4-3",
+        "paragraph_225",
+        "heading_s4-4",
+        "paragraph_229",
+        "heading_s4-5",
+        "paragraph_230",
+        "heading_s4-6",
+        "paragraph_233",
+        "paragraph_234",
+        "paragraph_235",
+        "heading_s4-7",
+        "paragraph_236",
+        "paragraph_242",
+        "sub-article",
+        "sub-article"
+      ]
+    },
+    "figures": {
+      "type": "view",
+      "id": "figures",
+      "nodes": [
+        "image_fig1",
+        "image_fig2"
+      ]
+    },
+    "citations": {
+      "type": "view",
+      "id": "citations",
+      "nodes": [
+        "article_citation_bib1",
+        "article_citation_bib2",
+        "article_citation_bib3",
+        "article_citation_bib4",
+        "article_citation_bib5",
+        "article_citation_bib6",
+        "article_citation_bib7",
+        "article_citation_bib8",
+        "article_citation_bib9",
+        "article_citation_bib10",
+        "article_citation_bib11",
+        "article_citation_bib12",
+        "article_citation_bib13",
+        "article_citation_bib14"
+      ]
+    },
+    "document": {
+      "type": "document",
+      "id": "document",
+      "views": [
+        "content",
+        "figures",
+        "citations"
+      ],
+      "guid": "00704",
+      "title": "MCU encodes the pore conducting mitochondrial calcium currents",
+      "authors": [
+        "person_author_4181",
+        "person_author_4418",
+        "person_author_4419",
+        "person_author_2150"
+      ],
+      "received_on": "2013-03-05",
+      "accepted_on": "2013-04-29",
+      "published_on": "2013-06-04",
+      "journal": "elife",
+      "article_type": "",
+      "keywords": [
+        "mitoplast",
+        "MICU1",
+        "ruthenium red",
+        "calcium channel",
+        "electrophysiology",
+        "MCUR1"
+      ],
+      "research_organisms": [
+        "Human"
+      ],
+      "subjects": [
+        "Biochemistry",
+        "Cell biology"
+      ],
+      "pdf_link": "",
+      "xml_link": "",
+      "json_link": "",
+      "doi": ""
+    },
+    "annotation_1": {
+      "type": "emphasis",
+      "id": "annotation_1",
+      "path": [
+        "document",
+        "title"
+      ],
+      "target": null,
+      "range": [
+        0,
+        3
+      ]
+    },
+    "person_author_4181": {
+      "type": "person",
+      "id": "person_author_4181",
+      "given-names": "Dipayan",
+      "last-name": "Chaudhuri",
+      "role": "author",
+      "affiliations": [],
+      "image": "",
+      "contribution": " Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article",
+      "email": "",
+      "funding": [
+        "funding_par_1"
+      ]
+    },
+    "person_author_4418": {
+      "type": "person",
+      "id": "person_author_4418",
+      "given-names": "Yasemin",
+      "last-name": "Sancak",
+      "role": "author",
+      "affiliations": [],
+      "image": "",
+      "contribution": " Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article",
+      "email": "",
+      "funding": [
+        "funding_par_3"
+      ]
+    },
+    "person_author_4419": {
+      "type": "person",
+      "id": "person_author_4419",
+      "given-names": "Vamsi K",
+      "last-name": "Mootha",
+      "role": "author",
+      "affiliations": [],
+      "image": "",
+      "contribution": " Conception and design, Drafting or revising the article",
+      "email": "",
+      "funding": [
+        "funding_par_2"
+      ]
+    },
+    "person_author_2150": {
+      "type": "person",
+      "id": "person_author_2150",
+      "given-names": "David E",
+      "last-name": "Clapham",
+      "role": "author",
+      "affiliations": [],
+      "image": "",
+      "contribution": " Conception and design, Drafting or revising the article",
+      "email": "email_cor1",
+      "funding": [
+        "funding_par_4"
+      ]
+    },
+    "institution_aff1": {
+      "type": "institution",
+      "id": "institution_aff1",
+      "name": "Massachusetts General Hospital",
+      "city": "Boston",
+      "country": "United States",
+      "email": "",
+      "image": ""
+    },
+    "institution_aff2": {
+      "type": "institution",
+      "id": "institution_aff2",
+      "name": "Howard Hughes Medical Institute, Boston Children’s Hospital",
+      "city": "Boston",
+      "country": "United States",
+      "email": "",
+      "image": ""
+    },
+    "institution_aff3": {
+      "type": "institution",
+      "id": "institution_aff3",
+      "name": "Massachusetts General Hospital",
+      "city": "Boston",
+      "country": "United States",
+      "email": "",
+      "image": ""
+    },
+    "institution_aff4": {
+      "type": "institution",
+      "id": "institution_aff4",
+      "name": "Harvard Medical School",
+      "city": "Boston",
+      "country": "United States",
+      "email": "",
+      "image": ""
+    },
+    "institution_aff5": {
+      "type": "institution",
+      "id": "institution_aff5",
+      "name": "Harvard Medical School",
+      "city": "Boston",
+      "country": "United States",
+      "email": "",
+      "image": ""
+    },
+    "person_2": {
+      "type": "person",
+      "id": "person_2",
+      "given-names": "Richard",
+      "last-name": "Aldrich",
+      "role": "editor",
+      "affiliations": [],
+      "image": "",
+      "contribution": "",
+      "email": "",
+      "funding": []
+    },
+    "info:review": {
+      "type": "heading",
+      "id": "info:review",
+      "level": 2,
+      "content": "Reviewing Editor",
+      "nodes": [
+        "person_2"
+      ]
+    },
+    "email_cor1": {
+      "type": "email",
+      "id": "email_cor1",
+      "node": "",
+      "email": "dclapham@enders.tch.harvard.edu"
+    },
+    "info:copyright": {
+      "type": "heading",
+      "id": "info:copyright",
+      "level": 2,
+      "content": "Copyright",
+      "nodes": [
+        "paragraph_3"
+      ]
+    },
+    "paragraph_3": {
+      "type": "paragraph",
+      "id": "paragraph_3",
+      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited.10.7554/eLife.00704.001"
+    },
+    "annotation_4": {
+      "type": "link",
+      "id": "annotation_4",
+      "path": [
+        "paragraph_3",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        51,
+        87
+      ],
+      "url": "http://creativecommons.org/licenses/by/3.0/"
+    },
+    "abstract": {
+      "type": "heading",
+      "id": "abstract",
+      "level": 1,
+      "content": "Abstract",
+      "nodes": []
+    },
+    "paragraph_5": {
+      "type": "paragraph",
+      "id": "paragraph_5",
+      "content": "Mitochondrial calcium (Ca2+) import is a well-described phenomenon regulating cell survival and ATP production. Of multiple pathways allowing such entry, the mitochondrial Ca2+ uniporter is a highly Ca2+-selective channel complex encoded by several recently-discovered genes. However, the identity of the pore-forming subunit remains to be established, since knockdown of all the candidate uniporter genes inhibit Ca2+ uptake in imaging assays, and reconstitution experiments have been equivocal. To definitively identify the channel, we use whole-mitoplast voltage-clamping, the technique that originally established the uniporter as a Ca2+ channel. We show that RNAi-mediated knockdown of the mitochondrial calcium uniporter (MCU) gene reduces mitochondrial Ca2+ current (IMiCa), whereas overexpression increases it. Additionally, a classic feature of IMiCa, its sensitivity to ruthenium red inhibition, can be abolished by a point mutation in the putative pore domain without altering current magnitude. These analyses establish that MCU encodes the pore-forming subunit of the uniporter channel."
+    },
+    "annotation_6": {
+      "type": "superscript",
+      "id": "annotation_6",
+      "path": [
+        "paragraph_5",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        25,
+        27
+      ]
+    },
+    "annotation_7": {
+      "type": "superscript",
+      "id": "annotation_7",
+      "path": [
+        "paragraph_5",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        174,
+        176
+      ]
+    },
+    "annotation_8": {
+      "type": "superscript",
+      "id": "annotation_8",
+      "path": [
+        "paragraph_5",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        201,
+        203
+      ]
+    },
+    "annotation_9": {
+      "type": "superscript",
+      "id": "annotation_9",
+      "path": [
+        "paragraph_5",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        416,
+        418
+      ]
+    },
+    "annotation_10": {
+      "type": "superscript",
+      "id": "annotation_10",
+      "path": [
+        "paragraph_5",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        639,
+        641
+      ]
+    },
+    "annotation_11": {
+      "type": "emphasis",
+      "id": "annotation_11",
+      "path": [
+        "paragraph_5",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        695,
+        726
+      ]
+    },
+    "annotation_12": {
+      "type": "emphasis",
+      "id": "annotation_12",
+      "path": [
+        "paragraph_5",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        728,
+        731
+      ]
+    },
+    "annotation_13": {
+      "type": "superscript",
+      "id": "annotation_13",
+      "path": [
+        "paragraph_5",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        762,
+        764
+      ]
+    },
+    "annotation_14": {
+      "type": "emphasis",
+      "id": "annotation_14",
+      "path": [
+        "paragraph_5",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        774,
+        775
+      ]
+    },
+    "annotation_15": {
+      "type": "emphasis",
+      "id": "annotation_15",
+      "path": [
+        "paragraph_5",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        775,
+        779
+      ]
+    },
+    "annotation_16": {
+      "type": "subscript",
+      "id": "annotation_16",
+      "path": [
+        "paragraph_5",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        775,
+        779
+      ]
+    },
+    "annotation_17": {
+      "type": "emphasis",
+      "id": "annotation_17",
+      "path": [
+        "paragraph_5",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        854,
+        855
+      ]
+    },
+    "annotation_18": {
+      "type": "emphasis",
+      "id": "annotation_18",
+      "path": [
+        "paragraph_5",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        855,
+        859
+      ]
+    },
+    "annotation_19": {
+      "type": "subscript",
+      "id": "annotation_19",
+      "path": [
+        "paragraph_5",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        855,
+        859
+      ]
+    },
+    "annotation_20": {
+      "type": "emphasis",
+      "id": "annotation_20",
+      "path": [
+        "paragraph_5",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1037,
+        1040
+      ]
+    },
+    "paragraph_21": {
+      "type": "paragraph",
+      "id": "paragraph_21",
+      "content": "DOI: http://dx.doi.org/10.7554/eLife.00704.00110.7554/eLife.00704.002"
+    },
+    "annotation_22": {
+      "type": "strong",
+      "id": "annotation_22",
+      "path": [
+        "paragraph_21",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        4
+      ]
+    },
+    "annotation_23": {
+      "type": "link",
+      "id": "annotation_23",
+      "path": [
+        "paragraph_21",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        5,
+        46
+      ],
+      "url": "10.7554/eLife.00704.001"
+    },
+    "heading_24": {
+      "type": "heading",
+      "id": "heading_24",
+      "level": 0,
+      "content": "eLife digest",
+      "nodes": []
+    },
+    "paragraph_25": {
+      "type": "paragraph",
+      "id": "paragraph_25",
+      "content": "Mitochondria are tiny organelles, less than a micrometre across, found inside almost all eukaryotic cells. Their main function is to act as the ‘power plant’ of the cell, generating adenosine triphosphate or ATP, which is the source of chemical energy for cellular processes. Beyond generating ATP, mitochondria perform many other functions: they contribute to various signalling pathways; they influence cellular differentiation; and they are involved in processes related to cell death."
+    },
+    "paragraph_26": {
+      "type": "paragraph",
+      "id": "paragraph_26",
+      "content": "Mitochondria are quite distinctive in appearance—they are enclosed by two membranes, a porous outer one and a largely impermeable inner membrane. Most mitochondrial functions involve proteins that control the movement of various molecules and ions across the inner membrane. One particularly important ion that must pass through this membrane is calcium; once inside the mitochondria, these calcium ions regulate cell survival and the generation of ATP."
+    },
+    "paragraph_27": {
+      "type": "paragraph",
+      "id": "paragraph_27",
+      "content": "Although several calcium import mechanisms exist, the best-studied pathway involves a pore-forming protein complex called the mitochondrial calcium uniporter. This ion channel has an exquisite selectivity, allowing only calcium into mitochondria even when other ions outnumber it a million-fold. Previously, researchers had identified several genes that are required for the formation of the uniporter, but it had not been established which of these encodes the central pore through which the calcium ions pass. Now, Chaudhuri et al. have shown that one of these—a gene called mitochondrial calcium uniporter (MCU)—codes for the protein subunit that creates the pore."
+    },
+    "annotation_28": {
+      "type": "emphasis",
+      "id": "annotation_28",
+      "path": [
+        "paragraph_27",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        577,
+        608
+      ]
+    },
+    "annotation_29": {
+      "type": "emphasis",
+      "id": "annotation_29",
+      "path": [
+        "paragraph_27",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        610,
+        613
+      ]
+    },
+    "paragraph_30": {
+      "type": "paragraph",
+      "id": "paragraph_30",
+      "content": "Prior studies used optical methods or purified proteins to study genes encoding the uniporter complex, producing controversial results regarding pore identity. This study uses a much more direct assay, namely electrophysiology performed on mitochondrial inner membranes. To access the inner membrane, the authors stripped off the outer membrane from whole mitochondria, and made them expand. By using a technique called voltage-clamping, Chaudhuri et al. were able to precisely measure calcium ion movement through intact or mutated channels. This technique controls confounding factors and minimizes the effect of contaminants that can plague interpretation of data acquired by other methods. They showed that blocking the expression of the MCU gene reduced the flow of calcium ions through the uniporter, whereas increasing MCU expression increased calcium transport."
+    },
+    "annotation_31": {
+      "type": "emphasis",
+      "id": "annotation_31",
+      "path": [
+        "paragraph_30",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        742,
+        745
+      ]
+    },
+    "annotation_32": {
+      "type": "emphasis",
+      "id": "annotation_32",
+      "path": [
+        "paragraph_30",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        826,
+        829
+      ]
+    },
+    "paragraph_33": {
+      "type": "paragraph",
+      "id": "paragraph_33",
+      "content": "One unique feature of the mitochondrial calcium uniporter is that it can be blocked by a dye called ruthenium red. Chaudhuri et al. used this property to confirm that the MCU gene encodes the pore-forming subunit of the channel complex—they identified a single point mutation in MCU that did not affect the channel’s ability to transport calcium ions, but did abolish its sensitivity to ruthenium red. Together, these results show that the MCU gene encodes the pore of the mitochondrial calcium uniporter, and should lead to further research into the physiology and structure of this channel."
+    },
+    "annotation_34": {
+      "type": "emphasis",
+      "id": "annotation_34",
+      "path": [
+        "paragraph_33",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        171,
+        174
+      ]
+    },
+    "annotation_35": {
+      "type": "emphasis",
+      "id": "annotation_35",
+      "path": [
+        "paragraph_33",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        279,
+        282
+      ]
+    },
+    "annotation_36": {
+      "type": "emphasis",
+      "id": "annotation_36",
+      "path": [
+        "paragraph_33",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        440,
+        443
+      ]
+    },
+    "paragraph_37": {
+      "type": "paragraph",
+      "id": "paragraph_37",
+      "content": "DOI: http://dx.doi.org/10.7554/eLife.00704.002"
+    },
+    "annotation_38": {
+      "type": "strong",
+      "id": "annotation_38",
+      "path": [
+        "paragraph_37",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        4
+      ]
+    },
+    "annotation_39": {
+      "type": "link",
+      "id": "annotation_39",
+      "path": [
+        "paragraph_37",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        5,
+        46
+      ],
+      "url": "10.7554/eLife.00704.002"
+    },
+    "funding_par_1": {
+      "type": "funding",
+      "id": "funding_par_1",
+      "institution": "National Institutes of Health",
+      "accession": "F32HL107021",
+      "person": "person_author_4181",
+      "given-names": "Dipayan",
+      "last-name": "Chaudhuri"
+    },
+    "funding_par_2": {
+      "type": "funding",
+      "id": "funding_par_2",
+      "institution": "National Institutes of Health",
+      "accession": "R24DK080261",
+      "person": "person_author_4419",
+      "given-names": "Vamsi K",
+      "last-name": "Mootha"
+    },
+    "funding_par_3": {
+      "type": "funding",
+      "id": "funding_par_3",
+      "institution": "Helen Hay Whitney Foundation",
+      "accession": "",
+      "person": "person_author_4418",
+      "given-names": "Yasemin",
+      "last-name": "Sancak"
+    },
+    "funding_par_4": {
+      "type": "funding",
+      "id": "funding_par_4",
+      "institution": "Howard Hughes Medical Institute",
+      "accession": "",
+      "person": "person_author_2150",
+      "given-names": "David E",
+      "last-name": "Clapham"
+    },
+    "info:impact": {
+      "type": "heading",
+      "id": "info:impact",
+      "level": 2,
+      "content": "ImpactAuthor impact statementGenetic and electrophysiological experiments reveal that a gene called MCU encodes the ion channel pore that allows calcium ions to cross the inner mitochondrial membrane.",
+      "nodes": [
+        "paragraph_40"
+      ]
+    },
+    "paragraph_40": {
+      "type": "paragraph",
+      "id": "paragraph_40",
+      "content": ""
+    },
+    "heading_s1": {
+      "type": "heading",
+      "id": "heading_s1",
+      "level": 1,
+      "content": "Introduction",
+      "nodes": []
+    },
+    "paragraph_41": {
+      "type": "paragraph",
+      "id": "paragraph_41",
+      "content": "Since the initial demonstration that mitochondria take up substantial amounts of cytoplasmic Ca2+ (Deluca and Engstrom, 1961), detailed studies have revealed that this uptake can sculpt the cytoplasmic Ca2+ transient (Wheeler et al., 2012), enhance ATP synthesis (Balaban, 2009), and trigger cell death (Zoratti and Szabo, 1995). Of several pathways for Ca2+ entry, a uniporter found in the inner membrane possesses the largest capacity for uptake and was shown to be a highly Ca2+-selective ion channel (Kirichok et al., 2004). However, despite this substantial progress, the identities of the genes encoding the functional uniporter were largely unknown until only recently. In the past several years, investigators from several laboratories have identified mitochondrial calcium uptake 1 (MICU1, formerly Cbara1) (Perocchi et al., 2010), mitochondrial calcium uniporter (MCU, formerly Ccdc109a) (Baughman et al., 2011; De Stefani et al., 2011), and mitochondrial calcium uniporter regulator 1 (MCUR1, formerly Ccdc90a) (Mallilankaraman et al., 2012) as potentially integral components of this channel."
+    },
+    "annotation_42": {
+      "type": "superscript",
+      "id": "annotation_42",
+      "path": [
+        "paragraph_41",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        95,
+        97
+      ]
+    },
+    "citation_reference_43": {
+      "type": "citation_reference",
+      "id": "citation_reference_43",
+      "path": [
+        "paragraph_41",
+        "content"
+      ],
+      "target": "article_citation_bib6",
+      "range": [
+        99,
+        124
+      ]
+    },
+    "annotation_44": {
+      "type": "superscript",
+      "id": "annotation_44",
+      "path": [
+        "paragraph_41",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        204,
+        206
+      ]
+    },
+    "citation_reference_45": {
+      "type": "citation_reference",
+      "id": "citation_reference_45",
+      "path": [
+        "paragraph_41",
+        "content"
+      ],
+      "target": "article_citation_bib13",
+      "range": [
+        218,
+        238
+      ]
+    },
+    "citation_reference_46": {
+      "type": "citation_reference",
+      "id": "citation_reference_46",
+      "path": [
+        "paragraph_41",
+        "content"
+      ],
+      "target": "article_citation_bib2",
+      "range": [
+        264,
+        277
+      ]
+    },
+    "citation_reference_47": {
+      "type": "citation_reference",
+      "id": "citation_reference_47",
+      "path": [
+        "paragraph_41",
+        "content"
+      ],
+      "target": "article_citation_bib14",
+      "range": [
+        304,
+        327
+      ]
+    },
+    "annotation_48": {
+      "type": "superscript",
+      "id": "annotation_48",
+      "path": [
+        "paragraph_41",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        356,
+        358
+      ]
+    },
+    "annotation_49": {
+      "type": "superscript",
+      "id": "annotation_49",
+      "path": [
+        "paragraph_41",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        479,
+        481
+      ]
+    },
+    "citation_reference_50": {
+      "type": "citation_reference",
+      "id": "citation_reference_50",
+      "path": [
+        "paragraph_41",
+        "content"
+      ],
+      "target": "article_citation_bib9",
+      "range": [
+        505,
+        526
+      ]
+    },
+    "annotation_51": {
+      "type": "emphasis",
+      "id": "annotation_51",
+      "path": [
+        "paragraph_41",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        760,
+        790
+      ]
+    },
+    "annotation_52": {
+      "type": "emphasis",
+      "id": "annotation_52",
+      "path": [
+        "paragraph_41",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        792,
+        797
+      ]
+    },
+    "annotation_53": {
+      "type": "emphasis",
+      "id": "annotation_53",
+      "path": [
+        "paragraph_41",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        808,
+        814
+      ]
+    },
+    "citation_reference_54": {
+      "type": "citation_reference",
+      "id": "citation_reference_54",
+      "path": [
+        "paragraph_41",
+        "content"
+      ],
+      "target": "article_citation_bib11",
+      "range": [
+        817,
+        838
+      ]
+    },
+    "annotation_55": {
+      "type": "emphasis",
+      "id": "annotation_55",
+      "path": [
+        "paragraph_41",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        874,
+        877
+      ]
+    },
+    "annotation_56": {
+      "type": "emphasis",
+      "id": "annotation_56",
+      "path": [
+        "paragraph_41",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        888,
+        896
+      ]
+    },
+    "citation_reference_57": {
+      "type": "citation_reference",
+      "id": "citation_reference_57",
+      "path": [
+        "paragraph_41",
+        "content"
+      ],
+      "target": "article_citation_bib3",
+      "range": [
+        899,
+        920
+      ]
+    },
+    "citation_reference_58": {
+      "type": "citation_reference",
+      "id": "citation_reference_58",
+      "path": [
+        "paragraph_41",
+        "content"
+      ],
+      "target": "article_citation_bib5",
+      "range": [
+        922,
+        945
+      ]
+    },
+    "annotation_59": {
+      "type": "emphasis",
+      "id": "annotation_59",
+      "path": [
+        "paragraph_41",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        997,
+        1002
+      ]
+    },
+    "annotation_60": {
+      "type": "emphasis",
+      "id": "annotation_60",
+      "path": [
+        "paragraph_41",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1013,
+        1020
+      ]
+    },
+    "citation_reference_61": {
+      "type": "citation_reference",
+      "id": "citation_reference_61",
+      "path": [
+        "paragraph_41",
+        "content"
+      ],
+      "target": "article_citation_bib10",
+      "range": [
+        1023,
+        1051
+      ]
+    },
+    "paragraph_62": {
+      "type": "paragraph",
+      "id": "paragraph_62",
+      "content": "These discoveries have spurred an explosion of research into mitochondrial Ca2+ transport, yet an outstanding question in this field is which, if any, of these several genes forms the pore subunit of the channel. So far, the discovery of each of these genes occurred via Ca2+ imaging assays following RNAi-mediated knockdown. Although extremely useful for screening, this technique is ill-suited for separating modulatory effects from altered expression of the channel-forming subunit itself, and each of these genes was found to inhibit Ca2+ uptake via this assay. This difficulty arises because Ca2+ imaging measures Ca2+ entry, which depends critically on (i) the number of open portals, (ii) the voltage gradient, and (iii) the Ca2+ concentration gradient driving flux, and none of these is controlled during imaging experiments. In fact, changes in Ca2+ buffers or efflux pathways can alter matrix Ca2+, and changes in pH or other divalents can alter indicator fluorescence, without reflecting a true difference in uniporter activity. Rather, the ideal method for assaying electrogenic ion transport is voltage-clamping, which allows precise control of the voltage and concentration gradient and thus accurate measurement of the changes in channel density."
+    },
+    "annotation_63": {
+      "type": "superscript",
+      "id": "annotation_63",
+      "path": [
+        "paragraph_62",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        77,
+        79
+      ]
+    },
+    "annotation_64": {
+      "type": "superscript",
+      "id": "annotation_64",
+      "path": [
+        "paragraph_62",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        273,
+        275
+      ]
+    },
+    "annotation_65": {
+      "type": "superscript",
+      "id": "annotation_65",
+      "path": [
+        "paragraph_62",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        540,
+        542
+      ]
+    },
+    "annotation_66": {
+      "type": "superscript",
+      "id": "annotation_66",
+      "path": [
+        "paragraph_62",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        599,
+        601
+      ]
+    },
+    "annotation_67": {
+      "type": "superscript",
+      "id": "annotation_67",
+      "path": [
+        "paragraph_62",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        621,
+        623
+      ]
+    },
+    "annotation_68": {
+      "type": "superscript",
+      "id": "annotation_68",
+      "path": [
+        "paragraph_62",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        734,
+        736
+      ]
+    },
+    "annotation_69": {
+      "type": "superscript",
+      "id": "annotation_69",
+      "path": [
+        "paragraph_62",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        856,
+        858
+      ]
+    },
+    "annotation_70": {
+      "type": "superscript",
+      "id": "annotation_70",
+      "path": [
+        "paragraph_62",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        905,
+        907
+      ]
+    },
+    "paragraph_71": {
+      "type": "paragraph",
+      "id": "paragraph_71",
+      "content": "Initial attempts to apply voltage-clamping focused on MCU, which possesses two transmembrane domains and highly-conserved acidic residues in a putative pore domain (Baughman et al., 2011; De Stefani et al., 2011; Bick et al., 2012). However, although MCU peptides reconstituted into lipid bilayers showed some activity in single-channel recordings (De Stefani et al., 2011), these experiments failed to recapitulate the typical single-channel behavior of the uniporter, most importantly its characteristic conductance and long-lasting openings (99% open probability) (Kirichok et al., 2004). Although such a discrepancy may be explained by the incorporation of the channel into bilayers in the absence of regulatory subunits, lipid bilayer reconstitution is also notorious for false positive findings. Since it detects the activity of single molecules, channel-like behavior can be measured from trace contaminants after even crystallography-grade purification (Accardi et al., 2004). Thus, the identity of the pore-forming subunit remains to be definitively established."
+    },
+    "annotation_72": {
+      "type": "emphasis",
+      "id": "annotation_72",
+      "path": [
+        "paragraph_71",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        54,
+        57
+      ]
+    },
+    "citation_reference_73": {
+      "type": "citation_reference",
+      "id": "citation_reference_73",
+      "path": [
+        "paragraph_71",
+        "content"
+      ],
+      "target": "article_citation_bib3",
+      "range": [
+        165,
+        186
+      ]
+    },
+    "citation_reference_74": {
+      "type": "citation_reference",
+      "id": "citation_reference_74",
+      "path": [
+        "paragraph_71",
+        "content"
+      ],
+      "target": "article_citation_bib5",
+      "range": [
+        188,
+        211
+      ]
+    },
+    "citation_reference_75": {
+      "type": "citation_reference",
+      "id": "citation_reference_75",
+      "path": [
+        "paragraph_71",
+        "content"
+      ],
+      "target": "article_citation_bib4",
+      "range": [
+        213,
+        230
+      ]
+    },
+    "citation_reference_76": {
+      "type": "citation_reference",
+      "id": "citation_reference_76",
+      "path": [
+        "paragraph_71",
+        "content"
+      ],
+      "target": "article_citation_bib5",
+      "range": [
+        349,
+        372
+      ]
+    },
+    "citation_reference_77": {
+      "type": "citation_reference",
+      "id": "citation_reference_77",
+      "path": [
+        "paragraph_71",
+        "content"
+      ],
+      "target": "article_citation_bib9",
+      "range": [
+        568,
+        589
+      ]
+    },
+    "citation_reference_78": {
+      "type": "citation_reference",
+      "id": "citation_reference_78",
+      "path": [
+        "paragraph_71",
+        "content"
+      ],
+      "target": "article_citation_bib1",
+      "range": [
+        962,
+        982
+      ]
+    },
+    "paragraph_79": {
+      "type": "paragraph",
+      "id": "paragraph_79",
+      "content": "To overcome the limitations of single-channel recordings, we chose to voltage-clamp whole mitoplasts (mitochondria stripped of their outer membrane and expanded osmotically to allow access to the inner membrane) (Figure 1A). This allows electrophysiological interrogation of all the channels assembled in their native milieu in individual mitochondria. Moreover, this technique allows us to express mutated channels and examine mitochondrial Ca2+ currents (IMiCa) for altered key features. Using this method, we show here that MCU does recapitulate key features of IMiCa, and show that a single point-mutation can generate resistance to pharmacologic inhibition."
+    },
+    "figure_reference_80": {
+      "type": "figure_reference",
+      "id": "figure_reference_80",
+      "path": [
+        "paragraph_79",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        213,
+        222
+      ]
+    },
+    "annotation_81": {
+      "type": "superscript",
+      "id": "annotation_81",
+      "path": [
+        "paragraph_79",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        444,
+        446
+      ]
+    },
+    "annotation_82": {
+      "type": "emphasis",
+      "id": "annotation_82",
+      "path": [
+        "paragraph_79",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        457,
+        458
+      ]
+    },
+    "annotation_83": {
+      "type": "emphasis",
+      "id": "annotation_83",
+      "path": [
+        "paragraph_79",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        458,
+        462
+      ]
+    },
+    "annotation_84": {
+      "type": "subscript",
+      "id": "annotation_84",
+      "path": [
+        "paragraph_79",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        458,
+        462
+      ]
+    },
+    "annotation_85": {
+      "type": "emphasis",
+      "id": "annotation_85",
+      "path": [
+        "paragraph_79",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        527,
+        530
+      ]
+    },
+    "annotation_86": {
+      "type": "emphasis",
+      "id": "annotation_86",
+      "path": [
+        "paragraph_79",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        565,
+        566
+      ]
+    },
+    "annotation_87": {
+      "type": "emphasis",
+      "id": "annotation_87",
+      "path": [
+        "paragraph_79",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        566,
+        570
+      ]
+    },
+    "annotation_88": {
+      "type": "subscript",
+      "id": "annotation_88",
+      "path": [
+        "paragraph_79",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        566,
+        570
+      ]
+    },
+    "image_fig1": {
+      "type": "image",
+      "id": "image_fig1",
+      "label": "Figure 1.",
+      "url": "",
+      "object_id": "F1",
+      "title": "MCU expression recapitulates IMiCa.",
+      "content_type": "",
+      "large_url": "",
+      "content": "",
+      "group": [
+        "parent",
+        null
+      ],
+      "doi": "http://dx.doi.org/10.7554/eLife.00704.003",
+      "caption": "paragraph_image_fig1",
+      "graphic_id": "elife00704f001"
+    },
+    "paragraph_image_fig1": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig1",
+      "content": "(A) A HEK-293T cell mitoplast under differential interference contrast (far left), showing a typical figure-eight shape. The lobe bounded only by the mitochondrial inner membrane appears less dense (white arrow) than the lobe also bounded by the outer membrane (black arrow). Matrix-targeted mCherry demonstrates that the inner membrane forms a surface on both lobes (middle left). GFP-tagged mitofusin-1 (an outer membrane GTPase, middle right) reveals the outer membrane partially encapsulating only one lobe. Far right: merged image. (B) Western blots demonstrate reduced MCU expression following short-hairpin RNA-mediated knockdown of MCU but not GFP (control). ATP5B is a loading control. (C) Exemplar current traces demonstrate endogenous IMiCa in control knockdown (black trace), which is largely blocked by 100 nM RuR (red trace). Voltage ramps from −160 to +80 mV for 750 ms were delivered every 6 s from a holding potential of 0 mV. (D) Significantly reduced IMiCa after MCU knockdown. (E) Summary data, n = 6–10 per condition, error bars report SEM."
+    },
+    "annotation_89": {
+      "type": "emphasis",
+      "id": "annotation_89",
+      "path": [
+        "image_fig1",
+        "title"
+      ],
+      "target": null,
+      "range": [
+        0,
+        3
+      ]
+    },
+    "annotation_90": {
+      "type": "emphasis",
+      "id": "annotation_90",
+      "path": [
+        "image_fig1",
+        "title"
+      ],
+      "target": null,
+      "range": [
+        29,
+        30
+      ]
+    },
+    "annotation_91": {
+      "type": "emphasis",
+      "id": "annotation_91",
+      "path": [
+        "image_fig1",
+        "title"
+      ],
+      "target": null,
+      "range": [
+        30,
+        34
+      ]
+    },
+    "annotation_92": {
+      "type": "subscript",
+      "id": "annotation_92",
+      "path": [
+        "image_fig1",
+        "title"
+      ],
+      "target": null,
+      "range": [
+        30,
+        34
+      ]
+    },
+    "annotation_93": {
+      "type": "strong",
+      "id": "annotation_93",
+      "path": [
+        "paragraph_image_fig1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1,
+        2
+      ]
+    },
+    "annotation_94": {
+      "type": "strong",
+      "id": "annotation_94",
+      "path": [
+        "paragraph_image_fig1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        538,
+        539
+      ]
+    },
+    "annotation_95": {
+      "type": "emphasis",
+      "id": "annotation_95",
+      "path": [
+        "paragraph_image_fig1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        640,
+        643
+      ]
+    },
+    "annotation_96": {
+      "type": "emphasis",
+      "id": "annotation_96",
+      "path": [
+        "paragraph_image_fig1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        652,
+        655
+      ]
+    },
+    "annotation_97": {
+      "type": "strong",
+      "id": "annotation_97",
+      "path": [
+        "paragraph_image_fig1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        696,
+        697
+      ]
+    },
+    "annotation_98": {
+      "type": "emphasis",
+      "id": "annotation_98",
+      "path": [
+        "paragraph_image_fig1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        746,
+        747
+      ]
+    },
+    "annotation_99": {
+      "type": "emphasis",
+      "id": "annotation_99",
+      "path": [
+        "paragraph_image_fig1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        747,
+        751
+      ]
+    },
+    "annotation_100": {
+      "type": "subscript",
+      "id": "annotation_100",
+      "path": [
+        "paragraph_image_fig1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        747,
+        751
+      ]
+    },
+    "annotation_101": {
+      "type": "strong",
+      "id": "annotation_101",
+      "path": [
+        "paragraph_image_fig1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        945,
+        946
+      ]
+    },
+    "annotation_102": {
+      "type": "emphasis",
+      "id": "annotation_102",
+      "path": [
+        "paragraph_image_fig1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        970,
+        971
+      ]
+    },
+    "annotation_103": {
+      "type": "emphasis",
+      "id": "annotation_103",
+      "path": [
+        "paragraph_image_fig1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        971,
+        975
+      ]
+    },
+    "annotation_104": {
+      "type": "subscript",
+      "id": "annotation_104",
+      "path": [
+        "paragraph_image_fig1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        971,
+        975
+      ]
+    },
+    "annotation_105": {
+      "type": "emphasis",
+      "id": "annotation_105",
+      "path": [
+        "paragraph_image_fig1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        982,
+        985
+      ]
+    },
+    "annotation_106": {
+      "type": "strong",
+      "id": "annotation_106",
+      "path": [
+        "paragraph_image_fig1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        998,
+        999
+      ]
+    },
+    "annotation_107": {
+      "type": "emphasis",
+      "id": "annotation_107",
+      "path": [
+        "paragraph_image_fig1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1015,
+        1016
+      ]
+    },
+    "heading_s2": {
+      "type": "heading",
+      "id": "heading_s2",
+      "level": 1,
+      "content": "Results",
+      "nodes": []
+    },
+    "paragraph_108": {
+      "type": "paragraph",
+      "id": "paragraph_108",
+      "content": "Stable transfection of HEK-293T cells with a short-hairpin RNA targeting MCU produced a substantial reduction in the protein when assayed by Western blot (Figure 1B) or quantitative real-time polymerase chain reaction (17 ± 5% transcripts remaining compared to shGFP). We isolated mitoplasts from these cells using the Kirichok protocol (Fedorenko et al., 2012; Fieni et al., 2012; Figure 1A). As expected from Ca2+-imaging experiments (Baughman et al., 2011), mitoplasts from control cells showed robust IMiCa during voltage ramps from −160 mV to +80 mV (Figure 1C). Because IMiCa features a half-saturation value (K0.5) of 20 mM [Ca2+]bath, we maximized current by recording in a 100 mM Ca2+ gluconate bath solution (Kirichok et al., 2004). Utilizing high external Ca2+ allows us to conclude that changes observed after modifying MCU expression is due to altered channel levels rather than modulation of K0.5, which might be set by accessory subunits. Other critical features of IMiCa replicated in HEK-293T cells include its strong inward-rectification and high-affinity blockade by ruthenium red (RuR, 87 ± 2% inhibition in 100 nM RuR, Figure 1C,E)."
+    },
+    "annotation_109": {
+      "type": "emphasis",
+      "id": "annotation_109",
+      "path": [
+        "paragraph_108",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        73,
+        76
+      ]
+    },
+    "figure_reference_110": {
+      "type": "figure_reference",
+      "id": "figure_reference_110",
+      "path": [
+        "paragraph_108",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        155,
+        164
+      ]
+    },
+    "citation_reference_111": {
+      "type": "citation_reference",
+      "id": "citation_reference_111",
+      "path": [
+        "paragraph_108",
+        "content"
+      ],
+      "target": "article_citation_bib7",
+      "range": [
+        338,
+        360
+      ]
+    },
+    "citation_reference_112": {
+      "type": "citation_reference",
+      "id": "citation_reference_112",
+      "path": [
+        "paragraph_108",
+        "content"
+      ],
+      "target": "article_citation_bib8",
+      "range": [
+        362,
+        380
+      ]
+    },
+    "figure_reference_113": {
+      "type": "figure_reference",
+      "id": "figure_reference_113",
+      "path": [
+        "paragraph_108",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        382,
+        391
+      ]
+    },
+    "annotation_114": {
+      "type": "superscript",
+      "id": "annotation_114",
+      "path": [
+        "paragraph_108",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        413,
+        415
+      ]
+    },
+    "citation_reference_115": {
+      "type": "citation_reference",
+      "id": "citation_reference_115",
+      "path": [
+        "paragraph_108",
+        "content"
+      ],
+      "target": "article_citation_bib3",
+      "range": [
+        437,
+        458
+      ]
+    },
+    "annotation_116": {
+      "type": "emphasis",
+      "id": "annotation_116",
+      "path": [
+        "paragraph_108",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        505,
+        506
+      ]
+    },
+    "annotation_117": {
+      "type": "emphasis",
+      "id": "annotation_117",
+      "path": [
+        "paragraph_108",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        506,
+        510
+      ]
+    },
+    "annotation_118": {
+      "type": "subscript",
+      "id": "annotation_118",
+      "path": [
+        "paragraph_108",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        506,
+        510
+      ]
+    },
+    "figure_reference_119": {
+      "type": "figure_reference",
+      "id": "figure_reference_119",
+      "path": [
+        "paragraph_108",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        556,
+        565
+      ]
+    },
+    "annotation_120": {
+      "type": "emphasis",
+      "id": "annotation_120",
+      "path": [
+        "paragraph_108",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        576,
+        577
+      ]
+    },
+    "annotation_121": {
+      "type": "emphasis",
+      "id": "annotation_121",
+      "path": [
+        "paragraph_108",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        577,
+        581
+      ]
+    },
+    "annotation_122": {
+      "type": "subscript",
+      "id": "annotation_122",
+      "path": [
+        "paragraph_108",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        577,
+        581
+      ]
+    },
+    "annotation_123": {
+      "type": "subscript",
+      "id": "annotation_123",
+      "path": [
+        "paragraph_108",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        617,
+        620
+      ]
+    },
+    "annotation_124": {
+      "type": "superscript",
+      "id": "annotation_124",
+      "path": [
+        "paragraph_108",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        634,
+        636
+      ]
+    },
+    "annotation_125": {
+      "type": "subscript",
+      "id": "annotation_125",
+      "path": [
+        "paragraph_108",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        637,
+        641
+      ]
+    },
+    "annotation_126": {
+      "type": "superscript",
+      "id": "annotation_126",
+      "path": [
+        "paragraph_108",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        691,
+        693
+      ]
+    },
+    "citation_reference_127": {
+      "type": "citation_reference",
+      "id": "citation_reference_127",
+      "path": [
+        "paragraph_108",
+        "content"
+      ],
+      "target": "article_citation_bib9",
+      "range": [
+        719,
+        740
+      ]
+    },
+    "annotation_128": {
+      "type": "superscript",
+      "id": "annotation_128",
+      "path": [
+        "paragraph_108",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        769,
+        771
+      ]
+    },
+    "annotation_129": {
+      "type": "emphasis",
+      "id": "annotation_129",
+      "path": [
+        "paragraph_108",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        832,
+        835
+      ]
+    },
+    "annotation_130": {
+      "type": "subscript",
+      "id": "annotation_130",
+      "path": [
+        "paragraph_108",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        907,
+        910
+      ]
+    },
+    "annotation_131": {
+      "type": "emphasis",
+      "id": "annotation_131",
+      "path": [
+        "paragraph_108",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        981,
+        982
+      ]
+    },
+    "annotation_132": {
+      "type": "emphasis",
+      "id": "annotation_132",
+      "path": [
+        "paragraph_108",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        982,
+        986
+      ]
+    },
+    "annotation_133": {
+      "type": "subscript",
+      "id": "annotation_133",
+      "path": [
+        "paragraph_108",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        982,
+        986
+      ]
+    },
+    "figure_reference_134": {
+      "type": "figure_reference",
+      "id": "figure_reference_134",
+      "path": [
+        "paragraph_108",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        1140,
+        1151
+      ]
+    },
+    "paragraph_135": {
+      "type": "paragraph",
+      "id": "paragraph_135",
+      "content": "Compared to the control condition, IMiCa in mitoplasts from shMCU-expressing cells was markedly smaller (Figure 1D). The RuR-sensitive component of total Ca2+ current was reduced by 78 ± 14% (p<0.001, Figure 1E), with no significant difference in the RuR-insensitive residual component, suggesting that the knockdown was specific to IMiCa and not a generalized reduction in membrane conductance. Moreover, differences were not due to alterations in mitochondrial structure, as mitoplast capacitance, a surrogate for inner membrane surface area (100µm2/pF), was consistent across all conditions tested here (shGFP: 0.48 ± 0.10 pF, shMCU: 0.34 ± 0.09 pF, p>0.05)."
+    },
+    "annotation_136": {
+      "type": "emphasis",
+      "id": "annotation_136",
+      "path": [
+        "paragraph_135",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        35,
+        36
+      ]
+    },
+    "annotation_137": {
+      "type": "emphasis",
+      "id": "annotation_137",
+      "path": [
+        "paragraph_135",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        36,
+        40
+      ]
+    },
+    "annotation_138": {
+      "type": "subscript",
+      "id": "annotation_138",
+      "path": [
+        "paragraph_135",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        36,
+        40
+      ]
+    },
+    "figure_reference_139": {
+      "type": "figure_reference",
+      "id": "figure_reference_139",
+      "path": [
+        "paragraph_135",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        105,
+        114
+      ]
+    },
+    "annotation_140": {
+      "type": "superscript",
+      "id": "annotation_140",
+      "path": [
+        "paragraph_135",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        156,
+        158
+      ]
+    },
+    "figure_reference_141": {
+      "type": "figure_reference",
+      "id": "figure_reference_141",
+      "path": [
+        "paragraph_135",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        201,
+        210
+      ]
+    },
+    "annotation_142": {
+      "type": "emphasis",
+      "id": "annotation_142",
+      "path": [
+        "paragraph_135",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        333,
+        334
+      ]
+    },
+    "annotation_143": {
+      "type": "emphasis",
+      "id": "annotation_143",
+      "path": [
+        "paragraph_135",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        334,
+        338
+      ]
+    },
+    "annotation_144": {
+      "type": "subscript",
+      "id": "annotation_144",
+      "path": [
+        "paragraph_135",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        334,
+        338
+      ]
+    },
+    "annotation_145": {
+      "type": "superscript",
+      "id": "annotation_145",
+      "path": [
+        "paragraph_135",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        550,
+        551
+      ]
+    },
+    "paragraph_146": {
+      "type": "paragraph",
+      "id": "paragraph_146",
+      "content": "Next, we examined if overexpression of wild-type or mutant human MCU proteins substantially changed IMiCa. We focused on an MCU mutated to encode an alanine at a highly-conserved serine in the putative pore-forming loop (S259A) (Baughman et al., 2011; Bick et al., 2012). The wild-type and mutant MCU proteins were tagged with a carboxyl-terminal FLAG epitope, and localized appropriately to mitochondria (Figure 2A,B). To confirm targeting to the inner membrane, we treated HEK-293T mitochondrial fractions with increasing concentrations of digitonin, and assayed for enzymatic digestion with proteinase K (Baughman et al., 2011; Figure 2C,D). Since the FLAG-tagged proteins were protected from digestion to a comparable extent as peptidyl-prolyl cis-trans isomerase F (PPIF, a matrix protein), whereas proteins of the outer- and inter-membrane spaces were not, the MCU constructs are appropriately targeted with their carboxyl-termini facing the mitochondrial matrix. Turning to our whole-mitoplast recordings (Figure 2E,G), we found that overexpression of wild-type MCU-Flag produced a robust increase in IMiCa of approximately 3.4-fold compared to endogenous HEK-293T currents (compare to Figure 1C,E). This enhanced IMiCa retained its sensitivity to RuR (Figure 2E,G)."
+    },
+    "annotation_147": {
+      "type": "emphasis",
+      "id": "annotation_147",
+      "path": [
+        "paragraph_146",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        100,
+        101
+      ]
+    },
+    "annotation_148": {
+      "type": "emphasis",
+      "id": "annotation_148",
+      "path": [
+        "paragraph_146",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        101,
+        105
+      ]
+    },
+    "annotation_149": {
+      "type": "subscript",
+      "id": "annotation_149",
+      "path": [
+        "paragraph_146",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        101,
+        105
+      ]
+    },
+    "citation_reference_150": {
+      "type": "citation_reference",
+      "id": "citation_reference_150",
+      "path": [
+        "paragraph_146",
+        "content"
+      ],
+      "target": "article_citation_bib3",
+      "range": [
+        229,
+        250
+      ]
+    },
+    "citation_reference_151": {
+      "type": "citation_reference",
+      "id": "citation_reference_151",
+      "path": [
+        "paragraph_146",
+        "content"
+      ],
+      "target": "article_citation_bib4",
+      "range": [
+        252,
+        269
+      ]
+    },
+    "figure_reference_152": {
+      "type": "figure_reference",
+      "id": "figure_reference_152",
+      "path": [
+        "paragraph_146",
+        "content"
+      ],
+      "target": "image_fig2",
+      "range": [
+        406,
+        417
+      ]
+    },
+    "citation_reference_153": {
+      "type": "citation_reference",
+      "id": "citation_reference_153",
+      "path": [
+        "paragraph_146",
+        "content"
+      ],
+      "target": "article_citation_bib3",
+      "range": [
+        608,
+        629
+      ]
+    },
+    "figure_reference_154": {
+      "type": "figure_reference",
+      "id": "figure_reference_154",
+      "path": [
+        "paragraph_146",
+        "content"
+      ],
+      "target": "image_fig2",
+      "range": [
+        631,
+        642
+      ]
+    },
+    "figure_reference_155": {
+      "type": "figure_reference",
+      "id": "figure_reference_155",
+      "path": [
+        "paragraph_146",
+        "content"
+      ],
+      "target": "image_fig2",
+      "range": [
+        1013,
+        1024
+      ]
+    },
+    "annotation_156": {
+      "type": "emphasis",
+      "id": "annotation_156",
+      "path": [
+        "paragraph_146",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1108,
+        1109
+      ]
+    },
+    "annotation_157": {
+      "type": "emphasis",
+      "id": "annotation_157",
+      "path": [
+        "paragraph_146",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1109,
+        1113
+      ]
+    },
+    "annotation_158": {
+      "type": "subscript",
+      "id": "annotation_158",
+      "path": [
+        "paragraph_146",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1109,
+        1113
+      ]
+    },
+    "figure_reference_159": {
+      "type": "figure_reference",
+      "id": "figure_reference_159",
+      "path": [
+        "paragraph_146",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        1193,
+        1204
+      ]
+    },
+    "annotation_160": {
+      "type": "emphasis",
+      "id": "annotation_160",
+      "path": [
+        "paragraph_146",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1221,
+        1222
+      ]
+    },
+    "annotation_161": {
+      "type": "emphasis",
+      "id": "annotation_161",
+      "path": [
+        "paragraph_146",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1222,
+        1226
+      ]
+    },
+    "annotation_162": {
+      "type": "subscript",
+      "id": "annotation_162",
+      "path": [
+        "paragraph_146",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1222,
+        1226
+      ]
+    },
+    "figure_reference_163": {
+      "type": "figure_reference",
+      "id": "figure_reference_163",
+      "path": [
+        "paragraph_146",
+        "content"
+      ],
+      "target": "image_fig2",
+      "range": [
+        1260,
+        1271
+      ]
+    },
+    "image_fig2": {
+      "type": "image",
+      "id": "image_fig2",
+      "label": "Figure 2.",
+      "url": "",
+      "object_id": "F2",
+      "title": "MCU mutants alter IMiCa sensitivity to RuR.",
+      "content_type": "",
+      "large_url": "",
+      "content": "",
+      "group": [
+        "parent",
+        null
+      ],
+      "doi": "http://dx.doi.org/10.7554/eLife.00704.004",
+      "caption": "paragraph_image_fig2",
+      "graphic_id": "elife00704f002"
+    },
+    "paragraph_image_fig2": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig2",
+      "content": "(A) Confocal imaging of HEK-293T cells for FLAG-tagged MCU (left) and cytochrome C oxidase I (a mitochondrial marker, center). The merged image (right) shows colocalization. (B) As in (A) but for MCU-259A-FLAG. (C) Immunoblot analysis of proteinase K digestion after wild-type MCU-FLAG-expressing HEK-293T mitochondrial fractions are digitonin-permeabilized at the specified concentrations, confirming mitochondrial targeting. (D) Proteinase K digestion analysis for MCU-S259A-FLAG mutant. (E) Significant increase in IMiCa after MCU-FLAG overexpression. (F) Loss of RuR block in S259A mutant. (G) Summary data, n = 5–9 per condition."
+    },
+    "annotation_164": {
+      "type": "emphasis",
+      "id": "annotation_164",
+      "path": [
+        "image_fig2",
+        "title"
+      ],
+      "target": null,
+      "range": [
+        0,
+        3
+      ]
+    },
+    "annotation_165": {
+      "type": "emphasis",
+      "id": "annotation_165",
+      "path": [
+        "image_fig2",
+        "title"
+      ],
+      "target": null,
+      "range": [
+        18,
+        19
+      ]
+    },
+    "annotation_166": {
+      "type": "emphasis",
+      "id": "annotation_166",
+      "path": [
+        "image_fig2",
+        "title"
+      ],
+      "target": null,
+      "range": [
+        19,
+        23
+      ]
+    },
+    "annotation_167": {
+      "type": "subscript",
+      "id": "annotation_167",
+      "path": [
+        "image_fig2",
+        "title"
+      ],
+      "target": null,
+      "range": [
+        19,
+        23
+      ]
+    },
+    "annotation_168": {
+      "type": "strong",
+      "id": "annotation_168",
+      "path": [
+        "paragraph_image_fig2",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1,
+        2
+      ]
+    },
+    "annotation_169": {
+      "type": "strong",
+      "id": "annotation_169",
+      "path": [
+        "paragraph_image_fig2",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        175,
+        176
+      ]
+    },
+    "annotation_170": {
+      "type": "strong",
+      "id": "annotation_170",
+      "path": [
+        "paragraph_image_fig2",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        185,
+        186
+      ]
+    },
+    "annotation_171": {
+      "type": "strong",
+      "id": "annotation_171",
+      "path": [
+        "paragraph_image_fig2",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        212,
+        213
+      ]
+    },
+    "annotation_172": {
+      "type": "strong",
+      "id": "annotation_172",
+      "path": [
+        "paragraph_image_fig2",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        428,
+        429
+      ]
+    },
+    "annotation_173": {
+      "type": "strong",
+      "id": "annotation_173",
+      "path": [
+        "paragraph_image_fig2",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        491,
+        492
+      ]
+    },
+    "annotation_174": {
+      "type": "emphasis",
+      "id": "annotation_174",
+      "path": [
+        "paragraph_image_fig2",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        518,
+        519
+      ]
+    },
+    "annotation_175": {
+      "type": "emphasis",
+      "id": "annotation_175",
+      "path": [
+        "paragraph_image_fig2",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        519,
+        523
+      ]
+    },
+    "annotation_176": {
+      "type": "subscript",
+      "id": "annotation_176",
+      "path": [
+        "paragraph_image_fig2",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        519,
+        523
+      ]
+    },
+    "annotation_177": {
+      "type": "strong",
+      "id": "annotation_177",
+      "path": [
+        "paragraph_image_fig2",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        556,
+        557
+      ]
+    },
+    "annotation_178": {
+      "type": "strong",
+      "id": "annotation_178",
+      "path": [
+        "paragraph_image_fig2",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        595,
+        596
+      ]
+    },
+    "annotation_179": {
+      "type": "emphasis",
+      "id": "annotation_179",
+      "path": [
+        "paragraph_image_fig2",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        612,
+        613
+      ]
+    },
+    "paragraph_180": {
+      "type": "paragraph",
+      "id": "paragraph_180",
+      "content": "Finally, we studied the S259A-MCU mutant to see if it disrupted key features of IMiCa. In Ca2+-imaging experiments, this mutant had preserved Ca2+ uptake but diminished sensitivity to uniporter inhibitors (Baughman et al., 2011). At baseline, mitoplasts from HEK-293T cells transfected with the S259A mutant had capacitances similar to mitoplasts after wild-type MCU overexpression (MCU-Flag: 0.32 ± 0.06 pF, S259A: 0.29 ± 0.10 pF, p>0.05). Moreover, S259A overexpression mirrored the increase in IMiCa seen after wild-type MCU transfection, confirming a fully-functional channel (Figure 2F,G). However, this variant displayed markedly decreased sensitivity to RuR, with minimal inhibition at 100 nM. Since overexpression occurred on a background of endogenous channels, this mutant appears to act in a dominant-negative fashion. In particular, the S295A RuR-inhibited fraction (148 ± 33 pA/pF, Figure 2G) was much less than the RuR-inhibited fraction in endogenous IMiCa (372 ± 42 pA/pF, Figure 1F). This suggests that, since the channel is an oligomer of multiple MCU subunits (Baughman et al., 2011), mutant S259A-MCU can incorporate with endogenous, wild-type subunits to form a Ca2+-conducting channel, which nonetheless has drastically-reduced RuR sensitivity."
+    },
+    "annotation_181": {
+      "type": "emphasis",
+      "id": "annotation_181",
+      "path": [
+        "paragraph_180",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        80,
+        81
+      ]
+    },
+    "annotation_182": {
+      "type": "emphasis",
+      "id": "annotation_182",
+      "path": [
+        "paragraph_180",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        81,
+        85
+      ]
+    },
+    "annotation_183": {
+      "type": "subscript",
+      "id": "annotation_183",
+      "path": [
+        "paragraph_180",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        81,
+        85
+      ]
+    },
+    "annotation_184": {
+      "type": "superscript",
+      "id": "annotation_184",
+      "path": [
+        "paragraph_180",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        92,
+        94
+      ]
+    },
+    "annotation_185": {
+      "type": "superscript",
+      "id": "annotation_185",
+      "path": [
+        "paragraph_180",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        144,
+        146
+      ]
+    },
+    "citation_reference_186": {
+      "type": "citation_reference",
+      "id": "citation_reference_186",
+      "path": [
+        "paragraph_180",
+        "content"
+      ],
+      "target": "article_citation_bib3",
+      "range": [
+        206,
+        227
+      ]
+    },
+    "annotation_187": {
+      "type": "emphasis",
+      "id": "annotation_187",
+      "path": [
+        "paragraph_180",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        497,
+        498
+      ]
+    },
+    "annotation_188": {
+      "type": "emphasis",
+      "id": "annotation_188",
+      "path": [
+        "paragraph_180",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        498,
+        502
+      ]
+    },
+    "annotation_189": {
+      "type": "subscript",
+      "id": "annotation_189",
+      "path": [
+        "paragraph_180",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        498,
+        502
+      ]
+    },
+    "figure_reference_190": {
+      "type": "figure_reference",
+      "id": "figure_reference_190",
+      "path": [
+        "paragraph_180",
+        "content"
+      ],
+      "target": "image_fig2",
+      "range": [
+        581,
+        592
+      ]
+    },
+    "figure_reference_191": {
+      "type": "figure_reference",
+      "id": "figure_reference_191",
+      "path": [
+        "paragraph_180",
+        "content"
+      ],
+      "target": "image_fig2",
+      "range": [
+        895,
+        904
+      ]
+    },
+    "annotation_192": {
+      "type": "emphasis",
+      "id": "annotation_192",
+      "path": [
+        "paragraph_180",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        966,
+        967
+      ]
+    },
+    "annotation_193": {
+      "type": "emphasis",
+      "id": "annotation_193",
+      "path": [
+        "paragraph_180",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        967,
+        971
+      ]
+    },
+    "annotation_194": {
+      "type": "subscript",
+      "id": "annotation_194",
+      "path": [
+        "paragraph_180",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        967,
+        971
+      ]
+    },
+    "figure_reference_195": {
+      "type": "figure_reference",
+      "id": "figure_reference_195",
+      "path": [
+        "paragraph_180",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        989,
+        998
+      ]
+    },
+    "citation_reference_196": {
+      "type": "citation_reference",
+      "id": "citation_reference_196",
+      "path": [
+        "paragraph_180",
+        "content"
+      ],
+      "target": "article_citation_bib3",
+      "range": [
+        1080,
+        1101
+      ]
+    },
+    "annotation_197": {
+      "type": "superscript",
+      "id": "annotation_197",
+      "path": [
+        "paragraph_180",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1185,
+        1187
+      ]
+    },
+    "heading_s3": {
+      "type": "heading",
+      "id": "heading_s3",
+      "level": 1,
+      "content": "Discussion",
+      "nodes": []
+    },
+    "paragraph_198": {
+      "type": "paragraph",
+      "id": "paragraph_198",
+      "content": "In our study, we use the most direct assay available to measure mitochondrial Ca2+ currents—whole-mitoplast electrophysiology (Kirichok et al., 2004). By isolating mitoplasts and recording directly from all the channels embedded in the inner membrane, we measure the ensemble current and thus avoid confounding minor contaminants. This method, moreover, is the same technique that originally demonstrated that the mitochondrial Ca2+ uniporter was an ion channel, allowing us to make a direct comparison to the characteristic features of this current (IMiCa), and to determine if the genetically-modified channels could alter them."
+    },
+    "annotation_199": {
+      "type": "superscript",
+      "id": "annotation_199",
+      "path": [
+        "paragraph_198",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        80,
+        82
+      ]
+    },
+    "citation_reference_200": {
+      "type": "citation_reference",
+      "id": "citation_reference_200",
+      "path": [
+        "paragraph_198",
+        "content"
+      ],
+      "target": "article_citation_bib9",
+      "range": [
+        127,
+        148
+      ]
+    },
+    "annotation_201": {
+      "type": "superscript",
+      "id": "annotation_201",
+      "path": [
+        "paragraph_198",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        430,
+        432
+      ]
+    },
+    "annotation_202": {
+      "type": "emphasis",
+      "id": "annotation_202",
+      "path": [
+        "paragraph_198",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        551,
+        552
+      ]
+    },
+    "annotation_203": {
+      "type": "emphasis",
+      "id": "annotation_203",
+      "path": [
+        "paragraph_198",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        552,
+        556
+      ]
+    },
+    "annotation_204": {
+      "type": "subscript",
+      "id": "annotation_204",
+      "path": [
+        "paragraph_198",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        552,
+        556
+      ]
+    },
+    "paragraph_205": {
+      "type": "paragraph",
+      "id": "paragraph_205",
+      "content": "We focused on MCU, the leading candidate for the pore-forming subunit, as it possesses two transmembrane domains and has highly-conserved acidic residues in a putative pore-like domain. First, we show that reducing MCU transcripts via knockdown, or enhancing them through overexpression, produce parallel changes in IMiCa. Second, we show that a central feature of IMiCa—its exquisite sensitivity to blockade with ruthenium red—can be abolished via a single point mutation in the pore domain. MCU subunits carrying this mutation act in a dominant-negative fashion, producing functional channels that conduct Ca2+ ions but are largely insensitive to ruthenium red. We conclude that the functional uniporter pore at the mitochondrial inner membrane is formed by MCU multimers. We believe these experiments put to rest the outstanding question of the pore identity, firmly establishing that MCU produces IMiCa."
+    },
+    "annotation_206": {
+      "type": "emphasis",
+      "id": "annotation_206",
+      "path": [
+        "paragraph_205",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        215,
+        218
+      ]
+    },
+    "annotation_207": {
+      "type": "emphasis",
+      "id": "annotation_207",
+      "path": [
+        "paragraph_205",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        316,
+        317
+      ]
+    },
+    "annotation_208": {
+      "type": "emphasis",
+      "id": "annotation_208",
+      "path": [
+        "paragraph_205",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        317,
+        321
+      ]
+    },
+    "annotation_209": {
+      "type": "subscript",
+      "id": "annotation_209",
+      "path": [
+        "paragraph_205",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        317,
+        321
+      ]
+    },
+    "annotation_210": {
+      "type": "emphasis",
+      "id": "annotation_210",
+      "path": [
+        "paragraph_205",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        365,
+        366
+      ]
+    },
+    "annotation_211": {
+      "type": "emphasis",
+      "id": "annotation_211",
+      "path": [
+        "paragraph_205",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        366,
+        370
+      ]
+    },
+    "annotation_212": {
+      "type": "subscript",
+      "id": "annotation_212",
+      "path": [
+        "paragraph_205",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        366,
+        370
+      ]
+    },
+    "annotation_213": {
+      "type": "superscript",
+      "id": "annotation_213",
+      "path": [
+        "paragraph_205",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        610,
+        612
+      ]
+    },
+    "annotation_214": {
+      "type": "emphasis",
+      "id": "annotation_214",
+      "path": [
+        "paragraph_205",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        888,
+        891
+      ]
+    },
+    "annotation_215": {
+      "type": "emphasis",
+      "id": "annotation_215",
+      "path": [
+        "paragraph_205",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        901,
+        902
+      ]
+    },
+    "annotation_216": {
+      "type": "emphasis",
+      "id": "annotation_216",
+      "path": [
+        "paragraph_205",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        902,
+        906
+      ]
+    },
+    "annotation_217": {
+      "type": "subscript",
+      "id": "annotation_217",
+      "path": [
+        "paragraph_205",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        902,
+        906
+      ]
+    },
+    "heading_s4": {
+      "type": "heading",
+      "id": "heading_s4",
+      "level": 1,
+      "content": "Materials and methods",
+      "nodes": []
+    },
+    "heading_s4-1": {
+      "type": "heading",
+      "id": "heading_s4-1",
+      "level": 2,
+      "content": "Cell culture",
+      "nodes": []
+    },
+    "paragraph_218": {
+      "type": "paragraph",
+      "id": "paragraph_218",
+      "content": "HEK-293T were obtained from ATCC and grown in Dulbecco’s modified Eagle medium with high glucose supplemented with 10% fetal bovine serum and penicillin/streptomycin (Life Technologies, Grand Island, NY). HEK-293T cells (250,000 cells per well) were infected with lentivirus expressing short hairpin RNA (for knockdown experiments) or wild-type or mutant FLAG-tagged MCU. 2 days after infection, cells were split and selected with the appropriate antibiotic. Stable HEK-293T cells lines expressing shGFP and shMCU were maintained in 2 μg/ml puromycin (Sigma, St. Louis, MO), while MCU-FLAG and S259A lines were maintained in 200 μg/ml hygromycin B (Sigma)."
+    },
+    "annotation_219": {
+      "type": "emphasis",
+      "id": "annotation_219",
+      "path": [
+        "paragraph_218",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        367,
+        370
+      ]
+    },
+    "heading_s4-2": {
+      "type": "heading",
+      "id": "heading_s4-2",
+      "level": 2,
+      "content": "Plasmids",
+      "nodes": []
+    },
+    "paragraph_220": {
+      "type": "paragraph",
+      "id": "paragraph_220",
+      "content": "Vectors for expressing shRNA (pLKO.1) were obtained from the Broad Institute’s RNAi Consortium (Sigma). To silence MCU, we used a hairpin targeting the 3′ UTR, with sequence 5′-GCAAGGAGTTTCTTTCTCTTT-3′ (TRCN0000133861). The control hairpin was against GFP, with sequence 5′-ACAACAGCCACAACGTCTATA-3′ (shGFP) (TRCN0000072181). The FLAG-tagged full-length human MCU cDNA (NM_138357.1) was cloned into the pLJM5 vector (Sancak et al., 2010). The MCU mutant S259A was generated with QuikChange according to the manufacturer’s instructions (Agilent, Santa Clara, CA). Human Mitofusin-1 (NM_033540) was cloned out of HEK-293T cell cDNA (see Quantitative polymerase chain reaction section, below) and ligated in-frame into the pEGFP-N3 vector (Clontech, Mountain View, CA) using KpnI and BamHI restriction sites. Matrix-targeted mCherry was engineered by replacing the GFP construct of the pAcGFP1-Mito plasmid (Clontech), using BamHI and NotI restriction sites."
+    },
+    "annotation_221": {
+      "type": "emphasis",
+      "id": "annotation_221",
+      "path": [
+        "paragraph_220",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        115,
+        118
+      ]
+    },
+    "annotation_222": {
+      "type": "emphasis",
+      "id": "annotation_222",
+      "path": [
+        "paragraph_220",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        359,
+        362
+      ]
+    },
+    "citation_reference_223": {
+      "type": "citation_reference",
+      "id": "citation_reference_223",
+      "path": [
+        "paragraph_220",
+        "content"
+      ],
+      "target": "article_citation_bib12",
+      "range": [
+        416,
+        435
+      ]
+    },
+    "annotation_224": {
+      "type": "emphasis",
+      "id": "annotation_224",
+      "path": [
+        "paragraph_220",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        442,
+        445
+      ]
+    },
+    "heading_s4-3": {
+      "type": "heading",
+      "id": "heading_s4-3",
+      "level": 2,
+      "content": "Quantitative polymerase chain reaction",
+      "nodes": []
+    },
+    "paragraph_225": {
+      "type": "paragraph",
+      "id": "paragraph_225",
+      "content": "Primers against human MCU were designed using PRIMER-Blast (NCBI). The forward primer was 5′-TTCCTGGGACATCATGGAGC-3′, and the reverse primer was 5′-TGTCTGTCTCTGGCTTCTGG-3′. For qPCR, confluent HEK-293T cells were resuspended in TriZOL reagent (Life Technologies), and total RNA was subsequently purified following the manufacturer’s instructions. 2 μg of RNA was used to synthesize cDNA using SuperScript ViLo (Life Technologies) and 100 ng of this was used per well for qPCR. Reactions were run in triplicate using SYBR Green (Agilent) on an Eppendorf Mastercycler epgradient S Realplex4 qRT-PCR cycler (Eppendorf, Hauppauge, NY). Analysis compared expression in shMCU cells to shGFP cells using the 2−ΔΔCt method, normalizing to glyceraldehyde 3-phosphate dehydrogenase expression."
+    },
+    "annotation_226": {
+      "type": "emphasis",
+      "id": "annotation_226",
+      "path": [
+        "paragraph_225",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        22,
+        25
+      ]
+    },
+    "annotation_227": {
+      "type": "superscript",
+      "id": "annotation_227",
+      "path": [
+        "paragraph_225",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        702,
+        707
+      ]
+    },
+    "annotation_228": {
+      "type": "emphasis",
+      "id": "annotation_228",
+      "path": [
+        "paragraph_225",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        731,
+        771
+      ]
+    },
+    "heading_s4-4": {
+      "type": "heading",
+      "id": "heading_s4-4",
+      "level": 2,
+      "content": "Western blots",
+      "nodes": []
+    },
+    "paragraph_229": {
+      "type": "paragraph",
+      "id": "paragraph_229",
+      "content": "10 μg of protein from cell lysates or 5 μg of protein from crude mitochondrial preparations were loaded on 12% or 18% Tris-Glycine gels, proteins were transferred to PVDF membranes and then incubated with the indicated antibodies at 4°C overnight. We used antibodies against TOMM20 (sc-17764; Santa Cruz Biotechnology, Dallas, TX), TIMM23 (No. 611222; BD Biosciences, San Jose, CA), PPIF (ab110324; Abcam, Cambridge, MA), ATP5B (ab14730; Abcam), FLAG epitope (No. 2368; Cell Signaling Technology, Danvers, MA), and MCU (polyclonal chicken antibody raised against residues 41–351 of human MCU tagged with a 6His epitope; Covance, Dedham, MA)."
+    },
+    "heading_s4-5": {
+      "type": "heading",
+      "id": "heading_s4-5",
+      "level": 2,
+      "content": "Proteinase K protection assay",
+      "nodes": []
+    },
+    "paragraph_230": {
+      "type": "paragraph",
+      "id": "paragraph_230",
+      "content": "Two confluent plates of HEK-293T cells were washed with PBS and the cells scraped into 1.5-ml microcentrifuge tubes in 1 ml of final volume. The cells were lysed by passaging through a 27.5 G needle several times. Samples were spun at 800g for 10 min at 4°C to pellet nuclei and non-lysed cells. The supernatant was removed and spun separately at 8000g for 10 min at 4°C to pellet the mitochondrial fraction. Mitochondria were resuspended in a sucrose buffer (200 mM sucrose, 10 mM Tris-MOPS, 1 mM EGTA-Tris) to a final concentration of 1 mg/ml. 20 μg of mitochondria were treated with digitonin (0.01–0.4%, Sigma) or 1% Triton-X100 (Sigma) and 100 μg/ml of proteinase K for 15 min at room temperature, in a 30 μl final volume. Proteinase K was then inhibited by addition of 5 mM PMSF. 5 μg of protein was loaded to Tris-glycine gels for Western blotting."
+    },
+    "annotation_231": {
+      "type": "emphasis",
+      "id": "annotation_231",
+      "path": [
+        "paragraph_230",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        238,
+        239
+      ]
+    },
+    "annotation_232": {
+      "type": "emphasis",
+      "id": "annotation_232",
+      "path": [
+        "paragraph_230",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        351,
+        352
+      ]
+    },
+    "heading_s4-6": {
+      "type": "heading",
+      "id": "heading_s4-6",
+      "level": 2,
+      "content": "Imaging",
+      "nodes": []
+    },
+    "paragraph_233": {
+      "type": "paragraph",
+      "id": "paragraph_233",
+      "content": "Stably-transfected HEK-293T cells were washed in PBS, which was used as the base solution in all following steps. Cell were fixed in 4% formaldehyde, permeabilized in 0.5% Triton-X100, and blocked in 10% goat serum, 0.1% Tween-20 (Biorad, Hercules, CA). Primary antibodies were a rabbit anti-FLAG and a mouse anti-MTCO1 (a mitochondrial marker, ab14705; Abcam). Secondary antibodies were Alexa-488 conjugated to a goat anti-rabbit, and Alexa-546 conjugated to goat anti-mouse (Life Technologies). Cells were imaged on an Olympus Fluoview 1000 confocal microscope (Center Valley, PA)."
+    },
+    "paragraph_234": {
+      "type": "paragraph",
+      "id": "paragraph_234",
+      "content": "For mitoplast images, HEK-293T cells were co-transfected with mt-mCherry and MFN1-GFP plasmids using Lipofectamine 2000 reagent (Life Technologies) according to the manufacturer’s instructions. Mitoplasts were isolated (as described in ‘Whole-mitoplast recording’) 2 days following transfection, and imaged on the confocal microscope as above."
+    },
+    "paragraph_235": {
+      "type": "paragraph",
+      "id": "paragraph_235",
+      "content": "Brightness levels have been slightly adjusted in the images to improve contrast. This adjustment has been applied to each image as a whole and has not obscured or eliminated any particular feature of the image. All reagents were from Sigma unless otherwise stated."
+    },
+    "heading_s4-7": {
+      "type": "heading",
+      "id": "heading_s4-7",
+      "level": 2,
+      "content": "Whole-mitoplast recording",
+      "nodes": []
+    },
+    "paragraph_236": {
+      "type": "paragraph",
+      "id": "paragraph_236",
+      "content": "We adapted prior methods to HEK-293T cells (Fedorenko et al., 2012; Fieni et al., 2012). Cells were grown to confluency on three 15-cm dishes. All subsequent manipulations were done using ice-cold solutions and equipment. Cells were scraped onto divalent-free PBS and spun down to pellet cells. The cell pellet was subsequently resuspended in a sucrose solution (250 mM sucrose, 5 mM HEPES, 1 mM EGTA, 0.1% BSA). The suspension was homogenized using an overhead stirrer. Centrifugation at 700g pelleted nuclei. The supernatant was transferred to a new tube and centrifuged at 8500g to pellet a crude mitochondrial fraction. This pellet was resuspended in a hypertonic mannitol solution (440 mM mannitol, 140 mM sucrose, 5 mM HEPES, 1 mM EGTA) for 10 min. The suspension was then passed through a French Pressure Cell homogenizer (Thermo Scientific, Waltham, MA) at 2000 p.s.i. to disrupt the mitochondrial outer membrane. The eluate was centrifuged at 10,500g to pellet mitoplasts. Mitoplasts were stored in a hypertonic solution (750 mM KCl, 100 mM HEPES, 1 mM EGTA) on ice and protected from light."
+    },
+    "citation_reference_237": {
+      "type": "citation_reference",
+      "id": "citation_reference_237",
+      "path": [
+        "paragraph_236",
+        "content"
+      ],
+      "target": "article_citation_bib7",
+      "range": [
+        44,
+        66
+      ]
+    },
+    "citation_reference_238": {
+      "type": "citation_reference",
+      "id": "citation_reference_238",
+      "path": [
+        "paragraph_236",
+        "content"
+      ],
+      "target": "article_citation_bib8",
+      "range": [
+        68,
+        86
+      ]
+    },
+    "annotation_239": {
+      "type": "emphasis",
+      "id": "annotation_239",
+      "path": [
+        "paragraph_236",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        492,
+        493
+      ]
+    },
+    "annotation_240": {
+      "type": "emphasis",
+      "id": "annotation_240",
+      "path": [
+        "paragraph_236",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        580,
+        581
+      ]
+    },
+    "annotation_241": {
+      "type": "emphasis",
+      "id": "annotation_241",
+      "path": [
+        "paragraph_236",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        958,
+        959
+      ]
+    },
+    "paragraph_242": {
+      "type": "paragraph",
+      "id": "paragraph_242",
+      "content": "For recordings, mitoplasts were aliquoted into the initial bath solution (150 mM KCl, 10 mM HEPES, 1 mM EGTA) to allow them to expand for 20 min. An individual mitoplast was visualized and attached to the pipette tip with gentle suction. Pipettes were formed from borosilicate glass (Sutter, Novato, CA) with tip resistances of 20–60 MOhm. We used sodium gluconate for pipette internal solutions (150 mM sodium gluconate, 10 mM HEPES, 2 mM EDTA, with sucrose to achieve an osmolarity of 410–430 mOsmol). Electrophysiology was performed using an Axopatch 200B amplifier (Molecular Devices, Sunnyvale, CA). Upon giga-ohm seal formation, pipette capacitance transients were cancelled, and the inner membrane was ruptured by 10–50 ms pulses (350–1000 mV). After establishing the whole-mitoplast configuration, a series of 4 ms pulses of 20 mV were recorded to allow curve fitting for capacitance measurements. Bath solutions were subsequently exchanged for a high-Ca2+ solution (100 mM calcium gluconate, 20 mM HEPES, 2 mM CaCl2, with sucrose to achieve osmolarity of 295–305 mOsms) and high-Ca2+ +100 nM RuR solution (Sigma). RuR solutions were prepared fresh for every experiment. Solution exchanges were rapid, as prolonged matrix exposures to Ca2+ caused activation of a significant leak component. Comparisons were made via the Student’s t-test."
+    },
+    "annotation_243": {
+      "type": "superscript",
+      "id": "annotation_243",
+      "path": [
+        "paragraph_242",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        962,
+        964
+      ]
+    },
+    "annotation_244": {
+      "type": "subscript",
+      "id": "annotation_244",
+      "path": [
+        "paragraph_242",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1023,
+        1024
+      ]
+    },
+    "annotation_245": {
+      "type": "superscript",
+      "id": "annotation_245",
+      "path": [
+        "paragraph_242",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1090,
+        1092
+      ]
+    },
+    "annotation_246": {
+      "type": "superscript",
+      "id": "annotation_246",
+      "path": [
+        "paragraph_242",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1245,
+        1247
+      ]
+    },
+    "annotation_247": {
+      "type": "emphasis",
+      "id": "annotation_247",
+      "path": [
+        "paragraph_242",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1339,
+        1341
+      ]
+    },
+    "info:ack": {
+      "type": "heading",
+      "id": "info:ack",
+      "level": 2,
+      "content": "Acknowledgements",
+      "nodes": [
+        "paragraph_ack"
+      ]
+    },
+    "paragraph_ack": {
+      "type": "paragraph",
+      "id": "paragraph_ack",
+      "content": "AcknowledgementsWe would like to thank Francesca Fieni, Andriy Fedorenko, and Yuriy Kirichok for assistance with the whole-mitoplast protocol, and Andrew Markhard for technical assistance.Additional information"
+    },
+    "info:competing-interest": {
+      "type": "heading",
+      "id": "info:competing-interest",
+      "level": 2,
+      "content": "Competing Interests",
+      "nodes": [
+        "paragraph_248"
+      ]
+    },
+    "paragraph_248": {
+      "type": "paragraph",
+      "id": "paragraph_248",
+      "content": "Competing interestsThe authors declare that no competing interests exist."
+    },
+    "info:author_contribution": {
+      "type": "heading",
+      "id": "info:author_contribution",
+      "level": 2,
+      "content": "Authors",
+      "nodes": [
+        "person_author_4181",
+        "person_author_4418",
+        "person_author_4419",
+        "person_author_2150"
+      ]
+    },
+    "article_citation_bib1": {
+      "type": "article_citation",
+      "id": "article_citation_bib1",
+      "authors": [
+        {
+          "given-names": "A",
+          "last-name": "Accardi"
+        },
+        {
+          "given-names": "L",
+          "last-name": "Kolmakova-Partensky"
+        },
+        {
+          "given-names": "C",
+          "last-name": "Williams"
+        },
+        {
+          "given-names": "C",
+          "last-name": "Miller"
+        }
+      ],
+      "title": "Ionic currents mediated by a prokaryotic homologue of CLC Cl− channels",
+      "year": "2004",
+      "volume": "123",
+      "source": "J Gen Physiol",
+      "issue": "",
+      "fpage": "109",
+      "lpage": "19",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1085/jgp.200308935",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "annotation_249": {
+      "type": "superscript",
+      "id": "annotation_249",
+      "path": [
+        "article_citation_bib1",
+        "title"
+      ],
+      "target": null,
+      "range": [
+        60,
+        61
+      ]
+    },
+    "article_citation_bib2": {
+      "type": "article_citation",
+      "id": "article_citation_bib2",
+      "authors": [
+        {
+          "given-names": "RS",
+          "last-name": "Balaban"
+        }
+      ],
+      "title": "The role of Ca(2+) signaling in the coordination of mitochondrial ATP production with cardiac work",
+      "year": "2009",
+      "volume": "1787",
+      "source": "Biochim Biophys Acta",
+      "issue": "",
+      "fpage": "1334",
+      "lpage": "41",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/j.bbabio.2009.05.011",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib3": {
+      "type": "article_citation",
+      "id": "article_citation_bib3",
+      "authors": [
+        {
+          "given-names": "JM",
+          "last-name": "Baughman"
+        },
+        {
+          "given-names": "F",
+          "last-name": "Perocchi"
+        },
+        {
+          "given-names": "HS",
+          "last-name": "Girgis"
+        },
+        {
+          "given-names": "M",
+          "last-name": "Plovanich"
+        },
+        {
+          "given-names": "CA",
+          "last-name": "Belcher-Timme"
+        },
+        {
+          "given-names": "Y",
+          "last-name": "Sancak"
+        }
+      ],
+      "title": "Integrative genomics identifies MCU as an essential component of the mitochondrial calcium uniporter",
+      "year": "2011",
+      "volume": "476",
+      "source": "Nature",
+      "issue": "",
+      "fpage": "341",
+      "lpage": "5",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1038/nature10234",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib4": {
+      "type": "article_citation",
+      "id": "article_citation_bib4",
+      "authors": [
+        {
+          "given-names": "AG",
+          "last-name": "Bick"
+        },
+        {
+          "given-names": "SE",
+          "last-name": "Calvo"
+        },
+        {
+          "given-names": "VK",
+          "last-name": "Mootha"
+        }
+      ],
+      "title": "Evolutionary diversity of the mitochondrial calcium uniporter",
+      "year": "2012",
+      "volume": "336",
+      "source": "Science",
+      "issue": "",
+      "fpage": "886",
+      "lpage": "",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1126/science.1214977",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib5": {
+      "type": "article_citation",
+      "id": "article_citation_bib5",
+      "authors": [
+        {
+          "given-names": "D",
+          "last-name": "De Stefani"
+        },
+        {
+          "given-names": "A",
+          "last-name": "Raffaello"
+        },
+        {
+          "given-names": "E",
+          "last-name": "Teardo"
+        },
+        {
+          "given-names": "I",
+          "last-name": "Szabo"
+        },
+        {
+          "given-names": "R",
+          "last-name": "Rizzuto"
+        }
+      ],
+      "title": "A forty-kilodalton protein of the inner membrane is the mitochondrial calcium uniporter",
+      "year": "2011",
+      "volume": "476",
+      "source": "Nature",
+      "issue": "",
+      "fpage": "336",
+      "lpage": "40",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1038/nature10230",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib6": {
+      "type": "article_citation",
+      "id": "article_citation_bib6",
+      "authors": [
+        {
+          "given-names": "HF",
+          "last-name": "Deluca"
+        },
+        {
+          "given-names": "GW",
+          "last-name": "Engstrom"
+        }
+      ],
+      "title": "Calcium uptake by rat kidney mitochondria",
+      "year": "1961",
+      "volume": "47",
+      "source": "Proc Natl Acad Sci USA",
+      "issue": "",
+      "fpage": "1744",
+      "lpage": "50",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1073/pnas.47.11.1744",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib7": {
+      "type": "article_citation",
+      "id": "article_citation_bib7",
+      "authors": [
+        {
+          "given-names": "A",
+          "last-name": "Fedorenko"
+        },
+        {
+          "given-names": "PV",
+          "last-name": "Lishko"
+        },
+        {
+          "given-names": "Y",
+          "last-name": "Kirichok"
+        }
+      ],
+      "title": "Mechanism of fatty-acid-dependent UCP1 uncoupling in brown fat mitochondria",
+      "year": "2012",
+      "volume": "151",
+      "source": "Cell",
+      "issue": "",
+      "fpage": "400",
+      "lpage": "13",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/j.cell.2012.09.010",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib8": {
+      "type": "article_citation",
+      "id": "article_citation_bib8",
+      "authors": [
+        {
+          "given-names": "F",
+          "last-name": "Fieni"
+        },
+        {
+          "given-names": "S",
+          "last-name": "Bae Lee"
+        },
+        {
+          "given-names": "YN",
+          "last-name": "Jan"
+        },
+        {
+          "given-names": "Y",
+          "last-name": "Kirichok"
+        }
+      ],
+      "title": "Activity of the mitochondrial calcium uniporter varies greatly between tissues",
+      "year": "2012",
+      "volume": "3",
+      "source": "Nat Commun",
+      "issue": "",
+      "fpage": "1317",
+      "lpage": "",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1038/ncomms2325",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib9": {
+      "type": "article_citation",
+      "id": "article_citation_bib9",
+      "authors": [
+        {
+          "given-names": "Y",
+          "last-name": "Kirichok"
+        },
+        {
+          "given-names": "G",
+          "last-name": "Krapivinsky"
+        },
+        {
+          "given-names": "DE",
+          "last-name": "Clapham"
+        }
+      ],
+      "title": "The mitochondrial calcium uniporter is a highly selective ion channel",
+      "year": "2004",
+      "volume": "427",
+      "source": "Nature",
+      "issue": "",
+      "fpage": "360",
+      "lpage": "4",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1038/nature02246",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib10": {
+      "type": "article_citation",
+      "id": "article_citation_bib10",
+      "authors": [
+        {
+          "given-names": "K",
+          "last-name": "Mallilankaraman"
+        },
+        {
+          "given-names": "C",
+          "last-name": "Cardenas"
+        },
+        {
+          "given-names": "PJ",
+          "last-name": "Doonan"
+        },
+        {
+          "given-names": "HC",
+          "last-name": "Chandramoorthy"
+        },
+        {
+          "given-names": "KM",
+          "last-name": "Irrinki"
+        },
+        {
+          "given-names": "T",
+          "last-name": "Golenar"
+        }
+      ],
+      "title": "MCUR1 is an essential component of mitochondrial Ca(2+) uptake that regulates cellular metabolism",
+      "year": "2012",
+      "volume": "14",
+      "source": "Nat Cell Biol",
+      "issue": "",
+      "fpage": "1336",
+      "lpage": "43",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1038/ncb2669",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib11": {
+      "type": "article_citation",
+      "id": "article_citation_bib11",
+      "authors": [
+        {
+          "given-names": "F",
+          "last-name": "Perocchi"
+        },
+        {
+          "given-names": "VM",
+          "last-name": "Gohil"
+        },
+        {
+          "given-names": "HS",
+          "last-name": "Girgis"
+        },
+        {
+          "given-names": "XR",
+          "last-name": "Bao"
+        },
+        {
+          "given-names": "JE",
+          "last-name": "McCombs"
+        },
+        {
+          "given-names": "AE",
+          "last-name": "Palmer"
+        }
+      ],
+      "title": "MICU1 encodes a mitochondrial EF hand protein required for Ca(2+) uptake",
+      "year": "2010",
+      "volume": "467",
+      "source": "Nature",
+      "issue": "",
+      "fpage": "291",
+      "lpage": "6",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1038/nature09358",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib12": {
+      "type": "article_citation",
+      "id": "article_citation_bib12",
+      "authors": [
+        {
+          "given-names": "Y",
+          "last-name": "Sancak"
+        },
+        {
+          "given-names": "L",
+          "last-name": "Bar-Peled"
+        },
+        {
+          "given-names": "R",
+          "last-name": "Zoncu"
+        },
+        {
+          "given-names": "AL",
+          "last-name": "Markhard"
+        },
+        {
+          "given-names": "S",
+          "last-name": "Nada"
+        },
+        {
+          "given-names": "DM",
+          "last-name": "Sabatini"
+        }
+      ],
+      "title": "Ragulator-Rag complex targets mTORC1 to the lysosomal surface and is necessary for its activation by amino acids",
+      "year": "2010",
+      "volume": "141",
+      "source": "Cell",
+      "issue": "",
+      "fpage": "290",
+      "lpage": "303",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/j.cell.2010.02.024",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib13": {
+      "type": "article_citation",
+      "id": "article_citation_bib13",
+      "authors": [
+        {
+          "given-names": "DG",
+          "last-name": "Wheeler"
+        },
+        {
+          "given-names": "RD",
+          "last-name": "Groth"
+        },
+        {
+          "given-names": "H",
+          "last-name": "Ma"
+        },
+        {
+          "given-names": "CF",
+          "last-name": "Barrett"
+        },
+        {
+          "given-names": "SF",
+          "last-name": "Owen"
+        },
+        {
+          "given-names": "P",
+          "last-name": "Safa"
+        }
+      ],
+      "title": "Ca(V)1 and Ca(V)2 channels engage distinct modes of Ca(2+) signaling to control CREB-dependent gene expression",
+      "year": "2012",
+      "volume": "149",
+      "source": "Cell",
+      "issue": "",
+      "fpage": "1112",
+      "lpage": "24",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/j.cell.2012.03.041",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib14": {
+      "type": "article_citation",
+      "id": "article_citation_bib14",
+      "authors": [
+        {
+          "given-names": "M",
+          "last-name": "Zoratti"
+        },
+        {
+          "given-names": "I",
+          "last-name": "Szabo"
+        }
+      ],
+      "title": "The mitochondrial permeability transition",
+      "year": "1995",
+      "volume": "1241",
+      "source": "Biochim Biophys Acta",
+      "issue": "",
+      "fpage": "139",
+      "lpage": "76",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/0304-4157(95)00003-A",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "sub-article": {
+      "type": "heading",
+      "id": "sub-article",
+      "level": 1,
+      "content": "Article Commentary",
+      "nodes": []
+    }
+  }
+}

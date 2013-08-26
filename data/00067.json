@@ -63,6 +63,7 @@
         "paragraph_354",
         "formula_eqn4",
         "paragraph_357",
+        "sub-article",
         "sub-article"
       ]
     },
@@ -90,7 +91,44 @@
     "citations": {
       "type": "view",
       "id": "citations",
-      "nodes": []
+      "nodes": [
+        "article_citation_bib1",
+        "article_citation_bib2",
+        "article_citation_bib3",
+        "article_citation_bib4",
+        "article_citation_bib5",
+        "article_citation_bib6",
+        "article_citation_bib7",
+        "article_citation_bib8",
+        "article_citation_bib9",
+        "article_citation_bib10",
+        "article_citation_bib11",
+        "article_citation_bib12",
+        "article_citation_bib13",
+        "article_citation_bib14",
+        "article_citation_bib15",
+        "article_citation_bib16",
+        "article_citation_bib17",
+        "article_citation_bib18",
+        "article_citation_bib19",
+        "article_citation_bib20",
+        "article_citation_bib21",
+        "article_citation_bib22",
+        "article_citation_bib23",
+        "article_citation_bib24",
+        "article_citation_bib25",
+        "article_citation_bib26",
+        "article_citation_bib27",
+        "article_citation_bib28",
+        "article_citation_bib29",
+        "article_citation_bib30",
+        "article_citation_bib31",
+        "article_citation_bib32",
+        "article_citation_bib33",
+        "article_citation_bib34",
+        "article_citation_bib35",
+        "article_citation_bib36"
+      ]
     },
     "document": {
       "type": "document",
@@ -4607,9 +4645,9 @@
       "id": "paragraph_324",
       "content": "DNA oligos used in our measurements were purchased from Integrated DNA Technologies (IDT, Coralville, IA). The oligos were suspended in T50 buffer (10 mM Tris-Cl, 50 mM NaCl, pH 8.0). The DNA sequences used in our measurements are specified in Supplementary file 1. Double strand DNA was prepared by mixing complementary DNA molecules and heating to 90°C followed by slow cooling to room temperature over a period of 2 hr. dsDNA was purified from free ssDNA using a 12% native PAGE gel to ensure the absence of free ssDNA in our dsDNA preparations. The partial duplex DNA molecules for immobilization were prepared by annealing with the biotin_DNA sequence. All DNA molecules were labeled at the terminal ends (5′ or 3′) with Cy3 or Cy5 (labeling performed by IDT) as specified in the experimental scheme. For internally labeled DNA oligos, Cy3 N-hydroxysuccinimido (NHS) ester and Cy5 NHS ester (GE Healthcare) were internally labeled to a dT of ssDNA modified via a C6 amino linker (IDT, Coralville, IA)."
     },
-    "cross_reference_325": {
-      "type": "cross_reference",
-      "id": "cross_reference_325",
+    "figure_reference_325": {
+      "type": "figure_reference",
+      "id": "figure_reference_325",
       "path": [
         "paragraph_324",
         "content"
@@ -5136,6 +5174,1413 @@
       "type": "paragraph",
       "id": "paragraph_supplement_SD1_data",
       "content": "DNA sequences used in measurements"
+    },
+    "article_citation_bib1": {
+      "type": "article_citation",
+      "id": "article_citation_bib1",
+      "authors": [
+        {
+          "given-names": "K",
+          "last-name": "Adzuma"
+        }
+      ],
+      "title": "No sliding during homology search by RecA protein",
+      "year": "1998",
+      "volume": "273",
+      "source": "J Biol Chem",
+      "issue": "",
+      "fpage": "31565",
+      "lpage": "73",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib2": {
+      "type": "article_citation",
+      "id": "article_citation_bib2",
+      "authors": [
+        {
+          "given-names": "A",
+          "last-name": "Barzel"
+        },
+        {
+          "given-names": "M",
+          "last-name": "Kupiec"
+        }
+      ],
+      "title": "Finding a match: how do homologous sequences get together for recombination?",
+      "year": "2008",
+      "volume": "9",
+      "source": "Nat Rev Genet",
+      "issue": "",
+      "fpage": "27",
+      "lpage": "37",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1038/nrg2224",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib3": {
+      "type": "article_citation",
+      "id": "article_citation_bib3",
+      "authors": [
+        {
+          "given-names": "M",
+          "last-name": "Bianchi"
+        },
+        {
+          "given-names": "B",
+          "last-name": "Riboli"
+        },
+        {
+          "given-names": "G",
+          "last-name": "Magni"
+        }
+      ],
+      "title": "E. coli recA protein possesses a strand separating activity on short duplex DNAs",
+      "year": "1985",
+      "volume": "4",
+      "source": "EMBO J",
+      "issue": "",
+      "fpage": "3025",
+      "lpage": "30",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "annotation_363": {
+      "type": "emphasis",
+      "id": "annotation_363",
+      "path": [
+        "article_citation_bib3",
+        "title"
+      ],
+      "target": null,
+      "range": [
+        0,
+        7
+      ]
+    },
+    "article_citation_bib4": {
+      "type": "article_citation",
+      "id": "article_citation_bib4",
+      "authors": [
+        {
+          "given-names": "PR",
+          "last-name": "Bianco"
+        },
+        {
+          "given-names": "RB",
+          "last-name": "Tracy"
+        },
+        {
+          "given-names": "SC",
+          "last-name": "Kowalczykowski"
+        }
+      ],
+      "title": "DNA strand exchange proteins: a biochemical and physical comparison",
+      "year": "1998",
+      "volume": "3",
+      "source": "Front Biosci",
+      "issue": "",
+      "fpage": "570",
+      "lpage": "603",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib5": {
+      "type": "article_citation",
+      "id": "article_citation_bib5",
+      "authors": [
+        {
+          "given-names": "PC",
+          "last-name": "Blainey"
+        },
+        {
+          "given-names": "AM",
+          "last-name": "van Oijen"
+        },
+        {
+          "given-names": "A",
+          "last-name": "Banerjee"
+        },
+        {
+          "given-names": "GL",
+          "last-name": "Verdine"
+        },
+        {
+          "given-names": "XS",
+          "last-name": "Xie"
+        }
+      ],
+      "title": "A base-excision DNA-repair protein finds intrahelical lesion bases by fast sliding in contact with DNA",
+      "year": "2006",
+      "volume": "103",
+      "source": "Proc Natl Acad Sci USA",
+      "issue": "",
+      "fpage": "5752",
+      "lpage": "57",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1073/pnas.0509723103",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib6": {
+      "type": "article_citation",
+      "id": "article_citation_bib6",
+      "authors": [
+        {
+          "given-names": "I",
+          "last-name": "Bonnet"
+        },
+        {
+          "given-names": "A",
+          "last-name": "Biebricher"
+        },
+        {
+          "given-names": "PL",
+          "last-name": "Porte"
+        },
+        {
+          "given-names": "C",
+          "last-name": "Loverdo"
+        },
+        {
+          "given-names": "O",
+          "last-name": "Benichou"
+        },
+        {
+          "given-names": "R",
+          "last-name": "Voituriez"
+        }
+      ],
+      "title": "Sliding and jumping of single EcoRV restriction enzymes on non-cognate DNA",
+      "year": "2008",
+      "volume": "36",
+      "source": "Nucleic Acids Res",
+      "issue": "",
+      "fpage": "4118",
+      "lpage": "27",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1093/nar/gkn376",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib7": {
+      "type": "article_citation",
+      "id": "article_citation_bib7",
+      "authors": [
+        {
+          "given-names": "AB",
+          "last-name": "Conway"
+        },
+        {
+          "given-names": "TW",
+          "last-name": "Lynch"
+        },
+        {
+          "given-names": "Y",
+          "last-name": "Zhang"
+        },
+        {
+          "given-names": "GS",
+          "last-name": "Fortin"
+        },
+        {
+          "given-names": "CW",
+          "last-name": "Fung"
+        },
+        {
+          "given-names": "LS",
+          "last-name": "Symington"
+        }
+      ],
+      "title": "Crystal structure of a Rad51 filament",
+      "year": "2004",
+      "volume": "11",
+      "source": "Nat Struct Mol Biol",
+      "issue": "",
+      "fpage": "791",
+      "lpage": "6",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1038/nsmb795",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib8": {
+      "type": "article_citation",
+      "id": "article_citation_bib8",
+      "authors": [
+        {
+          "given-names": "MM",
+          "last-name": "Cox"
+        },
+        {
+          "given-names": "IR",
+          "last-name": "Lehman"
+        }
+      ],
+      "title": "recA protein of Escherichia coli promotes branch migration, a kinetically distinct phase of DNA strand exchange",
+      "year": "1981",
+      "volume": "78",
+      "source": "Proc Natl Acad Sci USA",
+      "issue": "",
+      "fpage": "3433",
+      "lpage": "7",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "annotation_364": {
+      "type": "emphasis",
+      "id": "annotation_364",
+      "path": [
+        "article_citation_bib8",
+        "title"
+      ],
+      "target": null,
+      "range": [
+        16,
+        32
+      ]
+    },
+    "article_citation_bib9": {
+      "type": "article_citation",
+      "id": "article_citation_bib9",
+      "authors": [
+        {
+          "given-names": "MM",
+          "last-name": "Cox"
+        },
+        {
+          "given-names": "MF",
+          "last-name": "Goodman"
+        },
+        {
+          "given-names": "KN",
+          "last-name": "Kreuzer"
+        },
+        {
+          "given-names": "DJ",
+          "last-name": "Sherratt"
+        },
+        {
+          "given-names": "SJ",
+          "last-name": "Sandler"
+        },
+        {
+          "given-names": "KJ",
+          "last-name": "Marians"
+        }
+      ],
+      "title": "The importance of repairing stalled replication forks",
+      "year": "2000",
+      "volume": "404",
+      "source": "Nature",
+      "issue": "",
+      "fpage": "37",
+      "lpage": "41",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1038/35003501",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib10": {
+      "type": "article_citation",
+      "id": "article_citation_bib10",
+      "authors": [
+        {
+          "given-names": "C",
+          "last-name": "Danilowicz"
+        },
+        {
+          "given-names": "E",
+          "last-name": "Feinstein"
+        },
+        {
+          "given-names": "A",
+          "last-name": "Conover"
+        },
+        {
+          "given-names": "VW",
+          "last-name": "Coljee"
+        },
+        {
+          "given-names": "J",
+          "last-name": "Vlassakis"
+        },
+        {
+          "given-names": "YL",
+          "last-name": "Chan"
+        }
+      ],
+      "title": "RecA homology search is promoted by mechanical stress along the scanned duplex DNA",
+      "year": "2012",
+      "volume": "40",
+      "source": "Nucleic Acids Res",
+      "issue": "",
+      "fpage": "1717",
+      "lpage": "27",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1093/nar/gkr855",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib11": {
+      "type": "article_citation",
+      "id": "article_citation_bib11",
+      "authors": [
+        {
+          "given-names": "I",
+          "last-name": "De Vlaminck"
+        },
+        {
+          "given-names": "MT",
+          "last-name": "van Loenhout"
+        },
+        {
+          "given-names": "L",
+          "last-name": "Zweifel"
+        },
+        {
+          "given-names": "J",
+          "last-name": "den Blanken"
+        },
+        {
+          "given-names": "K",
+          "last-name": "Hooning"
+        },
+        {
+          "given-names": "S",
+          "last-name": "Hage"
+        }
+      ],
+      "title": "Mechanism of homology recognition in DNA recombination from dual-molecule experiments",
+      "year": "2012",
+      "volume": "46",
+      "source": "Mol Cell",
+      "issue": "",
+      "fpage": "616",
+      "lpage": "24",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/j.molcel.2012.03.029",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib12": {
+      "type": "article_citation",
+      "id": "article_citation_bib12",
+      "authors": [
+        {
+          "given-names": "E",
+          "last-name": "Di Capua"
+        },
+        {
+          "given-names": "A",
+          "last-name": "Engel"
+        },
+        {
+          "given-names": "A",
+          "last-name": "Stasiak"
+        },
+        {
+          "given-names": "T",
+          "last-name": "Koller"
+        }
+      ],
+      "title": "Characterization of complexes between recA protein and duplex DNA by electron microscopy",
+      "year": "1982",
+      "volume": "157",
+      "source": "J Mol Biol",
+      "issue": "",
+      "fpage": "87",
+      "lpage": "103",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/0022-2836(82)90514-9",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib13": {
+      "type": "article_citation",
+      "id": "article_citation_bib13",
+      "authors": [
+        {
+          "given-names": "DF",
+          "last-name": "Dombroski"
+        },
+        {
+          "given-names": "DG",
+          "last-name": "Scraba"
+        },
+        {
+          "given-names": "RD",
+          "last-name": "Bradley"
+        },
+        {
+          "given-names": "AR",
+          "last-name": "Morgan"
+        }
+      ],
+      "title": "Studies of the interaction of RecA protein with DNA",
+      "year": "1983",
+      "volume": "11",
+      "source": "Nucleic Acids Res",
+      "issue": "",
+      "fpage": "7487",
+      "lpage": "504",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib14": {
+      "type": "article_citation",
+      "id": "article_citation_bib14",
+      "authors": [
+        {
+          "given-names": "K",
+          "last-name": "Dunn"
+        },
+        {
+          "given-names": "S",
+          "last-name": "Chrysogelos"
+        },
+        {
+          "given-names": "J",
+          "last-name": "Griffith"
+        }
+      ],
+      "title": "Electron microscopic visualization of recA-DNA filaments: evidence for a cyclic extension of duplex DNA",
+      "year": "1982",
+      "volume": "28",
+      "source": "Cell",
+      "issue": "",
+      "fpage": "757",
+      "lpage": "65",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/0092-8674(82)90055-1",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib15": {
+      "type": "article_citation",
+      "id": "article_citation_bib15",
+      "authors": [
+        {
+          "given-names": "AL",
+          "last-name": "Forget"
+        },
+        {
+          "given-names": "SC",
+          "last-name": "Kowalczykowski"
+        }
+      ],
+      "title": "Single-molecule imaging of DNA pairing by RecA reveals a three-dimensional homology search",
+      "year": "2012",
+      "volume": "482",
+      "source": "Nature",
+      "issue": "",
+      "fpage": "423",
+      "lpage": "7",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1038/nature10782",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib16": {
+      "type": "article_citation",
+      "id": "article_citation_bib16",
+      "authors": [
+        {
+          "given-names": "J",
+          "last-name": "Gorman"
+        },
+        {
+          "given-names": "EC",
+          "last-name": "Greene"
+        }
+      ],
+      "title": "Visualizing one-dimensional diffusion of proteins along DNA",
+      "year": "2008",
+      "volume": "15",
+      "source": "Nat Struct Mol Biol",
+      "issue": "",
+      "fpage": "768",
+      "lpage": "74",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1038/nsmb.1441",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib17": {
+      "type": "article_citation",
+      "id": "article_citation_bib17",
+      "authors": [
+        {
+          "given-names": "J",
+          "last-name": "Gorman"
+        },
+        {
+          "given-names": "A",
+          "last-name": "Chowdhury"
+        },
+        {
+          "given-names": "JA",
+          "last-name": "Surtees"
+        },
+        {
+          "given-names": "J",
+          "last-name": "Shimada"
+        },
+        {
+          "given-names": "DR",
+          "last-name": "Reichman"
+        },
+        {
+          "given-names": "E",
+          "last-name": "Alani"
+        }
+      ],
+      "title": "Dynamic basis for one-dimensional DNA scanning by the mismatch repair complex Msh2-Msh6",
+      "year": "2007",
+      "volume": "28",
+      "source": "Mol Cell",
+      "issue": "",
+      "fpage": "359",
+      "lpage": "70",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/j.molcel.2007.09.008",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib18": {
+      "type": "article_citation",
+      "id": "article_citation_bib18",
+      "authors": [
+        {
+          "given-names": "A",
+          "last-name": "Graneli"
+        },
+        {
+          "given-names": "CC",
+          "last-name": "Yeykal"
+        },
+        {
+          "given-names": "RB",
+          "last-name": "Robertson"
+        },
+        {
+          "given-names": "EC",
+          "last-name": "Greene"
+        }
+      ],
+      "title": "Long-distance lateral diffusion of human Rad51 on double-stranded DNA",
+      "year": "2006",
+      "volume": "103",
+      "source": "Proc Natl Acad Sci USA",
+      "issue": "",
+      "fpage": "1221",
+      "lpage": "6",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1073/pnas.0508366103",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib19": {
+      "type": "article_citation",
+      "id": "article_citation_bib19",
+      "authors": [
+        {
+          "given-names": "T",
+          "last-name": "Ha"
+        },
+        {
+          "given-names": "T",
+          "last-name": "Enderle"
+        },
+        {
+          "given-names": "DF",
+          "last-name": "Ogletree"
+        },
+        {
+          "given-names": "DS",
+          "last-name": "Chemla"
+        },
+        {
+          "given-names": "PR",
+          "last-name": "Selvin"
+        },
+        {
+          "given-names": "S",
+          "last-name": "Weiss"
+        }
+      ],
+      "title": "Probing the interaction between two single molecules: fluorescence resonance energy transfer between a single donor and a single acceptor",
+      "year": "1996",
+      "volume": "93",
+      "source": "Proc Natl Acad Sci USA",
+      "issue": "",
+      "fpage": "6264",
+      "lpage": "8",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib20": {
+      "type": "article_citation",
+      "id": "article_citation_bib20",
+      "authors": [
+        {
+          "given-names": "P",
+          "last-name": "Hammar"
+        },
+        {
+          "given-names": "P",
+          "last-name": "Leroy"
+        },
+        {
+          "given-names": "A",
+          "last-name": "Mahmutovic"
+        },
+        {
+          "given-names": "EG",
+          "last-name": "Marklund"
+        },
+        {
+          "given-names": "OG",
+          "last-name": "Berg"
+        },
+        {
+          "given-names": "J",
+          "last-name": "Elf"
+        }
+      ],
+      "title": "The lac repressor displays facilitated diffusion in living cells",
+      "year": "2012",
+      "volume": "336",
+      "source": "Science",
+      "issue": "",
+      "fpage": "1595",
+      "lpage": "8",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1126/science.1221648",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib21": {
+      "type": "article_citation",
+      "id": "article_citation_bib21",
+      "authors": [
+        {
+          "given-names": "M",
+          "last-name": "Hegner"
+        },
+        {
+          "given-names": "SB",
+          "last-name": "Smith"
+        },
+        {
+          "given-names": "C",
+          "last-name": "Bustamante"
+        }
+      ],
+      "title": "Polymerization and mechanical properties of single RecA-DNA filaments",
+      "year": "1999",
+      "volume": "96",
+      "source": "Proc Natl Acad Sci USA",
+      "issue": "",
+      "fpage": "10109",
+      "lpage": "14",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib22": {
+      "type": "article_citation",
+      "id": "article_citation_bib22",
+      "authors": [
+        {
+          "given-names": "S",
+          "last-name": "Hohng"
+        },
+        {
+          "given-names": "C",
+          "last-name": "Joo"
+        },
+        {
+          "given-names": "T",
+          "last-name": "Ha"
+        }
+      ],
+      "title": "Single-molecule three-color FRET",
+      "year": "2004",
+      "volume": "87",
+      "source": "Biophys J",
+      "issue": "",
+      "fpage": "1328",
+      "lpage": "37",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1529/biophysj.104.043935S0006-3495(04)73612-7",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib23": {
+      "type": "article_citation",
+      "id": "article_citation_bib23",
+      "authors": [
+        {
+          "given-names": "C",
+          "last-name": "Joo"
+        },
+        {
+          "given-names": "T",
+          "last-name": "Ha"
+        }
+      ],
+      "title": "Single molecule FRET with total internal reflection microscopy",
+      "year": "2008",
+      "volume": "",
+      "source": "Single Molecule Techniques: A Laboratory Manual",
+      "issue": "",
+      "fpage": "3",
+      "lpage": "36",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "Cold Spring Harbour",
+      "publisher-loc": "NY, USA",
+      "doi": "",
+      "citation_url": [],
+      "format": "book",
+      "label": "",
+      "editors": [
+        {
+          "given-names": "PR",
+          "last-name": "Selvin"
+        },
+        {
+          "given-names": "T",
+          "last-name": "Ha"
+        }
+      ]
+    },
+    "article_citation_bib24": {
+      "type": "article_citation",
+      "id": "article_citation_bib24",
+      "authors": [
+        {
+          "given-names": "C",
+          "last-name": "Joo"
+        },
+        {
+          "given-names": "SA",
+          "last-name": "McKinney"
+        },
+        {
+          "given-names": "M",
+          "last-name": "Nakamura"
+        },
+        {
+          "given-names": "I",
+          "last-name": "Rasnik"
+        },
+        {
+          "given-names": "S",
+          "last-name": "Myong"
+        },
+        {
+          "given-names": "T",
+          "last-name": "Ha"
+        }
+      ],
+      "title": "Real-time observation of RecA filament dynamics with single monomer resolution",
+      "year": "2006",
+      "volume": "126",
+      "source": "Cell",
+      "issue": "",
+      "fpage": "515",
+      "lpage": "27",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib25": {
+      "type": "article_citation",
+      "id": "article_citation_bib25",
+      "authors": [
+        {
+          "given-names": "HD",
+          "last-name": "Kim"
+        },
+        {
+          "given-names": "GU",
+          "last-name": "Nienhaus"
+        },
+        {
+          "given-names": "T",
+          "last-name": "Ha"
+        },
+        {
+          "given-names": "JW",
+          "last-name": "Orr"
+        },
+        {
+          "given-names": "JR",
+          "last-name": "Williamson"
+        },
+        {
+          "given-names": "S",
+          "last-name": "Chu"
+        }
+      ],
+      "title": "Mg2+-dependent conformational change of RNA studied by fluorescence correlation and FRET on immobilized single molecules",
+      "year": "2002",
+      "volume": "99",
+      "source": "Proc Natl Acad Sci USA",
+      "issue": "",
+      "fpage": "4284",
+      "lpage": "9",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1073/pnas.03207779999/7/4284",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib26": {
+      "type": "article_citation",
+      "id": "article_citation_bib26",
+      "authors": [
+        {
+          "given-names": "S",
+          "last-name": "Liu"
+        },
+        {
+          "given-names": "EA",
+          "last-name": "Abbondanzieri"
+        },
+        {
+          "given-names": "JW",
+          "last-name": "Rausch"
+        },
+        {
+          "given-names": "SF",
+          "last-name": "Le Grice"
+        },
+        {
+          "given-names": "X",
+          "last-name": "Zhuang"
+        }
+      ],
+      "title": "Slide into action: dynamic shuttling of HIV reverse transcriptase on nucleic acid substrates",
+      "year": "2008",
+      "volume": "322",
+      "source": "Science",
+      "issue": "",
+      "fpage": "1092",
+      "lpage": "7",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1126/science.1163108",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib27": {
+      "type": "article_citation",
+      "id": "article_citation_bib27",
+      "authors": [
+        {
+          "given-names": "SL",
+          "last-name": "Lusetti"
+        },
+        {
+          "given-names": "JJ",
+          "last-name": "Shaw"
+        },
+        {
+          "given-names": "MM",
+          "last-name": "Cox"
+        }
+      ],
+      "title": "Magnesium ion-dependent activation of the RecA protein involves the C terminus",
+      "year": "2003",
+      "volume": "278",
+      "source": "J Biol Chem",
+      "issue": "",
+      "fpage": "16381",
+      "lpage": "8",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib28": {
+      "type": "article_citation",
+      "id": "article_citation_bib28",
+      "authors": [
+        {
+          "given-names": "A",
+          "last-name": "Mani"
+        },
+        {
+          "given-names": "I",
+          "last-name": "Braslavsky"
+        },
+        {
+          "given-names": "R",
+          "last-name": "Arbel-Goren"
+        },
+        {
+          "given-names": "J",
+          "last-name": "Stavans"
+        }
+      ],
+      "title": "Caught in the act: the lifetime of synaptic intermediates during the search for homology on DNA",
+      "year": "2009",
+      "volume": "38",
+      "source": "Nucleic Acids Res",
+      "issue": "",
+      "fpage": "2036",
+      "lpage": "43",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib29": {
+      "type": "article_citation",
+      "id": "article_citation_bib29",
+      "authors": [
+        {
+          "given-names": "A",
+          "last-name": "Peacock-Villada"
+        },
+        {
+          "given-names": "D",
+          "last-name": "Yang"
+        },
+        {
+          "given-names": "C",
+          "last-name": "Danilowicz"
+        },
+        {
+          "given-names": "E",
+          "last-name": "Feinstein"
+        },
+        {
+          "given-names": "N",
+          "last-name": "Pollock"
+        },
+        {
+          "given-names": "S",
+          "last-name": "McShan"
+        }
+      ],
+      "title": "Complementary strand relocation may play vital roles in RecA-based homology recognition",
+      "year": "2012",
+      "volume": "40",
+      "source": "Nucleic Acids Res",
+      "issue": "",
+      "fpage": "10441",
+      "lpage": "51",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1093/nar/gks769",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib30": {
+      "type": "article_citation",
+      "id": "article_citation_bib30",
+      "authors": [
+        {
+          "given-names": "K",
+          "last-name": "Ragunathan"
+        },
+        {
+          "given-names": "C",
+          "last-name": "Joo"
+        },
+        {
+          "given-names": "T",
+          "last-name": "Ha"
+        }
+      ],
+      "title": "Real-time observation of strand exchange reaction with high spatiotemporal resolution",
+      "year": "2011",
+      "volume": "19",
+      "source": "Structure",
+      "issue": "",
+      "fpage": "1064",
+      "lpage": "73",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/j.str.2011.06.009",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib31": {
+      "type": "article_citation",
+      "id": "article_citation_bib31",
+      "authors": [
+        {
+          "given-names": "R",
+          "last-name": "Roy"
+        },
+        {
+          "given-names": "S",
+          "last-name": "Hohng"
+        },
+        {
+          "given-names": "T",
+          "last-name": "Ha"
+        }
+      ],
+      "title": "A practical guide to single-molecule FRET",
+      "year": "2008",
+      "volume": "5",
+      "source": "Nat Methods",
+      "issue": "",
+      "fpage": "507",
+      "lpage": "16",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib32": {
+      "type": "article_citation",
+      "id": "article_citation_bib32",
+      "authors": [
+        {
+          "given-names": "R",
+          "last-name": "Roy"
+        },
+        {
+          "given-names": "AG",
+          "last-name": "Kozlov"
+        },
+        {
+          "given-names": "TM",
+          "last-name": "Lohman"
+        },
+        {
+          "given-names": "T",
+          "last-name": "Ha"
+        }
+      ],
+      "title": "SSB protein diffusion on single-stranded DNA stimulates RecA filament formation",
+      "year": "2009",
+      "volume": "461",
+      "source": "Nature",
+      "issue": "",
+      "fpage": "1092",
+      "lpage": "97",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1038/nature08442",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib33": {
+      "type": "article_citation",
+      "id": "article_citation_bib33",
+      "authors": [
+        {
+          "given-names": "A",
+          "last-name": "Stasiak"
+        },
+        {
+          "given-names": "EH",
+          "last-name": "Egelman"
+        }
+      ],
+      "title": "RecA-DNA helical complexes in genetic recombination",
+      "year": "1986",
+      "volume": "14",
+      "source": "Biochem Soc Trans",
+      "issue": "",
+      "fpage": "218",
+      "lpage": "20",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib34": {
+      "type": "article_citation",
+      "id": "article_citation_bib34",
+      "authors": [
+        {
+          "given-names": "A",
+          "last-name": "Stasiak"
+        },
+        {
+          "given-names": "E",
+          "last-name": "Di Capua"
+        },
+        {
+          "given-names": "T",
+          "last-name": "Koller"
+        }
+      ],
+      "title": "Elongation of duplex DNA by recA protein",
+      "year": "1981",
+      "volume": "151",
+      "source": "J Mol Biol",
+      "issue": "",
+      "fpage": "557",
+      "lpage": "64",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/0022-2836(81)90010-3",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib35": {
+      "type": "article_citation",
+      "id": "article_citation_bib35",
+      "authors": [
+        {
+          "given-names": "YM",
+          "last-name": "Wang"
+        },
+        {
+          "given-names": "RH",
+          "last-name": "Austin"
+        },
+        {
+          "given-names": "EC",
+          "last-name": "Cox"
+        }
+      ],
+      "title": "Single molecule measurements of repressor protein 1D diffusion on DNA",
+      "year": "2006",
+      "volume": "97",
+      "source": "Phys Rev Lett",
+      "issue": "",
+      "fpage": "048302",
+      "lpage": "",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib36": {
+      "type": "article_citation",
+      "id": "article_citation_bib36",
+      "authors": [
+        {
+          "given-names": "R",
+          "last-name": "Zhou"
+        },
+        {
+          "given-names": "AG",
+          "last-name": "Kozlov"
+        },
+        {
+          "given-names": "R",
+          "last-name": "Roy"
+        },
+        {
+          "given-names": "J",
+          "last-name": "Zhang"
+        },
+        {
+          "given-names": "S",
+          "last-name": "Korolev"
+        },
+        {
+          "given-names": "TM",
+          "last-name": "Lohman"
+        }
+      ],
+      "title": "SSB functions as a sliding platform that migrates on DNA via reptation",
+      "year": "2011",
+      "volume": "146",
+      "source": "Cell",
+      "issue": "",
+      "fpage": "222",
+      "lpage": "32",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/j.cell.2011.06.036",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
     },
     "sub-article": {
       "type": "heading",

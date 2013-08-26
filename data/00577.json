@@ -1,0 +1,1090 @@
+{
+  "id": "00577",
+  "nodes": {
+    "content": {
+      "type": "view",
+      "id": "content",
+      "nodes": [
+        "abstract",
+        "paragraph_3",
+        "paragraph_8",
+        "paragraph_10",
+        "paragraph_11",
+        "paragraph_12",
+        "paragraph_21",
+        "paragraph_26",
+        "paragraph_27",
+        "paragraph_30",
+        "paragraph_33",
+        "paragraph_35",
+        "paragraph_37"
+      ]
+    },
+    "figures": {
+      "type": "view",
+      "id": "figures",
+      "nodes": [
+        "box_B1",
+        "image_fig1"
+      ]
+    },
+    "citations": {
+      "type": "view",
+      "id": "citations",
+      "nodes": [
+        "article_citation_bib1",
+        "article_citation_bib2",
+        "article_citation_bib3",
+        "article_citation_bib4",
+        "article_citation_bib5",
+        "article_citation_bib6",
+        "article_citation_bib7",
+        "article_citation_bib8",
+        "article_citation_bib9",
+        "article_citation_bib10",
+        "article_citation_bib11",
+        "article_citation_bib12"
+      ]
+    },
+    "document": {
+      "type": "document",
+      "id": "document",
+      "views": [
+        "content",
+        "figures",
+        "citations"
+      ],
+      "guid": "00577",
+      "title": "Building a super elongation complex for HIV",
+      "authors": [
+        "person_author_3857",
+        "person_author_1190"
+      ],
+      "received_on": "",
+      "accepted_on": "",
+      "published_on": "2013-03-08",
+      "journal": "eLife",
+      "article_type": "",
+      "keywords": [
+        "transcription elongation",
+        "super elongation complex",
+        "SEC",
+        "intrinsically disordered proteins",
+        "structural biology"
+      ],
+      "research_organisms": [
+        "Human"
+      ],
+      "subjects": [
+        "Biophysics and structural biology",
+        "Genes and chromosomes"
+      ],
+      "pdf_link": "",
+      "xml_link": "",
+      "json_link": "",
+      "doi": ""
+    },
+    "person_author_3857": {
+      "type": "person",
+      "id": "person_author_3857",
+      "given-names": "Christopher P",
+      "last-name": "Hill",
+      "role": "author",
+      "affiliations": [],
+      "image": "",
+      "contribution": "",
+      "email": "",
+      "funding": []
+    },
+    "person_author_1190": {
+      "type": "person",
+      "id": "person_author_1190",
+      "given-names": "Wesley I",
+      "last-name": "Sundquist",
+      "role": "author",
+      "affiliations": [],
+      "image": "",
+      "contribution": "",
+      "email": "",
+      "funding": []
+    },
+    "institution_aff1": {
+      "type": "institution",
+      "id": "institution_aff1",
+      "name": "University of Utah School of Medicine",
+      "city": "Salt Lake City",
+      "country": "United States",
+      "email": "chris@biochem.utah.edu",
+      "image": ""
+    },
+    "institution_aff2": {
+      "type": "institution",
+      "id": "institution_aff2",
+      "name": "University of Utah School of Medicine",
+      "city": "Salt Lake City",
+      "country": "United States",
+      "email": "wes@biochem.utah.edu",
+      "image": ""
+    },
+    "info:copyright": {
+      "type": "heading",
+      "id": "info:copyright",
+      "level": 2,
+      "content": "Copyright",
+      "nodes": [
+        "paragraph_1"
+      ]
+    },
+    "paragraph_1": {
+      "type": "paragraph",
+      "id": "paragraph_1",
+      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "annotation_2": {
+      "type": "link",
+      "id": "annotation_2",
+      "path": [
+        "paragraph_1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        51,
+        87
+      ],
+      "url": "http://creativecommons.org/licenses/by/3.0/"
+    },
+    "abstract": {
+      "type": "heading",
+      "id": "abstract",
+      "level": 1,
+      "content": "Abstract",
+      "nodes": []
+    },
+    "paragraph_3": {
+      "type": "paragraph",
+      "id": "paragraph_3",
+      "content": "A better understanding of the host cell protein complex that helps HIV replicate inside cells offers the possibility of new therapeutic targets."
+    },
+    "box_B1": {
+      "type": "box",
+      "id": "box_B1",
+      "label": "",
+      "url": "",
+      "title": "",
+      "caption": "",
+      "content": "Related research article Schulze-Gahmen U, Upton H, Birnberg A, Bao K, Chou S, Krogan NJ, Zhou Q, Alber T. 2013. The AFF4 scaffold binds human P-TEFb adjacent to HIV Tat. eLife 2:e00327. doi: 10.7554/eLife.00327",
+      "doi": ""
+    },
+    "annotation_4": {
+      "type": "strong",
+      "id": "annotation_4",
+      "path": [
+        "box_B1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        24
+      ]
+    },
+    "annotation_5": {
+      "type": "emphasis",
+      "id": "annotation_5",
+      "path": [
+        "box_B1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        171,
+        176
+      ]
+    },
+    "annotation_6": {
+      "type": "strong",
+      "id": "annotation_6",
+      "path": [
+        "box_B1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        177,
+        178
+      ]
+    },
+    "annotation_7": {
+      "type": "link",
+      "id": "annotation_7",
+      "path": [
+        "box_B1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        192,
+        211
+      ],
+      "url": "http://dx.doi.org/10.7554/elife.00327"
+    },
+    "paragraph_8": {
+      "type": "paragraph",
+      "id": "paragraph_8",
+      "content": "Image Model of part of the HIV replication complex"
+    },
+    "annotation_9": {
+      "type": "strong",
+      "id": "annotation_9",
+      "path": [
+        "paragraph_8",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        5
+      ]
+    },
+    "paragraph_10": {
+      "type": "paragraph",
+      "id": "paragraph_10",
+      "content": ""
+    },
+    "paragraph_11": {
+      "type": "paragraph",
+      "id": "paragraph_11",
+      "content": "AIDS, which is estimated to have claimed the lives of more than 30 million people worldwide, is caused by HIV, a member of the lentivirus family of single-stranded RNA viruses. HIV infects cells that belong to the immune system; when the virus enters a cell, a viral enzyme converts HIV RNA into double-stranded DNA through a process called reverse transcription. The viral DNA then moves to the nucleus, where another viral enzyme integrates it into the host cell's own DNA. From this point onwards, the virus can either remain latent (and invisible to the host immune system) or it can begin to replicate to produce more virus particles. To produce its genetic material, HIV ‘hijacks' the cell's gene expression machinery, forcing a cellular enzyme called RNA polymerase II to transcribe viral DNA along with the cell's own DNA."
+    },
+    "paragraph_12": {
+      "type": "paragraph",
+      "id": "paragraph_12",
+      "content": "The HIV genome encodes a protein called Tat that promotes the transcription of viral DNA (Ott et al., 2011; Razooky and Weinberger, 2011). In the absence of Tat, RNA polymerase II begins to transcribe viral DNA into RNA, but typically pauses after copying fewer than 50 nucleotides. Tat stimulates HIV transcription by binding to newly formed viral transcripts at a hairpin-shaped—or stem-loop—structure called TAR. The Tat:TAR complex then binds an enzyme called positive transcription elongation factor b (P-TEFb), which itself is a complex of two proteins, CDK9 and cyclin T1. P-TEFb releases the paused RNA polymerase II by phosphorylating cellular proteins that would otherwise inhibit transcriptional elongation, and the polymerase tail, which is then able to recruit proteins important for elongation. P-TEFb also promotes the binding of additional elongation factors to form an assembly called the ‘super elongation complex', which is organized by highly flexible scaffolding proteins, such as AFF4 (Figure 1) (He et al., 2010; Sobhian et al., 2010; Luo et al., 2012; Chou et al., 2013)."
+    },
+    "citation_reference_13": {
+      "type": "citation_reference",
+      "id": "citation_reference_13",
+      "path": [
+        "paragraph_12",
+        "content"
+      ],
+      "target": "article_citation_bib8",
+      "range": [
+        90,
+        106
+      ]
+    },
+    "citation_reference_14": {
+      "type": "citation_reference",
+      "id": "citation_reference_14",
+      "path": [
+        "paragraph_12",
+        "content"
+      ],
+      "target": "article_citation_bib9",
+      "range": [
+        108,
+        136
+      ]
+    },
+    "figure_reference_15": {
+      "type": "figure_reference",
+      "id": "figure_reference_15",
+      "path": [
+        "paragraph_12",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        1008,
+        1016
+      ]
+    },
+    "citation_reference_16": {
+      "type": "citation_reference",
+      "id": "citation_reference_16",
+      "path": [
+        "paragraph_12",
+        "content"
+      ],
+      "target": "article_citation_bib4",
+      "range": [
+        1019,
+        1034
+      ]
+    },
+    "citation_reference_17": {
+      "type": "citation_reference",
+      "id": "citation_reference_17",
+      "path": [
+        "paragraph_12",
+        "content"
+      ],
+      "target": "article_citation_bib11",
+      "range": [
+        1036,
+        1056
+      ]
+    },
+    "citation_reference_18": {
+      "type": "citation_reference",
+      "id": "citation_reference_18",
+      "path": [
+        "paragraph_12",
+        "content"
+      ],
+      "target": "article_citation_bib6",
+      "range": [
+        1058,
+        1074
+      ]
+    },
+    "citation_reference_19": {
+      "type": "citation_reference",
+      "id": "citation_reference_19",
+      "path": [
+        "paragraph_12",
+        "content"
+      ],
+      "target": "article_citation_bib2",
+      "range": [
+        1076,
+        1093
+      ]
+    },
+    "image_fig1": {
+      "type": "image",
+      "id": "image_fig1",
+      "label": "Figure 1.",
+      "url": "",
+      "object_id": "F1",
+      "title": "",
+      "content_type": "",
+      "large_url": "",
+      "content": "",
+      "group": [
+        "parent",
+        null
+      ],
+      "doi": "",
+      "caption": "paragraph_image_fig1",
+      "graphic_id": "elife00577f001"
+    },
+    "paragraph_image_fig1": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig1",
+      "content": "Transcription of DNA in a cell infected by HIV. The HIV DNA that has been integrated into the host cell's genome is transcribed by the cellular enzyme RNA polymerase II (RNA Pol II), but this process usually pauses after fewer than 50 nucleotides have been transcribed. In order to synthesize long transcripts, the HIV genome encodes a protein called Tat (shown here in maroon), which binds newly formed viral RNA transcripts (orange) at a hairpin-shaped structure called TAR. The Tat:TAR complex then binds a protein complex called P-TEFb (which is composed of cyclin T1 [yellow] and CDK9 [green]), plus a scaffolding protein, AFF4 (blue; numbers correspond to amino-acid positions within the protein). Note that Tat and AFF4 may interact directly on the cyclin T1 surface and that acetylation of a lysine residue at position 28 in Tat (which has been shown to enhance Tat activity; Ott et al., 2011) may help regulate this interaction. The AFF4 tethers additional elongation factors (ELL-2 and either ENL or AF9; only shown in the right-hand figure, ‘N' and ‘C' represent the N and C terminal domains) to produce a ‘super elongation complex' that regulates the transition to efficient transcriptional elongation. Left, expanded model of the P-TEFb:AFF4:Tat:TAR complex. Right, overview of the interactions within the super elongation complex, including interactions with RNA Pol II and the Paf1 complex (Paf1c), which is a positive regulator of transcription. Phosphorylation (red dots) by P-TEFb of negative factors that inhibit transcription (NELF and DSIF, abbreviated ‘Neg') and of the C-terminal tail of RNA Pol II, releases the stalled polymerase and increases transcription of the viral genome. The composite model shown here was assembled from structures of human Cdk9:cyclin T1:AFF4 (pdb 4imy), Tat:p-TEFb (pdb 3mi9), and EIAV Tat:TAR (pdb 2w2h)."
+    },
+    "citation_reference_20": {
+      "type": "citation_reference",
+      "id": "citation_reference_20",
+      "path": [
+        "paragraph_image_fig1",
+        "content"
+      ],
+      "target": "article_citation_bib8",
+      "range": [
+        884,
+        900
+      ]
+    },
+    "paragraph_21": {
+      "type": "paragraph",
+      "id": "paragraph_21",
+      "content": "Now, writing in eLife, Tom Alber of the University of California at Berkeley and colleagues—including Ursula Schulze-Gahmen as first author—report a crystal structure that reveals the molecular basis for the interactions between P-TEFb and AFF4, helps to reveal how this complex is bound by the viral Tat protein, and suggests new strategies for therapeutic intervention (Schulze-Gahmen et al., 2013). The crystal structure reveals that part of the polypeptide chain of the AFF4 scaffolding protein (specifically residues 34–66) snakes across the surface of cyclin T1, some distance from CDK9 (Figure 1). The AFF4 polypeptide conformation lacks contacts between regions of AFF4 that are separated by more than a few residues in the amino acid sequence, consistent with the idea that AFF4 becomes well-ordered only upon P-TEFb binding (Chou et al., 2013). Residues in cyclin T1 shift somewhat to accommodate the AFF4 polypeptide, and the interaction between the two proteins is stabilized by a series of hydrophobic contacts and eight inter-molecular hydrogen bonds."
+    },
+    "annotation_22": {
+      "type": "emphasis",
+      "id": "annotation_22",
+      "path": [
+        "paragraph_21",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        16,
+        21
+      ]
+    },
+    "citation_reference_23": {
+      "type": "citation_reference",
+      "id": "citation_reference_23",
+      "path": [
+        "paragraph_21",
+        "content"
+      ],
+      "target": "article_citation_bib10",
+      "range": [
+        372,
+        399
+      ]
+    },
+    "figure_reference_24": {
+      "type": "figure_reference",
+      "id": "figure_reference_24",
+      "path": [
+        "paragraph_21",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        594,
+        602
+      ]
+    },
+    "citation_reference_25": {
+      "type": "citation_reference",
+      "id": "citation_reference_25",
+      "path": [
+        "paragraph_21",
+        "content"
+      ],
+      "target": "article_citation_bib2",
+      "range": [
+        835,
+        852
+      ]
+    },
+    "paragraph_26": {
+      "type": "paragraph",
+      "id": "paragraph_26",
+      "content": "Alber and co-workers report three pieces of evidence to support their structure. First, they show that an AFF4 fragment spanning only residues 33–67 binds cyclin T1 with nearly full affinity (although there is some indication that AFF4 residues at the N-terminal end of the molecule may also make weak contacts with CDK9). Second, they show that mutation of cyclin T1 surface residues that contact AFF4 impairs binding. And third, they show that mutation of AFF4 residues that contact cyclin T1 reduces transcription from the HIV promoter."
+    },
+    "paragraph_27": {
+      "type": "paragraph",
+      "id": "paragraph_27",
+      "content": "Unexpectedly, the new crystal structure suggests how HIV Tat could recruit the super elongation complex. In conjunction with a previously reported Tat-cyclin T1 structure (Tahirov et al., 2010), Alber and colleagues show that AFF4 and Tat bind adjacent to each other on cyclin T1. They also show that AFF4 and Tat bind synergistically to P-TEFb, and that functionally important Tat residues are well positioned to contact AFF4. Thus, consistent with functional data (D'Orso et al., 2012), it appears that AFF4 and Tat interact directly when bound on the surface of P-TEFb, although details of this interaction have yet to be structurally characterized."
+    },
+    "citation_reference_28": {
+      "type": "citation_reference",
+      "id": "citation_reference_28",
+      "path": [
+        "paragraph_27",
+        "content"
+      ],
+      "target": "article_citation_bib12",
+      "range": [
+        172,
+        192
+      ]
+    },
+    "citation_reference_29": {
+      "type": "citation_reference",
+      "id": "citation_reference_29",
+      "path": [
+        "paragraph_27",
+        "content"
+      ],
+      "target": "article_citation_bib3",
+      "range": [
+        467,
+        486
+      ]
+    },
+    "paragraph_30": {
+      "type": "paragraph",
+      "id": "paragraph_30",
+      "content": "The new P-TEFb:AFF4 structure touches on a number of intriguing questions that merit further study. For example, how do other components of the super elongation complex interact with their distinct binding sites along the extended AFF4 scaffold? And do the different elongation factors interact with one another when held in close proximity? To this end, a recent analysis of the interaction between the binding domain of the elongation factor AF9 and its binding site on AFF4 has revealed the structure of that complex (Figure 1), and demonstrated that the two components are unfolded until they bind one another (Leach et al, 2013). The authors argue that coupling protein folding and binding may facilitate the exchange of ligands between the proteins, while retaining high binding affinity and specificity. More generally, the flexible architecture of AFF4 (and related scaffolds) appears ideally suited for promoting dynamic protein–protein interactions, perhaps allowing the different elongation factors to be reeled in or reconfigured as transcription progresses."
+    },
+    "figure_reference_31": {
+      "type": "figure_reference",
+      "id": "figure_reference_31",
+      "path": [
+        "paragraph_30",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        521,
+        529
+      ]
+    },
+    "citation_reference_32": {
+      "type": "citation_reference",
+      "id": "citation_reference_32",
+      "path": [
+        "paragraph_30",
+        "content"
+      ],
+      "target": "article_citation_bib5",
+      "range": [
+        615,
+        632
+      ]
+    },
+    "paragraph_33": {
+      "type": "paragraph",
+      "id": "paragraph_33",
+      "content": "The mechanisms by which super elongation complexes assemble and function are of general interest because these complexes also help regulate cellular gene expression at the level of transcriptional elongation (Luo et al., 2012). The coupling of multiple transcription factors into a single complex allows for signals such as HIV Tat:TAR or cellular DNA-binding proteins to trigger the rapid, synchronous activation of RNA polymerase complexes that have already been recruited, and which are poised to complete transcription once the brakes are removed."
+    },
+    "citation_reference_34": {
+      "type": "citation_reference",
+      "id": "citation_reference_34",
+      "path": [
+        "paragraph_33",
+        "content"
+      ],
+      "target": "article_citation_bib6",
+      "range": [
+        209,
+        225
+      ]
+    },
+    "paragraph_35": {
+      "type": "paragraph",
+      "id": "paragraph_35",
+      "content": "Obtaining a detailed structural and mechanistic understanding of the entire Tat:TAR:pTEFb:AFF4 network is also of considerable interest for the development of HIV therapeutics. To this end, it will be important to understand precisely how the HIV Tat:TAR complex contacts pTEFb, particularly through the TAR RNA loop. Our knowledge of the structure of the Tat:TAR:cyclin T1 complex in a related virus that afflicts horses may offer some clues (Anand et al., 2008), but detailed analyses of the HIV system would help in developing therapeutically useful small molecules. Indeed, the pTEFb:AFF4 analyses already make it clear that the scaffold should be taken into account when screening for small molecules that inhibit the activation of Tat. Indeed, the structure itself inspires hope because the cyclin T1:AFF4 interface creates a pronounced Tat-binding groove that may be targetable."
+    },
+    "citation_reference_36": {
+      "type": "citation_reference",
+      "id": "citation_reference_36",
+      "path": [
+        "paragraph_35",
+        "content"
+      ],
+      "target": "article_citation_bib1",
+      "range": [
+        444,
+        462
+      ]
+    },
+    "paragraph_37": {
+      "type": "paragraph",
+      "id": "paragraph_37",
+      "content": "Paradoxically, there is also interest in identifying small molecules that can stimulate HIV transcription. This is to facilitate immune recognition and destruction of the otherwise undetectable quiescent T cells that confound efforts to eradicate HIV by allowing the virus to remain invisible to the immune system (Mbonye and Karn, 2011). Hence, the quest to uncover fundamental biological principles and identify new therapeutic strategies should continue to fuel detailed structural and mechanistic studies of the elaborate mechanism of HIV transcriptional control."
+    },
+    "annotation_38": {
+      "type": "emphasis",
+      "id": "annotation_38",
+      "path": [
+        "paragraph_37",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        78,
+        87
+      ]
+    },
+    "citation_reference_39": {
+      "type": "citation_reference",
+      "id": "citation_reference_39",
+      "path": [
+        "paragraph_37",
+        "content"
+      ],
+      "target": "article_citation_bib7",
+      "range": [
+        315,
+        336
+      ]
+    },
+    "info:competing-interest": {
+      "type": "heading",
+      "id": "info:competing-interest",
+      "level": 2,
+      "content": "Competing Interests",
+      "nodes": [
+        "paragraph_40"
+      ]
+    },
+    "paragraph_40": {
+      "type": "paragraph",
+      "id": "paragraph_40",
+      "content": "Competing interests:Wesley I Sundquist is a consultant for Gilead Pharmaceuticals.The other author declares that no competing interests existReferences"
+    },
+    "article_citation_bib1": {
+      "type": "article_citation",
+      "id": "article_citation_bib1",
+      "authors": [
+        {
+          "given-names": "K",
+          "last-name": "Anand"
+        },
+        {
+          "given-names": "A",
+          "last-name": "Schulte"
+        },
+        {
+          "given-names": "K",
+          "last-name": "Vogel-Bachmayr"
+        },
+        {
+          "given-names": "K",
+          "last-name": "Scheffzek"
+        },
+        {
+          "given-names": "M",
+          "last-name": "Geyer"
+        }
+      ],
+      "title": "Structural insights into the cyclin T1-Tat-TAR RNA transcription activation complex from EIAV",
+      "year": "2008",
+      "volume": "15",
+      "source": "Nat Struct Mol Biol",
+      "issue": "",
+      "fpage": "1287",
+      "lpage": "92",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1038/nsmb.1513",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib2": {
+      "type": "article_citation",
+      "id": "article_citation_bib2",
+      "authors": [
+        {
+          "given-names": "S",
+          "last-name": "Chou"
+        },
+        {
+          "given-names": "H",
+          "last-name": "Upton"
+        },
+        {
+          "given-names": "K",
+          "last-name": "Bao"
+        },
+        {
+          "given-names": "U",
+          "last-name": "Schulze-Gahmen"
+        },
+        {
+          "given-names": "AJ",
+          "last-name": "Samelson"
+        },
+        {
+          "given-names": "N",
+          "last-name": "He"
+        }
+      ],
+      "title": "HIV-1 Tat recruits transcription elongation factors dispersed along a flexible AFF4 scaffold",
+      "year": "2013",
+      "volume": "110",
+      "source": "Proc Natl Acad Sci USA",
+      "issue": "",
+      "fpage": "E123",
+      "lpage": "31",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1073/pnas.1216971110",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib3": {
+      "type": "article_citation",
+      "id": "article_citation_bib3",
+      "authors": [
+        {
+          "given-names": "I",
+          "last-name": "D'Orso"
+        },
+        {
+          "given-names": "GM",
+          "last-name": "Jang"
+        },
+        {
+          "given-names": "AW",
+          "last-name": "Pastuszak"
+        },
+        {
+          "given-names": "TB",
+          "last-name": "Faust"
+        },
+        {
+          "given-names": "E",
+          "last-name": "Quezada"
+        },
+        {
+          "given-names": "DS",
+          "last-name": "Booth"
+        }
+      ],
+      "title": "Transition step during assembly of HIV Tat:P-TEFb transcription complexes and transfer to TAR RNA",
+      "year": "2012",
+      "volume": "32",
+      "source": "Mol Cell Biol",
+      "issue": "",
+      "fpage": "4780",
+      "lpage": "",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1128/MCB.00206-12",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib4": {
+      "type": "article_citation",
+      "id": "article_citation_bib4",
+      "authors": [
+        {
+          "given-names": "N",
+          "last-name": "He"
+        },
+        {
+          "given-names": "M",
+          "last-name": "Liu"
+        },
+        {
+          "given-names": "J",
+          "last-name": "Hsu"
+        },
+        {
+          "given-names": "Y",
+          "last-name": "Xue"
+        },
+        {
+          "given-names": "S",
+          "last-name": "Chou"
+        },
+        {
+          "given-names": "A",
+          "last-name": "Burlingame"
+        }
+      ],
+      "title": "HIV-1 Tat and host AFF4 recruit two transcription elongation factors into a bifunctional complex for coordinated activation of HIV-1 transcription",
+      "year": "2010",
+      "volume": "38",
+      "source": "Mol Cell",
+      "issue": "",
+      "fpage": "428",
+      "lpage": "38",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/j.molcel.2010.04.013",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib5": {
+      "type": "article_citation",
+      "id": "article_citation_bib5",
+      "authors": [
+        {
+          "given-names": "BI",
+          "last-name": "Leach"
+        },
+        {
+          "given-names": "A",
+          "last-name": "Kuntimaddi"
+        },
+        {
+          "given-names": "CR",
+          "last-name": "Schmidt"
+        },
+        {
+          "given-names": "T",
+          "last-name": "Cierpicki"
+        },
+        {
+          "given-names": "SA",
+          "last-name": "Johnson"
+        },
+        {
+          "given-names": "JH",
+          "last-name": "Bushweller"
+        }
+      ],
+      "title": "Leukemia fusion target AF9 is an intrinsically disordered transcriptional regulator that recruits multiple partners via coupled folding and binding",
+      "year": "2013",
+      "volume": "21",
+      "source": "Structure",
+      "issue": "",
+      "fpage": "176",
+      "lpage": "83",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/j.str.2012.11.011",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib6": {
+      "type": "article_citation",
+      "id": "article_citation_bib6",
+      "authors": [
+        {
+          "given-names": "Z",
+          "last-name": "Luo"
+        },
+        {
+          "given-names": "C",
+          "last-name": "Lin"
+        },
+        {
+          "given-names": "A",
+          "last-name": "Shilatifard"
+        }
+      ],
+      "title": "The super elongation complex (SEC) family in transcriptional control",
+      "year": "2012",
+      "volume": "13",
+      "source": "Nat Rev Mol Cell Biol",
+      "issue": "",
+      "fpage": "543",
+      "lpage": "7",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1038/nrm3417",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib7": {
+      "type": "article_citation",
+      "id": "article_citation_bib7",
+      "authors": [
+        {
+          "given-names": "U",
+          "last-name": "Mbonye"
+        },
+        {
+          "given-names": "J",
+          "last-name": "Karn"
+        }
+      ],
+      "title": "Control of HIV latency by epigenetic and non-epigenetic mechanisms",
+      "year": "2011",
+      "volume": "9",
+      "source": "Curr HIV Res",
+      "issue": "",
+      "fpage": "554",
+      "lpage": "67",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.2174/157016211798998736",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib8": {
+      "type": "article_citation",
+      "id": "article_citation_bib8",
+      "authors": [
+        {
+          "given-names": "M",
+          "last-name": "Ott"
+        },
+        {
+          "given-names": "M",
+          "last-name": "Geyer"
+        },
+        {
+          "given-names": "Q",
+          "last-name": "Zhou"
+        }
+      ],
+      "title": "The control of HIV transcription: keeping RNA polymerase II on track",
+      "year": "2011",
+      "volume": "10",
+      "source": "Cell Host Microbe",
+      "issue": "",
+      "fpage": "426",
+      "lpage": "35",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/j.chom.2011.11.002",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib9": {
+      "type": "article_citation",
+      "id": "article_citation_bib9",
+      "authors": [
+        {
+          "given-names": "BS",
+          "last-name": "Razooky"
+        },
+        {
+          "given-names": "LS",
+          "last-name": "Weinberger"
+        }
+      ],
+      "title": "Mapping the architecture of the HIV-1 Tat circuit: a decision-making circuit that lacks bistability and exploits stochastic noise",
+      "year": "2011",
+      "volume": "53",
+      "source": "Methods",
+      "issue": "",
+      "fpage": "68",
+      "lpage": "77",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/j.ymeth.2010.12.006",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib10": {
+      "type": "article_citation",
+      "id": "article_citation_bib10",
+      "authors": [
+        {
+          "given-names": "U",
+          "last-name": "Schulze-Gahmen"
+        },
+        {
+          "given-names": "H",
+          "last-name": "Upton"
+        },
+        {
+          "given-names": "A",
+          "last-name": "Birnbeg"
+        },
+        {
+          "given-names": "K",
+          "last-name": "Bauo"
+        },
+        {
+          "given-names": "S",
+          "last-name": "Chou"
+        },
+        {
+          "given-names": "NJ",
+          "last-name": "Krogan"
+        }
+      ],
+      "title": "The AFF4 scaffold binds human P-TEFb adjacent to HIV Tat",
+      "year": "2013",
+      "volume": "2",
+      "source": "eLife",
+      "issue": "",
+      "fpage": "e00327",
+      "lpage": "",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.7554/eLife.00327",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib11": {
+      "type": "article_citation",
+      "id": "article_citation_bib11",
+      "authors": [
+        {
+          "given-names": "B",
+          "last-name": "Sobhian"
+        },
+        {
+          "given-names": "N",
+          "last-name": "Laguette"
+        },
+        {
+          "given-names": "A",
+          "last-name": "Yatim"
+        },
+        {
+          "given-names": "M",
+          "last-name": "Nakamura"
+        },
+        {
+          "given-names": "Y",
+          "last-name": "Levy"
+        },
+        {
+          "given-names": "R",
+          "last-name": "Kiernan"
+        }
+      ],
+      "title": "HIV-1 Tat assembles a multifunctional transcription elongation complex and stably associates with the 7SK snRNP",
+      "year": "2010",
+      "volume": "38",
+      "source": "Mol Cell",
+      "issue": "",
+      "fpage": "439",
+      "lpage": "51",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/j.molcel.2010.04.012",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib12": {
+      "type": "article_citation",
+      "id": "article_citation_bib12",
+      "authors": [
+        {
+          "given-names": "TH",
+          "last-name": "Tahirov"
+        },
+        {
+          "given-names": "ND",
+          "last-name": "Babayeva"
+        },
+        {
+          "given-names": "K",
+          "last-name": "Varzavand"
+        },
+        {
+          "given-names": "JJ",
+          "last-name": "Cooper"
+        },
+        {
+          "given-names": "SC",
+          "last-name": "Sedore"
+        },
+        {
+          "given-names": "DH",
+          "last-name": "Price"
+        }
+      ],
+      "title": "Crystal structure of HIV-1 Tat complexed with human P-TEFb",
+      "year": "2010",
+      "volume": "465",
+      "source": "Nature",
+      "issue": "",
+      "fpage": "747",
+      "lpage": "51",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1038/nature09131",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    }
+  }
+}

@@ -1,0 +1,896 @@
+{
+  "id": "00655",
+  "nodes": {
+    "content": {
+      "type": "view",
+      "id": "content",
+      "nodes": [
+        "abstract",
+        "paragraph_3",
+        "paragraph_8",
+        "paragraph_10",
+        "paragraph_11",
+        "paragraph_14",
+        "paragraph_18",
+        "paragraph_20",
+        "paragraph_22",
+        "paragraph_26",
+        "paragraph_32",
+        "paragraph_35"
+      ]
+    },
+    "figures": {
+      "type": "view",
+      "id": "figures",
+      "nodes": [
+        "box_B1",
+        "image_fig1"
+      ]
+    },
+    "citations": {
+      "type": "view",
+      "id": "citations",
+      "nodes": [
+        "article_citation_bib1",
+        "article_citation_bib2",
+        "article_citation_bib3",
+        "article_citation_bib4",
+        "article_citation_bib5",
+        "article_citation_bib6",
+        "article_citation_bib7",
+        "article_citation_bib8"
+      ]
+    },
+    "document": {
+      "type": "document",
+      "id": "document",
+      "views": [
+        "content",
+        "figures",
+        "citations"
+      ],
+      "guid": "00655",
+      "title": "A sticky solution",
+      "authors": [
+        "person_author_3100"
+      ],
+      "received_on": "",
+      "accepted_on": "",
+      "published_on": "2013-04-02",
+      "journal": "eLife",
+      "article_type": "",
+      "keywords": [
+        "Multicellularity",
+        "Experimental evolution",
+        "Evolution of cooperation"
+      ],
+      "research_organisms": [
+        "S. cerevisiae"
+      ],
+      "subjects": [
+        "Genomics and evolutionary biology"
+      ],
+      "pdf_link": "",
+      "xml_link": "",
+      "json_link": "",
+      "doi": ""
+    },
+    "person_author_3100": {
+      "type": "person",
+      "id": "person_author_3100",
+      "given-names": "David",
+      "last-name": "Gresham",
+      "role": "author",
+      "affiliations": [],
+      "image": "",
+      "contribution": "",
+      "email": "",
+      "funding": []
+    },
+    "info:copyright": {
+      "type": "heading",
+      "id": "info:copyright",
+      "level": 2,
+      "content": "Copyright",
+      "nodes": [
+        "paragraph_1"
+      ]
+    },
+    "paragraph_1": {
+      "type": "paragraph",
+      "id": "paragraph_1",
+      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "annotation_2": {
+      "type": "link",
+      "id": "annotation_2",
+      "path": [
+        "paragraph_1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        51,
+        87
+      ],
+      "url": "http://creativecommons.org/licenses/by/3.0/"
+    },
+    "abstract": {
+      "type": "heading",
+      "id": "abstract",
+      "level": 1,
+      "content": "Abstract",
+      "nodes": []
+    },
+    "paragraph_3": {
+      "type": "paragraph",
+      "id": "paragraph_3",
+      "content": "Selection favours single-celled mutants that stick together when a sugar needed for growth is in short supply, suggesting that multicellular life may have evolved as a by-product of selection for more efficient usage of resources."
+    },
+    "box_B1": {
+      "type": "box",
+      "id": "box_B1",
+      "label": "",
+      "url": "",
+      "title": "",
+      "caption": "",
+      "content": "Related research article Koschwanez JH, Foster KR, Murray AW. 2013. Improved use of a public good selects for the evolution of undifferentiated multicellularity. eLife 2:e00367. doi: 10.7554/eLife.00367",
+      "doi": ""
+    },
+    "annotation_4": {
+      "type": "strong",
+      "id": "annotation_4",
+      "path": [
+        "box_B1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        24
+      ]
+    },
+    "annotation_5": {
+      "type": "emphasis",
+      "id": "annotation_5",
+      "path": [
+        "box_B1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        162,
+        167
+      ]
+    },
+    "annotation_6": {
+      "type": "strong",
+      "id": "annotation_6",
+      "path": [
+        "box_B1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        168,
+        169
+      ]
+    },
+    "annotation_7": {
+      "type": "link",
+      "id": "annotation_7",
+      "path": [
+        "box_B1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        183,
+        202
+      ],
+      "url": "http://dx.doi.org/10.7554/elife.00367"
+    },
+    "paragraph_8": {
+      "type": "paragraph",
+      "id": "paragraph_8",
+      "content": "Image Individual yeast cells (yellow) evolve to form multicellular clumps (magenta and green)"
+    },
+    "annotation_9": {
+      "type": "strong",
+      "id": "annotation_9",
+      "path": [
+        "paragraph_8",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        5
+      ]
+    },
+    "paragraph_10": {
+      "type": "paragraph",
+      "id": "paragraph_10",
+      "content": ""
+    },
+    "paragraph_11": {
+      "type": "paragraph",
+      "id": "paragraph_11",
+      "content": "We typically think of single-celled microbes as being solitary creatures endowed with an innate self-sufficiency. But at some point during their evolutionary history, single-celled microbes made a transition to multicellularity that ended their autonomy and initiated a steady march towards increasing complexity. This evolutionary leap of faith occurred independently several times, and understanding what caused single-celled microbes to relinquish a life of solitude is a longstanding problem in evolutionary biology. Now, writing in eLife, John Koschwanez and Andrew Murray at Harvard University, and Kevin Foster at the University of Oxford, demonstrate that multicellularity can be selectively advantageous for microbes when sticking together solves a problem that cannot be solved by single-celled individuals (Koschwanez et al., 2013)."
+    },
+    "annotation_12": {
+      "type": "emphasis",
+      "id": "annotation_12",
+      "path": [
+        "paragraph_11",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        537,
+        542
+      ]
+    },
+    "citation_reference_13": {
+      "type": "citation_reference",
+      "id": "citation_reference_13",
+      "path": [
+        "paragraph_11",
+        "content"
+      ],
+      "target": "article_citation_bib6",
+      "range": [
+        818,
+        841
+      ]
+    },
+    "paragraph_14": {
+      "type": "paragraph",
+      "id": "paragraph_14",
+      "content": "In this study the motivation for the budding yeast, Saccharomyces cerevisiae, to stick together is table sugar. S. cerevisiae metabolizes the common sugar, sucrose, by first converting it to glucose and fructose outside the cell in a process called hydrolysis. This reaction is performed by a protein called invertase, which is secreted by the yeast cells, and the glucose and fructose are then imported into the cells, where they are used to meet the metabolic requirements for growth. Because the sucrose is broken down in the extracellular environment, the cell that supplies the invertase is not necessarily the same cell that will import the reaction products. This doesn't matter when there are enough cells and enough sucrose—all cells will produce invertase and all cells can use the glucose and fructose produced by the collective activity of the population. However, in a low sucrose environment, it is likely that the fraction of these products that diffuse away before they can be imported is high enough to mean that the local sugar concentration available to each yeast cell is insufficient for growth."
+    },
+    "annotation_15": {
+      "type": "emphasis",
+      "id": "annotation_15",
+      "path": [
+        "paragraph_14",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        52,
+        76
+      ]
+    },
+    "annotation_16": {
+      "type": "emphasis",
+      "id": "annotation_16",
+      "path": [
+        "paragraph_14",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        112,
+        125
+      ]
+    },
+    "annotation_17": {
+      "type": "emphasis",
+      "id": "annotation_17",
+      "path": [
+        "paragraph_14",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        212,
+        219
+      ]
+    },
+    "paragraph_18": {
+      "type": "paragraph",
+      "id": "paragraph_18",
+      "content": "An engineer would solve this problem in one of three ways: increase the amount of invertase that each cell makes so as to increase the amount of hydrolyzed sucrose; import the sucrose into the cell before hydrolysis; or increase the local density of cells in order to increase the local concentration of hydrolyzed sucrose. The current study and previous work by the same group (Koschwanez et al., 2011) show that these three rationally designed solutions all work. However, engineered solutions may not be accessible or beneficial during evolution, so the relevant question is: which of these routes will be favoured by adaptive evolution?"
+    },
+    "citation_reference_19": {
+      "type": "citation_reference",
+      "id": "citation_reference_19",
+      "path": [
+        "paragraph_18",
+        "content"
+      ],
+      "target": "article_citation_bib5",
+      "range": [
+        379,
+        402
+      ]
+    },
+    "paragraph_20": {
+      "type": "paragraph",
+      "id": "paragraph_20",
+      "content": "To address this question, Koschwanez, Foster and Murray performed parallel evolution experiments. Cells were introduced into a low sucrose environment and propagated for several weeks. At the end of this experiment, all cells were considerably better at growing in a low sucrose environment than they had been to start with, indicating that mutation and selection had worked efficiently to increase fitness. Moreover, nearly all of the cells now formed multicellular clumps, demonstrating that adaptive evolution had arrived at the same solution as rational engineering. The majority of cells had also increased their expression of the invertase gene, whereas none had acquired the ability to import sucrose. So, of the three solutions envisaged, adaptive evolution chose two."
+    },
+    "image_fig1": {
+      "type": "image",
+      "id": "image_fig1",
+      "label": "Figure 1.",
+      "url": "",
+      "object_id": "F1",
+      "title": "The budding yeast S. cerevisiae feeds on sucrose that it metabolizes outside the cell using the enzyme invertase, which it secretes into its surroundings.",
+      "content_type": "",
+      "large_url": "",
+      "content": "",
+      "group": [
+        "parent",
+        null
+      ],
+      "doi": "",
+      "caption": "paragraph_image_fig1",
+      "graphic_id": "elife00655f001"
+    },
+    "paragraph_image_fig1": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig1",
+      "content": "The breakdown products—glucose and fructose—are then imported into the cell and used to drive growth. If sucrose is in short supply and the density of single cells is low, the cells cannot capture enough of the glucose and fructose to initiate growth (upper panel). Under these conditions, mutations that cause the cells to form undifferentiated multicellular clumps (lower panel) confer an advantage, by increasing the local concentration of glucose and fructose available to cells. Selection for these mutations may lead ultimately to the evolution of multicellularity."
+    },
+    "annotation_21": {
+      "type": "emphasis",
+      "id": "annotation_21",
+      "path": [
+        "image_fig1",
+        "title"
+      ],
+      "target": null,
+      "range": [
+        18,
+        31
+      ]
+    },
+    "paragraph_22": {
+      "type": "paragraph",
+      "id": "paragraph_22",
+      "content": "To identify the genetic basis of these acquired traits, Koschwanez et al. used the awesome power of yeast genetics and next generation sequencing. They identified more than 1500 mutations in the evolved cells, of which 80 seemed to help cells grow faster in low sucrose. The group of causal mutations included changes in a gene called ACE2, which encodes a protein required for completion of cell separation, and which results in a clumpy phenotype when defective (Gresham et al., 2006). Mutation of ACE2, plus microscopic analysis of cell clumps, reveals that the clumping phenotype arises from a defect in the separation of daughter cells after division, and not as a result of cells adhering to each other. While the underlying cause of increased invertase expression requires further investigation, Koschwanez et al. also identified mutations that were responsible for beneficial traits that they had not anticipated prior to the experiment. These included mutations that increased the expression of genes responsible for the transport of glucose and fructose into cells, and mutations that reduce the tendency of cells to cease growth when nutrient availability is low."
+    },
+    "annotation_23": {
+      "type": "emphasis",
+      "id": "annotation_23",
+      "path": [
+        "paragraph_22",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        335,
+        339
+      ]
+    },
+    "citation_reference_24": {
+      "type": "citation_reference",
+      "id": "citation_reference_24",
+      "path": [
+        "paragraph_22",
+        "content"
+      ],
+      "target": "article_citation_bib4",
+      "range": [
+        465,
+        485
+      ]
+    },
+    "annotation_25": {
+      "type": "emphasis",
+      "id": "annotation_25",
+      "path": [
+        "paragraph_22",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        500,
+        504
+      ]
+    },
+    "paragraph_26": {
+      "type": "paragraph",
+      "id": "paragraph_26",
+      "content": "The results of this study present a route to undifferentiated multicellularity (that is, clumps of cells that all have similar properties) that contrasts with recent results reported by Nicole King and co-workers (Alegado et al., 2012). In that study, the unicellular choanoflagellate, Salpingoeca rosetta—one of the closest living relatives of animals—was shown to form multicellular colonies in the presence of a signaling molecule produced by bacteria. As in yeast, undifferentiated multicellularity occurs as a result of incomplete cell separation. However, in S. rosetta this appears to be a physiological response, rather than one that is acquired by mutation. Nevertheless, an intriguing possibility is that S. rosetta may have evolved to form multicellular colonies in the presence of bacteria in order to make themselves more efficient predators of those bacteria. If this were the case, the force driving undifferentiated multicellularity in both S. rosetta and yeast would be an increase in the efficiency of resource usage, which may be a common theme underlying the emergence of multicellularity."
+    },
+    "citation_reference_27": {
+      "type": "citation_reference",
+      "id": "citation_reference_27",
+      "path": [
+        "paragraph_26",
+        "content"
+      ],
+      "target": "article_citation_bib1",
+      "range": [
+        214,
+        234
+      ]
+    },
+    "annotation_28": {
+      "type": "emphasis",
+      "id": "annotation_28",
+      "path": [
+        "paragraph_26",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        286,
+        305
+      ]
+    },
+    "annotation_29": {
+      "type": "emphasis",
+      "id": "annotation_29",
+      "path": [
+        "paragraph_26",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        565,
+        575
+      ]
+    },
+    "annotation_30": {
+      "type": "emphasis",
+      "id": "annotation_30",
+      "path": [
+        "paragraph_26",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        715,
+        725
+      ]
+    },
+    "annotation_31": {
+      "type": "emphasis",
+      "id": "annotation_31",
+      "path": [
+        "paragraph_26",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        957,
+        967
+      ]
+    },
+    "paragraph_32": {
+      "type": "paragraph",
+      "id": "paragraph_32",
+      "content": "Koschwanez et al. speculate that selection for clumping of unicellular organisms may have ultimately led to multicellularity. However, it is clear that selecting for mutants that stick together is relatively easy, and can be achieved in a single mutational step. Wild budding yeast are frequently clumpy and, in many of the commonly used laboratory strains, experimenters have selected for loss of clumpiness to enable easier manipulation of cells. Indeed, during long-term evolution experiments in yeast, selection for clumpy cells can occur intentionally (Ratcliff et al., 2012) and, sometimes, unintentionally (Lang et al., 2011). However, multicellular organisms are more than a conglomerate of undifferentiated cell types, and specialization of cell types is a defining feature of multicellular organisms. The challenge now is to design experiments that address the question of how multicellular organisms with distinct cell types might have emerged from single-celled organisms."
+    },
+    "citation_reference_33": {
+      "type": "citation_reference",
+      "id": "citation_reference_33",
+      "path": [
+        "paragraph_32",
+        "content"
+      ],
+      "target": "article_citation_bib8",
+      "range": [
+        558,
+        579
+      ]
+    },
+    "citation_reference_34": {
+      "type": "citation_reference",
+      "id": "citation_reference_34",
+      "path": [
+        "paragraph_32",
+        "content"
+      ],
+      "target": "article_citation_bib7",
+      "range": [
+        614,
+        631
+      ]
+    },
+    "paragraph_35": {
+      "type": "paragraph",
+      "id": "paragraph_35",
+      "content": "This process could have happened along two evolutionary trajectories. First, selection for undifferentiated multicellularity may have enabled the subsequent development of specialized cell types. Second, many microbes—including budding yeast (Gimeno et al., 1992) and S. rosetta (Dayel et al., 2011)—can exist as distinct morphological types with different characteristics. Perhaps existing in a multicellular form comprised of several physiologically distinct cell types could be beneficial in some environments. In any case, employing the powerful combination of rational engineering and long-term selection used by Koschwanez et al. is likely to prove fruitful in testing these different models."
+    },
+    "citation_reference_36": {
+      "type": "citation_reference",
+      "id": "citation_reference_36",
+      "path": [
+        "paragraph_35",
+        "content"
+      ],
+      "target": "article_citation_bib3",
+      "range": [
+        243,
+        262
+      ]
+    },
+    "annotation_37": {
+      "type": "emphasis",
+      "id": "annotation_37",
+      "path": [
+        "paragraph_35",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        268,
+        278
+      ]
+    },
+    "citation_reference_38": {
+      "type": "citation_reference",
+      "id": "citation_reference_38",
+      "path": [
+        "paragraph_35",
+        "content"
+      ],
+      "target": "article_citation_bib2",
+      "range": [
+        280,
+        298
+      ]
+    },
+    "info:competing-interest": {
+      "type": "heading",
+      "id": "info:competing-interest",
+      "level": 2,
+      "content": "Competing Interests",
+      "nodes": [
+        "paragraph_39"
+      ]
+    },
+    "paragraph_39": {
+      "type": "paragraph",
+      "id": "paragraph_39",
+      "content": "Competing interests:The author declares that no competing interests exist.References"
+    },
+    "article_citation_bib1": {
+      "type": "article_citation",
+      "id": "article_citation_bib1",
+      "authors": [
+        {
+          "given-names": "RA",
+          "last-name": "Alegado"
+        },
+        {
+          "given-names": "LW",
+          "last-name": "Brown"
+        },
+        {
+          "given-names": "S",
+          "last-name": "Cao"
+        },
+        {
+          "given-names": "RK",
+          "last-name": "Dermenjian"
+        },
+        {
+          "given-names": "R",
+          "last-name": "Zuzow"
+        },
+        {
+          "given-names": "SR",
+          "last-name": "Fairclough"
+        }
+      ],
+      "title": "A bacterial sulfonolipid triggers multicellular development in the closest living relatives of animals",
+      "year": "2012",
+      "volume": "1",
+      "source": "eLife",
+      "issue": "",
+      "fpage": "e00013",
+      "lpage": "",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.7554/eLife.00013",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib2": {
+      "type": "article_citation",
+      "id": "article_citation_bib2",
+      "authors": [
+        {
+          "given-names": "MJ",
+          "last-name": "Dayel"
+        },
+        {
+          "given-names": "RA",
+          "last-name": "Alegado"
+        },
+        {
+          "given-names": "SR",
+          "last-name": "Fairclough"
+        },
+        {
+          "given-names": "TC",
+          "last-name": "Levin"
+        },
+        {
+          "given-names": "SA",
+          "last-name": "Nichols"
+        },
+        {
+          "given-names": "K",
+          "last-name": "McDonald"
+        }
+      ],
+      "title": "Cell differentiation and morphogenesis in the colony-forming choanoflagellate Salpingoeca rosetta",
+      "year": "2011",
+      "volume": "357",
+      "source": "Dev Biol",
+      "issue": "",
+      "fpage": "73",
+      "lpage": "82",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/j.ydbio.2011.06.003",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "annotation_40": {
+      "type": "emphasis",
+      "id": "annotation_40",
+      "path": [
+        "article_citation_bib2",
+        "title"
+      ],
+      "target": null,
+      "range": [
+        78,
+        97
+      ]
+    },
+    "article_citation_bib3": {
+      "type": "article_citation",
+      "id": "article_citation_bib3",
+      "authors": [
+        {
+          "given-names": "CJ",
+          "last-name": "Gimeno"
+        },
+        {
+          "given-names": "PO",
+          "last-name": "Ljungdahl"
+        },
+        {
+          "given-names": "CA",
+          "last-name": "Styles"
+        },
+        {
+          "given-names": "GR",
+          "last-name": "Fink"
+        }
+      ],
+      "title": "Unipolar cell divisions in the yeast S. cerevisiae lead to filamentous growth: regulation by starvation and RAS",
+      "year": "1992",
+      "volume": "68",
+      "source": "Cell",
+      "issue": "",
+      "fpage": "1077",
+      "lpage": "90",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/0092-8674(92)90079-R",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "annotation_41": {
+      "type": "emphasis",
+      "id": "annotation_41",
+      "path": [
+        "article_citation_bib3",
+        "title"
+      ],
+      "target": null,
+      "range": [
+        37,
+        50
+      ]
+    },
+    "article_citation_bib4": {
+      "type": "article_citation",
+      "id": "article_citation_bib4",
+      "authors": [
+        {
+          "given-names": "D",
+          "last-name": "Gresham"
+        },
+        {
+          "given-names": "DM",
+          "last-name": "Ruderfer"
+        },
+        {
+          "given-names": "SC",
+          "last-name": "Pratt"
+        },
+        {
+          "given-names": "J",
+          "last-name": "Schacherer"
+        },
+        {
+          "given-names": "MJ",
+          "last-name": "Dunham"
+        },
+        {
+          "given-names": "D",
+          "last-name": "Botstein"
+        }
+      ],
+      "title": "Genome-wide detection of polymorphisms at nucleotide resolution with a single DNA microarray",
+      "year": "2006",
+      "volume": "311",
+      "source": "Science",
+      "issue": "",
+      "fpage": "1932",
+      "lpage": "6",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1126/science.1123726",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib5": {
+      "type": "article_citation",
+      "id": "article_citation_bib5",
+      "authors": [
+        {
+          "given-names": "JH",
+          "last-name": "Koschwanez"
+        },
+        {
+          "given-names": "KR",
+          "last-name": "Foster"
+        },
+        {
+          "given-names": "AW",
+          "last-name": "Murray"
+        }
+      ],
+      "title": "Sucrose utilization in budding yeast as a model for the origin of undifferentiated multicellularity",
+      "year": "2011",
+      "volume": "9",
+      "source": "PLoS Biol",
+      "issue": "",
+      "fpage": "e1001122",
+      "lpage": "",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1371/journal.pbio.1001122.g005",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib6": {
+      "type": "article_citation",
+      "id": "article_citation_bib6",
+      "authors": [
+        {
+          "given-names": "JH",
+          "last-name": "Koschwanez"
+        },
+        {
+          "given-names": "KR",
+          "last-name": "Foster"
+        },
+        {
+          "given-names": "AW",
+          "last-name": "Murray"
+        }
+      ],
+      "title": "Improved use of public good selects for the evolution of undifferentiated multicellularity",
+      "year": "2013",
+      "volume": "2",
+      "source": "eLife",
+      "issue": "",
+      "fpage": "e00367",
+      "lpage": "",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.7554/eLife.00367",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib7": {
+      "type": "article_citation",
+      "id": "article_citation_bib7",
+      "authors": [
+        {
+          "given-names": "GI",
+          "last-name": "Lang"
+        },
+        {
+          "given-names": "D",
+          "last-name": "Botstein"
+        },
+        {
+          "given-names": "MM",
+          "last-name": "Desai"
+        }
+      ],
+      "title": "Genetic variation and the fate of beneficial mutations in asexual populations",
+      "year": "2011",
+      "volume": "188",
+      "source": "Genetics",
+      "issue": "",
+      "fpage": "647",
+      "lpage": "61",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1534/genetics.111.128942",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib8": {
+      "type": "article_citation",
+      "id": "article_citation_bib8",
+      "authors": [
+        {
+          "given-names": "WC",
+          "last-name": "Ratcliff"
+        },
+        {
+          "given-names": "RF",
+          "last-name": "Denison"
+        },
+        {
+          "given-names": "M",
+          "last-name": "Borrello"
+        },
+        {
+          "given-names": "M",
+          "last-name": "Travisano"
+        }
+      ],
+      "title": "Experimental evolution of multicellularity",
+      "year": "2012",
+      "volume": "109",
+      "source": "Proc Natl Acad of Sci USA",
+      "issue": "",
+      "fpage": "1595",
+      "lpage": "600",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1073/pnas.1115323109",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    }
+  }
+}

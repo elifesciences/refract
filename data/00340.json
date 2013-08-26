@@ -1,0 +1,734 @@
+{
+  "id": "00340",
+  "nodes": {
+    "content": {
+      "type": "view",
+      "id": "content",
+      "nodes": [
+        "abstract",
+        "paragraph_3",
+        "paragraph_8",
+        "paragraph_10",
+        "paragraph_11",
+        "paragraph_15",
+        "paragraph_20",
+        "paragraph_21",
+        "paragraph_23",
+        "quote_26",
+        "paragraph_27",
+        "paragraph_28"
+      ]
+    },
+    "figures": {
+      "type": "view",
+      "id": "figures",
+      "nodes": [
+        "box_B1"
+      ]
+    },
+    "citations": {
+      "type": "view",
+      "id": "citations",
+      "nodes": [
+        "article_citation_bib1",
+        "article_citation_bib2",
+        "article_citation_bib3",
+        "article_citation_bib4",
+        "article_citation_bib5",
+        "article_citation_bib6",
+        "article_citation_bib7",
+        "article_citation_bib8",
+        "article_citation_bib9",
+        "article_citation_bib10"
+      ]
+    },
+    "document": {
+      "type": "document",
+      "id": "document",
+      "views": [
+        "content",
+        "figures",
+        "citations"
+      ],
+      "guid": "00340",
+      "title": "Enzymes provide demographers with food for thought",
+      "authors": [
+        "person_author_1708",
+        "person_author_1774"
+      ],
+      "received_on": "",
+      "accepted_on": "",
+      "published_on": "2012-12-13",
+      "journal": "eLife",
+      "article_type": "",
+      "keywords": [
+        "enzyme kinetics",
+        "child survival",
+        "smoking",
+        "income",
+        "adult survival"
+      ],
+      "research_organisms": [
+        "Human"
+      ],
+      "subjects": [
+        "Human biology and medicine",
+        "Microbiology and infectious disease"
+      ],
+      "pdf_link": "",
+      "xml_link": "",
+      "json_link": "",
+      "doi": ""
+    },
+    "person_author_1708": {
+      "type": "person",
+      "id": "person_author_1708",
+      "given-names": "Mark",
+      "last-name": "Jit",
+      "role": "author",
+      "affiliations": [],
+      "image": "",
+      "contribution": "",
+      "email": "",
+      "funding": []
+    },
+    "person_author_1774": {
+      "type": "person",
+      "id": "person_author_1774",
+      "given-names": "Patrick",
+      "last-name": "Gerland",
+      "role": "author",
+      "affiliations": [],
+      "image": "",
+      "contribution": "",
+      "email": "",
+      "funding": []
+    },
+    "institution_aff1": {
+      "type": "institution",
+      "id": "institution_aff1",
+      "name": "London School of Hygiene and Tropical Medicine",
+      "city": "London",
+      "country": "United Kingdom",
+      "email": "mark.jit@hpa.org.uk",
+      "image": ""
+    },
+    "institution_aff2": {
+      "type": "institution",
+      "id": "institution_aff2",
+      "name": "Population Division, Department of Economic and Social Affairs, United Nations",
+      "city": "New York",
+      "country": "United States",
+      "email": "gerland@un.org",
+      "image": ""
+    },
+    "info:copyright": {
+      "type": "heading",
+      "id": "info:copyright",
+      "level": 2,
+      "content": "Copyright",
+      "nodes": [
+        "paragraph_1"
+      ]
+    },
+    "paragraph_1": {
+      "type": "paragraph",
+      "id": "paragraph_1",
+      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "annotation_2": {
+      "type": "link",
+      "id": "annotation_2",
+      "path": [
+        "paragraph_1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        51,
+        87
+      ],
+      "url": "http://creativecommons.org/licenses/by/3.0/"
+    },
+    "abstract": {
+      "type": "heading",
+      "id": "abstract",
+      "level": 1,
+      "content": "Abstract",
+      "nodes": []
+    },
+    "paragraph_3": {
+      "type": "paragraph",
+      "id": "paragraph_3",
+      "content": "Life expectancy has increased by 20 years since the middle of the last century, but children under five have fared better than adult males."
+    },
+    "box_B1": {
+      "type": "box",
+      "id": "box_B1",
+      "label": "",
+      "url": "",
+      "title": "",
+      "caption": "",
+      "content": "Related research article Hum R, Jha P, McGahan A, Cheng Y-L. 2012. Global divergence in critical income for adult and childhood survival: analyses of mortality using Michaelis–Menten. eLife 1:e00051. doi: 10.7554/eLife.00051",
+      "doi": ""
+    },
+    "annotation_4": {
+      "type": "strong",
+      "id": "annotation_4",
+      "path": [
+        "box_B1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        24
+      ]
+    },
+    "annotation_5": {
+      "type": "emphasis",
+      "id": "annotation_5",
+      "path": [
+        "box_B1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        184,
+        189
+      ]
+    },
+    "annotation_6": {
+      "type": "strong",
+      "id": "annotation_6",
+      "path": [
+        "box_B1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        190,
+        191
+      ]
+    },
+    "annotation_7": {
+      "type": "link",
+      "id": "annotation_7",
+      "path": [
+        "box_B1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        205,
+        224
+      ],
+      "url": "http://dx.doi.org/10.7554/eLife.00051"
+    },
+    "paragraph_8": {
+      "type": "paragraph",
+      "id": "paragraph_8",
+      "content": "Image An equation used to model enzyme kinetics can be adapted to model the link between life expectancy (LE) and GDP"
+    },
+    "annotation_9": {
+      "type": "strong",
+      "id": "annotation_9",
+      "path": [
+        "paragraph_8",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        5
+      ]
+    },
+    "paragraph_10": {
+      "type": "paragraph",
+      "id": "paragraph_10",
+      "content": ""
+    },
+    "paragraph_11": {
+      "type": "paragraph",
+      "id": "paragraph_11",
+      "content": "One of the great success stories of the last century is the dramatic increase in the longevity of world citizens. Global life expectancy leaped from 48 years in 1950–1955 to 68 years in 2005–2010 (United Nations, 2011). Major improvements were seen in almost all regions—rich and poor, east and west—with the exception of the former communist bloc countries of Eastern Europe and the countries affected most severely by the HIV/AIDS epidemic in sub-Saharan Africa. Where have these gains come from? Which population groups and which countries have benefitted most? Now, writing in eLife, researchers at the University of Toronto explore this question using statistical models that relate life expectancy to national income (Hum et al., 2012). They argue that gains in low-income countries have mainly come from improvements in child survival. Conversely, improvements in adult survival, particularly for males, have been largely restricted to high-income countries. Moreover, the level of national income needed to attain the best possible levels of survival for adults has been steadily rising."
+    },
+    "citation_reference_12": {
+      "type": "citation_reference",
+      "id": "citation_reference_12",
+      "path": [
+        "paragraph_11",
+        "content"
+      ],
+      "target": "article_citation_bib7",
+      "range": [
+        197,
+        217
+      ]
+    },
+    "annotation_13": {
+      "type": "emphasis",
+      "id": "annotation_13",
+      "path": [
+        "paragraph_11",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        581,
+        586
+      ]
+    },
+    "citation_reference_14": {
+      "type": "citation_reference",
+      "id": "citation_reference_14",
+      "path": [
+        "paragraph_11",
+        "content"
+      ],
+      "target": "article_citation_bib2",
+      "range": [
+        724,
+        740
+      ]
+    },
+    "paragraph_15": {
+      "type": "paragraph",
+      "id": "paragraph_15",
+      "content": "This is not the first statistical model to relate income with life expectancy. In a landmark essay published 37 years ago, the American sociologist Samuel Preston, then at the University of Washington, used a logistic function to model the nonlinear relationship between income and health, and showed that higher national incomes per capita led to longer life expectancies (Preston, 1975). Preston's work has had a lasting influence on research into the relationship between income inequality and health. In 2006, using more recent data, Rati Ram of Illinois State University confirmed what Preston had found, even after controlling for factors such as female illiteracy, secondary school enrolment and ethnic heterogeneity (Ram, 2006). This relationship can also be modelled through the use of smoothing and least-squares fits (Deaton, 2004; Schnabel and Eilers, 2009) without imposing any functional form to fit the data, but in this approach it is not possible to reduce the data to an analytical expression with a few parameters that have clear interpretations. The mathematical formula derived by the Toronto group, on the other hand, provides additional insights into the relationship between national income and life expectancy, and also introduces (through, for example, asymptotic limits) new parameters beyond those that have been studied before."
+    },
+    "citation_reference_16": {
+      "type": "citation_reference",
+      "id": "citation_reference_16",
+      "path": [
+        "paragraph_15",
+        "content"
+      ],
+      "target": "article_citation_bib4",
+      "range": [
+        374,
+        387
+      ]
+    },
+    "citation_reference_17": {
+      "type": "citation_reference",
+      "id": "citation_reference_17",
+      "path": [
+        "paragraph_15",
+        "content"
+      ],
+      "target": "article_citation_bib5",
+      "range": [
+        725,
+        734
+      ]
+    },
+    "citation_reference_18": {
+      "type": "citation_reference",
+      "id": "citation_reference_18",
+      "path": [
+        "paragraph_15",
+        "content"
+      ],
+      "target": "article_citation_bib1",
+      "range": [
+        829,
+        841
+      ]
+    },
+    "citation_reference_19": {
+      "type": "citation_reference",
+      "id": "citation_reference_19",
+      "path": [
+        "paragraph_15",
+        "content"
+      ],
+      "target": "article_citation_bib6",
+      "range": [
+        843,
+        868
+      ]
+    },
+    "paragraph_20": {
+      "type": "paragraph",
+      "id": "paragraph_20",
+      "content": "The Toronto group—Ryan Hum, Prabhat Jha, Anita McGahan and Yu-Ling Cheng—deploy a mathematical relationship called the Michaelis–Menten function, which is more familiar to biochemists than demographers. This function describes the action of an enzyme—a biological catalyst that speeds up a chemical process without getting used up in the process, which means that it can be reused again and again. Hum and colleagues see investments in healthcare that tend to benefit a country over the long term, such as the building of hospitals and the deployment of medical technology, as a kind of enzyme that converts national income into longevity."
+    },
+    "paragraph_21": {
+      "type": "paragraph",
+      "id": "paragraph_21",
+      "content": "So what do they find? First the good news: child survival has dramatically improved. Although this is not the focus of their paper, it is surely an achievement to be celebrated. This reduction in childhood mortality is the fruit of decades of investment in research and the deployment of technologies such as sanitation, maternal services, vaccines, oral rehydration, antibiotics and vitamins. Devastating childhood diseases such as smallpox, polio, measles and beri-beri are now thankfully things of the past in most (though sadly not all) parts of the world. Yet the task is not over—children still die of causes like diarrhoea and pneumonia that can be prevented by administering a vaccine or a simple rehydrating solution. Diarrhoea and pneumonia remain the leading causes of death among children, and it has been estimated that they killed some 2.2 million children under the age of five in 2010, which is almost 30% of the deaths in this age group (Liu et al., 2012)."
+    },
+    "citation_reference_22": {
+      "type": "citation_reference",
+      "id": "citation_reference_22",
+      "path": [
+        "paragraph_21",
+        "content"
+      ],
+      "target": "article_citation_bib3",
+      "range": [
+        955,
+        971
+      ]
+    },
+    "paragraph_23": {
+      "type": "paragraph",
+      "id": "paragraph_23",
+      "content": "Still more troubling are the signs that gains in adult survival are becoming more expensive—and that male adult survival in particular has remained flat even though countries have become richer. HIV and smoking-related diseases are singled out by Hum and colleagues as the likely culprits, though a host of other causes may also be to blame: drug resistant tuberculosis, road traffic accidents, air pollution, and alcohol and drug abuse. Unfortunately, unlike many of the causes of death during childhood in low-income countries, these sources of mortality are often exacerbated rather than ameliorated by development. The World Health Organisation (WHO) has estimated that more than 90% of deaths due to these causes occur in low- and middle-income countries, where they represent about 12% of all deaths, compared with 6% for high-income countries (WHO, 2008; WHO, 2009)."
+    },
+    "citation_reference_24": {
+      "type": "citation_reference",
+      "id": "citation_reference_24",
+      "path": [
+        "paragraph_23",
+        "content"
+      ],
+      "target": "article_citation_bib8",
+      "range": [
+        851,
+        860
+      ]
+    },
+    "citation_reference_25": {
+      "type": "citation_reference",
+      "id": "citation_reference_25",
+      "path": [
+        "paragraph_23",
+        "content"
+      ],
+      "target": "article_citation_bib9",
+      "range": [
+        862,
+        871
+      ]
+    },
+    "quote_26": {
+      "type": "quote",
+      "id": "quote_26",
+      "content": "Children still die of causes like diarrhoea and pneumonia that can be prevented by administering a vaccine or a simple rehydrating solution."
+    },
+    "paragraph_27": {
+      "type": "paragraph",
+      "id": "paragraph_27",
+      "content": "Hum and colleagues point out that there are cost-effective interventions against lung cancer, HIV/AIDS and many of the other non-communicable diseases that kills adults, such as anti-smoking or safe sex programmes. However, despite being inexpensive, such interventions are often more complex to implement than pharmaceutical interventions such as vaccines and antibiotics. This is because they involve addressing the multiple risk factors that are associated with non-communicable diseases, and because they require a shift from a purely biomedical model of health to one that takes into account the socioeconomic, cultural, legislative and environmental framework in which people live. Achieving this requires collaboration between government departments as diverse as health, agriculture, education, urban planning and infrastructure."
+    },
+    "paragraph_28": {
+      "type": "paragraph",
+      "id": "paragraph_28",
+      "content": "Nevertheless, the work of the Toronto team highlights the necessity of dealing with these causes of mortality if the health gains of the last century are to be maintained and extended into the next. One of the targets set at the sixty-fifth World Health Assembly, held in Geneva in May, was for a 25% reduction in premature mortality from the four major non-communicable killers—cardiovascular disease, cancer, diabetes and chronic respiratory diseases (WHO, 2012). However, for this resolution to be more than aspirational will require a concerted effort on the scale of the campaigns against childhood diseases seen in the last century."
+    },
+    "citation_reference_29": {
+      "type": "citation_reference",
+      "id": "citation_reference_29",
+      "path": [
+        "paragraph_28",
+        "content"
+      ],
+      "target": "article_citation_bib10",
+      "range": [
+        454,
+        463
+      ]
+    },
+    "info:competing-interest": {
+      "type": "heading",
+      "id": "info:competing-interest",
+      "level": 2,
+      "content": "Competing Interests",
+      "nodes": [
+        "paragraph_30"
+      ]
+    },
+    "paragraph_30": {
+      "type": "paragraph",
+      "id": "paragraph_30",
+      "content": "Competing interests:The authors declare that no competing interests existThe views expressed herein do not necessarily reflect the views of the United Nations.References"
+    },
+    "article_citation_bib1": {
+      "type": "article_citation",
+      "id": "article_citation_bib1",
+      "authors": [
+        {
+          "given-names": "A",
+          "last-name": "Deaton"
+        }
+      ],
+      "title": "Health in an age of globalization",
+      "year": "2004",
+      "volume": "",
+      "source": "Globalization, poverty, and inequality",
+      "issue": "",
+      "fpage": "83",
+      "lpage": "130",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "Brookings Institution Press",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/http://www.nber.org/papers/w10669",
+      "citation_url": [],
+      "format": "book",
+      "label": "",
+      "editors": [
+        {
+          "given-names": "C",
+          "last-name": "Graham"
+        },
+        {
+          "given-names": "SM",
+          "last-name": "Collins"
+        }
+      ]
+    },
+    "article_citation_bib2": {
+      "type": "article_citation",
+      "id": "article_citation_bib2",
+      "authors": [
+        {
+          "given-names": "R",
+          "last-name": "Hum"
+        },
+        {
+          "given-names": "P",
+          "last-name": "Jha"
+        },
+        {
+          "given-names": "A",
+          "last-name": "McGahan"
+        },
+        {
+          "given-names": "Y-L",
+          "last-name": "Cheng"
+        }
+      ],
+      "title": "Global divergence in critical income for adult and childhood survival: analyses of mortality using Michaelis-Menten",
+      "year": "2012",
+      "volume": "1",
+      "source": "eLife",
+      "issue": "",
+      "fpage": "e00051",
+      "lpage": "",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.7554/eLife.00051",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib3": {
+      "type": "article_citation",
+      "id": "article_citation_bib3",
+      "authors": [
+        {
+          "given-names": "L",
+          "last-name": "Liu"
+        },
+        {
+          "given-names": "HL",
+          "last-name": "Johnson"
+        },
+        {
+          "given-names": "S",
+          "last-name": "Cousens"
+        },
+        {
+          "given-names": "J",
+          "last-name": "Perin"
+        },
+        {
+          "given-names": "S",
+          "last-name": "Scott"
+        },
+        {
+          "given-names": "JE",
+          "last-name": "Lawn"
+        }
+      ],
+      "title": "Global, regional, and national causes of child mortality: an updated systematic analysis for 2010 with time trends since 2000",
+      "year": "2012",
+      "volume": "379",
+      "source": "Lancet",
+      "issue": "",
+      "fpage": "2151",
+      "lpage": "61",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/S0140-6736(12)60560-1",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib4": {
+      "type": "article_citation",
+      "id": "article_citation_bib4",
+      "authors": [
+        {
+          "given-names": "SH",
+          "last-name": "Preston"
+        }
+      ],
+      "title": "Changing relation between mortality and level of economic development",
+      "year": "1975",
+      "volume": "29",
+      "source": "Popul Stud",
+      "issue": "",
+      "fpage": "231",
+      "lpage": "48",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1080/00324728.1975.10410201",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib5": {
+      "type": "article_citation",
+      "id": "article_citation_bib5",
+      "authors": [
+        {
+          "given-names": "R",
+          "last-name": "Ram"
+        }
+      ],
+      "title": "Further examination of the cross-country association between income inequality and population health",
+      "year": "2006",
+      "volume": "62",
+      "source": "Soc Sci Med",
+      "issue": "",
+      "fpage": "779",
+      "lpage": "91",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/j.socscimed.2005.06.034",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib6": {
+      "type": "article_citation",
+      "id": "article_citation_bib6",
+      "authors": [
+        {
+          "given-names": "SK",
+          "last-name": "Schnabel"
+        },
+        {
+          "given-names": "PHC",
+          "last-name": "Eilers"
+        }
+      ],
+      "title": "An analysis of life expectancy and economic production using expectile frontier zones",
+      "year": "2009",
+      "volume": "21",
+      "source": "Demographic Research",
+      "issue": "",
+      "fpage": "109",
+      "lpage": "34",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.4054/DemRes.2009.21.5",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib7": {
+      "type": "article_citation",
+      "id": "article_citation_bib7",
+      "authors": [],
+      "title": "World population prospects: the 2010 revision",
+      "year": "2011",
+      "volume": "",
+      "source": "",
+      "issue": "",
+      "fpage": "",
+      "lpage": "",
+      "collab": "United Nations",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/esa.un.org/wpp/Documentation/pdf/WPP2010_Highlights.pdf",
+      "citation_url": [],
+      "format": "book",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib8": {
+      "type": "article_citation",
+      "id": "article_citation_bib8",
+      "authors": [],
+      "title": "The global burden of disease: 2004 update",
+      "year": "2008",
+      "volume": "",
+      "source": "",
+      "issue": "",
+      "fpage": "",
+      "lpage": "",
+      "collab": "WHO",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/www.who.int/healthinfo/global_burden_disease/2004_report_update/en/index.html",
+      "citation_url": [],
+      "format": "book",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib9": {
+      "type": "article_citation",
+      "id": "article_citation_bib9",
+      "authors": [],
+      "title": "Global health risks: mortality and burden of disease attributable to selected major risks",
+      "year": "2009",
+      "volume": "",
+      "source": "",
+      "issue": "",
+      "fpage": "",
+      "lpage": "",
+      "collab": "WHO",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/www.who.int/healthinfo/global_burden_disease/global_health_risks/en/index.html",
+      "citation_url": [],
+      "format": "book",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib10": {
+      "type": "article_citation",
+      "id": "article_citation_bib10",
+      "authors": [],
+      "title": "Press release: 65th World Health Assembly closes with new global health measures",
+      "year": "2012",
+      "volume": "",
+      "source": "",
+      "issue": "",
+      "fpage": "",
+      "lpage": "",
+      "collab": "WHO",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/http://www.who.int/mediacentre/news/releases/2012/wha65_closes_20120526/en/index.html",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    }
+  }
+}

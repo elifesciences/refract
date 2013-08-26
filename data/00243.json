@@ -1,0 +1,1371 @@
+{
+  "id": "00243",
+  "nodes": {
+    "content": {
+      "type": "view",
+      "id": "content",
+      "nodes": [
+        "abstract",
+        "paragraph_3",
+        "paragraph_9",
+        "paragraph_11",
+        "paragraph_12",
+        "paragraph_16",
+        "paragraph_18",
+        "paragraph_33",
+        "paragraph_36",
+        "paragraph_39",
+        "paragraph_44",
+        "paragraph_48",
+        "paragraph_59",
+        "paragraph_63"
+      ]
+    },
+    "figures": {
+      "type": "view",
+      "id": "figures",
+      "nodes": [
+        "box_B1",
+        "image_fig1"
+      ]
+    },
+    "citations": {
+      "type": "view",
+      "id": "citations",
+      "nodes": [
+        "article_citation_bib1",
+        "article_citation_bib2",
+        "article_citation_bib3",
+        "article_citation_bib4",
+        "article_citation_bib5",
+        "article_citation_bib6",
+        "article_citation_bib7",
+        "article_citation_bib8",
+        "article_citation_bib9",
+        "article_citation_bib10"
+      ]
+    },
+    "document": {
+      "type": "document",
+      "id": "document",
+      "views": [
+        "content",
+        "figures",
+        "citations"
+      ],
+      "guid": "00243",
+      "title": "New twists in the unfolded protein response",
+      "authors": [
+        "person_author_2247",
+        "person_author_1174"
+      ],
+      "received_on": "",
+      "accepted_on": "",
+      "published_on": "2012-10-15",
+      "journal": "eLife",
+      "article_type": "",
+      "keywords": [
+        "Unfolded Protein Response",
+        "Ire1",
+        "selective mRNA decay",
+        "Bip1 mRNA stabilization",
+        "ER homeostasis"
+      ],
+      "research_organisms": [],
+      "subjects": [
+        "Cell biology"
+      ],
+      "pdf_link": "",
+      "xml_link": "",
+      "json_link": "",
+      "doi": ""
+    },
+    "person_author_2247": {
+      "type": "person",
+      "id": "person_author_2247",
+      "given-names": "Benedict C S",
+      "last-name": "Cross",
+      "role": "author",
+      "affiliations": [],
+      "image": "",
+      "contribution": "",
+      "email": "",
+      "funding": []
+    },
+    "person_author_1174": {
+      "type": "person",
+      "id": "person_author_1174",
+      "given-names": "David",
+      "last-name": "Ron",
+      "role": "author",
+      "affiliations": [],
+      "image": "",
+      "contribution": "",
+      "email": "",
+      "funding": []
+    },
+    "institution_aff1": {
+      "type": "institution",
+      "id": "institution_aff1",
+      "name": "University of Cambridge Metabolic Research Laboratories and the NIHR Cambridge Biomedical Research Centre",
+      "city": "Cambridge",
+      "country": "United Kingdom",
+      "email": "bcc33@medschl.cam.ac.uk",
+      "image": ""
+    },
+    "institution_aff2": {
+      "type": "institution",
+      "id": "institution_aff2",
+      "name": "University of Cambridge Metabolic Research Laboratories and the NIHR Cambridge Biomedical Research Centre",
+      "city": "Cambridge",
+      "country": "United Kingdom",
+      "email": "dr360@medschl.cam.ac.uk",
+      "image": ""
+    },
+    "info:copyright": {
+      "type": "heading",
+      "id": "info:copyright",
+      "level": 2,
+      "content": "Copyright",
+      "nodes": [
+        "paragraph_1"
+      ]
+    },
+    "paragraph_1": {
+      "type": "paragraph",
+      "id": "paragraph_1",
+      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "annotation_2": {
+      "type": "link",
+      "id": "annotation_2",
+      "path": [
+        "paragraph_1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        51,
+        87
+      ],
+      "url": "http://creativecommons.org/licenses/by/3.0/"
+    },
+    "abstract": {
+      "type": "heading",
+      "id": "abstract",
+      "level": 1,
+      "content": "Abstract",
+      "nodes": []
+    },
+    "paragraph_3": {
+      "type": "paragraph",
+      "id": "paragraph_3",
+      "content": "The response of S. pombe, also known as fission yeast, to misfolded proteins involves mechanisms that have not been observed in other species."
+    },
+    "annotation_4": {
+      "type": "emphasis",
+      "id": "annotation_4",
+      "path": [
+        "paragraph_3",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        16,
+        24
+      ]
+    },
+    "box_B1": {
+      "type": "box",
+      "id": "box_B1",
+      "label": "",
+      "url": "",
+      "title": "",
+      "caption": "",
+      "content": "Related research article Kimmig P, Diaz M, Zheng J, Williams C, Lang A, Aragón T, Li H, Walter P. 2012. The unfolded protein response in fission yeast modulates stability of select mRNAs to maintain protein homeostasis. eLife 1:e00048. doi: 10.7554/eLife.00048",
+      "doi": ""
+    },
+    "annotation_5": {
+      "type": "strong",
+      "id": "annotation_5",
+      "path": [
+        "box_B1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        24
+      ]
+    },
+    "annotation_6": {
+      "type": "emphasis",
+      "id": "annotation_6",
+      "path": [
+        "box_B1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        220,
+        225
+      ]
+    },
+    "annotation_7": {
+      "type": "strong",
+      "id": "annotation_7",
+      "path": [
+        "box_B1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        226,
+        227
+      ]
+    },
+    "annotation_8": {
+      "type": "link",
+      "id": "annotation_8",
+      "path": [
+        "box_B1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        241,
+        260
+      ],
+      "url": "http://dx.doi.org/10.7554/eLife.00048"
+    },
+    "paragraph_9": {
+      "type": "paragraph",
+      "id": "paragraph_9",
+      "content": "Image Cleavage of mRNAs by the protein-folding sensor IRE1"
+    },
+    "annotation_10": {
+      "type": "strong",
+      "id": "annotation_10",
+      "path": [
+        "paragraph_9",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        5
+      ]
+    },
+    "paragraph_11": {
+      "type": "paragraph",
+      "id": "paragraph_11",
+      "content": ""
+    },
+    "paragraph_12": {
+      "type": "paragraph",
+      "id": "paragraph_12",
+      "content": "In eukaryotic cells many proteins are synthesised in the endoplasmic reticulum (ER), and within each cell this production process must be carefully synchronised with secretion and the export of proteins from the ER. Any failure to maintain a balance between the production of proteins—which involves strings of amino acids folding into specific shapes—and their departure from the ER will lead to errors in the synthesis process and, eventually, to toxicity through a phenomenon known as ‘ER stress’. The collection of mechanisms that cells use to combat ER stress is known as the unfolded protein response. Writing in eLife, Philipp Kimmig, Marcy Diaz and co-workers at the University of California at San Francisco (UCSF) report the results of experiments on Schizosaccharomyces pombe, a fission yeast, that reveal aspects of the unfolded protein response that have not been observed before (Kimmig et al., 2012)."
+    },
+    "annotation_13": {
+      "type": "emphasis",
+      "id": "annotation_13",
+      "path": [
+        "paragraph_12",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        619,
+        624
+      ]
+    },
+    "annotation_14": {
+      "type": "emphasis",
+      "id": "annotation_14",
+      "path": [
+        "paragraph_12",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        761,
+        786
+      ]
+    },
+    "citation_reference_15": {
+      "type": "citation_reference",
+      "id": "citation_reference_15",
+      "path": [
+        "paragraph_12",
+        "content"
+      ],
+      "target": "article_citation_bib7",
+      "range": [
+        894,
+        913
+      ]
+    },
+    "paragraph_16": {
+      "type": "paragraph",
+      "id": "paragraph_16",
+      "content": "In all systems studied to date, cells respond to an accumulation of misfolded proteins in the ER by producing more protein-folding machinery within the ER. This process is initiated by a stress transducer—either IRE1, PERK or ATF6—that spans the membrane between the ER and the rest of the cell (Walter and Ron, 2011). IRE1, which is conserved in all eukaryotes, is a dual-function enzyme that detects unfolded proteins in the ER and then sends signals to the nucleus of the cell to address this problem."
+    },
+    "citation_reference_17": {
+      "type": "citation_reference",
+      "id": "citation_reference_17",
+      "path": [
+        "paragraph_16",
+        "content"
+      ],
+      "target": "article_citation_bib10",
+      "range": [
+        296,
+        316
+      ]
+    },
+    "paragraph_18": {
+      "type": "paragraph",
+      "id": "paragraph_18",
+      "content": "In metazoans, plants and budding yeast, this signalling involves the IRE1 removing a short fragment from within a strand of messenger RNA (mRNA)—a process known as mRNA splicing. This short fragment is degraded and the two flanking pieces of mRNA are joined together to encode an active transcription factor that specifically increases the expression of the proteins that make up the protein-folding machinery found in the ER. Until recently it was generally agreed that the primary function of IRE1 during ER stress involved this transcriptional activation, and it was also thought that this process required a specific mRNA substrate (XBP1 for metazoans, bZIP60 for plants, and HAC1 for budding yeast). Fission yeast was known to be an exception to this appealing unity because no analogous IRE1 substrate had ever been identified (Figure 1A)."
+    },
+    "figure_reference_19": {
+      "type": "figure_reference",
+      "id": "figure_reference_19",
+      "path": [
+        "paragraph_18",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        834,
+        843
+      ]
+    },
+    "image_fig1": {
+      "type": "image",
+      "id": "image_fig1",
+      "label": "Figure 1.",
+      "url": "",
+      "object_id": "F1",
+      "title": "",
+      "content_type": "",
+      "large_url": "",
+      "content": "",
+      "group": [
+        "parent",
+        null
+      ],
+      "doi": "",
+      "caption": "paragraph_image_fig1",
+      "graphic_id": "elife00243f001"
+    },
+    "paragraph_image_fig1": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig1",
+      "content": "The unfolded protein response in S. pombe and other species. (A) The accumulation unfolded proteins in the endoplasmic reticulum (ER) of S. pombe leads to activation of IRE1 (presumably by nucleotide binding (green), auto-phosphorylation (red) and the formation of dimers), which is turn leads to the cleavage of mRNAs in the cytosol. The subsequent degradation of the cleaved mRNAs (known as RIDD) and explusion from the cell (via the exosome) reduced the protein-folding load on the ER. However, as described in the text, the mRNA that encodes for the molecular chaperone Bip1 escapes this fate: although it is cleaved at the 3′ untranslated region (shown by the asterisk), the 5′ Bip1 mRNA fragment is first stabilized and then translated into Bip1 by the ribosome. The enhanced production of Bip1 helps to increase the protein-folding capacity of the ER. The same IRE1 dimer can perform both Bip1 mRNA cleavage and RIDD: however, larger IRE1 oligomers (right) can also perform RIDD in a second level of the unfolded protein response. (B) Ancestral IRE1 may have possessed RIDD activity prior to the evolution of the yeasts (top), animals (middle) and plants (bottom). This vestigial RIDD function is not evident in budding yeast (S. cerevisiae), and it is not known if it exists in plants (Arabidopsis), but it is evident in the animals (metazoans). However, in all three cases IRE1 exerts transcriptional control by splicing mRNA to regulate the expression of various transcription factors (HAC1, XBP1 and bZIP60). The unfolded protein response in fusion yeast (S. Pombe) is different in that it involves RIDD and the direct post-transcriptional stabilisation of the molecular chaperone Bip1. RNase L is a distant relative of IRE1 that triggers mRNA decay in mammals in a way that is not dissimilar to RIDD."
+    },
+    "annotation_20": {
+      "type": "emphasis",
+      "id": "annotation_20",
+      "path": [
+        "paragraph_image_fig1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        33,
+        41
+      ]
+    },
+    "annotation_21": {
+      "type": "strong",
+      "id": "annotation_21",
+      "path": [
+        "paragraph_image_fig1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        62,
+        63
+      ]
+    },
+    "annotation_22": {
+      "type": "emphasis",
+      "id": "annotation_22",
+      "path": [
+        "paragraph_image_fig1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        137,
+        145
+      ]
+    },
+    "annotation_23": {
+      "type": "emphasis",
+      "id": "annotation_23",
+      "path": [
+        "paragraph_image_fig1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        574,
+        578
+      ]
+    },
+    "annotation_24": {
+      "type": "emphasis",
+      "id": "annotation_24",
+      "path": [
+        "paragraph_image_fig1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        683,
+        687
+      ]
+    },
+    "annotation_25": {
+      "type": "emphasis",
+      "id": "annotation_25",
+      "path": [
+        "paragraph_image_fig1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        747,
+        751
+      ]
+    },
+    "annotation_26": {
+      "type": "emphasis",
+      "id": "annotation_26",
+      "path": [
+        "paragraph_image_fig1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        796,
+        800
+      ]
+    },
+    "annotation_27": {
+      "type": "emphasis",
+      "id": "annotation_27",
+      "path": [
+        "paragraph_image_fig1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        896,
+        900
+      ]
+    },
+    "annotation_28": {
+      "type": "strong",
+      "id": "annotation_28",
+      "path": [
+        "paragraph_image_fig1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1039,
+        1040
+      ]
+    },
+    "annotation_29": {
+      "type": "emphasis",
+      "id": "annotation_29",
+      "path": [
+        "paragraph_image_fig1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1234,
+        1247
+      ]
+    },
+    "annotation_30": {
+      "type": "emphasis",
+      "id": "annotation_30",
+      "path": [
+        "paragraph_image_fig1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1294,
+        1305
+      ]
+    },
+    "annotation_31": {
+      "type": "emphasis",
+      "id": "annotation_31",
+      "path": [
+        "paragraph_image_fig1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1567,
+        1575
+      ]
+    },
+    "annotation_32": {
+      "type": "emphasis",
+      "id": "annotation_32",
+      "path": [
+        "paragraph_image_fig1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1692,
+        1696
+      ]
+    },
+    "paragraph_33": {
+      "type": "paragraph",
+      "id": "paragraph_33",
+      "content": "In 2006 it was discovered that ER stress in drosophila cells leads to the decay of a number of ER-localised mRNAs (Hollien and Weissman, 2006), and since then it has become apparent that cleavage of the mRNAs by IRE1 is the first step, and also the limiting step, in their degradation. This process, later termed regulated IRE1-dependent decay, has also been found in mammalian cells and is thought to reduce the protein-folding load by prompting the pre-emptive degradation of mRNAs that are destined for the ER (Hollien et al., 2009). This finding, which came as a surprise at the time, set the scene for the latest work on the unfolded protein response in fission yeast."
+    },
+    "citation_reference_34": {
+      "type": "citation_reference",
+      "id": "citation_reference_34",
+      "path": [
+        "paragraph_33",
+        "content"
+      ],
+      "target": "article_citation_bib6",
+      "range": [
+        115,
+        141
+      ]
+    },
+    "citation_reference_35": {
+      "type": "citation_reference",
+      "id": "citation_reference_35",
+      "path": [
+        "paragraph_33",
+        "content"
+      ],
+      "target": "article_citation_bib5",
+      "range": [
+        514,
+        534
+      ]
+    },
+    "paragraph_36": {
+      "type": "paragraph",
+      "id": "paragraph_36",
+      "content": "Kimmig and co-workers, working in Peter Walter’s lab at UCSF, conducted a transcript analysis of ER-stressed S. pombe cells and found a distinct decrease in the abundance of mRNAs encoding for proteins that were destined for the ER (Kimmig et al., 2012). Further molecular analysis confirmed IRE1-dependent cleavage of this subset of mRNAs, followed by degradation of the 5′ and 3′ fragments: these are the hallmarks of regulated IRE1-dependent decay (RIDD), and they suggest that this process might provide the foundation of the unfolded protein response in these cells."
+    },
+    "annotation_37": {
+      "type": "emphasis",
+      "id": "annotation_37",
+      "path": [
+        "paragraph_36",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        109,
+        117
+      ]
+    },
+    "citation_reference_38": {
+      "type": "citation_reference",
+      "id": "citation_reference_38",
+      "path": [
+        "paragraph_36",
+        "content"
+      ],
+      "target": "article_citation_bib7",
+      "range": [
+        233,
+        252
+      ]
+    },
+    "paragraph_39": {
+      "type": "paragraph",
+      "id": "paragraph_39",
+      "content": "The sites of the IRE1-dependent mRNA cleavage in S. pombe share some sequence homology with those of other species, but not enough to account entirely for the apparent specificity of RIDD. In fact, the difficulty in identifying clear rules for RIDD in this study and others had raised a number of questions about the phenomenon itself. Is RIDD a bona fide functional output of the unfolded protein response? Or is it an irrelevant but inevitable corollary of a potent ER-embedded RNase? Whilst budding yeast appear to survive without RIDD, the UCSF team makes a strong genetic case for its importance in fission yeast, estimating that RIDD accounts for a 15% decrease in unfolded protein load on the ER of wildtype fission yeast. Although this is a modest decrease, it is worth noting that the PERK branch of the unfolded protein response in the active secretory cells of the mammalian pancreas makes an important contribution to cell survival, even though it only reduces the unfolded protein load by an estimated 30% (Harding et al., 2001). In contrast, cultured mammalian cells can survive acute ER stress without the help of the IRE1 transcriptional branch (Cross et al., 2012)."
+    },
+    "annotation_40": {
+      "type": "emphasis",
+      "id": "annotation_40",
+      "path": [
+        "paragraph_39",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        49,
+        57
+      ]
+    },
+    "annotation_41": {
+      "type": "emphasis",
+      "id": "annotation_41",
+      "path": [
+        "paragraph_39",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        346,
+        355
+      ]
+    },
+    "citation_reference_42": {
+      "type": "citation_reference",
+      "id": "citation_reference_42",
+      "path": [
+        "paragraph_39",
+        "content"
+      ],
+      "target": "article_citation_bib4",
+      "range": [
+        1020,
+        1040
+      ]
+    },
+    "citation_reference_43": {
+      "type": "citation_reference",
+      "id": "citation_reference_43",
+      "path": [
+        "paragraph_39",
+        "content"
+      ],
+      "target": "article_citation_bib1",
+      "range": [
+        1162,
+        1180
+      ]
+    },
+    "paragraph_44": {
+      "type": "paragraph",
+      "id": "paragraph_44",
+      "content": "These new findings in S. pombe also highlight the potential for selective RIDD to lead to a qualitative change in cell physiology, in addition to a quantitative reduction in the unfolded protein load. The selective decay of transcripts that are involved in sterol metabolism is a salient example of this, since sterol accumulation promotes ER stress in mammalian cells (Feng et al., 2003) and budding yeast (Pineau et al., 2009)."
+    },
+    "annotation_45": {
+      "type": "emphasis",
+      "id": "annotation_45",
+      "path": [
+        "paragraph_44",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        22,
+        30
+      ]
+    },
+    "citation_reference_46": {
+      "type": "citation_reference",
+      "id": "citation_reference_46",
+      "path": [
+        "paragraph_44",
+        "content"
+      ],
+      "target": "article_citation_bib3",
+      "range": [
+        370,
+        387
+      ]
+    },
+    "citation_reference_47": {
+      "type": "citation_reference",
+      "id": "citation_reference_47",
+      "path": [
+        "paragraph_44",
+        "content"
+      ],
+      "target": "article_citation_bib9",
+      "range": [
+        408,
+        427
+      ]
+    },
+    "paragraph_48": {
+      "type": "paragraph",
+      "id": "paragraph_48",
+      "content": "The behaviour of a protein called Bip1 provided an unexpected twist in the story of the unfolded protein response of S. pombe. Bip1 is a molecular chaperone, a protein that helps other proteins or macromolecules to fold and unfold in cells, and Kimmig, Diaz and co-workers found that the mRNA that encodes for Bip1 was elevated in wildtype ER-stressed S. pombe. Most species increase the expression of molecular chaperones by increasing the rate of transcription of their encoding mRNA. The researchers found that the response in S. pombe was post-transcriptional. In particular they found that the Bip1 mRNA was cleaved at a typical RIDD site in the 3′ untranslated region (indicated by an asterisk in Figure 1A). However, unlike all other known RIDD targets, which are rapidly degraded following cleavage, the 5′ mRNA fragment that contains the coding sequence for the Bip1 molecular chaperone is stabilised, which leads to the increased production of Bip1 and, therefore, to increased protein-folding capacity in the ER."
+    },
+    "annotation_49": {
+      "type": "emphasis",
+      "id": "annotation_49",
+      "path": [
+        "paragraph_48",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        34,
+        38
+      ]
+    },
+    "annotation_50": {
+      "type": "emphasis",
+      "id": "annotation_50",
+      "path": [
+        "paragraph_48",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        117,
+        125
+      ]
+    },
+    "annotation_51": {
+      "type": "emphasis",
+      "id": "annotation_51",
+      "path": [
+        "paragraph_48",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        127,
+        131
+      ]
+    },
+    "annotation_52": {
+      "type": "emphasis",
+      "id": "annotation_52",
+      "path": [
+        "paragraph_48",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        310,
+        314
+      ]
+    },
+    "annotation_53": {
+      "type": "emphasis",
+      "id": "annotation_53",
+      "path": [
+        "paragraph_48",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        352,
+        360
+      ]
+    },
+    "annotation_54": {
+      "type": "emphasis",
+      "id": "annotation_54",
+      "path": [
+        "paragraph_48",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        530,
+        538
+      ]
+    },
+    "annotation_55": {
+      "type": "emphasis",
+      "id": "annotation_55",
+      "path": [
+        "paragraph_48",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        599,
+        603
+      ]
+    },
+    "figure_reference_56": {
+      "type": "figure_reference",
+      "id": "figure_reference_56",
+      "path": [
+        "paragraph_48",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        703,
+        712
+      ]
+    },
+    "annotation_57": {
+      "type": "emphasis",
+      "id": "annotation_57",
+      "path": [
+        "paragraph_48",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        871,
+        875
+      ]
+    },
+    "annotation_58": {
+      "type": "emphasis",
+      "id": "annotation_58",
+      "path": [
+        "paragraph_48",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        954,
+        958
+      ]
+    },
+    "paragraph_59": {
+      "type": "paragraph",
+      "id": "paragraph_59",
+      "content": "The catalytic residues in IRE1 are well conserved between S. Pombe and other species, and the UCSF results suggest that IRE1 is directly responsible for the cleavage of Bip1 mRNA in S. pombe. Whilst much is yet to be understood about the mechanism underlying the counter-intuitive stabilization of the 5′ fragment, the output is clear and represents a novel post-transcriptional approach to combating ER stress."
+    },
+    "annotation_60": {
+      "type": "emphasis",
+      "id": "annotation_60",
+      "path": [
+        "paragraph_59",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        58,
+        66
+      ]
+    },
+    "annotation_61": {
+      "type": "emphasis",
+      "id": "annotation_61",
+      "path": [
+        "paragraph_59",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        169,
+        173
+      ]
+    },
+    "annotation_62": {
+      "type": "emphasis",
+      "id": "annotation_62",
+      "path": [
+        "paragraph_59",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        182,
+        190
+      ]
+    },
+    "paragraph_63": {
+      "type": "paragraph",
+      "id": "paragraph_63",
+      "content": "These findings also illuminate the evolution of the unfolded protein response (Figure 1B). The common shared biology appears to be the cleavage and splicing of RNA by IRE1, with the biomolecular apparatus that couples this activity to the regulated expression of a transcription factor emerging only later. In plants, for example, this splicing deletes a region of mRNA that codes for a specific transmembrane structure, which liberates a tethered transcription factor from the ER (Deng et al., 2011). In metazoans and budding yeast the activity of IRE1 is to control the translation of an active transcription factor. And the appearance of RNase L, a distant relative of IRE1 that is involved in innate immunity in mammals (Malathi et al., 2007), appears to be a late reversion to the sort of behaviour displayed by ancestral IRE1. Indeed, given the mechanistic diversity for dealing with unfolded proteins in the ER that is highlighted by the UCSF work, the similarities in the responses of budding yeast (S. cerevisiae) and the metazoans is quite remarkable. It will be fascinating to discover how the unfolded protein response has evolved in each lineage."
+    },
+    "figure_reference_64": {
+      "type": "figure_reference",
+      "id": "figure_reference_64",
+      "path": [
+        "paragraph_63",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        79,
+        88
+      ]
+    },
+    "citation_reference_65": {
+      "type": "citation_reference",
+      "id": "citation_reference_65",
+      "path": [
+        "paragraph_63",
+        "content"
+      ],
+      "target": "article_citation_bib2",
+      "range": [
+        482,
+        499
+      ]
+    },
+    "citation_reference_66": {
+      "type": "citation_reference",
+      "id": "citation_reference_66",
+      "path": [
+        "paragraph_63",
+        "content"
+      ],
+      "target": "article_citation_bib8",
+      "range": [
+        725,
+        745
+      ]
+    },
+    "annotation_67": {
+      "type": "emphasis",
+      "id": "annotation_67",
+      "path": [
+        "paragraph_63",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1008,
+        1021
+      ]
+    },
+    "info:competing-interest": {
+      "type": "heading",
+      "id": "info:competing-interest",
+      "level": 2,
+      "content": "Competing Interests",
+      "nodes": [
+        "paragraph_68"
+      ]
+    },
+    "paragraph_68": {
+      "type": "paragraph",
+      "id": "paragraph_68",
+      "content": "Competing interests:The authors declare that no competing interests existReferences"
+    },
+    "article_citation_bib1": {
+      "type": "article_citation",
+      "id": "article_citation_bib1",
+      "authors": [
+        {
+          "given-names": "BC",
+          "last-name": "Cross"
+        },
+        {
+          "given-names": "PJ",
+          "last-name": "Bond"
+        },
+        {
+          "given-names": "PG",
+          "last-name": "Sadowski"
+        },
+        {
+          "given-names": "BK",
+          "last-name": "Jha"
+        },
+        {
+          "given-names": "J",
+          "last-name": "Zak"
+        },
+        {
+          "given-names": "JM",
+          "last-name": "Goodman"
+        }
+      ],
+      "title": "The molecular basis for selective inhibition of unconventional mRNA splicing by an IRE1-binding small molecule",
+      "year": "2012",
+      "volume": "109",
+      "source": "Proc Natl Acad Sci USA",
+      "issue": "",
+      "fpage": "E869",
+      "lpage": "78",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib2": {
+      "type": "article_citation",
+      "id": "article_citation_bib2",
+      "authors": [
+        {
+          "given-names": "Y",
+          "last-name": "Deng"
+        },
+        {
+          "given-names": "S",
+          "last-name": "Humbert"
+        },
+        {
+          "given-names": "JX",
+          "last-name": "Liu"
+        },
+        {
+          "given-names": "R",
+          "last-name": "Srivastava"
+        },
+        {
+          "given-names": "SJ",
+          "last-name": "Rothstein"
+        },
+        {
+          "given-names": "SH",
+          "last-name": "Howell"
+        }
+      ],
+      "title": "Heat induces the splicing by IRE1 of a mRNA encoding a transcription factor involved in the unfolded protein response in Arabidopsis",
+      "year": "2011",
+      "volume": "108",
+      "source": "Proc Natl Acad Sci USA",
+      "issue": "",
+      "fpage": "7247",
+      "lpage": "52",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib3": {
+      "type": "article_citation",
+      "id": "article_citation_bib3",
+      "authors": [
+        {
+          "given-names": "B",
+          "last-name": "Feng"
+        },
+        {
+          "given-names": "PM",
+          "last-name": "Yao"
+        },
+        {
+          "given-names": "Y",
+          "last-name": "Li"
+        },
+        {
+          "given-names": "CM",
+          "last-name": "Devlin"
+        },
+        {
+          "given-names": "D",
+          "last-name": "Zhang"
+        },
+        {
+          "given-names": "HP",
+          "last-name": "Harding"
+        }
+      ],
+      "title": "The endoplasmic reticulum is the site of cholesterol-induced cytotoxicity in macrophages",
+      "year": "2003",
+      "volume": "5",
+      "source": "Nat Cell Biol",
+      "issue": "",
+      "fpage": "781",
+      "lpage": "92",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib4": {
+      "type": "article_citation",
+      "id": "article_citation_bib4",
+      "authors": [
+        {
+          "given-names": "HP",
+          "last-name": "Harding"
+        },
+        {
+          "given-names": "H",
+          "last-name": "Zeng"
+        },
+        {
+          "given-names": "Y",
+          "last-name": "Zhang"
+        },
+        {
+          "given-names": "R",
+          "last-name": "Jungries"
+        },
+        {
+          "given-names": "P",
+          "last-name": "Chung"
+        },
+        {
+          "given-names": "H",
+          "last-name": "Plesken"
+        }
+      ],
+      "title": "Diabetes mellitus and exocrine pancreatic dysfunction in perk-/- mice reveals a role for translational control in secretory cell survival",
+      "year": "2001",
+      "volume": "7",
+      "source": "Mol Cell",
+      "issue": "",
+      "fpage": "1153",
+      "lpage": "63",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib5": {
+      "type": "article_citation",
+      "id": "article_citation_bib5",
+      "authors": [
+        {
+          "given-names": "J",
+          "last-name": "Hollien"
+        },
+        {
+          "given-names": "JH",
+          "last-name": "Lin"
+        },
+        {
+          "given-names": "H",
+          "last-name": "Li"
+        },
+        {
+          "given-names": "N",
+          "last-name": "Stevens"
+        },
+        {
+          "given-names": "P",
+          "last-name": "Walter"
+        },
+        {
+          "given-names": "JS",
+          "last-name": "Weissman"
+        }
+      ],
+      "title": "Regulated Ire1-dependent decay of messenger RNAs in mammalian cells",
+      "year": "2009",
+      "volume": "186",
+      "source": "",
+      "issue": "",
+      "fpage": "323",
+      "lpage": "31",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": [],
+      "italic": "J Cell Biol"
+    },
+    "article_citation_bib6": {
+      "type": "article_citation",
+      "id": "article_citation_bib6",
+      "authors": [
+        {
+          "given-names": "J",
+          "last-name": "Hollien"
+        },
+        {
+          "given-names": "JS",
+          "last-name": "Weissman"
+        }
+      ],
+      "title": "Decay of endoplasmic reticulum-localized mRNAs during the unfolded protein response",
+      "year": "2006",
+      "volume": "313",
+      "source": "Science",
+      "issue": "",
+      "fpage": "104",
+      "lpage": "7",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib7": {
+      "type": "article_citation",
+      "id": "article_citation_bib7",
+      "authors": [
+        {
+          "given-names": "P",
+          "last-name": "Kimmig"
+        },
+        {
+          "given-names": "M",
+          "last-name": "Diaz"
+        },
+        {
+          "given-names": "J",
+          "last-name": "Zheng"
+        },
+        {
+          "given-names": "C",
+          "last-name": "Williams"
+        },
+        {
+          "given-names": "A",
+          "last-name": "Lang"
+        },
+        {
+          "given-names": "T",
+          "last-name": "Aragón"
+        }
+      ],
+      "title": "The unfolded protein response in fission yeast modulates stability of select mRNAs to maintain protein homeostasis",
+      "year": "2012",
+      "volume": "1",
+      "source": "eLife",
+      "issue": "",
+      "fpage": "e00048",
+      "lpage": "",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.7554/eLife.00048",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib8": {
+      "type": "article_citation",
+      "id": "article_citation_bib8",
+      "authors": [
+        {
+          "given-names": "K",
+          "last-name": "Malathi"
+        },
+        {
+          "given-names": "B",
+          "last-name": "Dong"
+        },
+        {
+          "given-names": "Jr",
+          "last-name": "Gale"
+        },
+        {
+          "given-names": "RH",
+          "last-name": "Silverman"
+        }
+      ],
+      "title": "Small self-RNA generated by RNase L amplifies antiviral innate immunity",
+      "year": "2007",
+      "volume": "448",
+      "source": "Nature",
+      "issue": "",
+      "fpage": "816",
+      "lpage": "19",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib9": {
+      "type": "article_citation",
+      "id": "article_citation_bib9",
+      "authors": [
+        {
+          "given-names": "L",
+          "last-name": "Pineau"
+        },
+        {
+          "given-names": "J",
+          "last-name": "Colas"
+        },
+        {
+          "given-names": "S",
+          "last-name": "Dupont"
+        },
+        {
+          "given-names": "L",
+          "last-name": "Beney"
+        },
+        {
+          "given-names": "P",
+          "last-name": "Fleurat-Lessard"
+        },
+        {
+          "given-names": "JM",
+          "last-name": "Berjeaud"
+        }
+      ],
+      "title": "Lipid-induced ER stress: synergistic effects of sterols and saturated fatty acids",
+      "year": "2009",
+      "volume": "10",
+      "source": "Traffic",
+      "issue": "",
+      "fpage": "673",
+      "lpage": "90",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib10": {
+      "type": "article_citation",
+      "id": "article_citation_bib10",
+      "authors": [
+        {
+          "given-names": "P",
+          "last-name": "Walter"
+        },
+        {
+          "given-names": "D",
+          "last-name": "Ron"
+        }
+      ],
+      "title": "The unfolded protein response: from stress pathway to homeostatic regulation",
+      "year": "2011",
+      "volume": "334",
+      "source": "Science",
+      "issue": "",
+      "fpage": "1081",
+      "lpage": "6",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    }
+  }
+}

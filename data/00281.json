@@ -1,0 +1,416 @@
+{
+  "id": "00281",
+  "nodes": {
+    "content": {
+      "type": "view",
+      "id": "content",
+      "nodes": [
+        "abstract",
+        "paragraph_3",
+        "paragraph_8",
+        "paragraph_10",
+        "paragraph_11",
+        "paragraph_12",
+        "paragraph_15",
+        "paragraph_17",
+        "paragraph_18",
+        "paragraph_19",
+        "paragraph_20",
+        "paragraph_21",
+        "paragraph_22",
+        "paragraph_23",
+        "paragraph_24"
+      ]
+    },
+    "figures": {
+      "type": "view",
+      "id": "figures",
+      "nodes": [
+        "box_B1",
+        "image_fig1"
+      ]
+    },
+    "citations": {
+      "type": "view",
+      "id": "citations",
+      "nodes": [
+        "article_citation_bib1",
+        "article_citation_bib2"
+      ]
+    },
+    "document": {
+      "type": "document",
+      "id": "document",
+      "views": [
+        "content",
+        "figures",
+        "citations"
+      ],
+      "guid": "00281",
+      "title": "New ideas on how drivers perceive speed emerge from the fog",
+      "authors": [
+        "person_author_1066"
+      ],
+      "received_on": "",
+      "accepted_on": "",
+      "published_on": "2012-10-30",
+      "journal": "eLife",
+      "article_type": "",
+      "keywords": [
+        "motion perception",
+        "human psychophysics",
+        "virtual reality",
+        "driving simulation"
+      ],
+      "research_organisms": [],
+      "subjects": [
+        "Neuroscience"
+      ],
+      "pdf_link": "",
+      "xml_link": "",
+      "json_link": "",
+      "doi": ""
+    },
+    "person_author_1066": {
+      "type": "person",
+      "id": "person_author_1066",
+      "given-names": "Jody C",
+      "last-name": "Culham",
+      "role": "author",
+      "affiliations": [],
+      "image": "",
+      "contribution": "",
+      "email": "",
+      "funding": []
+    },
+    "info:copyright": {
+      "type": "heading",
+      "id": "info:copyright",
+      "level": 2,
+      "content": "Copyright",
+      "nodes": [
+        "paragraph_1"
+      ]
+    },
+    "paragraph_1": {
+      "type": "paragraph",
+      "id": "paragraph_1",
+      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "annotation_2": {
+      "type": "link",
+      "id": "annotation_2",
+      "path": [
+        "paragraph_1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        51,
+        87
+      ],
+      "url": "http://creativecommons.org/licenses/by/3.0/"
+    },
+    "abstract": {
+      "type": "heading",
+      "id": "abstract",
+      "level": 1,
+      "content": "Abstract",
+      "nodes": []
+    },
+    "paragraph_3": {
+      "type": "paragraph",
+      "id": "paragraph_3",
+      "content": "Experiments with a driving simulator contradict previous results by showing that car drivers slow down in fog. However, other forms of reduced visibility can cause drivers to speed up."
+    },
+    "box_B1": {
+      "type": "box",
+      "id": "box_B1",
+      "label": "",
+      "url": "",
+      "title": "",
+      "caption": "",
+      "content": "Related research article Pretto P, Bresciani J-P, Rainer G, Bülthoff HH. 2012. Foggy perception slows us down. eLife 1:e00031. doi: 10.7554/eLife.00031",
+      "doi": ""
+    },
+    "annotation_4": {
+      "type": "strong",
+      "id": "annotation_4",
+      "path": [
+        "box_B1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        24
+      ]
+    },
+    "annotation_5": {
+      "type": "emphasis",
+      "id": "annotation_5",
+      "path": [
+        "box_B1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        111,
+        116
+      ]
+    },
+    "annotation_6": {
+      "type": "strong",
+      "id": "annotation_6",
+      "path": [
+        "box_B1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        117,
+        118
+      ]
+    },
+    "annotation_7": {
+      "type": "link",
+      "id": "annotation_7",
+      "path": [
+        "box_B1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        132,
+        151
+      ],
+      "url": "http://dx.doi.org/10.7554/eLife.00031"
+    },
+    "paragraph_8": {
+      "type": "paragraph",
+      "id": "paragraph_8",
+      "content": "Image Measuring motion perception in a driving simulator"
+    },
+    "annotation_9": {
+      "type": "strong",
+      "id": "annotation_9",
+      "path": [
+        "paragraph_8",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        5
+      ]
+    },
+    "paragraph_10": {
+      "type": "paragraph",
+      "id": "paragraph_10",
+      "content": ""
+    },
+    "paragraph_11": {
+      "type": "paragraph",
+      "id": "paragraph_11",
+      "content": "There is a stretch of Highway 401 in Canada that is known as ‘Carnage Alley’ because of the number of horrific accidents that have happened there. In fact, one of the worst accidents in Canadian history occurred in 1999 when 87 vehicles piled up after a thick blanket of fog descended on the highway. Statistics suggest that about a quarter of all car crashes are weather related, and that fog doubles the risk of an accident."
+    },
+    "paragraph_12": {
+      "type": "paragraph",
+      "id": "paragraph_12",
+      "content": "But what makes driving in fog so dangerous? One widely accepted explanation is that drivers underestimate their speed when driving in foggy conditions, so they speed up to compensate for this. However, in research published in eLife, Paolo Pretto, Jean-Pierre Bresciani, Gregor Rainer and Heinrich Bülthoff challenge this explanation with data from experiments in which state-of-the-art virtual-reality simulations are used to explore how drivers respond to conditions of reduced visibility (Pretto et al., 2012). The driving simulator used in the experiments is fitted with a panoramic virtual reality screen that fills the driver's entire field of view."
+    },
+    "annotation_13": {
+      "type": "emphasis",
+      "id": "annotation_13",
+      "path": [
+        "paragraph_12",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        227,
+        232
+      ]
+    },
+    "citation_reference_14": {
+      "type": "citation_reference",
+      "id": "citation_reference_14",
+      "path": [
+        "paragraph_12",
+        "content"
+      ],
+      "target": "article_citation_bib1",
+      "range": [
+        492,
+        511
+      ]
+    },
+    "paragraph_15": {
+      "type": "paragraph",
+      "id": "paragraph_15",
+      "content": "Past studies of speed perception simulated the effects of fog by reducing the contrast of everything in the scene equally regardless of distance (see, e.g., Snowden et al., 1998). Effectively, the simulation was more like driving while looking through a fogged up windshield than driving through actual fog."
+    },
+    "citation_reference_16": {
+      "type": "citation_reference",
+      "id": "citation_reference_16",
+      "path": [
+        "paragraph_15",
+        "content"
+      ],
+      "target": "article_citation_bib2",
+      "range": [
+        157,
+        177
+      ]
+    },
+    "paragraph_17": {
+      "type": "paragraph",
+      "id": "paragraph_17",
+      "content": "Pretto et al.—who are based at the Max Planck Institute for Biological Cybernetics (PP and HHB), the University Pierre Mendès-France and the CNRS in Grenoble (J-PB) and the University of Fribourg (GR)—created a much more realistic simulation of fog: objects far away from the driver, such as the road surface close to the horizon, appeared fainter and fuzzier than nearby locations, such as the road surface right in front of the vehicle. In other words, the contrast was highest for objects nearest the driver and lowest for those further away. The experimenters used two levels of realistic fogginess (moderate and severe), and also two levels of uniform contrast reduction (again, moderate and severe) so that they could compare their results with previous studies."
+    },
+    "paragraph_18": {
+      "type": "paragraph",
+      "id": "paragraph_18",
+      "content": "In one experiment, 12 experienced drivers viewed two driving scenes that could differ in the visibility conditions and decided which of the two made them feel as if they were moving faster. In another experiment, 10 experienced drivers (none of whom had taken part in the first experiment) were trained to drive at a target speed during clear visibility based on feedback from a speedometer; then they attempted to match that speed under conditions of reduced visibility and without feedback."
+    },
+    "image_fig1": {
+      "type": "image",
+      "id": "image_fig1",
+      "label": "",
+      "url": "",
+      "object_id": "F1",
+      "title": "",
+      "content_type": "",
+      "large_url": "",
+      "content": "",
+      "group": [
+        "parent",
+        null
+      ],
+      "doi": "",
+      "caption": "paragraph_image_fig1",
+      "graphic_id": "elife00281f001"
+    },
+    "paragraph_image_fig1": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig1",
+      "content": "Fog doubles the risk of an car accident, which is why researchers are keen to understand how it influences how drivers perceive their speed."
+    },
+    "paragraph_19": {
+      "type": "paragraph",
+      "id": "paragraph_19",
+      "content": "Pretto et al. found that—contrary to previous results—the test drivers actually overestimated their speed during the natural fog simulations, and thus drove slower to compensate. Specifically, while drivers had an average speed of 85 km/hr under clear visibility, they decreased their speed to 77 and 71 km/hr for moderate and severe fog, respectively. Moreover, the authors replicated previous results, showing that a uniform reduction in contrast led drivers to underestimate their speed and thus speed up (to 101 km/hr for severe reductions)."
+    },
+    "paragraph_20": {
+      "type": "paragraph",
+      "id": "paragraph_20",
+      "content": "Cleverly, they also created an ‘anti-fog’ simulation in which near objects had lower contrast than far objects. As with the uniform reductions in contrast, the anti-fog led drivers to underestimate their speed and to speed up dramatically (from 68 to 104 km/hr), which is the opposite of what happened for realistic fog."
+    },
+    "paragraph_21": {
+      "type": "paragraph",
+      "id": "paragraph_21",
+      "content": "Taken together, these results confirm that fog influences speed perception, and that this illusion causes drivers to slow down in real fog, as well they should. While many past studies, including studies of visual perception and the visual areas of the brain, have examined how changes in overall contrast affect perception, these results suggest that our visual system responds to the gradient of contrast differences rather than to overall levels of contrast."
+    },
+    "paragraph_22": {
+      "type": "paragraph",
+      "id": "paragraph_22",
+      "content": "Based on the finding that the drivers responded to fog and anti-fog in completely different ways, Pretto et al. suggest that one important factor may be the contrast gradient between central vision (where the participant is looking directly forward, down the road in this case) and peripheral vision (toward the edges of the scene, such as the roadsides in this case). This explanation is certainly plausible and parsimonious. However, it might be that speed perception is influenced by the way that contrast depends on distance from the driver. In the real world objects in the lower visual field (that is, objects below the viewer's line of sight, such the ground or the road) tend to be closer than objects in the upper visual field (such as clouds). Further experiments, perhaps even adding 3D vision to the displays, could disentangle the dependence of perceived speed on the contributions from various gradients (including central-peripheral, upper-lower, or near-far gradients)."
+    },
+    "paragraph_23": {
+      "type": "paragraph",
+      "id": "paragraph_23",
+      "content": "Although this research eliminates one of the simplest and most intuitively appealing explanations for the increased likelihood of car accidents in fog, it could eventually lead to a better understanding of weather-related accidents. More importantly, with increasingly realistic simulations of real-world conditions in the safety of the laboratory environment, researchers can begin to search for possible technical solutions and driver strategies to help reduce accidents in the future."
+    },
+    "paragraph_24": {
+      "type": "paragraph",
+      "id": "paragraph_24",
+      "content": "A valuable next stage would be to make the simulations even more complex and naturalistic, adding additional features (such as hills, curves, lane boundaries and landmarks) to the scene. It would also be valuable to examine how the distance of perceived objects, particularly other vehicles, is affected by realistic fog conditions. Perhaps through such simulations, researchers can help drivers avoid devastating consequences in places such as Carnage Alley."
+    },
+    "info:competing-interest": {
+      "type": "heading",
+      "id": "info:competing-interest",
+      "level": 2,
+      "content": "Competing Interests",
+      "nodes": [
+        "paragraph_25"
+      ]
+    },
+    "paragraph_25": {
+      "type": "paragraph",
+      "id": "paragraph_25",
+      "content": "Competing interests:The author declares that no competing interests existReferences"
+    },
+    "article_citation_bib1": {
+      "type": "article_citation",
+      "id": "article_citation_bib1",
+      "authors": [
+        {
+          "given-names": "P",
+          "last-name": "Pretto"
+        },
+        {
+          "given-names": "J-P",
+          "last-name": "Bresciani"
+        },
+        {
+          "given-names": "G",
+          "last-name": "Rainer"
+        },
+        {
+          "given-names": "HH",
+          "last-name": "Bülthoff"
+        }
+      ],
+      "title": "Foggy perception slows us down",
+      "year": "2012",
+      "volume": "1",
+      "source": "eLife",
+      "issue": "",
+      "fpage": "e00031",
+      "lpage": "",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.7554/eLife.00031",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib2": {
+      "type": "article_citation",
+      "id": "article_citation_bib2",
+      "authors": [
+        {
+          "given-names": "RJ",
+          "last-name": "Snowden"
+        },
+        {
+          "given-names": "N",
+          "last-name": "Stimpson"
+        },
+        {
+          "given-names": "RA",
+          "last-name": "Ruddle"
+        }
+      ],
+      "title": "Speed perception fogs up as visibility drops",
+      "year": "1998",
+      "volume": "392",
+      "source": "Nature",
+      "issue": "",
+      "fpage": "450",
+      "lpage": "",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1038/33049",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    }
+  }
+}

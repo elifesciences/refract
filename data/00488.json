@@ -1,0 +1,359 @@
+{
+  "id": "00488",
+  "nodes": {
+    "content": {
+      "type": "view",
+      "id": "content",
+      "nodes": [
+        "paragraph_7",
+        "paragraph_8",
+        "paragraph_12",
+        "paragraph_14",
+        "paragraph_16",
+        "paragraph_18",
+        "paragraph_20",
+        "paragraph_22",
+        "paragraph_25"
+      ]
+    },
+    "figures": {
+      "type": "view",
+      "id": "figures",
+      "nodes": [
+        "box_3"
+      ]
+    },
+    "citations": {
+      "type": "view",
+      "id": "citations",
+      "nodes": []
+    },
+    "document": {
+      "type": "document",
+      "id": "document",
+      "views": [
+        "content",
+        "figures",
+        "citations"
+      ],
+      "guid": "00488",
+      "title": "Correction: RecA filament sliding on DNA facilitates homology search",
+      "authors": [
+        "person_author_1300",
+        "person_author_1696",
+        "person_author_1520"
+      ],
+      "received_on": "",
+      "accepted_on": "",
+      "published_on": "2013-02-20",
+      "journal": "eLife",
+      "article_type": "",
+      "keywords": [
+        "Single Molecule",
+        "FRET",
+        "DNA repair",
+        "Homologous Recombination"
+      ],
+      "research_organisms": [
+        "E. coli"
+      ],
+      "subjects": [
+        "Biochemistry",
+        "Biophysics and structural biology"
+      ],
+      "pdf_link": "",
+      "xml_link": "",
+      "json_link": "",
+      "doi": ""
+    },
+    "person_author_1300": {
+      "type": "person",
+      "id": "person_author_1300",
+      "given-names": "Kaushik",
+      "last-name": "Ragunathan",
+      "role": "author",
+      "affiliations": [],
+      "image": "",
+      "contribution": "",
+      "email": "",
+      "funding": []
+    },
+    "person_author_1696": {
+      "type": "person",
+      "id": "person_author_1696",
+      "given-names": "Cheng",
+      "last-name": "Liu",
+      "role": "author",
+      "affiliations": [],
+      "image": "",
+      "contribution": "",
+      "email": "",
+      "funding": []
+    },
+    "person_author_1520": {
+      "type": "person",
+      "id": "person_author_1520",
+      "given-names": "Taekjip",
+      "last-name": "Ha",
+      "role": "author",
+      "affiliations": [],
+      "image": "",
+      "contribution": "",
+      "email": "",
+      "funding": []
+    },
+    "info:copyright": {
+      "type": "heading",
+      "id": "info:copyright",
+      "level": 2,
+      "content": "Copyright",
+      "nodes": [
+        "paragraph_1"
+      ]
+    },
+    "paragraph_1": {
+      "type": "paragraph",
+      "id": "paragraph_1",
+      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "annotation_2": {
+      "type": "link",
+      "id": "annotation_2",
+      "path": [
+        "paragraph_1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        51,
+        87
+      ],
+      "url": "http://creativecommons.org/licenses/by/3.0/"
+    },
+    "box_3": {
+      "type": "box",
+      "id": "box_3",
+      "label": "",
+      "url": "",
+      "title": "",
+      "caption": "",
+      "content": "Ragunathan K, Liu C, Ha T. 2012. RecA filament sliding on DNA facilitates homology search. eLife 1:e00067. doi: http://dx.doi.org/10.7554/eLife.00067. Published 13 December 2012",
+      "doi": ""
+    },
+    "annotation_4": {
+      "type": "emphasis",
+      "id": "annotation_4",
+      "path": [
+        "box_3",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        91,
+        96
+      ]
+    },
+    "annotation_5": {
+      "type": "strong",
+      "id": "annotation_5",
+      "path": [
+        "box_3",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        97,
+        98
+      ]
+    },
+    "annotation_6": {
+      "type": "link",
+      "id": "annotation_6",
+      "path": [
+        "box_3",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        112,
+        149
+      ],
+      "url": "http://dx.doi.org/10.7554/eLife.00067"
+    },
+    "paragraph_7": {
+      "type": "paragraph",
+      "id": "paragraph_7",
+      "content": "The author affiliations for Kaushik Ragunathan and Taekjip Ha were incorrect. The correct author affiliations are:"
+    },
+    "paragraph_8": {
+      "type": "paragraph",
+      "id": "paragraph_8",
+      "content": "Kaushik Ragunathan1,2,3†a, Cheng Liu4†b, Taekjip Ha1,2,3,4,5*"
+    },
+    "annotation_9": {
+      "type": "superscript",
+      "id": "annotation_9",
+      "path": [
+        "paragraph_8",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        18,
+        25
+      ]
+    },
+    "annotation_10": {
+      "type": "superscript",
+      "id": "annotation_10",
+      "path": [
+        "paragraph_8",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        36,
+        39
+      ]
+    },
+    "annotation_11": {
+      "type": "superscript",
+      "id": "annotation_11",
+      "path": [
+        "paragraph_8",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        51,
+        61
+      ]
+    },
+    "paragraph_12": {
+      "type": "paragraph",
+      "id": "paragraph_12",
+      "content": "1Center for Biophysics and Computational Biology, University of Illinois at Urbana-Champaign, Urbana, United States"
+    },
+    "annotation_13": {
+      "type": "superscript",
+      "id": "annotation_13",
+      "path": [
+        "paragraph_12",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        1
+      ]
+    },
+    "paragraph_14": {
+      "type": "paragraph",
+      "id": "paragraph_14",
+      "content": "2Center for the Physics of Living Cells, University of Illinois at Urbana-Champaign, Urbana, United States"
+    },
+    "annotation_15": {
+      "type": "superscript",
+      "id": "annotation_15",
+      "path": [
+        "paragraph_14",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        1
+      ]
+    },
+    "paragraph_16": {
+      "type": "paragraph",
+      "id": "paragraph_16",
+      "content": "3Institute for Genomic Biology, University of Illinois at Urbana-Champaign, Urbana, United States"
+    },
+    "annotation_17": {
+      "type": "superscript",
+      "id": "annotation_17",
+      "path": [
+        "paragraph_16",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        1
+      ]
+    },
+    "paragraph_18": {
+      "type": "paragraph",
+      "id": "paragraph_18",
+      "content": "4Department of Physics, University of Illinois at Urbana-Champaign, Urbana, United States"
+    },
+    "annotation_19": {
+      "type": "superscript",
+      "id": "annotation_19",
+      "path": [
+        "paragraph_18",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        1
+      ]
+    },
+    "paragraph_20": {
+      "type": "paragraph",
+      "id": "paragraph_20",
+      "content": "5Howard Hughes Medical Institute, University of Illinois at Urbana-Champaign, Urbana, United States"
+    },
+    "annotation_21": {
+      "type": "superscript",
+      "id": "annotation_21",
+      "path": [
+        "paragraph_20",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        1
+      ]
+    },
+    "paragraph_22": {
+      "type": "paragraph",
+      "id": "paragraph_22",
+      "content": "Present address: †aDepartment of Cell Biology, Harvard Medical School, Boston, United States; †bCenter for Research Computing, University of Notre Dame, Notre Dame, United States"
+    },
+    "annotation_23": {
+      "type": "superscript",
+      "id": "annotation_23",
+      "path": [
+        "paragraph_22",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        17,
+        19
+      ]
+    },
+    "annotation_24": {
+      "type": "superscript",
+      "id": "annotation_24",
+      "path": [
+        "paragraph_22",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        94,
+        96
+      ]
+    },
+    "paragraph_25": {
+      "type": "paragraph",
+      "id": "paragraph_25",
+      "content": "The article has been corrected accordingly."
+    }
+  }
+}

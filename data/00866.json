@@ -1,0 +1,907 @@
+{
+  "id": "00866",
+  "nodes": {
+    "content": {
+      "type": "view",
+      "id": "content",
+      "nodes": [
+        "abstract",
+        "paragraph_3",
+        "paragraph_9",
+        "paragraph_11",
+        "paragraph_12",
+        "paragraph_15",
+        "paragraph_21",
+        "paragraph_22",
+        "paragraph_23",
+        "paragraph_24",
+        "paragraph_31"
+      ]
+    },
+    "figures": {
+      "type": "view",
+      "id": "figures",
+      "nodes": [
+        "box_4",
+        "image_fig1"
+      ]
+    },
+    "citations": {
+      "type": "view",
+      "id": "citations",
+      "nodes": [
+        "article_citation_bib1",
+        "article_citation_bib2",
+        "article_citation_bib3",
+        "article_citation_bib4",
+        "article_citation_bib5",
+        "article_citation_bib6",
+        "article_citation_bib7",
+        "article_citation_bib8",
+        "article_citation_bib9",
+        "article_citation_bib10",
+        "article_citation_bib11",
+        "article_citation_bib12"
+      ]
+    },
+    "document": {
+      "type": "document",
+      "id": "document",
+      "views": [
+        "content",
+        "figures",
+        "citations"
+      ],
+      "guid": "00866",
+      "title": "Watching the brain in action",
+      "authors": [
+        "person_author_3283"
+      ],
+      "received_on": "",
+      "accepted_on": "",
+      "published_on": "2013-05-28",
+      "journal": "elife",
+      "article_type": "",
+      "keywords": [
+        "fMRI",
+        "tool use",
+        "intentions",
+        "action",
+        "neuroscience",
+        "motor"
+      ],
+      "research_organisms": [
+        "Human"
+      ],
+      "subjects": [
+        "Neuroscience"
+      ],
+      "pdf_link": "",
+      "xml_link": "",
+      "json_link": "",
+      "doi": ""
+    },
+    "person_author_3283": {
+      "type": "person",
+      "id": "person_author_3283",
+      "given-names": "Bradford Z",
+      "last-name": "Mahon",
+      "role": "author",
+      "affiliations": [],
+      "image": "",
+      "contribution": "",
+      "email": "",
+      "funding": []
+    },
+    "info:copyright": {
+      "type": "heading",
+      "id": "info:copyright",
+      "level": 2,
+      "content": "Copyright",
+      "nodes": [
+        "paragraph_1"
+      ]
+    },
+    "paragraph_1": {
+      "type": "paragraph",
+      "id": "paragraph_1",
+      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "annotation_2": {
+      "type": "link",
+      "id": "annotation_2",
+      "path": [
+        "paragraph_1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        51,
+        87
+      ],
+      "url": "http://creativecommons.org/licenses/by/3.0/"
+    },
+    "abstract": {
+      "type": "heading",
+      "id": "abstract",
+      "level": 1,
+      "content": "Abstract",
+      "nodes": []
+    },
+    "paragraph_3": {
+      "type": "paragraph",
+      "id": "paragraph_3",
+      "content": "Functional magnetic resonance imaging has been used to identify the different networks in the brain that underpin the use of tools by humans."
+    },
+    "box_4": {
+      "type": "box",
+      "id": "box_4",
+      "label": "",
+      "url": "",
+      "title": "",
+      "caption": "",
+      "content": "Related research article Gallivan JP, McLean DA, Valyear KF, Culham JC. 2013. Decoding the neural mechanisms of human tool use. eLife 2:e00425. doi: 10.7554/eLife.00425",
+      "doi": ""
+    },
+    "annotation_5": {
+      "type": "strong",
+      "id": "annotation_5",
+      "path": [
+        "box_4",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        24
+      ]
+    },
+    "annotation_6": {
+      "type": "emphasis",
+      "id": "annotation_6",
+      "path": [
+        "box_4",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        128,
+        133
+      ]
+    },
+    "annotation_7": {
+      "type": "strong",
+      "id": "annotation_7",
+      "path": [
+        "box_4",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        134,
+        135
+      ]
+    },
+    "annotation_8": {
+      "type": "link",
+      "id": "annotation_8",
+      "path": [
+        "box_4",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        149,
+        168
+      ],
+      "url": "http://dx.doi.org/10.7554/eLife.00425"
+    },
+    "paragraph_9": {
+      "type": "paragraph",
+      "id": "paragraph_9",
+      "content": "Image Certain brain regions respond preferentially to viewing tools and planning tool actions (red) or to viewing the human body and planning hand actions (green)"
+    },
+    "annotation_10": {
+      "type": "strong",
+      "id": "annotation_10",
+      "path": [
+        "paragraph_9",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        5
+      ]
+    },
+    "paragraph_11": {
+      "type": "paragraph",
+      "id": "paragraph_11",
+      "content": ""
+    },
+    "paragraph_12": {
+      "type": "paragraph",
+      "id": "paragraph_12",
+      "content": "In our daily lives, we interact with a vast array of objects—from pens and cups to hammers and cars. Whenever we recognize and use an object, our brain automatically accesses a wealth of background knowledge about the object’s structure, properties and functions, and about the movements associated with its use. We are also constantly observing our own actions as we engage with objects, as well as those of others. A key question is: how are these distinct types of information, which are distributed across different regions of the brain, integrated in the service of everyday behavior? Addressing this question involves specifying the internal organizational structure of the representations of each type of information, as well as the way in which information is exchanged or combined across different regions. Now, in eLife, Jody Culham at the University of Western Ontario (UWO) and co-workers report a significant advance in our understanding of these ‘big picture’ issues by showing how a specific type of information about object-directed actions is coded across the brain (Gallivan et al., 2013b)."
+    },
+    "annotation_13": {
+      "type": "emphasis",
+      "id": "annotation_13",
+      "path": [
+        "paragraph_12",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        824,
+        829
+      ]
+    },
+    "citation_reference_14": {
+      "type": "citation_reference",
+      "id": "citation_reference_14",
+      "path": [
+        "paragraph_12",
+        "content"
+      ],
+      "target": "article_citation_bib5",
+      "range": [
+        1084,
+        1106
+      ]
+    },
+    "paragraph_15": {
+      "type": "paragraph",
+      "id": "paragraph_15",
+      "content": "A great deal is known about which brain regions represent and process different types of knowledge about objects and actions (Martin, 2007). For instance, visual information about the structure and form of objects, and of body parts, is represented in ventral and lateral temporal occipital regions (Goodale and Milner, 1992). Visuomotor processing in support of object-directed action, such as reaching and grasping, is represented in dorsal occipital and posterior parietal regions (Culham et al., 2003). Knowledge about how to manipulate objects according to their function is represented in inferior-lateral parietal cortex, and in premotor regions of the frontal lobe (Culham et al., 2003; Johnson-Frey, 2004)."
+    },
+    "citation_reference_16": {
+      "type": "citation_reference",
+      "id": "citation_reference_16",
+      "path": [
+        "paragraph_15",
+        "content"
+      ],
+      "target": "article_citation_bib10",
+      "range": [
+        126,
+        138
+      ]
+    },
+    "citation_reference_17": {
+      "type": "citation_reference",
+      "id": "citation_reference_17",
+      "path": [
+        "paragraph_15",
+        "content"
+      ],
+      "target": "article_citation_bib6",
+      "range": [
+        300,
+        324
+      ]
+    },
+    "citation_reference_18": {
+      "type": "citation_reference",
+      "id": "citation_reference_18",
+      "path": [
+        "paragraph_15",
+        "content"
+      ],
+      "target": "article_citation_bib3",
+      "range": [
+        485,
+        504
+      ]
+    },
+    "citation_reference_19": {
+      "type": "citation_reference",
+      "id": "citation_reference_19",
+      "path": [
+        "paragraph_15",
+        "content"
+      ],
+      "target": "article_citation_bib3",
+      "range": [
+        674,
+        693
+      ]
+    },
+    "citation_reference_20": {
+      "type": "citation_reference",
+      "id": "citation_reference_20",
+      "path": [
+        "paragraph_15",
+        "content"
+      ],
+      "target": "article_citation_bib8",
+      "range": [
+        695,
+        713
+      ]
+    },
+    "image_fig1": {
+      "type": "image",
+      "id": "image_fig1",
+      "label": "Figure 1.",
+      "url": "",
+      "object_id": "F1",
+      "title": "Summary of the networks of brain regions that code for movements of hands and tools.",
+      "content_type": "",
+      "large_url": "",
+      "content": "",
+      "group": [
+        "parent",
+        null
+      ],
+      "doi": "",
+      "caption": "paragraph_image_fig1",
+      "graphic_id": "elife00866f001"
+    },
+    "paragraph_image_fig1": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig1",
+      "content": "By comparing brain activation as subjects prepared to reach towards or grasp an object using their hands or a tool, Gallivan et al. identified four networks that code for distinct components of object-directed actions. Some brain regions code for planned actions that involve the hands but not tools (red), and others for actions that involve tools but not the hands (blue). A third set of regions codes for actions involving either the hands or tools, but uses different neural representations for each (pink). A final set of areas code the type of action to be performed, distinguishing between reaching towards an object as opposed to grasping it, irrespective of whether a tool or the hands alone are used (purple). The red lines represent the frontoparietal network implicated in hand actions, with the short dashes showing the subnetwork involved in reaching, and the long dashes, the subnetwork involved in grasping. The blue solid lines show the network implicated in tool use, while the green line connects areas comprising a subset of the perception network."
+    },
+    "paragraph_21": {
+      "type": "paragraph",
+      "id": "paragraph_21",
+      "content": "Culham and colleagues—who are based at the UWO, Queen's University and the University of Missouri, and include Jason Gallivan as first author—focus their investigation on the neural substrates that underlie our ability to grasp objects. They used functional magnetic resonance imaging (fMRI) to scan the brains of subjects performing a task in which they had to alternate between using their hands or a set of pliers to reach towards or grasp an object. Ingeniously, the pliers were reverse pliers—constructed so that the business end opens when you close your fingers, and closes when your fingers open. This made it possible to dissociate the goal of each action (e.g., ‘grasp’) from the movements involved in its execution (since in the case of the pliers, ‘grasping’ is accomplished by opening the hand)."
+    },
+    "paragraph_22": {
+      "type": "paragraph",
+      "id": "paragraph_22",
+      "content": "Gallivan et al. used multivariate analyses to test whether the pattern of responses elicited across a set of voxels (or points in the brain) when the participant reaches to touch an object can be distinguished from the pattern elicited across the same voxels when they grasp the object. In addition, they sought to identify three classes of brain regions: those that code grasping of objects with the hand (but not the pliers), those that code grasping of objects with the pliers (but not the hand), and those that have a common code for grasping with both the hand and the pliers (that is, a code for grasping that is independent of the specific movements involved)."
+    },
+    "paragraph_23": {
+      "type": "paragraph",
+      "id": "paragraph_23",
+      "content": "One thing that makes this study particularly special is that Gallivan et al. performed their analyses on the fMRI data just ‘before’ the participants made an overt movement. In other words, they examined where in the brain the ‘intention’ to move is represented. Specifically, they asked: which brain regions distinguish between intentions corresponding to different types of object-directed actions? They found that certain regions decode upcoming actions of the hand but not the pliers (superior-parietal/occipital cortex and lateral occipital cortex), whereas other regions decode upcoming actions involving the pliers but not the hand (supramarginal gyrus and left posterior middle temporal gyrus). A third set of regions uses a common code for upcoming actions of both the hands and the pliers (subregions of the intraparietal sulcus and premotor regions of the frontal lobe)."
+    },
+    "paragraph_24": {
+      "type": "paragraph",
+      "id": "paragraph_24",
+      "content": "The work of Gallivan et al. significantly advances our understanding of how the brain codes upcoming actions involving the hands. Research by a number of teams is converging to suggest that such actions activate regions of lateral occipital cortex that also respond to images of hands (Astafiev et al., 2004; Peelen and Downing, 2005; Orlov et al., 2010; Bracci et al., 2012). Moreover, a previous paper from Gallivan and colleagues reported that upcoming hand actions (grasping versus reaching with the fingers) can be decoded in regions of ventral and lateral temporal-occipital cortex that were independently defined as showing differential BOLD responses for different categories of objects (e.g., objects, scenes, body parts; Gallivan et al., 2013a). Furthermore, the regions of lateral occipital cortex that respond specifically to images of hands are directly adjacent to those that respond specifically to images of tools, and also exhibit strong functional connectivity with areas of somatomotor cortex (Bracci et al., 2012)."
+    },
+    "citation_reference_25": {
+      "type": "citation_reference",
+      "id": "citation_reference_25",
+      "path": [
+        "paragraph_24",
+        "content"
+      ],
+      "target": "article_citation_bib1",
+      "range": [
+        286,
+        307
+      ]
+    },
+    "citation_reference_26": {
+      "type": "citation_reference",
+      "id": "citation_reference_26",
+      "path": [
+        "paragraph_24",
+        "content"
+      ],
+      "target": "article_citation_bib12",
+      "range": [
+        309,
+        333
+      ]
+    },
+    "citation_reference_27": {
+      "type": "citation_reference",
+      "id": "citation_reference_27",
+      "path": [
+        "paragraph_24",
+        "content"
+      ],
+      "target": "article_citation_bib11",
+      "range": [
+        335,
+        353
+      ]
+    },
+    "citation_reference_28": {
+      "type": "citation_reference",
+      "id": "citation_reference_28",
+      "path": [
+        "paragraph_24",
+        "content"
+      ],
+      "target": "article_citation_bib2",
+      "range": [
+        355,
+        374
+      ]
+    },
+    "citation_reference_29": {
+      "type": "citation_reference",
+      "id": "citation_reference_29",
+      "path": [
+        "paragraph_24",
+        "content"
+      ],
+      "target": "article_citation_bib4",
+      "range": [
+        731,
+        753
+      ]
+    },
+    "citation_reference_30": {
+      "type": "citation_reference",
+      "id": "citation_reference_30",
+      "path": [
+        "paragraph_24",
+        "content"
+      ],
+      "target": "article_citation_bib2",
+      "range": [
+        1013,
+        1032
+      ]
+    },
+    "paragraph_31": {
+      "type": "paragraph",
+      "id": "paragraph_31",
+      "content": "Taken together, these latest results and the existing literature point toward a model in which the connections between visual areas and somatomotor regions help to organize high level visual areas (Mahon and Caramazza, 2011), and to integrate visual and motor information online to support object-directed action. An exciting issue raised by this study is the degree to which tools may have multiple levels of representation across different brain regions: some regions seem to represent tools as extensions of the human body (Iriki et al., 1996), while other regions represent them as discrete objects to be acted upon by the body. The work of Gallivan et al. suggests a new way of understanding how these different representations of tools are combined in the service of everyday behavior."
+    },
+    "citation_reference_32": {
+      "type": "citation_reference",
+      "id": "citation_reference_32",
+      "path": [
+        "paragraph_31",
+        "content"
+      ],
+      "target": "article_citation_bib9",
+      "range": [
+        198,
+        223
+      ]
+    },
+    "citation_reference_33": {
+      "type": "citation_reference",
+      "id": "citation_reference_33",
+      "path": [
+        "paragraph_31",
+        "content"
+      ],
+      "target": "article_citation_bib7",
+      "range": [
+        527,
+        545
+      ]
+    },
+    "info:competing-interest": {
+      "type": "heading",
+      "id": "info:competing-interest",
+      "level": 2,
+      "content": "Competing Interests",
+      "nodes": [
+        "paragraph_34"
+      ]
+    },
+    "paragraph_34": {
+      "type": "paragraph",
+      "id": "paragraph_34",
+      "content": "Competing interests:The author declares that no competing interests exist.References"
+    },
+    "article_citation_bib1": {
+      "type": "article_citation",
+      "id": "article_citation_bib1",
+      "authors": [
+        {
+          "given-names": "SV",
+          "last-name": "Astafiev"
+        },
+        {
+          "given-names": "CM",
+          "last-name": "Stanley"
+        },
+        {
+          "given-names": "GL",
+          "last-name": "Shulman"
+        },
+        {
+          "given-names": "M",
+          "last-name": "Corbetta"
+        }
+      ],
+      "title": "Extrastriate body area in human occipital cortex responds to the performance of motor actions",
+      "year": "2004",
+      "volume": "7",
+      "source": "Nat Neurosci",
+      "issue": "",
+      "fpage": "542",
+      "lpage": "8",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1038/nn1241",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib2": {
+      "type": "article_citation",
+      "id": "article_citation_bib2",
+      "authors": [
+        {
+          "given-names": "S",
+          "last-name": "Bracci"
+        },
+        {
+          "given-names": "C",
+          "last-name": "Cavina-Pratesi"
+        },
+        {
+          "given-names": "M",
+          "last-name": "Ietswaart"
+        },
+        {
+          "given-names": "A",
+          "last-name": "Caramazza"
+        },
+        {
+          "given-names": "MV",
+          "last-name": "Peelen"
+        }
+      ],
+      "title": "Closely overlapping responses to tools and hands in left lateral occipitotemporal cortex",
+      "year": "2012",
+      "volume": "107",
+      "source": "J Neurophysiol",
+      "issue": "",
+      "fpage": "1443",
+      "lpage": "56",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1152/jn.00619.2011",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib3": {
+      "type": "article_citation",
+      "id": "article_citation_bib3",
+      "authors": [
+        {
+          "given-names": "JC",
+          "last-name": "Culham"
+        },
+        {
+          "given-names": "SL",
+          "last-name": "Danckert"
+        },
+        {
+          "given-names": "JFX",
+          "last-name": "De Souza"
+        },
+        {
+          "given-names": "JS",
+          "last-name": "Gati"
+        },
+        {
+          "given-names": "RS",
+          "last-name": "Menon"
+        },
+        {
+          "given-names": "MA",
+          "last-name": "Goodale"
+        }
+      ],
+      "title": "Visually guided grasping produces fMRI activation in dorsal but not ventral stream brain areas",
+      "year": "2003",
+      "volume": "153",
+      "source": "Exp Brain Res",
+      "issue": "",
+      "fpage": "180",
+      "lpage": "9",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1007/s00221-003-1591-5",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib4": {
+      "type": "article_citation",
+      "id": "article_citation_bib4",
+      "authors": [
+        {
+          "given-names": "JP",
+          "last-name": "Gallivan"
+        },
+        {
+          "given-names": "CS",
+          "last-name": "Chapman"
+        },
+        {
+          "given-names": "DA",
+          "last-name": "McLean"
+        },
+        {
+          "given-names": "JR",
+          "last-name": "Flanagan"
+        },
+        {
+          "given-names": "JC",
+          "last-name": "Culham"
+        }
+      ],
+      "title": "Activity patterns in the category-selective occipitotemporal cortex predict upcoming motor actions",
+      "year": "2013a",
+      "volume": "",
+      "source": "Eur J Neurosci",
+      "issue": "",
+      "fpage": "",
+      "lpage": "",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1111/ejn.12215",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib5": {
+      "type": "article_citation",
+      "id": "article_citation_bib5",
+      "authors": [
+        {
+          "given-names": "JP",
+          "last-name": "Gallivan"
+        },
+        {
+          "given-names": "DA",
+          "last-name": "McLean"
+        },
+        {
+          "given-names": "KF",
+          "last-name": "Valyear"
+        },
+        {
+          "given-names": "JC",
+          "last-name": "Culham"
+        }
+      ],
+      "title": "Decoding the neural mechanisms of human tool use",
+      "year": "2013b",
+      "volume": "2",
+      "source": "eLife",
+      "issue": "",
+      "fpage": "e00425",
+      "lpage": "",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.7554/eLife.00425",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib6": {
+      "type": "article_citation",
+      "id": "article_citation_bib6",
+      "authors": [
+        {
+          "given-names": "MA",
+          "last-name": "Goodale"
+        },
+        {
+          "given-names": "AD",
+          "last-name": "Milner"
+        }
+      ],
+      "title": "Separate visual pathways for perception and action",
+      "year": "1992",
+      "volume": "15",
+      "source": "Trends Neurosci",
+      "issue": "",
+      "fpage": "20",
+      "lpage": "5",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/0166-2236(92)90344-8",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib7": {
+      "type": "article_citation",
+      "id": "article_citation_bib7",
+      "authors": [
+        {
+          "given-names": "A",
+          "last-name": "Iriki"
+        },
+        {
+          "given-names": "M",
+          "last-name": "Tanaka"
+        },
+        {
+          "given-names": "Y",
+          "last-name": "Iwamura"
+        }
+      ],
+      "title": "Coding of modified body schema during tool use by macaque postcentral neurones",
+      "year": "1996",
+      "volume": "7",
+      "source": "Neuroreport",
+      "issue": "",
+      "fpage": "2325",
+      "lpage": "30",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1097/00001756-199610020-00010",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib8": {
+      "type": "article_citation",
+      "id": "article_citation_bib8",
+      "authors": [
+        {
+          "given-names": "SH",
+          "last-name": "Johnson-Frey"
+        }
+      ],
+      "title": "The neural bases of complex tool use in humans",
+      "year": "2004",
+      "volume": "8",
+      "source": "Trends Cogn Sci",
+      "issue": "",
+      "fpage": "71",
+      "lpage": "8",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/j.tics.2003.12.002",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib9": {
+      "type": "article_citation",
+      "id": "article_citation_bib9",
+      "authors": [
+        {
+          "given-names": "BZ",
+          "last-name": "Mahon"
+        },
+        {
+          "given-names": "A",
+          "last-name": "Caramazza"
+        }
+      ],
+      "title": "What drives the organization of object knowledge in the brain?",
+      "year": "2011",
+      "volume": "15",
+      "source": "Trends Cogn Sciences",
+      "issue": "",
+      "fpage": "97",
+      "lpage": "103",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/j.tics.2011.01.004",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib10": {
+      "type": "article_citation",
+      "id": "article_citation_bib10",
+      "authors": [
+        {
+          "given-names": "A",
+          "last-name": "Martin"
+        }
+      ],
+      "title": "The representation of object concepts in the brain",
+      "year": "2007",
+      "volume": "58",
+      "source": "Ann Rev Psychol",
+      "issue": "",
+      "fpage": "25",
+      "lpage": "45",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1146/annurev.psych.57.102904.190143",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib11": {
+      "type": "article_citation",
+      "id": "article_citation_bib11",
+      "authors": [
+        {
+          "given-names": "T",
+          "last-name": "Orlov"
+        },
+        {
+          "given-names": "TR",
+          "last-name": "Makin"
+        },
+        {
+          "given-names": "E",
+          "last-name": "Zohary"
+        }
+      ],
+      "title": "Topographic representation of the human body in the occipitotemporal cortex",
+      "year": "2010",
+      "volume": "68",
+      "source": "Neuron",
+      "issue": "",
+      "fpage": "586",
+      "lpage": "600",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/j.neuron.2010.09.032",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib12": {
+      "type": "article_citation",
+      "id": "article_citation_bib12",
+      "authors": [
+        {
+          "given-names": "MV",
+          "last-name": "Peelen"
+        },
+        {
+          "given-names": "PE",
+          "last-name": "Downing"
+        }
+      ],
+      "title": "Is the extrastriate body area involved in motor actions?",
+      "year": "2005",
+      "volume": "8",
+      "source": "Nat Neurosci",
+      "issue": "",
+      "fpage": "125",
+      "lpage": "",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1038/nn0205-125a",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": [],
+      "comment": "author reply 125–6"
+    }
+  }
+}

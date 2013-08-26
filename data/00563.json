@@ -1,0 +1,915 @@
+{
+  "id": "00563",
+  "nodes": {
+    "content": {
+      "type": "view",
+      "id": "content",
+      "nodes": [
+        "abstract",
+        "paragraph_3",
+        "paragraph_8",
+        "paragraph_10",
+        "paragraph_11",
+        "paragraph_22",
+        "paragraph_27",
+        "paragraph_28",
+        "paragraph_31",
+        "paragraph_34",
+        "paragraph_37",
+        "paragraph_41"
+      ]
+    },
+    "figures": {
+      "type": "view",
+      "id": "figures",
+      "nodes": [
+        "box_B1",
+        "image_fig1"
+      ]
+    },
+    "citations": {
+      "type": "view",
+      "id": "citations",
+      "nodes": [
+        "article_citation_bib1",
+        "article_citation_bib2",
+        "article_citation_bib3",
+        "article_citation_bib4",
+        "article_citation_bib5",
+        "article_citation_bib6",
+        "article_citation_bib7",
+        "article_citation_bib8"
+      ]
+    },
+    "document": {
+      "type": "document",
+      "id": "document",
+      "views": [
+        "content",
+        "figures",
+        "citations"
+      ],
+      "guid": "00563",
+      "title": "Bacteria herald a new era of gene editing",
+      "authors": [
+        "person_author_3479"
+      ],
+      "received_on": "",
+      "accepted_on": "",
+      "published_on": "2013-01-29",
+      "journal": "eLife",
+      "article_type": "",
+      "keywords": [
+        "Cas9",
+        "endonuclease",
+        "genome editing"
+      ],
+      "research_organisms": [
+        "Human"
+      ],
+      "subjects": [
+        "Genomics and evolutionary biology",
+        "Human biology and medicine"
+      ],
+      "pdf_link": "",
+      "xml_link": "",
+      "json_link": "",
+      "doi": ""
+    },
+    "person_author_3479": {
+      "type": "person",
+      "id": "person_author_3479",
+      "given-names": "David J",
+      "last-name": "Segal",
+      "role": "author",
+      "affiliations": [],
+      "image": "",
+      "contribution": "",
+      "email": "",
+      "funding": []
+    },
+    "institution_aff1": {
+      "type": "institution",
+      "id": "institution_aff1",
+      "name": "University of California, Davis",
+      "city": "",
+      "country": "United States",
+      "email": "djsegal@ucdavis.edu",
+      "image": ""
+    },
+    "info:copyright": {
+      "type": "heading",
+      "id": "info:copyright",
+      "level": 2,
+      "content": "Copyright",
+      "nodes": [
+        "paragraph_1"
+      ]
+    },
+    "paragraph_1": {
+      "type": "paragraph",
+      "id": "paragraph_1",
+      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "annotation_2": {
+      "type": "link",
+      "id": "annotation_2",
+      "path": [
+        "paragraph_1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        51,
+        87
+      ],
+      "url": "http://creativecommons.org/licenses/by/3.0/"
+    },
+    "abstract": {
+      "type": "heading",
+      "id": "abstract",
+      "level": 1,
+      "content": "Abstract",
+      "nodes": []
+    },
+    "paragraph_3": {
+      "type": "paragraph",
+      "id": "paragraph_3",
+      "content": "The demonstration that nucleases guided by bacterial RNA can disrupt human genes represents a landmark in the rapidly developing field of genome engineering."
+    },
+    "box_B1": {
+      "type": "box",
+      "id": "box_B1",
+      "label": "",
+      "url": "",
+      "title": "",
+      "caption": "",
+      "content": "Related research article Jinek M, East A, Cheng A, Ma E, Doudna J. 2013. RNA-programmed genome editing in human cells. eLife 2:e00471. doi: 10.7554/eLife.00471",
+      "doi": ""
+    },
+    "annotation_4": {
+      "type": "strong",
+      "id": "annotation_4",
+      "path": [
+        "box_B1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        24
+      ]
+    },
+    "annotation_5": {
+      "type": "emphasis",
+      "id": "annotation_5",
+      "path": [
+        "box_B1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        119,
+        124
+      ]
+    },
+    "annotation_6": {
+      "type": "strong",
+      "id": "annotation_6",
+      "path": [
+        "box_B1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        125,
+        126
+      ]
+    },
+    "annotation_7": {
+      "type": "link",
+      "id": "annotation_7",
+      "path": [
+        "box_B1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        140,
+        159
+      ],
+      "url": "http://dx.doi.org/10.7554/eLife.00471"
+    },
+    "paragraph_8": {
+      "type": "paragraph",
+      "id": "paragraph_8",
+      "content": "Image The Cas9 protein could revolutionize genome engineering"
+    },
+    "annotation_9": {
+      "type": "strong",
+      "id": "annotation_9",
+      "path": [
+        "paragraph_8",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        5
+      ]
+    },
+    "paragraph_10": {
+      "type": "paragraph",
+      "id": "paragraph_10",
+      "content": ""
+    },
+    "paragraph_11": {
+      "type": "paragraph",
+      "id": "paragraph_11",
+      "content": "Tools for genome engineering seem to be improving faster than computers. Just over a year ago a set of gene editing techniques—zinc finger nucleases, transcription activator-like effector nucleases and engineered meganucleases—were chosen as the method of the year for 2011 by the journal Nature Methods (Baker, 2012). The work that laid the foundations for zinc finger nucleases was done about 20 years ago, but transcription activator-like effector (TALE) nucleases had only emerged in 2009. Then, at the end of 2012, TALE nucleases were selected as one of the 10 breakthroughs of the year by the journal Science (Alberts, 2012). Moreover, in an article entitled ‘Genomic cruise missiles’, Science predicted that a new genome engineering technique based on the bacterial protein Cas9—first reported in June 2012 (Jinek et al., 2012)—may well replace existing techniques. As a cluster of papers in eLife and elsewhere make clear, this prediction looks to be coming true (Cong et al., 2013; Mali et al., 2013; Jinek et al., 2013)."
+    },
+    "annotation_12": {
+      "type": "emphasis",
+      "id": "annotation_12",
+      "path": [
+        "paragraph_11",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        289,
+        303
+      ]
+    },
+    "citation_reference_13": {
+      "type": "citation_reference",
+      "id": "citation_reference_13",
+      "path": [
+        "paragraph_11",
+        "content"
+      ],
+      "target": "article_citation_bib2",
+      "range": [
+        305,
+        316
+      ]
+    },
+    "annotation_14": {
+      "type": "emphasis",
+      "id": "annotation_14",
+      "path": [
+        "paragraph_11",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        607,
+        614
+      ]
+    },
+    "citation_reference_15": {
+      "type": "citation_reference",
+      "id": "citation_reference_15",
+      "path": [
+        "paragraph_11",
+        "content"
+      ],
+      "target": "article_citation_bib1",
+      "range": [
+        616,
+        629
+      ]
+    },
+    "annotation_16": {
+      "type": "emphasis",
+      "id": "annotation_16",
+      "path": [
+        "paragraph_11",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        692,
+        699
+      ]
+    },
+    "citation_reference_17": {
+      "type": "citation_reference",
+      "id": "citation_reference_17",
+      "path": [
+        "paragraph_11",
+        "content"
+      ],
+      "target": "article_citation_bib4",
+      "range": [
+        815,
+        833
+      ]
+    },
+    "annotation_18": {
+      "type": "emphasis",
+      "id": "annotation_18",
+      "path": [
+        "paragraph_11",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        899,
+        904
+      ]
+    },
+    "citation_reference_19": {
+      "type": "citation_reference",
+      "id": "citation_reference_19",
+      "path": [
+        "paragraph_11",
+        "content"
+      ],
+      "target": "article_citation_bib3",
+      "range": [
+        972,
+        989
+      ]
+    },
+    "citation_reference_20": {
+      "type": "citation_reference",
+      "id": "citation_reference_20",
+      "path": [
+        "paragraph_11",
+        "content"
+      ],
+      "target": "article_citation_bib6",
+      "range": [
+        991,
+        1008
+      ]
+    },
+    "citation_reference_21": {
+      "type": "citation_reference",
+      "id": "citation_reference_21",
+      "path": [
+        "paragraph_11",
+        "content"
+      ],
+      "target": "article_citation_bib5",
+      "range": [
+        1010,
+        1028
+      ]
+    },
+    "paragraph_22": {
+      "type": "paragraph",
+      "id": "paragraph_22",
+      "content": "Zinc fingers are a type of protein that binds to DNA and they are found in about half of all transcription factors in the human genome. A zinc finger nuclease is made by attaching a nuclease—an enzyme that can cleave strands of DNA—to a zinc finger that has been re-engineered to bind to a particular DNA sequence (Perez-Pinera et al., 2012). Zinc finger nucleases can, therefore, make precise changes to the DNA of living cells by, for example, knocking out a gene, correcting a genetic mutation or, in the presence of appropriate donor DNA, inserting a new gene at a specific location."
+    },
+    "citation_reference_23": {
+      "type": "citation_reference",
+      "id": "citation_reference_23",
+      "path": [
+        "paragraph_22",
+        "content"
+      ],
+      "target": "article_citation_bib7",
+      "range": [
+        315,
+        340
+      ]
+    },
+    "image_fig1": {
+      "type": "image",
+      "id": "image_fig1",
+      "label": "Figure 1.",
+      "url": "",
+      "object_id": "F1",
+      "title": "Jinek et al. attached a Cas9 nuclease (represented here by the purple rounded rectangle; the white arrows are the endonucleases) to a single-guide RNA (sgRNA), which guided it to a specific region of the target DNA called the protospacer.",
+      "content_type": "",
+      "large_url": "",
+      "content": "",
+      "group": [
+        "parent",
+        null
+      ],
+      "doi": "",
+      "caption": "paragraph_image_fig1",
+      "graphic_id": "elife00563f001"
+    },
+    "paragraph_image_fig1": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig1",
+      "content": "The sgRNA is a hybrid of two components: CRISPR RNA (crRNA; blue) and trans-activating crRNA (tracrRNA; red). (A) Cleavage of the target DNA by the Cas9 nuclease results in mutations that can knock out the target gene. (B) If an appropriate donor DNA molecule is available, genetic information (shown here in pale blue) can be added to the target DNA in a precise manner. (C) By targeting two Cas9 nucleases to different regions of the target DNA, it is possible to delete the genetic information between the two regions. CRISPR: clustered regularly interspaced short palindromic repeats; Cas: CRISPR-associated."
+    },
+    "annotation_24": {
+      "type": "strong",
+      "id": "annotation_24",
+      "path": [
+        "paragraph_image_fig1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        111,
+        112
+      ]
+    },
+    "annotation_25": {
+      "type": "strong",
+      "id": "annotation_25",
+      "path": [
+        "paragraph_image_fig1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        220,
+        221
+      ]
+    },
+    "annotation_26": {
+      "type": "strong",
+      "id": "annotation_26",
+      "path": [
+        "paragraph_image_fig1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        373,
+        374
+      ]
+    },
+    "paragraph_27": {
+      "type": "paragraph",
+      "id": "paragraph_27",
+      "content": "By the end of 2011, zinc finger nucleases had been used to knock out genes in rats, rabbits, and pigs, thus dethroning mice as the sole animal models of human genetics, and targeted gene disruptions had been performed on plants and zebrafish for the first time. Elsewhere, genetic manipulations of stem cells had created new avenues for disease research, and there were even zinc finger nucleases in clinical trials. Unfortunately, zinc finger nucleases were also difficult to make, and commercial sources were expensive. Moreover, although many sequences could be targeted, some could not. Finally, zinc finger nucleases sometimes cleaved DNA strands in the wrong place."
+    },
+    "paragraph_28": {
+      "type": "paragraph",
+      "id": "paragraph_28",
+      "content": "The paradigm for genome engineering shifted seemingly overnight in late 2009 with the discovery that TALEs—proteins produced by Xanthamonas bacteria to regulate transcription in their host plant cells—could bind to specific regions of DNA. The first TALE nuclease appeared in 2010, kits for their assembly appeared on the plasmid repository Addgene in 2011, and a method that can target almost 100 different genes with TALE nucleases was reported in April 2012 (Reyon et al., 2012). Compared to zinc finger nucleases, TALE nucleases are more accurate and can cleave a broader, seemingly comprehensive spectrum of DNA sequences, which is why today most experiments in genome engineering are performed with TALE nucleases."
+    },
+    "annotation_29": {
+      "type": "emphasis",
+      "id": "annotation_29",
+      "path": [
+        "paragraph_28",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        128,
+        139
+      ]
+    },
+    "citation_reference_30": {
+      "type": "citation_reference",
+      "id": "citation_reference_30",
+      "path": [
+        "paragraph_28",
+        "content"
+      ],
+      "target": "article_citation_bib8",
+      "range": [
+        462,
+        480
+      ]
+    },
+    "paragraph_31": {
+      "type": "paragraph",
+      "id": "paragraph_31",
+      "content": "Now, at the start of 2013, the paradigm seems set to shift again. Last year, a collaboration led by Jennifer Doudna of the University of California at Berkeley and Emmanuelle Charpentier of Umeå University sent shock waves through the genome engineering community by showing that a DNA nuclease called Cas9 could be targeted to specific DNA sequences if RNA was attached to it (Jinek et al., 2012). This new approach was based on the CRISPR/Cas system, which is part of the adaptive immune response of many bacteria and archaea. When a virus or plasmid invades a bacterium, segments of the invader's DNA are converted into CRISPR RNAs, or crRNA for short, by the immune response. This crRNA then associates with another type of RNA called tracrRNA to guide the Cas9 to a region called the ‘protospacer’ in the DNA of the invader. The Cas9 then cleaves the protospacer DNA on both strands (Figure 1). Importantly, Doudna, Charpentier and co-workers showed that the nuclease activity could be retargeted by simply designing a new crRNA. Moreover, this could be combined with the tracrRNA into one single-guide RNA."
+    },
+    "citation_reference_32": {
+      "type": "citation_reference",
+      "id": "citation_reference_32",
+      "path": [
+        "paragraph_31",
+        "content"
+      ],
+      "target": "article_citation_bib4",
+      "range": [
+        378,
+        396
+      ]
+    },
+    "figure_reference_33": {
+      "type": "figure_reference",
+      "id": "figure_reference_33",
+      "path": [
+        "paragraph_31",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        889,
+        897
+      ]
+    },
+    "paragraph_34": {
+      "type": "paragraph",
+      "id": "paragraph_34",
+      "content": "Having demonstrated RNA-guided genome engineering in bacteria, the next challenge was to see if this approach would work in a eukaryotic nucleus. Now, in eLife, Doudna and co-workers—including Martin Jinek as first author—show that it can (Jinek et al., 2013). They do this by infecting human cells with two plasmids, one expressing the Cas9 protein, the other expressing single-guide RNA, and showing that this results in the cleavage of a particular gene. Such components will be significantly easier to make than TALE nucleases. For example, a typical TALE nuclease requires two new protein coding regions, each containing about 2000 base pairs, to be synthesized for each new target site, and the highest-throughput TALE assembly systems require large-scale material preparation and robotics for automation. In contrast, the Cas9 approach would require just one new RNA coding region of about 75 base pairs, and any investigator could easily order the hundreds or thousands of oligonucleotides needed for the experiments. Such ease of synthesis has enabled genome-wide screens of gene function using libraries of short hairpin RNA, so we can expect to see similar screens of thousands of genes with nucleases, possibly as soon as later this year."
+    },
+    "annotation_35": {
+      "type": "emphasis",
+      "id": "annotation_35",
+      "path": [
+        "paragraph_34",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        154,
+        159
+      ]
+    },
+    "citation_reference_36": {
+      "type": "citation_reference",
+      "id": "citation_reference_36",
+      "path": [
+        "paragraph_34",
+        "content"
+      ],
+      "target": "article_citation_bib5",
+      "range": [
+        240,
+        258
+      ]
+    },
+    "paragraph_37": {
+      "type": "paragraph",
+      "id": "paragraph_37",
+      "content": "Further support for this paradigm shift in genome engineering comes from papers by George Church of Harvard University and co-workers (Mali et al., 2013) and by Feng Zhang of the Broad Institute and co-workers (Cong et al., 2013). These groups demonstrated another advantage of CRISPR/Cas over TALE nucleases. Genetic deletions were produced by the simultaneous use of two crRNAs or single-guide RNA with Cas9, leading to contemporary double-strand breaks at distant sites and loss of the intervening DNA (Figure 1C). For TALE nucleases, such double cleavage events would require the synthesis of four new protein coding regions containing a total of about 8000 base pairs. These two studies also extended the Cas9 approach to human induced pluripotent stem cells and mouse cell lines, and demonstrated alterations by both homologous recombination and non-homologous end joining mechanisms. In general, CRISPR/Cas systems were found to be comparable to zinc finger and TALE nucleases in terms of activity, or to be more active."
+    },
+    "citation_reference_38": {
+      "type": "citation_reference",
+      "id": "citation_reference_38",
+      "path": [
+        "paragraph_37",
+        "content"
+      ],
+      "target": "article_citation_bib6",
+      "range": [
+        135,
+        152
+      ]
+    },
+    "citation_reference_39": {
+      "type": "citation_reference",
+      "id": "citation_reference_39",
+      "path": [
+        "paragraph_37",
+        "content"
+      ],
+      "target": "article_citation_bib3",
+      "range": [
+        211,
+        228
+      ]
+    },
+    "figure_reference_40": {
+      "type": "figure_reference",
+      "id": "figure_reference_40",
+      "path": [
+        "paragraph_37",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        506,
+        515
+      ]
+    },
+    "paragraph_41": {
+      "type": "paragraph",
+      "id": "paragraph_41",
+      "content": "Many important questions still remain, such as the extent of ‘off-target’ events. Moreover, it seems that as few as 14–16 base pairs of DNA are actually specified by CRISPR/Cas systems, which is unlikely to be sufficient to define a unique address in a human genome. However, the new approach will be tested and improved at a furious pace in the coming months, and the Cas9 approach may well supplant TALEs as the nuclease of choice by the summer, unless there is another paradigm shift before then."
+    },
+    "info:competing-interest": {
+      "type": "heading",
+      "id": "info:competing-interest",
+      "level": 2,
+      "content": "Competing Interests",
+      "nodes": [
+        "paragraph_42"
+      ]
+    },
+    "paragraph_42": {
+      "type": "paragraph",
+      "id": "paragraph_42",
+      "content": "Competing interests:The author declares that no competing interests existReferences"
+    },
+    "article_citation_bib1": {
+      "type": "article_citation",
+      "id": "article_citation_bib1",
+      "authors": [
+        {
+          "given-names": "B",
+          "last-name": "Alberts"
+        }
+      ],
+      "title": "The breakthroughs of 2012",
+      "year": "2012",
+      "volume": "338",
+      "source": "Science",
+      "issue": "",
+      "fpage": "1511",
+      "lpage": "",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1126/science.1234108",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib2": {
+      "type": "article_citation",
+      "id": "article_citation_bib2",
+      "authors": [
+        {
+          "given-names": "M",
+          "last-name": "Baker"
+        }
+      ],
+      "title": "Gene-editing nucleases",
+      "year": "2012",
+      "volume": "9",
+      "source": "Nat Methods",
+      "issue": "",
+      "fpage": "23",
+      "lpage": "6",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1038/nmeth.1807",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib3": {
+      "type": "article_citation",
+      "id": "article_citation_bib3",
+      "authors": [
+        {
+          "given-names": "L",
+          "last-name": "Cong"
+        },
+        {
+          "given-names": "FA",
+          "last-name": "Ran"
+        },
+        {
+          "given-names": "D",
+          "last-name": "Cox"
+        },
+        {
+          "given-names": "S",
+          "last-name": "Lin"
+        },
+        {
+          "given-names": "R",
+          "last-name": "Barretto"
+        },
+        {
+          "given-names": "N",
+          "last-name": "Habib"
+        }
+      ],
+      "title": "Multiplex genome engineering using CRISPR/Cas systems",
+      "year": "2013",
+      "volume": "",
+      "source": "Science",
+      "issue": "",
+      "fpage": "",
+      "lpage": "",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1126/science.1231143",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib4": {
+      "type": "article_citation",
+      "id": "article_citation_bib4",
+      "authors": [
+        {
+          "given-names": "M",
+          "last-name": "Jinek"
+        },
+        {
+          "given-names": "K",
+          "last-name": "Chylinski"
+        },
+        {
+          "given-names": "I",
+          "last-name": "Fonfara"
+        },
+        {
+          "given-names": "M",
+          "last-name": "Hauer"
+        },
+        {
+          "given-names": "JA",
+          "last-name": "Doudna"
+        },
+        {
+          "given-names": "E",
+          "last-name": "Charpentier"
+        }
+      ],
+      "title": "A programmable dual-RNA-guided DNA endonuclease in adaptive bacterial immunity",
+      "year": "2012",
+      "volume": "337",
+      "source": "Science",
+      "issue": "",
+      "fpage": "816",
+      "lpage": "21",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1126/science.1225829",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib5": {
+      "type": "article_citation",
+      "id": "article_citation_bib5",
+      "authors": [
+        {
+          "given-names": "M",
+          "last-name": "Jinek"
+        },
+        {
+          "given-names": "A",
+          "last-name": "East"
+        },
+        {
+          "given-names": "A",
+          "last-name": "Cheng"
+        },
+        {
+          "given-names": "E",
+          "last-name": "Ma"
+        },
+        {
+          "given-names": "J",
+          "last-name": "Doudna"
+        }
+      ],
+      "title": "RNA-programmed genome editing in human cells",
+      "year": "2013",
+      "volume": "2",
+      "source": "eLife",
+      "issue": "",
+      "fpage": "e00471",
+      "lpage": "",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.7554/elife.00471",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib6": {
+      "type": "article_citation",
+      "id": "article_citation_bib6",
+      "authors": [
+        {
+          "given-names": "P",
+          "last-name": "Mali"
+        },
+        {
+          "given-names": "L",
+          "last-name": "Yang"
+        },
+        {
+          "given-names": "KM",
+          "last-name": "Esvelt"
+        },
+        {
+          "given-names": "J",
+          "last-name": "Aach"
+        },
+        {
+          "given-names": "M",
+          "last-name": "Guell"
+        },
+        {
+          "given-names": "JE",
+          "last-name": "Dicarlo"
+        }
+      ],
+      "title": "RNA-guided human genome engineering via Cas9",
+      "year": "2013",
+      "volume": "",
+      "source": "Science",
+      "issue": "",
+      "fpage": "",
+      "lpage": "",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1126/science.1232033",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib7": {
+      "type": "article_citation",
+      "id": "article_citation_bib7",
+      "authors": [
+        {
+          "given-names": "P",
+          "last-name": "Perez-Pinera"
+        },
+        {
+          "given-names": "DG",
+          "last-name": "Ousterout"
+        },
+        {
+          "given-names": "CA",
+          "last-name": "Gersbach"
+        }
+      ],
+      "title": "Advances in targeted genome editing",
+      "year": "2012",
+      "volume": "16",
+      "source": "Curr Opin Chem Biol",
+      "issue": "",
+      "fpage": "268",
+      "lpage": "77",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/j.cbpa.2012.06.007",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib8": {
+      "type": "article_citation",
+      "id": "article_citation_bib8",
+      "authors": [
+        {
+          "given-names": "D",
+          "last-name": "Reyon"
+        },
+        {
+          "given-names": "SQ",
+          "last-name": "Tsai"
+        },
+        {
+          "given-names": "C",
+          "last-name": "Khayter"
+        },
+        {
+          "given-names": "JA",
+          "last-name": "Foden"
+        },
+        {
+          "given-names": "JD",
+          "last-name": "Sander"
+        },
+        {
+          "given-names": "JK",
+          "last-name": "Joung"
+        }
+      ],
+      "title": "FLASH assembly of TALENs for high-throughput genome editing",
+      "year": "2012",
+      "volume": "30",
+      "source": "Nat Biotechnol",
+      "issue": "",
+      "fpage": "460",
+      "lpage": "5",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1038/nbt.2170",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    }
+  }
+}

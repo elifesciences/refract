@@ -1,0 +1,867 @@
+{
+  "id": "01270",
+  "nodes": {
+    "content": {
+      "type": "view",
+      "id": "content",
+      "nodes": [
+        "abstract",
+        "paragraph_3",
+        "paragraph_9",
+        "paragraph_11",
+        "paragraph_12",
+        "paragraph_13",
+        "paragraph_15",
+        "paragraph_17",
+        "paragraph_24",
+        "paragraph_27",
+        "paragraph_29",
+        "paragraph_30",
+        "paragraph_33"
+      ]
+    },
+    "figures": {
+      "type": "view",
+      "id": "figures",
+      "nodes": [
+        "box_4",
+        "image_fig1"
+      ]
+    },
+    "citations": {
+      "type": "view",
+      "id": "citations",
+      "nodes": [
+        "article_citation_bib1",
+        "article_citation_bib2",
+        "article_citation_bib3",
+        "article_citation_bib4",
+        "article_citation_bib5",
+        "article_citation_bib6",
+        "article_citation_bib7",
+        "article_citation_bib8",
+        "article_citation_bib9"
+      ]
+    },
+    "document": {
+      "type": "document",
+      "id": "document",
+      "views": [
+        "content",
+        "figures",
+        "citations"
+      ],
+      "guid": "01270",
+      "title": "Assembly, remodelled",
+      "authors": [
+        "person_author_6650",
+        "person_author_1379"
+      ],
+      "received_on": "",
+      "accepted_on": "",
+      "published_on": "2013-08-20",
+      "journal": "elife",
+      "article_type": "",
+      "keywords": [
+        "chromatin assembly",
+        "chromatin remodelling",
+        "Chd1",
+        "nucleosome",
+        "chromatin",
+        "motor protein"
+      ],
+      "research_organisms": [],
+      "subjects": [
+        "Biochemistry",
+        "Genes and chromosomes"
+      ],
+      "pdf_link": "",
+      "xml_link": "",
+      "json_link": "",
+      "doi": ""
+    },
+    "person_author_6650": {
+      "type": "person",
+      "id": "person_author_6650",
+      "given-names": "Karim",
+      "last-name": "Bouazoune",
+      "role": "author",
+      "affiliations": [],
+      "image": "",
+      "contribution": "",
+      "email": "",
+      "funding": []
+    },
+    "person_author_1379": {
+      "type": "person",
+      "id": "person_author_1379",
+      "given-names": "Robert E",
+      "last-name": "Kingston",
+      "role": "author",
+      "affiliations": [],
+      "image": "",
+      "contribution": "",
+      "email": "",
+      "funding": []
+    },
+    "institution_aff1": {
+      "type": "institution",
+      "id": "institution_aff1",
+      "name": "Massachusetts General Hospital, Harvard Medical School",
+      "city": "Boston",
+      "country": "United States",
+      "email": "bouazoune@molbio.mgh.harvard.edu",
+      "image": ""
+    },
+    "institution_aff2": {
+      "type": "institution",
+      "id": "institution_aff2",
+      "name": "Massachusetts General Hospital, Harvard Medical School",
+      "city": "Boston",
+      "country": "United States",
+      "email": "kingston@molbio.mgh.harvard.edu",
+      "image": ""
+    },
+    "info:copyright": {
+      "type": "heading",
+      "id": "info:copyright",
+      "level": 2,
+      "content": "Copyright",
+      "nodes": [
+        "paragraph_1"
+      ]
+    },
+    "paragraph_1": {
+      "type": "paragraph",
+      "id": "paragraph_1",
+      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "annotation_2": {
+      "type": "link",
+      "id": "annotation_2",
+      "path": [
+        "paragraph_1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        51,
+        87
+      ],
+      "url": "http://creativecommons.org/licenses/by/3.0/"
+    },
+    "abstract": {
+      "type": "heading",
+      "id": "abstract",
+      "level": 1,
+      "content": "Abstract",
+      "nodes": []
+    },
+    "paragraph_3": {
+      "type": "paragraph",
+      "id": "paragraph_3",
+      "content": "Biochemical assays reveal that nucleosome maturation and chromatin remodelling by the motor protein Chd1 are distinct, separable enzymatic activities."
+    },
+    "box_4": {
+      "type": "box",
+      "id": "box_4",
+      "label": "",
+      "url": "",
+      "title": "",
+      "caption": "",
+      "content": "Related research article Torigoe SE, Patel A, Khuong MT, Bowman GD, Kadonaga JT. 2013. ATP-dependent chromatin assembly is functionally distinct from chromatin remodeling. eLife 2:e00863. doi: 10.7554/eLife.00863",
+      "doi": ""
+    },
+    "annotation_5": {
+      "type": "strong",
+      "id": "annotation_5",
+      "path": [
+        "box_4",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        24
+      ]
+    },
+    "annotation_6": {
+      "type": "emphasis",
+      "id": "annotation_6",
+      "path": [
+        "box_4",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        172,
+        177
+      ]
+    },
+    "annotation_7": {
+      "type": "strong",
+      "id": "annotation_7",
+      "path": [
+        "box_4",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        178,
+        179
+      ]
+    },
+    "annotation_8": {
+      "type": "link",
+      "id": "annotation_8",
+      "path": [
+        "box_4",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        193,
+        212
+      ],
+      "url": "http://dx.doi.org/10.7554/eLife.00863"
+    },
+    "paragraph_9": {
+      "type": "paragraph",
+      "id": "paragraph_9",
+      "content": "Image Wild type (left), but not mutant (right), forms of the motor protein Chd1 can create regularly spaced arrays of nucleosomes"
+    },
+    "annotation_10": {
+      "type": "strong",
+      "id": "annotation_10",
+      "path": [
+        "paragraph_9",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        5
+      ]
+    },
+    "paragraph_11": {
+      "type": "paragraph",
+      "id": "paragraph_11",
+      "content": ""
+    },
+    "paragraph_12": {
+      "type": "paragraph",
+      "id": "paragraph_12",
+      "content": "Genomic DNA must frequently be accessed in cells—most crucially, for essential activities such as the transcription of genes, the replication of chromosomes during cell division, and the repair of DNA damage. In organisms such as plants and animals, access to DNA is regulated by packaging it into a complex called chromatin, which both organizes the DNA and ensures that it is fully functional. Chromatin formation is therefore a fundamental process in biology."
+    },
+    "paragraph_13": {
+      "type": "paragraph",
+      "id": "paragraph_13",
+      "content": "Mature chromatin is an ordered array of repeating units, or nucleosomes, each comprising approximately 150 base pairs of DNA wrapped around a set of proteins known as histones. Chromatin is produced through the combined efforts of two additional types of proteins: histone chaperones passively load histones onto DNA, while motor proteins use the energy of ATP to generate nucleosome arrays. Motor proteins actually carry out two kinds of activities—completing the formation of nucleosomes, and also ensuring their regular spacing on the DNA. Now, in eLife, a collaboration between the laboratories of James Kadonaga, at the University of California, San Diego, and Gregory Bowman, of Johns Hopkins University, provides unexpected insight into chromatin maturation via motor proteins."
+    },
+    "annotation_14": {
+      "type": "emphasis",
+      "id": "annotation_14",
+      "path": [
+        "paragraph_13",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        551,
+        556
+      ]
+    },
+    "paragraph_15": {
+      "type": "paragraph",
+      "id": "paragraph_15",
+      "content": "Since the 1970s, it has been clear that the histone-DNA structures initially formed by histone chaperones—which are called nascent nucleosomes—exhibit different properties from those of canonical, mature nucleosomes (Ruberti and Worcel, 1986; refs therein). For example, nascent nucleosomes are more sensitive to digestion by nucleases, enzymes that can cleave DNA. Additionally, unlike canonical nucleosomes, they do not fully retain negative supercoils (twists that result when circular DNA is wound around itself, as in a rubber band). This implies that the DNA is less tightly wrapped around the histones than in mature chromatin."
+    },
+    "citation_reference_16": {
+      "type": "citation_reference",
+      "id": "citation_reference_16",
+      "path": [
+        "paragraph_15",
+        "content"
+      ],
+      "target": "article_citation_bib6",
+      "range": [
+        217,
+        241
+      ]
+    },
+    "paragraph_17": {
+      "type": "paragraph",
+      "id": "paragraph_17",
+      "content": "The differences between nascent and mature nucleosomes can in part be explained by how histone proteins are deposited onto DNA. Nucleosomes contain histone ‘octamers’ composed of two copies each of the core histone proteins H3, H4, H2A and H2B, which are deposited in a specific order. The prevailing model is that first, either two dimers, each with one copy of H3 and H4, or one tetramer that contains two copies each of histones H3 and H4, are loaded onto DNA. Next, two dimers, each with one copy of histones H2A and H2B, are added flanking the H3-H4 proteins (Figure 1) (for review see Macalpine and Almouzni, 2013). In vitro analyses indicate that mature chromatin is then formed by motor proteins—enzymes formally called ATP-dependent chromatin (or nucleosome) remodelling proteins. These proteins use the energy of ATP to convert the randomly deposited ‘prenucleosomes’ into mature nucleosomes (a key step in a process called ‘chromatin assembly’), and then into a regularly spaced nucleosome array (utilizing a process called ‘chromatin remodelling’). This nucleosome array has the same sensitivity to digestion by nucleases as mature chromatin (Ito et al., 1997; Varga-Weisz et al., 1997; Torigoe et al., 2011; refs therein)."
+    },
+    "figure_reference_18": {
+      "type": "figure_reference",
+      "id": "figure_reference_18",
+      "path": [
+        "paragraph_17",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        565,
+        573
+      ]
+    },
+    "citation_reference_19": {
+      "type": "citation_reference",
+      "id": "citation_reference_19",
+      "path": [
+        "paragraph_17",
+        "content"
+      ],
+      "target": "article_citation_bib4",
+      "range": [
+        591,
+        619
+      ]
+    },
+    "annotation_20": {
+      "type": "emphasis",
+      "id": "annotation_20",
+      "path": [
+        "paragraph_17",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        955,
+        956
+      ]
+    },
+    "citation_reference_21": {
+      "type": "citation_reference",
+      "id": "citation_reference_21",
+      "path": [
+        "paragraph_17",
+        "content"
+      ],
+      "target": "article_citation_bib3",
+      "range": [
+        1155,
+        1171
+      ]
+    },
+    "citation_reference_22": {
+      "type": "citation_reference",
+      "id": "citation_reference_22",
+      "path": [
+        "paragraph_17",
+        "content"
+      ],
+      "target": "article_citation_bib9",
+      "range": [
+        1173,
+        1197
+      ]
+    },
+    "citation_reference_23": {
+      "type": "citation_reference",
+      "id": "citation_reference_23",
+      "path": [
+        "paragraph_17",
+        "content"
+      ],
+      "target": "article_citation_bib7",
+      "range": [
+        1199,
+        1219
+      ]
+    },
+    "image_fig1": {
+      "type": "image",
+      "id": "image_fig1",
+      "label": "Figure 1.",
+      "url": "",
+      "object_id": "F1",
+      "title": "Mature nucleosome arrays are formed in several stages.",
+      "content_type": "",
+      "large_url": "",
+      "content": "",
+      "group": [
+        "parent",
+        null
+      ],
+      "doi": "",
+      "caption": "paragraph_image_fig1",
+      "graphic_id": "elife01270f001"
+    },
+    "paragraph_image_fig1": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig1",
+      "content": "Histone proteins are first loaded onto DNA to create non-canonical nucleosomal structures referred to as ‘prenucleosomes’ (top and second panels). The core histones, H2A, H2B, H3 and H4, associate with each other in heterodimers (H2A-H2B and H3-H4; top panel) and are deposited onto DNA in a specific order by proteins called histone chaperones (top blue box) to form an irregularly spaced prenucleosome array (dashed ovals, second panel). Mature nucleosomes are then formed, and also repositioned to ensure their even spacing on the DNA, by ATP-dependent chromatin remodelling factors (motor proteins; lower blue box). Maturation and repositioning were formerly thought to be achieved by a single enzymatic function (long arrow at left, bottom panel). Now, using mutant variants of a motor protein called Chd1, Torigoe et al. suggest that chromatin remodelling factors use not one but two distinct ATP-dependent activities to convert randomly deposited prenucleosomes into a mature array of evenly spaced nucleosomes (solid ovals; short arrows at right, third and bottom panels)."
+    },
+    "paragraph_24": {
+      "type": "paragraph",
+      "id": "paragraph_24",
+      "content": "Chromatin, or nucleosome, remodelling is shorthand for a set of related processes that can be carried out on mature nucleosomes, and that can occur either as chromatin is formed or during cellular events such as gene transcription. These include ‘sliding’ (repositioning) of the histone octamer along DNA; the formation of regularly spaced, or periodic, nucleosome arrays; the deposition or eviction of histone octamers; and the exchange of core histone proteins for histone variants (for review Hopfner et al., 2012; Clapier and Cairns, 2009). Most of the ATP-dependent chromatin remodelling proteins that perform these processes belong to four major related families: SWI/SNF (SWItch/Sucrose-Non-Fermenting); ISWI (Imitation SWItch); CHD (Chromodomain Helicase DNA-binding); and SWR1/INO80 (Swi2/Snf2-Related 1/ Inositol Requiring 80). These enzymes use a region called the ATPase/DNA-translocase domain to remodel chromatin; studies have established that the different subfamilies catalyse different reactions."
+    },
+    "citation_reference_25": {
+      "type": "citation_reference",
+      "id": "citation_reference_25",
+      "path": [
+        "paragraph_24",
+        "content"
+      ],
+      "target": "article_citation_bib2",
+      "range": [
+        496,
+        516
+      ]
+    },
+    "citation_reference_26": {
+      "type": "citation_reference",
+      "id": "citation_reference_26",
+      "path": [
+        "paragraph_24",
+        "content"
+      ],
+      "target": "article_citation_bib1",
+      "range": [
+        518,
+        542
+      ]
+    },
+    "paragraph_27": {
+      "type": "paragraph",
+      "id": "paragraph_27",
+      "content": "The Kadonaga and Bowman groups—including Sharon Torigoe as first author—joined forces to dissect the relationship between the maturation of prenucleosomes into nucleosomes and the remodelling of fully formed nucleosomes. They studied a CHD family protein, Chd1, and took advantage of mutant versions of yeast Chd1 that retain significant ATPase activity, but cannot remodel chromatin. Specifically, these mutants are extremely inefficient at sliding nucleosomes along a DNA fragment (Patel et al., 2011). As expected, these chromatin-remodelling–defective Chd1 proteins were unable to space nucleosomes periodically. Surprisingly, however, they could still support nucleosome assembly from prenucleosomes in the presence of ATP. This provides evidence, for the first time, that the maturation and remodelling of nucleosomes are distinct processes."
+    },
+    "citation_reference_28": {
+      "type": "citation_reference",
+      "id": "citation_reference_28",
+      "path": [
+        "paragraph_27",
+        "content"
+      ],
+      "target": "article_citation_bib5",
+      "range": [
+        484,
+        502
+      ]
+    },
+    "paragraph_29": {
+      "type": "paragraph",
+      "id": "paragraph_29",
+      "content": "Kadonaga and co-workers found further evidence that these processes were separable by investigating a protein called BRG1, which functions as the ATPase subunit of the human SWI/SNF complex. BRG1 remodels chromatin, but the authors observed that it could not catalyse the maturation of prenucleosomes, indicating that ATP-dependent chromatin remodelling is not sufficient to convert prenucleosomes into nucleosomes (i.e., to complete nucleosome assembly). Thus, at least in vitro, the formation of regularly spaced nucleosome arrays seems to require two distinct ATP-dependent activities."
+    },
+    "paragraph_30": {
+      "type": "paragraph",
+      "id": "paragraph_30",
+      "content": "These findings cumulatively led Torigoe et al. to suggest a model for chromatin formation in which histone chaperones first deposit histones onto DNA to create prenucleosomes (Torigoe et al., 2011). Next, specific chromatin remodelling factors use the energy of ATP to convert these intermediates into canonical nucleosomes, which are then (simultaneously or subsequently) remodelled into periodic arrays (Figure 1)."
+    },
+    "citation_reference_31": {
+      "type": "citation_reference",
+      "id": "citation_reference_31",
+      "path": [
+        "paragraph_30",
+        "content"
+      ],
+      "target": "article_citation_bib7",
+      "range": [
+        176,
+        196
+      ]
+    },
+    "figure_reference_32": {
+      "type": "figure_reference",
+      "id": "figure_reference_32",
+      "path": [
+        "paragraph_30",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        406,
+        414
+      ]
+    },
+    "paragraph_33": {
+      "type": "paragraph",
+      "id": "paragraph_33",
+      "content": "Many chromatin assembly studies have shown that nascent nucleosomes are more sensitive to nuclease digestion than mature nucleosomes, and that the maturation of chromatin depends on the energy of ATP (Ruberti and Worcel, 1986; refs therein). While some of these initial structures have been attributed to the sequential loading of histone dimers or tetramers onto DNA, Kadonaga and co-workers propose a new fundamental step in the process of chromatin maturation. It is now essential to determine how these biochemical observations relate to the chromatin assembly pathways undertaken during DNA replication, DNA repair and gene transcription in vivo (Macalpine and Almouzni, 2013). Does the formation of chromatin in vitro reflect events in vivo fully, or only incompletely? In particular, organisms have many histone chaperones; some, such as CAF-1 (Chromatin Assembly Factor 1), have different properties than NAP1 (Nucleosome Assembly Protein 1), the chaperone used by Torigoe et al. These differences might influence the way in which chromatin matures. Nonetheless, by identifying Chd1 mutants that can still catalyse nucleosome maturation despite defects in chromatin remodelling, the current study provides a new angle to explore these issues in vivo."
+    },
+    "citation_reference_34": {
+      "type": "citation_reference",
+      "id": "citation_reference_34",
+      "path": [
+        "paragraph_33",
+        "content"
+      ],
+      "target": "article_citation_bib6",
+      "range": [
+        201,
+        225
+      ]
+    },
+    "citation_reference_35": {
+      "type": "citation_reference",
+      "id": "citation_reference_35",
+      "path": [
+        "paragraph_33",
+        "content"
+      ],
+      "target": "article_citation_bib4",
+      "range": [
+        652,
+        680
+      ]
+    },
+    "info:competing-interest": {
+      "type": "heading",
+      "id": "info:competing-interest",
+      "level": 2,
+      "content": "Competing Interests",
+      "nodes": [
+        "paragraph_36"
+      ]
+    },
+    "paragraph_36": {
+      "type": "paragraph",
+      "id": "paragraph_36",
+      "content": "Competing interests:The authors declare that no competing interests exist.References"
+    },
+    "article_citation_bib1": {
+      "type": "article_citation",
+      "id": "article_citation_bib1",
+      "authors": [
+        {
+          "given-names": "C",
+          "last-name": "Clapier"
+        },
+        {
+          "given-names": "B",
+          "last-name": "Cairns"
+        }
+      ],
+      "title": "The biology of chromatin remodeling complexes",
+      "year": "2009",
+      "volume": "78",
+      "source": "Annu Rev Biochem",
+      "issue": "",
+      "fpage": "273",
+      "lpage": "304",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1146/annurev.biochem.77.062706.153223",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib2": {
+      "type": "article_citation",
+      "id": "article_citation_bib2",
+      "authors": [
+        {
+          "given-names": "K",
+          "last-name": "Hopfner"
+        },
+        {
+          "given-names": "C",
+          "last-name": "Gerhold"
+        },
+        {
+          "given-names": "K",
+          "last-name": "Lakomek"
+        },
+        {
+          "given-names": "P",
+          "last-name": "Wollmann"
+        }
+      ],
+      "title": "Swi2/Snf2 remodelers: hybrid views on hybrid molecular machines",
+      "year": "2012",
+      "volume": "22",
+      "source": "Curr Opin Struct Biol",
+      "issue": "",
+      "fpage": "225",
+      "lpage": "33",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/j.sbi.2012.02.007",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib3": {
+      "type": "article_citation",
+      "id": "article_citation_bib3",
+      "authors": [
+        {
+          "given-names": "T",
+          "last-name": "Ito"
+        },
+        {
+          "given-names": "M",
+          "last-name": "Bulger"
+        },
+        {
+          "given-names": "M",
+          "last-name": "Pazin"
+        },
+        {
+          "given-names": "R",
+          "last-name": "Kobayashi"
+        },
+        {
+          "given-names": "J",
+          "last-name": "Kadonaga"
+        }
+      ],
+      "title": "ACF, an ISWI-containing and ATP-utilizing chromatin assembly and remodeling factor",
+      "year": "1997",
+      "volume": "90",
+      "source": "Cell",
+      "issue": "",
+      "fpage": "145",
+      "lpage": "55",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/S0092-8674(00)80321-9",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib4": {
+      "type": "article_citation",
+      "id": "article_citation_bib4",
+      "authors": [
+        {
+          "given-names": "D",
+          "last-name": "Macalpine"
+        },
+        {
+          "given-names": "G",
+          "last-name": "Almouzni"
+        }
+      ],
+      "title": "Chromatin and DNA replication",
+      "year": "2013",
+      "volume": "5",
+      "source": "Cold Spring Harb Perspect Biol",
+      "issue": "",
+      "fpage": "a010207",
+      "lpage": "",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1101/cshperspect.a010207",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib5": {
+      "type": "article_citation",
+      "id": "article_citation_bib5",
+      "authors": [
+        {
+          "given-names": "A",
+          "last-name": "Patel"
+        },
+        {
+          "given-names": "J",
+          "last-name": "McKnight"
+        },
+        {
+          "given-names": "P",
+          "last-name": "Genzor"
+        },
+        {
+          "given-names": "G",
+          "last-name": "Bowman"
+        }
+      ],
+      "title": "Identification of residues in chromodomain helicase DNA-binding protein 1 (Chd1) required for coupling ATP hydrolysis to nucleosome sliding",
+      "year": "2011",
+      "volume": "286",
+      "source": "J Biol Chem",
+      "issue": "",
+      "fpage": "43984",
+      "lpage": "93",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1074/jbc.M111.282970",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib6": {
+      "type": "article_citation",
+      "id": "article_citation_bib6",
+      "authors": [
+        {
+          "given-names": "I",
+          "last-name": "Ruberti"
+        },
+        {
+          "given-names": "A",
+          "last-name": "Worcel"
+        }
+      ],
+      "title": "Mechanism of chromatin assembly in Xenopus oocytes",
+      "year": "1986",
+      "volume": "189",
+      "source": "J Mol Biol",
+      "issue": "",
+      "fpage": "457",
+      "lpage": "76",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/0022-2836(86)90317-7",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib7": {
+      "type": "article_citation",
+      "id": "article_citation_bib7",
+      "authors": [
+        {
+          "given-names": "S",
+          "last-name": "Torigoe"
+        },
+        {
+          "given-names": "D",
+          "last-name": "Urwin"
+        },
+        {
+          "given-names": "H",
+          "last-name": "Ishii"
+        },
+        {
+          "given-names": "D",
+          "last-name": "Smith"
+        },
+        {
+          "given-names": "J",
+          "last-name": "Kadonaga"
+        }
+      ],
+      "title": "Identification of a rapidly formed nonnucleosomal histone-DNA intermediate that is converted into chromatin by ACF",
+      "year": "2011",
+      "volume": "43",
+      "source": "Mol Cell",
+      "issue": "",
+      "fpage": "638",
+      "lpage": "48",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/j.molcel.2011.07.017",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib8": {
+      "type": "article_citation",
+      "id": "article_citation_bib8",
+      "authors": [
+        {
+          "given-names": "SE",
+          "last-name": "Torigoe"
+        },
+        {
+          "given-names": "A",
+          "last-name": "Patel"
+        },
+        {
+          "given-names": "MT",
+          "last-name": "Khuong"
+        },
+        {
+          "given-names": "GD",
+          "last-name": "Bowman"
+        },
+        {
+          "given-names": "JT",
+          "last-name": "Kadonaga"
+        }
+      ],
+      "title": "ATP-dependent chromatin assembly is functionally distinct from chromatin remodeling",
+      "year": "2013",
+      "volume": "2",
+      "source": "eLife",
+      "issue": "",
+      "fpage": "e00863",
+      "lpage": "",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.7554/eLife.00863",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib9": {
+      "type": "article_citation",
+      "id": "article_citation_bib9",
+      "authors": [
+        {
+          "given-names": "P",
+          "last-name": "Varga-Weisz"
+        },
+        {
+          "given-names": "M",
+          "last-name": "Wilm"
+        },
+        {
+          "given-names": "E",
+          "last-name": "Bonte"
+        },
+        {
+          "given-names": "K",
+          "last-name": "Dumas"
+        },
+        {
+          "given-names": "M",
+          "last-name": "Mann"
+        },
+        {
+          "given-names": "P",
+          "last-name": "Becker"
+        }
+      ],
+      "title": "Chromatin-remodelling factor CHRAC contains the ATPases ISWI and topoisomerase II",
+      "year": "1997",
+      "volume": "388",
+      "source": "Nature",
+      "issue": "",
+      "fpage": "598",
+      "lpage": "602",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1038/41587",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    }
+  }
+}

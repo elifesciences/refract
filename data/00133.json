@@ -23,35 +23,39 @@
         "paragraph_52",
         "paragraph_114",
         "paragraph_117",
+        "heading_s2-2",
+        "paragraph_133",
+        "heading_s2-3",
+        "paragraph_145",
         "heading_s2-4",
-        "paragraph_160",
+        "paragraph_190",
         "heading_s2-5",
-        "paragraph_185",
+        "paragraph_215",
         "heading_s2-6",
-        "paragraph_214",
-        "paragraph_250",
-        "paragraph_265",
-        "paragraph_274",
+        "paragraph_244",
+        "paragraph_280",
+        "paragraph_295",
+        "paragraph_304",
         "heading_s3",
-        "paragraph_282",
-        "paragraph_291",
+        "paragraph_312",
+        "paragraph_321",
         "heading_s4",
         "heading_s4-1",
-        "paragraph_300",
+        "paragraph_330",
         "heading_s4-2",
-        "paragraph_308",
-        "heading_s4-3",
-        "paragraph_329",
-        "heading_s4-4",
-        "paragraph_331",
-        "heading_s4-5",
-        "paragraph_332",
-        "heading_s4-6",
-        "paragraph_335",
-        "heading_s4-7",
         "paragraph_338",
+        "heading_s4-3",
+        "paragraph_359",
+        "heading_s4-4",
+        "paragraph_361",
+        "heading_s4-5",
+        "paragraph_362",
+        "heading_s4-6",
+        "paragraph_365",
+        "heading_s4-7",
+        "paragraph_368",
         "heading_s4-8",
-        "paragraph_341",
+        "paragraph_371",
         "sub-article",
         "sub-article"
       ]
@@ -66,6 +70,7 @@
         "image_fig1s3",
         "image_fig2",
         "video_video1",
+        "video_video4",
         "image_fig3",
         "image_fig3s1",
         "image_fig3s2",
@@ -1895,7 +1900,7 @@
         "paragraph_117",
         "content"
       ],
-      "target": "video_video1 video2 video3",
+      "target": "video_video1",
       "range": [
         532,
         542
@@ -2096,21 +2101,430 @@
     "video_video1": {
       "type": "video",
       "id": "video_video1",
-      "label": "Video 5.",
+      "label": "Video 3.",
+      "title": "",
       "caption": "paragraph_video_video1",
       "content_type": "",
-      "url_ogv": "http://static.movie-usa.glencoesoftware.com/ogv/10.7554/elife00133v005.ogv",
+      "url_ogv": "http://static.movie-usa.glencoesoftware.com/ogv/10.7554/elife00133v003.ogv",
       "url_jpg": "",
       "url_mp4": "",
-      "doi": "http://dx.doi.org/10.7554/eLife.00133.008http://dx.doi.org/10.7554/eLife.00133.009http://dx.doi.org/10.7554/eLife.00133.010http://dx.doi.org/10.7554/eLife.00133.011http://dx.doi.org/10.7554/eLife.00133.012",
-      "url": "http://static.movie-usa.glencoesoftware.com/mp4/10.7554/elife00133v005.mp4",
-      "poster": "http://static.movie-usa.glencoesoftware.com/jpg/10.7554/elife00133v005.jpg",
-      "graphic_id": "elife00133v005.avi"
+      "doi": "http://dx.doi.org/10.7554/eLife.00133.008http://dx.doi.org/10.7554/eLife.00133.009http://dx.doi.org/10.7554/eLife.00133.010",
+      "url": "http://static.movie-usa.glencoesoftware.com/mp4/10.7554/elife00133v003.mp4",
+      "poster": "http://static.movie-usa.glencoesoftware.com/jpg/10.7554/elife00133v003.jpg",
+      "graphic_id": "elife00133v003.avi"
     },
     "paragraph_video_video1": {
       "type": "paragraph",
       "id": "paragraph_video_video1",
       "content": "Movement of EBP-2::GFP puncta in the ventral axon of wild-type DA9 neuron. Cell body is to the left. Displayed 10× speed."
+    },
+    "heading_s2-2": {
+      "type": "heading",
+      "id": "heading_s2-2",
+      "level": 2,
+      "content": "UNC-116/kinesin-1 is required for minus-end-out MT organization in the dendrite",
+      "nodes": []
+    },
+    "paragraph_133": {
+      "type": "paragraph",
+      "id": "paragraph_133",
+      "content": "To understand how the minus-end-out MTs are assembled and maintained in the dendrite, we examined the localization of our MT markers in the mitotic kinesin mutant zen-4/kinesin-6, which is required for mobilizing MTs in neuronal processes in vitro (Baas et al., 2006). To our surprise, we found no obvious changes in the distribution of MT polarity markers in these mutants. Instead, we found that the DA9 dendritic MT organization is altered in mutants of a related kinesin, unc-116/kinesin-1. In unc-116(e2310) mutants, UNC-104::YFP also accumulates in the tip of dendrite in addition to its normal localization at the axonal tip (Figure 1E). Furthermore, the fluorescence signals of DHC-1::GFP and KLP-16::YFP no longer accumulate at the dendrite tip; instead, fluorescence is visible only at the dendritic segment nearest the cell body (Figure 1F,G,M). These changes in the distribution of MT polarity markers suggest that dendritic MT organization has changed to an axon-like plus-end-out pattern in the unc-116 mutants. Consistently, in the same mutant dynamic MTs in the dendrites of both DA9 and PHC neurons almost completely change their behaviors, adopting a predominantly plus-end-out movement (Figure 2A–C and Videos 4 and 5). These data further indicate that the unc-116/kinesin-1 mutation causes MT polarity in dendrites to become axon-like, but with no effect on MT orientation in the axon."
+    },
+    "annotation_134": {
+      "type": "emphasis",
+      "id": "annotation_134",
+      "path": [
+        "paragraph_133",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        163,
+        178
+      ]
+    },
+    "citation_reference_135": {
+      "type": "citation_reference",
+      "id": "citation_reference_135",
+      "path": [
+        "paragraph_133",
+        "content"
+      ],
+      "target": "article_citation_bib7",
+      "range": [
+        249,
+        266
+      ]
+    },
+    "annotation_136": {
+      "type": "emphasis",
+      "id": "annotation_136",
+      "path": [
+        "paragraph_133",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        476,
+        483
+      ]
+    },
+    "annotation_137": {
+      "type": "emphasis",
+      "id": "annotation_137",
+      "path": [
+        "paragraph_133",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        498,
+        512
+      ]
+    },
+    "figure_reference_138": {
+      "type": "figure_reference",
+      "id": "figure_reference_138",
+      "path": [
+        "paragraph_133",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        633,
+        642
+      ]
+    },
+    "figure_reference_139": {
+      "type": "figure_reference",
+      "id": "figure_reference_139",
+      "path": [
+        "paragraph_133",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        841,
+        854
+      ]
+    },
+    "annotation_140": {
+      "type": "emphasis",
+      "id": "annotation_140",
+      "path": [
+        "paragraph_133",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1009,
+        1016
+      ]
+    },
+    "figure_reference_141": {
+      "type": "figure_reference",
+      "id": "figure_reference_141",
+      "path": [
+        "paragraph_133",
+        "content"
+      ],
+      "target": "image_fig2",
+      "range": [
+        1206,
+        1217
+      ]
+    },
+    "figure_reference_142": {
+      "type": "figure_reference",
+      "id": "figure_reference_142",
+      "path": [
+        "paragraph_133",
+        "content"
+      ],
+      "target": "video_video4",
+      "range": [
+        1222,
+        1236
+      ]
+    },
+    "annotation_143": {
+      "type": "emphasis",
+      "id": "annotation_143",
+      "path": [
+        "paragraph_133",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1276,
+        1283
+      ]
+    },
+    "video_video4": {
+      "type": "video",
+      "id": "video_video4",
+      "label": "Video 5.",
+      "title": "",
+      "caption": "paragraph_video_video4",
+      "content_type": "",
+      "url_ogv": "http://static.movie-usa.glencoesoftware.com/ogv/10.7554/elife00133v005.ogv",
+      "url_jpg": "",
+      "url_mp4": "",
+      "doi": "http://dx.doi.org/10.7554/eLife.00133.011http://dx.doi.org/10.7554/eLife.00133.012",
+      "url": "http://static.movie-usa.glencoesoftware.com/mp4/10.7554/elife00133v005.mp4",
+      "poster": "http://static.movie-usa.glencoesoftware.com/jpg/10.7554/elife00133v005.jpg",
+      "graphic_id": "elife00133v005.avi"
+    },
+    "paragraph_video_video4": {
+      "type": "paragraph",
+      "id": "paragraph_video_video4",
+      "content": "Movement of EBP-2::GFP puncta in the ventral axon of unc-116 (e2310) DA9 neuron. Cell body is to the left. Displayed 10× speed."
+    },
+    "heading_s2-3": {
+      "type": "heading",
+      "id": "heading_s2-3",
+      "level": 2,
+      "content": "Synaptic vesicle and active zone proteins localize to dendrites in unc-116 mutants",
+      "nodes": []
+    },
+    "annotation_144": {
+      "type": "emphasis",
+      "id": "annotation_144",
+      "path": [
+        "heading_s2-3",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        67,
+        74
+      ]
+    },
+    "paragraph_145": {
+      "type": "paragraph",
+      "id": "paragraph_145",
+      "content": "What are the consequences of MT polarity reversal in the DA9 dendrite? We first compared the development of the DA9 dendrite in wild-type and unc-116 animals. In wild-type animals, DA9 axonal outgrowth and neuromuscular junction formation occur embryonically, whereas most dendrite outgrowth takes place postembryonically starting from the L1 stage (Teichmann and Shen, 2011). Upon reaching adulthood, the DA9 axon and dendrite achieve stereotyped lengths. In the unc-116(e2310) mutants, the sequence and directionality of axonal and dendrite outgrowth as well as the length of the axon are indistinguishable from that of the wild-type strain. The length of the DA9 dendrite, however, is dramatically longer compared with wild-type animals at every stage of development (Figure 3—figure supplement 1). To determine whether MT-dependent vesicle transport is affected by unc-116(e2310), we examined localization of synaptic vesicle (SV) markers. The UNC-104/Imac/kinesin3 motor traffics SVs to presynaptic specializations (Hall and Hedgecock, 1991), and synaptic vesicle proteins like RAB-3 exclusively accumulate in the axon of wild-type animals (Figure 3A). In unc-104(e1265) mutants, SV markers are completely absent from the axon, accumulating instead in the cell body and dendrite due to the activity of dynein (Figure 3C; Ou et al., 2010). Interestingly, we found that in unc-116(e2310) mutants, both the axon and dendrite contain a similar number of vesicle clusters (Figure 3E and Figure 3—figure supplement 2). If this ectopic accumulation of SVs in the dendrite is due to the switch of MT polarity to axon-like plus-end-out arrangement (rather than to the activity of dynein), then the accumulation of SVs in the DA9 dendrite should depend on the UNC-104 kinesin motor. Indeed, in unc-104(e1265);unc-116(e2310) double mutants, SVs are largely absent from both processes and trapped in the cell body. These results argue that UNC-116 is not directly involved in SV transport in the DA9 neuron; rather, it creates the minus-end-out MT polarity of the dendrite. As a result of this aberrant MT polarity, the plus-end motor UNC-104 promotes locomotion of cargoes into the dendrite. If our model is correct, the unc-116 mutations should not only affect RAB-3 but also other synaptic vesicle proteins and active zone proteins. Indeed, the active zone protein SYD-2/liprin and other SV markers like SNG-1/synaptogyrin show similar ectopic localization to DA9 dendrites in the unc-116(e2310) mutants, suggesting that the changes in MT polarity affect the entire presynaptic structure (Figure 3—figure supplement 2)."
+    },
+    "annotation_146": {
+      "type": "emphasis",
+      "id": "annotation_146",
+      "path": [
+        "paragraph_145",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        142,
+        149
+      ]
+    },
+    "citation_reference_147": {
+      "type": "citation_reference",
+      "id": "citation_reference_147",
+      "path": [
+        "paragraph_145",
+        "content"
+      ],
+      "target": "article_citation_bib44",
+      "range": [
+        350,
+        374
+      ]
+    },
+    "annotation_148": {
+      "type": "emphasis",
+      "id": "annotation_148",
+      "path": [
+        "paragraph_145",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        464,
+        478
+      ]
+    },
+    "figure_reference_149": {
+      "type": "figure_reference",
+      "id": "figure_reference_149",
+      "path": [
+        "paragraph_145",
+        "content"
+      ],
+      "target": "image_fig3s1",
+      "range": [
+        771,
+        799
+      ]
+    },
+    "annotation_150": {
+      "type": "emphasis",
+      "id": "annotation_150",
+      "path": [
+        "paragraph_145",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        869,
+        883
+      ]
+    },
+    "citation_reference_151": {
+      "type": "citation_reference",
+      "id": "citation_reference_151",
+      "path": [
+        "paragraph_145",
+        "content"
+      ],
+      "target": "article_citation_bib15",
+      "range": [
+        1021,
+        1045
+      ]
+    },
+    "figure_reference_152": {
+      "type": "figure_reference",
+      "id": "figure_reference_152",
+      "path": [
+        "paragraph_145",
+        "content"
+      ],
+      "target": "image_fig3",
+      "range": [
+        1146,
+        1155
+      ]
+    },
+    "annotation_153": {
+      "type": "emphasis",
+      "id": "annotation_153",
+      "path": [
+        "paragraph_145",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1161,
+        1175
+      ]
+    },
+    "figure_reference_154": {
+      "type": "figure_reference",
+      "id": "figure_reference_154",
+      "path": [
+        "paragraph_145",
+        "content"
+      ],
+      "target": "image_fig3",
+      "range": [
+        1315,
+        1324
+      ]
+    },
+    "citation_reference_155": {
+      "type": "citation_reference",
+      "id": "citation_reference_155",
+      "path": [
+        "paragraph_145",
+        "content"
+      ],
+      "target": "article_citation_bib31",
+      "range": [
+        1326,
+        1341
+      ]
+    },
+    "annotation_156": {
+      "type": "emphasis",
+      "id": "annotation_156",
+      "path": [
+        "paragraph_145",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1376,
+        1390
+      ]
+    },
+    "figure_reference_157": {
+      "type": "figure_reference",
+      "id": "figure_reference_157",
+      "path": [
+        "paragraph_145",
+        "content"
+      ],
+      "target": "image_fig3",
+      "range": [
+        1473,
+        1482
+      ]
+    },
+    "figure_reference_158": {
+      "type": "figure_reference",
+      "id": "figure_reference_158",
+      "path": [
+        "paragraph_145",
+        "content"
+      ],
+      "target": "image_fig3s2",
+      "range": [
+        1487,
+        1515
+      ]
+    },
+    "annotation_159": {
+      "type": "emphasis",
+      "id": "annotation_159",
+      "path": [
+        "paragraph_145",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1789,
+        1818
+      ]
+    },
+    "annotation_160": {
+      "type": "emphasis",
+      "id": "annotation_160",
+      "path": [
+        "paragraph_145",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        2215,
+        2222
+      ]
+    },
+    "annotation_161": {
+      "type": "emphasis",
+      "id": "annotation_161",
+      "path": [
+        "paragraph_145",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        2477,
+        2491
+      ]
+    },
+    "figure_reference_162": {
+      "type": "figure_reference",
+      "id": "figure_reference_162",
+      "path": [
+        "paragraph_145",
+        "content"
+      ],
+      "target": "image_fig3s2",
+      "range": [
+        2585,
+        2613
+      ]
     },
     "image_fig3": {
       "type": "image",
@@ -2135,9 +2549,9 @@
       "id": "paragraph_image_fig3",
       "content": "(A)–(D) Distribution of GFP::RAB-3 puncta (left panels) and represented schematic diagrams (right panels) in wild-type (A), unc-116 (B), unc-104 (C), and unc-116;unc-104 mutant animals (D). (E) Average percentage of GFP::RAB-3 fluorescence intensity in the dendrite (n = 20). (F) Quantification of GFP::RAB-1 fluorescence intensity in the dendrite (n = 20). ***p<0.0001. Student's t-test. The scale bar represents 10 μm. Asterisk denotes DA9 cell body."
     },
-    "annotation_133": {
+    "annotation_163": {
       "type": "emphasis",
-      "id": "annotation_133",
+      "id": "annotation_163",
       "path": [
         "image_fig3",
         "title"
@@ -2148,9 +2562,9 @@
         51
       ]
     },
-    "annotation_134": {
+    "annotation_164": {
       "type": "strong",
-      "id": "annotation_134",
+      "id": "annotation_164",
       "path": [
         "paragraph_image_fig3",
         "content"
@@ -2161,9 +2575,9 @@
         2
       ]
     },
-    "annotation_135": {
+    "annotation_165": {
       "type": "strong",
-      "id": "annotation_135",
+      "id": "annotation_165",
       "path": [
         "paragraph_image_fig3",
         "content"
@@ -2174,9 +2588,9 @@
         6
       ]
     },
-    "annotation_136": {
+    "annotation_166": {
       "type": "strong",
-      "id": "annotation_136",
+      "id": "annotation_166",
       "path": [
         "paragraph_image_fig3",
         "content"
@@ -2187,9 +2601,9 @@
         121
       ]
     },
-    "annotation_137": {
+    "annotation_167": {
       "type": "emphasis",
-      "id": "annotation_137",
+      "id": "annotation_167",
       "path": [
         "paragraph_image_fig3",
         "content"
@@ -2200,9 +2614,9 @@
         131
       ]
     },
-    "annotation_138": {
+    "annotation_168": {
       "type": "strong",
-      "id": "annotation_138",
+      "id": "annotation_168",
       "path": [
         "paragraph_image_fig3",
         "content"
@@ -2213,9 +2627,9 @@
         134
       ]
     },
-    "annotation_139": {
+    "annotation_169": {
       "type": "emphasis",
-      "id": "annotation_139",
+      "id": "annotation_169",
       "path": [
         "paragraph_image_fig3",
         "content"
@@ -2226,9 +2640,9 @@
         144
       ]
     },
-    "annotation_140": {
+    "annotation_170": {
       "type": "strong",
-      "id": "annotation_140",
+      "id": "annotation_170",
       "path": [
         "paragraph_image_fig3",
         "content"
@@ -2239,9 +2653,9 @@
         147
       ]
     },
-    "annotation_141": {
+    "annotation_171": {
       "type": "emphasis",
-      "id": "annotation_141",
+      "id": "annotation_171",
       "path": [
         "paragraph_image_fig3",
         "content"
@@ -2252,9 +2666,9 @@
         169
       ]
     },
-    "annotation_142": {
+    "annotation_172": {
       "type": "strong",
-      "id": "annotation_142",
+      "id": "annotation_172",
       "path": [
         "paragraph_image_fig3",
         "content"
@@ -2265,9 +2679,9 @@
         187
       ]
     },
-    "annotation_143": {
+    "annotation_173": {
       "type": "strong",
-      "id": "annotation_143",
+      "id": "annotation_173",
       "path": [
         "paragraph_image_fig3",
         "content"
@@ -2278,9 +2692,9 @@
         192
       ]
     },
-    "annotation_144": {
+    "annotation_174": {
       "type": "strong",
-      "id": "annotation_144",
+      "id": "annotation_174",
       "path": [
         "paragraph_image_fig3",
         "content"
@@ -2291,9 +2705,9 @@
         278
       ]
     },
-    "annotation_145": {
+    "annotation_175": {
       "type": "emphasis",
-      "id": "annotation_145",
+      "id": "annotation_175",
       "path": [
         "paragraph_image_fig3",
         "content"
@@ -2327,9 +2741,9 @@
       "id": "paragraph_image_fig3s1",
       "content": "(A) and (B) Micrographs of representative wild-type (A) and unc-116 (e2310) (B) adults expressing cytoplasmic mCherry in DA9. (C) Average length of DA9 dendrite in 20 wild-type and unc-116 (e2310) adults. The scale bar represents 10 μm. Bracket indicates dendrite; error bars indicate standard deviations. ***p<0.0001. χ2 test."
     },
-    "annotation_146": {
+    "annotation_176": {
       "type": "emphasis",
-      "id": "annotation_146",
+      "id": "annotation_176",
       "path": [
         "image_fig3s1",
         "title"
@@ -2340,9 +2754,9 @@
         33
       ]
     },
-    "annotation_147": {
+    "annotation_177": {
       "type": "strong",
-      "id": "annotation_147",
+      "id": "annotation_177",
       "path": [
         "paragraph_image_fig3s1",
         "content"
@@ -2353,9 +2767,9 @@
         2
       ]
     },
-    "annotation_148": {
+    "annotation_178": {
       "type": "strong",
-      "id": "annotation_148",
+      "id": "annotation_178",
       "path": [
         "paragraph_image_fig3s1",
         "content"
@@ -2366,9 +2780,9 @@
         10
       ]
     },
-    "annotation_149": {
+    "annotation_179": {
       "type": "strong",
-      "id": "annotation_149",
+      "id": "annotation_179",
       "path": [
         "paragraph_image_fig3s1",
         "content"
@@ -2379,9 +2793,9 @@
         54
       ]
     },
-    "annotation_150": {
+    "annotation_180": {
       "type": "emphasis",
-      "id": "annotation_150",
+      "id": "annotation_180",
       "path": [
         "paragraph_image_fig3s1",
         "content"
@@ -2392,9 +2806,9 @@
         75
       ]
     },
-    "annotation_151": {
+    "annotation_181": {
       "type": "strong",
-      "id": "annotation_151",
+      "id": "annotation_181",
       "path": [
         "paragraph_image_fig3s1",
         "content"
@@ -2405,9 +2819,9 @@
         78
       ]
     },
-    "annotation_152": {
+    "annotation_182": {
       "type": "strong",
-      "id": "annotation_152",
+      "id": "annotation_182",
       "path": [
         "paragraph_image_fig3s1",
         "content"
@@ -2418,9 +2832,9 @@
         128
       ]
     },
-    "annotation_153": {
+    "annotation_183": {
       "type": "emphasis",
-      "id": "annotation_153",
+      "id": "annotation_183",
       "path": [
         "paragraph_image_fig3s1",
         "content"
@@ -2431,9 +2845,9 @@
         196
       ]
     },
-    "annotation_154": {
+    "annotation_184": {
       "type": "superscript",
-      "id": "annotation_154",
+      "id": "annotation_184",
       "path": [
         "paragraph_image_fig3s1",
         "content"
@@ -2467,9 +2881,9 @@
       "id": "paragraph_image_fig3s2",
       "content": "(A) and (B) Distribution of synaptic vesicle marker GFP::RAB-3 and an active zone marker mCherry::SYD-2 in wild-type and unc-116 (e2310) mutant. The scale bar represents 10 μm. The high magnifications are shown in the right panels."
     },
-    "annotation_155": {
+    "annotation_185": {
       "type": "emphasis",
-      "id": "annotation_155",
+      "id": "annotation_185",
       "path": [
         "image_fig3s2",
         "title"
@@ -2480,9 +2894,9 @@
         49
       ]
     },
-    "annotation_156": {
+    "annotation_186": {
       "type": "strong",
-      "id": "annotation_156",
+      "id": "annotation_186",
       "path": [
         "paragraph_image_fig3s2",
         "content"
@@ -2493,9 +2907,9 @@
         2
       ]
     },
-    "annotation_157": {
+    "annotation_187": {
       "type": "strong",
-      "id": "annotation_157",
+      "id": "annotation_187",
       "path": [
         "paragraph_image_fig3s2",
         "content"
@@ -2506,9 +2920,9 @@
         10
       ]
     },
-    "annotation_158": {
+    "annotation_188": {
       "type": "emphasis",
-      "id": "annotation_158",
+      "id": "annotation_188",
       "path": [
         "paragraph_image_fig3s2",
         "content"
@@ -2526,9 +2940,9 @@
       "content": "The dendrite fails to accumulate dendritic proteins in unc-116 mutants",
       "nodes": []
     },
-    "annotation_159": {
+    "annotation_189": {
       "type": "emphasis",
-      "id": "annotation_159",
+      "id": "annotation_189",
       "path": [
         "heading_s2-4",
         "content"
@@ -2539,16 +2953,16 @@
         62
       ]
     },
-    "paragraph_160": {
+    "paragraph_190": {
       "type": "paragraph",
-      "id": "paragraph_160",
+      "id": "paragraph_190",
       "content": "To determine whether unc-116 and dendritic MT polarity are critical for localization of dendritic proteins, we analyzed the distribution of several dendritically targeted proteins. An acetylcholine receptor (ACR-2), a receptor tyrosine kinase (CAM-1), and a gap junction protein (FBN-1) are all reported to be dendritically enriched in DA9 (Sieburth et al., 2005; Barbagallo et al., 2010). In wild-type DA9 neurons, fluorescently tagged ACR-2, CAM-1, and FBN-1 all localize to the dendrite, cell body, and the initial part of the ventral axon. In unc-116(e2310) animals, however, these dendritic proteins accumulate within the cell body and largely disappear from the dendrite, suggesting that unc-116 is required for dendritic localization of postsynaptic proteins (Figure 4). Taken together, these data suggest that the minus-end-out MT organization in the dendrite is instructive for dendritic cargo transport by molecular motors. It discourages the plus-end motor, UNC-104, and encourage the minus-end motor, dynein, from entering and accumulating in the dendrite. This polarity mechanism is thus essential for setting up the polarized distribution of vital axonal and dendritic constituents such as SVs and neurotransmitter receptors."
     },
-    "annotation_161": {
+    "annotation_191": {
       "type": "emphasis",
-      "id": "annotation_161",
+      "id": "annotation_191",
       "path": [
-        "paragraph_160",
+        "paragraph_190",
         "content"
       ],
       "target": null,
@@ -2557,11 +2971,11 @@
         28
       ]
     },
-    "citation_reference_162": {
+    "citation_reference_192": {
       "type": "citation_reference",
-      "id": "citation_reference_162",
+      "id": "citation_reference_192",
       "path": [
-        "paragraph_160",
+        "paragraph_190",
         "content"
       ],
       "target": "article_citation_bib38",
@@ -2570,11 +2984,11 @@
         362
       ]
     },
-    "citation_reference_163": {
+    "citation_reference_193": {
       "type": "citation_reference",
-      "id": "citation_reference_163",
+      "id": "citation_reference_193",
       "path": [
-        "paragraph_160",
+        "paragraph_190",
         "content"
       ],
       "target": "article_citation_bib9",
@@ -2583,11 +2997,11 @@
         387
       ]
     },
-    "annotation_164": {
+    "annotation_194": {
       "type": "emphasis",
-      "id": "annotation_164",
+      "id": "annotation_194",
       "path": [
-        "paragraph_160",
+        "paragraph_190",
         "content"
       ],
       "target": null,
@@ -2596,11 +3010,11 @@
         561
       ]
     },
-    "annotation_165": {
+    "annotation_195": {
       "type": "emphasis",
-      "id": "annotation_165",
+      "id": "annotation_195",
       "path": [
-        "paragraph_160",
+        "paragraph_190",
         "content"
       ],
       "target": null,
@@ -2609,11 +3023,11 @@
         701
       ]
     },
-    "figure_reference_166": {
+    "figure_reference_196": {
       "type": "figure_reference",
-      "id": "figure_reference_166",
+      "id": "figure_reference_196",
       "path": [
-        "paragraph_160",
+        "paragraph_190",
         "content"
       ],
       "target": "image_fig4",
@@ -2645,9 +3059,9 @@
       "id": "paragraph_image_fig4",
       "content": "DA9 dendrite fails to accumulate dendritic proteins in unc-116 mutants. (A) and (D) Distribution of the postsynaptic neurotransmitter receptor ACR-2::GFP in wild-type (A) and unc-116 (D) animals. Bracket indicates dendrite region. (B) and (E) Localization of CAM-1::YFP in a representative wild-type (B) or unc-116 worm (E). (C) and (F) Localization of FBN-1::YFP in a representative wild-type (C) or unc-116 worm (F). (G) Quantification of CAM-1::YFP fluorescence intensity in the dendrite (n = 20). ***p<0.0001. Student's t-test. The scale bar represents 10 μm. Bracket indicates dendrite. Asterisk denotes DA9 cell body."
     },
-    "annotation_167": {
+    "annotation_197": {
       "type": "emphasis",
-      "id": "annotation_167",
+      "id": "annotation_197",
       "path": [
         "paragraph_image_fig4",
         "content"
@@ -2658,9 +3072,9 @@
         62
       ]
     },
-    "annotation_168": {
+    "annotation_198": {
       "type": "strong",
-      "id": "annotation_168",
+      "id": "annotation_198",
       "path": [
         "paragraph_image_fig4",
         "content"
@@ -2671,9 +3085,9 @@
         74
       ]
     },
-    "annotation_169": {
+    "annotation_199": {
       "type": "strong",
-      "id": "annotation_169",
+      "id": "annotation_199",
       "path": [
         "paragraph_image_fig4",
         "content"
@@ -2684,9 +3098,9 @@
         82
       ]
     },
-    "annotation_170": {
+    "annotation_200": {
       "type": "strong",
-      "id": "annotation_170",
+      "id": "annotation_200",
       "path": [
         "paragraph_image_fig4",
         "content"
@@ -2697,9 +3111,9 @@
         169
       ]
     },
-    "annotation_171": {
+    "annotation_201": {
       "type": "emphasis",
-      "id": "annotation_171",
+      "id": "annotation_201",
       "path": [
         "paragraph_image_fig4",
         "content"
@@ -2710,9 +3124,9 @@
         182
       ]
     },
-    "annotation_172": {
+    "annotation_202": {
       "type": "strong",
-      "id": "annotation_172",
+      "id": "annotation_202",
       "path": [
         "paragraph_image_fig4",
         "content"
@@ -2723,9 +3137,9 @@
         185
       ]
     },
-    "annotation_173": {
+    "annotation_203": {
       "type": "strong",
-      "id": "annotation_173",
+      "id": "annotation_203",
       "path": [
         "paragraph_image_fig4",
         "content"
@@ -2736,9 +3150,9 @@
         233
       ]
     },
-    "annotation_174": {
+    "annotation_204": {
       "type": "strong",
-      "id": "annotation_174",
+      "id": "annotation_204",
       "path": [
         "paragraph_image_fig4",
         "content"
@@ -2749,9 +3163,9 @@
         241
       ]
     },
-    "annotation_175": {
+    "annotation_205": {
       "type": "strong",
-      "id": "annotation_175",
+      "id": "annotation_205",
       "path": [
         "paragraph_image_fig4",
         "content"
@@ -2762,9 +3176,9 @@
         302
       ]
     },
-    "annotation_176": {
+    "annotation_206": {
       "type": "emphasis",
-      "id": "annotation_176",
+      "id": "annotation_206",
       "path": [
         "paragraph_image_fig4",
         "content"
@@ -2775,9 +3189,9 @@
         314
       ]
     },
-    "annotation_177": {
+    "annotation_207": {
       "type": "strong",
-      "id": "annotation_177",
+      "id": "annotation_207",
       "path": [
         "paragraph_image_fig4",
         "content"
@@ -2788,9 +3202,9 @@
         322
       ]
     },
-    "annotation_178": {
+    "annotation_208": {
       "type": "strong",
-      "id": "annotation_178",
+      "id": "annotation_208",
       "path": [
         "paragraph_image_fig4",
         "content"
@@ -2801,9 +3215,9 @@
         327
       ]
     },
-    "annotation_179": {
+    "annotation_209": {
       "type": "strong",
-      "id": "annotation_179",
+      "id": "annotation_209",
       "path": [
         "paragraph_image_fig4",
         "content"
@@ -2814,9 +3228,9 @@
         335
       ]
     },
-    "annotation_180": {
+    "annotation_210": {
       "type": "strong",
-      "id": "annotation_180",
+      "id": "annotation_210",
       "path": [
         "paragraph_image_fig4",
         "content"
@@ -2827,9 +3241,9 @@
         396
       ]
     },
-    "annotation_181": {
+    "annotation_211": {
       "type": "emphasis",
-      "id": "annotation_181",
+      "id": "annotation_211",
       "path": [
         "paragraph_image_fig4",
         "content"
@@ -2840,9 +3254,9 @@
         408
       ]
     },
-    "annotation_182": {
+    "annotation_212": {
       "type": "strong",
-      "id": "annotation_182",
+      "id": "annotation_212",
       "path": [
         "paragraph_image_fig4",
         "content"
@@ -2853,9 +3267,9 @@
         416
       ]
     },
-    "annotation_183": {
+    "annotation_213": {
       "type": "strong",
-      "id": "annotation_183",
+      "id": "annotation_213",
       "path": [
         "paragraph_image_fig4",
         "content"
@@ -2866,9 +3280,9 @@
         421
       ]
     },
-    "annotation_184": {
+    "annotation_214": {
       "type": "emphasis",
-      "id": "annotation_184",
+      "id": "annotation_214",
       "path": [
         "paragraph_image_fig4",
         "content"
@@ -2886,16 +3300,16 @@
       "content": "Kinesin-1 cross-links anti-parallel MTs in vitro",
       "nodes": []
     },
-    "paragraph_185": {
+    "paragraph_215": {
       "type": "paragraph",
-      "id": "paragraph_185",
+      "id": "paragraph_215",
       "content": "The canonical function of kinesin-1 is to transport certain cargos, such as mitochondria, along neuronal MTs. Like kinesin-1, UNC-116 is composed of an N-terminal motor domain, a putative coiled-coil dimerization stalk region, and a C-terminal tail domain that binds to kinesin light chains (KLCs), adaptors, and cargos (Vale, 2003). Interestingly, several recent biochemical and cell biology experiments have shown that part of the C-terminal tail domain of kinesin-1 binds directly to MTs (Navone et al., 1992; Dietrich et al., 2008; Seeger and Rice, 2010). It was also demonstrated that kinesin-1 could cross-link and glide MTs using in vitro assays (Andrews et al., 1993; Palacios and St Johnston, 2002; Yamada et al., 2010). To understand how UNC-116 regulates dendrite MT polarity, we considered two possible models in which UNC-116/kinesin-1 directly transport the minus-end-out MTs into dendrites or transport the plus-end-out MTs out of dendrites via interaction of its C-terminal MT-binding domain with the cargo MTs. In either scenario, it requires kinesin-1 selectively cross-link anti-parallel MTs. We first tested it using in vitro MTs bundling assay. When purified tubulins were polymerized into MTs, the MTs were found as isolated microtubules with the appearance of smooth surface under the electron microscope (Figure 5A). Addition of purified kinesin-1 complex from bovine brain to the MTs causes the dispersed MTs to adopt a more ‘rough' surface due to the binding of kinesin-1 to MTs (Figure 5B). When both of kinesin-1 and mNUDC were added to the MTs, we found that MTs were bundled (Figure 5C). The MT bundles are superficially similar to those reconstructed from flagellar axonemal dyneins and MTs (Ueno et al., 2008). No such bundles were observed in control samples containing just taxol-stabilized MTs or in mixtures of MTs with kinesin-1 only (Figure 5B). Neighboring MTs in the bundles has an interval of ∼80 nm. Considering kinesin-1 has a long flexible stalk (maximum ∼80 nm; Hirokawa et al., 1989) and mNUDC is an adapter protein, it is conceivable that the cross-bridges represent a complex of kinesin-1 and mNUDC. Furthermore, we determined the polarity of the cross-linked MTs from their Moiré patterns of protofilaments (Chretien et al., 1996), and determined orientation of 13 pairs of MTs cross-linked by kinesin-1. Nine pairs (69%) of microtubule bundles were anti-parallel with a 95% confidence interval (CI) of 39% and 91% by F-test for binominal distribution (Figure 5D-D2). The lower limit of CI exceeds 50% when a significant level is 13.4% using one-tailed F-tests. Therefore, kinesin-1-mNUDC complex tends to cross-link anti-parallel microtubule bundles."
     },
-    "citation_reference_186": {
+    "citation_reference_216": {
       "type": "citation_reference",
-      "id": "citation_reference_186",
+      "id": "citation_reference_216",
       "path": [
-        "paragraph_185",
+        "paragraph_215",
         "content"
       ],
       "target": "article_citation_bib45",
@@ -2904,11 +3318,11 @@
         331
       ]
     },
-    "citation_reference_187": {
+    "citation_reference_217": {
       "type": "citation_reference",
-      "id": "citation_reference_187",
+      "id": "citation_reference_217",
       "path": [
-        "paragraph_185",
+        "paragraph_215",
         "content"
       ],
       "target": "article_citation_bib30",
@@ -2917,11 +3331,11 @@
         511
       ]
     },
-    "citation_reference_188": {
+    "citation_reference_218": {
       "type": "citation_reference",
-      "id": "citation_reference_188",
+      "id": "citation_reference_218",
       "path": [
-        "paragraph_185",
+        "paragraph_215",
         "content"
       ],
       "target": "article_citation_bib12",
@@ -2930,11 +3344,11 @@
         534
       ]
     },
-    "citation_reference_189": {
+    "citation_reference_219": {
       "type": "citation_reference",
-      "id": "citation_reference_189",
+      "id": "citation_reference_219",
       "path": [
-        "paragraph_185",
+        "paragraph_215",
         "content"
       ],
       "target": "article_citation_bib36",
@@ -2943,11 +3357,11 @@
         557
       ]
     },
-    "citation_reference_190": {
+    "citation_reference_220": {
       "type": "citation_reference",
-      "id": "citation_reference_190",
+      "id": "citation_reference_220",
       "path": [
-        "paragraph_185",
+        "paragraph_215",
         "content"
       ],
       "target": "article_citation_bib2",
@@ -2956,11 +3370,11 @@
         674
       ]
     },
-    "citation_reference_191": {
+    "citation_reference_221": {
       "type": "citation_reference",
-      "id": "citation_reference_191",
+      "id": "citation_reference_221",
       "path": [
-        "paragraph_185",
+        "paragraph_215",
         "content"
       ],
       "target": "article_citation_bib32",
@@ -2969,11 +3383,11 @@
         706
       ]
     },
-    "citation_reference_192": {
+    "citation_reference_222": {
       "type": "citation_reference",
-      "id": "citation_reference_192",
+      "id": "citation_reference_222",
       "path": [
-        "paragraph_185",
+        "paragraph_215",
         "content"
       ],
       "target": "article_citation_bib48",
@@ -2982,11 +3396,11 @@
         727
       ]
     },
-    "figure_reference_193": {
+    "figure_reference_223": {
       "type": "figure_reference",
-      "id": "figure_reference_193",
+      "id": "figure_reference_223",
       "path": [
-        "paragraph_185",
+        "paragraph_215",
         "content"
       ],
       "target": "image_fig5",
@@ -2995,11 +3409,11 @@
         1338
       ]
     },
-    "figure_reference_194": {
+    "figure_reference_224": {
       "type": "figure_reference",
-      "id": "figure_reference_194",
+      "id": "figure_reference_224",
       "path": [
-        "paragraph_185",
+        "paragraph_215",
         "content"
       ],
       "target": "image_fig5",
@@ -3008,11 +3422,11 @@
         1515
       ]
     },
-    "figure_reference_195": {
+    "figure_reference_225": {
       "type": "figure_reference",
-      "id": "figure_reference_195",
+      "id": "figure_reference_225",
       "path": [
-        "paragraph_185",
+        "paragraph_215",
         "content"
       ],
       "target": "image_fig5",
@@ -3021,11 +3435,11 @@
         1615
       ]
     },
-    "citation_reference_196": {
+    "citation_reference_226": {
       "type": "citation_reference",
-      "id": "citation_reference_196",
+      "id": "citation_reference_226",
       "path": [
-        "paragraph_185",
+        "paragraph_215",
         "content"
       ],
       "target": "article_citation_bib53",
@@ -3034,11 +3448,11 @@
         1740
       ]
     },
-    "figure_reference_197": {
+    "figure_reference_227": {
       "type": "figure_reference",
-      "id": "figure_reference_197",
+      "id": "figure_reference_227",
       "path": [
-        "paragraph_185",
+        "paragraph_215",
         "content"
       ],
       "target": "image_fig5",
@@ -3047,11 +3461,11 @@
         1881
       ]
     },
-    "citation_reference_198": {
+    "citation_reference_228": {
       "type": "citation_reference",
-      "id": "citation_reference_198",
+      "id": "citation_reference_228",
       "path": [
-        "paragraph_185",
+        "paragraph_215",
         "content"
       ],
       "target": "article_citation_bib17",
@@ -3060,11 +3474,11 @@
         2028
       ]
     },
-    "citation_reference_199": {
+    "citation_reference_229": {
       "type": "citation_reference",
-      "id": "citation_reference_199",
+      "id": "citation_reference_229",
       "path": [
-        "paragraph_185",
+        "paragraph_215",
         "content"
       ],
       "target": "article_citation_bib10",
@@ -3073,11 +3487,11 @@
         2278
       ]
     },
-    "annotation_200": {
+    "annotation_230": {
       "type": "emphasis",
-      "id": "annotation_200",
+      "id": "annotation_230",
       "path": [
-        "paragraph_185",
+        "paragraph_215",
         "content"
       ],
       "target": null,
@@ -3086,11 +3500,11 @@
         2468
       ]
     },
-    "figure_reference_201": {
+    "figure_reference_231": {
       "type": "figure_reference",
-      "id": "figure_reference_201",
+      "id": "figure_reference_231",
       "path": [
-        "paragraph_185",
+        "paragraph_215",
         "content"
       ],
       "target": "image_fig5",
@@ -3099,11 +3513,11 @@
         2514
       ]
     },
-    "annotation_202": {
+    "annotation_232": {
       "type": "emphasis",
-      "id": "annotation_202",
+      "id": "annotation_232",
       "path": [
-        "paragraph_185",
+        "paragraph_215",
         "content"
       ],
       "target": null,
@@ -3135,9 +3549,9 @@
       "id": "paragraph_image_fig5",
       "content": "(A)–(C) Negatively stained EM images of (A) MTs alone, (B) kinesin-1-MTs, and (C) kinesin-1-NudC-MTs. Two enlarged images are in right row. Scar bar is 100 nm from (A–C), and 30 nm in the enlarged images. Note that long spanned MT bundles were observed only in (C) when the samples mixed with both Kinesin-1 and NudC. Deeply stained cross-bridging molecules are seen between adjacent MTs.Cryo-EM images of microtubules of (D) kinesin-NudC microtubles, (D1) microtubules alone and (D2) kinesin-microtubules."
     },
-    "annotation_203": {
+    "annotation_233": {
       "type": "strong",
-      "id": "annotation_203",
+      "id": "annotation_233",
       "path": [
         "paragraph_image_fig5",
         "content"
@@ -3148,9 +3562,9 @@
         2
       ]
     },
-    "annotation_204": {
+    "annotation_234": {
       "type": "strong",
-      "id": "annotation_204",
+      "id": "annotation_234",
       "path": [
         "paragraph_image_fig5",
         "content"
@@ -3161,9 +3575,9 @@
         6
       ]
     },
-    "annotation_205": {
+    "annotation_235": {
       "type": "strong",
-      "id": "annotation_205",
+      "id": "annotation_235",
       "path": [
         "paragraph_image_fig5",
         "content"
@@ -3174,9 +3588,9 @@
         42
       ]
     },
-    "annotation_206": {
+    "annotation_236": {
       "type": "strong",
-      "id": "annotation_206",
+      "id": "annotation_236",
       "path": [
         "paragraph_image_fig5",
         "content"
@@ -3187,9 +3601,9 @@
         57
       ]
     },
-    "annotation_207": {
+    "annotation_237": {
       "type": "strong",
-      "id": "annotation_207",
+      "id": "annotation_237",
       "path": [
         "paragraph_image_fig5",
         "content"
@@ -3200,9 +3614,9 @@
         80
       ]
     },
-    "annotation_208": {
+    "annotation_238": {
       "type": "strong",
-      "id": "annotation_208",
+      "id": "annotation_238",
       "path": [
         "paragraph_image_fig5",
         "content"
@@ -3213,9 +3627,9 @@
         166
       ]
     },
-    "annotation_209": {
+    "annotation_239": {
       "type": "strong",
-      "id": "annotation_209",
+      "id": "annotation_239",
       "path": [
         "paragraph_image_fig5",
         "content"
@@ -3226,9 +3640,9 @@
         168
       ]
     },
-    "annotation_210": {
+    "annotation_240": {
       "type": "strong",
-      "id": "annotation_210",
+      "id": "annotation_240",
       "path": [
         "paragraph_image_fig5",
         "content"
@@ -3239,9 +3653,9 @@
         263
       ]
     },
-    "annotation_211": {
+    "annotation_241": {
       "type": "strong",
-      "id": "annotation_211",
+      "id": "annotation_241",
       "path": [
         "paragraph_image_fig5",
         "content"
@@ -3252,9 +3666,9 @@
         424
       ]
     },
-    "annotation_212": {
+    "annotation_242": {
       "type": "strong",
-      "id": "annotation_212",
+      "id": "annotation_242",
       "path": [
         "paragraph_image_fig5",
         "content"
@@ -3265,9 +3679,9 @@
         455
       ]
     },
-    "annotation_213": {
+    "annotation_243": {
       "type": "strong",
-      "id": "annotation_213",
+      "id": "annotation_243",
       "path": [
         "paragraph_image_fig5",
         "content"
@@ -3285,16 +3699,16 @@
       "content": "UNC-116/kinesin-1 slides plus-end-out MTs out of the dendrite through its C-terminal MT-binding site",
       "nodes": []
     },
-    "paragraph_214": {
+    "paragraph_244": {
       "type": "paragraph",
-      "id": "paragraph_214",
+      "id": "paragraph_244",
       "content": "The ability of UNC-116 to slide anti-parallel MTs requires that the motor have two distinct binding sites for MTs. Indeed, the C-terminal domain of kinesin-1 has been shown to bind to MTs in addition to the N-terminal motor domain (Navone et al., 1992; Seeger and Rice, 2010). To further investigate whether the C-terminal domain of UNC-116 can bind to MTs and whether this binding is required for its function in establishing dendritic MTs, we first examined the amino acid sequence of the C-terminal region of UNC-116. Sequence alignment of UNC-116 with its corresponding fly, rat, and human homologs showed that the MT-binding site is highly conserved (Figure 6A). The positively charged residues (labeled in red) in this region have been shown to be required for MT-binding in vitro (Seeger and Rice, 2010). Given the high degree of sequence conservation of the MT-binding site, it is likely that its function in binding MTs is also conserved in worms. Furthermore, GFP-tagged C-terminal domain of UNC-116 (521–863) showed colocalization with MTs when expressed in HEK293 cells, suggesting that the C-terminal domain of UNC-116 can indeed bind to MTs (data not shown)."
     },
-    "citation_reference_215": {
+    "citation_reference_245": {
       "type": "citation_reference",
-      "id": "citation_reference_215",
+      "id": "citation_reference_245",
       "path": [
-        "paragraph_214",
+        "paragraph_244",
         "content"
       ],
       "target": "article_citation_bib30",
@@ -3303,11 +3717,11 @@
         251
       ]
     },
-    "citation_reference_216": {
+    "citation_reference_246": {
       "type": "citation_reference",
-      "id": "citation_reference_216",
+      "id": "citation_reference_246",
       "path": [
-        "paragraph_214",
+        "paragraph_244",
         "content"
       ],
       "target": "article_citation_bib36",
@@ -3316,11 +3730,11 @@
         274
       ]
     },
-    "figure_reference_217": {
+    "figure_reference_247": {
       "type": "figure_reference",
-      "id": "figure_reference_217",
+      "id": "figure_reference_247",
       "path": [
-        "paragraph_214",
+        "paragraph_244",
         "content"
       ],
       "target": "image_fig6",
@@ -3329,11 +3743,11 @@
         665
       ]
     },
-    "citation_reference_218": {
+    "citation_reference_248": {
       "type": "citation_reference",
-      "id": "citation_reference_218",
+      "id": "citation_reference_248",
       "path": [
-        "paragraph_214",
+        "paragraph_244",
         "content"
       ],
       "target": "article_citation_bib36",
@@ -3365,9 +3779,9 @@
       "id": "paragraph_image_fig6",
       "content": "(A) Domain structure of UNC-116 protein with motor domain in blue, dimerization region in red, and C-terminal regulation domain in orange, length of amino acid is shown. (B) Cell-autonomous rescue of KLP-16::YFP localization. MD, mutant swapping the amino acids ‘KTH' in P-loop of UNC-116 motor domain with ‘AAA'; MT, mutant swapping the MT-BS in UNC-116 tail region with ‘AAAYAA'. n > 50 per group. Error bar indicates standard deviation; ***p<0.0001, χ2 test. (C) and (D) MTs structure highlighted by GFP::TBA-1 in a representative wild-type (C) or unc-116 worm (D). Quantification of GFP::TBA-1 fluorescence density ratio between the dendrite and the ventral axon in wild-type and the unc-116(e2310) animals. (E) Quantification of EBP-2::GFP puncta moving frequency in the dendrite of wild type and the unc-116(e2310) animals. n > 20 per group. Error bar indicates standard deviation; **p<0.001, ***p<0.0001, Student's t-test. (F) A schematic model showing kinesin-1 cross-linking and sliding MTs out of the dendrite."
     },
-    "annotation_219": {
+    "annotation_249": {
       "type": "strong",
-      "id": "annotation_219",
+      "id": "annotation_249",
       "path": [
         "paragraph_image_fig6",
         "content"
@@ -3378,9 +3792,9 @@
         2
       ]
     },
-    "annotation_220": {
+    "annotation_250": {
       "type": "strong",
-      "id": "annotation_220",
+      "id": "annotation_250",
       "path": [
         "paragraph_image_fig6",
         "content"
@@ -3391,9 +3805,9 @@
         172
       ]
     },
-    "annotation_221": {
+    "annotation_251": {
       "type": "superscript",
-      "id": "annotation_221",
+      "id": "annotation_251",
       "path": [
         "paragraph_image_fig6",
         "content"
@@ -3404,9 +3818,9 @@
         455
       ]
     },
-    "annotation_222": {
+    "annotation_252": {
       "type": "strong",
-      "id": "annotation_222",
+      "id": "annotation_252",
       "path": [
         "paragraph_image_fig6",
         "content"
@@ -3417,9 +3831,9 @@
         464
       ]
     },
-    "annotation_223": {
+    "annotation_253": {
       "type": "strong",
-      "id": "annotation_223",
+      "id": "annotation_253",
       "path": [
         "paragraph_image_fig6",
         "content"
@@ -3430,9 +3844,9 @@
         472
       ]
     },
-    "annotation_224": {
+    "annotation_254": {
       "type": "strong",
-      "id": "annotation_224",
+      "id": "annotation_254",
       "path": [
         "paragraph_image_fig6",
         "content"
@@ -3443,9 +3857,9 @@
         546
       ]
     },
-    "annotation_225": {
+    "annotation_255": {
       "type": "emphasis",
-      "id": "annotation_225",
+      "id": "annotation_255",
       "path": [
         "paragraph_image_fig6",
         "content"
@@ -3456,9 +3870,9 @@
         558
       ]
     },
-    "annotation_226": {
+    "annotation_256": {
       "type": "strong",
-      "id": "annotation_226",
+      "id": "annotation_256",
       "path": [
         "paragraph_image_fig6",
         "content"
@@ -3469,9 +3883,9 @@
         566
       ]
     },
-    "annotation_227": {
+    "annotation_257": {
       "type": "emphasis",
-      "id": "annotation_227",
+      "id": "annotation_257",
       "path": [
         "paragraph_image_fig6",
         "content"
@@ -3482,9 +3896,9 @@
         702
       ]
     },
-    "annotation_228": {
+    "annotation_258": {
       "type": "strong",
-      "id": "annotation_228",
+      "id": "annotation_258",
       "path": [
         "paragraph_image_fig6",
         "content"
@@ -3495,9 +3909,9 @@
         714
       ]
     },
-    "annotation_229": {
+    "annotation_259": {
       "type": "emphasis",
-      "id": "annotation_229",
+      "id": "annotation_259",
       "path": [
         "paragraph_image_fig6",
         "content"
@@ -3508,9 +3922,9 @@
         820
       ]
     },
-    "annotation_230": {
+    "annotation_260": {
       "type": "emphasis",
-      "id": "annotation_230",
+      "id": "annotation_260",
       "path": [
         "paragraph_image_fig6",
         "content"
@@ -3521,9 +3935,9 @@
         923
       ]
     },
-    "annotation_231": {
+    "annotation_261": {
       "type": "strong",
-      "id": "annotation_231",
+      "id": "annotation_261",
       "path": [
         "paragraph_image_fig6",
         "content"
@@ -3557,9 +3971,9 @@
       "id": "paragraph_image_fig6s1",
       "content": "(A)–(C) Distribution of a mitochondria marker, TOM-20::YFP in a representative wild-type (A), unc-116 (e2310) (B), or klc-2 (km11) (C) worm. (D)–(F) Localization of KLP-16::YFP in a representative wild-type (D) , klc-1 (ok2609) (E), or klc-2 (km11) worm (F). (G) Quantification of axonal TOM-20::YFP puncta number in wild-type, unc-116 (e2310), or klc-2 (km11) worms (n = 20). The scale bar represents 10 μm. Error bars indicate standard deviations. ***p<0.0001. χ2 test."
     },
-    "annotation_232": {
+    "annotation_262": {
       "type": "strong",
-      "id": "annotation_232",
+      "id": "annotation_262",
       "path": [
         "paragraph_image_fig6s1",
         "content"
@@ -3570,9 +3984,9 @@
         2
       ]
     },
-    "annotation_233": {
+    "annotation_263": {
       "type": "strong",
-      "id": "annotation_233",
+      "id": "annotation_263",
       "path": [
         "paragraph_image_fig6s1",
         "content"
@@ -3583,9 +3997,9 @@
         6
       ]
     },
-    "annotation_234": {
+    "annotation_264": {
       "type": "strong",
-      "id": "annotation_234",
+      "id": "annotation_264",
       "path": [
         "paragraph_image_fig6s1",
         "content"
@@ -3596,9 +4010,9 @@
         91
       ]
     },
-    "annotation_235": {
+    "annotation_265": {
       "type": "emphasis",
-      "id": "annotation_235",
+      "id": "annotation_265",
       "path": [
         "paragraph_image_fig6s1",
         "content"
@@ -3609,9 +4023,9 @@
         109
       ]
     },
-    "annotation_236": {
+    "annotation_266": {
       "type": "strong",
-      "id": "annotation_236",
+      "id": "annotation_266",
       "path": [
         "paragraph_image_fig6s1",
         "content"
@@ -3622,9 +4036,9 @@
         112
       ]
     },
-    "annotation_237": {
+    "annotation_267": {
       "type": "emphasis",
-      "id": "annotation_237",
+      "id": "annotation_267",
       "path": [
         "paragraph_image_fig6s1",
         "content"
@@ -3635,9 +4049,9 @@
         130
       ]
     },
-    "annotation_238": {
+    "annotation_268": {
       "type": "strong",
-      "id": "annotation_238",
+      "id": "annotation_268",
       "path": [
         "paragraph_image_fig6s1",
         "content"
@@ -3648,9 +4062,9 @@
         133
       ]
     },
-    "annotation_239": {
+    "annotation_269": {
       "type": "strong",
-      "id": "annotation_239",
+      "id": "annotation_269",
       "path": [
         "paragraph_image_fig6s1",
         "content"
@@ -3661,9 +4075,9 @@
         143
       ]
     },
-    "annotation_240": {
+    "annotation_270": {
       "type": "strong",
-      "id": "annotation_240",
+      "id": "annotation_270",
       "path": [
         "paragraph_image_fig6s1",
         "content"
@@ -3674,9 +4088,9 @@
         147
       ]
     },
-    "annotation_241": {
+    "annotation_271": {
       "type": "strong",
-      "id": "annotation_241",
+      "id": "annotation_271",
       "path": [
         "paragraph_image_fig6s1",
         "content"
@@ -3687,9 +4101,9 @@
         209
       ]
     },
-    "annotation_242": {
+    "annotation_272": {
       "type": "emphasis",
-      "id": "annotation_242",
+      "id": "annotation_272",
       "path": [
         "paragraph_image_fig6s1",
         "content"
@@ -3700,9 +4114,9 @@
         227
       ]
     },
-    "annotation_243": {
+    "annotation_273": {
       "type": "strong",
-      "id": "annotation_243",
+      "id": "annotation_273",
       "path": [
         "paragraph_image_fig6s1",
         "content"
@@ -3713,9 +4127,9 @@
         230
       ]
     },
-    "annotation_244": {
+    "annotation_274": {
       "type": "emphasis",
-      "id": "annotation_244",
+      "id": "annotation_274",
       "path": [
         "paragraph_image_fig6s1",
         "content"
@@ -3726,9 +4140,9 @@
         248
       ]
     },
-    "annotation_245": {
+    "annotation_275": {
       "type": "strong",
-      "id": "annotation_245",
+      "id": "annotation_275",
       "path": [
         "paragraph_image_fig6s1",
         "content"
@@ -3739,9 +4153,9 @@
         256
       ]
     },
-    "annotation_246": {
+    "annotation_276": {
       "type": "strong",
-      "id": "annotation_246",
+      "id": "annotation_276",
       "path": [
         "paragraph_image_fig6s1",
         "content"
@@ -3752,9 +4166,9 @@
         261
       ]
     },
-    "annotation_247": {
+    "annotation_277": {
       "type": "emphasis",
-      "id": "annotation_247",
+      "id": "annotation_277",
       "path": [
         "paragraph_image_fig6s1",
         "content"
@@ -3765,9 +4179,9 @@
         343
       ]
     },
-    "annotation_248": {
+    "annotation_278": {
       "type": "emphasis",
-      "id": "annotation_248",
+      "id": "annotation_278",
       "path": [
         "paragraph_image_fig6s1",
         "content"
@@ -3778,9 +4192,9 @@
         360
       ]
     },
-    "annotation_249": {
+    "annotation_279": {
       "type": "superscript",
-      "id": "annotation_249",
+      "id": "annotation_279",
       "path": [
         "paragraph_image_fig6s1",
         "content"
@@ -3791,16 +4205,16 @@
         465
       ]
     },
-    "paragraph_250": {
+    "paragraph_280": {
       "type": "paragraph",
-      "id": "paragraph_250",
+      "id": "paragraph_280",
       "content": "Second, we examined the molecular lesions in three unc-116 mutants, all of which show MT polarity defects (Figure 1—figure supplement 3). The molecular lesion of e2310 is a TC5 transposon insertion. The transposon was inserted after residue 692, which truncates the C-terminal MT-binding domain (Patel et al., 1993). Point mutations are found in the motor domain in wy270 and rh24sb79 alleles, which likely result in partial loss of motor function (Yang et al., 2005 and unpublished data). These results suggest that both motor activity and C-terminal MT-binding might be required for this newly defined function of UNC-116/kinesin-1. To definitively test this, we created a mutant form of UNC-116 in which three point mutations were introduced in the C-terminal MT-binding motif. The same mutations diminish the binding of kinesin-1 C-terminal domain to MTs (Seeger and Rice, 2010). Therefore, this mutant form (UNC-116MT) might specifically lack its ability to bind to MTs with the C-terminal motif. We tested whether this form can still rescue the dendrite polarity phenotypes as well as phenotypes related to the canonical transport function of UNC-116. To assess the canonical organelle transport function of UNC-116, we examined localization of mitochondria in DA9. In wild-type animals, a mitochondrial marker TOM-20::YFP localizes to discrete puncta in both the axon and dendrite of DA9 (Figure 6—figure supplement 1). In unc-116(e2310) mutants, the TOM-20 signal is completely absent from both processes and only found in the cell body (Figure 6—figure supplement 1), suggesting that UNC-116 is required for transporting mitochondria to both axon and dendrite. DA9 expression of UNC-116MT efficiently rescues the TOM-20 localization defect in the axon, suggesting that this mutant form of UNC-116 can support the organelle transporting function. Interestingly, but the same transgene showed much less rescue of the MT polarity defects in the dendrite, as assayed by KLP-16 localization (Figure 6B). This result is consistent with the notion that the C-terminal MT-binding motif of UNC-116 is specifically required for the establishing dendritic MT polarity. In addition, UNC-116MT efficiently rescues the abnormally long dendrites in the unc-116(e2310) mutant, suggesting that this length phenotype is independent of the MT polarity."
     },
-    "annotation_251": {
+    "annotation_281": {
       "type": "emphasis",
-      "id": "annotation_251",
+      "id": "annotation_281",
       "path": [
-        "paragraph_250",
+        "paragraph_280",
         "content"
       ],
       "target": null,
@@ -3809,11 +4223,11 @@
         58
       ]
     },
-    "figure_reference_252": {
+    "figure_reference_282": {
       "type": "figure_reference",
-      "id": "figure_reference_252",
+      "id": "figure_reference_282",
       "path": [
-        "paragraph_250",
+        "paragraph_280",
         "content"
       ],
       "target": "image_fig1s3",
@@ -3822,11 +4236,11 @@
         135
       ]
     },
-    "annotation_253": {
+    "annotation_283": {
       "type": "emphasis",
-      "id": "annotation_253",
+      "id": "annotation_283",
       "path": [
-        "paragraph_250",
+        "paragraph_280",
         "content"
       ],
       "target": null,
@@ -3835,11 +4249,11 @@
         167
       ]
     },
-    "citation_reference_254": {
+    "citation_reference_284": {
       "type": "citation_reference",
-      "id": "citation_reference_254",
+      "id": "citation_reference_284",
       "path": [
-        "paragraph_250",
+        "paragraph_280",
         "content"
       ],
       "target": "article_citation_bib33",
@@ -3848,11 +4262,11 @@
         314
       ]
     },
-    "citation_reference_255": {
+    "citation_reference_285": {
       "type": "citation_reference",
-      "id": "citation_reference_255",
+      "id": "citation_reference_285",
       "path": [
-        "paragraph_250",
+        "paragraph_280",
         "content"
       ],
       "target": "article_citation_bib49",
@@ -3861,11 +4275,11 @@
         466
       ]
     },
-    "citation_reference_256": {
+    "citation_reference_286": {
       "type": "citation_reference",
-      "id": "citation_reference_256",
+      "id": "citation_reference_286",
       "path": [
-        "paragraph_250",
+        "paragraph_280",
         "content"
       ],
       "target": "article_citation_bib36",
@@ -3874,11 +4288,11 @@
         881
       ]
     },
-    "annotation_257": {
+    "annotation_287": {
       "type": "subscript",
-      "id": "annotation_257",
+      "id": "annotation_287",
       "path": [
-        "paragraph_250",
+        "paragraph_280",
         "content"
       ],
       "target": null,
@@ -3887,11 +4301,11 @@
         922
       ]
     },
-    "figure_reference_258": {
+    "figure_reference_288": {
       "type": "figure_reference",
-      "id": "figure_reference_258",
+      "id": "figure_reference_288",
       "path": [
-        "paragraph_250",
+        "paragraph_280",
         "content"
       ],
       "target": "image_fig6s1",
@@ -3900,11 +4314,11 @@
         1424
       ]
     },
-    "annotation_259": {
+    "annotation_289": {
       "type": "emphasis",
-      "id": "annotation_259",
+      "id": "annotation_289",
       "path": [
-        "paragraph_250",
+        "paragraph_280",
         "content"
       ],
       "target": null,
@@ -3913,11 +4327,11 @@
         1444
       ]
     },
-    "figure_reference_260": {
+    "figure_reference_290": {
       "type": "figure_reference",
-      "id": "figure_reference_260",
+      "id": "figure_reference_290",
       "path": [
-        "paragraph_250",
+        "paragraph_280",
         "content"
       ],
       "target": "image_fig6s1",
@@ -3926,11 +4340,11 @@
         1574
       ]
     },
-    "annotation_261": {
+    "annotation_291": {
       "type": "subscript",
-      "id": "annotation_261",
+      "id": "annotation_291",
       "path": [
-        "paragraph_250",
+        "paragraph_280",
         "content"
       ],
       "target": null,
@@ -3939,11 +4353,11 @@
         1697
       ]
     },
-    "figure_reference_262": {
+    "figure_reference_292": {
       "type": "figure_reference",
-      "id": "figure_reference_262",
+      "id": "figure_reference_292",
       "path": [
-        "paragraph_250",
+        "paragraph_280",
         "content"
       ],
       "target": "image_fig6",
@@ -3952,11 +4366,11 @@
         2005
       ]
     },
-    "annotation_263": {
+    "annotation_293": {
       "type": "subscript",
-      "id": "annotation_263",
+      "id": "annotation_293",
       "path": [
-        "paragraph_250",
+        "paragraph_280",
         "content"
       ],
       "target": null,
@@ -3965,11 +4379,11 @@
         2189
       ]
     },
-    "annotation_264": {
+    "annotation_294": {
       "type": "emphasis",
-      "id": "annotation_264",
+      "id": "annotation_294",
       "path": [
-        "paragraph_250",
+        "paragraph_280",
         "content"
       ],
       "target": null,
@@ -3978,16 +4392,16 @@
         2261
       ]
     },
-    "paragraph_265": {
+    "paragraph_295": {
       "type": "paragraph",
-      "id": "paragraph_265",
+      "id": "paragraph_295",
       "content": "To further explore the difference between the MT-polarity-related function of UNC-116 and its canonical vesicular and organelle transport function, we studied the kinesin light chains, KLC-1 and KLC-2. Consistent with previous reports, KLC-2 is required for axonal localization of TOM-20, suggesting that the KLCs are required for the organelle transport function of UNC-116 (Figure 6—figure supplement 1). Interestingly, neither klc-1 or klc-2 single mutants nor klc-1; klc-2 double mutants showed any defects in MT polarity markers (Figure 6—figure supplement 1), suggesting that they are dispensable for the MT polarity function of UNC-116. Indeed, the MT-gliding activity of kinesin-1 in nonpolarized Drosophila S2 cells is also independent of KLCs, suggestive of a similar mode of action in nonneuronal cells (Jolly et al., 2010). Taken together, our structure–function analyses have revealed a novel function of UNC-116 in regulating dendritic MT polarity. This function requires both motor activity and C-terminal MT binding, and can be separated from the canonical vesicular and organelle trafficking function of UNC-116 both at the level of cargo-binding domains as well as the dependency on kinesin light chains."
     },
-    "figure_reference_266": {
+    "figure_reference_296": {
       "type": "figure_reference",
-      "id": "figure_reference_266",
+      "id": "figure_reference_296",
       "path": [
-        "paragraph_265",
+        "paragraph_295",
         "content"
       ],
       "target": "image_fig6s1",
@@ -3996,11 +4410,11 @@
         404
       ]
     },
-    "annotation_267": {
+    "annotation_297": {
       "type": "emphasis",
-      "id": "annotation_267",
+      "id": "annotation_297",
       "path": [
-        "paragraph_265",
+        "paragraph_295",
         "content"
       ],
       "target": null,
@@ -4009,11 +4423,11 @@
         435
       ]
     },
-    "annotation_268": {
+    "annotation_298": {
       "type": "emphasis",
-      "id": "annotation_268",
+      "id": "annotation_298",
       "path": [
-        "paragraph_265",
+        "paragraph_295",
         "content"
       ],
       "target": null,
@@ -4022,11 +4436,11 @@
         444
       ]
     },
-    "annotation_269": {
+    "annotation_299": {
       "type": "emphasis",
-      "id": "annotation_269",
+      "id": "annotation_299",
       "path": [
-        "paragraph_265",
+        "paragraph_295",
         "content"
       ],
       "target": null,
@@ -4035,11 +4449,11 @@
         469
       ]
     },
-    "annotation_270": {
+    "annotation_300": {
       "type": "emphasis",
-      "id": "annotation_270",
+      "id": "annotation_300",
       "path": [
-        "paragraph_265",
+        "paragraph_295",
         "content"
       ],
       "target": null,
@@ -4048,11 +4462,11 @@
         476
       ]
     },
-    "figure_reference_271": {
+    "figure_reference_301": {
       "type": "figure_reference",
-      "id": "figure_reference_271",
+      "id": "figure_reference_301",
       "path": [
-        "paragraph_265",
+        "paragraph_295",
         "content"
       ],
       "target": "image_fig6s1",
@@ -4061,11 +4475,11 @@
         563
       ]
     },
-    "annotation_272": {
+    "annotation_302": {
       "type": "emphasis",
-      "id": "annotation_272",
+      "id": "annotation_302",
       "path": [
-        "paragraph_265",
+        "paragraph_295",
         "content"
       ],
       "target": null,
@@ -4074,11 +4488,11 @@
         715
       ]
     },
-    "citation_reference_273": {
+    "citation_reference_303": {
       "type": "citation_reference",
-      "id": "citation_reference_273",
+      "id": "citation_reference_303",
       "path": [
-        "paragraph_265",
+        "paragraph_295",
         "content"
       ],
       "target": "article_citation_bib21",
@@ -4087,16 +4501,16 @@
         833
       ]
     },
-    "paragraph_274": {
+    "paragraph_304": {
       "type": "paragraph",
-      "id": "paragraph_274",
+      "id": "paragraph_304",
       "content": "How does UNC-116/kinesin-1 promote minus-end-out MTs configuration in the dendrite? Our genetic data so far are consistent with two models. In the first model, UNC-116/kinesin-1 directly slides minus-end-out MTs into dendrites. Alternatively, UNC-116 might slide plus-end-out MTs out of dendrite and consequently increase the percentage of the minus-end-out MTs in dendrites. In order to differentiate these two models, we analyzed the MTs concentration in the dendrite and axon. We reasoned that if UNC-116/kinesin-1 slides minus-end-out MTs into dendrite, there would be less MTs in the dendrite of mutant animals. If UNC-116/kinesin-1 slides plus-end-out MTs out of dendrite, there would be more MTs in the dendrite of mutant. We visualized the MTs structure by expressing GFP::TBA-1/ α-tubulin in the DA9 neuron. In wild-type animals, axon has higher expression of GFP::TBA-1, with a dendrite/ventral axon intensity ratio around 0.6. In unc-116(e2310) animals, axon expression of GFP::TBA-1 remains largely unchanged, whereas expression in the dendrite increases, with a dendrite/axon intensity ratio around 1.2, suggestive of excessive MTs in the unc-116 mutant dendrites (Figure 6C–E). Another measure of the number of MTs is the frequency of EBP-2::GFP comets, which directly reflects the number of dynamic plus-ends. We found that EBP-2::GFP comets in the unc-116 mutant DA9 dendrite is three times more frequent comparing to wild type, further indicating there are more MTs in unc-116(e2310) dendrite (Figures 2C, 6F). Collectively, these data favor the model that UNC-116/kinesin-1 maintains minus-end-out MT polarity in dendrite through selectively sliding plus-end-out MTs out of dendrite (Figure 6G)."
     },
-    "annotation_275": {
+    "annotation_305": {
       "type": "emphasis",
-      "id": "annotation_275",
+      "id": "annotation_305",
       "path": [
-        "paragraph_274",
+        "paragraph_304",
         "content"
       ],
       "target": null,
@@ -4105,11 +4519,11 @@
         955
       ]
     },
-    "annotation_276": {
+    "annotation_306": {
       "type": "emphasis",
-      "id": "annotation_276",
+      "id": "annotation_306",
       "path": [
-        "paragraph_274",
+        "paragraph_304",
         "content"
       ],
       "target": null,
@@ -4118,11 +4532,11 @@
         1159
       ]
     },
-    "figure_reference_277": {
+    "figure_reference_307": {
       "type": "figure_reference",
-      "id": "figure_reference_277",
+      "id": "figure_reference_307",
       "path": [
-        "paragraph_274",
+        "paragraph_304",
         "content"
       ],
       "target": "image_fig6",
@@ -4131,11 +4545,11 @@
         1189
       ]
     },
-    "annotation_278": {
+    "annotation_308": {
       "type": "emphasis",
-      "id": "annotation_278",
+      "id": "annotation_308",
       "path": [
-        "paragraph_274",
+        "paragraph_304",
         "content"
       ],
       "target": null,
@@ -4144,11 +4558,11 @@
         1371
       ]
     },
-    "annotation_279": {
+    "annotation_309": {
       "type": "emphasis",
-      "id": "annotation_279",
+      "id": "annotation_309",
       "path": [
-        "paragraph_274",
+        "paragraph_304",
         "content"
       ],
       "target": null,
@@ -4157,24 +4571,24 @@
         1500
       ]
     },
-    "figure_reference_280": {
+    "figure_reference_310": {
       "type": "figure_reference",
-      "id": "figure_reference_280",
+      "id": "figure_reference_310",
       "path": [
-        "paragraph_274",
+        "paragraph_304",
         "content"
       ],
-      "target": "image_fig2 fig6",
+      "target": "image_fig2",
       "range": [
         1511,
         1525
       ]
     },
-    "figure_reference_281": {
+    "figure_reference_311": {
       "type": "figure_reference",
-      "id": "figure_reference_281",
+      "id": "figure_reference_311",
       "path": [
-        "paragraph_274",
+        "paragraph_304",
         "content"
       ],
       "target": "image_fig6",
@@ -4190,16 +4604,16 @@
       "content": "Discussion",
       "nodes": []
     },
-    "paragraph_282": {
+    "paragraph_312": {
       "type": "paragraph",
-      "id": "paragraph_282",
+      "id": "paragraph_312",
       "content": "We report a new function of kinesin-1 to promote the minus-end-out MT organization in the dendrite. Previous studies in neuronal cell cultures showed that intracellular transport of short MTs occurs robustly in neurites and can be driven by mitotic kinesins (Baas et al., 2006). While we did not find evidence that mitotic kinesins are required for DA9 MT organization, our data provide in vivo evidence that transport of MTs by another kinesin, kinesin-1, in the dendrite is critical for establishing or maintaining MT polarity. An interesting study in Drosophila sensory neurons showed that the minus-end motor dynein is required for the uniform plus-end-out MT organization in the axon but dispensable for dendritic MT organization (Zheng et al., 2008). A recent study in Drosophila neuron showed that another motor kinesin-2 complex is required to steer MTs growth in the dendrite branch point to maintain the uniform minus-end-out MT polarity in the dendrite (Mattie et al., 2010). Since kinesin-1 is highly conserved throughout evolution, we anticipate our findings to be a starting point for more sophisticated in vitro or in vivo analyses of MT polarity in neurons. If UNC-116/kinesin-1 slides plus-end-out MTs out of dendrites, one immediate question is how this process is restricted to dendrites. Maniar et al. (2012) recently showed that the MT-associated axon initial segment (AIS)-enriched protein UNC-33/CRMP is important for MT organization in both the axon and dendrite in worm sensory neurons. The AIS has been reported to play important roles in neuronal polarity (Hedstrom et al., 2008; Sobotzik et al., 2009). It is conceivable that AIS proteins provide critical regulatory roles for motor-based MT sliding by restricting the direction of MT transport. Interestingly, the AIS in vertebrate neurons is known to serve as a diffusion barrier for both transmembrane and cytosolic proteins. How it regulates MT transport will be an interesting question for future studies."
     },
-    "citation_reference_283": {
+    "citation_reference_313": {
       "type": "citation_reference",
-      "id": "citation_reference_283",
+      "id": "citation_reference_313",
       "path": [
-        "paragraph_282",
+        "paragraph_312",
         "content"
       ],
       "target": "article_citation_bib7",
@@ -4208,11 +4622,11 @@
         276
       ]
     },
-    "annotation_284": {
+    "annotation_314": {
       "type": "emphasis",
-      "id": "annotation_284",
+      "id": "annotation_314",
       "path": [
-        "paragraph_282",
+        "paragraph_312",
         "content"
       ],
       "target": null,
@@ -4221,11 +4635,11 @@
         564
       ]
     },
-    "citation_reference_285": {
+    "citation_reference_315": {
       "type": "citation_reference",
-      "id": "citation_reference_285",
+      "id": "citation_reference_315",
       "path": [
-        "paragraph_282",
+        "paragraph_312",
         "content"
       ],
       "target": "article_citation_bib52",
@@ -4234,11 +4648,11 @@
         754
       ]
     },
-    "annotation_286": {
+    "annotation_316": {
       "type": "emphasis",
-      "id": "annotation_286",
+      "id": "annotation_316",
       "path": [
-        "paragraph_282",
+        "paragraph_312",
         "content"
       ],
       "target": null,
@@ -4247,11 +4661,11 @@
         785
       ]
     },
-    "citation_reference_287": {
+    "citation_reference_317": {
       "type": "citation_reference",
-      "id": "citation_reference_287",
+      "id": "citation_reference_317",
       "path": [
-        "paragraph_282",
+        "paragraph_312",
         "content"
       ],
       "target": "article_citation_bib29",
@@ -4260,11 +4674,11 @@
         984
       ]
     },
-    "citation_reference_288": {
+    "citation_reference_318": {
       "type": "citation_reference",
-      "id": "citation_reference_288",
+      "id": "citation_reference_318",
       "path": [
-        "paragraph_282",
+        "paragraph_312",
         "content"
       ],
       "target": "article_citation_bib27",
@@ -4273,11 +4687,11 @@
         1328
       ]
     },
-    "citation_reference_289": {
+    "citation_reference_319": {
       "type": "citation_reference",
-      "id": "citation_reference_289",
+      "id": "citation_reference_319",
       "path": [
-        "paragraph_282",
+        "paragraph_312",
         "content"
       ],
       "target": "article_citation_bib16",
@@ -4286,11 +4700,11 @@
         1605
       ]
     },
-    "citation_reference_290": {
+    "citation_reference_320": {
       "type": "citation_reference",
-      "id": "citation_reference_290",
+      "id": "citation_reference_320",
       "path": [
-        "paragraph_282",
+        "paragraph_312",
         "content"
       ],
       "target": "article_citation_bib40",
@@ -4299,16 +4713,16 @@
         1628
       ]
     },
-    "paragraph_291": {
+    "paragraph_321": {
       "type": "paragraph",
-      "id": "paragraph_291",
+      "id": "paragraph_321",
       "content": "The compartmentalization of neurons is achieved by several cell biological mechanisms including directed intracellular trafficking, local sequestration, diffusion barriers, and transcytosis (Kennedy and Ehlers, 2006). Previous studies have also reported the existence of ‘smart motors' that are capable of distinguishing axonal and dendritic MTs (Saito et al., 1997; Marszalek et al., 1999; Guillaud et al., 2003; Kapitein et al., 2010). The existing literature raises the question of what functional role is played by MT polarity, an important question that cannot be answered without a polarity-altering tool. The unc-116 mutants specifically affect MT polarity in dendrites, and therefore serve as useful reagents to dissect the importance of dendritic MT polarity. Our data strongly support the notion that the minus-end-out MTs in dendrites not only allow for the accumulation of dendritic proteins but are also critical for the exclusion of axonal components such as synaptic vesicles and active zone proteins. Furthermore, MT polarity appears to affect the length of the dendrite, suggesting that both the structural and transport functions of MTs depend on their polarity. Interestingly, the direction and timing of dendrite outgrowth are not affected in unc-116 mutants, suggesting that MT polarity does not play a critical role in dendrite outgrowth, a process in which the actin cytoskeleton is known to play an important role (Gao et al., 1999). Together, these data argue that polarized MT tracks play instructive roles in formation of axonal and dendritic identities, as well as in the compartmentalization of axonal and dendritic constituents such as SVs, active zone proteins, and neurotransmitter receptors."
     },
-    "citation_reference_292": {
+    "citation_reference_322": {
       "type": "citation_reference",
-      "id": "citation_reference_292",
+      "id": "citation_reference_322",
       "path": [
-        "paragraph_291",
+        "paragraph_321",
         "content"
       ],
       "target": "article_citation_bib24",
@@ -4317,11 +4731,11 @@
         215
       ]
     },
-    "citation_reference_293": {
+    "citation_reference_323": {
       "type": "citation_reference",
-      "id": "citation_reference_293",
+      "id": "citation_reference_323",
       "path": [
-        "paragraph_291",
+        "paragraph_321",
         "content"
       ],
       "target": "article_citation_bib35",
@@ -4330,11 +4744,11 @@
         365
       ]
     },
-    "citation_reference_294": {
+    "citation_reference_324": {
       "type": "citation_reference",
-      "id": "citation_reference_294",
+      "id": "citation_reference_324",
       "path": [
-        "paragraph_291",
+        "paragraph_321",
         "content"
       ],
       "target": "article_citation_bib28",
@@ -4343,11 +4757,11 @@
         389
       ]
     },
-    "citation_reference_295": {
+    "citation_reference_325": {
       "type": "citation_reference",
-      "id": "citation_reference_295",
+      "id": "citation_reference_325",
       "path": [
-        "paragraph_291",
+        "paragraph_321",
         "content"
       ],
       "target": "article_citation_bib14",
@@ -4356,11 +4770,11 @@
         412
       ]
     },
-    "citation_reference_296": {
+    "citation_reference_326": {
       "type": "citation_reference",
-      "id": "citation_reference_296",
+      "id": "citation_reference_326",
       "path": [
-        "paragraph_291",
+        "paragraph_321",
         "content"
       ],
       "target": "article_citation_bib23",
@@ -4369,11 +4783,11 @@
         435
       ]
     },
-    "annotation_297": {
+    "annotation_327": {
       "type": "emphasis",
-      "id": "annotation_297",
+      "id": "annotation_327",
       "path": [
-        "paragraph_291",
+        "paragraph_321",
         "content"
       ],
       "target": null,
@@ -4382,11 +4796,11 @@
         623
       ]
     },
-    "annotation_298": {
+    "annotation_328": {
       "type": "emphasis",
-      "id": "annotation_298",
+      "id": "annotation_328",
       "path": [
-        "paragraph_291",
+        "paragraph_321",
         "content"
       ],
       "target": null,
@@ -4395,11 +4809,11 @@
         1270
       ]
     },
-    "citation_reference_299": {
+    "citation_reference_329": {
       "type": "citation_reference",
-      "id": "citation_reference_299",
+      "id": "citation_reference_329",
       "path": [
-        "paragraph_291",
+        "paragraph_321",
         "content"
       ],
       "target": "article_citation_bib13",
@@ -4422,16 +4836,16 @@
       "content": "Strains and genetics",
       "nodes": []
     },
-    "paragraph_300": {
+    "paragraph_330": {
       "type": "paragraph",
-      "id": "paragraph_300",
+      "id": "paragraph_330",
       "content": "Worms were raised on NGM plates at 20°C using OP50 Escherichia coli as a food source. N2 Bristol was utilized as the wild-type reference strain. The following mutant strains were obtained through the Caenorhabditics Genetics Center: FF41 unc-116(e2310) III, RB1975 klc-1(OK2609) IV, and CB1265 unc-104(e1265) II. TV6687 unc-116(rh24 sb79) III was a kind gift from Dr. McNally at University of California at Davis, TV3706 unc-116 (wy270) III, carrying a single L129 to F mutation in motor domain, (EL, unpublished data) was previously isolated from our laboratory."
     },
-    "annotation_301": {
+    "annotation_331": {
       "type": "emphasis",
-      "id": "annotation_301",
+      "id": "annotation_331",
       "path": [
-        "paragraph_300",
+        "paragraph_330",
         "content"
       ],
       "target": null,
@@ -4440,11 +4854,11 @@
         67
       ]
     },
-    "annotation_302": {
+    "annotation_332": {
       "type": "emphasis",
-      "id": "annotation_302",
+      "id": "annotation_332",
       "path": [
-        "paragraph_300",
+        "paragraph_330",
         "content"
       ],
       "target": null,
@@ -4453,11 +4867,11 @@
         215
       ]
     },
-    "annotation_303": {
+    "annotation_333": {
       "type": "emphasis",
-      "id": "annotation_303",
+      "id": "annotation_333",
       "path": [
-        "paragraph_300",
+        "paragraph_330",
         "content"
       ],
       "target": null,
@@ -4466,11 +4880,11 @@
         256
       ]
     },
-    "annotation_304": {
+    "annotation_334": {
       "type": "emphasis",
-      "id": "annotation_304",
+      "id": "annotation_334",
       "path": [
-        "paragraph_300",
+        "paragraph_330",
         "content"
       ],
       "target": null,
@@ -4479,11 +4893,11 @@
         281
       ]
     },
-    "annotation_305": {
+    "annotation_335": {
       "type": "emphasis",
-      "id": "annotation_305",
+      "id": "annotation_335",
       "path": [
-        "paragraph_300",
+        "paragraph_330",
         "content"
       ],
       "target": null,
@@ -4492,11 +4906,11 @@
         311
       ]
     },
-    "annotation_306": {
+    "annotation_336": {
       "type": "emphasis",
-      "id": "annotation_306",
+      "id": "annotation_336",
       "path": [
-        "paragraph_300",
+        "paragraph_330",
         "content"
       ],
       "target": null,
@@ -4505,11 +4919,11 @@
         342
       ]
     },
-    "annotation_307": {
+    "annotation_337": {
       "type": "emphasis",
-      "id": "annotation_307",
+      "id": "annotation_337",
       "path": [
-        "paragraph_300",
+        "paragraph_330",
         "content"
       ],
       "target": null,
@@ -4525,16 +4939,16 @@
       "content": "Molecular biology and transgenic lines",
       "nodes": []
     },
-    "paragraph_308": {
+    "paragraph_338": {
       "type": "paragraph",
-      "id": "paragraph_308",
+      "id": "paragraph_338",
       "content": "Expression clones were made in the pSM vector, a derivative of pPD49.26 (A Fire, unpublished data) with extra cloning sites (S McCarroll and CI Bargmann, unpublished data). The plasmids and transgenic strains (1–50 ng/μl) were generated using standard techniques and coinjected with markers Podr1::RFP or GFP (40 ng/μl): wyEx3892 [Pitr1::dhc-1::GFP], wyEx 2559 [Pitr1:: unc-104::YFP], wyEx3128 [Pitr1::klp-16::YFP], wyIs674 (Pitr1::klp-16::YFP), wyIs309 (Pmig13::klp-16::GFP), wyEx4974 [Pida-1::unc-104::GFP], wyEx4980 [Pida-1::klp-16::GFP], wyEx4978 [Pida-1::GFP::rab-3], wyEx4828 [Pdes-2::ebp-2::GFP], wyIs349 (Pmig13::loxP-ebp-2::GFP), wyIs85 (Pitr1::GFP::rab-3), wyEx2505 [Pitr1::syd-2::GFP, Pitr1::mCherry::rab-3], wyIs386 (Pitr1::acr-2::GFP), wyEx1902 [Pitr1::mCherry], wyEx403 [Pitr1::cam-1::YFP], wyEx2396 [Pitr1::fbn-1;;YFP], and wyEx2709 [Pitr1::tom-20::YFP]. Detailed subcloning information will be provided on request."
     },
-    "annotation_309": {
+    "annotation_339": {
       "type": "emphasis",
-      "id": "annotation_309",
+      "id": "annotation_339",
       "path": [
-        "paragraph_308",
+        "paragraph_338",
         "content"
       ],
       "target": null,
@@ -4543,11 +4957,11 @@
         301
       ]
     },
-    "annotation_310": {
+    "annotation_340": {
       "type": "emphasis",
-      "id": "annotation_310",
+      "id": "annotation_340",
       "path": [
-        "paragraph_308",
+        "paragraph_338",
         "content"
       ],
       "target": null,
@@ -4556,11 +4970,11 @@
         308
       ]
     },
-    "annotation_311": {
+    "annotation_341": {
       "type": "emphasis",
-      "id": "annotation_311",
+      "id": "annotation_341",
       "path": [
-        "paragraph_308",
+        "paragraph_338",
         "content"
       ],
       "target": null,
@@ -4569,11 +4983,11 @@
         348
       ]
     },
-    "annotation_312": {
+    "annotation_342": {
       "type": "emphasis",
-      "id": "annotation_312",
+      "id": "annotation_342",
       "path": [
-        "paragraph_308",
+        "paragraph_338",
         "content"
       ],
       "target": null,
@@ -4582,11 +4996,11 @@
         382
       ]
     },
-    "annotation_313": {
+    "annotation_343": {
       "type": "emphasis",
-      "id": "annotation_313",
+      "id": "annotation_343",
       "path": [
-        "paragraph_308",
+        "paragraph_338",
         "content"
       ],
       "target": null,
@@ -4595,11 +5009,11 @@
         413
       ]
     },
-    "annotation_314": {
+    "annotation_344": {
       "type": "emphasis",
-      "id": "annotation_314",
+      "id": "annotation_344",
       "path": [
-        "paragraph_308",
+        "paragraph_338",
         "content"
       ],
       "target": null,
@@ -4608,11 +5022,11 @@
         443
       ]
     },
-    "annotation_315": {
+    "annotation_345": {
       "type": "emphasis",
-      "id": "annotation_315",
+      "id": "annotation_345",
       "path": [
-        "paragraph_308",
+        "paragraph_338",
         "content"
       ],
       "target": null,
@@ -4621,11 +5035,11 @@
         474
       ]
     },
-    "annotation_316": {
+    "annotation_346": {
       "type": "emphasis",
-      "id": "annotation_316",
+      "id": "annotation_346",
       "path": [
-        "paragraph_308",
+        "paragraph_338",
         "content"
       ],
       "target": null,
@@ -4634,11 +5048,11 @@
         507
       ]
     },
-    "annotation_317": {
+    "annotation_347": {
       "type": "emphasis",
-      "id": "annotation_317",
+      "id": "annotation_347",
       "path": [
-        "paragraph_308",
+        "paragraph_338",
         "content"
       ],
       "target": null,
@@ -4647,11 +5061,11 @@
         539
       ]
     },
-    "annotation_318": {
+    "annotation_348": {
       "type": "emphasis",
-      "id": "annotation_318",
+      "id": "annotation_348",
       "path": [
-        "paragraph_308",
+        "paragraph_338",
         "content"
       ],
       "target": null,
@@ -4660,11 +5074,11 @@
         570
       ]
     },
-    "annotation_319": {
+    "annotation_349": {
       "type": "emphasis",
-      "id": "annotation_319",
+      "id": "annotation_349",
       "path": [
-        "paragraph_308",
+        "paragraph_338",
         "content"
       ],
       "target": null,
@@ -4673,11 +5087,11 @@
         601
       ]
     },
-    "annotation_320": {
+    "annotation_350": {
       "type": "emphasis",
-      "id": "annotation_320",
+      "id": "annotation_350",
       "path": [
-        "paragraph_308",
+        "paragraph_338",
         "content"
       ],
       "target": null,
@@ -4686,11 +5100,11 @@
         636
       ]
     },
-    "annotation_321": {
+    "annotation_351": {
       "type": "emphasis",
-      "id": "annotation_321",
+      "id": "annotation_351",
       "path": [
-        "paragraph_308",
+        "paragraph_338",
         "content"
       ],
       "target": null,
@@ -4699,11 +5113,11 @@
         664
       ]
     },
-    "annotation_322": {
+    "annotation_352": {
       "type": "emphasis",
-      "id": "annotation_322",
+      "id": "annotation_352",
       "path": [
-        "paragraph_308",
+        "paragraph_338",
         "content"
       ],
       "target": null,
@@ -4712,11 +5126,11 @@
         694
       ]
     },
-    "annotation_323": {
+    "annotation_353": {
       "type": "emphasis",
-      "id": "annotation_323",
+      "id": "annotation_353",
       "path": [
-        "paragraph_308",
+        "paragraph_338",
         "content"
       ],
       "target": null,
@@ -4725,11 +5139,11 @@
         717
       ]
     },
-    "annotation_324": {
+    "annotation_354": {
       "type": "emphasis",
-      "id": "annotation_324",
+      "id": "annotation_354",
       "path": [
-        "paragraph_308",
+        "paragraph_338",
         "content"
       ],
       "target": null,
@@ -4738,11 +5152,11 @@
         746
       ]
     },
-    "annotation_325": {
+    "annotation_355": {
       "type": "emphasis",
-      "id": "annotation_325",
+      "id": "annotation_355",
       "path": [
-        "paragraph_308",
+        "paragraph_338",
         "content"
       ],
       "target": null,
@@ -4751,11 +5165,11 @@
         773
       ]
     },
-    "annotation_326": {
+    "annotation_356": {
       "type": "emphasis",
-      "id": "annotation_326",
+      "id": "annotation_356",
       "path": [
-        "paragraph_308",
+        "paragraph_338",
         "content"
       ],
       "target": null,
@@ -4764,11 +5178,11 @@
         802
       ]
     },
-    "annotation_327": {
+    "annotation_357": {
       "type": "emphasis",
-      "id": "annotation_327",
+      "id": "annotation_357",
       "path": [
-        "paragraph_308",
+        "paragraph_338",
         "content"
       ],
       "target": null,
@@ -4777,11 +5191,11 @@
         832
       ]
     },
-    "annotation_328": {
+    "annotation_358": {
       "type": "emphasis",
-      "id": "annotation_328",
+      "id": "annotation_358",
       "path": [
-        "paragraph_308",
+        "paragraph_338",
         "content"
       ],
       "target": null,
@@ -4797,16 +5211,16 @@
       "content": "Fluorescence microscopy and confocal imaging",
       "nodes": []
     },
-    "paragraph_329": {
+    "paragraph_359": {
       "type": "paragraph",
-      "id": "paragraph_329",
+      "id": "paragraph_359",
       "content": "Images of fluorescently tagged fusion proteins were captured in live C. elegans using a Plan-Apochromat 63×/1.4 objective on a Zeiss LSM510 confocal microscope system. Visual inspections and some quantification were done using a Zeiss Axioplan 2 microscope with Chroma HQ filter sets for GFP, YFP, and RFP (63×/1.4NA objective). Worms were immobilized using 10 mM levamisole (Sigma, St Louis, MO) and oriented anterior to the left and dorsal up."
     },
-    "annotation_330": {
+    "annotation_360": {
       "type": "emphasis",
-      "id": "annotation_330",
+      "id": "annotation_360",
       "path": [
-        "paragraph_329",
+        "paragraph_359",
         "content"
       ],
       "target": null,
@@ -4822,9 +5236,9 @@
       "content": "Dynamic imaging",
       "nodes": []
     },
-    "paragraph_331": {
+    "paragraph_361": {
       "type": "paragraph",
-      "id": "paragraph_331",
+      "id": "paragraph_361",
       "content": "Dynamic imaging was performed on an inverted Zeiss Axio Observer Z1 microscope equipped with the highly sensitive QuantEM:512SC camera. A Plan-Apochromat 63×/1.4 objective was used for acquisition. L4 worms were cultured at 22°C for imaging. They were mounted onto 2% agarose pads and anesthetized with 6 mM levamisol (Sigma) for no longer than 20min. All videos were acquired over 25 s with 8 frames per second. Videos were then analyzed using the ImageJ software."
     },
     "heading_s4-5": {
@@ -4834,16 +5248,16 @@
       "content": "Protein purification",
       "nodes": []
     },
-    "paragraph_332": {
+    "paragraph_362": {
       "type": "paragraph",
-      "id": "paragraph_332",
+      "id": "paragraph_362",
       "content": "Tubulin was purified from porcine brain and polymerized to microtubules by a previously described method, then stabilized by taxol (Sloboda and Rosenbaum, 1982). Conventional kinesin (kinesin-1) was also purified from porcine brain as described before (Wagner et al., 1991). Recombinant protein for mNUDC was generated using pGEX-4T expression vector (GE Healthcare Bio-sciences). Protein purification was performed using Glutathione Sepharose 4B (GE Healthcare Bio-sciences) based on the manufacturer's recommendation. To remove GST-tag, we treated recombinant protein with Thrombin (Merck), followed by absorption of thrombin by Benzamidine Sepharose 6B (GE Healthcare Bio-sciences)."
     },
-    "citation_reference_333": {
+    "citation_reference_363": {
       "type": "citation_reference",
-      "id": "citation_reference_333",
+      "id": "citation_reference_363",
       "path": [
-        "paragraph_332",
+        "paragraph_362",
         "content"
       ],
       "target": "article_citation_bib39",
@@ -4852,11 +5266,11 @@
         159
       ]
     },
-    "citation_reference_334": {
+    "citation_reference_364": {
       "type": "citation_reference",
-      "id": "citation_reference_334",
+      "id": "citation_reference_364",
       "path": [
-        "paragraph_332",
+        "paragraph_362",
         "content"
       ],
       "target": "article_citation_bib46",
@@ -4872,16 +5286,16 @@
       "content": "Negatively stained electron microscopy",
       "nodes": []
     },
-    "paragraph_335": {
+    "paragraph_365": {
       "type": "paragraph",
-      "id": "paragraph_335",
+      "id": "paragraph_365",
       "content": "Taxol-stabilized MTs (25 μg/ml) with/without kinesin-1 (85 μg/ml), NudC (50 μg/ml), and 2 mM AMP-PNP were mixed in a test tube according to the condition then sit for 10 min. The kinesin-1 and NudC were mixed at a molar ratio of 1:5. The mixed solution of 5 μl was loaded on a hydrophilized carbon grid (75/300 mesh; VECO, Cu) to sit for 60 s in a humid chamber. Unabsorbed protein was rinsed by BRB80 buffer (80 mM Pipes-KOH, 2 mM MgSO4, 1 mM EGTA, pH 6.8) containing with 10 μM taxol. After the excess solution was blotted with a filter paper, the specimen was stained with an equal volume of 2% uranyl acetate for 40 s. The specimens were observed with a transmission electron microscope, Tecnai Spirit (FEI Co.). The microscope was operated at 120 kV. The magnification for overviewed images was ×21,000 and the nominal magnification was ×67,000. The defocusing values were usually −1 to −1.5 μm. The images were recorded using CCD (2k × 2k, Eagle1k CCD; FEI) at 30 μm/pixel corresponding to 0.47 nm. The electron dose per single image was estimated as 10 e/Å2."
     },
-    "annotation_336": {
+    "annotation_366": {
       "type": "subscript",
-      "id": "annotation_336",
+      "id": "annotation_366",
       "path": [
-        "paragraph_335",
+        "paragraph_365",
         "content"
       ],
       "target": null,
@@ -4890,11 +5304,11 @@
         437
       ]
     },
-    "annotation_337": {
+    "annotation_367": {
       "type": "superscript",
-      "id": "annotation_337",
+      "id": "annotation_367",
       "path": [
-        "paragraph_335",
+        "paragraph_365",
         "content"
       ],
       "target": null,
@@ -4910,16 +5324,16 @@
       "content": "Cryo-electron microscopy",
       "nodes": []
     },
-    "paragraph_338": {
+    "paragraph_368": {
       "type": "paragraph",
-      "id": "paragraph_338",
+      "id": "paragraph_368",
       "content": "To define the polarity of the MTs, electron cryo-microscopy was used. First frozen-hydrated specimens were prepared as follows: a 10-μl drop of purified MT/kinesin-1/NudC complex with 2 mM AMP-PNP was mounted on a holey carbon grid (Quantifoil: Mo R2/2, Germany) and blotted with filter paper to remove excess solution and make a thin aqueous layer. The grid was then plunged into ethane slush at −185°C to create a thin layer of vitreous ice. The frozen-hydrated specimens were examined at liquid nitrogen temperature using a cryo-holder (CT3500; Oxford Instruments, United Kingdom) with an EF-2000 microscope (Hitachi High-Technologies, Japan) operated at 200 kV. The electron micrographs were recorded using a 2 k × 2 k CCD camera developed by TVIPS (Yasunaga and Wakabayashi, 2008) with an defocusing value of −3 to −4 μm. The electron dose per single image was estimated as approximately ∼1400 e/Å2."
     },
-    "citation_reference_339": {
+    "citation_reference_369": {
       "type": "citation_reference",
-      "id": "citation_reference_339",
+      "id": "citation_reference_369",
       "path": [
-        "paragraph_338",
+        "paragraph_368",
         "content"
       ],
       "target": "article_citation_bib51",
@@ -4928,11 +5342,11 @@
         784
       ]
     },
-    "annotation_340": {
+    "annotation_370": {
       "type": "superscript",
-      "id": "annotation_340",
+      "id": "annotation_370",
       "path": [
-        "paragraph_338",
+        "paragraph_368",
         "content"
       ],
       "target": null,
@@ -4948,16 +5362,16 @@
       "content": "Image analysis",
       "nodes": []
     },
-    "paragraph_341": {
+    "paragraph_371": {
       "type": "paragraph",
-      "id": "paragraph_341",
+      "id": "paragraph_371",
       "content": "The defocusing values of all obtained images were estimated by ‘ctfDisplay'. The images were then corrected by phase flipping after the phase contrast transfer functions (CTF) were determined from the defocusing values. Corrected images were processed by the band-pass filter (1/100 nm to 1/10 nm), and so their background noise was reduced. The polarity of microtubules was determined by checking their Moiré patterns. Most of the image processing was performed by Eos (Yasunaga and Wakabayashi, 1996)."
     },
-    "citation_reference_342": {
+    "citation_reference_372": {
       "type": "citation_reference",
-      "id": "citation_reference_342",
+      "id": "citation_reference_372",
       "path": [
-        "paragraph_341",
+        "paragraph_371",
         "content"
       ],
       "target": "article_citation_bib50",
@@ -4980,9 +5394,9 @@
       "id": "paragraph_ack",
       "content": "AcknowledgementsThis work was supported by the Howard Hughes Medical Institute. The authors thank the International C. elegans Gene Knockout Consortium, the National Bioresourse Project-Japan for strains. The authors also thank C Gao and B Tara for technical assistance, P Kurshan, C Richardson, PH Chia, E Stewart, and members of the Shen laboratory for thoughtful comments on the manuscript. J Yan is supported by the Human Frontier Postdoctoral Fellowship.Additional information"
     },
-    "annotation_343": {
+    "annotation_373": {
       "type": "emphasis",
-      "id": "annotation_343",
+      "id": "annotation_373",
       "path": [
         "paragraph_ack",
         "content"
@@ -4999,12 +5413,12 @@
       "level": 2,
       "content": "Competing Interests",
       "nodes": [
-        "paragraph_344"
+        "paragraph_374"
       ]
     },
-    "paragraph_344": {
+    "paragraph_374": {
       "type": "paragraph",
-      "id": "paragraph_344",
+      "id": "paragraph_374",
       "content": "Competing interestsThe authors declare that no competing interests exist."
     },
     "info:author_contribution": {
@@ -5050,10 +5464,11 @@
       "issue": "",
       "fpage": "153",
       "lpage": "60",
+      "collab": "",
       "edition": "",
       "publisher-name": "",
       "publisher-loc": "",
-      "doi": "10.1007/s10974-005-9054-1",
+      "doi": "http://dx.doi.org/10.1007/s10974-005-9054-1",
       "citation_url": [],
       "format": "journal",
       "label": "",
@@ -5091,10 +5506,11 @@
       "issue": "",
       "fpage": "6503",
       "lpage": "7",
+      "collab": "",
       "edition": "",
       "publisher-name": "",
       "publisher-loc": "",
-      "doi": "10.1073/pnas.90.14.6503",
+      "doi": "http://dx.doi.org/10.1073/pnas.90.14.6503",
       "citation_url": [],
       "format": "journal",
       "label": "",
@@ -5116,10 +5532,11 @@
       "issue": "",
       "fpage": "23",
       "lpage": "31",
+      "collab": "",
       "edition": "",
       "publisher-name": "",
       "publisher-loc": "",
-      "doi": "10.1016/S0896-6273(00)80675-3",
+      "doi": "http://dx.doi.org/10.1016/S0896-6273(00)80675-3",
       "citation_url": [],
       "format": "journal",
       "label": "",
@@ -5141,10 +5558,11 @@
       "issue": "",
       "fpage": "E194",
       "lpage": "5",
+      "collab": "",
       "edition": "",
       "publisher-name": "",
       "publisher-loc": "",
-      "doi": "10.1038/ncb0802-e194",
+      "doi": "http://dx.doi.org/10.1038/ncb0802-e194",
       "citation_url": [],
       "format": "journal",
       "label": "",
@@ -5178,10 +5596,11 @@
       "issue": "",
       "fpage": "8335",
       "lpage": "9",
+      "collab": "",
       "edition": "",
       "publisher-name": "",
       "publisher-loc": "",
-      "doi": "10.1073/pnas.85.21.8335",
+      "doi": "http://dx.doi.org/10.1073/pnas.85.21.8335",
       "citation_url": [],
       "format": "journal",
       "label": "",
@@ -5207,10 +5626,11 @@
       "issue": "",
       "fpage": "403",
       "lpage": "18",
+      "collab": "",
       "edition": "",
       "publisher-name": "",
       "publisher-loc": "",
-      "doi": "10.1002/dneu.20818",
+      "doi": "http://dx.doi.org/10.1002/dneu.20818",
       "citation_url": [],
       "format": "journal",
       "label": "",
@@ -5240,10 +5660,11 @@
       "issue": "",
       "fpage": "490",
       "lpage": "8",
+      "collab": "",
       "edition": "",
       "publisher-name": "",
       "publisher-loc": "",
-      "doi": "10.1111/j.1600-0854.2006.00392.x",
+      "doi": "http://dx.doi.org/10.1111/j.1600-0854.2006.00392.x",
       "citation_url": [],
       "format": "journal",
       "label": "",
@@ -5273,10 +5694,11 @@
       "issue": "",
       "fpage": "5272",
       "lpage": "6",
+      "collab": "",
       "edition": "",
       "publisher-name": "",
       "publisher-loc": "",
-      "doi": "10.1073/pnas.84.15.5272",
+      "doi": "http://dx.doi.org/10.1073/pnas.84.15.5272",
       "citation_url": [],
       "format": "journal",
       "label": "",
@@ -5314,18 +5736,19 @@
       "issue": "",
       "fpage": "13932",
       "lpage": "42",
+      "collab": "",
       "edition": "",
       "publisher-name": "",
       "publisher-loc": "",
-      "doi": "10.1523/JNEUROSCI.1515-10.2010",
+      "doi": "http://dx.doi.org/10.1523/JNEUROSCI.1515-10.2010",
       "citation_url": [],
       "format": "journal",
       "label": "",
       "editors": []
     },
-    "annotation_345": {
+    "annotation_375": {
       "type": "emphasis",
-      "id": "annotation_345",
+      "id": "annotation_375",
       "path": [
         "article_citation_bib9",
         "title"
@@ -5364,10 +5787,11 @@
       "issue": "",
       "fpage": "1031",
       "lpage": "40",
+      "collab": "",
       "edition": "",
       "publisher-name": "",
       "publisher-loc": "",
-      "doi": "10.1016/S0969-2126(96)00110-4",
+      "doi": "http://dx.doi.org/10.1016/S0969-2126(96)00110-4",
       "citation_url": [],
       "format": "journal",
       "label": "",
@@ -5397,6 +5821,7 @@
       "issue": "",
       "fpage": "461",
       "lpage": "70",
+      "collab": "",
       "edition": "",
       "publisher-name": "",
       "publisher-loc": "",
@@ -5442,10 +5867,11 @@
       "issue": "",
       "fpage": "8938",
       "lpage": "43",
+      "collab": "",
       "edition": "",
       "publisher-name": "",
       "publisher-loc": "",
-      "doi": "10.1073/pnas.0803575105",
+      "doi": "http://dx.doi.org/10.1073/pnas.0803575105",
       "citation_url": [],
       "format": "journal",
       "label": "",
@@ -5479,18 +5905,19 @@
       "issue": "",
       "fpage": "2549",
       "lpage": "61",
+      "collab": "",
       "edition": "",
       "publisher-name": "",
       "publisher-loc": "",
-      "doi": "10.1101/gad.13.19.2549",
+      "doi": "http://dx.doi.org/10.1101/gad.13.19.2549",
       "citation_url": [],
       "format": "journal",
       "label": "",
       "editors": []
     },
-    "annotation_346": {
+    "annotation_376": {
       "type": "emphasis",
-      "id": "annotation_346",
+      "id": "annotation_376",
       "path": [
         "article_citation_bib13",
         "title"
@@ -5525,6 +5952,7 @@
       "issue": "",
       "fpage": "131",
       "lpage": "40",
+      "collab": "",
       "edition": "",
       "publisher-name": "",
       "publisher-loc": "",
@@ -5554,18 +5982,19 @@
       "issue": "",
       "fpage": "837",
       "lpage": "47",
+      "collab": "",
       "edition": "",
       "publisher-name": "",
       "publisher-loc": "",
-      "doi": "10.1016/0092-8674(91)90391-B",
+      "doi": "http://dx.doi.org/10.1016/0092-8674(91)90391-B",
       "citation_url": [],
       "format": "journal",
       "label": "",
       "editors": []
     },
-    "annotation_347": {
+    "annotation_377": {
       "type": "emphasis",
-      "id": "annotation_347",
+      "id": "annotation_377",
       "path": [
         "article_citation_bib15",
         "title"
@@ -5600,10 +6029,11 @@
       "issue": "",
       "fpage": "635",
       "lpage": "40",
+      "collab": "",
       "edition": "",
       "publisher-name": "",
       "publisher-loc": "",
-      "doi": "10.1083/jcb.200806112",
+      "doi": "http://dx.doi.org/10.1083/jcb.200806112",
       "citation_url": [],
       "format": "journal",
       "label": "",
@@ -5645,10 +6075,11 @@
       "issue": "",
       "fpage": "867",
       "lpage": "78",
+      "collab": "",
       "edition": "",
       "publisher-name": "",
       "publisher-loc": "",
-      "doi": "10.1016/0092-8674(89)90691-0",
+      "doi": "http://dx.doi.org/10.1016/0092-8674(89)90691-0",
       "citation_url": [],
       "format": "journal",
       "label": "",
@@ -5674,10 +6105,11 @@
       "issue": "",
       "fpage": "201",
       "lpage": "14",
+      "collab": "",
       "edition": "",
       "publisher-name": "",
       "publisher-loc": "",
-      "doi": "10.1038/nrn1624",
+      "doi": "http://dx.doi.org/10.1038/nrn1624",
       "citation_url": [],
       "format": "journal",
       "label": "",
@@ -5703,10 +6135,11 @@
       "issue": "",
       "fpage": "669",
       "lpage": "76",
+      "collab": "",
       "edition": "",
       "publisher-name": "",
       "publisher-loc": "",
-      "doi": "10.1016/j.tcb.2009.08.006",
+      "doi": "http://dx.doi.org/10.1016/j.tcb.2009.08.006",
       "citation_url": [],
       "format": "journal",
       "label": "",
@@ -5732,10 +6165,11 @@
       "issue": "",
       "fpage": "753",
       "lpage": "8",
+      "collab": "",
       "edition": "",
       "publisher-name": "",
       "publisher-loc": "",
-      "doi": "10.1038/nature01600",
+      "doi": "http://dx.doi.org/10.1038/nature01600",
       "citation_url": [],
       "format": "journal",
       "label": "",
@@ -5777,10 +6211,11 @@
       "issue": "",
       "fpage": "12151",
       "lpage": "6",
+      "collab": "",
       "edition": "",
       "publisher-name": "",
       "publisher-loc": "",
-      "doi": "10.1073/pnas.1004736107",
+      "doi": "http://dx.doi.org/10.1073/pnas.1004736107",
       "citation_url": [],
       "format": "journal",
       "label": "",
@@ -5806,10 +6241,11 @@
       "issue": "",
       "fpage": "9",
       "lpage": "20",
+      "collab": "",
       "edition": "",
       "publisher-name": "",
       "publisher-loc": "",
-      "doi": "10.1016/j.mcn.2010.08.015",
+      "doi": "http://dx.doi.org/10.1016/j.mcn.2010.08.015",
       "citation_url": [],
       "format": "journal",
       "label": "",
@@ -5851,10 +6287,11 @@
       "issue": "",
       "fpage": "290",
       "lpage": "9",
+      "collab": "",
       "edition": "",
       "publisher-name": "",
       "publisher-loc": "",
-      "doi": "10.1016/j.cub.2009.12.052",
+      "doi": "http://dx.doi.org/10.1016/j.cub.2009.12.052",
       "citation_url": [],
       "format": "journal",
       "label": "",
@@ -5880,10 +6317,11 @@
       "issue": "",
       "fpage": "325",
       "lpage": "62",
+      "collab": "",
       "edition": "",
       "publisher-name": "",
       "publisher-loc": "",
-      "doi": "10.1146/annurev.neuro.29.051605.112808",
+      "doi": "http://dx.doi.org/10.1146/annurev.neuro.29.051605.112808",
       "citation_url": [],
       "format": "journal",
       "label": "",
@@ -5909,18 +6347,19 @@
       "issue": "",
       "fpage": "704",
       "lpage": "16",
+      "collab": "",
       "edition": "",
       "publisher-name": "",
       "publisher-loc": "",
-      "doi": "10.1016/j.cell.2007.06.046",
+      "doi": "http://dx.doi.org/10.1016/j.cell.2007.06.046",
       "citation_url": [],
       "format": "journal",
       "label": "",
       "editors": []
     },
-    "annotation_348": {
+    "annotation_378": {
       "type": "emphasis",
-      "id": "annotation_348",
+      "id": "annotation_378",
       "path": [
         "article_citation_bib25",
         "title"
@@ -5959,10 +6398,11 @@
       "issue": "",
       "fpage": "26",
       "lpage": "",
+      "collab": "",
       "edition": "",
       "publisher-name": "",
       "publisher-loc": "",
-      "doi": "10.1186/1749-8104-4-26",
+      "doi": "http://dx.doi.org/10.1186/1749-8104-4-26",
       "citation_url": [],
       "format": "journal",
       "label": "",
@@ -6008,10 +6448,11 @@
       "issue": "",
       "fpage": "48",
       "lpage": "56",
+      "collab": "",
       "edition": "",
       "publisher-name": "",
       "publisher-loc": "",
-      "doi": "10.1038/nn.2970",
+      "doi": "http://dx.doi.org/10.1038/nn.2970",
       "citation_url": [],
       "format": "journal",
       "label": "",
@@ -6049,10 +6490,11 @@
       "issue": "",
       "fpage": "469",
       "lpage": "79",
+      "collab": "",
       "edition": "",
       "publisher-name": "",
       "publisher-loc": "",
-      "doi": "10.1083/jcb.145.3.469",
+      "doi": "http://dx.doi.org/10.1083/jcb.145.3.469",
       "citation_url": [],
       "format": "journal",
       "label": "",
@@ -6098,10 +6540,11 @@
       "issue": "",
       "fpage": "2169",
       "lpage": "77",
+      "collab": "",
       "edition": "",
       "publisher-name": "",
       "publisher-loc": "",
-      "doi": "10.1016/j.cub.2010.11.050",
+      "doi": "http://dx.doi.org/10.1016/j.cub.2010.11.050",
       "citation_url": [],
       "format": "journal",
       "label": "",
@@ -6143,10 +6586,11 @@
       "issue": "",
       "fpage": "1263",
       "lpage": "75",
+      "collab": "",
       "edition": "",
       "publisher-name": "",
       "publisher-loc": "",
-      "doi": "10.1083/jcb.117.6.1263",
+      "doi": "http://dx.doi.org/10.1083/jcb.117.6.1263",
       "citation_url": [],
       "format": "journal",
       "label": "",
@@ -6188,10 +6632,11 @@
       "issue": "",
       "fpage": "846",
       "lpage": "58",
+      "collab": "",
       "edition": "",
       "publisher-name": "",
       "publisher-loc": "",
-      "doi": "10.1016/j.cell.2010.04.011",
+      "doi": "http://dx.doi.org/10.1016/j.cell.2010.04.011",
       "citation_url": [],
       "format": "journal",
       "label": "",
@@ -6217,10 +6662,11 @@
       "issue": "",
       "fpage": "5473",
       "lpage": "85",
+      "collab": "",
       "edition": "",
       "publisher-name": "",
       "publisher-loc": "",
-      "doi": "10.1242/dev.00119",
+      "doi": "http://dx.doi.org/10.1242/dev.00119",
       "citation_url": [],
       "format": "journal",
       "label": "",
@@ -6250,18 +6696,19 @@
       "issue": "",
       "fpage": "9181",
       "lpage": "5",
+      "collab": "",
       "edition": "",
       "publisher-name": "",
       "publisher-loc": "",
-      "doi": "10.1073/pnas.90.19.9181",
+      "doi": "http://dx.doi.org/10.1073/pnas.90.19.9181",
       "citation_url": [],
       "format": "journal",
       "label": "",
       "editors": []
     },
-    "annotation_349": {
+    "annotation_379": {
       "type": "emphasis",
-      "id": "annotation_349",
+      "id": "annotation_379",
       "path": [
         "article_citation_bib33",
         "title"
@@ -6308,10 +6755,11 @@
       "issue": "",
       "fpage": "7",
       "lpage": "",
+      "collab": "",
       "edition": "",
       "publisher-name": "",
       "publisher-loc": "",
-      "doi": "10.1186/1749-8104-2-7",
+      "doi": "http://dx.doi.org/10.1186/1749-8104-2-7",
       "citation_url": [],
       "format": "journal",
       "label": "",
@@ -6353,10 +6801,11 @@
       "issue": "",
       "fpage": "425",
       "lpage": "38",
+      "collab": "",
       "edition": "",
       "publisher-name": "",
       "publisher-loc": "",
-      "doi": "10.1016/S0896-6273(00)81243-X",
+      "doi": "http://dx.doi.org/10.1016/S0896-6273(00)81243-X",
       "citation_url": [],
       "format": "journal",
       "label": "",
@@ -6382,10 +6831,11 @@
       "issue": "",
       "fpage": "8155",
       "lpage": "62",
+      "collab": "",
       "edition": "",
       "publisher-name": "",
       "publisher-loc": "",
-      "doi": "10.1074/jbc.M109.068247",
+      "doi": "http://dx.doi.org/10.1074/jbc.M109.068247",
       "citation_url": [],
       "format": "journal",
       "label": "",
@@ -6407,18 +6857,19 @@
       "issue": "",
       "fpage": "20",
       "lpage": "8",
+      "collab": "",
       "edition": "",
       "publisher-name": "",
       "publisher-loc": "",
-      "doi": "10.1034/j.1600-0854.2002.30104.x",
+      "doi": "http://dx.doi.org/10.1034/j.1600-0854.2002.30104.x",
       "citation_url": [],
       "format": "journal",
       "label": "",
       "editors": []
     },
-    "annotation_350": {
+    "annotation_380": {
       "type": "emphasis",
-      "id": "annotation_350",
+      "id": "annotation_380",
       "path": [
         "article_citation_bib37",
         "title"
@@ -6465,10 +6916,11 @@
       "issue": "",
       "fpage": "510",
       "lpage": "7",
+      "collab": "",
       "edition": "",
       "publisher-name": "",
       "publisher-loc": "",
-      "doi": "10.1038/nature03809",
+      "doi": "http://dx.doi.org/10.1038/nature03809",
       "citation_url": [],
       "format": "journal",
       "label": "",
@@ -6494,6 +6946,7 @@
       "issue": "Pt B",
       "fpage": "409",
       "lpage": "16",
+      "collab": "",
       "edition": "",
       "publisher-name": "",
       "publisher-loc": "",
@@ -6539,10 +6992,11 @@
       "issue": "",
       "fpage": "17564",
       "lpage": "9",
+      "collab": "",
       "edition": "",
       "publisher-name": "",
       "publisher-loc": "",
-      "doi": "10.1073/pnas.0909267106",
+      "doi": "http://dx.doi.org/10.1073/pnas.0909267106",
       "citation_url": [],
       "format": "journal",
       "label": "",
@@ -6584,6 +7038,7 @@
       "issue": "",
       "fpage": "2655",
       "lpage": "64",
+      "collab": "",
       "edition": "",
       "publisher-name": "",
       "publisher-loc": "",
@@ -6617,18 +7072,19 @@
       "issue": "",
       "fpage": "4122",
       "lpage": "9",
+      "collab": "",
       "edition": "",
       "publisher-name": "",
       "publisher-loc": "",
-      "doi": "10.1091/mbc.E07-10-1079",
+      "doi": "http://dx.doi.org/10.1091/mbc.E07-10-1079",
       "citation_url": [],
       "format": "journal",
       "label": "",
       "editors": []
     },
-    "annotation_351": {
+    "annotation_381": {
       "type": "emphasis",
-      "id": "annotation_351",
+      "id": "annotation_381",
       "path": [
         "article_citation_bib42",
         "title"
@@ -6663,18 +7119,19 @@
       "issue": "",
       "fpage": "25",
       "lpage": "36",
+      "collab": "",
       "edition": "",
       "publisher-name": "",
       "publisher-loc": "",
-      "doi": "10.1016/S0092-8674(00)80603-0",
+      "doi": "http://dx.doi.org/10.1016/S0092-8674(00)80603-0",
       "citation_url": [],
       "format": "journal",
       "label": "",
       "editors": []
     },
-    "annotation_352": {
+    "annotation_382": {
       "type": "emphasis",
-      "id": "annotation_352",
+      "id": "annotation_382",
       "path": [
         "article_citation_bib43",
         "title"
@@ -6705,18 +7162,19 @@
       "issue": "",
       "fpage": "165",
       "lpage": "172",
+      "collab": "",
       "edition": "",
       "publisher-name": "",
       "publisher-loc": "",
-      "doi": "10.1038/Nn.2717",
+      "doi": "http://dx.doi.org/10.1038/Nn.2717",
       "citation_url": [],
       "format": "journal",
       "label": "",
       "editors": []
     },
-    "annotation_353": {
+    "annotation_383": {
       "type": "emphasis",
-      "id": "annotation_353",
+      "id": "annotation_383",
       "path": [
         "article_citation_bib44",
         "title"
@@ -6755,10 +7213,11 @@
       "issue": "",
       "fpage": "19702",
       "lpage": "07",
+      "collab": "",
       "edition": "",
       "publisher-name": "",
       "publisher-loc": "",
-      "doi": "10.1073/pnas.0808194105",
+      "doi": "http://dx.doi.org/10.1073/pnas.0808194105",
       "citation_url": [],
       "format": "journal",
       "label": "",
@@ -6780,10 +7239,11 @@
       "issue": "",
       "fpage": "467",
       "lpage": "80",
+      "collab": "",
       "edition": "",
       "publisher-name": "",
       "publisher-loc": "",
-      "doi": "10.1016/S0092-8674(03)00111-9",
+      "doi": "http://dx.doi.org/10.1016/S0092-8674(03)00111-9",
       "citation_url": [],
       "format": "journal",
       "label": "",
@@ -6817,10 +7277,11 @@
       "issue": "",
       "fpage": "157",
       "lpage": "75",
+      "collab": "",
       "edition": "",
       "publisher-name": "",
       "publisher-loc": "",
-      "doi": "10.1016/0076-6879(91)96016-K",
+      "doi": "http://dx.doi.org/10.1016/0076-6879(91)96016-K",
       "citation_url": [],
       "format": "journal",
       "label": "",
@@ -6854,18 +7315,19 @@
       "issue": "",
       "fpage": "327",
       "lpage": "48",
+      "collab": "",
       "edition": "",
       "publisher-name": "",
       "publisher-loc": "",
-      "doi": "10.1098/rstb.1976.0086",
+      "doi": "http://dx.doi.org/10.1098/rstb.1976.0086",
       "citation_url": [],
       "format": "journal",
       "label": "",
       "editors": []
     },
-    "annotation_354": {
+    "annotation_384": {
       "type": "emphasis",
-      "id": "annotation_354",
+      "id": "annotation_384",
       "path": [
         "article_citation_bib47",
         "title"
@@ -6912,10 +7374,11 @@
       "issue": "",
       "fpage": "517",
       "lpage": "31",
+      "collab": "",
       "edition": "",
       "publisher-name": "",
       "publisher-loc": "",
-      "doi": "10.1038/emboj.2009.378",
+      "doi": "http://dx.doi.org/10.1038/emboj.2009.378",
       "citation_url": [],
       "format": "journal",
       "label": "",
@@ -6945,10 +7408,11 @@
       "issue": "",
       "fpage": "447",
       "lpage": "57",
+      "collab": "",
       "edition": "",
       "publisher-name": "",
       "publisher-loc": "",
-      "doi": "10.1083/jcb.200411132",
+      "doi": "http://dx.doi.org/10.1083/jcb.200411132",
       "citation_url": [],
       "format": "journal",
       "label": "",
@@ -6974,10 +7438,11 @@
       "issue": "",
       "fpage": "155",
       "lpage": "60",
+      "collab": "",
       "edition": "",
       "publisher-name": "",
       "publisher-loc": "",
-      "doi": "10.1006/jsbi.1996.0025",
+      "doi": "http://dx.doi.org/10.1006/jsbi.1996.0025",
       "citation_url": [],
       "format": "journal",
       "label": "",
@@ -7003,10 +7468,11 @@
       "issue": "",
       "fpage": "101",
       "lpage": "12",
+      "collab": "",
       "edition": "",
       "publisher-name": "",
       "publisher-loc": "",
-      "doi": "10.1093/jmicro/dfn006",
+      "doi": "http://dx.doi.org/10.1093/jmicro/dfn006",
       "citation_url": [],
       "format": "journal",
       "label": "",
@@ -7048,10 +7514,11 @@
       "issue": "",
       "fpage": "1172",
       "lpage": "80",
+      "collab": "",
       "edition": "",
       "publisher-name": "",
       "publisher-loc": "",
-      "doi": "10.1038/ncb1777",
+      "doi": "http://dx.doi.org/10.1038/ncb1777",
       "citation_url": [],
       "format": "journal",
       "label": "",

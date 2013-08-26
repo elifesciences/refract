@@ -1,0 +1,929 @@
+{
+  "id": "00573",
+  "nodes": {
+    "content": {
+      "type": "view",
+      "id": "content",
+      "nodes": [
+        "abstract",
+        "paragraph_3",
+        "paragraph_8",
+        "paragraph_10",
+        "paragraph_11",
+        "paragraph_16",
+        "paragraph_18",
+        "paragraph_19",
+        "paragraph_21",
+        "paragraph_24",
+        "paragraph_27",
+        "paragraph_31"
+      ]
+    },
+    "figures": {
+      "type": "view",
+      "id": "figures",
+      "nodes": [
+        "box_B1",
+        "image_fig1"
+      ]
+    },
+    "citations": {
+      "type": "view",
+      "id": "citations",
+      "nodes": [
+        "article_citation_bib1",
+        "article_citation_bib2",
+        "article_citation_bib3",
+        "article_citation_bib4",
+        "article_citation_bib5",
+        "article_citation_bib6",
+        "article_citation_bib7",
+        "article_citation_bib8",
+        "article_citation_bib9",
+        "article_citation_bib10",
+        "article_citation_bib11",
+        "article_citation_bib12"
+      ]
+    },
+    "document": {
+      "type": "document",
+      "id": "document",
+      "views": [
+        "content",
+        "figures",
+        "citations"
+      ],
+      "guid": "00573",
+      "title": "Direct detection pays off for electron cryo-microscopy",
+      "authors": [
+        "person_author_2341"
+      ],
+      "received_on": "",
+      "accepted_on": "",
+      "published_on": "2013-02-19",
+      "journal": "eLife",
+      "article_type": "",
+      "keywords": [
+        "Electron microscopy",
+        "Image processing",
+        "T. thermophilus",
+        "Direct electron detectors",
+        "ribosome",
+        "Bayesian"
+      ],
+      "research_organisms": [
+        "S. cerevisiae"
+      ],
+      "subjects": [
+        "Biophysics and structural biology"
+      ],
+      "pdf_link": "",
+      "xml_link": "",
+      "json_link": "",
+      "doi": ""
+    },
+    "person_author_2341": {
+      "type": "person",
+      "id": "person_author_2341",
+      "given-names": "Nikolaus",
+      "last-name": "Grigorieff",
+      "role": "author",
+      "affiliations": [],
+      "image": "",
+      "contribution": "",
+      "email": "",
+      "funding": []
+    },
+    "info:copyright": {
+      "type": "heading",
+      "id": "info:copyright",
+      "level": 2,
+      "content": "Copyright",
+      "nodes": [
+        "paragraph_1"
+      ]
+    },
+    "paragraph_1": {
+      "type": "paragraph",
+      "id": "paragraph_1",
+      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "annotation_2": {
+      "type": "link",
+      "id": "annotation_2",
+      "path": [
+        "paragraph_1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        51,
+        87
+      ],
+      "url": "http://creativecommons.org/licenses/by/3.0/"
+    },
+    "abstract": {
+      "type": "heading",
+      "id": "abstract",
+      "level": 1,
+      "content": "Abstract",
+      "nodes": []
+    },
+    "paragraph_3": {
+      "type": "paragraph",
+      "id": "paragraph_3",
+      "content": "Improved electron detectors and image-processing techniques will allow the structures of macromolecules to be determined from tens of thousands of single-particle cryo-EM images, rather than the hundreds of thousands needed previously."
+    },
+    "box_B1": {
+      "type": "box",
+      "id": "box_B1",
+      "label": "",
+      "url": "",
+      "title": "",
+      "caption": "",
+      "content": "Related research article Bai X, Fernandez IS, McMullan G, Scheres SHW. 2013. Ribosome structures to near-atomic resolution from thirty thousand cryo-EM particles. eLife 2:e00461. doi: 10.7554/eLife.00461",
+      "doi": ""
+    },
+    "annotation_4": {
+      "type": "strong",
+      "id": "annotation_4",
+      "path": [
+        "box_B1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        24
+      ]
+    },
+    "annotation_5": {
+      "type": "emphasis",
+      "id": "annotation_5",
+      "path": [
+        "box_B1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        163,
+        168
+      ]
+    },
+    "annotation_6": {
+      "type": "strong",
+      "id": "annotation_6",
+      "path": [
+        "box_B1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        169,
+        170
+      ]
+    },
+    "annotation_7": {
+      "type": "link",
+      "id": "annotation_7",
+      "path": [
+        "box_B1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        184,
+        203
+      ],
+      "url": "http://dx.doi.org/10.7554/eLife.00461"
+    },
+    "paragraph_8": {
+      "type": "paragraph",
+      "id": "paragraph_8",
+      "content": "Image Cryo-EM image of 70S ribosomes with vectors indicating movement during beam exposure"
+    },
+    "annotation_9": {
+      "type": "strong",
+      "id": "annotation_9",
+      "path": [
+        "paragraph_8",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        5
+      ]
+    },
+    "paragraph_10": {
+      "type": "paragraph",
+      "id": "paragraph_10",
+      "content": ""
+    },
+    "paragraph_11": {
+      "type": "paragraph",
+      "id": "paragraph_11",
+      "content": "Electron cryo-microscopy (cryo-EM) is a technique that can be used to study the three-dimensional structure of macromolecules and their assemblies under close-to-native conditions. First used to study hydrated protein crystals in 1974 (Taylor and Glaeser, 1974), it was later extended to non-crystalline (single particle) preparations of viruses (Adrian et al., 1984). In cryo-EM, a preparation of the macromolecule to be studied is frozen in a thin layer of ice, and this layer is imaged in an electron microscope. The single-particle approach to cryo-EM, which emerged in the late 1970s (Frank et al., 1978; van Heel and Frank, 1981), offered the possibility of being able to determine the atomic structures of cellular machinery without the need for crystals, as required for X-ray crystallography."
+    },
+    "citation_reference_12": {
+      "type": "citation_reference",
+      "id": "citation_reference_12",
+      "path": [
+        "paragraph_11",
+        "content"
+      ],
+      "target": "article_citation_bib11",
+      "range": [
+        236,
+        260
+      ]
+    },
+    "citation_reference_13": {
+      "type": "citation_reference",
+      "id": "citation_reference_13",
+      "path": [
+        "paragraph_11",
+        "content"
+      ],
+      "target": "article_citation_bib1",
+      "range": [
+        347,
+        366
+      ]
+    },
+    "citation_reference_14": {
+      "type": "citation_reference",
+      "id": "citation_reference_14",
+      "path": [
+        "paragraph_11",
+        "content"
+      ],
+      "target": "article_citation_bib5",
+      "range": [
+        590,
+        608
+      ]
+    },
+    "citation_reference_15": {
+      "type": "citation_reference",
+      "id": "citation_reference_15",
+      "path": [
+        "paragraph_11",
+        "content"
+      ],
+      "target": "article_citation_bib12",
+      "range": [
+        610,
+        634
+      ]
+    },
+    "paragraph_16": {
+      "type": "paragraph",
+      "id": "paragraph_16",
+      "content": "To obtain a macromolecular structure using single-particle cryo-EM, many molecules need to be imaged, each displaying a particular view. In a process similar to tomography, the different views can be computationally assembled into a three-dimensional image—the structure of the molecule. However, unlike tomography, the angles describing the views are not known a priori and have to be determined by aligning the images to a reference structure. Any errors in the alignment will reduce the resolution of the final structure."
+    },
+    "annotation_17": {
+      "type": "emphasis",
+      "id": "annotation_17",
+      "path": [
+        "paragraph_16",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        362,
+        370
+      ]
+    },
+    "paragraph_18": {
+      "type": "paragraph",
+      "id": "paragraph_18",
+      "content": "A deciding factor in single-particle cryo-EM is the signal-to-noise ratio in the images, which determines how many images have to be included in the data set to achieve high resolution. The signal-to-noise ratio also influences the alignment error. (The number of images required and the alignment error are not completely independent, and it is possible to make up for alignment errors by collecting more images). Particles with a high molecular mass, such as icosahedral viruses, generate strong contrast (signal) in the images. Moreover, since these viruses are highly symmetric, the number of images needed to determine their structure is smaller than that needed for less symmetric structures. Therefore, until recently, single-particle cryo-EM had fulfilled its promise to yield atomic models without crystals only in the special case of large, symmetrical assemblies such as icosahedral viruses."
+    },
+    "paragraph_19": {
+      "type": "paragraph",
+      "id": "paragraph_19",
+      "content": "Now, in eLife, Xiaochen Bai, Israel Fernandez, Greg McMullan and Sjors Scheres of the MRC Laboratory of Molecular Biology (LMB) in Cambridge report that single-particle cryo-EM can be used to determine the structure of smaller, asymmetrical assemblies with near-atomic resolution (Bai et al., 2013). They demonstrate this by determining the structure of the 80S ribosome with a resolution of close to 4 Angstroms."
+    },
+    "citation_reference_20": {
+      "type": "citation_reference",
+      "id": "citation_reference_20",
+      "path": [
+        "paragraph_19",
+        "content"
+      ],
+      "target": "article_citation_bib3",
+      "range": [
+        281,
+        297
+      ]
+    },
+    "paragraph_21": {
+      "type": "paragraph",
+      "id": "paragraph_21",
+      "content": "Single-particle cryo-EM is ideally suited to the large macromolecular assemblies that drive many of the complex processes that take place inside cells. It is often difficult to make crystals of these assemblies because they tend to occur in different conformations that are difficult to discriminate biochemically, and because they are often too fragile to survive the process of crystallization. The possibility of using single-particle cryo-EM to determine atomic structures was described over a decade ago by Henderson and Glaeser, who also estimated the maximum contrast that could be achieved in cryo-EM images before the sample is destroyed by the electron beam (Henderson, 1995; Glaeser, 1999)."
+    },
+    "citation_reference_22": {
+      "type": "citation_reference",
+      "id": "citation_reference_22",
+      "path": [
+        "paragraph_21",
+        "content"
+      ],
+      "target": "article_citation_bib7",
+      "range": [
+        669,
+        684
+      ]
+    },
+    "citation_reference_23": {
+      "type": "citation_reference",
+      "id": "citation_reference_23",
+      "path": [
+        "paragraph_21",
+        "content"
+      ],
+      "target": "article_citation_bib6",
+      "range": [
+        686,
+        699
+      ]
+    },
+    "paragraph_24": {
+      "type": "paragraph",
+      "id": "paragraph_24",
+      "content": "According to these calculations it should be possible, under ideal conditions, to determine the atomic structure of the sample from just a few thousand low-dose images. In reality, however, far greater numbers have been required—between several hundred thousand and a few million imaged molecules - to allow the structure of larger symmetrical complexes to be determined (see, for example, Mills et al., 2013). Moreover, it has not been possible to achieve comparable resolution in experiments on smaller, asymmetrical particles. For example, the previous record value for the resolution achieved in cryo-EM studies of 80S ribosomes was about 6 Angstroms, which is insufficient for determining the atomic structure, despite the fact that about 1.4 million images were needed to achieve it (Armache et al., 2010)."
+    },
+    "citation_reference_25": {
+      "type": "citation_reference",
+      "id": "citation_reference_25",
+      "path": [
+        "paragraph_24",
+        "content"
+      ],
+      "target": "article_citation_bib9",
+      "range": [
+        390,
+        408
+      ]
+    },
+    "citation_reference_26": {
+      "type": "citation_reference",
+      "id": "citation_reference_26",
+      "path": [
+        "paragraph_24",
+        "content"
+      ],
+      "target": "article_citation_bib2",
+      "range": [
+        790,
+        810
+      ]
+    },
+    "paragraph_27": {
+      "type": "paragraph",
+      "id": "paragraph_27",
+      "content": "Exploiting the full potential of single-particle cryo-EM involves reducing the loss of contrast and the addition of noise during the imaging process (Figure 1). The two main sources of contrast loss, and hence lowered resolution, are the electron beam causing the particles to move during the experiment, and the low efficiency of the detectors used to record the images. Both problems can be addressed with a new generation of devices that detect the electrons directly. Previously researchers have used indirect devices such as scintillators coupled with CCD cameras (in which the electrons are converted into photons of light before being detected). Using the fast read-out rate of the new direct CMOS detectors, Bai et al. recorded movies of the ribosomes, which allowed them to follow the movement caused by the electron beam, and then correct for it computationally. The resulting ribosome images were of such high quality that they could be aligned with sufficient accuracy to obtain near-atomic resolution from only about 30,000 images. The alignment was performed with a new algorithm based on Bayesian statistics (Sigworth, 1998) and further developed by the authors. The LMB work also highlights another advantage of the single-particle approach: it is possible to identify different conformational states in a sample containing a mixture of states. In other words, Bai et al. were able to ‘purify' their sample in silico."
+    },
+    "figure_reference_28": {
+      "type": "figure_reference",
+      "id": "figure_reference_28",
+      "path": [
+        "paragraph_27",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        150,
+        158
+      ]
+    },
+    "citation_reference_29": {
+      "type": "citation_reference",
+      "id": "citation_reference_29",
+      "path": [
+        "paragraph_27",
+        "content"
+      ],
+      "target": "article_citation_bib10",
+      "range": [
+        1124,
+        1138
+      ]
+    },
+    "image_fig1": {
+      "type": "image",
+      "id": "image_fig1",
+      "label": "Figure 1.",
+      "url": "",
+      "object_id": "F1",
+      "title": "Electron micrograph of double-layered rotavirus particles frozen in a thin layer of amorphous ice.",
+      "content_type": "",
+      "large_url": "",
+      "content": "",
+      "group": [
+        "parent",
+        null
+      ],
+      "doi": "",
+      "caption": "paragraph_image_fig1",
+      "graphic_id": "elife00573f001"
+    },
+    "paragraph_image_fig1": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig1",
+      "content": "The image was recorded by the author and co-workers using the DE-12 direct electron detector (Direct Electron, San Diego, United States) in movie mode at 40 frames per second. In panel A, 60 frames have been averaged without alignment, resulting in an image that is blurred due to beam-inducted movement. In panel B the frames have been aligned to compensate for this movement, which results in an image with significantly reduced blurring and improved contrast. The alignment method used here involved tracking the movement of the particles (Brilot et al., 2012); the alignment method used by Bai et al. used additional statistics to predict the movement of the particles caused by the electron beam. Scale bar = 50 nm."
+    },
+    "citation_reference_30": {
+      "type": "citation_reference",
+      "id": "citation_reference_30",
+      "path": [
+        "paragraph_image_fig1",
+        "content"
+      ],
+      "target": "article_citation_bib4",
+      "range": [
+        543,
+        562
+      ]
+    },
+    "paragraph_31": {
+      "type": "paragraph",
+      "id": "paragraph_31",
+      "content": "The single-particle technique still has a way to go before it can become mainstream. Common standards in the field need to be established, such as common data formats and quality criteria (Henderson et al., 2012). There is also a need for national cryo-EM facilities to be maintained and made easily accessible for groups and laboratories that do not maintain their own equipment. More than a decade ago, Henderson and Glaeser optimistically predicted a bright future for cryo-EM, and now Bai, Fernandez, McMullan and Scheres have brought us a significant step closer towards realizing this future."
+    },
+    "citation_reference_32": {
+      "type": "citation_reference",
+      "id": "citation_reference_32",
+      "path": [
+        "paragraph_31",
+        "content"
+      ],
+      "target": "article_citation_bib8",
+      "range": [
+        189,
+        211
+      ]
+    },
+    "info:competing-interest": {
+      "type": "heading",
+      "id": "info:competing-interest",
+      "level": 2,
+      "content": "Competing Interests",
+      "nodes": [
+        "paragraph_33"
+      ]
+    },
+    "paragraph_33": {
+      "type": "paragraph",
+      "id": "paragraph_33",
+      "content": "Competing interests:The author declares that no competing interests existReferences"
+    },
+    "article_citation_bib1": {
+      "type": "article_citation",
+      "id": "article_citation_bib1",
+      "authors": [
+        {
+          "given-names": "M",
+          "last-name": "Adrian"
+        },
+        {
+          "given-names": "J",
+          "last-name": "Dubochet"
+        },
+        {
+          "given-names": "J",
+          "last-name": "Lepault"
+        },
+        {
+          "given-names": "AW",
+          "last-name": "McDowall"
+        }
+      ],
+      "title": "Cryo-electron microscopy of viruses",
+      "year": "1984",
+      "volume": "308",
+      "source": "Nature",
+      "issue": "",
+      "fpage": "32",
+      "lpage": "6",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1038/308032a0",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib2": {
+      "type": "article_citation",
+      "id": "article_citation_bib2",
+      "authors": [
+        {
+          "given-names": "JP",
+          "last-name": "Armache"
+        },
+        {
+          "given-names": "A",
+          "last-name": "Jarasch"
+        },
+        {
+          "given-names": "AM",
+          "last-name": "Anger"
+        },
+        {
+          "given-names": "E",
+          "last-name": "Villa"
+        },
+        {
+          "given-names": "T",
+          "last-name": "Becker"
+        },
+        {
+          "given-names": "S",
+          "last-name": "Bhushan"
+        }
+      ],
+      "title": "Cryo-EM structure and rRNA model of a translating eukaryotic 80S ribosome at 5.5-A resolution",
+      "year": "2010",
+      "volume": "107",
+      "source": "Proc Natl Acad Sci USA",
+      "issue": "",
+      "fpage": "19748",
+      "lpage": "53",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1073/pnas.1009999107",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib3": {
+      "type": "article_citation",
+      "id": "article_citation_bib3",
+      "authors": [
+        {
+          "given-names": "X",
+          "last-name": "Bai"
+        },
+        {
+          "given-names": "IS",
+          "last-name": "Fernandez"
+        },
+        {
+          "given-names": "G",
+          "last-name": "McMullan"
+        },
+        {
+          "given-names": "SHW",
+          "last-name": "Scheres"
+        }
+      ],
+      "title": "Ribosome structures to near-atomic resolution from thirty thousand cryo-EM particles",
+      "year": "2013",
+      "volume": "2",
+      "source": "eLife",
+      "issue": "",
+      "fpage": "e00461",
+      "lpage": "",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.7554/eLife.00461",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib4": {
+      "type": "article_citation",
+      "id": "article_citation_bib4",
+      "authors": [
+        {
+          "given-names": "AF",
+          "last-name": "Brilot"
+        },
+        {
+          "given-names": "JZ",
+          "last-name": "Chen"
+        },
+        {
+          "given-names": "A",
+          "last-name": "Cheng"
+        },
+        {
+          "given-names": "J",
+          "last-name": "Pan"
+        },
+        {
+          "given-names": "SC",
+          "last-name": "Harrison"
+        },
+        {
+          "given-names": "CS",
+          "last-name": "Potter"
+        }
+      ],
+      "title": "Beam-induced motion of vitrified specimen on holey carbon film",
+      "year": "2012",
+      "volume": "177",
+      "source": "J Struct Biol",
+      "issue": "",
+      "fpage": "630",
+      "lpage": "7",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/j.jsb.2012.02.003",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib5": {
+      "type": "article_citation",
+      "id": "article_citation_bib5",
+      "authors": [
+        {
+          "given-names": "J",
+          "last-name": "Frank"
+        },
+        {
+          "given-names": "W",
+          "last-name": "Goldfarb"
+        },
+        {
+          "given-names": "D",
+          "last-name": "Eisenberg"
+        },
+        {
+          "given-names": "TS",
+          "last-name": "Baker"
+        }
+      ],
+      "title": "Reconstruction of glutamine synthetase using computer averaging",
+      "year": "1978",
+      "volume": "3",
+      "source": "Ultramicroscopy",
+      "issue": "",
+      "fpage": "283",
+      "lpage": "90",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/S0304-3991(78)80038-2",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib6": {
+      "type": "article_citation",
+      "id": "article_citation_bib6",
+      "authors": [
+        {
+          "given-names": "RM",
+          "last-name": "Glaeser"
+        }
+      ],
+      "title": "Review: electron crystallography: present excitement, a nod to the past, anticipating the future",
+      "year": "1999",
+      "volume": "128",
+      "source": "J Struct Biol",
+      "issue": "",
+      "fpage": "3",
+      "lpage": "14",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1006/jsbi.1999.4172",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib7": {
+      "type": "article_citation",
+      "id": "article_citation_bib7",
+      "authors": [
+        {
+          "given-names": "R",
+          "last-name": "Henderson"
+        }
+      ],
+      "title": "The potential and limitations of neutrons, electrons and X-rays for atomic resolution microscopy of unstained biological molecules",
+      "year": "1995",
+      "volume": "28",
+      "source": "Q Rev Biophys",
+      "issue": "",
+      "fpage": "171",
+      "lpage": "93",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1017/S003358350000305X",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib8": {
+      "type": "article_citation",
+      "id": "article_citation_bib8",
+      "authors": [
+        {
+          "given-names": "R",
+          "last-name": "Henderson"
+        },
+        {
+          "given-names": "A",
+          "last-name": "Sali"
+        },
+        {
+          "given-names": "ML",
+          "last-name": "Baker"
+        },
+        {
+          "given-names": "B",
+          "last-name": "Carragher"
+        },
+        {
+          "given-names": "B",
+          "last-name": "Devkota"
+        },
+        {
+          "given-names": "KH",
+          "last-name": "Downing"
+        }
+      ],
+      "title": "Outcome of the first electron microscopy validation task force meeting",
+      "year": "2012",
+      "volume": "20",
+      "source": "Structure",
+      "issue": "",
+      "fpage": "205",
+      "lpage": "14",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/j.str.2011.12.014",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib9": {
+      "type": "article_citation",
+      "id": "article_citation_bib9",
+      "authors": [
+        {
+          "given-names": "DJ",
+          "last-name": "Mills"
+        },
+        {
+          "given-names": "S",
+          "last-name": "Vitt"
+        },
+        {
+          "given-names": "M",
+          "last-name": "Strauss"
+        },
+        {
+          "given-names": "S",
+          "last-name": "Shima"
+        },
+        {
+          "given-names": "J",
+          "last-name": "Vonck"
+        }
+      ],
+      "title": "De novo modelling of the F420-reducing [NiFe]-hydrogenase from a methanogenic archaeon by cryo-electron microscopy",
+      "year": "2013",
+      "volume": "",
+      "source": "eLife",
+      "issue": "",
+      "fpage": "",
+      "lpage": "",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.7554/elife.00218",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": [],
+      "comment": "In press"
+    },
+    "annotation_34": {
+      "type": "subscript",
+      "id": "annotation_34",
+      "path": [
+        "article_citation_bib9",
+        "title"
+      ],
+      "target": null,
+      "range": [
+        26,
+        29
+      ]
+    },
+    "article_citation_bib10": {
+      "type": "article_citation",
+      "id": "article_citation_bib10",
+      "authors": [
+        {
+          "given-names": "FJ",
+          "last-name": "Sigworth"
+        }
+      ],
+      "title": "A maximum-likelihood approach to single-particle image refinement",
+      "year": "1998",
+      "volume": "122",
+      "source": "J Struct Biol",
+      "issue": "",
+      "fpage": "328",
+      "lpage": "39",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1006/jsbi.1998.4014",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib11": {
+      "type": "article_citation",
+      "id": "article_citation_bib11",
+      "authors": [
+        {
+          "given-names": "KA",
+          "last-name": "Taylor"
+        },
+        {
+          "given-names": "RM",
+          "last-name": "Glaeser"
+        }
+      ],
+      "title": "Electron diffraction of frozen, hydrated protein crystals",
+      "year": "1974",
+      "volume": "186",
+      "source": "Science",
+      "issue": "",
+      "fpage": "1036",
+      "lpage": "7",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1126/science.186.4168.1036",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib12": {
+      "type": "article_citation",
+      "id": "article_citation_bib12",
+      "authors": [
+        {
+          "given-names": "M",
+          "last-name": "van Heel"
+        },
+        {
+          "given-names": "J",
+          "last-name": "Frank"
+        }
+      ],
+      "title": "Use of multivariate statistics in analyzing the images of biological macromolecules",
+      "year": "1981",
+      "volume": "6",
+      "source": "Ultramicroscopy",
+      "issue": "",
+      "fpage": "187",
+      "lpage": "94",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/S0304-3991(81)80197-0",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    }
+  }
+}

@@ -1,0 +1,932 @@
+{
+  "id": "00899",
+  "nodes": {
+    "content": {
+      "type": "view",
+      "id": "content",
+      "nodes": [
+        "abstract",
+        "paragraph_3",
+        "paragraph_9",
+        "paragraph_11",
+        "paragraph_12",
+        "paragraph_18",
+        "paragraph_22",
+        "paragraph_24",
+        "paragraph_27",
+        "paragraph_29",
+        "paragraph_32"
+      ]
+    },
+    "figures": {
+      "type": "view",
+      "id": "figures",
+      "nodes": [
+        "box_4",
+        "image_fig1"
+      ]
+    },
+    "citations": {
+      "type": "view",
+      "id": "citations",
+      "nodes": [
+        "article_citation_bib1",
+        "article_citation_bib2",
+        "article_citation_bib3",
+        "article_citation_bib4",
+        "article_citation_bib5",
+        "article_citation_bib6",
+        "article_citation_bib7",
+        "article_citation_bib8",
+        "article_citation_bib9"
+      ]
+    },
+    "document": {
+      "type": "document",
+      "id": "document",
+      "views": [
+        "content",
+        "figures",
+        "citations"
+      ],
+      "guid": "00899",
+      "title": "Immune response is a personal matter",
+      "authors": [
+        "person_author_6137",
+        "person_author_1074"
+      ],
+      "received_on": "",
+      "accepted_on": "",
+      "published_on": "2013-07-16",
+      "journal": "elife",
+      "article_type": "",
+      "keywords": [
+        "Complex-trait genetics",
+        "Vaccines",
+        "Human genetics",
+        "Integrative biology",
+        "Systems biology",
+        "eQTL"
+      ],
+      "research_organisms": [
+        "Human"
+      ],
+      "subjects": [
+        "Human biology and medicine"
+      ],
+      "pdf_link": "",
+      "xml_link": "",
+      "json_link": "",
+      "doi": ""
+    },
+    "person_author_6137": {
+      "type": "person",
+      "id": "person_author_6137",
+      "given-names": "Pedro G",
+      "last-name": "Ferreira",
+      "role": "author",
+      "affiliations": [],
+      "image": "",
+      "contribution": "",
+      "email": "",
+      "funding": []
+    },
+    "person_author_1074": {
+      "type": "person",
+      "id": "person_author_1074",
+      "given-names": "Emmanouil T",
+      "last-name": "Dermitzakis",
+      "role": "author",
+      "affiliations": [],
+      "image": "",
+      "contribution": "",
+      "email": "",
+      "funding": []
+    },
+    "institution_aff1": {
+      "type": "institution",
+      "id": "institution_aff1",
+      "name": "Swiss Institute of Bioinformatics",
+      "city": "Geneva",
+      "country": "Switzerland",
+      "email": "Pedro.DiasFerreira@unige.ch",
+      "image": ""
+    },
+    "institution_aff2": {
+      "type": "institution",
+      "id": "institution_aff2",
+      "name": "Swiss Institute of Bioinformatics",
+      "city": "Geneva",
+      "country": "Switzerland",
+      "email": "emmanouil.dermitzakis@unige.ch",
+      "image": ""
+    },
+    "info:copyright": {
+      "type": "heading",
+      "id": "info:copyright",
+      "level": 2,
+      "content": "Copyright",
+      "nodes": [
+        "paragraph_1"
+      ]
+    },
+    "paragraph_1": {
+      "type": "paragraph",
+      "id": "paragraph_1",
+      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "annotation_2": {
+      "type": "link",
+      "id": "annotation_2",
+      "path": [
+        "paragraph_1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        51,
+        87
+      ],
+      "url": "http://creativecommons.org/licenses/by/3.0/"
+    },
+    "abstract": {
+      "type": "heading",
+      "id": "abstract",
+      "level": 1,
+      "content": "Abstract",
+      "nodes": []
+    },
+    "paragraph_3": {
+      "type": "paragraph",
+      "id": "paragraph_3",
+      "content": "Changes in gene expression could be used to predict whether individuals will respond successfully to the influenza vaccine."
+    },
+    "box_4": {
+      "type": "box",
+      "id": "box_4",
+      "label": "",
+      "url": "",
+      "title": "",
+      "caption": "",
+      "content": "Related research article Franco LM, Bucasas KL, Wells JM, Niño D, Wang X, Zapata GE, Arden N, Renwick A, Yu P, Quarles JM, Bray MS, Couch RB, Belmont JW, Shaw CA. 2013. Integrative genomic analysis of the human immune response to influenza vaccination. eLife 2:e00299. doi: 10.7554/eLife.00299",
+      "doi": ""
+    },
+    "annotation_5": {
+      "type": "strong",
+      "id": "annotation_5",
+      "path": [
+        "box_4",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        24
+      ]
+    },
+    "annotation_6": {
+      "type": "emphasis",
+      "id": "annotation_6",
+      "path": [
+        "box_4",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        253,
+        258
+      ]
+    },
+    "annotation_7": {
+      "type": "strong",
+      "id": "annotation_7",
+      "path": [
+        "box_4",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        259,
+        260
+      ]
+    },
+    "annotation_8": {
+      "type": "link",
+      "id": "annotation_8",
+      "path": [
+        "box_4",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        274,
+        293
+      ],
+      "url": "http://dx.doi.org/10.7554/eLife.00299"
+    },
+    "paragraph_9": {
+      "type": "paragraph",
+      "id": "paragraph_9",
+      "content": "Image Many genes show altered expression in response to the influenza vaccine"
+    },
+    "annotation_10": {
+      "type": "strong",
+      "id": "annotation_10",
+      "path": [
+        "paragraph_9",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        5
+      ]
+    },
+    "paragraph_11": {
+      "type": "paragraph",
+      "id": "paragraph_11",
+      "content": ""
+    },
+    "paragraph_12": {
+      "type": "paragraph",
+      "id": "paragraph_12",
+      "content": "Seasonal influenza is estimated to kill up to half a million people every year according to the World Health Organization, and the death toll would be even higher were it not for the availability of a vaccine. However, individuals differ in their response to vaccination, with some producing relatively few antibodies and thus receiving limited protection against the influenza virus. Now, in eLife, John Belmont and Chad Shaw at Baylor College of Medicine and co-workers report new insights into the genetic and environmental factors that determine how an individual responds to the seasonal influenza vaccine (Franco et al., 2013). The effects of such factors can be probed by measuring any changes in gene expression (Morley et al., 2004; Stranger et al., 2007; Emilsson et al., 2008)."
+    },
+    "annotation_13": {
+      "type": "emphasis",
+      "id": "annotation_13",
+      "path": [
+        "paragraph_12",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        393,
+        398
+      ]
+    },
+    "citation_reference_14": {
+      "type": "citation_reference",
+      "id": "citation_reference_14",
+      "path": [
+        "paragraph_12",
+        "content"
+      ],
+      "target": "article_citation_bib4",
+      "range": [
+        612,
+        631
+      ]
+    },
+    "citation_reference_15": {
+      "type": "citation_reference",
+      "id": "citation_reference_15",
+      "path": [
+        "paragraph_12",
+        "content"
+      ],
+      "target": "article_citation_bib6",
+      "range": [
+        721,
+        740
+      ]
+    },
+    "citation_reference_16": {
+      "type": "citation_reference",
+      "id": "citation_reference_16",
+      "path": [
+        "paragraph_12",
+        "content"
+      ],
+      "target": "article_citation_bib9",
+      "range": [
+        742,
+        763
+      ]
+    },
+    "citation_reference_17": {
+      "type": "citation_reference",
+      "id": "citation_reference_17",
+      "path": [
+        "paragraph_12",
+        "content"
+      ],
+      "target": "article_citation_bib3",
+      "range": [
+        765,
+        786
+      ]
+    },
+    "paragraph_18": {
+      "type": "paragraph",
+      "id": "paragraph_18",
+      "content": "To examine the effects of influenza vaccination on gene expression, Belmont, Shaw and colleagues—including Luis Franco as first author—took blood samples from individuals before they were vaccinated against influenza, and at two time points afterwards. They sequenced the genomes of the individuals, and also measured the abundance of the corresponding mRNA transcripts at all three time points. In their first cohort of subjects, which consisted of 199 males, Franco et al. identified all the genes that showed altered transcription following vaccination, and where there was also evidence for genetic regulation of this effect by eQTLs (expression quantitative trait loci; these are genetic variants that regulate the expression of other genes; Figure 1). They were able to reproduce the majority of these associations in a second independent cohort of 128 females."
+    },
+    "figure_reference_19": {
+      "type": "figure_reference",
+      "id": "figure_reference_19",
+      "path": [
+        "paragraph_18",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        747,
+        755
+      ]
+    },
+    "image_fig1": {
+      "type": "image",
+      "id": "image_fig1",
+      "label": "Figure 1.",
+      "url": "",
+      "object_id": "F1",
+      "title": "",
+      "content_type": "",
+      "large_url": "",
+      "content": "",
+      "group": [
+        "parent",
+        null
+      ],
+      "doi": "",
+      "caption": "paragraph_image_fig1",
+      "graphic_id": "elife00899f001"
+    },
+    "paragraph_image_fig1": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig1",
+      "content": "Lower panel: Genetic variants that regulate the expression of other genes are known as expression quantitative trait loci (eQTL) and they are typically found close to the transcription start site (arrow) of the gene that they regulate (blue rectangle). However, they also occur in exons and may thus affect the structure and stability of messenger RNA transcripts (Montgomery et al., 2010; Pickrell et al., 2010). Upper panel: Left, although the majority of genes do not show altered expression in response to vaccination, a minority do show different levels of expression before and afterwards. Centre, these changes in expression are influenced by the individual’s genotype at other loci. Right, for some genes, changes in expression correlate with the individual’s antibody response to vaccination. These genes could be used as biomarkers to predict whether an individual will respond successfully to a vaccine."
+    },
+    "citation_reference_20": {
+      "type": "citation_reference",
+      "id": "citation_reference_20",
+      "path": [
+        "paragraph_image_fig1",
+        "content"
+      ],
+      "target": "article_citation_bib5",
+      "range": [
+        365,
+        388
+      ]
+    },
+    "citation_reference_21": {
+      "type": "citation_reference",
+      "id": "citation_reference_21",
+      "path": [
+        "paragraph_image_fig1",
+        "content"
+      ],
+      "target": "article_citation_bib7",
+      "range": [
+        390,
+        411
+      ]
+    },
+    "paragraph_22": {
+      "type": "paragraph",
+      "id": "paragraph_22",
+      "content": "Using these data, Franco et al. then identified those genes for which the magnitude of the genotype effect had changed over time. Next they factored in antibody response to the vaccine, and determined which genetic loci showed changes in expression that correlated with the number of antibodies produced (Figure 1C). This narrowed down their list of genes to 20, each of which may have potential as a biomarker that could predict an individual’s response to the influenza vaccine."
+    },
+    "figure_reference_23": {
+      "type": "figure_reference",
+      "id": "figure_reference_23",
+      "path": [
+        "paragraph_22",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        305,
+        314
+      ]
+    },
+    "paragraph_24": {
+      "type": "paragraph",
+      "id": "paragraph_24",
+      "content": "Finally, Franco et al. applied specific statistical methods (Schadt et al., 2005) to their data to infer the relationship between genotype, gene expression levels and antibody response. The limited power of the analysis meant that they were unable to draw definitive conclusions about the causal nature of the relationship between these three components. Nevertheless, their results suggest a causal model in which an individual’s genotype influences their antibody response through changes in gene expression. The use of larger cohorts in future experiments will help to further elucidate these relationships and will avoid false positives resulting, for instance, from situations where the error in gene expression measurements is larger than that in antibody response measurements (Schadt et al., 2005)."
+    },
+    "citation_reference_25": {
+      "type": "citation_reference",
+      "id": "citation_reference_25",
+      "path": [
+        "paragraph_24",
+        "content"
+      ],
+      "target": "article_citation_bib8",
+      "range": [
+        61,
+        80
+      ]
+    },
+    "citation_reference_26": {
+      "type": "citation_reference",
+      "id": "citation_reference_26",
+      "path": [
+        "paragraph_24",
+        "content"
+      ],
+      "target": "article_citation_bib8",
+      "range": [
+        785,
+        804
+      ]
+    },
+    "paragraph_27": {
+      "type": "paragraph",
+      "id": "paragraph_27",
+      "content": "A natural follow-up to this study would be to integrate data from other high-throughput sequence-based studies such as the ENCODE project (Dunham et al., 2012), which provide a wealth of information about various different elements across the genome. This will help us to understand the possible functional impact of eQTLs, especially those that fall in non-coding regulatory regions and correspond to transcription factor binding sites, chromatin marks or histone modification sites."
+    },
+    "citation_reference_28": {
+      "type": "citation_reference",
+      "id": "citation_reference_28",
+      "path": [
+        "paragraph_27",
+        "content"
+      ],
+      "target": "article_citation_bib2",
+      "range": [
+        139,
+        158
+      ]
+    },
+    "paragraph_29": {
+      "type": "paragraph",
+      "id": "paragraph_29",
+      "content": "Application of high-throughput sequencing will provide further important insights into the transcriptome changes. For example, by quantifying the level of alternative splicing, it will be possible to detect transcriptional changes at the locus level and also at the transcript level. Additionally, it will become possible to detect sites where transcription occurs predominantly from one allele (Montgomery et al., 2010; Pickrell et al., 2010). We also anticipate a flurry of longitudinal studies in the near future: these might involve an external challenge, such as the vaccine in this study, or they might involve recording the changes in transcription that occur as a result of the natural environmental processes acting on an individual."
+    },
+    "citation_reference_30": {
+      "type": "citation_reference",
+      "id": "citation_reference_30",
+      "path": [
+        "paragraph_29",
+        "content"
+      ],
+      "target": "article_citation_bib5",
+      "range": [
+        396,
+        419
+      ]
+    },
+    "citation_reference_31": {
+      "type": "citation_reference",
+      "id": "citation_reference_31",
+      "path": [
+        "paragraph_29",
+        "content"
+      ],
+      "target": "article_citation_bib7",
+      "range": [
+        421,
+        442
+      ]
+    },
+    "paragraph_32": {
+      "type": "paragraph",
+      "id": "paragraph_32",
+      "content": "The genomic and transcriptomic biomarkers identified in this study are still preliminary and require further investigation, but they may make it possible to anticipate individual responses to vaccines, which would allow for a more targeted vaccination strategy. The study design demonstrates the power of longitudinal analysis to capture the complexity and the dynamics of human biological systems in the response to disease or environmental stimuli. It also represents yet another step toward personalized and precision medicine (Chen et al., 2012)."
+    },
+    "citation_reference_33": {
+      "type": "citation_reference",
+      "id": "citation_reference_33",
+      "path": [
+        "paragraph_32",
+        "content"
+      ],
+      "target": "article_citation_bib1",
+      "range": [
+        531,
+        548
+      ]
+    },
+    "info:competing-interest": {
+      "type": "heading",
+      "id": "info:competing-interest",
+      "level": 2,
+      "content": "Competing Interests",
+      "nodes": [
+        "paragraph_34"
+      ]
+    },
+    "paragraph_34": {
+      "type": "paragraph",
+      "id": "paragraph_34",
+      "content": "Competing interests:The authors declare that no competing interests exist.References"
+    },
+    "article_citation_bib1": {
+      "type": "article_citation",
+      "id": "article_citation_bib1",
+      "authors": [
+        {
+          "given-names": "R",
+          "last-name": "Chen"
+        },
+        {
+          "given-names": "GI",
+          "last-name": "Mias"
+        },
+        {
+          "given-names": "J",
+          "last-name": "Li-Pook-Than"
+        },
+        {
+          "given-names": "L",
+          "last-name": "Jiang"
+        },
+        {
+          "given-names": "HY",
+          "last-name": "Lam"
+        },
+        {
+          "given-names": "R",
+          "last-name": "Chen"
+        }
+      ],
+      "title": "Personal omics profiling reveals dynamic molecular and medical phenotypes",
+      "year": "2012",
+      "volume": "148",
+      "source": "Cell",
+      "issue": "",
+      "fpage": "1293",
+      "lpage": "307",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/j.cell.2012.02.009",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib2": {
+      "type": "article_citation",
+      "id": "article_citation_bib2",
+      "authors": [
+        {
+          "given-names": "I",
+          "last-name": "Dunham"
+        },
+        {
+          "given-names": "A",
+          "last-name": "Kundaje"
+        },
+        {
+          "given-names": "SF",
+          "last-name": "Aldred"
+        },
+        {
+          "given-names": "PJ",
+          "last-name": "Collins"
+        },
+        {
+          "given-names": "CA",
+          "last-name": "Davis"
+        },
+        {
+          "given-names": "F",
+          "last-name": "Doyle"
+        }
+      ],
+      "title": "An integrated encyclopedia of DNA elements in the human genome",
+      "year": "2012",
+      "volume": "489",
+      "source": "Nature",
+      "issue": "",
+      "fpage": "57",
+      "lpage": "74",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1038/nature11247",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib3": {
+      "type": "article_citation",
+      "id": "article_citation_bib3",
+      "authors": [
+        {
+          "given-names": "V",
+          "last-name": "Emilsson"
+        },
+        {
+          "given-names": "G",
+          "last-name": "Thorleifsson"
+        },
+        {
+          "given-names": "B",
+          "last-name": "Zhang"
+        },
+        {
+          "given-names": "AS",
+          "last-name": "Leonardson"
+        },
+        {
+          "given-names": "F",
+          "last-name": "Zink"
+        },
+        {
+          "given-names": "J",
+          "last-name": "Zhu"
+        }
+      ],
+      "title": "Genetics of gene expression and its effect on disease",
+      "year": "2008",
+      "volume": "452",
+      "source": "Nature",
+      "issue": "",
+      "fpage": "423",
+      "lpage": "8",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1038/nature06758",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib4": {
+      "type": "article_citation",
+      "id": "article_citation_bib4",
+      "authors": [
+        {
+          "given-names": "LM",
+          "last-name": "Franco"
+        },
+        {
+          "given-names": "KL",
+          "last-name": "Bucasas"
+        },
+        {
+          "given-names": "JM",
+          "last-name": "Wells"
+        },
+        {
+          "given-names": "D",
+          "last-name": "Niño"
+        },
+        {
+          "given-names": "X",
+          "last-name": "Wang"
+        },
+        {
+          "given-names": "GE",
+          "last-name": "Zapata"
+        }
+      ],
+      "title": "Integrative genomic analysis of the human response to influenza vaccination",
+      "year": "2013",
+      "volume": "2",
+      "source": "eLife",
+      "issue": "",
+      "fpage": "e00299",
+      "lpage": "",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.7554/eLife.00299",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib5": {
+      "type": "article_citation",
+      "id": "article_citation_bib5",
+      "authors": [
+        {
+          "given-names": "SB",
+          "last-name": "Montgomery"
+        },
+        {
+          "given-names": "M",
+          "last-name": "Sammeth"
+        },
+        {
+          "given-names": "M",
+          "last-name": "Gutierrez-Arcelus"
+        },
+        {
+          "given-names": "RP",
+          "last-name": "Lach"
+        },
+        {
+          "given-names": "C",
+          "last-name": "Ingle"
+        },
+        {
+          "given-names": "J",
+          "last-name": "Nisbett"
+        }
+      ],
+      "title": "Transcriptome genetics using second generation sequencing in a Caucasian population",
+      "year": "2010",
+      "volume": "464",
+      "source": "Nature",
+      "issue": "",
+      "fpage": "773",
+      "lpage": "7",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1038/nature08903",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib6": {
+      "type": "article_citation",
+      "id": "article_citation_bib6",
+      "authors": [
+        {
+          "given-names": "M",
+          "last-name": "Morley"
+        },
+        {
+          "given-names": "CM",
+          "last-name": "Molony"
+        },
+        {
+          "given-names": "TM",
+          "last-name": "Weber"
+        },
+        {
+          "given-names": "JL",
+          "last-name": "Devlin"
+        },
+        {
+          "given-names": "KG",
+          "last-name": "Ewens"
+        },
+        {
+          "given-names": "RS",
+          "last-name": "Spielman"
+        }
+      ],
+      "title": "Genetic analysis of genome-wide variation in human gene expression",
+      "year": "2004",
+      "volume": "430",
+      "source": "Nature",
+      "issue": "",
+      "fpage": "743",
+      "lpage": "7",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1038/nature02797",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib7": {
+      "type": "article_citation",
+      "id": "article_citation_bib7",
+      "authors": [
+        {
+          "given-names": "JK",
+          "last-name": "Pickrell"
+        },
+        {
+          "given-names": "JC",
+          "last-name": "Marioni"
+        },
+        {
+          "given-names": "AA",
+          "last-name": "Pai"
+        },
+        {
+          "given-names": "JF",
+          "last-name": "Degner"
+        },
+        {
+          "given-names": "BE",
+          "last-name": "Engelhardt"
+        },
+        {
+          "given-names": "E",
+          "last-name": "Nkadori"
+        }
+      ],
+      "title": "Understanding mechanisms underlying human gene expression variation with RNA sequencing",
+      "year": "2010",
+      "volume": "464",
+      "source": "Nature",
+      "issue": "",
+      "fpage": "768",
+      "lpage": "72",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1038/nature08872",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib8": {
+      "type": "article_citation",
+      "id": "article_citation_bib8",
+      "authors": [
+        {
+          "given-names": "EE",
+          "last-name": "Schadt"
+        },
+        {
+          "given-names": "J",
+          "last-name": "Lamb"
+        },
+        {
+          "given-names": "X",
+          "last-name": "Yang"
+        },
+        {
+          "given-names": "J",
+          "last-name": "Zhu"
+        },
+        {
+          "given-names": "S",
+          "last-name": "Edwards"
+        },
+        {
+          "given-names": "D",
+          "last-name": "Guhathakurta"
+        }
+      ],
+      "title": "An integrative genomics approach to infer causal associations between gene expression and disease",
+      "year": "2005",
+      "volume": "37",
+      "source": "Nat Genet",
+      "issue": "",
+      "fpage": "710",
+      "lpage": "7",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1038/ng1589",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib9": {
+      "type": "article_citation",
+      "id": "article_citation_bib9",
+      "authors": [
+        {
+          "given-names": "BE",
+          "last-name": "Stranger"
+        },
+        {
+          "given-names": "AC",
+          "last-name": "Nica"
+        },
+        {
+          "given-names": "MS",
+          "last-name": "Forrest"
+        },
+        {
+          "given-names": "A",
+          "last-name": "Dimas"
+        },
+        {
+          "given-names": "CP",
+          "last-name": "Bird"
+        },
+        {
+          "given-names": "C",
+          "last-name": "Beazley"
+        }
+      ],
+      "title": "Population genomics of human gene expression",
+      "year": "2007",
+      "volume": "39",
+      "source": "Nat Genet",
+      "issue": "",
+      "fpage": "1217",
+      "lpage": "24",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1038/ng2142",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    }
+  }
+}

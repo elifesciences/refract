@@ -80,6 +80,35 @@
         "paragraph_342",
         "paragraph_344",
         "paragraph_346",
+        "heading_s4-8",
+        "heading_s4-8-1",
+        "paragraph_349",
+        "heading_s4-8-2",
+        "paragraph_354",
+        "paragraph_358",
+        "paragraph_360",
+        "paragraph_361",
+        "paragraph_365",
+        "heading_s4-8-3",
+        "paragraph_367",
+        "paragraph_370",
+        "heading_s4-9",
+        "paragraph_373",
+        "paragraph_375",
+        "paragraph_379",
+        "paragraph_381",
+        "paragraph_382",
+        "heading_s4-10",
+        "paragraph_384",
+        "heading_s4-11",
+        "paragraph_387",
+        "paragraph_388",
+        "paragraph_390",
+        "paragraph_391",
+        "paragraph_392",
+        "heading_s4-12",
+        "paragraph_394",
+        "sub-article",
         "sub-article"
       ]
     },
@@ -114,7 +143,57 @@
     "citations": {
       "type": "view",
       "id": "citations",
-      "nodes": []
+      "nodes": [
+        "article_citation_bib1",
+        "article_citation_bib2",
+        "article_citation_bib3",
+        "article_citation_bib4",
+        "article_citation_bib5",
+        "article_citation_bib6",
+        "article_citation_bib7",
+        "article_citation_bib8",
+        "article_citation_bib9",
+        "article_citation_bib10",
+        "article_citation_bib11",
+        "article_citation_bib12",
+        "article_citation_bib13",
+        "article_citation_bib14",
+        "article_citation_bib15",
+        "article_citation_bib16",
+        "article_citation_bib17",
+        "article_citation_bib18",
+        "article_citation_bib19",
+        "article_citation_bib20",
+        "article_citation_bib21",
+        "article_citation_bib22",
+        "article_citation_bib23",
+        "article_citation_bib24",
+        "article_citation_bib25",
+        "article_citation_bib26",
+        "article_citation_bib27",
+        "article_citation_bib28",
+        "article_citation_bib29",
+        "article_citation_bib30",
+        "article_citation_bib31",
+        "article_citation_bib32",
+        "article_citation_bib33",
+        "article_citation_bib34",
+        "article_citation_bib35",
+        "article_citation_bib36",
+        "article_citation_bib37",
+        "article_citation_bib38",
+        "article_citation_bib39",
+        "article_citation_bib40",
+        "article_citation_bib41",
+        "article_citation_bib42",
+        "article_citation_bib43",
+        "article_citation_bib44",
+        "article_citation_bib45",
+        "article_citation_bib46",
+        "article_citation_bib47",
+        "article_citation_bib48",
+        "article_citation_bib49"
+      ]
     },
     "document": {
       "type": "document",
@@ -1926,7 +2005,7 @@
         "paragraph_118",
         "content"
       ],
-      "target": "image_fig2s1 fig2s2 fig2s3 fig2s4 fig2s5 fig2s6",
+      "target": "image_fig2s1",
       "range": [
         202,
         232
@@ -2395,9 +2474,9 @@
         744
       ]
     },
-    "cross_reference_153": {
-      "type": "cross_reference",
-      "id": "cross_reference_153",
+    "figure_reference_153": {
+      "type": "figure_reference",
+      "id": "figure_reference_153",
       "path": [
         "paragraph_140",
         "content"
@@ -3539,9 +3618,9 @@
         177
       ]
     },
-    "cross_reference_239": {
-      "type": "cross_reference",
-      "id": "cross_reference_239",
+    "figure_reference_239": {
+      "type": "figure_reference",
+      "id": "figure_reference_239",
       "path": [
         "paragraph_237",
         "content"
@@ -4879,6 +4958,214 @@
       "id": "paragraph_table_tbl1",
       "content": "Number of sequences and statistics for the different sequencing datasets"
     },
+    "heading_s4-8": {
+      "type": "heading",
+      "id": "heading_s4-8",
+      "level": 2,
+      "content": "Analysis of Nascent-Seq and RNA-Seq datasets",
+      "nodes": []
+    },
+    "heading_s4-8-1": {
+      "type": "heading",
+      "id": "heading_s4-8-1",
+      "level": 3,
+      "content": "Alignment to the mouse genome (mm9 version)",
+      "nodes": []
+    },
+    "paragraph_349": {
+      "type": "paragraph",
+      "id": "paragraph_349",
+      "content": "Sequences (fastq format) were first mapped with tophat (Trapnell et al., 2009) using the following criteria: -m 1 -g 1 --microexonsearch --no-closure-search -I 500000 (command line: tophat -m 1 -F 0 -g 1 --microexon-search --no-closure-search -G ../exon20110528mm.gtf --phred64-quals -I 500000 -o ZT4_2_tophat.out /data/analysis/fasta/mm9 /data/sequence/Nascent_ZT4_2.fastq). About 65–70% of the Nascent-Seq sequences uniquely mapped to the mouse genome, even though no rRNA removal has been performed. Uniquely mapped sequences from the tophat output files (bam format) were then used for further analysis. Wig files, used for signal visualization with the Integrated Genome Browser (Nicol et al., 2009), were created as described in UCSC website (ftp://hgdownload.cse.ucsc.edu/apache/htdocs-rr/goldenPath/help/bedgraph.html) and normalized to uniquely mapped reads. The normalization factor used for normalization is indicated in the last column of the Table 1."
+    },
+    "citation_reference_350": {
+      "type": "citation_reference",
+      "id": "citation_reference_350",
+      "path": [
+        "paragraph_349",
+        "content"
+      ],
+      "target": "article_citation_bib39",
+      "range": [
+        56,
+        77
+      ]
+    },
+    "citation_reference_351": {
+      "type": "citation_reference",
+      "id": "citation_reference_351",
+      "path": [
+        "paragraph_349",
+        "content"
+      ],
+      "target": "article_citation_bib29",
+      "range": [
+        685,
+        703
+      ]
+    },
+    "annotation_352": {
+      "type": "link",
+      "id": "annotation_352",
+      "path": [
+        "paragraph_349",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        749,
+        825
+      ],
+      "url": "ftp://hgdownload.cse.ucsc.edu/apache/htdocs-rr/goldenPath/help/bedgraph.html"
+    },
+    "figure_reference_353": {
+      "type": "figure_reference",
+      "id": "figure_reference_353",
+      "path": [
+        "paragraph_349",
+        "content"
+      ],
+      "target": "table_tbl1",
+      "range": [
+        955,
+        962
+      ]
+    },
+    "heading_s4-8-2": {
+      "type": "heading",
+      "id": "heading_s4-8-2",
+      "level": 3,
+      "content": "Quantification of gene signal",
+      "nodes": []
+    },
+    "paragraph_354": {
+      "type": "paragraph",
+      "id": "paragraph_354",
+      "content": "Quantification of nascent RNA and mRNA signal has been calculated from the Nascent-Seq and RNA-Seq datasets using custom-written perl and mysql scripts (see Source code 1). No quantification was performed using the strand-specific Nascent-Seq datasets. To allow direct comparison between the Nascent-Seq and RNA-Seq datasets, and because many genes have another gene coding for non-coding RNA expressed within their introns (e.g., Camk2b, Figure 2F), the gene signal was calculated by only considering the sequences mapping to exons. Moreover, because ‘only’ approximately 13% of the Nascent-Seq signal is mapped to exons (most of the signal is intronic), we reached a higher sequencing depth for the Nascent-Seq samples (>15,000,000 uniquely mapped sequences for all samples, representing a minimum of 160,000,000 nucleotides mapping to the transcriptome)."
+    },
+    "figure_reference_355": {
+      "type": "figure_reference",
+      "id": "figure_reference_355",
+      "path": [
+        "paragraph_354",
+        "content"
+      ],
+      "target": "supplement_SD5_data",
+      "range": [
+        157,
+        170
+      ]
+    },
+    "annotation_356": {
+      "type": "emphasis",
+      "id": "annotation_356",
+      "path": [
+        "paragraph_354",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        431,
+        437
+      ]
+    },
+    "figure_reference_357": {
+      "type": "figure_reference",
+      "id": "figure_reference_357",
+      "path": [
+        "paragraph_354",
+        "content"
+      ],
+      "target": "image_fig2",
+      "range": [
+        439,
+        448
+      ]
+    },
+    "paragraph_358": {
+      "type": "paragraph",
+      "id": "paragraph_358",
+      "content": "To allow comparison between the Nascent-Seq and RNA-Seq datasets, individual gene signal was quantitated as previously described (Rodriguez et al., 2012) by calculating the number of reads mapping to all exons (regardless of the isoforms) and by normalizing this number to the total exon length (hence the signal was called Reads per Base Pair, or rpbp). This rpbp number was then normalized to the sample sequencing depth (uniquely mapped sequences) and used for further analysis (see below)."
+    },
+    "citation_reference_359": {
+      "type": "citation_reference",
+      "id": "citation_reference_359",
+      "path": [
+        "paragraph_358",
+        "content"
+      ],
+      "target": "article_citation_bib32",
+      "range": [
+        130,
+        152
+      ]
+    },
+    "paragraph_360": {
+      "type": "paragraph",
+      "id": "paragraph_360",
+      "content": "Determination of rpbp threshold: the rpbp threshold has been determined so that the difference in gene signal reflects biological variation rather than low sequencing depth. To this end, we took advantage of libraries sequenced on two independent flow-cell lanes and with a similar number of sequences in each lane (e.g., Nascent-Seq, replicate 1, ZT8; 19,207,641 and 20,364,883 sequences respectively)."
+    },
+    "paragraph_361": {
+      "type": "paragraph",
+      "id": "paragraph_361",
+      "content": "We first assayed the correlation between gene signals of the two duplicates: the correlation is very good for high values of rpbp, and progressively decreases as the rpbp decreases (Figure 1G). The variation of gene signal that results from low sequencing depth was then determined by calculating the standard deviation to the mean (z-score) for every gene between the two duplicates (Figure 1H). As expected, the z-score is low for high rpbp and increases with lower gene signal, reflecting a progressive decrease of sequencing depth (Figure 1H)."
+    },
+    "figure_reference_362": {
+      "type": "figure_reference",
+      "id": "figure_reference_362",
+      "path": [
+        "paragraph_361",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        182,
+        191
+      ]
+    },
+    "figure_reference_363": {
+      "type": "figure_reference",
+      "id": "figure_reference_363",
+      "path": [
+        "paragraph_361",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        385,
+        394
+      ]
+    },
+    "figure_reference_364": {
+      "type": "figure_reference",
+      "id": "figure_reference_364",
+      "path": [
+        "paragraph_361",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        536,
+        545
+      ]
+    },
+    "paragraph_365": {
+      "type": "paragraph",
+      "id": "paragraph_365",
+      "content": "Analysis of this variation allowed us to determine the rpbp threshold. Indeed, among genes with a rpbp superior to 2, less than 6.7% display a variation of more than 1.3-fold between the two duplicates (432/6486) and only 88 genes (1.36%) display a variation of more than 1.5-fold (88/6486; see Table 2). Moreover, the majority of these genes are relatively short (<1 kb), hence contributing for some of the variability. This analysis therefore indicates that a rpbp of 2–3 (for datasets with ∼20,000,000 uniquely mapped sequences of 80 nt) can be used as a threshold to detect biological variation of nascent RNA expression."
+    },
+    "figure_reference_366": {
+      "type": "figure_reference",
+      "id": "figure_reference_366",
+      "path": [
+        "paragraph_365",
+        "content"
+      ],
+      "target": "table_tbl2",
+      "range": [
+        295,
+        302
+      ]
+    },
     "table_tbl2": {
       "type": "table",
       "id": "table_tbl2",
@@ -4895,6 +5182,373 @@
       "id": "paragraph_table_tbl2",
       "content": "Determination of the rpbp threshold for the Nascent-Seq dataset"
     },
+    "heading_s4-8-3": {
+      "type": "heading",
+      "id": "heading_s4-8-3",
+      "level": 3,
+      "content": "Statistics about the levels of expression",
+      "nodes": []
+    },
+    "paragraph_367": {
+      "type": "paragraph",
+      "id": "paragraph_367",
+      "content": "Nascent-Seq ZT0, ZT4, ZT12 and ZT16 samples exhibit a relatively similar profile of expression, whereas Nascent-Seq ZT8 and ZT20 samples show higher values because of the higher sequencing depth. For samples with less sequencing coverage, a minimum of 8800 genes have a rpbp >1 (from 8868 for ZT16_rep2 to 10419 for ZT0_rep2), 5100 genes have a rpbp > 2 (from 5121 to 6999) and 3200 genes have a rpbp > 3 (from 3215 to 4795). More than 1000 genes have a rpbp > 10 in every samples. A file containing the normalized rpbp for all UCSC genes is available in supplementary material (Figure 2—source data 1). The normalization to sequencing depth (uniquely mapped sequences) was performed using the normalization factors displayed in the Table 1."
+    },
+    "figure_reference_368": {
+      "type": "figure_reference",
+      "id": "figure_reference_368",
+      "path": [
+        "paragraph_367",
+        "content"
+      ],
+      "target": "supplement_SD1_data",
+      "range": [
+        579,
+        601
+      ]
+    },
+    "figure_reference_369": {
+      "type": "figure_reference",
+      "id": "figure_reference_369",
+      "path": [
+        "paragraph_367",
+        "content"
+      ],
+      "target": "table_tbl1",
+      "range": [
+        733,
+        740
+      ]
+    },
+    "paragraph_370": {
+      "type": "paragraph",
+      "id": "paragraph_370",
+      "content": "All RNA-Seq samples exhibit a relatively similar profile of expression, reflecting the low variation in sequencing depth between the samples. A minimum of 8800 genes have a rpbp >1 (from 8868 for ZT16_rep2 to 10419 for ZT0_rep2), 5100 genes have a rpbp > 2 (from 5121 to 6999) and 3200 genes have a rpbp > 3 (from 3215 to 4795). More than 1000 genes have a rpbp > 10 in every sample. A file containing the normalized rpbp for all UCSC genes is available in supplementary material (Figure 3—source data 2). The normalization to sequencing depth (uniquely mapped sequences) was performed using the normalization factors displayed in the Table 1."
+    },
+    "figure_reference_371": {
+      "type": "figure_reference",
+      "id": "figure_reference_371",
+      "path": [
+        "paragraph_370",
+        "content"
+      ],
+      "target": "supplement_SD3_data",
+      "range": [
+        481,
+        503
+      ]
+    },
+    "figure_reference_372": {
+      "type": "figure_reference",
+      "id": "figure_reference_372",
+      "path": [
+        "paragraph_370",
+        "content"
+      ],
+      "target": "table_tbl1",
+      "range": [
+        635,
+        642
+      ]
+    },
+    "heading_s4-9": {
+      "type": "heading",
+      "id": "heading_s4-9",
+      "level": 2,
+      "content": "Analysis of ChIP-Seq datasets",
+      "nodes": []
+    },
+    "paragraph_373": {
+      "type": "paragraph",
+      "id": "paragraph_373",
+      "content": "Sequences from the different libraries (fastq format) were first mapped to the mouse genome (version mm9) using bowtie (Langmead et al., 2009) with the command line: bowtie –q –a –-best –m 1. Only those that mapped uniquely to the mouse genome were used for further analysis, and their number has been used for normalization to compare signal difference between libraries."
+    },
+    "citation_reference_374": {
+      "type": "citation_reference",
+      "id": "citation_reference_374",
+      "path": [
+        "paragraph_373",
+        "content"
+      ],
+      "target": "article_citation_bib22",
+      "range": [
+        120,
+        141
+      ]
+    },
+    "paragraph_375": {
+      "type": "paragraph",
+      "id": "paragraph_375",
+      "content": "ChIP-seq libraries were analyzed with the MACS algorithm (Zhang et al., 2008) by comparing the treatment sample (BMAL1 or CLK ChIP) to the control sample (Input) using the following criteria: effective genome size = 1.89 × 109, tag size = 36, band width = 80, model fold = 5, p-value cutoff = 1 × 10−5. Significant peaks were computationally assigned to a gene. Briefly, a peak located between the transcription start site and the transcription start end of a gene was assigned to that gene, regardless of the ChIP-Seq peak position. The other peaks, referred as intergenic, were assigned to the gene with the closest transcription start site. Confirmation of this computational gene assignment was then confirmed by manual inspection for the 211 CLK:BMAL1 peaks. Visualization of the ChIP-seq signal was performed using the wig output file (from the MACS analysis) and the IGB browser."
+    },
+    "citation_reference_376": {
+      "type": "citation_reference",
+      "id": "citation_reference_376",
+      "path": [
+        "paragraph_375",
+        "content"
+      ],
+      "target": "article_citation_bib49",
+      "range": [
+        58,
+        76
+      ]
+    },
+    "annotation_377": {
+      "type": "superscript",
+      "id": "annotation_377",
+      "path": [
+        "paragraph_375",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        225,
+        226
+      ]
+    },
+    "annotation_378": {
+      "type": "superscript",
+      "id": "annotation_378",
+      "path": [
+        "paragraph_375",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        299,
+        301
+      ]
+    },
+    "paragraph_379": {
+      "type": "paragraph",
+      "id": "paragraph_379",
+      "content": "Overlap between CLK and BMAL1 DNA binding peaks has been determined computationally using all significant peaks coordinates. Any overlap between the two peaks (even of one nucleotide) was considered significant. Quantification of the signal has been extracted from the raw data (number of reads per bp) normalized to sequencing depth of each library. For most experiments (e.g., Figure 7A,B), signal was binned using a 25 bp window."
+    },
+    "figure_reference_380": {
+      "type": "figure_reference",
+      "id": "figure_reference_380",
+      "path": [
+        "paragraph_379",
+        "content"
+      ],
+      "target": "image_fig7",
+      "range": [
+        379,
+        390
+      ]
+    },
+    "paragraph_381": {
+      "type": "paragraph",
+      "id": "paragraph_381",
+      "content": "Quantification of the number of e-boxes within BMAL1 and CLK DNA binding peaks has been performed computationally using peak fasta sequences. Enrichment has been calculated using the number of e-boxes found at a fixed position from the peak center divided by the expected number of e-boxes. The maximal window size (difference from the fixed position and the peak center) was 500 nt, as the number of expected e-boxes dropped to the background at this window size."
+    },
+    "paragraph_382": {
+      "type": "paragraph",
+      "id": "paragraph_382",
+      "content": "Motif analysis has been performed using MEME suite (http://meme.sdsc.edu/meme/intro.html), using a 100 bp sequence for each peak (peak center ± 50 bp). Parameters were as follow: -dna -mod anr -nmotifs 20 -minw 6 -maxw 30. The background model contained the same nucleotide distribution as the input file. Significant motifs were then analyzed using TOMTOM from MEME suite."
+    },
+    "annotation_383": {
+      "type": "link",
+      "id": "annotation_383",
+      "path": [
+        "paragraph_382",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        52,
+        88
+      ],
+      "url": "http://meme.sdsc.edu/meme/intro.html"
+    },
+    "heading_s4-10": {
+      "type": "heading",
+      "id": "heading_s4-10",
+      "level": 2,
+      "content": "Gene ontology of genes with high and low Nascent-Seq/RNA-Seq signal ratio",
+      "nodes": []
+    },
+    "paragraph_384": {
+      "type": "paragraph",
+      "id": "paragraph_384",
+      "content": "Gene signal (reads per base pair) was averaged for the 12 time points, and the ratio Nascent RNA/mRNA was calculated. Genes with a ratio over 2 SD from the average of all ratios were selected for gene ontology (GO) analysis; 302 genes had a Nascent-Seq/RNA-Seq ratio below 2 SD and 463 genes had a ratio over 2 SD. 13595 genes were considered for this analysis. GO analysis has been performed using GOToolBox (Martin et al., 2004) (http://genome.crg.es/GOToolBox/), using an hypergeometric test with Benjamini-Hochberg correction. The background model consisted of the entire list of genes."
+    },
+    "citation_reference_385": {
+      "type": "citation_reference",
+      "id": "citation_reference_385",
+      "path": [
+        "paragraph_384",
+        "content"
+      ],
+      "target": "article_citation_bib25",
+      "range": [
+        410,
+        429
+      ]
+    },
+    "annotation_386": {
+      "type": "link",
+      "id": "annotation_386",
+      "path": [
+        "paragraph_384",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        432,
+        463
+      ],
+      "url": "http://genome.crg.es/GOToolBox/"
+    },
+    "heading_s4-11": {
+      "type": "heading",
+      "id": "heading_s4-11",
+      "level": 2,
+      "content": "Statistical analysis of rhythmic gene expression",
+      "nodes": []
+    },
+    "paragraph_387": {
+      "type": "paragraph",
+      "id": "paragraph_387",
+      "content": "Only genes with more than three reads per base pair for at least one time point of the Nascent-Seq dataset and two read per base pair for the RNA-Seq dataset were further considered for subsequent analysis (see above). Rhythmically expressed genes were determined based on three parameters: amplitude, F24 (24-hr spectral power, see below) and p-value of the F24."
+    },
+    "paragraph_388": {
+      "type": "paragraph",
+      "id": "paragraph_388",
+      "content": "The amplitude was calculated by dividing the highest value of the 12 time points by the lowest value. The F24 score was calculated by Fourier transformation using a R code originally described by Wijnen et al. (2005). Briefly, normalized reads per base pair from the two independent six-time points rhythms were concatenated and the 24-hr spectral power (F24) was determined for each gene. The F24 score (expressed in range 0–1) indicates the relative strength of the extracted rhythmic component."
+    },
+    "citation_reference_389": {
+      "type": "citation_reference",
+      "id": "citation_reference_389",
+      "path": [
+        "paragraph_388",
+        "content"
+      ],
+      "target": "article_citation_bib44",
+      "range": [
+        196,
+        216
+      ]
+    },
+    "paragraph_390": {
+      "type": "paragraph",
+      "id": "paragraph_390",
+      "content": "The F24 p-value (pF24) represents the probability of observing an F24 score from randomly permuted data that is of equal or greater strength than the extracted Fourier component. It was calculated for each gene after performing 10,000 randomized permutations of the rpbp values. A pF24 was considered significant if (pF24 < 0.05) if the experimental pF24 was within the top 5% of the 10,000 pF24 calculated from randomized permutation."
+    },
+    "paragraph_391": {
+      "type": "paragraph",
+      "id": "paragraph_391",
+      "content": "Transcripts were considered to be rhythmically expressed when meeting the three following criteria: (1) pF24-values < 0.05 (i.e., experimental pF24-value is within the top 5% of the 10,000 pF24-values calculated from randomized permutation), (2) F24 > 0.45 and (3) amplitude (maximal/minimal experimental values) > 1.5. A more stringent cut-off was also used to identify strong rhythmic expression: pF24 < 0.05, F24 > 0.6 and amplitude > 1.75."
+    },
+    "paragraph_392": {
+      "type": "paragraph",
+      "id": "paragraph_392",
+      "content": "The phase information from the Fourier transformation (which indicates the peak of the cosine curve) was further used to assess phase difference between rhythmic nascent RNA and mRNA expression (Figures 3C,4B)."
+    },
+    "figure_reference_393": {
+      "type": "figure_reference",
+      "id": "figure_reference_393",
+      "path": [
+        "paragraph_392",
+        "content"
+      ],
+      "target": "image_fig3",
+      "range": [
+        195,
+        208
+      ]
+    },
+    "heading_s4-12": {
+      "type": "heading",
+      "id": "heading_s4-12",
+      "level": 2,
+      "content": "Analysis of gene expression by real-time PCR",
+      "nodes": []
+    },
+    "paragraph_394": {
+      "type": "paragraph",
+      "id": "paragraph_394",
+      "content": "Total RNA from wild-type and Bmal1−/− mice was prepared from mouse liver using Trizol reagent (Invitrogen) and DNAse-treated using Turbo DNAse (Ambion) according to the manufacturer's protocols. cDNA derived from RNA (using Invitrogen Superscript II and random primers) was utilized as a template for quantitative real-time PCR performed with the Rotor-Gene 3000 real-time cycler (Qiagen). The PCR mixture contained Platinum Taq polymerase (Invitrogen), optimized concentrations of Sybr-green (Invitrogen) and specific primers for either Rev-Erbα, Per1, Per2 or Cry1 pre-mRNAs. Quantitative PCR using Actg1-specific primers was used as a loading control. Cycling parameters were 95°C for 3 min, followed by 40 cycles of 95°C for 30 s, 55°C for 45 s, and 72°C for 45 s. Fluorescence intensities were plotted vs the number of cycles by using an algorithm provided by the manufacturer. mRNA levels were quantified using a calibration curve based upon dilution of concentrated cDNA."
+    },
+    "annotation_395": {
+      "type": "emphasis",
+      "id": "annotation_395",
+      "path": [
+        "paragraph_394",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        29,
+        37
+      ]
+    },
+    "annotation_396": {
+      "type": "emphasis",
+      "id": "annotation_396",
+      "path": [
+        "paragraph_394",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        538,
+        546
+      ]
+    },
+    "annotation_397": {
+      "type": "emphasis",
+      "id": "annotation_397",
+      "path": [
+        "paragraph_394",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        548,
+        552
+      ]
+    },
+    "annotation_398": {
+      "type": "emphasis",
+      "id": "annotation_398",
+      "path": [
+        "paragraph_394",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        554,
+        558
+      ]
+    },
+    "annotation_399": {
+      "type": "emphasis",
+      "id": "annotation_399",
+      "path": [
+        "paragraph_394",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        562,
+        566
+      ]
+    },
+    "annotation_400": {
+      "type": "emphasis",
+      "id": "annotation_400",
+      "path": [
+        "paragraph_394",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        601,
+        606
+      ]
+    },
     "info:ack": {
       "type": "heading",
       "id": "info:ack",
@@ -4909,9 +5563,9 @@
       "id": "paragraph_ack",
       "content": "AcknowledgementsWe thank Chris Bradfield (University of Wisconsin-Madison, United States) for providing the Bmal11−/− mice and the Brandeis University Transgenic Animal Facility for help at various stages of this project. Yevgenia Khodor helped develop the Nascent-Seq technique, and Cindy He and Andrew Darnell provided technical help. We also thank Aoife McMahon and other members of the Rosbash lab as well as Michael Marr, Nelson Lau, Sebastian Kadener and Christine Merlin for helpful discussions and comments on the manuscript.Additional information"
     },
-    "annotation_349": {
+    "annotation_401": {
       "type": "emphasis",
-      "id": "annotation_349",
+      "id": "annotation_401",
       "path": [
         "paragraph_ack",
         "content"
@@ -4928,12 +5582,12 @@
       "level": 2,
       "content": "Competing Interests",
       "nodes": [
-        "paragraph_350"
+        "paragraph_402"
       ]
     },
-    "paragraph_350": {
+    "paragraph_402": {
       "type": "paragraph",
-      "id": "paragraph_350",
+      "id": "paragraph_402",
       "content": "Competing interestsThe authors have declared that no competing interests exist"
     },
     "info:author_contribution": {
@@ -4963,6 +5617,1906 @@
       "type": "paragraph",
       "id": "paragraph_supplement_SD5_data",
       "content": "Perl script used to calculate gene signal as reads per base pair"
+    },
+    "info:dataset": {
+      "type": "heading",
+      "id": "info:dataset",
+      "level": 2,
+      "content": "Major Datasets",
+      "nodes": [
+        "paragraph_dataro1"
+      ]
+    },
+    "paragraph_dataro1": {
+      "type": "paragraph",
+      "id": "paragraph_dataro1",
+      "content": "Menet, JS. 2012. Nascent-Seq Reveals Novel Features of Mouse Circadian Transcriptional Regulation: GSE36916; http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE36916. In the public domain at GEO: http://www.ncbi.nlm.nih.gov/geo/"
+    },
+    "article_citation_bib1": {
+      "type": "article_citation",
+      "id": "article_citation_bib1",
+      "authors": [
+        {
+          "given-names": "KC",
+          "last-name": "Abruzzi"
+        },
+        {
+          "given-names": "J",
+          "last-name": "Rodriguez"
+        },
+        {
+          "given-names": "JS",
+          "last-name": "Menet"
+        },
+        {
+          "given-names": "J",
+          "last-name": "Desrochers"
+        },
+        {
+          "given-names": "A",
+          "last-name": "Zadina"
+        },
+        {
+          "given-names": "W",
+          "last-name": "Luo"
+        }
+      ],
+      "title": "Drosophila CLOCK target gene characterization: implications for circadian tissue-specific gene expression",
+      "year": "2011",
+      "volume": "25",
+      "source": "Genes Dev",
+      "issue": "",
+      "fpage": "2374",
+      "lpage": "86",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib2": {
+      "type": "article_citation",
+      "id": "article_citation_bib2",
+      "authors": [
+        {
+          "given-names": "DM",
+          "last-name": "Bhatt"
+        },
+        {
+          "given-names": "A",
+          "last-name": "Pandya-Jones"
+        },
+        {
+          "given-names": "AJ",
+          "last-name": "Tong"
+        },
+        {
+          "given-names": "I",
+          "last-name": "Barozzi"
+        },
+        {
+          "given-names": "MM",
+          "last-name": "Lissner"
+        },
+        {
+          "given-names": "G",
+          "last-name": "Natoli"
+        }
+      ],
+      "title": "Transcript dynamics of proinflammatory genes revealed by sequence analysis of subcellular RNA fractions",
+      "year": "2012",
+      "volume": "150",
+      "source": "Cell",
+      "issue": "",
+      "fpage": "279",
+      "lpage": "90",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib3": {
+      "type": "article_citation",
+      "id": "article_citation_bib3",
+      "authors": [
+        {
+          "given-names": "A",
+          "last-name": "Bregman"
+        },
+        {
+          "given-names": "M",
+          "last-name": "Avraham-Kelbert"
+        },
+        {
+          "given-names": "O",
+          "last-name": "Barkai"
+        },
+        {
+          "given-names": "L",
+          "last-name": "Duek"
+        },
+        {
+          "given-names": "A",
+          "last-name": "Guterman"
+        },
+        {
+          "given-names": "M",
+          "last-name": "Choder"
+        }
+      ],
+      "title": "Promoter elements regulate cytoplasmic mRNA decay",
+      "year": "2011",
+      "volume": "147",
+      "source": "Cell",
+      "issue": "",
+      "fpage": "1473",
+      "lpage": "83",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib4": {
+      "type": "article_citation",
+      "id": "article_citation_bib4",
+      "authors": [
+        {
+          "given-names": "MK",
+          "last-name": "Bunger"
+        },
+        {
+          "given-names": "LD",
+          "last-name": "Wilsbacher"
+        },
+        {
+          "given-names": "SM",
+          "last-name": "Moran"
+        },
+        {
+          "given-names": "C",
+          "last-name": "Clendenin"
+        },
+        {
+          "given-names": "LA",
+          "last-name": "Radcliffe"
+        },
+        {
+          "given-names": "JB",
+          "last-name": "Hogenesch"
+        }
+      ],
+      "title": "Mop3 is an essential component of the master circadian pacemaker in mammals",
+      "year": "2000",
+      "volume": "103",
+      "source": "Cell",
+      "issue": "",
+      "fpage": "1009",
+      "lpage": "17",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib5": {
+      "type": "article_citation",
+      "id": "article_citation_bib5",
+      "authors": [
+        {
+          "given-names": "F",
+          "last-name": "Carrillo Oesterreich"
+        },
+        {
+          "given-names": "S",
+          "last-name": "Preibisch"
+        },
+        {
+          "given-names": "KM",
+          "last-name": "Neugebauer"
+        }
+      ],
+      "title": "Global analysis of nascent RNA reveals transcriptional pausing in terminal exons",
+      "year": "2010",
+      "volume": "40",
+      "source": "Mol Cell",
+      "issue": "",
+      "fpage": "571",
+      "lpage": "81",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib6": {
+      "type": "article_citation",
+      "id": "article_citation_bib6",
+      "authors": [
+        {
+          "given-names": "C",
+          "last-name": "Cheadle"
+        },
+        {
+          "given-names": "J",
+          "last-name": "Fan"
+        },
+        {
+          "given-names": "YS",
+          "last-name": "Cho-Chung"
+        },
+        {
+          "given-names": "T",
+          "last-name": "Werner"
+        },
+        {
+          "given-names": "J",
+          "last-name": "Ray"
+        },
+        {
+          "given-names": "L",
+          "last-name": "Do"
+        }
+      ],
+      "title": "Control of gene expression during T cell activation: alternate regulation of mRNA transcription and mRNA stability",
+      "year": "2005",
+      "volume": "6",
+      "source": "BMC Genomics",
+      "issue": "",
+      "fpage": "75",
+      "lpage": "",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib7": {
+      "type": "article_citation",
+      "id": "article_citation_bib7",
+      "authors": [
+        {
+          "given-names": "H",
+          "last-name": "Dardente"
+        },
+        {
+          "given-names": "N",
+          "last-name": "Cermakian"
+        }
+      ],
+      "title": "Molecular circadian rhythms in central and peripheral clocks in mammals",
+      "year": "2007",
+      "volume": "24",
+      "source": "Chronobiol Int",
+      "issue": "",
+      "fpage": "195",
+      "lpage": "213",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib8": {
+      "type": "article_citation",
+      "id": "article_citation_bib8",
+      "authors": [
+        {
+          "given-names": "D",
+          "last-name": "Feng"
+        },
+        {
+          "given-names": "T",
+          "last-name": "Liu"
+        },
+        {
+          "given-names": "Z",
+          "last-name": "Sun"
+        },
+        {
+          "given-names": "A",
+          "last-name": "Bugge"
+        },
+        {
+          "given-names": "SE",
+          "last-name": "Mullican"
+        },
+        {
+          "given-names": "T",
+          "last-name": "Alenghat"
+        }
+      ],
+      "title": "A circadian rhythm orchestrated by histone deacetylase 3 controls hepatic lipid metabolism",
+      "year": "2011",
+      "volume": "331",
+      "source": "Science",
+      "issue": "",
+      "fpage": "1315",
+      "lpage": "19",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib9": {
+      "type": "article_citation",
+      "id": "article_citation_bib9",
+      "authors": [
+        {
+          "given-names": "D",
+          "last-name": "Gatfield"
+        },
+        {
+          "given-names": "G",
+          "last-name": "Le Martelot"
+        },
+        {
+          "given-names": "CE",
+          "last-name": "Vejnar"
+        },
+        {
+          "given-names": "D",
+          "last-name": "Gerlach"
+        },
+        {
+          "given-names": "O",
+          "last-name": "Schaad"
+        },
+        {
+          "given-names": "F",
+          "last-name": "Fleury-Olela"
+        }
+      ],
+      "title": "Integration of microRNA miR-122 in hepatic circadian gene expression",
+      "year": "2009",
+      "volume": "23",
+      "source": "Genes Dev",
+      "issue": "",
+      "fpage": "1313",
+      "lpage": "26",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib10": {
+      "type": "article_citation",
+      "id": "article_citation_bib10",
+      "authors": [
+        {
+          "given-names": "P",
+          "last-name": "Giege"
+        },
+        {
+          "given-names": "M",
+          "last-name": "Hoffmann"
+        },
+        {
+          "given-names": "S",
+          "last-name": "Binder"
+        },
+        {
+          "given-names": "A",
+          "last-name": "Brennicke"
+        }
+      ],
+      "title": "RNA degradation buffers asymmetries of transcription in Arabidopsis mitochondria",
+      "year": "2000",
+      "volume": "1",
+      "source": "EMBO Rep",
+      "issue": "",
+      "fpage": "164",
+      "lpage": "70",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib11": {
+      "type": "article_citation",
+      "id": "article_citation_bib11",
+      "authors": [
+        {
+          "given-names": "S",
+          "last-name": "Griffiths-Jones"
+        }
+      ],
+      "title": "Annotating noncoding RNA genes",
+      "year": "2007",
+      "volume": "8",
+      "source": "Annu Rev Genomics Hum Genet",
+      "issue": "",
+      "fpage": "279",
+      "lpage": "98",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib12": {
+      "type": "article_citation",
+      "id": "article_citation_bib12",
+      "authors": [
+        {
+          "given-names": "MJ",
+          "last-name": "Haas"
+        },
+        {
+          "given-names": "HC",
+          "last-name": "Pitot"
+        }
+      ],
+      "title": "Glucocorticoids stimulate CREB binding to a cyclic-AMP response element in the rat serine dehydratase gene",
+      "year": "1999",
+      "volume": "362",
+      "source": "Arch Biochem Biophys",
+      "issue": "",
+      "fpage": "317",
+      "lpage": "24",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib13": {
+      "type": "article_citation",
+      "id": "article_citation_bib13",
+      "authors": [
+        {
+          "given-names": "S.",
+          "last-name": "Hao"
+        },
+        {
+          "given-names": "D",
+          "last-name": "Baltimore"
+        }
+      ],
+      "title": "The stability of mRNA influences the temporal order of the induction of genes encoding inflammatory molecules",
+      "year": "2009",
+      "volume": "10",
+      "source": "Nat Immunol",
+      "issue": "",
+      "fpage": "281",
+      "lpage": "8",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib14": {
+      "type": "article_citation",
+      "id": "article_citation_bib14",
+      "authors": [
+        {
+          "given-names": "ME",
+          "last-name": "Hughes"
+        },
+        {
+          "given-names": "GR",
+          "last-name": "Grant"
+        },
+        {
+          "given-names": "C",
+          "last-name": "Paquin"
+        },
+        {
+          "given-names": "J",
+          "last-name": "Qian"
+        },
+        {
+          "given-names": "MN",
+          "last-name": "Nitabach"
+        }
+      ],
+      "title": "Deep sequencing the circadian and diurnal transcriptome of Drosophila brain",
+      "year": "2012",
+      "volume": "22",
+      "source": "Genome Res",
+      "issue": "",
+      "fpage": "1266",
+      "lpage": "81",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib15": {
+      "type": "article_citation",
+      "id": "article_citation_bib15",
+      "authors": [
+        {
+          "given-names": "A",
+          "last-name": "Joshi"
+        },
+        {
+          "given-names": "Y",
+          "last-name": "Beck"
+        },
+        {
+          "given-names": "T",
+          "last-name": "Michoel"
+        }
+      ],
+      "title": "Post-transcriptional regulatory networks play a key role in noise reduction that is conserved from micro-organisms to mammals",
+      "year": "2012",
+      "volume": "279",
+      "source": "FEBS J",
+      "issue": "",
+      "fpage": "3501",
+      "lpage": "12",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib16": {
+      "type": "article_citation",
+      "id": "article_citation_bib16",
+      "authors": [
+        {
+          "given-names": "JD",
+          "last-name": "Keene"
+        }
+      ],
+      "title": "RNA regulons: coordination of post-transcriptional events",
+      "year": "2007",
+      "volume": "8",
+      "source": "Nat Rev Genet",
+      "issue": "",
+      "fpage": "533",
+      "lpage": "43",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib17": {
+      "type": "article_citation",
+      "id": "article_citation_bib17",
+      "authors": [
+        {
+          "given-names": "YL",
+          "last-name": "Khodor"
+        },
+        {
+          "given-names": "JS",
+          "last-name": "Menet"
+        },
+        {
+          "given-names": "M",
+          "last-name": "Tolan"
+        },
+        {
+          "given-names": "M",
+          "last-name": "Rosbash"
+        }
+      ],
+      "title": "Cotranscriptional splicing efficiency differs dramatically between Drosophila and mouse",
+      "year": "2012",
+      "volume": "",
+      "source": "RNA",
+      "issue": "",
+      "fpage": "",
+      "lpage": "",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib18": {
+      "type": "article_citation",
+      "id": "article_citation_bib18",
+      "authors": [
+        {
+          "given-names": "YL",
+          "last-name": "Khodor"
+        },
+        {
+          "given-names": "J",
+          "last-name": "Rodriguez"
+        },
+        {
+          "given-names": "KC",
+          "last-name": "Abruzzi"
+        },
+        {
+          "given-names": "CH",
+          "last-name": "Tang"
+        },
+        {
+          "given-names": "MT",
+          "last-name": "Marr II"
+        },
+        {
+          "given-names": "M",
+          "last-name": "Rosbash"
+        }
+      ],
+      "title": "Nascent-seq indicates widespread cotranscriptional pre-mRNA splicing in Drosophila",
+      "year": "2011",
+      "volume": "25",
+      "source": "Genes Dev",
+      "issue": "",
+      "fpage": "2502",
+      "lpage": "12",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib19": {
+      "type": "article_citation",
+      "id": "article_citation_bib19",
+      "authors": [
+        {
+          "given-names": "CH",
+          "last-name": "Ko"
+        },
+        {
+          "given-names": "JS",
+          "last-name": "Takahashi"
+        }
+      ],
+      "title": "Molecular components of the mammalian circadian clock",
+      "year": "2006",
+      "volume": "15",
+      "source": "Hum Mol Genet",
+      "issue": "Spec No 2",
+      "fpage": "R271",
+      "lpage": "7",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib20": {
+      "type": "article_citation",
+      "id": "article_citation_bib20",
+      "authors": [
+        {
+          "given-names": "N",
+          "last-name": "Koike"
+        },
+        {
+          "given-names": "SH",
+          "last-name": "Yoo"
+        },
+        {
+          "given-names": "HC",
+          "last-name": "Huang"
+        },
+        {
+          "given-names": "V",
+          "last-name": "Kumar"
+        },
+        {
+          "given-names": "C",
+          "last-name": "Lee"
+        },
+        {
+          "given-names": "TK",
+          "last-name": "Kim"
+        }
+      ],
+      "title": "Transcriptional architecture and chromatin landscape of the core circadian clock in mammals",
+      "year": "2012",
+      "volume": "338",
+      "source": "Science",
+      "issue": "",
+      "fpage": "349",
+      "lpage": "54",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib21": {
+      "type": "article_citation",
+      "id": "article_citation_bib21",
+      "authors": [
+        {
+          "given-names": "S",
+          "last-name": "Kojima"
+        },
+        {
+          "given-names": "DL",
+          "last-name": "Shingle"
+        },
+        {
+          "given-names": "CB",
+          "last-name": "Green"
+        }
+      ],
+      "title": "Post-transcriptional control of circadian rhythms",
+      "year": "2011",
+      "volume": "124",
+      "source": "J Cell Sci",
+      "issue": "",
+      "fpage": "311",
+      "lpage": "20",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib22": {
+      "type": "article_citation",
+      "id": "article_citation_bib22",
+      "authors": [
+        {
+          "given-names": "B",
+          "last-name": "Langmead"
+        },
+        {
+          "given-names": "C",
+          "last-name": "Trapnell"
+        },
+        {
+          "given-names": "M",
+          "last-name": "Pop"
+        },
+        {
+          "given-names": "SL",
+          "last-name": "Salzberg"
+        }
+      ],
+      "title": "Ultrafast and memory-efficient alignment of short DNA sequences to the human genome",
+      "year": "2009",
+      "volume": "10",
+      "source": "Genome Biol",
+      "issue": "",
+      "fpage": "R25",
+      "lpage": "",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib23": {
+      "type": "article_citation",
+      "id": "article_citation_bib23",
+      "authors": [
+        {
+          "given-names": "JZ",
+          "last-name": "Levin"
+        },
+        {
+          "given-names": "M",
+          "last-name": "Yassour"
+        },
+        {
+          "given-names": "X",
+          "last-name": "Adiconis"
+        },
+        {
+          "given-names": "C",
+          "last-name": "Nusbaum"
+        },
+        {
+          "given-names": "DA",
+          "last-name": "Thompson"
+        },
+        {
+          "given-names": "N",
+          "last-name": "Friedman"
+        }
+      ],
+      "title": "Comprehensive comparative analysis of strand-specific RNA sequencing methods",
+      "year": "2010",
+      "volume": "7",
+      "source": "Nat Methods",
+      "issue": "",
+      "fpage": "709",
+      "lpage": "15",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib24": {
+      "type": "article_citation",
+      "id": "article_citation_bib24",
+      "authors": [
+        {
+          "given-names": "PL",
+          "last-name": "Lowrey"
+        },
+        {
+          "given-names": "JS",
+          "last-name": "Takahashi"
+        }
+      ],
+      "title": "Mammalian circadian biology: elucidating genome-wide levels of temporal organization",
+      "year": "2004",
+      "volume": "5",
+      "source": "Annu Rev Genomics Hum Genet",
+      "issue": "",
+      "fpage": "407",
+      "lpage": "41",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib25": {
+      "type": "article_citation",
+      "id": "article_citation_bib25",
+      "authors": [
+        {
+          "given-names": "D",
+          "last-name": "Martin"
+        },
+        {
+          "given-names": "C",
+          "last-name": "Brun"
+        },
+        {
+          "given-names": "E",
+          "last-name": "Remy"
+        },
+        {
+          "given-names": "P",
+          "last-name": "Mouren"
+        },
+        {
+          "given-names": "D",
+          "last-name": "Thieffry"
+        },
+        {
+          "given-names": "B",
+          "last-name": "Jacq"
+        }
+      ],
+      "title": "GOToolBox: functional analysis of gene datasets based on Gene Ontology",
+      "year": "2004",
+      "volume": "5",
+      "source": "Genome Biol",
+      "issue": "",
+      "fpage": "R101",
+      "lpage": "",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib26": {
+      "type": "article_citation",
+      "id": "article_citation_bib26",
+      "authors": [
+        {
+          "given-names": "JS",
+          "last-name": "Mattick"
+        }
+      ],
+      "title": "The genetic signatures of noncoding RNAs",
+      "year": "2009",
+      "volume": "5",
+      "source": "PLoS Genet",
+      "issue": "",
+      "fpage": "e1000459",
+      "lpage": "",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib27": {
+      "type": "article_citation",
+      "id": "article_citation_bib27",
+      "authors": [
+        {
+          "given-names": "MJ",
+          "last-name": "McDonald"
+        },
+        {
+          "given-names": "M",
+          "last-name": "Rosbash"
+        }
+      ],
+      "title": "Microarray analysis and organization of circadian gene expression in Drosophila",
+      "year": "2001",
+      "volume": "107",
+      "source": "Cell",
+      "issue": "",
+      "fpage": "567",
+      "lpage": "78",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib28": {
+      "type": "article_citation",
+      "id": "article_citation_bib28",
+      "authors": [
+        {
+          "given-names": "TR",
+          "last-name": "Mercer"
+        },
+        {
+          "given-names": "ME",
+          "last-name": "Dinger"
+        },
+        {
+          "given-names": "JS",
+          "last-name": "Mattick"
+        }
+      ],
+      "title": "Long non-coding RNAs: insights into functions",
+      "year": "2009",
+      "volume": "10",
+      "source": "Nat Rev Genet",
+      "issue": "",
+      "fpage": "155",
+      "lpage": "9",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib29": {
+      "type": "article_citation",
+      "id": "article_citation_bib29",
+      "authors": [
+        {
+          "given-names": "JW",
+          "last-name": "Nicol"
+        },
+        {
+          "given-names": "GA",
+          "last-name": "Helt"
+        },
+        {
+          "given-names": "SG",
+          "last-name": "Blanchard Jnr"
+        },
+        {
+          "given-names": "A",
+          "last-name": "Raja"
+        },
+        {
+          "given-names": "AE",
+          "last-name": "Loraine"
+        }
+      ],
+      "title": "The Integrated Genome Browser: free software for distribution and exploration of genome-scale datasets",
+      "year": "2009",
+      "volume": "25",
+      "source": "Bioinformatics",
+      "issue": "",
+      "fpage": "2730",
+      "lpage": "1",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib30": {
+      "type": "article_citation",
+      "id": "article_citation_bib30",
+      "authors": [
+        {
+          "given-names": "S",
+          "last-name": "Panda"
+        },
+        {
+          "given-names": "MP",
+          "last-name": "Antoch"
+        },
+        {
+          "given-names": "BH",
+          "last-name": "Miller"
+        },
+        {
+          "given-names": "AI",
+          "last-name": "Su"
+        },
+        {
+          "given-names": "AB",
+          "last-name": "Schook"
+        },
+        {
+          "given-names": "M",
+          "last-name": "Straume"
+        }
+      ],
+      "title": "Coordinated transcription of key pathways in the mouse by the circadian clock",
+      "year": "2002",
+      "volume": "109",
+      "source": "Cell",
+      "issue": "",
+      "fpage": "307",
+      "lpage": "20",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib31": {
+      "type": "article_citation",
+      "id": "article_citation_bib31",
+      "authors": [
+        {
+          "given-names": "G",
+          "last-name": "Rey"
+        },
+        {
+          "given-names": "F",
+          "last-name": "Cesbron"
+        },
+        {
+          "given-names": "J",
+          "last-name": "Rougemont"
+        },
+        {
+          "given-names": "H",
+          "last-name": "Reinke"
+        },
+        {
+          "given-names": "M",
+          "last-name": "Brunner"
+        },
+        {
+          "given-names": "F",
+          "last-name": "Naef"
+        }
+      ],
+      "title": "Genome-wide and phase-specific DNA-binding rhythms of BMAL1 control circadian output functions in mouse liver",
+      "year": "2011",
+      "volume": "9",
+      "source": "PLoS Biol",
+      "issue": "",
+      "fpage": "e1000595",
+      "lpage": "",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib32": {
+      "type": "article_citation",
+      "id": "article_citation_bib32",
+      "authors": [
+        {
+          "given-names": "J",
+          "last-name": "Rodriguez"
+        },
+        {
+          "given-names": "JS",
+          "last-name": "Menet"
+        },
+        {
+          "given-names": "M",
+          "last-name": "Rosbash"
+        }
+      ],
+      "title": "Nascent-seq indicates widespread cotranscriptional RNA editing in Drosophila",
+      "year": "2012",
+      "volume": "47",
+      "source": "Mol Cell",
+      "issue": "",
+      "fpage": "27",
+      "lpage": "37",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib33": {
+      "type": "article_citation",
+      "id": "article_citation_bib33",
+      "authors": [
+        {
+          "given-names": "D",
+          "last-name": "Schmidt"
+        },
+        {
+          "given-names": "MD",
+          "last-name": "Wilson"
+        },
+        {
+          "given-names": "C",
+          "last-name": "Spyrou"
+        },
+        {
+          "given-names": "GD",
+          "last-name": "Brown"
+        },
+        {
+          "given-names": "J",
+          "last-name": "Hadfield"
+        },
+        {
+          "given-names": "DT",
+          "last-name": "Odom"
+        }
+      ],
+      "title": "ChIP-seq: using high-throughput sequencing to discover protein-DNA interactions",
+      "year": "2009",
+      "volume": "48",
+      "source": "Methods",
+      "issue": "",
+      "fpage": "240",
+      "lpage": "8",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib34": {
+      "type": "article_citation",
+      "id": "article_citation_bib34",
+      "authors": [
+        {
+          "given-names": "LV",
+          "last-name": "Sharova"
+        },
+        {
+          "given-names": "AA",
+          "last-name": "Sharov"
+        },
+        {
+          "given-names": "T",
+          "last-name": "Nedorezov"
+        },
+        {
+          "given-names": "Y",
+          "last-name": "Piao"
+        },
+        {
+          "given-names": "N",
+          "last-name": "Shaik"
+        },
+        {
+          "given-names": "MS",
+          "last-name": "Ko"
+        }
+      ],
+      "title": "Database for mRNA half-life of 19 977 genes obtained by DNA microarray analysis of pluripotent and differentiating mouse embryonic stem cells",
+      "year": "2009",
+      "volume": "16",
+      "source": "DNA Res",
+      "issue": "",
+      "fpage": "45",
+      "lpage": "58",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib35": {
+      "type": "article_citation",
+      "id": "article_citation_bib35",
+      "authors": [
+        {
+          "given-names": "WV",
+          "last-name": "So"
+        },
+        {
+          "given-names": "M",
+          "last-name": "Rosbash"
+        }
+      ],
+      "title": "Post-transcriptional regulation contributes to Drosophila clock gene mRNA cycling",
+      "year": "1997",
+      "volume": "16",
+      "source": "EMBO J",
+      "issue": "",
+      "fpage": "7146",
+      "lpage": "55",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib36": {
+      "type": "article_citation",
+      "id": "article_citation_bib36",
+      "authors": [
+        {
+          "given-names": "D",
+          "last-name": "Staiger"
+        },
+        {
+          "given-names": "R",
+          "last-name": "Green"
+        }
+      ],
+      "title": "RNA-based regulation in the plant circadian clock",
+      "year": "2011",
+      "volume": "16",
+      "source": "Trends Plant Sci",
+      "issue": "",
+      "fpage": "517",
+      "lpage": "23",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib37": {
+      "type": "article_citation",
+      "id": "article_citation_bib37",
+      "authors": [
+        {
+          "given-names": "D",
+          "last-name": "Staiger"
+        },
+        {
+          "given-names": "T",
+          "last-name": "Koster"
+        }
+      ],
+      "title": "Spotlight on post-transcriptional control in the circadian system",
+      "year": "2011",
+      "volume": "68",
+      "source": "Cell Mol Life Sci",
+      "issue": "",
+      "fpage": "71",
+      "lpage": "83",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib38": {
+      "type": "article_citation",
+      "id": "article_citation_bib38",
+      "authors": [
+        {
+          "given-names": "KF",
+          "last-name": "Storch"
+        },
+        {
+          "given-names": "O",
+          "last-name": "Lipan"
+        },
+        {
+          "given-names": "I",
+          "last-name": "Leykin"
+        },
+        {
+          "given-names": "N",
+          "last-name": "Viswanathan"
+        },
+        {
+          "given-names": "FC",
+          "last-name": "Davis"
+        },
+        {
+          "given-names": "WH",
+          "last-name": "Wong"
+        }
+      ],
+      "title": "Extensive and divergent circadian gene expression in liver and heart",
+      "year": "2002",
+      "volume": "417",
+      "source": "Nature",
+      "issue": "",
+      "fpage": "78",
+      "lpage": "83",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib39": {
+      "type": "article_citation",
+      "id": "article_citation_bib39",
+      "authors": [
+        {
+          "given-names": "C",
+          "last-name": "Trapnell"
+        },
+        {
+          "given-names": "L",
+          "last-name": "Pachter"
+        },
+        {
+          "given-names": "SL",
+          "last-name": "Salzberg"
+        }
+      ],
+      "title": "TopHat: discovering splice junctions with RNA-Seq",
+      "year": "2009",
+      "volume": "25",
+      "source": "Bioinformatics",
+      "issue": "",
+      "fpage": "1105",
+      "lpage": "11",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib40": {
+      "type": "article_citation",
+      "id": "article_citation_bib40",
+      "authors": [
+        {
+          "given-names": "T",
+          "last-name": "Trcek"
+        },
+        {
+          "given-names": "DR",
+          "last-name": "Larson"
+        },
+        {
+          "given-names": "A",
+          "last-name": "Moldon"
+        },
+        {
+          "given-names": "CC",
+          "last-name": "Query"
+        },
+        {
+          "given-names": "RH",
+          "last-name": "Singer"
+        }
+      ],
+      "title": "Single-molecule mRNA decay measurements reveal promoter-regulated mRNA stability in yeast",
+      "year": "2011",
+      "volume": "147",
+      "source": "Cell",
+      "issue": "",
+      "fpage": "1484",
+      "lpage": "97",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib41": {
+      "type": "article_citation",
+      "id": "article_citation_bib41",
+      "authors": [
+        {
+          "given-names": "M",
+          "last-name": "Ukai-Tadenuma"
+        },
+        {
+          "given-names": "RG",
+          "last-name": "Yamada"
+        },
+        {
+          "given-names": "H",
+          "last-name": "Xu"
+        },
+        {
+          "given-names": "JA",
+          "last-name": "Ripperger"
+        },
+        {
+          "given-names": "AC",
+          "last-name": "Liu"
+        },
+        {
+          "given-names": "HR",
+          "last-name": "Ueda"
+        }
+      ],
+      "title": "Delay in feedback repression by cryptochrome 1 is required for circadian clock function",
+      "year": "2011",
+      "volume": "144",
+      "source": "Cell",
+      "issue": "",
+      "fpage": "268",
+      "lpage": "81",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib42": {
+      "type": "article_citation",
+      "id": "article_citation_bib42",
+      "authors": [
+        {
+          "given-names": "C",
+          "last-name": "Vollmers"
+        },
+        {
+          "given-names": "S",
+          "last-name": "Gill"
+        },
+        {
+          "given-names": "L",
+          "last-name": "DiTacchio"
+        },
+        {
+          "given-names": "SR",
+          "last-name": "Pulivarthy"
+        },
+        {
+          "given-names": "HD",
+          "last-name": "Le"
+        },
+        {
+          "given-names": "S",
+          "last-name": "Panda"
+        }
+      ],
+      "title": "Time of feeding and the intrinsic circadian clock drive rhythms in hepatic gene expression",
+      "year": "2009",
+      "volume": "106",
+      "source": "Proc Natl Acad Sci U S A",
+      "issue": "",
+      "fpage": "21453",
+      "lpage": "8",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib43": {
+      "type": "article_citation",
+      "id": "article_citation_bib43",
+      "authors": [
+        {
+          "given-names": "KC",
+          "last-name": "Wang"
+        },
+        {
+          "given-names": "HY",
+          "last-name": "Chang"
+        }
+      ],
+      "title": "Molecular mechanisms of long noncoding RNAs",
+      "year": "2011",
+      "volume": "43",
+      "source": "Mol Cell",
+      "issue": "",
+      "fpage": "904",
+      "lpage": "14",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib44": {
+      "type": "article_citation",
+      "id": "article_citation_bib44",
+      "authors": [
+        {
+          "given-names": "H",
+          "last-name": "Wijnen"
+        },
+        {
+          "given-names": "F",
+          "last-name": "Naef"
+        },
+        {
+          "given-names": "MW",
+          "last-name": "Young"
+        }
+      ],
+      "title": "Molecular and statistical tools for circadian transcript profiling",
+      "year": "2005",
+      "volume": "393",
+      "source": "Methods Enzymol",
+      "issue": "",
+      "fpage": "341",
+      "lpage": "65",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib45": {
+      "type": "article_citation",
+      "id": "article_citation_bib45",
+      "authors": [
+        {
+          "given-names": "KC",
+          "last-name": "Woo"
+        },
+        {
+          "given-names": "DC",
+          "last-name": "Ha"
+        },
+        {
+          "given-names": "KH",
+          "last-name": "Lee"
+        },
+        {
+          "given-names": "DY",
+          "last-name": "Kim"
+        },
+        {
+          "given-names": "TD",
+          "last-name": "Kim"
+        },
+        {
+          "given-names": "KT",
+          "last-name": "Kim"
+        }
+      ],
+      "title": "Circadian amplitude of cryptochrome 1 is modulated by mRNA stability regulation via cytoplasmic hnRNP D oscillation",
+      "year": "2010",
+      "volume": "30",
+      "source": "Mol Cell Biol",
+      "issue": "",
+      "fpage": "197",
+      "lpage": "205",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib46": {
+      "type": "article_citation",
+      "id": "article_citation_bib46",
+      "authors": [
+        {
+          "given-names": "KC",
+          "last-name": "Woo"
+        },
+        {
+          "given-names": "TD",
+          "last-name": "Kim"
+        },
+        {
+          "given-names": "KH",
+          "last-name": "Lee"
+        },
+        {
+          "given-names": "DY",
+          "last-name": "Kim"
+        },
+        {
+          "given-names": "W",
+          "last-name": "Kim"
+        },
+        {
+          "given-names": "KY",
+          "last-name": "Lee"
+        }
+      ],
+      "title": "Mouse period 2 mRNA circadian oscillation is modulated by PTB-mediated rhythmic mRNA degradation",
+      "year": "2009",
+      "volume": "37",
+      "source": "Nucleic Acids Res",
+      "issue": "",
+      "fpage": "26",
+      "lpage": "37",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib47": {
+      "type": "article_citation",
+      "id": "article_citation_bib47",
+      "authors": [
+        {
+          "given-names": "J",
+          "last-name": "Wuarin"
+        },
+        {
+          "given-names": "U",
+          "last-name": "Schibler"
+        }
+      ],
+      "title": "Physical isolation of nascent RNA chains transcribed by RNA polymerase II: evidence for cotranscriptional splicing",
+      "year": "1994",
+      "volume": "14",
+      "source": "Mol Cell Biol",
+      "issue": "",
+      "fpage": "7219",
+      "lpage": "25",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib48": {
+      "type": "article_citation",
+      "id": "article_citation_bib48",
+      "authors": [
+        {
+          "given-names": "L",
+          "last-name": "Zhang"
+        },
+        {
+          "given-names": "W",
+          "last-name": "Weng"
+        },
+        {
+          "given-names": "J",
+          "last-name": "Guo"
+        }
+      ],
+      "title": "Posttranscriptional mechanisms in controlling eukaryotic circadian rhythms",
+      "year": "2011",
+      "volume": "585",
+      "source": "FEBS Lett",
+      "issue": "",
+      "fpage": "1400",
+      "lpage": "5",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib49": {
+      "type": "article_citation",
+      "id": "article_citation_bib49",
+      "authors": [
+        {
+          "given-names": "Y",
+          "last-name": "Zhang"
+        },
+        {
+          "given-names": "T",
+          "last-name": "Liu"
+        },
+        {
+          "given-names": "CA",
+          "last-name": "Meyer"
+        },
+        {
+          "given-names": "J",
+          "last-name": "Eeckhoute"
+        },
+        {
+          "given-names": "DS",
+          "last-name": "Johnson"
+        },
+        {
+          "given-names": "BE",
+          "last-name": "Bernstein"
+        }
+      ],
+      "title": "Model-based analysis of ChIP-Seq (MACS)",
+      "year": "2008",
+      "volume": "9",
+      "source": "Genome Biol",
+      "issue": "",
+      "fpage": "R137",
+      "lpage": "",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
     },
     "sub-article": {
       "type": "heading",

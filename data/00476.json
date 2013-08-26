@@ -1,0 +1,1005 @@
+{
+  "id": "00476",
+  "nodes": {
+    "content": {
+      "type": "view",
+      "id": "content",
+      "nodes": [
+        "abstract",
+        "paragraph_3",
+        "paragraph_8",
+        "paragraph_10",
+        "paragraph_11",
+        "paragraph_13",
+        "paragraph_16",
+        "paragraph_19",
+        "paragraph_21",
+        "paragraph_24",
+        "paragraph_25",
+        "paragraph_30"
+      ]
+    },
+    "figures": {
+      "type": "view",
+      "id": "figures",
+      "nodes": [
+        "box_B1",
+        "image_fig1"
+      ]
+    },
+    "citations": {
+      "type": "view",
+      "id": "citations",
+      "nodes": [
+        "article_citation_bib1",
+        "article_citation_bib2",
+        "article_citation_bib3",
+        "article_citation_bib4",
+        "article_citation_bib5",
+        "article_citation_bib6",
+        "article_citation_bib7",
+        "article_citation_bib8",
+        "article_citation_bib9",
+        "article_citation_bib10",
+        "article_citation_bib11",
+        "article_citation_bib12"
+      ]
+    },
+    "document": {
+      "type": "document",
+      "id": "document",
+      "views": [
+        "content",
+        "figures",
+        "citations"
+      ],
+      "guid": "00476",
+      "title": "‘Cryptic’ exons reveal some of their secrets",
+      "authors": [
+        "person_author_2084"
+      ],
+      "received_on": "",
+      "accepted_on": "",
+      "published_on": "2013-01-22",
+      "journal": "eLife",
+      "article_type": "",
+      "keywords": [
+        "HITS-CLIP",
+        "Nonsense mediated decay",
+        "alternative splicing",
+        "RNA regulation",
+        "epilepsy",
+        "neuronal biology"
+      ],
+      "research_organisms": [
+        "Mouse"
+      ],
+      "subjects": [
+        "Neuroscience",
+        "Biochemistry"
+      ],
+      "pdf_link": "",
+      "xml_link": "",
+      "json_link": "",
+      "doi": ""
+    },
+    "person_author_2084": {
+      "type": "person",
+      "id": "person_author_2084",
+      "given-names": "John A",
+      "last-name": "Calarco",
+      "role": "author",
+      "affiliations": [],
+      "image": "",
+      "contribution": "",
+      "email": "",
+      "funding": []
+    },
+    "institution_aff1": {
+      "type": "institution",
+      "id": "institution_aff1",
+      "name": "Harvard University",
+      "city": "Cambridge",
+      "country": "United States",
+      "email": "jcalarco@fas.harvard.edu",
+      "image": ""
+    },
+    "info:copyright": {
+      "type": "heading",
+      "id": "info:copyright",
+      "level": 2,
+      "content": "Copyright",
+      "nodes": [
+        "paragraph_1"
+      ]
+    },
+    "paragraph_1": {
+      "type": "paragraph",
+      "id": "paragraph_1",
+      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "annotation_2": {
+      "type": "link",
+      "id": "annotation_2",
+      "path": [
+        "paragraph_1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        51,
+        87
+      ],
+      "url": "http://creativecommons.org/licenses/by/3.0/"
+    },
+    "abstract": {
+      "type": "heading",
+      "id": "abstract",
+      "level": 1,
+      "content": "Abstract",
+      "nodes": []
+    },
+    "paragraph_3": {
+      "type": "paragraph",
+      "id": "paragraph_3",
+      "content": "By regulating the inclusion of ‘cryptic’ exons in messenger RNA in nerve cells, NOVA proteins are able to influence the abundance of the corresponding proteins."
+    },
+    "box_B1": {
+      "type": "box",
+      "id": "box_B1",
+      "label": "",
+      "url": "",
+      "title": "",
+      "caption": "",
+      "content": "Related research article Eom T, Zhang C, Wang H, Lay K, Fak J, Noebels JL, Darnell RB. 2013. NOVA-dependent regulation of cryptic NMD exons controls synaptic protein levels after seizure. eLife 2:e00178. doi: 10.7554/elife.00178",
+      "doi": ""
+    },
+    "annotation_4": {
+      "type": "strong",
+      "id": "annotation_4",
+      "path": [
+        "box_B1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        24
+      ]
+    },
+    "annotation_5": {
+      "type": "emphasis",
+      "id": "annotation_5",
+      "path": [
+        "box_B1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        188,
+        193
+      ]
+    },
+    "annotation_6": {
+      "type": "strong",
+      "id": "annotation_6",
+      "path": [
+        "box_B1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        194,
+        195
+      ]
+    },
+    "annotation_7": {
+      "type": "link",
+      "id": "annotation_7",
+      "path": [
+        "box_B1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        209,
+        228
+      ],
+      "url": "http://dx.doi.org/10.7554/elife.00178"
+    },
+    "paragraph_8": {
+      "type": "paragraph",
+      "id": "paragraph_8",
+      "content": "Image NOVA proteins predominantly bind RNAs in intronic regions (red) as opposed to 3’ untranslated regions (blue)"
+    },
+    "annotation_9": {
+      "type": "strong",
+      "id": "annotation_9",
+      "path": [
+        "paragraph_8",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        5
+      ]
+    },
+    "paragraph_10": {
+      "type": "paragraph",
+      "id": "paragraph_10",
+      "content": ""
+    },
+    "paragraph_11": {
+      "type": "paragraph",
+      "id": "paragraph_11",
+      "content": "When the DNA in the genes of a eukaryote has been transcribed into RNA, sequences of bases known as introns are then removed from the RNA transcript, and the remaining sequences, which are called exons, are spliced back together to produce messenger RNA. Most of the time this mRNA is then translated into a string of amino acids, which subsequently folds to form a protein. It has been known for some time that certain exons can be included or excluded when splicing together the mature mRNA. This form of splicing, which is known as alternative splicing, is generally considered to be a mechanism for allowing a single gene to code for two or more proteins (Nilsen and Graveley, 2010)."
+    },
+    "citation_reference_12": {
+      "type": "citation_reference",
+      "id": "citation_reference_12",
+      "path": [
+        "paragraph_11",
+        "content"
+      ],
+      "target": "article_citation_bib6",
+      "range": [
+        660,
+        685
+      ]
+    },
+    "paragraph_13": {
+      "type": "paragraph",
+      "id": "paragraph_13",
+      "content": "However, it is also known that alternative splicing can contribute to mechanisms that are used to control the abundances of certain proteins: in particular, mRNA degradation pathways in cells can target mRNA that has been spliced in a certain way. Now, writing in eLife, Taesun Eom and Robert Darnell of Rockefeller University, and co-workers at Rockefeller and Baylor College of Medicine, shed new light on these processes by identifying a previously unknown class of exons in RNA transcripts produced in neuronal cells (Eom et al., 2013). These ‘cryptic’ exons can be regulated by changes in neuronal activity, and might also help the brain to recover from seizures."
+    },
+    "annotation_14": {
+      "type": "emphasis",
+      "id": "annotation_14",
+      "path": [
+        "paragraph_13",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        264,
+        269
+      ]
+    },
+    "citation_reference_15": {
+      "type": "citation_reference",
+      "id": "citation_reference_15",
+      "path": [
+        "paragraph_13",
+        "content"
+      ],
+      "target": "article_citation_bib2",
+      "range": [
+        522,
+        538
+      ]
+    },
+    "paragraph_16": {
+      "type": "paragraph",
+      "id": "paragraph_16",
+      "content": "Over the years Darnell and co-workers have investigated the roles of RNA binding proteins in the nervous system. In particular, they have studied RNA binding proteins known as NOVA proteins and shown that they have a critical role in the cell nucleus, where they help to regulate alternative splicing (Ule et al., 2005). These NOVA proteins can also shuttle from the nucleus to the cytoplasm, and it is thought that they can modulate the abundances of proteins in neuronal cells by helping to localize RNA to dendrites (Racca et al., 2010)."
+    },
+    "citation_reference_17": {
+      "type": "citation_reference",
+      "id": "citation_reference_17",
+      "path": [
+        "paragraph_16",
+        "content"
+      ],
+      "target": "article_citation_bib10",
+      "range": [
+        302,
+        318
+      ]
+    },
+    "citation_reference_18": {
+      "type": "citation_reference",
+      "id": "citation_reference_18",
+      "path": [
+        "paragraph_16",
+        "content"
+      ],
+      "target": "article_citation_bib7",
+      "range": [
+        520,
+        538
+      ]
+    },
+    "paragraph_19": {
+      "type": "paragraph",
+      "id": "paragraph_19",
+      "content": "To explore the differences between the nuclear and cytoplasmic roles of NOVA, Eom and colleagues separated brain tissue from mice into nuclear and cytoplasmic fractions, and employed a technique called HITS-CLIP (Licatalosi et al., 2008) to study the binding between the NOVA proteins and the RNA in these two fractions. They found that in the nucleus the NOVA proteins bind primarily to intronic regions of the RNA transcript: however, in the cytoplasm they bind mostly to 3′ untranslated regions of the transcripts. The Rockefeller-Baylor team then studied mice in which the genes for NOVA proteins had been knocked out, and found hundreds of RNA transcripts that were present at lower levels in these animals than in wild-type mice: they also found a smaller number of RNA transcripts that were present at higher levels in the knockout mice. Moreover, they found that NOVA proteins predominantly bind to these RNA transcripts in the nucleus, which was initially surprising because RNA binding proteins are generally thought to regulate mRNA levels by binding to the untranslated regions of RNA transcripts in the cytoplasm."
+    },
+    "citation_reference_20": {
+      "type": "citation_reference",
+      "id": "citation_reference_20",
+      "path": [
+        "paragraph_19",
+        "content"
+      ],
+      "target": "article_citation_bib5",
+      "range": [
+        213,
+        236
+      ]
+    },
+    "paragraph_21": {
+      "type": "paragraph",
+      "id": "paragraph_21",
+      "content": "These results led Eom and co-workers to explore the intronic regions that the NOVA proteins bind to: they wanted to see if these regions contained exons that could be included in mRNA, and this is indeed what they found. In general these cryptic exons were found at low levels in the mature mRNA of wild-type mice, and at much higher levels in knockout mice (although a small number of RNA transcripts contain high numbers of cryptic exons in wild-type mice and low numbers in knockout mice). When included in RNA transcripts, these cryptic exons introduced premature translation stop codons into the mRNA. Instead of allowing full-length proteins to be produced, these codons trigger an mRNA degradation pathway called nonsense-mediated mRNA decay (Schoenberg and Maquat, 2012). The end result, therefore, is that cryptic exons can be used to influence the levels of proteins and mRNA in the cell (Figure 1)."
+    },
+    "citation_reference_22": {
+      "type": "citation_reference",
+      "id": "citation_reference_22",
+      "path": [
+        "paragraph_21",
+        "content"
+      ],
+      "target": "article_citation_bib9",
+      "range": [
+        750,
+        777
+      ]
+    },
+    "figure_reference_23": {
+      "type": "figure_reference",
+      "id": "figure_reference_23",
+      "path": [
+        "paragraph_21",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        899,
+        907
+      ]
+    },
+    "image_fig1": {
+      "type": "image",
+      "id": "image_fig1",
+      "label": "Figure 1.",
+      "url": "",
+      "object_id": "F1",
+      "title": "",
+      "content_type": "",
+      "large_url": "",
+      "content": "",
+      "group": [
+        "parent",
+        null
+      ],
+      "doi": "",
+      "caption": "paragraph_image_fig1",
+      "graphic_id": "elife00476f001"
+    },
+    "paragraph_image_fig1": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig1",
+      "content": "Eom and co-workers have shown that NOVA proteins (green ellipses) regulate the inclusion of cryptic exons (red boxes) in messenger RNA (mRNA) in the nucleus of neuronal cells. In the cytoplasm, mRNA that contains cryptic exons is targeted by RNA decay pathways (shown here by the blue pac-man), while mRNA that does not contain cryptic exons is translated by the ribosome (yellow) to produce synaptic proteins (orange). Neuronal activity can cause the NOVA proteins to shuttle from the nucleus to the cytoplasm: this changes the proportion of cryptic exons that are included in the mRNA, and therefore alters the abundance of the corresponding proteins."
+    },
+    "paragraph_24": {
+      "type": "paragraph",
+      "id": "paragraph_24",
+      "content": "In further experiments designed to explore the physiological relevance of this novel layer of NOVA-mediated gene regulation, the Rockefeller-Baylor team found that treating mice with a compound called pilocarpine, which modulates neuronal activity and induces seizures in animals, led to increased inclusion of certain cryptic exons. Intriguingly, in some regions of the brain, NOVA proteins move from the nucleus to the cytoplasm after treatment with pilocarpine. Moreover, mice that have lost one copy of the gene that codes for a specific NOVA protein (called NOVA 2) display spontaneous epileptic episodes. These results suggest that there is a connection between neuronal activity-dependent redistribution of NOVA proteins in the cell, the regulation of transcript levels by alternative splicing coupled to nonsense-mediated decay, and a requirement for NOVA proteins in maintaining balance in neuronal activity, potentially after excitatory stress."
+    },
+    "paragraph_25": {
+      "type": "paragraph",
+      "id": "paragraph_25",
+      "content": "This work is exciting for several reasons. First, the identification of a network of neuronal transcripts that is regulated by the coordinated action of alternative splicing and nonsense-mediated decay is a significant advance. It is well known that the coupling of these two gene regulatory layers has an important role in regulating the abundance of splicing factors, RNA binding proteins, and core components of the splicing machinery (Lareau et al., 2007; Saltzman et al., 2008). There have also been examples of individual splicing events in genes with important roles in neuronal development or function that are subject to this type of regulation (Boutz et al., 2007; Zheng et al., 2012). However, the set of transcripts identified in this latest study are all regulated in a coordinated manner by NOVA proteins, indicating that they likely contribute to aspects of neuronal biology as a module. In agreement with this idea, Eom and co-workers find that genes with NOVA-dependent cryptic exons often encode proteins enriched in similar functions at the synapse. A future goal will be to understand how this network of genes helps protect neurons from stress induced by neuronal activity. The results of such an analysis could yield new insights into and treatments for epilepsy."
+    },
+    "citation_reference_26": {
+      "type": "citation_reference",
+      "id": "citation_reference_26",
+      "path": [
+        "paragraph_25",
+        "content"
+      ],
+      "target": "article_citation_bib4",
+      "range": [
+        439,
+        458
+      ]
+    },
+    "citation_reference_27": {
+      "type": "citation_reference",
+      "id": "citation_reference_27",
+      "path": [
+        "paragraph_25",
+        "content"
+      ],
+      "target": "article_citation_bib8",
+      "range": [
+        460,
+        481
+      ]
+    },
+    "citation_reference_28": {
+      "type": "citation_reference",
+      "id": "citation_reference_28",
+      "path": [
+        "paragraph_25",
+        "content"
+      ],
+      "target": "article_citation_bib1",
+      "range": [
+        655,
+        673
+      ]
+    },
+    "citation_reference_29": {
+      "type": "citation_reference",
+      "id": "citation_reference_29",
+      "path": [
+        "paragraph_25",
+        "content"
+      ],
+      "target": "article_citation_bib12",
+      "range": [
+        675,
+        693
+      ]
+    },
+    "paragraph_30": {
+      "type": "paragraph",
+      "id": "paragraph_30",
+      "content": "Second, this work has also unmasked an important hidden layer of biology. The identification of cryptic exons regulated by NOVA would not have occurred without the use of HITS-CLIP and knockout mice because these exons are only present at very low levels (or are completely absent) in the transcripts of wild-type animals under normal behavioural conditions. These latest findings highlight the importance of performing more experiments on context-specific gene expression in dynamically regulated cells such as neurons. Future research involving RNA binding proteins other than NOVA proteins is sure to capture additional target transcripts subject to dynamic gene regulation in neurons. Indeed, several recent studies have demonstrated that this will likely be the case (Iijima et al., 2011; Yap et al., 2012), and provide an indication that there is much more uncharted RNA biology waiting to be decrypted."
+    },
+    "citation_reference_31": {
+      "type": "citation_reference",
+      "id": "citation_reference_31",
+      "path": [
+        "paragraph_30",
+        "content"
+      ],
+      "target": "article_citation_bib3",
+      "range": [
+        773,
+        792
+      ]
+    },
+    "citation_reference_32": {
+      "type": "citation_reference",
+      "id": "citation_reference_32",
+      "path": [
+        "paragraph_30",
+        "content"
+      ],
+      "target": "article_citation_bib11",
+      "range": [
+        794,
+        810
+      ]
+    },
+    "info:competing-interest": {
+      "type": "heading",
+      "id": "info:competing-interest",
+      "level": 2,
+      "content": "Competing Interests",
+      "nodes": [
+        "paragraph_33"
+      ]
+    },
+    "paragraph_33": {
+      "type": "paragraph",
+      "id": "paragraph_33",
+      "content": "Competing interests:The author declares that no competing interests existReferences"
+    },
+    "article_citation_bib1": {
+      "type": "article_citation",
+      "id": "article_citation_bib1",
+      "authors": [
+        {
+          "given-names": "PL",
+          "last-name": "Boutz"
+        },
+        {
+          "given-names": "P",
+          "last-name": "Stoilov"
+        },
+        {
+          "given-names": "Q",
+          "last-name": "Li"
+        },
+        {
+          "given-names": "CH",
+          "last-name": "Lin"
+        },
+        {
+          "given-names": "G",
+          "last-name": "Chawla"
+        },
+        {
+          "given-names": "K",
+          "last-name": "Ostrow"
+        }
+      ],
+      "title": "A post-transcriptional regulatory switch in polypyrimidine tract-binding proteins reprograms alternative splicing in developing neurons",
+      "year": "2007",
+      "volume": "21",
+      "source": "Genes Dev",
+      "issue": "",
+      "fpage": "1636",
+      "lpage": "52",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1101/gad.1558107",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib2": {
+      "type": "article_citation",
+      "id": "article_citation_bib2",
+      "authors": [
+        {
+          "given-names": "T",
+          "last-name": "Eom"
+        },
+        {
+          "given-names": "C",
+          "last-name": "Zhang"
+        },
+        {
+          "given-names": "H",
+          "last-name": "Wang"
+        },
+        {
+          "given-names": "K",
+          "last-name": "Lay"
+        },
+        {
+          "given-names": "J",
+          "last-name": "Fak"
+        },
+        {
+          "given-names": "JL",
+          "last-name": "Noebels"
+        }
+      ],
+      "title": "NOVA-dependent regulation of cryptic NMD exons controls synaptic protein levels after seizure",
+      "year": "2013",
+      "volume": "2",
+      "source": "eLife",
+      "issue": "",
+      "fpage": "e00178",
+      "lpage": "",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.7554/elife.00178",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib3": {
+      "type": "article_citation",
+      "id": "article_citation_bib3",
+      "authors": [
+        {
+          "given-names": "T",
+          "last-name": "Iijima"
+        },
+        {
+          "given-names": "K",
+          "last-name": "Wu"
+        },
+        {
+          "given-names": "H",
+          "last-name": "Witte"
+        },
+        {
+          "given-names": "Y",
+          "last-name": "Hanno-Iijima"
+        },
+        {
+          "given-names": "T",
+          "last-name": "Glatter"
+        },
+        {
+          "given-names": "S",
+          "last-name": "Richard"
+        }
+      ],
+      "title": "SAM68 regulates neuronal activity-dependent alternative splicing of neurexin-1",
+      "year": "2011",
+      "volume": "147",
+      "source": "Cell",
+      "issue": "",
+      "fpage": "1601",
+      "lpage": "14",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/j.cell.2011.11.028",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib4": {
+      "type": "article_citation",
+      "id": "article_citation_bib4",
+      "authors": [
+        {
+          "given-names": "LF",
+          "last-name": "Lareau"
+        },
+        {
+          "given-names": "AN",
+          "last-name": "Brooks"
+        },
+        {
+          "given-names": "DA",
+          "last-name": "Soergel"
+        },
+        {
+          "given-names": "Q",
+          "last-name": "Meng"
+        },
+        {
+          "given-names": "SE",
+          "last-name": "Brenner"
+        }
+      ],
+      "title": "The coupling of alternative splicing and nonsense-mediated mRNA decay",
+      "year": "2007",
+      "volume": "623",
+      "source": "Adv Exp Med Biol",
+      "issue": "",
+      "fpage": "190",
+      "lpage": "211",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib5": {
+      "type": "article_citation",
+      "id": "article_citation_bib5",
+      "authors": [
+        {
+          "given-names": "DD",
+          "last-name": "Licatalosi"
+        },
+        {
+          "given-names": "A",
+          "last-name": "Mele"
+        },
+        {
+          "given-names": "JJ",
+          "last-name": "Fak"
+        },
+        {
+          "given-names": "J",
+          "last-name": "Ule"
+        },
+        {
+          "given-names": "M",
+          "last-name": "Kayikci"
+        },
+        {
+          "given-names": "SW",
+          "last-name": "Chi"
+        }
+      ],
+      "title": "HITS-CLIP yields genome-wide insights into brain alternative RNA processing",
+      "year": "2008",
+      "volume": "456",
+      "source": "Nature",
+      "issue": "",
+      "fpage": "464",
+      "lpage": "69",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1038/nature07488",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib6": {
+      "type": "article_citation",
+      "id": "article_citation_bib6",
+      "authors": [
+        {
+          "given-names": "TW",
+          "last-name": "Nilsen"
+        },
+        {
+          "given-names": "BR",
+          "last-name": "Graveley"
+        }
+      ],
+      "title": "Expansion of the eukaryotic proteome by alternative splicing",
+      "year": "2010",
+      "volume": "463",
+      "source": "Nature",
+      "issue": "",
+      "fpage": "457",
+      "lpage": "63",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1038/nature08909",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib7": {
+      "type": "article_citation",
+      "id": "article_citation_bib7",
+      "authors": [
+        {
+          "given-names": "C",
+          "last-name": "Racca"
+        },
+        {
+          "given-names": "A",
+          "last-name": "Gardiol"
+        },
+        {
+          "given-names": "T",
+          "last-name": "Eom"
+        },
+        {
+          "given-names": "J",
+          "last-name": "Ule"
+        },
+        {
+          "given-names": "A",
+          "last-name": "Triller"
+        },
+        {
+          "given-names": "RB",
+          "last-name": "Darnell"
+        }
+      ],
+      "title": "The neuronal splicing factor Nova co-localizes with target RNAs in the dendrite",
+      "year": "2010",
+      "volume": "4",
+      "source": "Front Neural Circuits",
+      "issue": "",
+      "fpage": "5",
+      "lpage": "",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.3389/neuro.04.005.2010",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib8": {
+      "type": "article_citation",
+      "id": "article_citation_bib8",
+      "authors": [
+        {
+          "given-names": "AL",
+          "last-name": "Saltzman"
+        },
+        {
+          "given-names": "YK",
+          "last-name": "Kim"
+        },
+        {
+          "given-names": "Q",
+          "last-name": "Pan"
+        },
+        {
+          "given-names": "MM",
+          "last-name": "Fagnani"
+        },
+        {
+          "given-names": "LE",
+          "last-name": "Maquat"
+        },
+        {
+          "given-names": "BJ",
+          "last-name": "Blencowe"
+        }
+      ],
+      "title": "Regulation of multiple core spliceosomal proteins by alternative splicing-coupled nonsense-mediated mRNA decay",
+      "year": "2008",
+      "volume": "28",
+      "source": "Mol Cell Biol",
+      "issue": "",
+      "fpage": "4320",
+      "lpage": "30",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1128/MCB.00361-08",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib9": {
+      "type": "article_citation",
+      "id": "article_citation_bib9",
+      "authors": [
+        {
+          "given-names": "DR",
+          "last-name": "Schoenberg"
+        },
+        {
+          "given-names": "LE",
+          "last-name": "Maquat"
+        }
+      ],
+      "title": "Regulation of cytoplasmic mRNA decay",
+      "year": "2012",
+      "volume": "13",
+      "source": "Nat Rev Genet",
+      "issue": "",
+      "fpage": "246",
+      "lpage": "59",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1038/nrg3160",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib10": {
+      "type": "article_citation",
+      "id": "article_citation_bib10",
+      "authors": [
+        {
+          "given-names": "J",
+          "last-name": "Ule"
+        },
+        {
+          "given-names": "A",
+          "last-name": "Ule"
+        },
+        {
+          "given-names": "J",
+          "last-name": "Spencer"
+        },
+        {
+          "given-names": "A",
+          "last-name": "Williams"
+        },
+        {
+          "given-names": "JS",
+          "last-name": "Hu"
+        },
+        {
+          "given-names": "M",
+          "last-name": "Cline"
+        }
+      ],
+      "title": "Nova regulates brain-specific splicing to shape the synapse",
+      "year": "2005",
+      "volume": "37",
+      "source": "Nat Genet",
+      "issue": "",
+      "fpage": "844",
+      "lpage": "52",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1038/ng1610",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib11": {
+      "type": "article_citation",
+      "id": "article_citation_bib11",
+      "authors": [
+        {
+          "given-names": "K",
+          "last-name": "Yap"
+        },
+        {
+          "given-names": "ZQ",
+          "last-name": "Lim"
+        },
+        {
+          "given-names": "P",
+          "last-name": "Khandelia"
+        },
+        {
+          "given-names": "B",
+          "last-name": "Friedman"
+        },
+        {
+          "given-names": "EV",
+          "last-name": "Makeyev"
+        }
+      ],
+      "title": "Coordinated regulation of neuronal mRNA steady-state levels through developmentally controlled intron retention",
+      "year": "2012",
+      "volume": "26",
+      "source": "Genes Dev",
+      "issue": "",
+      "fpage": "1209",
+      "lpage": "23",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1101/gad.188037.112",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib12": {
+      "type": "article_citation",
+      "id": "article_citation_bib12",
+      "authors": [
+        {
+          "given-names": "S",
+          "last-name": "Zheng"
+        },
+        {
+          "given-names": "EE",
+          "last-name": "Gray"
+        },
+        {
+          "given-names": "G",
+          "last-name": "Chawla"
+        },
+        {
+          "given-names": "BT",
+          "last-name": "Porse"
+        },
+        {
+          "given-names": "TJ",
+          "last-name": "O’Dell"
+        },
+        {
+          "given-names": "DL",
+          "last-name": "Black"
+        }
+      ],
+      "title": "PSD-95 is post-transcriptionally repressed during early neural development by PTBP1 and PTBP2",
+      "year": "2012",
+      "volume": "15",
+      "source": "Nat Neurosci",
+      "issue": "",
+      "fpage": "381",
+      "lpage": "8",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1038/nn.3026",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    }
+  }
+}

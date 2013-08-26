@@ -1,0 +1,909 @@
+{
+  "id": "00572",
+  "nodes": {
+    "content": {
+      "type": "view",
+      "id": "content",
+      "nodes": [
+        "abstract",
+        "paragraph_3",
+        "paragraph_8",
+        "paragraph_10",
+        "paragraph_11",
+        "paragraph_13",
+        "paragraph_16",
+        "paragraph_21",
+        "paragraph_25",
+        "paragraph_29",
+        "paragraph_31",
+        "paragraph_34"
+      ]
+    },
+    "figures": {
+      "type": "view",
+      "id": "figures",
+      "nodes": [
+        "box_B1",
+        "image_fig1"
+      ]
+    },
+    "citations": {
+      "type": "view",
+      "id": "citations",
+      "nodes": [
+        "article_citation_bib1",
+        "article_citation_bib2",
+        "article_citation_bib3",
+        "article_citation_bib4",
+        "article_citation_bib5",
+        "article_citation_bib6",
+        "article_citation_bib7",
+        "article_citation_bib8",
+        "article_citation_bib9"
+      ]
+    },
+    "document": {
+      "type": "document",
+      "id": "document",
+      "views": [
+        "content",
+        "figures",
+        "citations"
+      ],
+      "guid": "00572",
+      "title": "Different routes to the same destination",
+      "authors": [
+        "person_author_3834",
+        "person_author_1715"
+      ],
+      "received_on": "",
+      "accepted_on": "",
+      "published_on": "2013-02-19",
+      "journal": "eLife",
+      "article_type": "",
+      "keywords": [
+        "Toll-like receptors",
+        "UNC93B1",
+        "trafficking",
+        "AP-2"
+      ],
+      "research_organisms": [
+        "Mouse"
+      ],
+      "subjects": [
+        "Cell biology"
+      ],
+      "pdf_link": "",
+      "xml_link": "",
+      "json_link": "",
+      "doi": ""
+    },
+    "person_author_3834": {
+      "type": "person",
+      "id": "person_author_3834",
+      "given-names": "Kachiko",
+      "last-name": "Hayashi",
+      "role": "author",
+      "affiliations": [],
+      "image": "",
+      "contribution": "",
+      "email": "",
+      "funding": []
+    },
+    "person_author_1715": {
+      "type": "person",
+      "id": "person_author_1715",
+      "given-names": "Akiko",
+      "last-name": "Iwasaki",
+      "role": "author",
+      "affiliations": [],
+      "image": "",
+      "contribution": "",
+      "email": "",
+      "funding": []
+    },
+    "institution_aff1": {
+      "type": "institution",
+      "id": "institution_aff1",
+      "name": "Yale University School of Medicine",
+      "city": "New Haven",
+      "country": "United States",
+      "email": "kachiko.hayashi@yale.edu",
+      "image": ""
+    },
+    "institution_aff2": {
+      "type": "institution",
+      "id": "institution_aff2",
+      "name": "Yale University School of Medicine",
+      "city": "New Haven",
+      "country": "United States",
+      "email": "akiko.iwasaki@yale.edu",
+      "image": ""
+    },
+    "info:copyright": {
+      "type": "heading",
+      "id": "info:copyright",
+      "level": 2,
+      "content": "Copyright",
+      "nodes": [
+        "paragraph_1"
+      ]
+    },
+    "paragraph_1": {
+      "type": "paragraph",
+      "id": "paragraph_1",
+      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "annotation_2": {
+      "type": "link",
+      "id": "annotation_2",
+      "path": [
+        "paragraph_1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        51,
+        87
+      ],
+      "url": "http://creativecommons.org/licenses/by/3.0/"
+    },
+    "abstract": {
+      "type": "heading",
+      "id": "abstract",
+      "level": 1,
+      "content": "Abstract",
+      "nodes": []
+    },
+    "paragraph_3": {
+      "type": "paragraph",
+      "id": "paragraph_3",
+      "content": "The toll-like receptors that detect viral DNA and viral RNA in cells take different paths from the endoplasmic reticulum to the endosome."
+    },
+    "box_B1": {
+      "type": "box",
+      "id": "box_B1",
+      "label": "",
+      "url": "",
+      "title": "",
+      "caption": "",
+      "content": "Related research article Lee BL, Moon JE, Shu JH, Yuan L, Newman ZR, Schekman R, Barton, GM. 2013. UNC93B1 mediates differential trafficking of endosomal TLRs. eLife 2:e00291. doi: 10.7554/eLife.00291",
+      "doi": ""
+    },
+    "annotation_4": {
+      "type": "strong",
+      "id": "annotation_4",
+      "path": [
+        "box_B1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        24
+      ]
+    },
+    "annotation_5": {
+      "type": "emphasis",
+      "id": "annotation_5",
+      "path": [
+        "box_B1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        160,
+        165
+      ]
+    },
+    "annotation_6": {
+      "type": "strong",
+      "id": "annotation_6",
+      "path": [
+        "box_B1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        166,
+        167
+      ]
+    },
+    "annotation_7": {
+      "type": "link",
+      "id": "annotation_7",
+      "path": [
+        "box_B1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        181,
+        200
+      ],
+      "url": "http://dx.doi.org/10.7554/eLife.00291"
+    },
+    "paragraph_8": {
+      "type": "paragraph",
+      "id": "paragraph_8",
+      "content": "Image Keeping track of TLR9 location"
+    },
+    "annotation_9": {
+      "type": "strong",
+      "id": "annotation_9",
+      "path": [
+        "paragraph_8",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        5
+      ]
+    },
+    "paragraph_10": {
+      "type": "paragraph",
+      "id": "paragraph_10",
+      "content": ""
+    },
+    "paragraph_11": {
+      "type": "paragraph",
+      "id": "paragraph_11",
+      "content": "Pattern recognition receptors have two crucial roles in the innate immune system: they detect the presence of bacteria, viruses and other pathogens, and they send signals to kick-start the appropriate defence mechanisms against these microbial invaders. Over the past 15 years, toll-like receptors have emerged as an important family of pattern recognition receptors (Medzhitov, 2001). A total of 13 toll-like receptors have been discovered (including 10 that are functional in humans), with each one recognizing the distinct molecular signatures produced by a specific type of invader. Bacteria and fungi, for example, are detected via the components of their cell walls, while viruses are identified via their nucleic acids."
+    },
+    "citation_reference_12": {
+      "type": "citation_reference",
+      "id": "citation_reference_12",
+      "path": [
+        "paragraph_11",
+        "content"
+      ],
+      "target": "article_citation_bib6",
+      "range": [
+        368,
+        383
+      ]
+    },
+    "paragraph_13": {
+      "type": "paragraph",
+      "id": "paragraph_13",
+      "content": "The toll-like receptors that detect different types of pathogens are also located in different parts of the cell and employ different signalling pathways to activate the relevant antimicrobial defence mechanisms; the receptors that detect bacteria and fungi, for example, are located at the plasma membrane, whereas those that detect viruses—such as TLR7 and TLR9—are found in compartments called endosomes. The main reason for this is the need to distinguish between the molecular signatures of the invaders and the molecules that are found naturally in the cell. The various polysaccharides that make up the cell walls of bacteria and fungi are quite different to any molecules made by eukaryotic cells, but viral nucleic acids are very similar to those found in cells. One strategy adopted by the toll-like receptors that detect viruses is to remain inactive until they are cleaved by proteases in the endosomes (Ewald et al., 2008; Park et al., 2008)."
+    },
+    "citation_reference_14": {
+      "type": "citation_reference",
+      "id": "citation_reference_14",
+      "path": [
+        "paragraph_13",
+        "content"
+      ],
+      "target": "article_citation_bib2",
+      "range": [
+        916,
+        934
+      ]
+    },
+    "citation_reference_15": {
+      "type": "citation_reference",
+      "id": "citation_reference_15",
+      "path": [
+        "paragraph_13",
+        "content"
+      ],
+      "target": "article_citation_bib7",
+      "range": [
+        936,
+        953
+      ]
+    },
+    "paragraph_16": {
+      "type": "paragraph",
+      "id": "paragraph_16",
+      "content": "Previous studies have shown that these receptors rely on a protein called UNC93B1 to get them from the endoplasmic reticulum (where both the receptor and the protein are produced) to the endosome and to make them functional. However, it has not been clear if the complex formed by the receptor and UNC93B1 travels via the Golgi apparatus and the plasma membrane en route to the endosome (this is called the general secretory pathway; Ewald et al., 2008), or if the complex follows a more direct (but less conventional) path from the endoplasmic reticulum direct to the endosome (Kim et al., 2008). Now, in eLife, Gregory Barton and colleagues at the University of California at Berkeley, including Bettina Lee as first author, report that TLR9 (the receptor that detects viral DNA) reaches the endosome via a pathway that is distinct from that taken by TLR7 (the receptor that detects viral RNA), although both pass through the Golgi (Lee et al., 2013)."
+    },
+    "citation_reference_17": {
+      "type": "citation_reference",
+      "id": "citation_reference_17",
+      "path": [
+        "paragraph_16",
+        "content"
+      ],
+      "target": "article_citation_bib2",
+      "range": [
+        434,
+        452
+      ]
+    },
+    "citation_reference_18": {
+      "type": "citation_reference",
+      "id": "citation_reference_18",
+      "path": [
+        "paragraph_16",
+        "content"
+      ],
+      "target": "article_citation_bib4",
+      "range": [
+        579,
+        595
+      ]
+    },
+    "annotation_19": {
+      "type": "emphasis",
+      "id": "annotation_19",
+      "path": [
+        "paragraph_16",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        606,
+        611
+      ]
+    },
+    "citation_reference_20": {
+      "type": "citation_reference",
+      "id": "citation_reference_20",
+      "path": [
+        "paragraph_16",
+        "content"
+      ],
+      "target": "article_citation_bib5",
+      "range": [
+        935,
+        951
+      ]
+    },
+    "paragraph_21": {
+      "type": "paragraph",
+      "id": "paragraph_21",
+      "content": "Previous clues that TLR7 and TLR9 are handled differently by UNC93B1 came from experiments which showed that mice harbouring a mutant form of UNC93B1 succumbed to severe autoimmune disease due to enhanced TLR7 signalling and impaired TLR9 responses (Fukui et al., 2011). The Berkeley team now shows that the UNC93B1/ TLR9 complex travels to the cell surface, where UNC93B1 recruits an adaptor protein known as AP-2 to bring TLR9 inside an endosome (route 1 in Figure 1). By contrast, a different adaptor protein, AP-4, binds to TLR7 as it leaves the Golgi to create a vesicle that travels directly to the endosomes without going to the cell surface (route 2 in Figure 1). Other endosome-based receptors (TLR3, TLR11, TLR12 and TLR13) also travel along the same AP-2 independent pathway as TLR7, but it is not known if AP-4 is required for the trafficking of these receptors."
+    },
+    "citation_reference_22": {
+      "type": "citation_reference",
+      "id": "citation_reference_22",
+      "path": [
+        "paragraph_21",
+        "content"
+      ],
+      "target": "article_citation_bib3",
+      "range": [
+        250,
+        268
+      ]
+    },
+    "figure_reference_23": {
+      "type": "figure_reference",
+      "id": "figure_reference_23",
+      "path": [
+        "paragraph_21",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        460,
+        468
+      ]
+    },
+    "figure_reference_24": {
+      "type": "figure_reference",
+      "id": "figure_reference_24",
+      "path": [
+        "paragraph_21",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        661,
+        669
+      ]
+    },
+    "image_fig1": {
+      "type": "image",
+      "id": "image_fig1",
+      "label": "Figure 1.",
+      "url": "",
+      "object_id": "F1",
+      "title": "The transmembrane protein UNC93B1 (black spring-like shape) associates with various toll-like receptors (horseshoe-like shapes) in the endoplasmic reticulum to help load them into vesicles coated with COPII for transport to the Golgi.",
+      "content_type": "",
+      "large_url": "",
+      "content": "",
+      "group": [
+        "parent",
+        null
+      ],
+      "doi": "",
+      "caption": "paragraph_image_fig1",
+      "graphic_id": "elife00572f001"
+    },
+    "paragraph_image_fig1": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig1",
+      "content": "TLR9 (dark blue) follows the secretory pathway (route 1) to the plasma membrane, where AP-2 (yellow oval) binds to the UNC93B1 and transports the TLR9/UNC93B1 complex to the endosome. After being cleaved by proteases inside the endosome, TLR9 becomes active and is able to send signals to induce inflammation, which is part of the immune response. AP-3 (dark pink) can then direct TLR9 to a different type of endosome, from which it can activate the production of proteins called interferons (IFNs), which are part of the antiviral immune response. TLR7 (red) follows a different path (route 2) that does not involve going to the plasma membrane, but does result in the induction of inflammation and the production of interferons. This pathway starts with AP-4 (orange oval) binding to the receptor in the Golgi and transporting it to an endosome. Four other toll-like receptors—TLR3, TLR11, TLR12 and TLR13—also likely follow this path. AP: clathrin adaptor protein; COPII: coat protein complex II; NF-κB: nuclear factor-kappaB."
+    },
+    "paragraph_25": {
+      "type": "paragraph",
+      "id": "paragraph_25",
+      "content": "Once inside an endosome, TLR9 and TLR7 are cleaved by proteases. This allows them to detect viral DNA and RNA respectively, and to send signals that trigger inflammation, which is an important part of the immune response (Ewald et al., 2008; Park et al., 2008), and to produce interferons which, among other tasks, prevent viruses from replicating. (The adaptor protein AP-3 is required for the production of interferon; Sasai et al., 2010)."
+    },
+    "citation_reference_26": {
+      "type": "citation_reference",
+      "id": "citation_reference_26",
+      "path": [
+        "paragraph_25",
+        "content"
+      ],
+      "target": "article_citation_bib2",
+      "range": [
+        222,
+        240
+      ]
+    },
+    "citation_reference_27": {
+      "type": "citation_reference",
+      "id": "citation_reference_27",
+      "path": [
+        "paragraph_25",
+        "content"
+      ],
+      "target": "article_citation_bib7",
+      "range": [
+        242,
+        259
+      ]
+    },
+    "citation_reference_28": {
+      "type": "citation_reference",
+      "id": "citation_reference_28",
+      "path": [
+        "paragraph_25",
+        "content"
+      ],
+      "target": "article_citation_bib9",
+      "range": [
+        421,
+        439
+      ]
+    },
+    "paragraph_29": {
+      "type": "paragraph",
+      "id": "paragraph_29",
+      "content": "The current work adds to the mounting evidence that there is evolutionary pressure to keep the expression and function of TLR7 at a low level. First, the Berkeley team showed that translation of TLR7 mRNA into protein is inefficient, possibly due to TLR7 codon usage being highly suboptimal, and this results in levels of TLR7 that are often too low to be detected by Western blot (Lee et al., 2013). Further, the Berkeley work suggests that sending TLR7 to the plasma membrane might pose an unacceptable risk for the immune system by exposing the receptor to extracellular RNA (that was not produced by the virus). Although TLR7 has a built-in safety mechanism—it needs to be activated by a protease, a process that normally occurs in the endosome—extracellular proteases might also activate TLR7 under certain conditions."
+    },
+    "citation_reference_30": {
+      "type": "citation_reference",
+      "id": "citation_reference_30",
+      "path": [
+        "paragraph_29",
+        "content"
+      ],
+      "target": "article_citation_bib5",
+      "range": [
+        382,
+        398
+      ]
+    },
+    "paragraph_31": {
+      "type": "paragraph",
+      "id": "paragraph_31",
+      "content": "Why must TLR7 be kept under such strict regulation? The answer likely lies in the fact that uncontrolled TLR7 signalling can cause autoimmune diseases. Gene duplication in TLR7 is sufficient, on its own, to generate an autoimmune disease that is similar to lupus (Pisitkun et al., 2006). Moreover, loss of TLR7 protects mice from lupus, while loss of TLR9 exacerbates the disease (Christensen et al., 2006). In principle, the signals sent by TLR7 and TLR9 should be very similar, so why are some autoimmune diseases associated with TLR7 but not TLR9? Lee, Barton and colleagues shed new light on this by showing that TLR7 and TLR9 associate with UNC93B1 in a mutually exclusive manner, suggesting that each UNC93B1 molecule interacts with a single receptor. This suggests the intriguing possibility that TLR7 and TLR9 endosomal compartments may be quite distinct with respect to their composition and their accessibility to different viral and endogenous ligands."
+    },
+    "citation_reference_32": {
+      "type": "citation_reference",
+      "id": "citation_reference_32",
+      "path": [
+        "paragraph_31",
+        "content"
+      ],
+      "target": "article_citation_bib8",
+      "range": [
+        264,
+        285
+      ]
+    },
+    "citation_reference_33": {
+      "type": "citation_reference",
+      "id": "citation_reference_33",
+      "path": [
+        "paragraph_31",
+        "content"
+      ],
+      "target": "article_citation_bib1",
+      "range": [
+        381,
+        405
+      ]
+    },
+    "paragraph_34": {
+      "type": "paragraph",
+      "id": "paragraph_34",
+      "content": "Much of the research into toll-like receptors to date has been performed on cell lines and cells taken from bone marrow and grown in vitro. The next step is to study these processes in primary immune cells, notably those cell types that are implicated in lupus (such as B cells and various types of dendritic cells). The mechanisms by which these cells detect viral nuclei acids and send signals are likely to be different to the mechanisms we already know about, so there is still plenty to do."
+    },
+    "info:competing-interest": {
+      "type": "heading",
+      "id": "info:competing-interest",
+      "level": 2,
+      "content": "Competing Interests",
+      "nodes": [
+        "paragraph_35"
+      ]
+    },
+    "paragraph_35": {
+      "type": "paragraph",
+      "id": "paragraph_35",
+      "content": "Competing interests:The authors declare that no competing interests existReferences"
+    },
+    "article_citation_bib1": {
+      "type": "article_citation",
+      "id": "article_citation_bib1",
+      "authors": [
+        {
+          "given-names": "SR",
+          "last-name": "Christensen"
+        },
+        {
+          "given-names": "J",
+          "last-name": "Shupe"
+        },
+        {
+          "given-names": "K",
+          "last-name": "Nickerson"
+        },
+        {
+          "given-names": "M",
+          "last-name": "Kashgarian"
+        },
+        {
+          "given-names": "RA",
+          "last-name": "Flavell"
+        },
+        {
+          "given-names": "MJ",
+          "last-name": "Shlomchik"
+        }
+      ],
+      "title": "Toll-like receptor 7 and TLR9 dictate autoantibody specificity and have opposing inflammatory and regulatory roles in a murine model of lupus",
+      "year": "2006",
+      "volume": "25",
+      "source": "Immunity",
+      "issue": "",
+      "fpage": "417",
+      "lpage": "28",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/j.immuni.2006.07.013",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib2": {
+      "type": "article_citation",
+      "id": "article_citation_bib2",
+      "authors": [
+        {
+          "given-names": "SE",
+          "last-name": "Ewald"
+        },
+        {
+          "given-names": "BL",
+          "last-name": "Lee"
+        },
+        {
+          "given-names": "L",
+          "last-name": "Lau"
+        },
+        {
+          "given-names": "KE",
+          "last-name": "Wickliffe"
+        },
+        {
+          "given-names": "G-P",
+          "last-name": "Shi"
+        },
+        {
+          "given-names": "HA",
+          "last-name": "Chapman"
+        }
+      ],
+      "title": "The ectodomain of Toll-like receptor 9 is cleaved to generate a functional receptor",
+      "year": "2008",
+      "volume": "456",
+      "source": "Nature",
+      "issue": "",
+      "fpage": "658",
+      "lpage": "62",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1038/nature07405",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib3": {
+      "type": "article_citation",
+      "id": "article_citation_bib3",
+      "authors": [
+        {
+          "given-names": "R",
+          "last-name": "Fukui"
+        },
+        {
+          "given-names": "S-I",
+          "last-name": "Saitoh"
+        },
+        {
+          "given-names": "A",
+          "last-name": "Kanno"
+        },
+        {
+          "given-names": "M",
+          "last-name": "Onji"
+        },
+        {
+          "given-names": "T",
+          "last-name": "Shibata"
+        },
+        {
+          "given-names": "A",
+          "last-name": "Ito"
+        }
+      ],
+      "title": "Unc93B1 restricts systemic lethal inflammation by orchestrating Toll-like receptor 7 and 9 trafficking",
+      "year": "2011",
+      "volume": "35",
+      "source": "Immunity",
+      "issue": "",
+      "fpage": "69",
+      "lpage": "81",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/j.immuni.2011.05.010",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib4": {
+      "type": "article_citation",
+      "id": "article_citation_bib4",
+      "authors": [
+        {
+          "given-names": "Y-M",
+          "last-name": "Kim"
+        },
+        {
+          "given-names": "MM",
+          "last-name": "Brinkmann"
+        },
+        {
+          "given-names": "M-E",
+          "last-name": "Paquet"
+        },
+        {
+          "given-names": "HL",
+          "last-name": "Ploegh"
+        }
+      ],
+      "title": "UNC93B1 delivers nucleotide-sensing toll-like receptors to endolysosomes",
+      "year": "2008",
+      "volume": "452",
+      "source": "Nature",
+      "issue": "",
+      "fpage": "234",
+      "lpage": "8",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1038/nature06726",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib5": {
+      "type": "article_citation",
+      "id": "article_citation_bib5",
+      "authors": [
+        {
+          "given-names": "BL",
+          "last-name": "Lee"
+        },
+        {
+          "given-names": "JE",
+          "last-name": "Moon"
+        },
+        {
+          "given-names": "JH",
+          "last-name": "Shu"
+        },
+        {
+          "given-names": "L",
+          "last-name": "Yuan"
+        },
+        {
+          "given-names": "ZR",
+          "last-name": "Newman"
+        },
+        {
+          "given-names": "R",
+          "last-name": "Schekman"
+        }
+      ],
+      "title": "UNC93B1 mediates differential trafficking of endosomal TLRs",
+      "year": "2013",
+      "volume": "2",
+      "source": "eLife",
+      "issue": "",
+      "fpage": "e00291",
+      "lpage": "",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.7554/eLife.00291",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib6": {
+      "type": "article_citation",
+      "id": "article_citation_bib6",
+      "authors": [
+        {
+          "given-names": "R.",
+          "last-name": "Medzhitov"
+        }
+      ],
+      "title": "Toll-like receptors and innate immunity",
+      "year": "2001",
+      "volume": "1",
+      "source": "Nat Rev Immunol",
+      "issue": "",
+      "fpage": "135",
+      "lpage": "45",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1038/35100529",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib7": {
+      "type": "article_citation",
+      "id": "article_citation_bib7",
+      "authors": [
+        {
+          "given-names": "B",
+          "last-name": "Park"
+        },
+        {
+          "given-names": "MM",
+          "last-name": "Brinkmann"
+        },
+        {
+          "given-names": "E",
+          "last-name": "Spooner"
+        },
+        {
+          "given-names": "CC",
+          "last-name": "Lee"
+        },
+        {
+          "given-names": "Y-M",
+          "last-name": "Kim"
+        },
+        {
+          "given-names": "HL",
+          "last-name": "Ploegh"
+        }
+      ],
+      "title": "Proteolytic cleavage in an endolysosomal compartment is required for activation of Toll-like receptor 9",
+      "year": "2008",
+      "volume": "9",
+      "source": "Nat Immunol",
+      "issue": "",
+      "fpage": "1407",
+      "lpage": "14",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1038/ni.1669",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib8": {
+      "type": "article_citation",
+      "id": "article_citation_bib8",
+      "authors": [
+        {
+          "given-names": "P",
+          "last-name": "Pisitkun"
+        },
+        {
+          "given-names": "JA",
+          "last-name": "Deane"
+        },
+        {
+          "given-names": "MJ",
+          "last-name": "Difilippantonio"
+        },
+        {
+          "given-names": "T",
+          "last-name": "Tarasenko"
+        },
+        {
+          "given-names": "AB",
+          "last-name": "Satterthwaite"
+        },
+        {
+          "given-names": "S",
+          "last-name": "Bolland"
+        }
+      ],
+      "title": "Autoreactive B cell responses to RNA-related antigens due to TLR7 gene duplication",
+      "year": "2006",
+      "volume": "312",
+      "source": "Science",
+      "issue": "",
+      "fpage": "1669",
+      "lpage": "72",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1126/science.1124978",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib9": {
+      "type": "article_citation",
+      "id": "article_citation_bib9",
+      "authors": [
+        {
+          "given-names": "M",
+          "last-name": "Sasai"
+        },
+        {
+          "given-names": "MM",
+          "last-name": "Linehan"
+        },
+        {
+          "given-names": "A",
+          "last-name": "Iwasaki"
+        }
+      ],
+      "title": "Bifurcation of Toll-like receptor 9 signaling by adaptor protein 3",
+      "year": "2010",
+      "volume": "329",
+      "source": "Science",
+      "issue": "",
+      "fpage": "1530",
+      "lpage": "4",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1126/science.1187029",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    }
+  }
+}

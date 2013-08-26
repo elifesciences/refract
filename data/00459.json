@@ -1,0 +1,5385 @@
+{
+  "id": "00459",
+  "nodes": {
+    "content": {
+      "type": "view",
+      "id": "content",
+      "nodes": [
+        "abstract",
+        "paragraph_4",
+        "paragraph_5",
+        "heading_8",
+        "paragraph_9",
+        "paragraph_10",
+        "paragraph_11",
+        "paragraph_12",
+        "heading_s1",
+        "paragraph_16",
+        "paragraph_20",
+        "paragraph_23",
+        "paragraph_29",
+        "heading_s2",
+        "heading_s2-1",
+        "paragraph_33",
+        "paragraph_64",
+        "paragraph_74",
+        "heading_s2-2",
+        "paragraph_79",
+        "paragraph_95",
+        "paragraph_110",
+        "heading_s2-3",
+        "paragraph_119",
+        "paragraph_154",
+        "paragraph_171",
+        "heading_s2-4",
+        "paragraph_180",
+        "paragraph_202",
+        "heading_s2-5",
+        "paragraph_213",
+        "heading_s3",
+        "paragraph_237",
+        "heading_s3-1",
+        "paragraph_238",
+        "paragraph_244",
+        "heading_s3-2",
+        "paragraph_249",
+        "paragraph_250",
+        "paragraph_253",
+        "heading_s3-3",
+        "paragraph_256",
+        "heading_s3-4",
+        "paragraph_260",
+        "heading_s4",
+        "heading_s4-1",
+        "paragraph_271",
+        "heading_s4-2",
+        "paragraph_272",
+        "heading_s4-3",
+        "paragraph_274",
+        "heading_s4-4",
+        "paragraph_279",
+        "sub-article",
+        "sub-article"
+      ]
+    },
+    "figures": {
+      "type": "view",
+      "id": "figures",
+      "nodes": [
+        "image_fig1",
+        "image_fig1s1",
+        "image_fig1s2",
+        "image_fig1s3",
+        "image_fig1s4",
+        "image_fig1s5",
+        "image_fig1s6",
+        "image_fig1s7",
+        "image_fig1s8",
+        "image_fig1s9",
+        "image_fig1s10",
+        "table_tbl1",
+        "image_fig2",
+        "image_fig3",
+        "image_fig4",
+        "image_fig4s1",
+        "image_fig4s2",
+        "image_fig4s3",
+        "image_fig5",
+        "image_fig5s1",
+        "image_fig5s2",
+        "image_fig5s3",
+        "image_fig6",
+        "image_fig6s1",
+        "image_fig7"
+      ]
+    },
+    "citations": {
+      "type": "view",
+      "id": "citations",
+      "nodes": [
+        "article_citation_bib1",
+        "article_citation_bib2",
+        "article_citation_bib3",
+        "article_citation_bib4",
+        "article_citation_bib5",
+        "article_citation_bib6",
+        "article_citation_bib7",
+        "article_citation_bib8",
+        "article_citation_bib9",
+        "article_citation_bib10",
+        "article_citation_bib11",
+        "article_citation_bib12",
+        "article_citation_bib13",
+        "article_citation_bib14",
+        "article_citation_bib15",
+        "article_citation_bib16",
+        "article_citation_bib17",
+        "article_citation_bib18",
+        "article_citation_bib19",
+        "article_citation_bib20",
+        "article_citation_bib21",
+        "article_citation_bib22",
+        "article_citation_bib23",
+        "article_citation_bib24",
+        "article_citation_bib25",
+        "article_citation_bib26",
+        "article_citation_bib27"
+      ]
+    },
+    "document": {
+      "type": "document",
+      "id": "document",
+      "views": [
+        "content",
+        "figures",
+        "citations"
+      ],
+      "guid": "00459",
+      "title": "The ART-Rsp5 ubiquitin ligase network comprises a plasma membrane quality control system that protects yeast cells from proteotoxic stress",
+      "authors": [
+        "person_author_3534",
+        "person_author_3535",
+        "person_author_3536",
+        "person_author_2368"
+      ],
+      "received_on": "2012-12-13",
+      "accepted_on": "2013-03-13",
+      "published_on": "2013-04-16",
+      "journal": "elife",
+      "article_type": "",
+      "keywords": [
+        "endocytosis",
+        "membrane traffic",
+        "ubiquitin",
+        "quality control",
+        "proteostasis"
+      ],
+      "research_organisms": [
+        "S. cerevisiae"
+      ],
+      "subjects": [
+        "Cell biology"
+      ],
+      "pdf_link": "",
+      "xml_link": "",
+      "json_link": "",
+      "doi": ""
+    },
+    "person_author_3534": {
+      "type": "person",
+      "id": "person_author_3534",
+      "given-names": "Yingying",
+      "last-name": "Zhao",
+      "role": "author",
+      "affiliations": [],
+      "image": "",
+      "contribution": " Conception and design, Acquisition of data, Analysis and interpretation of data",
+      "email": "",
+      "funding": []
+    },
+    "person_author_3535": {
+      "type": "person",
+      "id": "person_author_3535",
+      "given-names": "Jason A",
+      "last-name": "MacGurn",
+      "role": "author",
+      "affiliations": [],
+      "image": "",
+      "contribution": " Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article",
+      "email": "",
+      "funding": [
+        "funding_par_1"
+      ]
+    },
+    "person_author_3536": {
+      "type": "person",
+      "id": "person_author_3536",
+      "given-names": "Max",
+      "last-name": "Liu",
+      "role": "author",
+      "affiliations": [],
+      "image": "",
+      "contribution": " Generated strains and reagents for the genetic array, Carried out the genetic array experiments, Analysis and interpretation of data",
+      "email": "",
+      "funding": []
+    },
+    "person_author_2368": {
+      "type": "person",
+      "id": "person_author_2368",
+      "given-names": "Scott",
+      "last-name": "Emr",
+      "role": "author",
+      "affiliations": [],
+      "image": "",
+      "contribution": " Conception and design, Analysis and interpretation of data, Drafting or revising the article",
+      "email": "email_cor1",
+      "funding": [
+        "funding_par_2"
+      ]
+    },
+    "institution_aff1": {
+      "type": "institution",
+      "id": "institution_aff1",
+      "name": "Cornell University",
+      "city": "Ithaca",
+      "country": "United States",
+      "email": "",
+      "image": ""
+    },
+    "person_1": {
+      "type": "person",
+      "id": "person_1",
+      "given-names": "Raymond J",
+      "last-name": "Deshaies",
+      "role": "editor",
+      "affiliations": [],
+      "image": "",
+      "contribution": "",
+      "email": "",
+      "funding": []
+    },
+    "info:review": {
+      "type": "heading",
+      "id": "info:review",
+      "level": 2,
+      "content": "Reviewing Editor",
+      "nodes": [
+        "person_1"
+      ]
+    },
+    "email_cor1": {
+      "type": "email",
+      "id": "email_cor1",
+      "node": "",
+      "email": "sde26@cornell.edu"
+    },
+    "info:copyright": {
+      "type": "heading",
+      "id": "info:copyright",
+      "level": 2,
+      "content": "Copyright",
+      "nodes": [
+        "paragraph_2"
+      ]
+    },
+    "paragraph_2": {
+      "type": "paragraph",
+      "id": "paragraph_2",
+      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited.10.7554/eLife.00459.001"
+    },
+    "annotation_3": {
+      "type": "link",
+      "id": "annotation_3",
+      "path": [
+        "paragraph_2",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        51,
+        87
+      ],
+      "url": "http://creativecommons.org/licenses/by/3.0/"
+    },
+    "abstract": {
+      "type": "heading",
+      "id": "abstract",
+      "level": 1,
+      "content": "Abstract",
+      "nodes": []
+    },
+    "paragraph_4": {
+      "type": "paragraph",
+      "id": "paragraph_4",
+      "content": "Secretory cargo that cannot fold properly in the ER are selectively targeted for removal by a well-studied ER-associated degradation pathway, or ERAD. In contrast, very little is known about post-ER quality control mechanisms for damaged or misfolded integral membrane proteins. Here we describe a quality control function of the Rsp5-ART ubiquitin ligase adaptor network that functions to protect plasma membrane (PM) integrity. Failure to mediate this protective response during heat stress leads to toxic accumulation of misfolded integral membrane proteins at the cell surface, which causes loss of PM integrity and cell death. Thus, the Rsp5-ART network comprises a PM quality control system that works together with sequential quality control pathways in the ER and Golgi to (i) target the degradation of proteins that have exceeded their functional lifetime due to damage and/or misfolding and (ii) limit the toxic accumulation of specific proteins at the cell surface during proteotoxic stress."
+    },
+    "paragraph_5": {
+      "type": "paragraph",
+      "id": "paragraph_5",
+      "content": "DOI: http://dx.doi.org/10.7554/eLife.00459.00110.7554/eLife.00459.002"
+    },
+    "annotation_6": {
+      "type": "strong",
+      "id": "annotation_6",
+      "path": [
+        "paragraph_5",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        4
+      ]
+    },
+    "annotation_7": {
+      "type": "link",
+      "id": "annotation_7",
+      "path": [
+        "paragraph_5",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        5,
+        46
+      ],
+      "url": "10.7554/eLife.00459.001"
+    },
+    "heading_8": {
+      "type": "heading",
+      "id": "heading_8",
+      "level": 0,
+      "content": "eLife digest",
+      "nodes": []
+    },
+    "paragraph_9": {
+      "type": "paragraph",
+      "id": "paragraph_9",
+      "content": "Cells have evolved elaborate mechanisms for the detection of misfolded or damaged proteins, and for targeting their degradation. Since the accumulation of misfolded proteins is toxic to the cell, these protein quality control systems are critical for the maintenance of normal cellular function over the lifetime of an organism. The breakdown of this quality control correlates with the progression of neurodegenerative disorders including Alzheimer's, Huntington's and Parkinson's disease. Normal function of the protein quality control machinery can also cause disease: this is the case with channelopathies such as cystic fibrosis, in which mutant ion channels are targeted for degradation and therefore cannot function correctly at the cell surface. Understanding how protein quality control systems recognize misfolded proteins and target their degradation, and designing ways to stabilize or destabilize specific targets, particularly at the cell surface, could thus lead to the development of new therapeutic strategies."
+    },
+    "paragraph_10": {
+      "type": "paragraph",
+      "id": "paragraph_10",
+      "content": "While protein quality control mechanisms in the cytosol and endoplasmic reticulum (ER) have been studied extensively, much less is known about quality control of integral membrane proteins after they exit the ER. Maintaining the quality of cell surface proteins impacts many critical biological functions including nutrient uptake, signaling and the functioning of specialized surface structures such as cell junctions."
+    },
+    "paragraph_11": {
+      "type": "paragraph",
+      "id": "paragraph_11",
+      "content": "Here, Zhao et al. describe a new quality control mechanism that prevents misfolded proteins from accumulating in the plasma membrane. Building upon earlier work describing a network of adaptor proteins (called ARTs) for the Rsp5 ubiquitin ligase, Zhao et al. show that subjecting cells to proteotoxic stress, particularly thermal stress, triggers ART-Rsp5-mediated clearance of misfolded plasma membrane proteins. When ART-Rsp5-mediated clearance is abrogated, misfolded proteins accumulate at the cell surface, resulting in a rapid loss of cellular integrity. In the brain, such proteotoxicity can lead to cell death and neurodegeneration, thereby highlighting the importance of this plasma membrane quality control system."
+    },
+    "paragraph_12": {
+      "type": "paragraph",
+      "id": "paragraph_12",
+      "content": "DOI: http://dx.doi.org/10.7554/eLife.00459.002"
+    },
+    "annotation_13": {
+      "type": "strong",
+      "id": "annotation_13",
+      "path": [
+        "paragraph_12",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        4
+      ]
+    },
+    "annotation_14": {
+      "type": "link",
+      "id": "annotation_14",
+      "path": [
+        "paragraph_12",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        5,
+        46
+      ],
+      "url": "10.7554/eLife.00459.002"
+    },
+    "funding_par_1": {
+      "type": "funding",
+      "id": "funding_par_1",
+      "institution": "NIH K99 Pathway to Independence Award",
+      "accession": "1K99GM101077",
+      "person": "person_author_3535",
+      "given-names": "Jason A",
+      "last-name": "MacGurn"
+    },
+    "funding_par_2": {
+      "type": "funding",
+      "id": "funding_par_2",
+      "institution": "Cornell University Research Grant",
+      "accession": "",
+      "person": "person_author_2368",
+      "given-names": "Scott",
+      "last-name": "Emr"
+    },
+    "info:impact": {
+      "type": "heading",
+      "id": "info:impact",
+      "level": 2,
+      "content": "ImpactAuthor impact statementUbiquitin ligase adaptors target the selective clearance of misfolded plasma membrane proteins.",
+      "nodes": [
+        "paragraph_15"
+      ]
+    },
+    "paragraph_15": {
+      "type": "paragraph",
+      "id": "paragraph_15",
+      "content": ""
+    },
+    "heading_s1": {
+      "type": "heading",
+      "id": "heading_s1",
+      "level": 1,
+      "content": "Introduction",
+      "nodes": []
+    },
+    "paragraph_16": {
+      "type": "paragraph",
+      "id": "paragraph_16",
+      "content": "Cells have evolved elaborate protein quality control mechanisms that assist proteins in achieving their desired native structure and also help target the degradation of proteins that have become misfolded, damaged, or otherwise aberrant. This system, often referred to as the cellular proteostasis network, consists of an elaborate network of proteins dedicated to preventing the toxic accumulation of unfolded or misfolded proteins. Newly translated proteins interact with chaperones that direct their folding into the native active form. Proteins that do not fold correctly or older proteins that exceed their functional lifetime are recognized by cellular quality control mechanisms that target them for degradation. Often, the cell employs compartment-specific mechanisms that ensure protein quality control. For example, misfolded protein domains that are soluble and accessible to the cytosol can be targeted for degradation by CHIP, an E3 ligase that interacts with various chaperones to target ubiquitination of misfolded substrates (Meacham et al., 2001). Similarly, unfolded soluble protein domains in the lumen of the ER are clients of the Hsp70 family member BiP/Kar2, and extended association with BiP/Kar2 can lead to targeting for ubiquitination by the ERAD machinery and subsequent proteasomal degradation (Claessen et al., 2011; Walter and Ron, 2011). In these examples, targeting of misfolded proteins for ubiquitination and subsequent degradation is mediated by prolonged interaction with chaperones, which serve as adaptors that recruit E3 ubiquitin ligases to modify misfolded clients. In both cases, ubiquitinated substrates are ultimately degraded by the proteasome."
+    },
+    "citation_reference_17": {
+      "type": "citation_reference",
+      "id": "citation_reference_17",
+      "path": [
+        "paragraph_16",
+        "content"
+      ],
+      "target": "article_citation_bib17",
+      "range": [
+        1042,
+        1062
+      ]
+    },
+    "citation_reference_18": {
+      "type": "citation_reference",
+      "id": "citation_reference_18",
+      "path": [
+        "paragraph_16",
+        "content"
+      ],
+      "target": "article_citation_bib3",
+      "range": [
+        1323,
+        1344
+      ]
+    },
+    "citation_reference_19": {
+      "type": "citation_reference",
+      "id": "citation_reference_19",
+      "path": [
+        "paragraph_16",
+        "content"
+      ],
+      "target": "article_citation_bib25",
+      "range": [
+        1346,
+        1366
+      ]
+    },
+    "paragraph_20": {
+      "type": "paragraph",
+      "id": "paragraph_20",
+      "content": "Quality control of integral plasma membrane proteins plays a critical role in many human diseases because it affects the quantity of functional proteins—ion channels, nutrient transporters, and signaling receptors—at the cell surface. In contrast to proteins in the cytosol or the ER, which are degraded by the proteasome, most post-ER integral membrane proteins are degraded via lysosomal trafficking. This process is typically ubiquitin-dependent and involves: (i) selective recognition of cargo for ubiquitination, (ii) capture of ubiquitinated cargo for trafficking to the endosome, (iii) endosomal sorting by ESCRT complexes, which package ubiquitinated cargo into vesicles that bud into the lumen of the endosome (intralumenal vesicles, or ILVs), and (iv) fusion of these multivesicular endosomes with lysosomal/vacuolar compartments, resulting in cargo degradation (Henne et al., 2011; MacGurn et al., 2012). While the sorting and trafficking mechanisms in this elaborate downregulation process have been studied extensively, the initial step of cargo recognition for ubiquitination, particularly with respect to the recognition of misfolded proteins in post-ER compartments, is still poorly understood."
+    },
+    "citation_reference_21": {
+      "type": "citation_reference",
+      "id": "citation_reference_21",
+      "path": [
+        "paragraph_20",
+        "content"
+      ],
+      "target": "article_citation_bib6",
+      "range": [
+        873,
+        891
+      ]
+    },
+    "citation_reference_22": {
+      "type": "citation_reference",
+      "id": "citation_reference_22",
+      "path": [
+        "paragraph_20",
+        "content"
+      ],
+      "target": "article_citation_bib15",
+      "range": [
+        893,
+        913
+      ]
+    },
+    "paragraph_23": {
+      "type": "paragraph",
+      "id": "paragraph_23",
+      "content": "Recently, a peripheral membrane protein quality control system was identified for the detection, ubiquitination, and downregulation of misfolded CFTR from the plasma membrane. This mechanism involves recognition of the misfolded cytosolic domain of CFTR by molecular chaperones (Hsc70 and Hsp90) which then recruit the E3 ubiquitin ligase CHIP to ubiquitinate misfolded CFTR (Okiyoneda et al., 2010). Importantly, a similar mechanism was shown to function in the endocytic downregulation of artificial PM cargo fused to cytosolic domains that undergo temperature-induced misfolding (Apaja et al., 2010). These studies provide an elegant mechanism for recognition and clearance of membrane proteins with extensive soluble cytosolic domains but do not address how aberrant conformations of membrane spanning domains are detected and degraded. Evidence for other quality control mechanisms at the PM has been reported using many different PM cargoes. For example, early studies of Pma1, the yeast plasma membrane H+-ATPase, report its rapid degradation following heat stress (Piper, 1995). More recent studies have proposed that an unstable mutant allele of Pma1 which is rapidly ubiquitinated, endocytosed, and degraded in the yeast vacuole may represent a misfolded form of the protein (Liu and Chang, 2006). Other studies of the yeast general amino acid transporter Gap1 demonstrate that loss of sphingolipids alters the activity and stability of Gap1 at the cell surface, suggesting that proteins may become misfolded when PM lipid composition is altered (Lauwers et al., 2007). However, mechanisms for the recognition and targeted ubiquitination of misfolded integral membrane proteins have remained elusive. Furthermore, the physiological consequences of the accumulation of misfolded proteins at the cell surface remain unclear."
+    },
+    "citation_reference_24": {
+      "type": "citation_reference",
+      "id": "citation_reference_24",
+      "path": [
+        "paragraph_23",
+        "content"
+      ],
+      "target": "article_citation_bib18",
+      "range": [
+        376,
+        398
+      ]
+    },
+    "citation_reference_25": {
+      "type": "citation_reference",
+      "id": "citation_reference_25",
+      "path": [
+        "paragraph_23",
+        "content"
+      ],
+      "target": "article_citation_bib1",
+      "range": [
+        583,
+        601
+      ]
+    },
+    "citation_reference_26": {
+      "type": "citation_reference",
+      "id": "citation_reference_26",
+      "path": [
+        "paragraph_23",
+        "content"
+      ],
+      "target": "article_citation_bib20",
+      "range": [
+        1073,
+        1084
+      ]
+    },
+    "citation_reference_27": {
+      "type": "citation_reference",
+      "id": "citation_reference_27",
+      "path": [
+        "paragraph_23",
+        "content"
+      ],
+      "target": "article_citation_bib13",
+      "range": [
+        1286,
+        1305
+      ]
+    },
+    "citation_reference_28": {
+      "type": "citation_reference",
+      "id": "citation_reference_28",
+      "path": [
+        "paragraph_23",
+        "content"
+      ],
+      "target": "article_citation_bib10",
+      "range": [
+        1557,
+        1577
+      ]
+    },
+    "paragraph_29": {
+      "type": "paragraph",
+      "id": "paragraph_29",
+      "content": "Previously, we identified and characterized a network of Rsp5 ubiquitin ligase adaptors called ARTS, or arrestin-related trafficking adaptors. The ART modular adaptor network mediates the recognition and ubiquitination of cell surface proteins, thereby directing the endocytic remodeling of PM protein composition. Thus, ART proteins serve as a key point of regulation during changes in nutrient availability and environmental stress. Here, we report that various proteotoxic stresses trigger extensive cell surface remodeling characterized by the endocytic downregulation of various different PM cargo proteins. Specifically, we show that heat stress results in misfolding of certain thermolabile PM cargo molecules which are targeted for endocytosis and vacuolar degradation by the Rsp5-ART adaptor network. Defects in this endocytic targeting system result in accumulation of cell surface proteins that is toxic during heat stress. This toxicity is associated with loss of PM integrity, which we propose is caused by conformational flux or misfolding of integral membrane proteins at the cell surface. The ART-Rsp5 quality surveillance mechanism at the PM functions in parallel with both ER and Golgi QC systems to control both the quality and quantity of integral membrane proteins in the cell."
+    },
+    "annotation_30": {
+      "type": "underline",
+      "id": "annotation_30",
+      "path": [
+        "paragraph_29",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        104,
+        105
+      ]
+    },
+    "annotation_31": {
+      "type": "underline",
+      "id": "annotation_31",
+      "path": [
+        "paragraph_29",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        113,
+        114
+      ]
+    },
+    "annotation_32": {
+      "type": "underline",
+      "id": "annotation_32",
+      "path": [
+        "paragraph_29",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        121,
+        122
+      ]
+    },
+    "heading_s2": {
+      "type": "heading",
+      "id": "heading_s2",
+      "level": 1,
+      "content": "Results",
+      "nodes": []
+    },
+    "heading_s2-1": {
+      "type": "heading",
+      "id": "heading_s2-1",
+      "level": 2,
+      "content": "Heat stress triggers extensive endocytic downregulation",
+      "nodes": []
+    },
+    "paragraph_33": {
+      "type": "paragraph",
+      "id": "paragraph_33",
+      "content": "Previously, we found that certain environmental changes elicit highly-specific surface remodeling programs, such as the methionine-induced endocytic down-regulation of the methionine transporter Mup1 (Lin et al., 2008). In contrast, other environmental changes can stimulate global surface remodeling programs, such as the TORC1-mediated tuning of PM protein composition by activation of the ART adaptor network (MacGurn et al., 2011). Given the well-characterized effect of high temperature on protein denaturation, we reasoned that the conformational flux facilitated by heat stress might trigger partial denaturation or misfolding of integral membrane proteins, providing a simple assay for the investigation of PM quality control mechanisms. To characterize the effect of heat stress on integral PM protein stability in yeast, we analyzed the trafficking and degradation of various PM cargoes in cells grown at 26°C and shifted to 38°C for 60 min. In general, most cargoes were observed to undergo endocytosis followed by vacuolar trafficking (Figure 1A and Figure 1—figure supplements 1 and 2) and degradation (Figure 1B and Figure 1—figure supplements 3–5), although a few cargoes appeared to be stable (Pdr5, Figure 1B and Figure 1—figure supplement 5) or induced during heat stress (Figure 1—figure supplement 6). This heat-induced endocytic downregulation was observed with varying kinetics and efficiency for many diverse cargoes including amino acid transporters (Mup1, Lyp1, Dip5), hexose transporters (Hxt3), G-protein coupled receptors (Ste3) and proton pumps (Pma1) (Figure 1B). Similar to heat stress, we found that other known proteotoxic stresses (growth in 10% ethanol, 5 mM DTT, or 2.5 mM diamide) triggered the endocytosis and vacuolar trafficking of different PM cargoes, suggesting that endocytic clearance may be associated with protein damage or misfolding. For example, ethanol stress triggered the endocytic downregulation of the arginine transporter Can1 and the methionine transporter Mup1, but had little effect on the surface stability of Lyp1 (Figure 1—figure supplement 7). In contrast, oxidative stress triggered the endocytic downregulation of Lyp1 and Can1 but had little effect on the surface stability of Mup1 (Figure 1—figure supplement 7). Given its dramatic affect on surface protein stability, and given the ability of Saccharomyces cerevisiae to tolerate a wide range of temperatures for growth (Steinmetz et al., 2002), we decided to further investigate the molecular basis for heat-induced endocytic downregulation."
+    },
+    "citation_reference_34": {
+      "type": "citation_reference",
+      "id": "citation_reference_34",
+      "path": [
+        "paragraph_33",
+        "content"
+      ],
+      "target": "article_citation_bib12",
+      "range": [
+        201,
+        217
+      ]
+    },
+    "citation_reference_35": {
+      "type": "citation_reference",
+      "id": "citation_reference_35",
+      "path": [
+        "paragraph_33",
+        "content"
+      ],
+      "target": "article_citation_bib16",
+      "range": [
+        413,
+        433
+      ]
+    },
+    "figure_reference_36": {
+      "type": "figure_reference",
+      "id": "figure_reference_36",
+      "path": [
+        "paragraph_33",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        1048,
+        1057
+      ]
+    },
+    "figure_reference_37": {
+      "type": "figure_reference",
+      "id": "figure_reference_37",
+      "path": [
+        "paragraph_33",
+        "content"
+      ],
+      "target": "image_fig1s1",
+      "range": [
+        1062,
+        1097
+      ]
+    },
+    "figure_reference_38": {
+      "type": "figure_reference",
+      "id": "figure_reference_38",
+      "path": [
+        "paragraph_33",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        1116,
+        1125
+      ]
+    },
+    "figure_reference_39": {
+      "type": "figure_reference",
+      "id": "figure_reference_39",
+      "path": [
+        "paragraph_33",
+        "content"
+      ],
+      "target": "image_fig1s3",
+      "range": [
+        1130,
+        1161
+      ]
+    },
+    "figure_reference_40": {
+      "type": "figure_reference",
+      "id": "figure_reference_40",
+      "path": [
+        "paragraph_33",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        1216,
+        1225
+      ]
+    },
+    "figure_reference_41": {
+      "type": "figure_reference",
+      "id": "figure_reference_41",
+      "path": [
+        "paragraph_33",
+        "content"
+      ],
+      "target": "image_fig1s5",
+      "range": [
+        1230,
+        1258
+      ]
+    },
+    "figure_reference_42": {
+      "type": "figure_reference",
+      "id": "figure_reference_42",
+      "path": [
+        "paragraph_33",
+        "content"
+      ],
+      "target": "image_fig1s6",
+      "range": [
+        1291,
+        1319
+      ]
+    },
+    "figure_reference_43": {
+      "type": "figure_reference",
+      "id": "figure_reference_43",
+      "path": [
+        "paragraph_33",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        1582,
+        1591
+      ]
+    },
+    "figure_reference_44": {
+      "type": "figure_reference",
+      "id": "figure_reference_44",
+      "path": [
+        "paragraph_33",
+        "content"
+      ],
+      "target": "image_fig1s7",
+      "range": [
+        2076,
+        2104
+      ]
+    },
+    "figure_reference_45": {
+      "type": "figure_reference",
+      "id": "figure_reference_45",
+      "path": [
+        "paragraph_33",
+        "content"
+      ],
+      "target": "image_fig1s7",
+      "range": [
+        2249,
+        2277
+      ]
+    },
+    "annotation_46": {
+      "type": "emphasis",
+      "id": "annotation_46",
+      "path": [
+        "paragraph_33",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        2361,
+        2385
+      ]
+    },
+    "citation_reference_47": {
+      "type": "citation_reference",
+      "id": "citation_reference_47",
+      "path": [
+        "paragraph_33",
+        "content"
+      ],
+      "target": "article_citation_bib23",
+      "range": [
+        2439,
+        2461
+      ]
+    },
+    "image_fig1": {
+      "type": "image",
+      "id": "image_fig1",
+      "label": "Figure 1.",
+      "url": "",
+      "object_id": "F1",
+      "title": "Heat stress triggers endocytic downregulation.",
+      "content_type": "",
+      "large_url": "",
+      "content": "",
+      "group": [
+        "parent",
+        null
+      ],
+      "doi": "http://dx.doi.org/10.7554/eLife.00459.003",
+      "caption": "paragraph_image_fig1",
+      "graphic_id": "elife00459f001"
+    },
+    "paragraph_image_fig1": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig1",
+      "content": "(A) Fluorescence distribution of GFP-tagged endocytic cargoes (green) was analyzed in wildtype yeast cells expressing the vacuolar marker Vph1-mCherry (red). Cells were grown to mid-log phase at 26°C (left panels) and then shifted to 38°C for 2 hr (right panels). Plasma membrane (‘PM’) and vacuole (‘vac’) localization are indicated. Note that the GFP moiety of cargo fusions resists hydrolysis and thus fluorescence signal accumulates in the vacuole even as the protein appears to be degraded as monitored by immunoblot. (B) Stability of affinity-tagged cargoes was analyzed following temperature shift from 26°C (left lane) to 40°C. The number beneath each lane indicates quantification of protein abundance (relative to 26°C, t = 0 and normalized to G6PDH as a loading control) determined using the Li-Cor system. (C) Analysis of heat-induced degradation of Lyp1 in the presence of glycerol, a chemical chaperone. (D) Detergent solubility of a thermostable cargo (Pdr5) and a thermolabile cargo (Lyp1) was analyzed at low and high temperature. A schematic representation for the experimental design is shown at the left. (E) Detergent soluble (S40) and insoluble (P40) fractions from membranes incubated at 40°C for 30 min were analyzed for mobility on sucrose step gradients. Top (T) fractions were immobile on the gradient, while bottom (B) fractions migrated through the gradient."
+    },
+    "annotation_48": {
+      "type": "strong",
+      "id": "annotation_48",
+      "path": [
+        "paragraph_image_fig1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1,
+        2
+      ]
+    },
+    "annotation_49": {
+      "type": "strong",
+      "id": "annotation_49",
+      "path": [
+        "paragraph_image_fig1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        524,
+        525
+      ]
+    },
+    "annotation_50": {
+      "type": "strong",
+      "id": "annotation_50",
+      "path": [
+        "paragraph_image_fig1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        819,
+        820
+      ]
+    },
+    "annotation_51": {
+      "type": "strong",
+      "id": "annotation_51",
+      "path": [
+        "paragraph_image_fig1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        919,
+        920
+      ]
+    },
+    "annotation_52": {
+      "type": "strong",
+      "id": "annotation_52",
+      "path": [
+        "paragraph_image_fig1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1126,
+        1127
+      ]
+    },
+    "image_fig1s1": {
+      "type": "image",
+      "id": "image_fig1s1",
+      "label": "Figure 1—figure supplement 1.",
+      "url": "",
+      "object_id": "F2",
+      "title": "Cell surface fluorescence intensity was measured for Mup1-GFP and Can1-GFP following growth at 26°C or following a shift to 38°C for 2 hr.",
+      "content_type": "",
+      "large_url": "",
+      "content": "",
+      "group": [
+        "child",
+        "image_fig1"
+      ],
+      "doi": "http://dx.doi.org/10.7554/eLife.00459.004",
+      "caption": "paragraph_image_fig1s1",
+      "graphic_id": "elife00459fs001"
+    },
+    "paragraph_image_fig1s1": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig1s1",
+      "content": "Top panels illustrate how PM fluorescence intensity was measured and calculated and bottom panels depict fluorescence intensity measurements over many cells (n > 30 cells)."
+    },
+    "image_fig1s2": {
+      "type": "image",
+      "id": "image_fig1s2",
+      "label": "Figure 1—figure supplement 2.",
+      "url": "",
+      "object_id": "F3",
+      "title": "Mup1-pHluorin was used to quantify surface abundance of Mup1 for a population of yeast cells at 26°C or following a shift to 38°C for 2 hr (bottom panel).",
+      "content_type": "",
+      "large_url": "",
+      "content": "",
+      "group": [
+        "child",
+        "image_fig1"
+      ],
+      "doi": "http://dx.doi.org/10.7554/eLife.00459.005",
+      "caption": "paragraph_image_fig1s2",
+      "graphic_id": "elife00459fs002"
+    },
+    "paragraph_image_fig1s2": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig1s2",
+      "content": "Mup1 pHluorin signal originates almost exclusively from the PM (top panel)."
+    },
+    "image_fig1s3": {
+      "type": "image",
+      "id": "image_fig1s3",
+      "label": "Figure 1—figure supplement 3.",
+      "url": "",
+      "object_id": "F4",
+      "title": "Stability of affinity-tagged Mup1 and Pma1 was analyzed following temperature shift from 26°C to indicated temperatures.",
+      "content_type": "",
+      "large_url": "",
+      "content": "",
+      "group": [
+        "child",
+        "image_fig1"
+      ],
+      "doi": "",
+      "caption": "paragraph_image_fig1s3",
+      "graphic_id": "elife00459fs003"
+    },
+    "paragraph_image_fig1s3": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig1s3",
+      "content": "DOI: http://dx.doi.org/10.7554/eLife.00459.006"
+    },
+    "annotation_53": {
+      "type": "strong",
+      "id": "annotation_53",
+      "path": [
+        "paragraph_image_fig1s3",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        4
+      ]
+    },
+    "annotation_54": {
+      "type": "link",
+      "id": "annotation_54",
+      "path": [
+        "paragraph_image_fig1s3",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        5,
+        46
+      ],
+      "url": "10.7554/eLife.00459.006"
+    },
+    "image_fig1s4": {
+      "type": "image",
+      "id": "image_fig1s4",
+      "label": "Figure 1—figure supplement 4.",
+      "url": "",
+      "object_id": "F5",
+      "title": "Stability of Lyp1 was analyzed following temperature shift from 26°C to indicated temperatures in the presence or absence of 3% glycerol.",
+      "content_type": "",
+      "large_url": "",
+      "content": "",
+      "group": [
+        "child",
+        "image_fig1"
+      ],
+      "doi": "",
+      "caption": "paragraph_image_fig1s4",
+      "graphic_id": "elife00459fs004"
+    },
+    "paragraph_image_fig1s4": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig1s4",
+      "content": "DOI: http://dx.doi.org/10.7554/eLife.00459.007"
+    },
+    "annotation_55": {
+      "type": "strong",
+      "id": "annotation_55",
+      "path": [
+        "paragraph_image_fig1s4",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        4
+      ]
+    },
+    "annotation_56": {
+      "type": "link",
+      "id": "annotation_56",
+      "path": [
+        "paragraph_image_fig1s4",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        5,
+        46
+      ],
+      "url": "10.7554/eLife.00459.007"
+    },
+    "image_fig1s5": {
+      "type": "image",
+      "id": "image_fig1s5",
+      "label": "Figure 1—figure supplement 5.",
+      "url": "",
+      "object_id": "F6",
+      "title": "Stability of affinity-tagged Aqr1 and Pdr5 was analyzed following temperature shift from 26°C to indicated temperatures.",
+      "content_type": "",
+      "large_url": "",
+      "content": "",
+      "group": [
+        "child",
+        "image_fig1"
+      ],
+      "doi": "",
+      "caption": "paragraph_image_fig1s5",
+      "graphic_id": "elife00459fs005"
+    },
+    "paragraph_image_fig1s5": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig1s5",
+      "content": "DOI: http://dx.doi.org/10.7554/eLife.00459.008"
+    },
+    "annotation_57": {
+      "type": "strong",
+      "id": "annotation_57",
+      "path": [
+        "paragraph_image_fig1s5",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        4
+      ]
+    },
+    "annotation_58": {
+      "type": "link",
+      "id": "annotation_58",
+      "path": [
+        "paragraph_image_fig1s5",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        5,
+        46
+      ],
+      "url": "10.7554/eLife.00459.008"
+    },
+    "image_fig1s6": {
+      "type": "image",
+      "id": "image_fig1s6",
+      "label": "Figure 1—figure supplement 6.",
+      "url": "",
+      "object_id": "F7",
+      "title": "Identification of integral PM proteins induced by shifting cells to 40°C.",
+      "content_type": "",
+      "large_url": "",
+      "content": "",
+      "group": [
+        "child",
+        "image_fig1"
+      ],
+      "doi": "",
+      "caption": "paragraph_image_fig1s6",
+      "graphic_id": "elife00459fs006"
+    },
+    "paragraph_image_fig1s6": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig1s6",
+      "content": "DOI: http://dx.doi.org/10.7554/eLife.00459.009"
+    },
+    "annotation_59": {
+      "type": "strong",
+      "id": "annotation_59",
+      "path": [
+        "paragraph_image_fig1s6",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        4
+      ]
+    },
+    "annotation_60": {
+      "type": "link",
+      "id": "annotation_60",
+      "path": [
+        "paragraph_image_fig1s6",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        5,
+        46
+      ],
+      "url": "10.7554/eLife.00459.009"
+    },
+    "image_fig1s7": {
+      "type": "image",
+      "id": "image_fig1s7",
+      "label": "Figure 1—figure supplement 7.",
+      "url": "",
+      "object_id": "F8",
+      "title": "Various proteotoxic stresses trigger endocytic downregulation.",
+      "content_type": "",
+      "large_url": "",
+      "content": "",
+      "group": [
+        "child",
+        "image_fig1"
+      ],
+      "doi": "http://dx.doi.org/10.7554/eLife.00459.010",
+      "caption": "paragraph_image_fig1s7",
+      "graphic_id": "elife00459fs007"
+    },
+    "paragraph_image_fig1s7": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig1s7",
+      "content": "Fluorescence distribution of GFP-tagged endocytic cargoes (green) was analyzed in wildtype yeast cells expressing the vacuolar marker Vph1-mCherry (red). Cells were grown to mid-log at 26°C and then subject to the following types of proteotoxic stress: 10% ethanol for 2 hr, 5 mM DTT for 2 hr, or 2.5 mM diamide for 3 hr. Trafficking of Can1-GFP (left), Mup1-GFP (middle), and Lyp1-GFP (right) was analyzed. Plasma membrane (‘PM’) and vacuole (‘vac’) localization are indicated."
+    },
+    "image_fig1s8": {
+      "type": "image",
+      "id": "image_fig1s8",
+      "label": "Figure 1—figure supplement 8.",
+      "url": "",
+      "object_id": "F9",
+      "title": "Analysis of cargo thermostability.",
+      "content_type": "",
+      "large_url": "",
+      "content": "",
+      "group": [
+        "child",
+        "image_fig1"
+      ],
+      "doi": "http://dx.doi.org/10.7554/eLife.00459.011",
+      "caption": "paragraph_image_fig1s8",
+      "graphic_id": "elife00459fs008"
+    },
+    "paragraph_image_fig1s8": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig1s8",
+      "content": "For each heat-induced degradation timecourse experiment, the half-life of each cargo was estimated at each temperature using linear regression. Cargo half-life is shown plotted as a function of temperature for each cargo, revealing different cargoes exhibit different thermostability profiles. The graph on the left shows the thermostability of Lyp1, Mup1, and Aqr1. The graph on the right includes the same data but is scaled to also include thermostability data for Pdr5."
+    },
+    "image_fig1s9": {
+      "type": "image",
+      "id": "image_fig1s9",
+      "label": "Figure 1—figure supplement 9.",
+      "url": "",
+      "object_id": "F10",
+      "title": "Analysis of Lyp1 thermostability in the absence or presence of 3% glycerol.",
+      "content_type": "",
+      "large_url": "",
+      "content": "",
+      "group": [
+        "child",
+        "image_fig1"
+      ],
+      "doi": "http://dx.doi.org/10.7554/eLife.00459.012",
+      "caption": "paragraph_image_fig1s9",
+      "graphic_id": "elife00459fs009"
+    },
+    "paragraph_image_fig1s9": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig1s9",
+      "content": "See also Figure 1—figure supplement 2."
+    },
+    "figure_reference_61": {
+      "type": "figure_reference",
+      "id": "figure_reference_61",
+      "path": [
+        "paragraph_image_fig1s9",
+        "content"
+      ],
+      "target": "image_fig1s2",
+      "range": [
+        9,
+        37
+      ]
+    },
+    "image_fig1s10": {
+      "type": "image",
+      "id": "image_fig1s10",
+      "label": "Figure 1—figure supplement 10.",
+      "url": "",
+      "object_id": "F11",
+      "title": "Analysis of the kinetics of Mup1 lysosomal degradation following the addition of methionine at 26°C in the absence or presence of 3% glycerol.",
+      "content_type": "",
+      "large_url": "",
+      "content": "",
+      "group": [
+        "child",
+        "image_fig1"
+      ],
+      "doi": "",
+      "caption": "paragraph_image_fig1s10",
+      "graphic_id": "elife00459fs010"
+    },
+    "paragraph_image_fig1s10": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig1s10",
+      "content": "DOI: http://dx.doi.org/10.7554/eLife.00459.013"
+    },
+    "annotation_62": {
+      "type": "strong",
+      "id": "annotation_62",
+      "path": [
+        "paragraph_image_fig1s10",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        4
+      ]
+    },
+    "annotation_63": {
+      "type": "link",
+      "id": "annotation_63",
+      "path": [
+        "paragraph_image_fig1s10",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        5,
+        46
+      ],
+      "url": "10.7554/eLife.00459.013"
+    },
+    "paragraph_64": {
+      "type": "paragraph",
+      "id": "paragraph_64",
+      "content": "To further characterize the thermostability of specific cargoes, we grew yeast cells at 26°C and measured the kinetics of cargo degradation following shift to different temperatures (26°C, 34°C, 38°C, 40°C, 42°C) all within the normal growth range for S. cerevisiae. We found that different cargoes exhibited a range of thermostabilities (Table 1 and Figure 1—figure supplement 8) suggesting heat stress triggers thermo-instability that is cargo-intrinsic. Since conformational flux and protein misfolding both increase as a function of temperature, we reasoned that heat-induced instability of PM proteins may relate to misfolding or conformational instability caused by increased temperature. To test this idea, we performed thermostability analysis of the highly thermo-labile lysine transporter Lyp1 in the presence of glycerol, which is known to promote/stabilize protein folding and function as a chemical chaperone (Bernier et al., 2004). Importantly, glycerol enhanced the thermostability of Lyp1 (Figure 1C and Figure 1—figure supplements 4 and 9) but did not stabilize the methionine-induced endocytic downregulation of the methionine transporter Mup1 (Figure 1—figure supplement 10). These data demonstrate that glycerol can stabilize certain integral membrane proteins during heat stress but has no effect on substrate-induced endocytosis. Together, these data are consistent with a mechanism whereby heat stress induces different degrees of misfolding in distinct PM proteins and this conformational instability of integral PM proteins results in their selective recognition and subsequent targeting for endocytic downregulation."
+    },
+    "annotation_65": {
+      "type": "emphasis",
+      "id": "annotation_65",
+      "path": [
+        "paragraph_64",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        252,
+        265
+      ]
+    },
+    "figure_reference_66": {
+      "type": "figure_reference",
+      "id": "figure_reference_66",
+      "path": [
+        "paragraph_64",
+        "content"
+      ],
+      "target": "table_tbl1",
+      "range": [
+        339,
+        346
+      ]
+    },
+    "figure_reference_67": {
+      "type": "figure_reference",
+      "id": "figure_reference_67",
+      "path": [
+        "paragraph_64",
+        "content"
+      ],
+      "target": "image_fig1s8",
+      "range": [
+        351,
+        379
+      ]
+    },
+    "citation_reference_68": {
+      "type": "citation_reference",
+      "id": "citation_reference_68",
+      "path": [
+        "paragraph_64",
+        "content"
+      ],
+      "target": "article_citation_bib2",
+      "range": [
+        923,
+        943
+      ]
+    },
+    "figure_reference_69": {
+      "type": "figure_reference",
+      "id": "figure_reference_69",
+      "path": [
+        "paragraph_64",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        1006,
+        1015
+      ]
+    },
+    "figure_reference_70": {
+      "type": "figure_reference",
+      "id": "figure_reference_70",
+      "path": [
+        "paragraph_64",
+        "content"
+      ],
+      "target": "image_fig1s4",
+      "range": [
+        1020,
+        1055
+      ]
+    },
+    "figure_reference_71": {
+      "type": "figure_reference",
+      "id": "figure_reference_71",
+      "path": [
+        "paragraph_64",
+        "content"
+      ],
+      "target": "image_fig1s10",
+      "range": [
+        1163,
+        1192
+      ]
+    },
+    "table_tbl1": {
+      "type": "table",
+      "id": "table_tbl1",
+      "label": "Table 1.",
+      "content": "<table><thead><tr><td>Cargo</td><td>34°C</td><td>38°C</td><td>40°C</td><td>42°C</td></tr></thead><tbody><tr><td>Lyp1</td><td>160</td><td>50</td><td>25</td><td>–</td></tr><tr><td>Pma1</td><td>Stable</td><td>95</td><td>45</td><td>–</td></tr><tr><td>Mup1</td><td>Stable</td><td>100</td><td>65</td><td>–</td></tr><tr><td>Aqr1</td><td>–</td><td>Stable</td><td>100</td><td>70</td></tr><tr><td>Pdr5</td><td>–</td><td>Stable</td><td>400</td><td>200</td></tr></tbody></table>",
+      "title": "",
+      "footers": [],
+      "doi": "http://dx.doi.org/10.7554/eLife.00459.014",
+      "caption": "paragraph_table_tbl1",
+      "format": ""
+    },
+    "paragraph_table_tbl1": {
+      "type": "paragraph",
+      "id": "paragraph_table_tbl1",
+      "content": "Cargo thermostability"
+    },
+    "footer_72": {
+      "type": "footer",
+      "id": "footer_72",
+      "content": "Kinetic analysis of heat-induced cargo degradation (Figure 1—figure supplements 3 and 4) was used to estimate half-lives of each cargo at each temperature tested. Half-lives are indicated in minutes. ‘–’ indicates half-life not determined.",
+      "label": ""
+    },
+    "figure_reference_73": {
+      "type": "figure_reference",
+      "id": "figure_reference_73",
+      "path": [
+        "footer_72",
+        "content"
+      ],
+      "target": "image_fig1s3",
+      "range": [
+        52,
+        87
+      ]
+    },
+    "paragraph_74": {
+      "type": "paragraph",
+      "id": "paragraph_74",
+      "content": "We decided to further explore the possibility that the thermoinstability observed for certain cargo at the PM is a direct result of misfolding during heat stress. First, we tested for changes in the physico-chemical properties of a relatively stable cargo (Pdr5) and a comparatively heat-labile cargo (Lyp1) using a detergent solubilization assay. Specifically, we isolated yeast plasma membranes (P13 fraction), incubated them at 26°C or 40°C, and analyzed the percentage of cargo that is detergent soluble. While Pdr5 did not exhibit a significant change in detergent solubility at high temperature (Figure 1D, left), Lyp1 detergent solubility was significantly reduced during heat stress (Figure 1D, right) indicating that Lyp1, but not Pdr5, may be misfolding or aggregating at high temperature. To further explore this possibility, we analyzed S40 (detergent soluble) and P40 (detergent insoluble) fractions from membranes subject to heat stress (40°C for 30 min) by scoring mobility on a sucrose gradient (Figure 1E). Importantly, while detergent-soluble cargo in the S40 floated on the sucrose gradient, detergent-insoluble Lyp1 in the P40 fraction migrated to the bottom of the sucrose gradient (Figure 1E), suggesting Lyp1 aggregation during heat stress. These data demonstrate that a thermolabile cargo (Lyp1) tends to aggregate at high temperature and that the rapid degradation of such cargo in response to heat stress may protect cells from the accumulation of aggregated proteins at the surface."
+    },
+    "figure_reference_75": {
+      "type": "figure_reference",
+      "id": "figure_reference_75",
+      "path": [
+        "paragraph_74",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        602,
+        611
+      ]
+    },
+    "figure_reference_76": {
+      "type": "figure_reference",
+      "id": "figure_reference_76",
+      "path": [
+        "paragraph_74",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        692,
+        701
+      ]
+    },
+    "figure_reference_77": {
+      "type": "figure_reference",
+      "id": "figure_reference_77",
+      "path": [
+        "paragraph_74",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        1012,
+        1021
+      ]
+    },
+    "figure_reference_78": {
+      "type": "figure_reference",
+      "id": "figure_reference_78",
+      "path": [
+        "paragraph_74",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        1204,
+        1213
+      ]
+    },
+    "heading_s2-2": {
+      "type": "heading",
+      "id": "heading_s2-2",
+      "level": 2,
+      "content": "The heat-induced endocytic response is mediated by the Rsp5 ubiquitin ligase",
+      "nodes": []
+    },
+    "paragraph_79": {
+      "type": "paragraph",
+      "id": "paragraph_79",
+      "content": "To identify the molecular mechanism that targets misfolded cargo for endocytosis during heat stress, we first tested if this stress response requires Rsp5, a yeast Nedd4 family ubiquitin ligase that targets many PM cargo for ubiquitination and endocytosis (MacGurn et al., 2012). To do this, we analyzed heat-induced cargo trafficking in yeast strains expressing various mutant alleles of Rsp5. Like all Nedd4 family members, Rsp5 contains a C-terminal HECT ubiquitin ligase domain and multiple WW domains required for substrate targeting. These WW domains direct substrate targeting for ubiquitination by binding to a specific peptide sequence called a PY motif (PPXY) present in adaptor proteins (ARTs, ARRDCs) and some substrates (ENaC). While the WW1 domain of Rsp5 was dispensable for heat-induced cargo degradation, mutations in either WW2 or WW3 significantly abrogated the endocytic response (Figure 2A–C). Since these mutations result in significant accumulation of cargo at the PM during heat stress, we tested if mutant alleles of RSP5 exhibited defects in thermotolerance by scoring for growth at elevated temperatures. While rsp5-ww1 mutants did not exhibit any observable temperature sensitivity defect, rsp5-ww2 and rsp5-ww3 mutants were extremely temperature sensitive and failed to grow at 38°C (Figure 2D)."
+    },
+    "citation_reference_80": {
+      "type": "citation_reference",
+      "id": "citation_reference_80",
+      "path": [
+        "paragraph_79",
+        "content"
+      ],
+      "target": "article_citation_bib15",
+      "range": [
+        257,
+        277
+      ]
+    },
+    "figure_reference_81": {
+      "type": "figure_reference",
+      "id": "figure_reference_81",
+      "path": [
+        "paragraph_79",
+        "content"
+      ],
+      "target": "image_fig2",
+      "range": [
+        901,
+        912
+      ]
+    },
+    "annotation_82": {
+      "type": "emphasis",
+      "id": "annotation_82",
+      "path": [
+        "paragraph_79",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1042,
+        1046
+      ]
+    },
+    "annotation_83": {
+      "type": "emphasis",
+      "id": "annotation_83",
+      "path": [
+        "paragraph_79",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1138,
+        1146
+      ]
+    },
+    "annotation_84": {
+      "type": "emphasis",
+      "id": "annotation_84",
+      "path": [
+        "paragraph_79",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1218,
+        1226
+      ]
+    },
+    "annotation_85": {
+      "type": "emphasis",
+      "id": "annotation_85",
+      "path": [
+        "paragraph_79",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1231,
+        1239
+      ]
+    },
+    "figure_reference_86": {
+      "type": "figure_reference",
+      "id": "figure_reference_86",
+      "path": [
+        "paragraph_79",
+        "content"
+      ],
+      "target": "image_fig2",
+      "range": [
+        1313,
+        1322
+      ]
+    },
+    "image_fig2": {
+      "type": "image",
+      "id": "image_fig2",
+      "label": "Figure 2.",
+      "url": "",
+      "object_id": "F12",
+      "title": "Rsp5 mediates the heat-induced endocytic response.",
+      "content_type": "",
+      "large_url": "",
+      "content": "",
+      "group": [
+        "parent",
+        null
+      ],
+      "doi": "http://dx.doi.org/10.7554/eLife.00459.015",
+      "caption": "paragraph_image_fig2",
+      "graphic_id": "elife00459f002"
+    },
+    "paragraph_image_fig2": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig2",
+      "content": "(A) Fluorescence distribution of GFP-tagged endocytic cargoes (green) was analyzed in wildtype (left panels), rsp5-ww2 (middle panels), or rsp5-ww3 (right panels) yeast cells expressing the vacuolar marker Vph1-mCherry (red). Cells were grown to mid-log at 26°C and then shifted to 38°C for 2 hr. Plasma membrane (‘PM’) and vacuole (‘vac’) localization are indicated. (B) and (C) Stability of affinity-tagged cargoes was analyzed following temperature shift from 26°C (left lane) to 40°C. The number beneath each lane indicates quantification of protein abundance (relative to 26°C, t = 0 and normalized to G6PDH as a loading control) determined using the Li-Cor system. (D) Heat-sensitivity analysis of wildtype, rsp5-ww2, or rsp5-ww3 yeast cells."
+    },
+    "annotation_87": {
+      "type": "strong",
+      "id": "annotation_87",
+      "path": [
+        "paragraph_image_fig2",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1,
+        2
+      ]
+    },
+    "annotation_88": {
+      "type": "emphasis",
+      "id": "annotation_88",
+      "path": [
+        "paragraph_image_fig2",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        110,
+        118
+      ]
+    },
+    "annotation_89": {
+      "type": "emphasis",
+      "id": "annotation_89",
+      "path": [
+        "paragraph_image_fig2",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        139,
+        147
+      ]
+    },
+    "annotation_90": {
+      "type": "strong",
+      "id": "annotation_90",
+      "path": [
+        "paragraph_image_fig2",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        369,
+        370
+      ]
+    },
+    "annotation_91": {
+      "type": "strong",
+      "id": "annotation_91",
+      "path": [
+        "paragraph_image_fig2",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        377,
+        378
+      ]
+    },
+    "annotation_92": {
+      "type": "strong",
+      "id": "annotation_92",
+      "path": [
+        "paragraph_image_fig2",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        672,
+        673
+      ]
+    },
+    "annotation_93": {
+      "type": "emphasis",
+      "id": "annotation_93",
+      "path": [
+        "paragraph_image_fig2",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        714,
+        722
+      ]
+    },
+    "annotation_94": {
+      "type": "emphasis",
+      "id": "annotation_94",
+      "path": [
+        "paragraph_image_fig2",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        727,
+        735
+      ]
+    },
+    "paragraph_95": {
+      "type": "paragraph",
+      "id": "paragraph_95",
+      "content": "To better understand the basis of this temperature sensitive phenotype, we utilized a polar fluorescent vital dye, propidium iodide (PI, MW = 668.4 Da), which binds to nucleic acids but is membrane impermeant. Thus, PI staining can be used to score the number of cells in a population that have lost cellular integrity. For example, wildtype yeast cells grown at 26°C exhibit negligible (<1%) PI-positive cells within the population (Figure 3A). However, if these same yeast cells are heat-shocked (65°C for 10 min) or treated with the drug nystatin, which binds to ergosterol and forms pores in the yeast plasma membrane, all yeast cells (100%) stain positive for PI (Figure 3A), demonstrating the utility of PI as a marker for PM integrity. Next, we used flow cytometry to analyze PI staining in wildtype and mutant cells following heat stress. After three hours at 40°C, wildtype and rsp5-ww1 yeast cells did not exhibit any significant PI staining (Figure 3B,C). In contrast, rsp5-ww2 and rsp5-ww3 mutant cells exhibited a significant fraction of the population that stained PI-positive in response to heat stress (Figure 3B,C). These results suggest that the rapid loss of PM integrity of rsp5-ww2 and rsp5-ww3 mutant cells during heat stress is either the basis of thermosensitivity or a secondary effect resulting from cell death."
+    },
+    "figure_reference_96": {
+      "type": "figure_reference",
+      "id": "figure_reference_96",
+      "path": [
+        "paragraph_95",
+        "content"
+      ],
+      "target": "image_fig3",
+      "range": [
+        434,
+        443
+      ]
+    },
+    "figure_reference_97": {
+      "type": "figure_reference",
+      "id": "figure_reference_97",
+      "path": [
+        "paragraph_95",
+        "content"
+      ],
+      "target": "image_fig3",
+      "range": [
+        669,
+        678
+      ]
+    },
+    "annotation_98": {
+      "type": "emphasis",
+      "id": "annotation_98",
+      "path": [
+        "paragraph_95",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        887,
+        895
+      ]
+    },
+    "figure_reference_99": {
+      "type": "figure_reference",
+      "id": "figure_reference_99",
+      "path": [
+        "paragraph_95",
+        "content"
+      ],
+      "target": "image_fig3",
+      "range": [
+        953,
+        964
+      ]
+    },
+    "annotation_100": {
+      "type": "emphasis",
+      "id": "annotation_100",
+      "path": [
+        "paragraph_95",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        980,
+        988
+      ]
+    },
+    "annotation_101": {
+      "type": "emphasis",
+      "id": "annotation_101",
+      "path": [
+        "paragraph_95",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        993,
+        1001
+      ]
+    },
+    "figure_reference_102": {
+      "type": "figure_reference",
+      "id": "figure_reference_102",
+      "path": [
+        "paragraph_95",
+        "content"
+      ],
+      "target": "image_fig3",
+      "range": [
+        1119,
+        1130
+      ]
+    },
+    "annotation_103": {
+      "type": "emphasis",
+      "id": "annotation_103",
+      "path": [
+        "paragraph_95",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1194,
+        1202
+      ]
+    },
+    "annotation_104": {
+      "type": "emphasis",
+      "id": "annotation_104",
+      "path": [
+        "paragraph_95",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1207,
+        1215
+      ]
+    },
+    "image_fig3": {
+      "type": "image",
+      "id": "image_fig3",
+      "label": "Figure 3.",
+      "url": "",
+      "object_id": "F13",
+      "title": "Rsp5-mediated endocytic clearance protects PM integrity during heat stress.",
+      "content_type": "",
+      "large_url": "",
+      "content": "",
+      "group": [
+        "parent",
+        null
+      ],
+      "doi": "http://dx.doi.org/10.7554/eLife.00459.016",
+      "caption": "paragraph_image_fig3",
+      "graphic_id": "elife00459f003"
+    },
+    "paragraph_image_fig3": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig3",
+      "content": "(A) Yeast cells that were either grown at 26°C to mid-log phase (left), heated to 65°C for 10 min (middle), or treated with nystatin (right) were stained with propidium iodide (PI) and analyzed by fluorescence microscopy (top) and flow cytometry (bottom). (B) Wildtype (left), rsp5-ww2 (middle), or rsp5-ww3 (right) yeast cells were grown to mid-log at 26°C, shifted to 42°C for 2 hr, stained with PI, and analyzed by fluorescence microscopy (top) and flow cytometry (bottom). (C) Flow cytometry was used to analyze PI staining of the indicated strains at 26°C (blue bars) or following growth at 40°C for 3 hr (red bars)."
+    },
+    "annotation_105": {
+      "type": "strong",
+      "id": "annotation_105",
+      "path": [
+        "paragraph_image_fig3",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1,
+        2
+      ]
+    },
+    "annotation_106": {
+      "type": "strong",
+      "id": "annotation_106",
+      "path": [
+        "paragraph_image_fig3",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        257,
+        258
+      ]
+    },
+    "annotation_107": {
+      "type": "emphasis",
+      "id": "annotation_107",
+      "path": [
+        "paragraph_image_fig3",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        277,
+        285
+      ]
+    },
+    "annotation_108": {
+      "type": "emphasis",
+      "id": "annotation_108",
+      "path": [
+        "paragraph_image_fig3",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        299,
+        307
+      ]
+    },
+    "annotation_109": {
+      "type": "strong",
+      "id": "annotation_109",
+      "path": [
+        "paragraph_image_fig3",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        478,
+        479
+      ]
+    },
+    "paragraph_110": {
+      "type": "paragraph",
+      "id": "paragraph_110",
+      "content": "Heat stress broadly induces protein misfolding and denaturation across all cellular compartments. We next wanted to determine if the observed loss of PM integrity in rsp5 mutants during heat stress is linked to the accumulation of misfolded cargo specifically at the cell surface. To test this, we analyzed PI staining following heat stress for mutants that affect different stages of the endocytic pathway (Figure 3C). While mutations that abrogate endocytosis (Δend3, Δrvs167) resulted in significant PI staining in response to heat stress, mutant cells defective for downstream trafficking events such as endosomal sorting and multivesicular body biogenesis (Δvps23), endosomal-vacuolar fusion (Δvam3), and vacuolar degradation (Δpep4) exhibited negligible PI staining in response to heat stress (Figure 3C). These results indicate that plasma membrane clearance is the critical event protecting cells from heat-induced loss of PM integrity, while downstream sorting and trafficking events are dispensable. Indeed, the misfolding of integral PM proteins, many of which are channels and transporters designed to facilitate import of nutrients into the cell, could contribute to loss of critical ion gradients if not targeted for rapid clearance from the PM. Thus, PM quality control is an important line of defense for maintaining the integrity of the cell."
+    },
+    "annotation_111": {
+      "type": "emphasis",
+      "id": "annotation_111",
+      "path": [
+        "paragraph_110",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        166,
+        170
+      ]
+    },
+    "figure_reference_112": {
+      "type": "figure_reference",
+      "id": "figure_reference_112",
+      "path": [
+        "paragraph_110",
+        "content"
+      ],
+      "target": "image_fig3",
+      "range": [
+        408,
+        417
+      ]
+    },
+    "annotation_113": {
+      "type": "emphasis",
+      "id": "annotation_113",
+      "path": [
+        "paragraph_110",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        463,
+        468
+      ]
+    },
+    "annotation_114": {
+      "type": "emphasis",
+      "id": "annotation_114",
+      "path": [
+        "paragraph_110",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        470,
+        477
+      ]
+    },
+    "annotation_115": {
+      "type": "emphasis",
+      "id": "annotation_115",
+      "path": [
+        "paragraph_110",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        661,
+        668
+      ]
+    },
+    "annotation_116": {
+      "type": "emphasis",
+      "id": "annotation_116",
+      "path": [
+        "paragraph_110",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        698,
+        703
+      ]
+    },
+    "annotation_117": {
+      "type": "emphasis",
+      "id": "annotation_117",
+      "path": [
+        "paragraph_110",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        732,
+        737
+      ]
+    },
+    "figure_reference_118": {
+      "type": "figure_reference",
+      "id": "figure_reference_118",
+      "path": [
+        "paragraph_110",
+        "content"
+      ],
+      "target": "image_fig3",
+      "range": [
+        800,
+        809
+      ]
+    },
+    "heading_s2-3": {
+      "type": "heading",
+      "id": "heading_s2-3",
+      "level": 2,
+      "content": "The ART adaptor network protects PM integrity during heat stress",
+      "nodes": []
+    },
+    "paragraph_119": {
+      "type": "paragraph",
+      "id": "paragraph_119",
+      "content": "In many cases, Rsp5 ubiquitin ligase activity is directed by adaptor proteins which target specific cargoes at the PM in response to various stimuli. To test if any Rsp5 adaptor proteins function in targeting cargoes for endocytic downregulation during heat stress, we screened a set of yeast knockout strains to identify Rsp5 adaptors required for thermotolerance. While most ART (arrestin-related trafficking adaptor) family proteins were found to be dispensable for growth at high temperatures, Δart1 yeast cells were temperature sensitive for growth at 38°C similar to rsp5-ww2 and rsp5-ww3 mutant cells (Figure 4A and Figure 4—figure supplement 1). Importantly, our analysis revealed that heat-induced endocytosis and vacuolar degradation of most cargoes is Art1-independent, with the exception of the lysine transporter Lyp1 (Figure 4B). In contrast to other cargoes, Lyp1 endocytosis and vacuolar degradation is abrogated in the absence of Art1 (Figure 4B,C), underscoring the cargo-specific role Art1 plays in the heat-induced endocytic response. Consistent with its role in the heat-induced endocytic response, we found that Art1-GFP translocates to the PM in response to heat stress (Figure 4—figure supplement 2). Thus, while rsp5 mutant strains exhibit broad defects in the heat-induced endocytic response (Figure 2), Δart1 mutant cells are defective for the turnover of only a subset of PM proteins."
+    },
+    "annotation_120": {
+      "type": "emphasis",
+      "id": "annotation_120",
+      "path": [
+        "paragraph_119",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        382,
+        383
+      ]
+    },
+    "annotation_121": {
+      "type": "emphasis",
+      "id": "annotation_121",
+      "path": [
+        "paragraph_119",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        391,
+        392
+      ]
+    },
+    "annotation_122": {
+      "type": "emphasis",
+      "id": "annotation_122",
+      "path": [
+        "paragraph_119",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        399,
+        400
+      ]
+    },
+    "annotation_123": {
+      "type": "emphasis",
+      "id": "annotation_123",
+      "path": [
+        "paragraph_119",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        498,
+        503
+      ]
+    },
+    "annotation_124": {
+      "type": "emphasis",
+      "id": "annotation_124",
+      "path": [
+        "paragraph_119",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        573,
+        581
+      ]
+    },
+    "annotation_125": {
+      "type": "emphasis",
+      "id": "annotation_125",
+      "path": [
+        "paragraph_119",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        586,
+        594
+      ]
+    },
+    "figure_reference_126": {
+      "type": "figure_reference",
+      "id": "figure_reference_126",
+      "path": [
+        "paragraph_119",
+        "content"
+      ],
+      "target": "image_fig4",
+      "range": [
+        609,
+        618
+      ]
+    },
+    "figure_reference_127": {
+      "type": "figure_reference",
+      "id": "figure_reference_127",
+      "path": [
+        "paragraph_119",
+        "content"
+      ],
+      "target": "image_fig4s1",
+      "range": [
+        623,
+        651
+      ]
+    },
+    "figure_reference_128": {
+      "type": "figure_reference",
+      "id": "figure_reference_128",
+      "path": [
+        "paragraph_119",
+        "content"
+      ],
+      "target": "image_fig4",
+      "range": [
+        832,
+        841
+      ]
+    },
+    "figure_reference_129": {
+      "type": "figure_reference",
+      "id": "figure_reference_129",
+      "path": [
+        "paragraph_119",
+        "content"
+      ],
+      "target": "image_fig4",
+      "range": [
+        953,
+        964
+      ]
+    },
+    "figure_reference_130": {
+      "type": "figure_reference",
+      "id": "figure_reference_130",
+      "path": [
+        "paragraph_119",
+        "content"
+      ],
+      "target": "image_fig4s2",
+      "range": [
+        1194,
+        1222
+      ]
+    },
+    "annotation_131": {
+      "type": "emphasis",
+      "id": "annotation_131",
+      "path": [
+        "paragraph_119",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1237,
+        1241
+      ]
+    },
+    "figure_reference_132": {
+      "type": "figure_reference",
+      "id": "figure_reference_132",
+      "path": [
+        "paragraph_119",
+        "content"
+      ],
+      "target": "image_fig2",
+      "range": [
+        1319,
+        1327
+      ]
+    },
+    "annotation_133": {
+      "type": "emphasis",
+      "id": "annotation_133",
+      "path": [
+        "paragraph_119",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1330,
+        1335
+      ]
+    },
+    "image_fig4": {
+      "type": "image",
+      "id": "image_fig4",
+      "label": "Figure 4.",
+      "url": "",
+      "object_id": "F14",
+      "title": "ARTs protect plasma membrane integrity during heat stress.",
+      "content_type": "",
+      "large_url": "",
+      "content": "",
+      "group": [
+        "parent",
+        null
+      ],
+      "doi": "http://dx.doi.org/10.7554/eLife.00459.017",
+      "caption": "paragraph_image_fig4",
+      "graphic_id": "elife00459f004"
+    },
+    "paragraph_image_fig4": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig4",
+      "content": "(A) Heat-sensitivity analysis of wildtype and art mutant yeast cells. See Figure 4—figure supplement 1 for additional characterization of art mutant yeast cells. (B) Fluorescence distribution of GFP-tagged endocytic cargoes (green) was analyzed in wildtype (left panels) and Δart1 (right panels) yeast cells expressing the vacuolar marker Vph1-mCherry (red). Cells were grown to mid-log at 26°C and then shifted to 38°C for 2 hr. Plasma membrane (‘PM’) and vacuole (‘vac’) localization are indicated. (C) Stability of affinity-tagged Lyp1 was analyzed following temperature shift from 26°C (left lane) to 40°C. The number beneath each lane indicates quantification of protein abundance (relative to 26°C, t = 0) determined using the Li-Cor system. (D) Heat-sensitivity analysis of wildtype, Δart1, Δart2, and Δart1Δart2 mutant yeast cells. (E) Flow cytometry was used to analyze PI staining of the indicated strains at 26°C (blue bars) or following growth at 40°C for 3 hr (red bars). (F) Kinetic analysis of PI staining for a 40°C heat stress timecourse. (G) Fluorescence distribution of GFP-tagged Mup1 (green) was analyzed in wildtype (left panels) and Δart1Δart2Δart3Δart4Δart5Δart6Δart9 (right panels) yeast cells during heat stress."
+    },
+    "annotation_134": {
+      "type": "strong",
+      "id": "annotation_134",
+      "path": [
+        "paragraph_image_fig4",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1,
+        2
+      ]
+    },
+    "annotation_135": {
+      "type": "emphasis",
+      "id": "annotation_135",
+      "path": [
+        "paragraph_image_fig4",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        46,
+        49
+      ]
+    },
+    "figure_reference_136": {
+      "type": "figure_reference",
+      "id": "figure_reference_136",
+      "path": [
+        "paragraph_image_fig4",
+        "content"
+      ],
+      "target": "image_fig4s1",
+      "range": [
+        74,
+        102
+      ]
+    },
+    "annotation_137": {
+      "type": "emphasis",
+      "id": "annotation_137",
+      "path": [
+        "paragraph_image_fig4",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        138,
+        141
+      ]
+    },
+    "annotation_138": {
+      "type": "strong",
+      "id": "annotation_138",
+      "path": [
+        "paragraph_image_fig4",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        163,
+        164
+      ]
+    },
+    "annotation_139": {
+      "type": "emphasis",
+      "id": "annotation_139",
+      "path": [
+        "paragraph_image_fig4",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        275,
+        280
+      ]
+    },
+    "annotation_140": {
+      "type": "strong",
+      "id": "annotation_140",
+      "path": [
+        "paragraph_image_fig4",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        502,
+        503
+      ]
+    },
+    "annotation_141": {
+      "type": "strong",
+      "id": "annotation_141",
+      "path": [
+        "paragraph_image_fig4",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        749,
+        750
+      ]
+    },
+    "annotation_142": {
+      "type": "emphasis",
+      "id": "annotation_142",
+      "path": [
+        "paragraph_image_fig4",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        791,
+        796
+      ]
+    },
+    "annotation_143": {
+      "type": "emphasis",
+      "id": "annotation_143",
+      "path": [
+        "paragraph_image_fig4",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        798,
+        803
+      ]
+    },
+    "annotation_144": {
+      "type": "emphasis",
+      "id": "annotation_144",
+      "path": [
+        "paragraph_image_fig4",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        809,
+        819
+      ]
+    },
+    "annotation_145": {
+      "type": "strong",
+      "id": "annotation_145",
+      "path": [
+        "paragraph_image_fig4",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        841,
+        842
+      ]
+    },
+    "annotation_146": {
+      "type": "strong",
+      "id": "annotation_146",
+      "path": [
+        "paragraph_image_fig4",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        986,
+        987
+      ]
+    },
+    "annotation_147": {
+      "type": "strong",
+      "id": "annotation_147",
+      "path": [
+        "paragraph_image_fig4",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1057,
+        1058
+      ]
+    },
+    "annotation_148": {
+      "type": "emphasis",
+      "id": "annotation_148",
+      "path": [
+        "paragraph_image_fig4",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1156,
+        1191
+      ]
+    },
+    "image_fig4s1": {
+      "type": "image",
+      "id": "image_fig4s1",
+      "label": "Figure 4—figure supplement 1.",
+      "url": "",
+      "object_id": "F15",
+      "title": "Heat-sensitivity analysis of wildtype and art mutant yeast cells.",
+      "content_type": "",
+      "large_url": "",
+      "content": "",
+      "group": [
+        "child",
+        "image_fig4"
+      ],
+      "doi": "",
+      "caption": "paragraph_image_fig4s1",
+      "graphic_id": "elife00459fs011"
+    },
+    "paragraph_image_fig4s1": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig4s1",
+      "content": "DOI: http://dx.doi.org/10.7554/eLife.00459.018"
+    },
+    "annotation_149": {
+      "type": "emphasis",
+      "id": "annotation_149",
+      "path": [
+        "image_fig4s1",
+        "title"
+      ],
+      "target": null,
+      "range": [
+        42,
+        45
+      ]
+    },
+    "annotation_150": {
+      "type": "strong",
+      "id": "annotation_150",
+      "path": [
+        "paragraph_image_fig4s1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        4
+      ]
+    },
+    "annotation_151": {
+      "type": "link",
+      "id": "annotation_151",
+      "path": [
+        "paragraph_image_fig4s1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        5,
+        46
+      ],
+      "url": "10.7554/eLife.00459.018"
+    },
+    "image_fig4s2": {
+      "type": "image",
+      "id": "image_fig4s2",
+      "label": "Figure 4—figure supplement 2.",
+      "url": "",
+      "object_id": "F16",
+      "title": "Fluorescence distribution of GFP-tagged Art1 (green) was analyzed at 26°C and 38°C in yeast cells expressing the vacuolar marker Vph1-mCherry (red).",
+      "content_type": "",
+      "large_url": "",
+      "content": "",
+      "group": [
+        "child",
+        "image_fig4"
+      ],
+      "doi": "http://dx.doi.org/10.7554/eLife.00459.019",
+      "caption": "paragraph_image_fig4s2",
+      "graphic_id": "elife00459fs012"
+    },
+    "paragraph_image_fig4s2": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig4s2",
+      "content": "Cells were grown to mid-log at 26°C and then shifted to 38°C for 2 hr. Plasma membrane (‘PM’) and Golgi localization are indicated."
+    },
+    "image_fig4s3": {
+      "type": "image",
+      "id": "image_fig4s3",
+      "label": "Figure 4—figure supplement 3.",
+      "url": "",
+      "object_id": "F17",
+      "title": "Results of a screen to identify multicopy bypass suppressors of the Δart1 ts phenotype.",
+      "content_type": "",
+      "large_url": "",
+      "content": "",
+      "group": [
+        "child",
+        "image_fig4"
+      ],
+      "doi": "http://dx.doi.org/10.7554/eLife.00459.020",
+      "caption": "paragraph_image_fig4s3",
+      "graphic_id": "elife00459fs013"
+    },
+    "paragraph_image_fig4s3": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig4s3",
+      "content": "Overexpression of ART2 can suppress the ts phenotype but not the canavanine hypersensitivity phenotype of Δart1 mutant cells."
+    },
+    "annotation_152": {
+      "type": "emphasis",
+      "id": "annotation_152",
+      "path": [
+        "image_fig4s3",
+        "title"
+      ],
+      "target": null,
+      "range": [
+        68,
+        73
+      ]
+    },
+    "annotation_153": {
+      "type": "emphasis",
+      "id": "annotation_153",
+      "path": [
+        "paragraph_image_fig4s3",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        106,
+        111
+      ]
+    },
+    "paragraph_154": {
+      "type": "paragraph",
+      "id": "paragraph_154",
+      "content": "Our results indicate that the temperature sensitive growth phenotype exhibited by rsp5-ww2, rsp5-ww3, and Δart1 mutant cells likely results from accumulation of misfolded proteins in the plasma membrane, which ultimately triggers loss of PM integrity and cell death. Based on this rationale, we performed a screen to identify bypass suppressors of the Δart1 mutant temperature sensitive phenotype in order to uncover other components of the ART-Rsp5 network or new pathways for PM protein quality control. All multicopy overexpression plasmids that suppressed the Δart1 temperature sensitive growth defect (84 total suppressors isolated) were found to encode either ART1 (35 individual isolates) or ART2 (49 individual isolates) (Figure 4—figure supplement 3). The identification of ART2 as a suppressor of the Δart1 temperature sensitivity phenotype indicated that (i) multiple ART family proteins may protect cells during heat stress and (ii) different ART proteins may have overlapping cargo specificities which create redundancy in the system. Although Δart2 mutant cells did not exhibit any temperature sensitive phenotypes, we found that deletion of ART2 in Δart1 mutant cells resulted in an enhanced temperature sensitivity phenotype (Figure 4D) that correlated with increased Lyp1 accumulation in the Δart1Δart2 double mutant (Figure 4C)."
+    },
+    "annotation_155": {
+      "type": "emphasis",
+      "id": "annotation_155",
+      "path": [
+        "paragraph_154",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        82,
+        90
+      ]
+    },
+    "annotation_156": {
+      "type": "emphasis",
+      "id": "annotation_156",
+      "path": [
+        "paragraph_154",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        92,
+        100
+      ]
+    },
+    "annotation_157": {
+      "type": "emphasis",
+      "id": "annotation_157",
+      "path": [
+        "paragraph_154",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        106,
+        111
+      ]
+    },
+    "annotation_158": {
+      "type": "emphasis",
+      "id": "annotation_158",
+      "path": [
+        "paragraph_154",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        352,
+        357
+      ]
+    },
+    "annotation_159": {
+      "type": "emphasis",
+      "id": "annotation_159",
+      "path": [
+        "paragraph_154",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        564,
+        569
+      ]
+    },
+    "annotation_160": {
+      "type": "emphasis",
+      "id": "annotation_160",
+      "path": [
+        "paragraph_154",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        666,
+        670
+      ]
+    },
+    "annotation_161": {
+      "type": "emphasis",
+      "id": "annotation_161",
+      "path": [
+        "paragraph_154",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        699,
+        703
+      ]
+    },
+    "figure_reference_162": {
+      "type": "figure_reference",
+      "id": "figure_reference_162",
+      "path": [
+        "paragraph_154",
+        "content"
+      ],
+      "target": "image_fig4s3",
+      "range": [
+        730,
+        758
+      ]
+    },
+    "annotation_163": {
+      "type": "emphasis",
+      "id": "annotation_163",
+      "path": [
+        "paragraph_154",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        783,
+        787
+      ]
+    },
+    "annotation_164": {
+      "type": "emphasis",
+      "id": "annotation_164",
+      "path": [
+        "paragraph_154",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        811,
+        816
+      ]
+    },
+    "annotation_165": {
+      "type": "emphasis",
+      "id": "annotation_165",
+      "path": [
+        "paragraph_154",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1057,
+        1062
+      ]
+    },
+    "annotation_166": {
+      "type": "emphasis",
+      "id": "annotation_166",
+      "path": [
+        "paragraph_154",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1156,
+        1160
+      ]
+    },
+    "annotation_167": {
+      "type": "emphasis",
+      "id": "annotation_167",
+      "path": [
+        "paragraph_154",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1164,
+        1169
+      ]
+    },
+    "figure_reference_168": {
+      "type": "figure_reference",
+      "id": "figure_reference_168",
+      "path": [
+        "paragraph_154",
+        "content"
+      ],
+      "target": "image_fig4",
+      "range": [
+        1242,
+        1251
+      ]
+    },
+    "annotation_169": {
+      "type": "emphasis",
+      "id": "annotation_169",
+      "path": [
+        "paragraph_154",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1309,
+        1319
+      ]
+    },
+    "figure_reference_170": {
+      "type": "figure_reference",
+      "id": "figure_reference_170",
+      "path": [
+        "paragraph_154",
+        "content"
+      ],
+      "target": "image_fig4",
+      "range": [
+        1335,
+        1344
+      ]
+    },
+    "paragraph_171": {
+      "type": "paragraph",
+      "id": "paragraph_171",
+      "content": "To quantitatively measure the protective role of the ART adaptor network, we combined flow cytometry analysis and the PI staining assay to score a panel of ART deletion mutants for loss of PM integrity during heat stress. By limiting the time of exposure to heat stress (40°C for only 3 hr) we aimed to detect the onset of PM permeability defects associated with accumulation of cargo at the surface. Although Δart1 mutant cells exhibited a slight loss of PM integrity (∼18% of the cells are PI-positive following 40°C for 3 hr), the other adaptor mutants tested exhibited no defects in PM integrity in response to heat stress (Figure 4E). However, striking synthetic defects were observed when Δart1 was combined with deletion of other ART genes (Figure 4E,F). Furthermore, while ART1 and ART2 are dispensable for Mup1 trafficking to the vacuole in response to heat stress (Figure 4B and data not shown), the loss of multiple ART genes effectively blocks Mup1 turnover in response to heat stress (Figure 4G). These results underscore the critical role of the ART adaptor network in protecting PM integrity during heat stress."
+    },
+    "annotation_172": {
+      "type": "emphasis",
+      "id": "annotation_172",
+      "path": [
+        "paragraph_171",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        156,
+        159
+      ]
+    },
+    "annotation_173": {
+      "type": "emphasis",
+      "id": "annotation_173",
+      "path": [
+        "paragraph_171",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        410,
+        415
+      ]
+    },
+    "figure_reference_174": {
+      "type": "figure_reference",
+      "id": "figure_reference_174",
+      "path": [
+        "paragraph_171",
+        "content"
+      ],
+      "target": "image_fig4",
+      "range": [
+        628,
+        637
+      ]
+    },
+    "annotation_175": {
+      "type": "emphasis",
+      "id": "annotation_175",
+      "path": [
+        "paragraph_171",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        695,
+        700
+      ]
+    },
+    "annotation_176": {
+      "type": "emphasis",
+      "id": "annotation_176",
+      "path": [
+        "paragraph_171",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        737,
+        740
+      ]
+    },
+    "figure_reference_177": {
+      "type": "figure_reference",
+      "id": "figure_reference_177",
+      "path": [
+        "paragraph_171",
+        "content"
+      ],
+      "target": "image_fig4",
+      "range": [
+        748,
+        759
+      ]
+    },
+    "figure_reference_178": {
+      "type": "figure_reference",
+      "id": "figure_reference_178",
+      "path": [
+        "paragraph_171",
+        "content"
+      ],
+      "target": "image_fig4",
+      "range": [
+        875,
+        884
+      ]
+    },
+    "figure_reference_179": {
+      "type": "figure_reference",
+      "id": "figure_reference_179",
+      "path": [
+        "paragraph_171",
+        "content"
+      ],
+      "target": "image_fig4",
+      "range": [
+        998,
+        1007
+      ]
+    },
+    "heading_s2-4": {
+      "type": "heading",
+      "id": "heading_s2-4",
+      "level": 2,
+      "content": "Cell surface protein accumulation is toxic during heat stress",
+      "nodes": []
+    },
+    "paragraph_180": {
+      "type": "paragraph",
+      "id": "paragraph_180",
+      "content": "Our observations that Rsp5 and the ART adaptor network are critical mediators of the heat-induced endocytic response suggested that these proteins may function as a critical quality control mechanism at the PM. Given that loss of this response during heat stress results in (i) cargo accumulation at the PM, (ii) loss of PM integrity as defined by the permeabilization of the cell to a large (668.4 Da) polar dye (PI) and (iii) loss of cell viability, we hypothesized that heat stress triggers conformational instability or misfolding of integral membrane proteins at the cell surface and that failure to recognize, remove and degrade these proteins threatens the integrity of the plasma membrane. Based on our observation that Δart1 mutant cells, which are temperature sensitive, exhibit specific accumulation of the lysine transporter Lyp1 during heat stress, we decided to test if Lyp1 accumulation is toxic at high temperature. To do this, we analyzed temperature sensitivity of Δart1Δlyp1 mutant cells and, to our surprise, found that loss of Lyp1 partially suppressed the temperature sensitive phenotype of Δart1 mutant cells (Figure 5A). This result suggests that Lyp1 accumulation at the PM during heat stress is toxic and significantly contributes to the temperature sensitive phenotype of Δart1 mutant cells."
+    },
+    "annotation_181": {
+      "type": "emphasis",
+      "id": "annotation_181",
+      "path": [
+        "paragraph_180",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        728,
+        733
+      ]
+    },
+    "annotation_182": {
+      "type": "emphasis",
+      "id": "annotation_182",
+      "path": [
+        "paragraph_180",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        983,
+        993
+      ]
+    },
+    "annotation_183": {
+      "type": "emphasis",
+      "id": "annotation_183",
+      "path": [
+        "paragraph_180",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1113,
+        1118
+      ]
+    },
+    "figure_reference_184": {
+      "type": "figure_reference",
+      "id": "figure_reference_184",
+      "path": [
+        "paragraph_180",
+        "content"
+      ],
+      "target": "image_fig5",
+      "range": [
+        1133,
+        1142
+      ]
+    },
+    "annotation_185": {
+      "type": "emphasis",
+      "id": "annotation_185",
+      "path": [
+        "paragraph_180",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1299,
+        1304
+      ]
+    },
+    "image_fig5": {
+      "type": "image",
+      "id": "image_fig5",
+      "label": "Figure 5.",
+      "url": "",
+      "object_id": "F18",
+      "title": "Cargo accumulation at the PM is toxic during heat stress.",
+      "content_type": "",
+      "large_url": "",
+      "content": "",
+      "group": [
+        "parent",
+        null
+      ],
+      "doi": "http://dx.doi.org/10.7554/eLife.00459.021",
+      "caption": "paragraph_image_fig5",
+      "graphic_id": "elife00459f005"
+    },
+    "paragraph_image_fig5": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig5",
+      "content": "(A) heat-sensitivity analysis of wildtype, Δart1, Δlyp1, and Δart1Δlyp1 mutant yeast cells. (B) Empty vector or plasmids encoding Lyp1-FLAG expressed from different promoters (pCPY, pLYP1, pADH1) were transformed into Δart1Δlyp1 mutant yeast cells and the affect on heat tolerance was scored by growth at the indicated temperatures. Lyp1 expression level for each strain was analyzed by quantitative Western blot (Li-Cor). (C) Empty vector or plasmids encoding Lyp1-K10XR-FLAG (which lacks N-terminal lysine residues) expressed from different promoters (pCPY, pLYP1, pADH1, pTDH3) were transformed into wildtype yeast cells and the affect on heat tolerance was scored by growth at the indicated temperatures. (D) Flow cytometry was used to analyze PI staining of Δart1Δlyp1 mutant yeast cells expressing Lyp1 from different promoters (pCPY, pLYP1, pADH1) following growth at 40°C for 3 hr. (E) Flow cytometry was used to analyze PI staining of wildtype yeast cells coordinately expressing Lyp1 from the TDH3 promoter and Art1 from different promoters (pART1, pCPY, pADH1, pTDH3) following growth at 40°C for 3 hr."
+    },
+    "annotation_186": {
+      "type": "strong",
+      "id": "annotation_186",
+      "path": [
+        "paragraph_image_fig5",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1,
+        2
+      ]
+    },
+    "annotation_187": {
+      "type": "emphasis",
+      "id": "annotation_187",
+      "path": [
+        "paragraph_image_fig5",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        43,
+        48
+      ]
+    },
+    "annotation_188": {
+      "type": "emphasis",
+      "id": "annotation_188",
+      "path": [
+        "paragraph_image_fig5",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        50,
+        55
+      ]
+    },
+    "annotation_189": {
+      "type": "emphasis",
+      "id": "annotation_189",
+      "path": [
+        "paragraph_image_fig5",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        61,
+        71
+      ]
+    },
+    "annotation_190": {
+      "type": "strong",
+      "id": "annotation_190",
+      "path": [
+        "paragraph_image_fig5",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        93,
+        94
+      ]
+    },
+    "annotation_191": {
+      "type": "emphasis",
+      "id": "annotation_191",
+      "path": [
+        "paragraph_image_fig5",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        218,
+        228
+      ]
+    },
+    "annotation_192": {
+      "type": "strong",
+      "id": "annotation_192",
+      "path": [
+        "paragraph_image_fig5",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        424,
+        425
+      ]
+    },
+    "annotation_193": {
+      "type": "strong",
+      "id": "annotation_193",
+      "path": [
+        "paragraph_image_fig5",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        710,
+        711
+      ]
+    },
+    "annotation_194": {
+      "type": "emphasis",
+      "id": "annotation_194",
+      "path": [
+        "paragraph_image_fig5",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        763,
+        773
+      ]
+    },
+    "annotation_195": {
+      "type": "strong",
+      "id": "annotation_195",
+      "path": [
+        "paragraph_image_fig5",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        891,
+        892
+      ]
+    },
+    "image_fig5s1": {
+      "type": "image",
+      "id": "image_fig5s1",
+      "label": "Figure 5—figure supplement 1.",
+      "url": "",
+      "object_id": "F19",
+      "title": "Heat-sensitivity analysis of wildtype yeast cells expressing titrated levels of Lyp1.",
+      "content_type": "",
+      "large_url": "",
+      "content": "",
+      "group": [
+        "child",
+        "image_fig5"
+      ],
+      "doi": "",
+      "caption": "paragraph_image_fig5s1",
+      "graphic_id": "elife00459fs014"
+    },
+    "paragraph_image_fig5s1": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig5s1",
+      "content": "DOI: http://dx.doi.org/10.7554/eLife.00459.022"
+    },
+    "annotation_196": {
+      "type": "strong",
+      "id": "annotation_196",
+      "path": [
+        "paragraph_image_fig5s1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        4
+      ]
+    },
+    "annotation_197": {
+      "type": "link",
+      "id": "annotation_197",
+      "path": [
+        "paragraph_image_fig5s1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        5,
+        46
+      ],
+      "url": "10.7554/eLife.00459.022"
+    },
+    "image_fig5s2": {
+      "type": "image",
+      "id": "image_fig5s2",
+      "label": "Figure 5—figure supplement 2.",
+      "url": "",
+      "object_id": "F20",
+      "title": "Stability of wildtype Lyp1 or the K10XR mutant, which cannot be ubiquitinated on its N-terminal cytosolic tail.",
+      "content_type": "",
+      "large_url": "",
+      "content": "",
+      "group": [
+        "child",
+        "image_fig5"
+      ],
+      "doi": "",
+      "caption": "paragraph_image_fig5s2",
+      "graphic_id": "elife00459fs015"
+    },
+    "paragraph_image_fig5s2": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig5s2",
+      "content": "DOI: http://dx.doi.org/10.7554/eLife.00459.023"
+    },
+    "annotation_198": {
+      "type": "strong",
+      "id": "annotation_198",
+      "path": [
+        "paragraph_image_fig5s2",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        4
+      ]
+    },
+    "annotation_199": {
+      "type": "link",
+      "id": "annotation_199",
+      "path": [
+        "paragraph_image_fig5s2",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        5,
+        46
+      ],
+      "url": "10.7554/eLife.00459.023"
+    },
+    "image_fig5s3": {
+      "type": "image",
+      "id": "image_fig5s3",
+      "label": "Figure 5—figure supplement 3.",
+      "url": "",
+      "object_id": "F21",
+      "title": "Fluorescence distribution of GFP-tagged wildtype Lyp1 (green, only in cells expressing Vph1-mCherry) or the K10XR mutant (green, only in cells without Vph1-mCherry) was analyzed following growth at 38°C for 2 hr.",
+      "content_type": "",
+      "large_url": "",
+      "content": "",
+      "group": [
+        "child",
+        "image_fig5"
+      ],
+      "doi": "",
+      "caption": "paragraph_image_fig5s3",
+      "graphic_id": "elife00459fs016"
+    },
+    "paragraph_image_fig5s3": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig5s3",
+      "content": "DOI: http://dx.doi.org/10.7554/eLife.00459.024"
+    },
+    "annotation_200": {
+      "type": "strong",
+      "id": "annotation_200",
+      "path": [
+        "paragraph_image_fig5s3",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        4
+      ]
+    },
+    "annotation_201": {
+      "type": "link",
+      "id": "annotation_201",
+      "path": [
+        "paragraph_image_fig5s3",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        5,
+        46
+      ],
+      "url": "10.7554/eLife.00459.024"
+    },
+    "paragraph_202": {
+      "type": "paragraph",
+      "id": "paragraph_202",
+      "content": "To explore this idea, we titrated Lyp1 expression using several different promoters to determine if Lyp1 accumulation in Δart1Δlyp1 cells is toxic during heat stress. Importantly, we found that Lyp1 expression correlated with temperature sensitivity in Δart1Δlyp1 cells, where the expressed Lyp1 could not be efficiently internalized in response to heat stress (Figure 5B). This same Lyp1 titration failed to cause temperature sensitivity in wildtype cells where Lyp1 undergoes heat-induced endocytosis, but higher levels of Lyp1 expression using the TDH3 promoter did confer temperature sensitivity (Figure 5—figure supplement 1). To further explore the toxicity of Lyp1 at high temperatures, we engineered a mutant of Lyp1 lacking cytosolic lysine residues (Lyp1-K10XR) that could be targets for Art1-Rsp5 ubiquitination. Importantly, the Lyp1-K10XR protein is efficiently delivered to the PM but cannot be internalized or degraded by the heat-induced endocytic response (Figure 5—figure supplements 2 and 3). High expression levels of Lyp1-K10XR resulted in increased temperature sensitivity even in wildtype cells (Figure 5C), demonstrating that accumulation of Lyp1 at the PM is toxic to the cell during heat stress. Importantly, the increased temperature sensitivity observed when Lyp1 accumulates at the PM correlates with increased PI staining during heat shock (Figure 5D). However, protection against this loss of PM integrity could be conferred upon increasing expression of Art1 (Figure 5E), which prevents integral membrane protein accumulation at the surface (Lin et al., 2008; MacGurn et al., 2011). Thus, our results indicate that accumulation of Lyp1 at the cell surface during heat stress is associated with loss of PM integrity and decreased cell viability. Under normal circumstances, heat stress triggers the recognition of Lyp1 by Art1, which targets its ubiquitination and removal from the PM, protecting the cell from toxic Lyp1 accumulation at the surface."
+    },
+    "annotation_203": {
+      "type": "emphasis",
+      "id": "annotation_203",
+      "path": [
+        "paragraph_202",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        121,
+        131
+      ]
+    },
+    "annotation_204": {
+      "type": "emphasis",
+      "id": "annotation_204",
+      "path": [
+        "paragraph_202",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        253,
+        263
+      ]
+    },
+    "figure_reference_205": {
+      "type": "figure_reference",
+      "id": "figure_reference_205",
+      "path": [
+        "paragraph_202",
+        "content"
+      ],
+      "target": "image_fig5",
+      "range": [
+        362,
+        371
+      ]
+    },
+    "figure_reference_206": {
+      "type": "figure_reference",
+      "id": "figure_reference_206",
+      "path": [
+        "paragraph_202",
+        "content"
+      ],
+      "target": "image_fig5s1",
+      "range": [
+        601,
+        629
+      ]
+    },
+    "figure_reference_207": {
+      "type": "figure_reference",
+      "id": "figure_reference_207",
+      "path": [
+        "paragraph_202",
+        "content"
+      ],
+      "target": "image_fig5s2",
+      "range": [
+        974,
+        1009
+      ]
+    },
+    "figure_reference_208": {
+      "type": "figure_reference",
+      "id": "figure_reference_208",
+      "path": [
+        "paragraph_202",
+        "content"
+      ],
+      "target": "image_fig5",
+      "range": [
+        1119,
+        1128
+      ]
+    },
+    "figure_reference_209": {
+      "type": "figure_reference",
+      "id": "figure_reference_209",
+      "path": [
+        "paragraph_202",
+        "content"
+      ],
+      "target": "image_fig5",
+      "range": [
+        1371,
+        1380
+      ]
+    },
+    "figure_reference_210": {
+      "type": "figure_reference",
+      "id": "figure_reference_210",
+      "path": [
+        "paragraph_202",
+        "content"
+      ],
+      "target": "image_fig5",
+      "range": [
+        1492,
+        1501
+      ]
+    },
+    "citation_reference_211": {
+      "type": "citation_reference",
+      "id": "citation_reference_211",
+      "path": [
+        "paragraph_202",
+        "content"
+      ],
+      "target": "article_citation_bib12",
+      "range": [
+        1574,
+        1590
+      ]
+    },
+    "citation_reference_212": {
+      "type": "citation_reference",
+      "id": "citation_reference_212",
+      "path": [
+        "paragraph_202",
+        "content"
+      ],
+      "target": "article_citation_bib16",
+      "range": [
+        1592,
+        1612
+      ]
+    },
+    "heading_s2-5": {
+      "type": "heading",
+      "id": "heading_s2-5",
+      "level": 2,
+      "content": "The parallel architecture of protein quality control systems",
+      "nodes": []
+    },
+    "paragraph_213": {
+      "type": "paragraph",
+      "id": "paragraph_213",
+      "content": "Our results indicate that Rsp5 and the ART adaptor network function as part of a PM quality surveillance system, detecting integral membrane proteins at the cell surface as they become conformationally unstable and targeting their internalization and degradation. If the Rsp5-ART system is functioning as a bona fide quality control pathway at the PM, we would expect to observe genetic interactions with other quality control systems for integral membrane proteins along the secretory pathway (Figure 6A). To test this, we constructed a genetic array consisting of pairwise deletions known to affect protein quality control in the cytosol, nucleus, ER, Golgi complex, PM, endosome, and vacuole. We systematically scored each double deletion strain for PI staining following 3 hr of growth at 40°C to identify synthetic genetic interactions between quality control pathways (Figure 6B). In general, mutations that affected quality control of soluble cytosolic proteins did not interact genetically with mutations that affected quality control of integral membrane proteins. In contrast, we found that mutations in sequential quality control pathways for integral membrane proteins significantly enhanced the PM integrity defect observed for Δart1 mutant cells following heat stress. For example, abrogation of either Golgi quality control (Δvps10, Δgga1, Δtul1) or ER quality control (Δdoa10, Δhrd1, Δire1) systems significantly enhanced the PM integrity defect observed for Δart1 mutant cells during heat stress (Figure 6C,D and Figure 6—figure supplement 1). Furthermore, cells with defects in all three integral membrane quality control systems (ERQC, GQC, and PM quality control; Δart1Δdoa10Δgga1 triple mutant cells) exhibited dramatic loss of PM integrity (∼55% of total cell population) following 3 hr at 40°C (Figure 6D). Importantly, mutations that abrogate either ERQC or GQC, or abrogate both ERQC and GQC, do not result in temperature sensitive growth or significant PI-positive staining of cells following heat stress (Figure 6D), suggesting that PM quality control can compensate for defects in quality control along the secretory pathway. These genetic interactions underscore the critical protective function of sequential quality control systems along the secretory pathway and demonstrate how all three integral membrane quality control systems—ERQC, GQC, and PMQC—cooperate to protect the integrity of the PM during proteotoxic stress (Figure 7)."
+    },
+    "figure_reference_214": {
+      "type": "figure_reference",
+      "id": "figure_reference_214",
+      "path": [
+        "paragraph_213",
+        "content"
+      ],
+      "target": "image_fig6",
+      "range": [
+        495,
+        504
+      ]
+    },
+    "figure_reference_215": {
+      "type": "figure_reference",
+      "id": "figure_reference_215",
+      "path": [
+        "paragraph_213",
+        "content"
+      ],
+      "target": "image_fig6",
+      "range": [
+        875,
+        884
+      ]
+    },
+    "annotation_216": {
+      "type": "emphasis",
+      "id": "annotation_216",
+      "path": [
+        "paragraph_213",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1241,
+        1246
+      ]
+    },
+    "annotation_217": {
+      "type": "emphasis",
+      "id": "annotation_217",
+      "path": [
+        "paragraph_213",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1340,
+        1346
+      ]
+    },
+    "annotation_218": {
+      "type": "emphasis",
+      "id": "annotation_218",
+      "path": [
+        "paragraph_213",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1348,
+        1353
+      ]
+    },
+    "annotation_219": {
+      "type": "emphasis",
+      "id": "annotation_219",
+      "path": [
+        "paragraph_213",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1355,
+        1360
+      ]
+    },
+    "annotation_220": {
+      "type": "emphasis",
+      "id": "annotation_220",
+      "path": [
+        "paragraph_213",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1385,
+        1391
+      ]
+    },
+    "annotation_221": {
+      "type": "emphasis",
+      "id": "annotation_221",
+      "path": [
+        "paragraph_213",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1393,
+        1398
+      ]
+    },
+    "annotation_222": {
+      "type": "emphasis",
+      "id": "annotation_222",
+      "path": [
+        "paragraph_213",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1400,
+        1405
+      ]
+    },
+    "annotation_223": {
+      "type": "emphasis",
+      "id": "annotation_223",
+      "path": [
+        "paragraph_213",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1475,
+        1480
+      ]
+    },
+    "figure_reference_224": {
+      "type": "figure_reference",
+      "id": "figure_reference_224",
+      "path": [
+        "paragraph_213",
+        "content"
+      ],
+      "target": "image_fig6",
+      "range": [
+        1514,
+        1525
+      ]
+    },
+    "figure_reference_225": {
+      "type": "figure_reference",
+      "id": "figure_reference_225",
+      "path": [
+        "paragraph_213",
+        "content"
+      ],
+      "target": "image_fig6s1",
+      "range": [
+        1530,
+        1558
+      ]
+    },
+    "annotation_226": {
+      "type": "emphasis",
+      "id": "annotation_226",
+      "path": [
+        "paragraph_213",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1684,
+        1700
+      ]
+    },
+    "figure_reference_227": {
+      "type": "figure_reference",
+      "id": "figure_reference_227",
+      "path": [
+        "paragraph_213",
+        "content"
+      ],
+      "target": "image_fig6",
+      "range": [
+        1818,
+        1827
+      ]
+    },
+    "figure_reference_228": {
+      "type": "figure_reference",
+      "id": "figure_reference_228",
+      "path": [
+        "paragraph_213",
+        "content"
+      ],
+      "target": "image_fig6",
+      "range": [
+        2032,
+        2041
+      ]
+    },
+    "figure_reference_229": {
+      "type": "figure_reference",
+      "id": "figure_reference_229",
+      "path": [
+        "paragraph_213",
+        "content"
+      ],
+      "target": "image_fig7",
+      "range": [
+        2455,
+        2463
+      ]
+    },
+    "image_fig6": {
+      "type": "image",
+      "id": "image_fig6",
+      "label": "Figure 6.",
+      "url": "",
+      "object_id": "F22",
+      "title": "Systems level coordination of integral membrane protein quality control.",
+      "content_type": "",
+      "large_url": "",
+      "content": "",
+      "group": [
+        "parent",
+        null
+      ],
+      "doi": "http://dx.doi.org/10.7554/eLife.00459.025",
+      "caption": "paragraph_image_fig6",
+      "graphic_id": "elife00459f006"
+    },
+    "paragraph_image_fig6": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig6",
+      "content": "(A) Model illustrating the major quality control mechanisms for integral membrane proteins: ERAD (proteasomal degradation), Golgi quality control (GQC; vacuolar/lysosomal degradation), and plasma membrane quality control (PMQC; vacuolar/lysosomal degradation). (B) Genetic array constructed for known quality control systems in the cell. Red color indicates the percentage of yeast cells staining PI positive following growth at 40°C for 3 hr (see key inset). Gray box indicates a strain which could not be obtained due to synthetic lethality in the SEY6210 background. (C) Node network illustrating all genetic interactions observed for protein quality control systems (cytosolic quality control, CQC; ER quality control, ERQC; Golgi quality control, GQC; PM quality control, PMQC) in Figure 6B. (D) Flow cytometry was used to analyze PI staining of the indicated strains following growth at 40°C for 3 hr."
+    },
+    "annotation_230": {
+      "type": "strong",
+      "id": "annotation_230",
+      "path": [
+        "paragraph_image_fig6",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1,
+        2
+      ]
+    },
+    "annotation_231": {
+      "type": "strong",
+      "id": "annotation_231",
+      "path": [
+        "paragraph_image_fig6",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        262,
+        263
+      ]
+    },
+    "annotation_232": {
+      "type": "strong",
+      "id": "annotation_232",
+      "path": [
+        "paragraph_image_fig6",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        571,
+        572
+      ]
+    },
+    "figure_reference_233": {
+      "type": "figure_reference",
+      "id": "figure_reference_233",
+      "path": [
+        "paragraph_image_fig6",
+        "content"
+      ],
+      "target": "image_fig6",
+      "range": [
+        786,
+        795
+      ]
+    },
+    "annotation_234": {
+      "type": "strong",
+      "id": "annotation_234",
+      "path": [
+        "paragraph_image_fig6",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        798,
+        799
+      ]
+    },
+    "image_fig6s1": {
+      "type": "image",
+      "id": "image_fig6s1",
+      "label": "Figure 6—figure supplement 1.",
+      "url": "",
+      "object_id": "F23",
+      "title": "Heat-sensitivity analysis of wildtype and mutant yeast cells.",
+      "content_type": "",
+      "large_url": "",
+      "content": "",
+      "group": [
+        "child",
+        "image_fig6"
+      ],
+      "doi": "",
+      "caption": "paragraph_image_fig6s1",
+      "graphic_id": "elife00459fs017"
+    },
+    "paragraph_image_fig6s1": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig6s1",
+      "content": "DOI: http://dx.doi.org/10.7554/eLife.00459.026"
+    },
+    "annotation_235": {
+      "type": "strong",
+      "id": "annotation_235",
+      "path": [
+        "paragraph_image_fig6s1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        4
+      ]
+    },
+    "annotation_236": {
+      "type": "link",
+      "id": "annotation_236",
+      "path": [
+        "paragraph_image_fig6s1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        5,
+        46
+      ],
+      "url": "10.7554/eLife.00459.026"
+    },
+    "image_fig7": {
+      "type": "image",
+      "id": "image_fig7",
+      "label": "Figure 7.",
+      "url": "",
+      "object_id": "F24",
+      "title": "Cellular mechanisms of integral membrane protein quality control.",
+      "content_type": "",
+      "large_url": "",
+      "content": "",
+      "group": [
+        "parent",
+        null
+      ],
+      "doi": "http://dx.doi.org/10.7554/eLife.00459.027",
+      "caption": "paragraph_image_fig7",
+      "graphic_id": "elife00459f007"
+    },
+    "paragraph_image_fig7": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig7",
+      "content": "Integral membrane proteins are subject to sequential quality control mechanisms including ERAD in the ER (I), GQC in the Golgi (II), and ART-Rsp5 mediated PMQC at the PM (III)."
+    },
+    "heading_s3": {
+      "type": "heading",
+      "id": "heading_s3",
+      "level": 1,
+      "content": "Discussion",
+      "nodes": []
+    },
+    "paragraph_237": {
+      "type": "paragraph",
+      "id": "paragraph_237",
+      "content": "All cellular proteins are subject to turnover. The critical balance between synthesis and turnover is particularly important in very long-lived post-mitotic cells like neurons, where cellular proteostasis must be maintained over the entire lifetime of the organism. Thus, protein quality and quantity in all cellular compartments must be carefully managed both as a critical housekeeping function and to protect cellular integrity during proteotoxic stress. Protein quality control systems share several key features that define their function as mediators of cellular proteostasis. Such systems generally (i) have the ability to selectively recognize damaged or misfolded proteins, (ii) target a broad array of misfolded substrates for refolding or degradation, (iii) undergo induction or activation in response to proteotoxic stress, and (iv) protect cells from possible cell death in the presence of proteotoxic stresses. Based on these four criteria, we propose that the ART-Rsp5 adaptor network comprises a new protein quality control (PMQC) system that functions primarily in the recognition and targeted removal of misfolded integral membrane proteins at the PM."
+    },
+    "heading_s3-1": {
+      "type": "heading",
+      "id": "heading_s3-1",
+      "level": 2,
+      "content": "Recognition and removal of misfolded integral PM proteins during proteotoxic stress",
+      "nodes": []
+    },
+    "paragraph_238": {
+      "type": "paragraph",
+      "id": "paragraph_238",
+      "content": "An incredible yet poorly-understood property of protein quality control systems is the ability to preferentially recognize misfolded or aberrant proteins and target them either for re-folding or degradation. The potential number of disordered conformer states occupied by a protein as it misfolds is seemingly infinite, which poses a challenge for quality control systems to specifically recognize misfolded species with a broad range of substrates. In this study, we observed that many PM cargo proteins are turned over following heat stress, which is known to induce broad misfolding of proteins in the cell (Fang et al., 2011; Theodoraki et al., 2012). One thermolabile protein, the lysine transporter Lyp1, was shown to aggregate in isolated plasma membranes subject to heat stress, suggesting that heat stress triggers broad misfolding of cargo in the PM. We show that the ART-Rsp5 network (i) is required for the endocytic downregulation of cargo during proteotoxic stress and (ii) protects cells from the loss of PM integrity associated with accumulation of misfolded cargo at the surface. The recognition of misfolded proteins by ARTs is consistent with the finding that glycerol, a chemical chaperone that protects against protein misfolding, stabilized Lyp1 during heat stress without broadly affecting endocytosis (Figure 1C and Figure 1—figure supplement 10). Furthermore, we demonstrate that different cargo substrates targeted by the ART-Rsp5 network exhibit unique thermostability profiles and are recognized by specific ART-Rsp5 complexes, underscoring the cargo-intrinsic nature of substrate selection. Since each specific protein is expected to experience unique conformational dynamics in response to different proteotoxic stresses, these results are consistent with the targeting of proteins as they become conformationally disordered or misfolded (Claessen et al., 2011) and underscores the role of specific ART proteins in recognizing distinct misfolded signatures."
+    },
+    "citation_reference_239": {
+      "type": "citation_reference",
+      "id": "citation_reference_239",
+      "path": [
+        "paragraph_238",
+        "content"
+      ],
+      "target": "article_citation_bib4",
+      "range": [
+        611,
+        628
+      ]
+    },
+    "citation_reference_240": {
+      "type": "citation_reference",
+      "id": "citation_reference_240",
+      "path": [
+        "paragraph_238",
+        "content"
+      ],
+      "target": "article_citation_bib24",
+      "range": [
+        630,
+        653
+      ]
+    },
+    "figure_reference_241": {
+      "type": "figure_reference",
+      "id": "figure_reference_241",
+      "path": [
+        "paragraph_238",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        1326,
+        1335
+      ]
+    },
+    "figure_reference_242": {
+      "type": "figure_reference",
+      "id": "figure_reference_242",
+      "path": [
+        "paragraph_238",
+        "content"
+      ],
+      "target": "image_fig1s10",
+      "range": [
+        1340,
+        1369
+      ]
+    },
+    "citation_reference_243": {
+      "type": "citation_reference",
+      "id": "citation_reference_243",
+      "path": [
+        "paragraph_238",
+        "content"
+      ],
+      "target": "article_citation_bib3",
+      "range": [
+        1869,
+        1890
+      ]
+    },
+    "paragraph_244": {
+      "type": "paragraph",
+      "id": "paragraph_244",
+      "content": "Although it is still poorly understood how quality control machinery discriminates between folded and unfolded clients, recent studies have established two general mechanisms for targeting misfolded proteins. One mechanism involves targeting of misfolded proteins by binding of E3 ubiquitin ligases to molecular chaperones. For example, the E3 ubiquitin ligase CHIP binds to Hsp70, which effectively targets chronically misfolded proteins for ubiquitination and subsequent proteasomal degradation (Meacham et al., 2001; Okiyoneda et al., 2010). While it is possible that the ART-Rsp5 is targeted to misfolded integral membrane proteins via chaperones, candidate chaperones for the detection of misfolded integral membrane proteins are not obvious. A second quality control strategy involves the recognition of misfolded proteins directly by E3 ubiquitin ligases via intrinsically disordered regions with the potential to target exposed hydrophobic domains (Fredrickson et al., 2011). For example, the nuclear E3 ubquitin ligase San1 is capable of targeting the degradation of a broad range of soluble nuclear proteins by a mechanism that requires intrinsically disordered segments of the San1 protein (Rosenbaum et al., 2011). Indeed, while San1 is predicted to contain 12 disordered regions, the complete network of ART adaptors is predicted to contain 173 disordered regions (some greater than 100 amino acids in length) demonstrating the potential capacity for this system to directly detect misfolded proteins. Ultimately, recognition of integral membrane protein misfolding may require mechanisms distinct from those employed in the recognition of misfolded soluble proteins. For example, it is possible that misfolding stress may trigger the aggregation of membrane spanning domains and the ART-Rsp5 network may recognize biochemical features of this type of aggregation. Future studies will need to address structural mechanisms for the recognition of misfolded PM proteins by the ART-Rsp5 network."
+    },
+    "citation_reference_245": {
+      "type": "citation_reference",
+      "id": "citation_reference_245",
+      "path": [
+        "paragraph_244",
+        "content"
+      ],
+      "target": "article_citation_bib17",
+      "range": [
+        498,
+        518
+      ]
+    },
+    "citation_reference_246": {
+      "type": "citation_reference",
+      "id": "citation_reference_246",
+      "path": [
+        "paragraph_244",
+        "content"
+      ],
+      "target": "article_citation_bib18",
+      "range": [
+        520,
+        542
+      ]
+    },
+    "citation_reference_247": {
+      "type": "citation_reference",
+      "id": "citation_reference_247",
+      "path": [
+        "paragraph_244",
+        "content"
+      ],
+      "target": "article_citation_bib5",
+      "range": [
+        957,
+        981
+      ]
+    },
+    "citation_reference_248": {
+      "type": "citation_reference",
+      "id": "citation_reference_248",
+      "path": [
+        "paragraph_244",
+        "content"
+      ],
+      "target": "article_citation_bib21",
+      "range": [
+        1202,
+        1224
+      ]
+    },
+    "heading_s3-2": {
+      "type": "heading",
+      "id": "heading_s3-2",
+      "level": 2,
+      "content": "Protecting cellular integrity by endocytic clearance of integral PM proteins",
+      "nodes": []
+    },
+    "paragraph_249": {
+      "type": "paragraph",
+      "id": "paragraph_249",
+      "content": "Ultimately, the most critical feature of protein quality control systems is that they are required to protect cells during proteotoxic stress and prevent possible cell death. We found in the course of our investigation that abrogation of the ART-Rsp5 network results in hypersensitivity to heat stress that is associated with accumulation of proteins at the cell surface and loss of PM integrity. Thus, the ART-Rsp5 network plays a critical role in protecting the cell—and in particular, protecting the plasma membrane—during conditions of proteotoxic stress. It is unclear exactly how accumulation of misfolded proteins at the cell surface could result in loss of PM integrity, but we speculate that nutrient transporters and ion channels—whose primary function is to permit selective transport of small molecules through the PM—are a particular liability given their potential to allow non-specific leakage if not properly folded. Indeed, the function of many PM channels and transporters requires transition between multiple conformational states in order to facilitate transfer of molecules between the extracellular space and the cytosol. These conformational transitions must be carefully controlled to prevent loss of critical ion gradients, especially during conditions of proteotoxic stress where excessive conformational flux may present a significant liability to PM integrity. Alternatively, the accumulation of misfolded integral membrane proteins could result in aggregation which broadly disrupts the function of proteins at the surface. Understanding not only the mechanism for recognition and removal of misfolded integral PM proteins but also the basis of their toxicity will contribute to our overall understanding of proteostasis networks and help shed light on the cytotoxicity associated with protein misfolding disorders."
+    },
+    "paragraph_250": {
+      "type": "paragraph",
+      "id": "paragraph_250",
+      "content": "In many cases, protein quality control systems are induced or activated during conditions of proteotoxic stress. For example, the heat shock response activates a transcriptional program that increases expression of chaperones, ubiquitination machinery, and other proteins dedicated to dealing with protein folding stress. Similarly, the unfolded protein response is induced following ER stress, resulting in the induction of ER chaperones and ERAD machinery (Walter and Ron, 2011). While the ART-Rsp5 network does not appear to be induced transcriptionally, we find that it does appear to be activated in response to heat stress. Specifically, we find that heat stress triggers PM translocation of Art1 (Figure 4—figure supplement 2). Our previous studies revealed that TORC1 signaling induced Art1 dephosphorylation which triggered PM translocation, however we find no evidence that heat stress affects the phosphorylation status of Art1 (unpublished results). Thus, the mechanistic basis of Art1 translocation to the PM in response to heat stress remains to be elucidated."
+    },
+    "citation_reference_251": {
+      "type": "citation_reference",
+      "id": "citation_reference_251",
+      "path": [
+        "paragraph_250",
+        "content"
+      ],
+      "target": "article_citation_bib25",
+      "range": [
+        459,
+        479
+      ]
+    },
+    "figure_reference_252": {
+      "type": "figure_reference",
+      "id": "figure_reference_252",
+      "path": [
+        "paragraph_250",
+        "content"
+      ],
+      "target": "image_fig4s2",
+      "range": [
+        704,
+        732
+      ]
+    },
+    "paragraph_253": {
+      "type": "paragraph",
+      "id": "paragraph_253",
+      "content": "Although removal of misfolded integral PM proteins is critical to protect PM integrity during proteotoxic stress, we speculate that similar quality control mechanisms may also serve important housekeeping functions during normal cell growth. Indeed, all integral PM proteins have a functional lifetime and must ultimately be removed and degraded. Even in the absence of proteotoxic stress, accumulation of these proteins could be detrimental to the cell. Indeed, many human channelopathies, which include many neurological or cardiac disorders, are very likely caused by mutations that affect both the quality and quantity of specific ion channels at the cell surface (Kullmann, 2010; Rougier et al., 2010)."
+    },
+    "citation_reference_254": {
+      "type": "citation_reference",
+      "id": "citation_reference_254",
+      "path": [
+        "paragraph_253",
+        "content"
+      ],
+      "target": "article_citation_bib9",
+      "range": [
+        669,
+        683
+      ]
+    },
+    "citation_reference_255": {
+      "type": "citation_reference",
+      "id": "citation_reference_255",
+      "path": [
+        "paragraph_253",
+        "content"
+      ],
+      "target": "article_citation_bib22",
+      "range": [
+        685,
+        705
+      ]
+    },
+    "heading_s3-3": {
+      "type": "heading",
+      "id": "heading_s3-3",
+      "level": 2,
+      "content": "The parallel circuitry of membrane protein quality control systems",
+      "nodes": []
+    },
+    "paragraph_256": {
+      "type": "paragraph",
+      "id": "paragraph_256",
+      "content": "Our results indicate that quality control systems for integral membrane proteins—including ERQC, GQC, and PMQC—cooperate to limit the accumulation of misfolded proteins at the PM. Although ERAD is the best understood quality control system that targets integral membrane proteins for degradation, we found that defects in ERAD did not significantly affect thermotolerance in the presence of Art1 but did exacerbate the loss of PM integrity in the absence of Art1. GQC, while still poorly understood, has also recently been shown to protect the cell from proteotoxic stress by capturing misfolded proteins at the Golgi and diverting them to the endosomal system for degradation in the lysosome (Wang et al., 2011). We found that defects in all three sequential pathways—ERQC, GQC, and PMQC—resulted in severe PM integrity defects when subject to misfolding stress, suggesting they function as spatially distinct yet mechanistically overlapping protein quality control systems. We cannot exclude the possibility that the synthetic genetic interactions observed between the ART-Rsp5 network, GQC, and PMQC may result not from defects in sequential quality control systems but instead from nonspecific effects of impairing quality control at multiple organelles in the cell. Nevertheless, we propose that the ART-Rsp5 network in yeast functions as the major pathway for clearance of PM proteins that exceed their functional lifetime or misfolded proteins that traffic to the surface by escaping ER and Golgi QC. Understanding the coordination of compartment-specific quality control systems along the secretory and endocytic pathways has the potential to contribute to improved therapeutic strategies for protein misfolding diseases like CFTR and other channelopathies (Kullmann, 2010; Rougier et al., 2010)."
+    },
+    "citation_reference_257": {
+      "type": "citation_reference",
+      "id": "citation_reference_257",
+      "path": [
+        "paragraph_256",
+        "content"
+      ],
+      "target": "article_citation_bib27",
+      "range": [
+        694,
+        711
+      ]
+    },
+    "citation_reference_258": {
+      "type": "citation_reference",
+      "id": "citation_reference_258",
+      "path": [
+        "paragraph_256",
+        "content"
+      ],
+      "target": "article_citation_bib9",
+      "range": [
+        1766,
+        1780
+      ]
+    },
+    "citation_reference_259": {
+      "type": "citation_reference",
+      "id": "citation_reference_259",
+      "path": [
+        "paragraph_256",
+        "content"
+      ],
+      "target": "article_citation_bib22",
+      "range": [
+        1782,
+        1802
+      ]
+    },
+    "heading_s3-4": {
+      "type": "heading",
+      "id": "heading_s3-4",
+      "level": 2,
+      "content": "Plasma membrane quality control (PMQC) systems and protection from proteotoxic stress",
+      "nodes": []
+    },
+    "paragraph_260": {
+      "type": "paragraph",
+      "id": "paragraph_260",
+      "content": "The earliest studies reporting the existence of post-ER quality control of integral membrane proteins provided evidence that misfolding of mutant membrane proteins in yeast is triggered by either high temperature (Jenness et al., 1997; Li et al., 1999; Liu et al., 2006) or changes in PM lipid composition (Wang and Chang, 2002; Lauwers et al., 2007). Recent studies have provided evidence of a PM quality control system in mammalian cells that contributes to the ubiquitination and lysosomal trafficking of misfolded ΔF506 CFTR (Okiyoneda et al., 2010) as well as thermolabile synthetic cargoes (Apaja et al., 2010). Both studies converged on a common mechanism that involves recognition of misfolded soluble cytosolic domains by chaperones (Hsp70/Hsc70/Hsp90) which recruit CHIP, an E3 ubiquitin ligase. While the yeast genome does not encode a homolog of mammalian CHIP, the analogous proteins, Ubr1 and Ubr2, are also required for the degradation of misfolded proteins (Khosrow-Khavar et al., 2012). However, Ubr1 and Ubr2 are dispensable for the heat-induced endocytic response associated with the turnover of integral PM proteins (Figure 6B and data not shown). Instead, our results indicate that the recognition of misfolded integral membrane proteins in yeast is mediated by ART adaptor proteins. It is tempting to speculate that a similar peripheral quality control function may be mediated by the ARRDC family of proteins in mammalian cells, which encode proteins similar to ARTs with an N-terminal arrestin-domain and a C-terminal domain containing multiple PY motifs capable of binding to members of the Nedd4 family of ubiquitin ligases (Patwari and Lee, 2012). In the context of a multicellular organism, these membrane quality control systems may prevent the affects of accumulated protein damage over time and thus ultimately protect cells from premature aging and cell death."
+    },
+    "citation_reference_261": {
+      "type": "citation_reference",
+      "id": "citation_reference_261",
+      "path": [
+        "paragraph_260",
+        "content"
+      ],
+      "target": "article_citation_bib7",
+      "range": [
+        214,
+        234
+      ]
+    },
+    "citation_reference_262": {
+      "type": "citation_reference",
+      "id": "citation_reference_262",
+      "path": [
+        "paragraph_260",
+        "content"
+      ],
+      "target": "article_citation_bib11",
+      "range": [
+        236,
+        251
+      ]
+    },
+    "citation_reference_263": {
+      "type": "citation_reference",
+      "id": "citation_reference_263",
+      "path": [
+        "paragraph_260",
+        "content"
+      ],
+      "target": "article_citation_bib14",
+      "range": [
+        253,
+        269
+      ]
+    },
+    "citation_reference_264": {
+      "type": "citation_reference",
+      "id": "citation_reference_264",
+      "path": [
+        "paragraph_260",
+        "content"
+      ],
+      "target": "article_citation_bib26",
+      "range": [
+        307,
+        327
+      ]
+    },
+    "citation_reference_265": {
+      "type": "citation_reference",
+      "id": "citation_reference_265",
+      "path": [
+        "paragraph_260",
+        "content"
+      ],
+      "target": "article_citation_bib10",
+      "range": [
+        329,
+        349
+      ]
+    },
+    "citation_reference_266": {
+      "type": "citation_reference",
+      "id": "citation_reference_266",
+      "path": [
+        "paragraph_260",
+        "content"
+      ],
+      "target": "article_citation_bib18",
+      "range": [
+        530,
+        552
+      ]
+    },
+    "citation_reference_267": {
+      "type": "citation_reference",
+      "id": "citation_reference_267",
+      "path": [
+        "paragraph_260",
+        "content"
+      ],
+      "target": "article_citation_bib1",
+      "range": [
+        597,
+        615
+      ]
+    },
+    "citation_reference_268": {
+      "type": "citation_reference",
+      "id": "citation_reference_268",
+      "path": [
+        "paragraph_260",
+        "content"
+      ],
+      "target": "article_citation_bib8",
+      "range": [
+        974,
+        1001
+      ]
+    },
+    "figure_reference_269": {
+      "type": "figure_reference",
+      "id": "figure_reference_269",
+      "path": [
+        "paragraph_260",
+        "content"
+      ],
+      "target": "image_fig6",
+      "range": [
+        1137,
+        1146
+      ]
+    },
+    "citation_reference_270": {
+      "type": "citation_reference",
+      "id": "citation_reference_270",
+      "path": [
+        "paragraph_260",
+        "content"
+      ],
+      "target": "article_citation_bib19",
+      "range": [
+        1651,
+        1672
+      ]
+    },
+    "heading_s4": {
+      "type": "heading",
+      "id": "heading_s4",
+      "level": 1,
+      "content": "Materials and methods",
+      "nodes": []
+    },
+    "heading_s4-1": {
+      "type": "heading",
+      "id": "heading_s4-1",
+      "level": 2,
+      "content": "Fluorescence microscopy",
+      "nodes": []
+    },
+    "paragraph_271": {
+      "type": "paragraph",
+      "id": "paragraph_271",
+      "content": "Yeast cells expressing fluorescent fusion proteins were grown to mid-log phase in synthetic media. Microscopy was performed using a fluorescence microscope (DeltaVison RT; Applied Precision, Issaquah, WA) equipped with FITC and rhodamine filters. Images were captured with a digital camera (Cool Snap HQ; Photometrics, Tucson, AZ) and deconvolved using softWoRx 3.5.0 software (Applied Precision, Issaquah, WA)."
+    },
+    "heading_s4-2": {
+      "type": "heading",
+      "id": "heading_s4-2",
+      "level": 2,
+      "content": "Analysis of cellular protein expression levels",
+      "nodes": []
+    },
+    "paragraph_272": {
+      "type": "paragraph",
+      "id": "paragraph_272",
+      "content": "Yeast cells expressing epitope-tagged protein were grown to mid-log phase in synthetic media. 5 OD600 equivalents of mid-log cells pretreated at the indicated temperatures were harvested by precipitation in 10% trichloroacetic acid (TCA). Precipitates were washed in acetone, aspirated, resuspended in lysis buffer (150 mM NaCl, 50 mM Tris pH7.5, 1 mM EDTA, 1% SDS), and mechanically lysed with glass beads. Protein sample buffer (150 mM Tris pH 6.8, 6M Urea, 6% SDS, 10% beta-mercaptoethanol, 20% Glycerol) was added and extracts were analyzed by SDS-PAGE and immunoblotting with anti-FLAG (Sigma, St. Louis, MO) antibody."
+    },
+    "annotation_273": {
+      "type": "subscript",
+      "id": "annotation_273",
+      "path": [
+        "paragraph_272",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        98,
+        101
+      ]
+    },
+    "heading_s4-3": {
+      "type": "heading",
+      "id": "heading_s4-3",
+      "level": 2,
+      "content": "Detergent solubility analysis and sucrose gradients",
+      "nodes": []
+    },
+    "paragraph_274": {
+      "type": "paragraph",
+      "id": "paragraph_274",
+      "content": "Yeast cells were disrupted by bead-beating in lysis buffer (PBS + 1 mM EDTA + protease inhibitors). Lysates were centrifuged at 500×g for 5 min to remove unbroken cells and nuclei. Cleared lysates were then spun at 13,000×g for 15 min to isolate P13 fractions. P13 fractions were washed once, resuspended in lysis buffer and incubated for 30 min at either 26°C or 40°C then placed on ice. Detergent (n-dodecyl-β-D-maltopyranoside; Affymetrix, Santa Clara, CA) was added to 1% and samples were incubated for 30 min at 4°C. Samples were then spun at 40,000×g for 30 min to isolate S40 and P40 fractions. To assay protein aggregation, S40 and P40 fractions were loaded onto 20%/40% sucrose step gradients and spun at 55,000×g for 60 min. Top and bottom fractions of the sucrose gradient were isolated, precipitated in 10% TCA and analyzed by Western blot."
+    },
+    "annotation_275": {
+      "type": "emphasis",
+      "id": "annotation_275",
+      "path": [
+        "paragraph_274",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        132,
+        133
+      ]
+    },
+    "annotation_276": {
+      "type": "emphasis",
+      "id": "annotation_276",
+      "path": [
+        "paragraph_274",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        222,
+        223
+      ]
+    },
+    "annotation_277": {
+      "type": "emphasis",
+      "id": "annotation_277",
+      "path": [
+        "paragraph_274",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        555,
+        556
+      ]
+    },
+    "annotation_278": {
+      "type": "emphasis",
+      "id": "annotation_278",
+      "path": [
+        "paragraph_274",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        721,
+        722
+      ]
+    },
+    "heading_s4-4": {
+      "type": "heading",
+      "id": "heading_s4-4",
+      "level": 2,
+      "content": "Plasma membrane integrity assay",
+      "nodes": []
+    },
+    "paragraph_279": {
+      "type": "paragraph",
+      "id": "paragraph_279",
+      "content": "Yeast strains were grown to early-log phase (around 0.2 OD600) in synthetic media, shifted to 40°C and cultured for an additional 3 hr. 1 OD600 equivalent of cells was pelleted and resuspended in PBST (0.01% Tween 20) and cells were stained with propidium iodide (Sigma) for 20 min. Cells were then washed twice with ddH20 and analyzed by flow cytometry."
+    },
+    "annotation_280": {
+      "type": "subscript",
+      "id": "annotation_280",
+      "path": [
+        "paragraph_279",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        58,
+        61
+      ]
+    },
+    "annotation_281": {
+      "type": "subscript",
+      "id": "annotation_281",
+      "path": [
+        "paragraph_279",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        140,
+        143
+      ]
+    },
+    "annotation_282": {
+      "type": "subscript",
+      "id": "annotation_282",
+      "path": [
+        "paragraph_279",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        320,
+        321
+      ]
+    },
+    "info:ack": {
+      "type": "heading",
+      "id": "info:ack",
+      "level": 2,
+      "content": "Acknowledgements",
+      "nodes": [
+        "paragraph_ack"
+      ]
+    },
+    "paragraph_ack": {
+      "type": "paragraph",
+      "id": "paragraph_ack",
+      "content": "AcknowledgementsWe thank A Chang, S Moye-Rowley, and L Miller for reagents and helpful advice. We also thank M Chin for technical assistance. We are grateful to S Qian and C Fromme for critical reading of the manuscript. We also thank members of the Emr lab for helpful discussions, especially PC Hsu.Additional information"
+    },
+    "info:competing-interest": {
+      "type": "heading",
+      "id": "info:competing-interest",
+      "level": 2,
+      "content": "Competing Interests",
+      "nodes": [
+        "paragraph_283"
+      ]
+    },
+    "paragraph_283": {
+      "type": "paragraph",
+      "id": "paragraph_283",
+      "content": "Competing interestsThe authors declare that no competing interests exist."
+    },
+    "info:author_contribution": {
+      "type": "heading",
+      "id": "info:author_contribution",
+      "level": 2,
+      "content": "Authors",
+      "nodes": [
+        "person_author_3534",
+        "person_author_3535",
+        "person_author_3536",
+        "person_author_2368"
+      ]
+    },
+    "article_citation_bib1": {
+      "type": "article_citation",
+      "id": "article_citation_bib1",
+      "authors": [
+        {
+          "given-names": "PM",
+          "last-name": "Apaja"
+        },
+        {
+          "given-names": "H",
+          "last-name": "Xu"
+        },
+        {
+          "given-names": "GL",
+          "last-name": "Lukacs"
+        }
+      ],
+      "title": "Quality control for unfolded proteins at the plasma membrane",
+      "year": "2010",
+      "volume": "191",
+      "source": "J Cell Biol",
+      "issue": "",
+      "fpage": "553",
+      "lpage": "70",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1083/jcb.201006012",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib2": {
+      "type": "article_citation",
+      "id": "article_citation_bib2",
+      "authors": [
+        {
+          "given-names": "V",
+          "last-name": "Bernier"
+        },
+        {
+          "given-names": "M",
+          "last-name": "Lagacé"
+        },
+        {
+          "given-names": "DG",
+          "last-name": "Bichet"
+        },
+        {
+          "given-names": "M",
+          "last-name": "Bouvier"
+        }
+      ],
+      "title": "Pharmacological chaperones: potential treatment for conformational diseases",
+      "year": "2004",
+      "volume": "15",
+      "source": "Trends Endocrinol Metab",
+      "issue": "",
+      "fpage": "222",
+      "lpage": "8",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/j.tem.2004.05.003",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib3": {
+      "type": "article_citation",
+      "id": "article_citation_bib3",
+      "authors": [
+        {
+          "given-names": "JH",
+          "last-name": "Claessen"
+        },
+        {
+          "given-names": "L",
+          "last-name": "Kundrat"
+        },
+        {
+          "given-names": "HL",
+          "last-name": "Ploegh"
+        }
+      ],
+      "title": "Protein quality control in the ER: balancing the ubiquitin checkbook",
+      "year": "2011",
+      "volume": "22",
+      "source": "Trends Cell Biol",
+      "issue": "",
+      "fpage": "22",
+      "lpage": "32",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/j.tcb.2011.09.010",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib4": {
+      "type": "article_citation",
+      "id": "article_citation_bib4",
+      "authors": [
+        {
+          "given-names": "NN",
+          "last-name": "Fang"
+        },
+        {
+          "given-names": "AH",
+          "last-name": "Ng"
+        },
+        {
+          "given-names": "V",
+          "last-name": "Measday"
+        },
+        {
+          "given-names": "T",
+          "last-name": "Mayor"
+        }
+      ],
+      "title": "Hul5 HECT ubiquitin ligase plays a major role in the ubiquitylation and turnover of cytosolic misfolded proteins",
+      "year": "2011",
+      "volume": "13",
+      "source": "Nat Cell Biol",
+      "issue": "",
+      "fpage": "1344",
+      "lpage": "52",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1038/ncb2343",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib5": {
+      "type": "article_citation",
+      "id": "article_citation_bib5",
+      "authors": [
+        {
+          "given-names": "EK",
+          "last-name": "Fredrickson"
+        },
+        {
+          "given-names": "JC",
+          "last-name": "Rosenbaum"
+        },
+        {
+          "given-names": "MN",
+          "last-name": "Locke"
+        },
+        {
+          "given-names": "TI",
+          "last-name": "Milac"
+        },
+        {
+          "given-names": "RG",
+          "last-name": "Gardner"
+        }
+      ],
+      "title": "Exposed hydrophobicity is a key determinant of nuclear quality control degradation",
+      "year": "2011",
+      "volume": "22",
+      "source": "Mol Biol Cell",
+      "issue": "",
+      "fpage": "2384",
+      "lpage": "95",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1091/mbc.E11-03-0256",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib6": {
+      "type": "article_citation",
+      "id": "article_citation_bib6",
+      "authors": [
+        {
+          "given-names": "WM",
+          "last-name": "Henne"
+        },
+        {
+          "given-names": "NJ",
+          "last-name": "Buchkovich"
+        },
+        {
+          "given-names": "SD",
+          "last-name": "Emr"
+        }
+      ],
+      "title": "The ESCRT pathway",
+      "year": "2011",
+      "volume": "21",
+      "source": "Dev Cell",
+      "issue": "",
+      "fpage": "77",
+      "lpage": "91",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/j.devcel.2011.05.015",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib7": {
+      "type": "article_citation",
+      "id": "article_citation_bib7",
+      "authors": [
+        {
+          "given-names": "DD",
+          "last-name": "Jenness"
+        },
+        {
+          "given-names": "Y",
+          "last-name": "Li"
+        },
+        {
+          "given-names": "C",
+          "last-name": "Tipper"
+        },
+        {
+          "given-names": "P",
+          "last-name": "Spatrick"
+        }
+      ],
+      "title": "Elimination of defective alpha-factor pheromone receptors",
+      "year": "1997",
+      "volume": "17",
+      "source": "Mol Cell Biol",
+      "issue": "",
+      "fpage": "6236",
+      "lpage": "45",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib8": {
+      "type": "article_citation",
+      "id": "article_citation_bib8",
+      "authors": [
+        {
+          "given-names": "F",
+          "last-name": "Khosrow-Khavar"
+        },
+        {
+          "given-names": "NN",
+          "last-name": "Fang"
+        },
+        {
+          "given-names": "AH",
+          "last-name": "Ng"
+        },
+        {
+          "given-names": "JM",
+          "last-name": "Winget"
+        },
+        {
+          "given-names": "SA",
+          "last-name": "Comyn"
+        },
+        {
+          "given-names": "T",
+          "last-name": "Mayor"
+        }
+      ],
+      "title": "The yeast ubr1 ubiquitin ligase participates in a prominent pathway that targets cytosolic thermosensitive mutants for degradation",
+      "year": "2012",
+      "volume": "2",
+      "source": "G3 (Bethesda)",
+      "issue": "",
+      "fpage": "619",
+      "lpage": "28",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1534/g3.111.001933",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib9": {
+      "type": "article_citation",
+      "id": "article_citation_bib9",
+      "authors": [
+        {
+          "given-names": "DM",
+          "last-name": "Kullmann"
+        }
+      ],
+      "title": "Neurological channelopathies",
+      "year": "2010",
+      "volume": "33",
+      "source": "Annu Rev Neurosci",
+      "issue": "",
+      "fpage": "151",
+      "lpage": "72",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1146/annurev-neuro-060909-153122",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib10": {
+      "type": "article_citation",
+      "id": "article_citation_bib10",
+      "authors": [
+        {
+          "given-names": "E",
+          "last-name": "Lauwers"
+        },
+        {
+          "given-names": "G",
+          "last-name": "Grossmann"
+        },
+        {
+          "given-names": "B",
+          "last-name": "André"
+        }
+      ],
+      "title": "Evidence for coupled biogenesis of yeast Gap1 permease and sphingolipids: essential role in transport activity and normal control by ubiquitination",
+      "year": "2007",
+      "volume": "18",
+      "source": "Mol Biol Cell",
+      "issue": "",
+      "fpage": "3068",
+      "lpage": "80",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1091/mbc.E07-03-0196",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib11": {
+      "type": "article_citation",
+      "id": "article_citation_bib11",
+      "authors": [
+        {
+          "given-names": "Y",
+          "last-name": "Li"
+        },
+        {
+          "given-names": "T",
+          "last-name": "Kane"
+        },
+        {
+          "given-names": "C",
+          "last-name": "Tipper"
+        },
+        {
+          "given-names": "P",
+          "last-name": "Spatrick"
+        },
+        {
+          "given-names": "DD",
+          "last-name": "Jenness"
+        }
+      ],
+      "title": "Yeast mutants affecting possible quality control of plasma membrane proteins",
+      "year": "1999",
+      "volume": "19",
+      "source": "Mol Cell Biol",
+      "issue": "",
+      "fpage": "3588",
+      "lpage": "99",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib12": {
+      "type": "article_citation",
+      "id": "article_citation_bib12",
+      "authors": [
+        {
+          "given-names": "CH",
+          "last-name": "Lin"
+        },
+        {
+          "given-names": "JA",
+          "last-name": "MacGurn"
+        },
+        {
+          "given-names": "T",
+          "last-name": "Chu"
+        },
+        {
+          "given-names": "CJ",
+          "last-name": "Stefan"
+        },
+        {
+          "given-names": "SD",
+          "last-name": "Emr"
+        }
+      ],
+      "title": "Arrestin-related ubiquitin-ligase adaptors regulate endocytosis and protein turnover at the cell surface",
+      "year": "2008",
+      "volume": "135",
+      "source": "Cell",
+      "issue": "",
+      "fpage": "714",
+      "lpage": "25",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/j.cell.2008.09.025",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib13": {
+      "type": "article_citation",
+      "id": "article_citation_bib13",
+      "authors": [
+        {
+          "given-names": "Y",
+          "last-name": "Liu"
+        },
+        {
+          "given-names": "A",
+          "last-name": "Chang"
+        }
+      ],
+      "title": "Quality control of a mutant plasma membrane ATPase: ubiquitylation prevents cell-surface stability",
+      "year": "2006",
+      "volume": "119",
+      "source": "J Cell Sci",
+      "issue": "",
+      "fpage": "360",
+      "lpage": "9",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1242/jcs.02749",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib14": {
+      "type": "article_citation",
+      "id": "article_citation_bib14",
+      "authors": [
+        {
+          "given-names": "Y",
+          "last-name": "Liu"
+        },
+        {
+          "given-names": "S",
+          "last-name": "Sitaraman"
+        },
+        {
+          "given-names": "A",
+          "last-name": "Chang"
+        }
+      ],
+      "title": "Multiple degradation pathways for misfolded mutants of the yeast plasma membrane ATPase, Pma1",
+      "year": "2006",
+      "volume": "281",
+      "source": "J Biol Chem",
+      "issue": "",
+      "fpage": "31457",
+      "lpage": "66",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1074/jbc.M606643200",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib15": {
+      "type": "article_citation",
+      "id": "article_citation_bib15",
+      "authors": [
+        {
+          "given-names": "JA",
+          "last-name": "MacGurn"
+        },
+        {
+          "given-names": "PC",
+          "last-name": "Hsu"
+        },
+        {
+          "given-names": "SD",
+          "last-name": "Emr"
+        }
+      ],
+      "title": "Ubiquitin and membrane protein turnover: from cradle to grave",
+      "year": "2012",
+      "volume": "81",
+      "source": "Annu Rev Biochem",
+      "issue": "",
+      "fpage": "231",
+      "lpage": "59",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1146/annurev-biochem-060210-093619",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib16": {
+      "type": "article_citation",
+      "id": "article_citation_bib16",
+      "authors": [
+        {
+          "given-names": "JA",
+          "last-name": "MacGurn"
+        },
+        {
+          "given-names": "PC",
+          "last-name": "Hsu"
+        },
+        {
+          "given-names": "MB",
+          "last-name": "Smolka"
+        },
+        {
+          "given-names": "SD",
+          "last-name": "Emr"
+        }
+      ],
+      "title": "TORC1 regulates endocytosis via Npr1-mediated phosphoinhibition of a ubiquitin ligase adaptor",
+      "year": "2011",
+      "volume": "147",
+      "source": "Cell",
+      "issue": "",
+      "fpage": "1104",
+      "lpage": "17",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/j.cell.2011.09.054",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib17": {
+      "type": "article_citation",
+      "id": "article_citation_bib17",
+      "authors": [
+        {
+          "given-names": "GC",
+          "last-name": "Meacham"
+        },
+        {
+          "given-names": "C",
+          "last-name": "Patterson"
+        },
+        {
+          "given-names": "W",
+          "last-name": "Zhang"
+        },
+        {
+          "given-names": "JM",
+          "last-name": "Younger"
+        },
+        {
+          "given-names": "DM",
+          "last-name": "Cyr"
+        }
+      ],
+      "title": "The Hsc70 co-chaperone CHIP targets immature CFTR for proteasomal degradation",
+      "year": "2001",
+      "volume": "3",
+      "source": "Nat Cell Biol",
+      "issue": "",
+      "fpage": "100",
+      "lpage": "5",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1038/35050509",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib18": {
+      "type": "article_citation",
+      "id": "article_citation_bib18",
+      "authors": [
+        {
+          "given-names": "T",
+          "last-name": "Okiyoneda"
+        },
+        {
+          "given-names": "H",
+          "last-name": "Barrière"
+        },
+        {
+          "given-names": "M",
+          "last-name": "Bagdány"
+        },
+        {
+          "given-names": "W",
+          "last-name": "Rabeh"
+        },
+        {
+          "given-names": "K",
+          "last-name": "Du"
+        },
+        {
+          "given-names": "J",
+          "last-name": "Höhfeld"
+        }
+      ],
+      "title": "Peripheral protein quality control removes unfolded CFTR from the plasma membrane",
+      "year": "2010",
+      "volume": "329",
+      "source": "Science",
+      "issue": "",
+      "fpage": "805",
+      "lpage": "10",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1126/science.1191542",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib19": {
+      "type": "article_citation",
+      "id": "article_citation_bib19",
+      "authors": [
+        {
+          "given-names": "P",
+          "last-name": "Patwari"
+        },
+        {
+          "given-names": "RT",
+          "last-name": "Lee"
+        }
+      ],
+      "title": "An expanded family of arrestins regulate metabolism",
+      "year": "2012",
+      "volume": "23",
+      "source": "Trends Endocrinol Metab",
+      "issue": "",
+      "fpage": "216",
+      "lpage": "22",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/j.tem.2012.03.003",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib20": {
+      "type": "article_citation",
+      "id": "article_citation_bib20",
+      "authors": [
+        {
+          "given-names": "PW",
+          "last-name": "Piper"
+        }
+      ],
+      "title": "The heat shock and ethanol stress responses of yeast exhibit extensive similarity and functional overlap",
+      "year": "1995",
+      "volume": "134",
+      "source": "FEMS Microbiol Lett",
+      "issue": "",
+      "fpage": "121",
+      "lpage": "7",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1111/j.1574-6968.1995.tb07925.x",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib21": {
+      "type": "article_citation",
+      "id": "article_citation_bib21",
+      "authors": [
+        {
+          "given-names": "JC",
+          "last-name": "Rosenbaum"
+        },
+        {
+          "given-names": "EK",
+          "last-name": "Fredrickson"
+        },
+        {
+          "given-names": "ML",
+          "last-name": "Oeser"
+        },
+        {
+          "given-names": "CM",
+          "last-name": "Garrett-Engele"
+        },
+        {
+          "given-names": "MN",
+          "last-name": "Locke"
+        },
+        {
+          "given-names": "LA",
+          "last-name": "Richardson"
+        }
+      ],
+      "title": "Disorder targets misorder in nuclear quality control degradation: a disordered ubiquitin ligase directly recognizes its misfolded substrates",
+      "year": "2011",
+      "volume": "41",
+      "source": "Mol Cell",
+      "issue": "",
+      "fpage": "93",
+      "lpage": "106",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/j.molcel.2010.12.004",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib22": {
+      "type": "article_citation",
+      "id": "article_citation_bib22",
+      "authors": [
+        {
+          "given-names": "JS",
+          "last-name": "Rougier"
+        },
+        {
+          "given-names": "M",
+          "last-name": "Albesa"
+        },
+        {
+          "given-names": "H",
+          "last-name": "Abriel"
+        }
+      ],
+      "title": "Ubiquitylation and SUMOylation of cardiac ion channels",
+      "year": "2010",
+      "volume": "56",
+      "source": "J Cardiovasc Pharmacol",
+      "issue": "",
+      "fpage": "22",
+      "lpage": "8",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1097/FJC.0b013e3181daaff9",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib23": {
+      "type": "article_citation",
+      "id": "article_citation_bib23",
+      "authors": [
+        {
+          "given-names": "LM",
+          "last-name": "Steinmetz"
+        },
+        {
+          "given-names": "H",
+          "last-name": "Sinha"
+        },
+        {
+          "given-names": "DR",
+          "last-name": "Richards"
+        },
+        {
+          "given-names": "JI",
+          "last-name": "Spiegelman"
+        },
+        {
+          "given-names": "PJ",
+          "last-name": "Oefner"
+        },
+        {
+          "given-names": "JH",
+          "last-name": "McCusker"
+        }
+      ],
+      "title": "Dissecting the architecture of a quantitative trait locus in yeast",
+      "year": "2002",
+      "volume": "416",
+      "source": "Nature",
+      "issue": "",
+      "fpage": "326",
+      "lpage": "30",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1038/416326a",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib24": {
+      "type": "article_citation",
+      "id": "article_citation_bib24",
+      "authors": [
+        {
+          "given-names": "MA",
+          "last-name": "Theodoraki"
+        },
+        {
+          "given-names": "NB",
+          "last-name": "Nillegoda"
+        },
+        {
+          "given-names": "J",
+          "last-name": "Saini"
+        },
+        {
+          "given-names": "AJ",
+          "last-name": "Caplan"
+        }
+      ],
+      "title": "A network of ubiquitin ligases is important for the dynamics of misfolded protein aggregates in yeast",
+      "year": "2012",
+      "volume": "287",
+      "source": "J Biol Chem",
+      "issue": "",
+      "fpage": "23911",
+      "lpage": "22",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1074/jbc.M112.341164",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib25": {
+      "type": "article_citation",
+      "id": "article_citation_bib25",
+      "authors": [
+        {
+          "given-names": "P",
+          "last-name": "Walter"
+        },
+        {
+          "given-names": "D",
+          "last-name": "Ron"
+        }
+      ],
+      "title": "The unfolded protein response: from stress pathway to homeostatic regulation",
+      "year": "2011",
+      "volume": "334",
+      "source": "Science",
+      "issue": "",
+      "fpage": "1081",
+      "lpage": "6",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1126/science.1209038",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib26": {
+      "type": "article_citation",
+      "id": "article_citation_bib26",
+      "authors": [
+        {
+          "given-names": "Q",
+          "last-name": "Wang"
+        },
+        {
+          "given-names": "A",
+          "last-name": "Chang"
+        }
+      ],
+      "title": "Sphingoid base synthesis is required for oligomerization and cell surface stability of the yeast plasma membrane ATPase, Pma1",
+      "year": "2002",
+      "volume": "99",
+      "source": "Proc Natl Acad Sci USA",
+      "issue": "",
+      "fpage": "12853",
+      "lpage": "8",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1073/pnas.202115499",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib27": {
+      "type": "article_citation",
+      "id": "article_citation_bib27",
+      "authors": [
+        {
+          "given-names": "S",
+          "last-name": "Wang"
+        },
+        {
+          "given-names": "G",
+          "last-name": "Thibault"
+        },
+        {
+          "given-names": "DT",
+          "last-name": "Ng"
+        }
+      ],
+      "title": "Routing misfolded proteins through the MVB pathway protects against proteotoxicity",
+      "year": "2011",
+      "volume": "286",
+      "source": "J Biol Chem",
+      "issue": "",
+      "fpage": "29376",
+      "lpage": "87",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1074/jbc.M111.233346",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "sub-article": {
+      "type": "heading",
+      "id": "sub-article",
+      "level": 1,
+      "content": "Article Commentary",
+      "nodes": []
+    }
+  }
+}

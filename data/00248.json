@@ -1,0 +1,5480 @@
+{
+  "id": "00248",
+  "nodes": {
+    "content": {
+      "type": "view",
+      "id": "content",
+      "nodes": [
+        "abstract",
+        "paragraph_4",
+        "paragraph_5",
+        "heading_8",
+        "paragraph_9",
+        "paragraph_10",
+        "paragraph_11",
+        "paragraph_12",
+        "paragraph_13",
+        "heading_s1",
+        "paragraph_17",
+        "paragraph_22",
+        "heading_s2",
+        "paragraph_33",
+        "paragraph_56",
+        "paragraph_84",
+        "paragraph_86",
+        "paragraph_88",
+        "paragraph_89",
+        "paragraph_90",
+        "paragraph_94",
+        "paragraph_101",
+        "paragraph_126",
+        "heading_s3",
+        "heading_s3-1",
+        "paragraph_177",
+        "heading_s3-2",
+        "paragraph_178",
+        "paragraph_181",
+        "paragraph_188",
+        "heading_s3-3",
+        "paragraph_189",
+        "heading_s3-4",
+        "paragraph_193",
+        "heading_s3-5",
+        "paragraph_196",
+        "paragraph_200",
+        "paragraph_203",
+        "heading_s3-6",
+        "paragraph_206",
+        "paragraph_209",
+        "paragraph_210",
+        "heading_s3-7",
+        "paragraph_211",
+        "heading_s3-8",
+        "paragraph_218",
+        "paragraph_246",
+        "paragraph_270",
+        "paragraph_271"
+      ]
+    },
+    "figures": {
+      "type": "view",
+      "id": "figures",
+      "nodes": [
+        "image_fig1",
+        "image_fig1s1",
+        "image_fig1s2",
+        "image_fig1s3",
+        "table_tbl1",
+        "image_fig2",
+        "image_fig2s1",
+        "image_fig3",
+        "image_fig3s1",
+        "image_fig3s2",
+        "image_fig3s3",
+        "video_movie1"
+      ]
+    },
+    "citations": {
+      "type": "view",
+      "id": "citations",
+      "nodes": [
+        "article_citation_bib1",
+        "article_citation_bib2",
+        "article_citation_bib3",
+        "article_citation_bib4",
+        "article_citation_bib5",
+        "article_citation_bib6",
+        "article_citation_bib7",
+        "article_citation_bib8",
+        "article_citation_bib9",
+        "article_citation_bib10",
+        "article_citation_bib11",
+        "article_citation_bib12",
+        "article_citation_bib13",
+        "article_citation_bib14",
+        "article_citation_bib15",
+        "article_citation_bib16",
+        "article_citation_bib17",
+        "article_citation_bib18",
+        "article_citation_bib19",
+        "article_citation_bib20",
+        "article_citation_bib21",
+        "article_citation_bib22",
+        "article_citation_bib23",
+        "article_citation_bib24",
+        "article_citation_bib25",
+        "article_citation_bib26",
+        "article_citation_bib27",
+        "article_citation_bib28",
+        "article_citation_bib29",
+        "article_citation_bib30",
+        "article_citation_bib31",
+        "article_citation_bib32",
+        "article_citation_bib33",
+        "article_citation_bib34",
+        "article_citation_bib35",
+        "article_citation_bib36",
+        "article_citation_bib37"
+      ]
+    },
+    "document": {
+      "type": "document",
+      "id": "document",
+      "views": [
+        "content",
+        "figures",
+        "citations"
+      ],
+      "guid": "00248",
+      "title": "rsEGFP2 enables fast RESOLFT nanoscopy of living cells",
+      "authors": [
+        "person_author_2290",
+        "person_author_2291",
+        "person_author_2295",
+        "person_author_2292",
+        "person_author_2293",
+        "person_author_2233",
+        "person_author_2294"
+      ],
+      "received_on": "2012-09-14",
+      "accepted_on": "2012-11-19",
+      "published_on": "2012-12-31",
+      "journal": "eLife",
+      "article_type": "",
+      "keywords": [
+        "confocal microscopy",
+        "fluorescent probes",
+        "GFP",
+        "nanoscopy",
+        "superresolution",
+        "live-cell imaging"
+      ],
+      "research_organisms": [
+        "None"
+      ],
+      "subjects": [
+        "Biophysics and structural biology"
+      ],
+      "pdf_link": "",
+      "xml_link": "",
+      "json_link": "",
+      "doi": ""
+    },
+    "person_author_2290": {
+      "type": "person",
+      "id": "person_author_2290",
+      "given-names": "Tim",
+      "last-name": "Grotjohann",
+      "role": "author",
+      "affiliations": [],
+      "image": "",
+      "contribution": " Acquisition of data, Analysis and interpretation of data, Drafting or revising the article",
+      "email": "",
+      "funding": []
+    },
+    "person_author_2291": {
+      "type": "person",
+      "id": "person_author_2291",
+      "given-names": "Ilaria",
+      "last-name": "Testa",
+      "role": "author",
+      "affiliations": [],
+      "image": "",
+      "contribution": " Acquisition of data, Analysis and interpretation of data",
+      "email": "",
+      "funding": []
+    },
+    "person_author_2295": {
+      "type": "person",
+      "id": "person_author_2295",
+      "given-names": "Matthias",
+      "last-name": "Reuss",
+      "role": "author",
+      "affiliations": [],
+      "image": "",
+      "contribution": " Acquisition of data",
+      "email": "",
+      "funding": []
+    },
+    "person_author_2292": {
+      "type": "person",
+      "id": "person_author_2292",
+      "given-names": "Tanja",
+      "last-name": "Brakemann",
+      "role": "author",
+      "affiliations": [],
+      "image": "",
+      "contribution": " Conception and design",
+      "email": "",
+      "funding": []
+    },
+    "person_author_2293": {
+      "type": "person",
+      "id": "person_author_2293",
+      "given-names": "Christian",
+      "last-name": "Eggeling",
+      "role": "author",
+      "affiliations": [],
+      "image": "",
+      "contribution": " Conception and design, Drafting or revising the article",
+      "email": "",
+      "funding": []
+    },
+    "person_author_2233": {
+      "type": "person",
+      "id": "person_author_2233",
+      "given-names": "Stefan W",
+      "last-name": "Hell",
+      "role": "author",
+      "affiliations": [],
+      "image": "",
+      "contribution": " Conception and design, Analysis and interpretation of data, Drafting or revising the article",
+      "email": "email:cor1",
+      "funding": []
+    },
+    "person_author_2294": {
+      "type": "person",
+      "id": "person_author_2294",
+      "given-names": "Stefan",
+      "last-name": "Jakobs",
+      "role": "author",
+      "affiliations": [],
+      "image": "",
+      "contribution": "",
+      "email": "email:cor2",
+      "funding": [
+        "funding_par_1",
+        "funding_par_2"
+      ]
+    },
+    "institution_aff1": {
+      "type": "institution",
+      "id": "institution_aff1",
+      "name": "Max Planck Institute for Biophysical Chemistry",
+      "city": "Göttingen",
+      "country": "Germany",
+      "email": "",
+      "image": ""
+    },
+    "institution_aff2": {
+      "type": "institution",
+      "id": "institution_aff2",
+      "name": "Abberior Instruments GmbH",
+      "city": "Göttingen",
+      "country": "Germany",
+      "email": "",
+      "image": ""
+    },
+    "institution_aff3": {
+      "type": "institution",
+      "id": "institution_aff3",
+      "name": "Karolinska Institutet",
+      "city": "Solna",
+      "country": "Sweden",
+      "email": "",
+      "image": ""
+    },
+    "institution_aff4": {
+      "type": "institution",
+      "id": "institution_aff4",
+      "name": "University of Göttingen",
+      "city": "Göttingen",
+      "country": "Germany",
+      "email": "",
+      "image": ""
+    },
+    "person_1": {
+      "type": "person",
+      "id": "person_1",
+      "given-names": "Xiaowei",
+      "last-name": "Zhuang",
+      "role": "editor",
+      "affiliations": [],
+      "image": "",
+      "contribution": "",
+      "email": "",
+      "funding": []
+    },
+    "info:review": {
+      "type": "heading",
+      "id": "info:review",
+      "level": 2,
+      "content": "Reviewing Editor",
+      "nodes": [
+        "person_1"
+      ]
+    },
+    "email_cor1": {
+      "type": "email",
+      "id": "email_cor1",
+      "node": "",
+      "email": "shell@gwdg.de"
+    },
+    "email_cor2": {
+      "type": "email",
+      "id": "email_cor2",
+      "node": "",
+      "email": "sjakobs@gwdg.de"
+    },
+    "info:copyright": {
+      "type": "heading",
+      "id": "info:copyright",
+      "level": 2,
+      "content": "Copyright",
+      "nodes": [
+        "paragraph_2"
+      ]
+    },
+    "paragraph_2": {
+      "type": "paragraph",
+      "id": "paragraph_2",
+      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited.10.7554/eLife.00248.001"
+    },
+    "annotation_3": {
+      "type": "link",
+      "id": "annotation_3",
+      "path": [
+        "paragraph_2",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        51,
+        87
+      ],
+      "url": "http://creativecommons.org/licenses/by/3.0/"
+    },
+    "abstract": {
+      "type": "heading",
+      "id": "abstract",
+      "level": 1,
+      "content": "Abstract",
+      "nodes": []
+    },
+    "paragraph_4": {
+      "type": "paragraph",
+      "id": "paragraph_4",
+      "content": "The super-resolution microscopy called RESOLFT relying on fluorophore switching between longlived states, stands out by its coordinate-targeted sequential sample interrogation using low light levels. While RESOLFT has been shown to discern nanostructures in living cells, the reversibly photoswitchable green fluorescent protein (rsEGFP) employed in these experiments was switched rather slowly and recording lasted tens of minutes. We now report on the generation of rsEGFP2 providing faster switching and the use of this protein to demonstrate 25–250 times faster recordings."
+    },
+    "paragraph_5": {
+      "type": "paragraph",
+      "id": "paragraph_5",
+      "content": "DOI: http://dx.doi.org/10.7554/eLife.00248.00110.7554/eLife.00248.002"
+    },
+    "annotation_6": {
+      "type": "strong",
+      "id": "annotation_6",
+      "path": [
+        "paragraph_5",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        4
+      ]
+    },
+    "annotation_7": {
+      "type": "link",
+      "id": "annotation_7",
+      "path": [
+        "paragraph_5",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        5,
+        46
+      ],
+      "url": "10.7554/eLife.00248.001"
+    },
+    "heading_8": {
+      "type": "heading",
+      "id": "heading_8",
+      "level": 0,
+      "content": "eLife digest",
+      "nodes": []
+    },
+    "paragraph_9": {
+      "type": "paragraph",
+      "id": "paragraph_9",
+      "content": "For decades it was assumed that the diffraction of light meant that optical microscopy could not resolve features that were smaller than about the half the wavelength of the light being used to create an image. However, various ‘super-resolution’ methods have allowed researchers to overcome this diffraction limit for fluorescence imaging, which is the most popular form of microscopy used in the life sciences. This approach involves tagging the biomolecules of interest with fluorescent molecules, such as green fluorescent protein (GFP), so that they can be identified in cells. An excitation laser then drives the fluorescent molecule, which is also known as a fluorophore, into an excited state: after a short time, the fluorophore can return to its ground state by releasing a fluorescence photon. Images of the sample are built up by detecting these photons."
+    },
+    "paragraph_10": {
+      "type": "paragraph",
+      "id": "paragraph_10",
+      "content": "In STED super-resolution microscopy a second laser is used to instantly send the molecules from their excited or ‘on’ states back to their ground or ‘off’ states before any fluorescence can occur. The second laser beam is usually shaped like a doughnut, with a small region of low light intensity surrounded by a region of much higher intensity. STED microscopy is able to beat the diffraction limit because the second laser turns all the fluorophores ‘off’ except those in the small sub-wavelength region at the centre of the doughnut. The image is build up by scanning both lasers over the sample so that the small region in which the fluorophores are ‘on’ probes the entire cell."
+    },
+    "paragraph_11": {
+      "type": "paragraph",
+      "id": "paragraph_11",
+      "content": "RESOLFT is a similar technique that employs fluorescent molecules with ‘on’ and ‘off’ times that are much longer than those used in STED microscopy. In particular, RESOLFT uses fluorescent molecules that can be rapidly switched back and forth between long-lived ‘on’ and ‘off’ states many times by the two lasers. The fact that both these states are long-lived states means that RESOLFT requires much lower laser intensities than STED, which makes it attractive for imaging biological samples over large areas or long times."
+    },
+    "paragraph_12": {
+      "type": "paragraph",
+      "id": "paragraph_12",
+      "content": "RESOLFT demonstrated its suitability for bioimaging for the first time last year, with a protein called rsEGFP (reversibly switchable enhanced GFP) being employed as the fluorophore. However, the time needed to switch this protein between the ‘on state’ and the ‘off state’ was relatively long, and it took about an hour to record a typical image. Now, Grotjohann et al. have modified this protein to make a new fluorophore called rsEGFP2 with a shorter switching time, and have used it to image various structures—including Vimentin, a protein that forms part of the cytoskeleton in many cells, and organelles called peroxisomes—inside live mammalian cells. They were able to record these images some 25–250 times faster than would have been possible with previous RESOLFT approaches. The combination of RESOLFT and rsEGFP2 should allow researchers to image a wide variety of structures and processes in living cells that have not been imaged before."
+    },
+    "paragraph_13": {
+      "type": "paragraph",
+      "id": "paragraph_13",
+      "content": "DOI: http://dx.doi.org/10.7554/eLife.00248.002"
+    },
+    "annotation_14": {
+      "type": "strong",
+      "id": "annotation_14",
+      "path": [
+        "paragraph_13",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        4
+      ]
+    },
+    "annotation_15": {
+      "type": "link",
+      "id": "annotation_15",
+      "path": [
+        "paragraph_13",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        5,
+        46
+      ],
+      "url": "10.7554/eLife.00248.002"
+    },
+    "funding_par_1": {
+      "type": "funding",
+      "id": "funding_par_1",
+      "institution": "Deutsche Forschungsgemeinschaft-Research Center for Molecular Physiology of the Brain",
+      "accession": "",
+      "person": "person_author_2294",
+      "given-names": "Stefan",
+      "last-name": "Jakobs"
+    },
+    "funding_par_2": {
+      "type": "funding",
+      "id": "funding_par_2",
+      "institution": "SFB 755 (Nanoscale Photonic Imaging)",
+      "accession": "",
+      "person": "person_author_2294",
+      "given-names": "Stefan",
+      "last-name": "Jakobs"
+    },
+    "info:impact": {
+      "type": "heading",
+      "id": "info:impact",
+      "level": 2,
+      "content": "ImpactAuthor impact statementThe discovery of a fluorescent protein that can be rapidly switched between long-lived ‘on’ and ‘off’ states will lead to a new generation of super-resolution imaging experiments on living cells.",
+      "nodes": [
+        "paragraph_16"
+      ]
+    },
+    "paragraph_16": {
+      "type": "paragraph",
+      "id": "paragraph_16",
+      "content": ""
+    },
+    "heading_s1": {
+      "type": "heading",
+      "id": "heading_s1",
+      "level": 1,
+      "content": "Introduction",
+      "nodes": []
+    },
+    "paragraph_17": {
+      "type": "paragraph",
+      "id": "paragraph_17",
+      "content": "While for many decades lens-based optical microscopy could not resolve features finer than half the wavelength of light (λ/2 > 200 nm), the recent development of fluorescence nanoscopy or super-resolution imaging methods boosted its resolution potential (Hell, 2003, 2009; Huang et al., 2010). In all these methods, the diffraction barrier is overcome by employing a fluorophore transition between two states, typically a fluorescent on- and a non-fluorescent off-state (Hell, 2009) in order to separate neighboring features. The method called RESOLFT differs from stochastic single fluorophore on-off-switching methods by the fact that a doughnut or a line pattern is scanned across the sample, determining at any point in time the nanosized coordinate range where the fluorophores are in the on-state. Using long lifetimes of the on- and off-states reduces the light intensities required for optical switching by orders of magnitude over the related STED approach, making RESOLFT attractive for extended live-cell or large area imaging."
+    },
+    "citation_reference_18": {
+      "type": "citation_reference",
+      "id": "citation_reference_18",
+      "path": [
+        "paragraph_17",
+        "content"
+      ],
+      "target": "article_citation_bib14",
+      "range": [
+        255,
+        265
+      ]
+    },
+    "citation_reference_19": {
+      "type": "citation_reference",
+      "id": "citation_reference_19",
+      "path": [
+        "paragraph_17",
+        "content"
+      ],
+      "target": "article_citation_bib16",
+      "range": [
+        267,
+        271
+      ]
+    },
+    "citation_reference_20": {
+      "type": "citation_reference",
+      "id": "citation_reference_20",
+      "path": [
+        "paragraph_17",
+        "content"
+      ],
+      "target": "article_citation_bib18",
+      "range": [
+        273,
+        291
+      ]
+    },
+    "citation_reference_21": {
+      "type": "citation_reference",
+      "id": "citation_reference_21",
+      "path": [
+        "paragraph_17",
+        "content"
+      ],
+      "target": "article_citation_bib16",
+      "range": [
+        471,
+        481
+      ]
+    },
+    "paragraph_22": {
+      "type": "paragraph",
+      "id": "paragraph_22",
+      "content": "Although it was suggested almost a decade ago (Hell, 2003; Hell et al., 2003) and its viability shown in principle (Hofmann et al., 2005; Dedecker et al., 2007; Schwentker et al., 2007) the wider applicability of RESOLFT nanoscopy to biological imaging has been demonstrated only recently (Brakemann et al., 2011; Grotjohann et al., 2011; Rego et al., 2012). The reason is that fluorescent protein based RESOLFT critically relies on reversibly switchable fluorescent proteins (RSFPs) providing many on-off cycles, such as the recently designed rsEGFP (Grotjohann et al., 2011). Unfortunately, in these demonstrations, the still relatively slow switching kinetics of rsEGFP entailed pixel dwell times of 10–20 ms at switching light intensities of ~1 kW/cm2. Hence images of 10 µm × 10 µm in size and a pixel step size of 20 nm required recording times of about an hour. In this study we describe the generation, characterization and application of a novel RSFP, namely rsEGFP2, which facilitates faster switching and, together with modifications of the initial switching scheme, enables 25–250 faster RESOLFT recordings in living cells."
+    },
+    "citation_reference_23": {
+      "type": "citation_reference",
+      "id": "citation_reference_23",
+      "path": [
+        "paragraph_22",
+        "content"
+      ],
+      "target": "article_citation_bib14",
+      "range": [
+        47,
+        57
+      ]
+    },
+    "citation_reference_24": {
+      "type": "citation_reference",
+      "id": "citation_reference_24",
+      "path": [
+        "paragraph_22",
+        "content"
+      ],
+      "target": "article_citation_bib15",
+      "range": [
+        59,
+        76
+      ]
+    },
+    "citation_reference_25": {
+      "type": "citation_reference",
+      "id": "citation_reference_25",
+      "path": [
+        "paragraph_22",
+        "content"
+      ],
+      "target": "article_citation_bib17",
+      "range": [
+        116,
+        136
+      ]
+    },
+    "citation_reference_26": {
+      "type": "citation_reference",
+      "id": "citation_reference_26",
+      "path": [
+        "paragraph_22",
+        "content"
+      ],
+      "target": "article_citation_bib8",
+      "range": [
+        138,
+        159
+      ]
+    },
+    "citation_reference_27": {
+      "type": "citation_reference",
+      "id": "citation_reference_27",
+      "path": [
+        "paragraph_22",
+        "content"
+      ],
+      "target": "article_citation_bib27",
+      "range": [
+        161,
+        184
+      ]
+    },
+    "citation_reference_28": {
+      "type": "citation_reference",
+      "id": "citation_reference_28",
+      "path": [
+        "paragraph_22",
+        "content"
+      ],
+      "target": "article_citation_bib6",
+      "range": [
+        290,
+        312
+      ]
+    },
+    "citation_reference_29": {
+      "type": "citation_reference",
+      "id": "citation_reference_29",
+      "path": [
+        "paragraph_22",
+        "content"
+      ],
+      "target": "article_citation_bib11",
+      "range": [
+        314,
+        337
+      ]
+    },
+    "citation_reference_30": {
+      "type": "citation_reference",
+      "id": "citation_reference_30",
+      "path": [
+        "paragraph_22",
+        "content"
+      ],
+      "target": "article_citation_bib25",
+      "range": [
+        339,
+        356
+      ]
+    },
+    "citation_reference_31": {
+      "type": "citation_reference",
+      "id": "citation_reference_31",
+      "path": [
+        "paragraph_22",
+        "content"
+      ],
+      "target": "article_citation_bib11",
+      "range": [
+        552,
+        575
+      ]
+    },
+    "annotation_32": {
+      "type": "superscript",
+      "id": "annotation_32",
+      "path": [
+        "paragraph_22",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        754,
+        755
+      ]
+    },
+    "heading_s2": {
+      "type": "heading",
+      "id": "heading_s2",
+      "level": 1,
+      "content": "Results and discussion",
+      "nodes": []
+    },
+    "paragraph_33": {
+      "type": "paragraph",
+      "id": "paragraph_33",
+      "content": "We observed that already the exchange of a single amino acid in the chromophore of the photostable and widely-used enhanced green fluorescent protein (EGFP) (Patterson et al., 1997; Tsien, 1998), namely replacing threonine 65 by alanine, transformed EGFP into a fast switching RSFP, which exhibited a ‘negative switching mode’. ‘Negative switching’ RSFPs switch from the on- into the off-state at the wavelength, here ~480 nm, that is used to elicit fluorescence. The switching from the off-state into the on-state is achieved by irradiation with a different wavelength, here ~405 nm. Protein solutions of EGFP(T65A) exhibited a high residual fluorescence (~50% of the on-state signal) when the protein solution was switched into the off-state. However, analysis of EGFP(T65A) demonstrated fast switching and low switching fatigue, indicating that the different chromophore (an Ala-Tyr-Gly chromophore instead of a Thr-Tyr-Gly chromophore) might provide additional possibilities for the generation of fast switching RSFPs. Hence, we also introduced the mutation A206K to ensure that the protein is a true monomer (Zacharias et al., 2002) and introduced, alone or in combination, the four mutations that discriminate rsEGFP from EGFP. We screened this collection of EGFP variants for those exhibiting a high resistance against switching fatigue in combination with fast switching at light intensities previously used for RESOLFT (few kW/cm2). We found that introducing two mutations was sufficient to transform EGFP(T65A, A206K) into a novel RSFP with improved properties when compared to rsEGFP (Figure 1). We named this new variant (EGFP[T65A, Q69L, V163S, A206K]) (Figure 1—figure supplement 1) reversibly switchable EGFP2 (rsEGFP2). Note that rsEGFP has a TYG chromophore, whereas rsEGFP2 has an AYG chromophore."
+    },
+    "citation_reference_34": {
+      "type": "citation_reference",
+      "id": "citation_reference_34",
+      "path": [
+        "paragraph_33",
+        "content"
+      ],
+      "target": "article_citation_bib24",
+      "range": [
+        158,
+        180
+      ]
+    },
+    "citation_reference_35": {
+      "type": "citation_reference",
+      "id": "citation_reference_35",
+      "path": [
+        "paragraph_33",
+        "content"
+      ],
+      "target": "article_citation_bib34",
+      "range": [
+        182,
+        193
+      ]
+    },
+    "citation_reference_36": {
+      "type": "citation_reference",
+      "id": "citation_reference_36",
+      "path": [
+        "paragraph_33",
+        "content"
+      ],
+      "target": "article_citation_bib37",
+      "range": [
+        1114,
+        1136
+      ]
+    },
+    "annotation_37": {
+      "type": "superscript",
+      "id": "annotation_37",
+      "path": [
+        "paragraph_33",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1438,
+        1439
+      ]
+    },
+    "figure_reference_38": {
+      "type": "figure_reference",
+      "id": "figure_reference_38",
+      "path": [
+        "paragraph_33",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        1596,
+        1604
+      ]
+    },
+    "figure_reference_39": {
+      "type": "figure_reference",
+      "id": "figure_reference_39",
+      "path": [
+        "paragraph_33",
+        "content"
+      ],
+      "target": "image_fig1s1",
+      "range": [
+        1667,
+        1695
+      ]
+    },
+    "image_fig1": {
+      "type": "image",
+      "id": "image_fig1",
+      "label": "Figure 1.",
+      "url": "",
+      "object_id": "F1",
+      "title": "Characteristics of rsEGFP2.",
+      "content_type": "",
+      "large_url": "",
+      "content": "",
+      "group": [
+        "parent",
+        null
+      ],
+      "doi": "http://dx.doi.org/10.7554/eLife.00248.003",
+      "caption": "paragraph_image_fig1",
+      "graphic_id": "elife00248f001"
+    },
+    "paragraph_image_fig1": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig1",
+      "content": "(A) Absorption (black dashed line), excitation (red dotted line), and emission (green solid line) spectra of rsEGFP2 in its equilibrium state at pH 7.5. (B) Switching curves of rsEGFP2 (blue) and rsEGFP (red). Switching was performed on purified proteins immobilized in a PAA-layer (pH ~6.5) by alternating irradiation with 491 nm (~2 kW/cm²) and 405 nm light (~2 kW/cm², 40 µs). Fluorescence was recorded only during irradiation with light of 491 nm. Each curve is an average over 10 switching cycles. (C) Changes in the absorption spectrum of rsEGFP2 upon switching with light of 488 nm from the equilibrium to the off-state. The spectra were taken at the indicated time points and recorded on purified rsEGFP2 at pH 7.5 (D) Absorption spectra of equilibrium-state rsEGFP2 at different pH values. The absorption bands at 408 nm and 503 nm presumably correspond to the protonated and the de-protonated cis-chromophore, respectively. (E) Switching fatigue of rsEGFP2 (blue) and rsEGFP (red). Switching was performed on living PtK2 cells expressing Vimentin-rsEGFP or Vimentin-rsEGFP2 by alternate irradiation with 405 nm (2 kW/cm²) and 491 nm (5.7 kW/cm²) light. Illumination times were chosen so that the fluorescence was fully switched to the minimum or maximum, respectively, in each cycle. Each plotted data point is the average (over 100 cycles) of the maximum fluorescence intensity in each cycle. The data points were fitted by a mono-exponential function, and the resulting curve was baseline corrected and normalized to 1. (F) Comparison of the ensemble off-switching halftimes (defined as the time after which the fluorescence reached 50% of its initial value) of rsEGFP (red) and rsEGFP2 (blue) at different 491 nm light intensities. On-switching 405 nm light was kept constant (3 kW/cm2). Data were collected on living PtK2 cells expressing Vimentin-rsEGFP or Vimentin-rsEGFP2, respectively. Inset: Graph showing the ratio (R) of the off-switching halftime of rsEGFP divided by the off-switching halftime of rsEGFP2 against the 491 nm light intensity."
+    },
+    "annotation_40": {
+      "type": "strong",
+      "id": "annotation_40",
+      "path": [
+        "paragraph_image_fig1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1,
+        2
+      ]
+    },
+    "annotation_41": {
+      "type": "strong",
+      "id": "annotation_41",
+      "path": [
+        "paragraph_image_fig1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        154,
+        155
+      ]
+    },
+    "annotation_42": {
+      "type": "superscript",
+      "id": "annotation_42",
+      "path": [
+        "paragraph_image_fig1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        340,
+        341
+      ]
+    },
+    "annotation_43": {
+      "type": "superscript",
+      "id": "annotation_43",
+      "path": [
+        "paragraph_image_fig1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        369,
+        370
+      ]
+    },
+    "annotation_44": {
+      "type": "strong",
+      "id": "annotation_44",
+      "path": [
+        "paragraph_image_fig1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        504,
+        505
+      ]
+    },
+    "annotation_45": {
+      "type": "strong",
+      "id": "annotation_45",
+      "path": [
+        "paragraph_image_fig1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        724,
+        725
+      ]
+    },
+    "annotation_46": {
+      "type": "strong",
+      "id": "annotation_46",
+      "path": [
+        "paragraph_image_fig1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        935,
+        936
+      ]
+    },
+    "annotation_47": {
+      "type": "superscript",
+      "id": "annotation_47",
+      "path": [
+        "paragraph_image_fig1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1129,
+        1130
+      ]
+    },
+    "annotation_48": {
+      "type": "superscript",
+      "id": "annotation_48",
+      "path": [
+        "paragraph_image_fig1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1153,
+        1154
+      ]
+    },
+    "annotation_49": {
+      "type": "strong",
+      "id": "annotation_49",
+      "path": [
+        "paragraph_image_fig1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1533,
+        1534
+      ]
+    },
+    "annotation_50": {
+      "type": "superscript",
+      "id": "annotation_50",
+      "path": [
+        "paragraph_image_fig1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1797,
+        1798
+      ]
+    },
+    "image_fig1s1": {
+      "type": "image",
+      "id": "image_fig1s1",
+      "label": "Figure 1—figure supplement 1.",
+      "url": "",
+      "object_id": "F2",
+      "title": "Alignment of the amino acid sequences of EGFP (GenBank Accession #U55762), rsEGFP (GenBank Accession #JQ969017), and rsEGFP2.",
+      "content_type": "",
+      "large_url": "",
+      "content": "",
+      "group": [
+        "child",
+        "image_fig1"
+      ],
+      "doi": "http://dx.doi.org/10.7554/eLife.00248.004",
+      "caption": "paragraph_image_fig1s1",
+      "graphic_id": "elife00248fs001"
+    },
+    "paragraph_image_fig1s1": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig1s1",
+      "content": "Differences are highlighted."
+    },
+    "image_fig1s2": {
+      "type": "image",
+      "id": "image_fig1s2",
+      "label": "Figure 1—figure supplement 2.",
+      "url": "",
+      "object_id": "F3",
+      "title": "Single-molecule brightness values of EGFP, rsEGFP, and rsEGFP2 measured in PBS buffer (pH 7.5).",
+      "content_type": "",
+      "large_url": "",
+      "content": "",
+      "group": [
+        "child",
+        "image_fig1"
+      ],
+      "doi": "http://dx.doi.org/10.7554/eLife.00248.005",
+      "caption": "paragraph_image_fig1s2",
+      "graphic_id": "elife00248fs002"
+    },
+    "paragraph_image_fig1s2": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig1s2",
+      "content": "Average and standard deviation of >30 FCS measurements at various laser intensities between 5 and 100 kW/cm2. Values normalized to EGFP. The error bars represent the error in the FCS experiments with the value for EGFP normalized to 1 in each individual experiment."
+    },
+    "annotation_51": {
+      "type": "superscript",
+      "id": "annotation_51",
+      "path": [
+        "paragraph_image_fig1s2",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        107,
+        108
+      ]
+    },
+    "image_fig1s3": {
+      "type": "image",
+      "id": "image_fig1s3",
+      "label": "Figure 1—figure supplement 3.",
+      "url": "",
+      "object_id": "F4",
+      "title": "Off-switching speed of rsEGFP and rsEGFP2.",
+      "content_type": "",
+      "large_url": "",
+      "content": "",
+      "group": [
+        "child",
+        "image_fig1"
+      ],
+      "doi": "http://dx.doi.org/10.7554/eLife.00248.006",
+      "caption": "paragraph_image_fig1s3",
+      "graphic_id": "elife00248fs003"
+    },
+    "paragraph_image_fig1s3": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig1s3",
+      "content": "(A) Off-switching kinetics of rsEGFP and rsEGFP2 embedded in a PAA layer (pH ~6.5) determined at different intensities of the 491 nm off-switching light. Each curve is an average of 100 measurements. In each measurement the proteins were switched into the on-state for 40 µs with 405 nm light (2 kW/cm²) and subsequently the decay of fluorescence was recorded over time at the indicated 491 nm light intensities. (B) Dependence of the residual fluorescence (off-state fluorescence) in the ensemble off-state as a function of the off-switching light intensity. (C) Dependence of the residual fluorescence (off-state fluorescence) in the off-state of Vimentin-rsEGFP or Vimentin-rsEGFP2 in living Ptk2 cells as a function of the off-switching light intensity."
+    },
+    "annotation_52": {
+      "type": "strong",
+      "id": "annotation_52",
+      "path": [
+        "paragraph_image_fig1s3",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1,
+        2
+      ]
+    },
+    "annotation_53": {
+      "type": "superscript",
+      "id": "annotation_53",
+      "path": [
+        "paragraph_image_fig1s3",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        301,
+        302
+      ]
+    },
+    "annotation_54": {
+      "type": "strong",
+      "id": "annotation_54",
+      "path": [
+        "paragraph_image_fig1s3",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        414,
+        415
+      ]
+    },
+    "annotation_55": {
+      "type": "strong",
+      "id": "annotation_55",
+      "path": [
+        "paragraph_image_fig1s3",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        561,
+        562
+      ]
+    },
+    "paragraph_56": {
+      "type": "paragraph",
+      "id": "paragraph_56",
+      "content": "Adopting the fluorescent state at equilibrium, rsEGFP2 has its fluorescence excitation and emission maximum at 478 nm and 503 nm, respectively (Figure 1A). In the fluorescent state, a solution of rsEGFP2 exhibits an extinction coefficient of ε ≈ 61,000 M−1cm−1 and a fluorescence quantum yield of ΦFl = 0.3 (Table 1). Hence the brightness (given by ε ΦFl) of rsEGFP2 is similar to that of rsEGFP and about 60% of that of EGFP at low light intensity irradiation. Single-molecule spectroscopy measurements performed at higher light intensities (5 to 100 kW/cm2) showed that the single molecule brightness of rsEGFP and rsEGFP2 were ~52% and ~44% of that of EGFP, respectively (Figure 1—figure supplement 2). The slight difference between brightness values determined at low and high light intensities may be attributed to the increased population of unidentified dark states at higher intensities. rsEGFP2 exhibits a ‘negative’ switching mode, that is irradiation with light of around 480 nm induces fluorescence and, in a competing process, switches rsEGFP2 off. Subsequent irradiation with light of around 405 nm switches the protein back from the off- into the on-state (Figure 1B). Irradiation of a purified rsEGFP2 solution with light of ~480 nm leads to a decrease of the 483 nm absorption band, which presumably corresponds to the anionic (de-protonated) cis-chromophore, and to the onset of an absorption band peaking at 408 nm, presumably corresponding to the neutral (protonated) trans-chromophore state (Andresen et al., 2005; Andresen et al., 2007) (Figure 1C). The single molecule brightness, that is the number of emitted photons per time unit, of rsEGFP and rsEGFP2 are similar. However, because a single switching cycle of rsEGFP2 is on average shorter than a single switching cycle of rsEGFP, rsEGFP2 emits fewer photons in a single cycle than rsEGFP. The pKa of the chromophore in the thermal equilibrium state is ~5.8 (Figure 1D). Hence the pKa of rsEGFP2 is lower by 0.7 pH units than the pKa of rsEGFP. As reported previously for similar RSFPs, the light driven switching of rsEGFP2 is likely due to a cis/trans isomerization of the chromophore, accompanied by a change of the chromophoric protonation state (Andresen et al., 2005; Andresen et al., 2007; Bourgeois and Adam, 2012)."
+    },
+    "figure_reference_57": {
+      "type": "figure_reference",
+      "id": "figure_reference_57",
+      "path": [
+        "paragraph_56",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        144,
+        153
+      ]
+    },
+    "annotation_58": {
+      "type": "emphasis",
+      "id": "annotation_58",
+      "path": [
+        "paragraph_56",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        242,
+        243
+      ]
+    },
+    "annotation_59": {
+      "type": "superscript",
+      "id": "annotation_59",
+      "path": [
+        "paragraph_56",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        254,
+        256
+      ]
+    },
+    "annotation_60": {
+      "type": "superscript",
+      "id": "annotation_60",
+      "path": [
+        "paragraph_56",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        258,
+        260
+      ]
+    },
+    "annotation_61": {
+      "type": "emphasis",
+      "id": "annotation_61",
+      "path": [
+        "paragraph_56",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        297,
+        298
+      ]
+    },
+    "annotation_62": {
+      "type": "emphasis",
+      "id": "annotation_62",
+      "path": [
+        "paragraph_56",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        298,
+        300
+      ]
+    },
+    "annotation_63": {
+      "type": "subscript",
+      "id": "annotation_63",
+      "path": [
+        "paragraph_56",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        298,
+        300
+      ]
+    },
+    "figure_reference_64": {
+      "type": "figure_reference",
+      "id": "figure_reference_64",
+      "path": [
+        "paragraph_56",
+        "content"
+      ],
+      "target": "table_tbl1",
+      "range": [
+        308,
+        315
+      ]
+    },
+    "annotation_65": {
+      "type": "emphasis",
+      "id": "annotation_65",
+      "path": [
+        "paragraph_56",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        349,
+        352
+      ]
+    },
+    "annotation_66": {
+      "type": "emphasis",
+      "id": "annotation_66",
+      "path": [
+        "paragraph_56",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        352,
+        354
+      ]
+    },
+    "annotation_67": {
+      "type": "subscript",
+      "id": "annotation_67",
+      "path": [
+        "paragraph_56",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        352,
+        354
+      ]
+    },
+    "annotation_68": {
+      "type": "superscript",
+      "id": "annotation_68",
+      "path": [
+        "paragraph_56",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        557,
+        558
+      ]
+    },
+    "figure_reference_69": {
+      "type": "figure_reference",
+      "id": "figure_reference_69",
+      "path": [
+        "paragraph_56",
+        "content"
+      ],
+      "target": "image_fig1s2",
+      "range": [
+        675,
+        703
+      ]
+    },
+    "figure_reference_70": {
+      "type": "figure_reference",
+      "id": "figure_reference_70",
+      "path": [
+        "paragraph_56",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        1172,
+        1181
+      ]
+    },
+    "citation_reference_71": {
+      "type": "citation_reference",
+      "id": "citation_reference_71",
+      "path": [
+        "paragraph_56",
+        "content"
+      ],
+      "target": "article_citation_bib3",
+      "range": [
+        1513,
+        1534
+      ]
+    },
+    "citation_reference_72": {
+      "type": "citation_reference",
+      "id": "citation_reference_72",
+      "path": [
+        "paragraph_56",
+        "content"
+      ],
+      "target": "article_citation_bib2",
+      "range": [
+        1536,
+        1557
+      ]
+    },
+    "figure_reference_73": {
+      "type": "figure_reference",
+      "id": "figure_reference_73",
+      "path": [
+        "paragraph_56",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        1560,
+        1569
+      ]
+    },
+    "annotation_74": {
+      "type": "emphasis",
+      "id": "annotation_74",
+      "path": [
+        "paragraph_56",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1872,
+        1873
+      ]
+    },
+    "annotation_75": {
+      "type": "subscript",
+      "id": "annotation_75",
+      "path": [
+        "paragraph_56",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1873,
+        1874
+      ]
+    },
+    "figure_reference_76": {
+      "type": "figure_reference",
+      "id": "figure_reference_76",
+      "path": [
+        "paragraph_56",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        1936,
+        1945
+      ]
+    },
+    "annotation_77": {
+      "type": "emphasis",
+      "id": "annotation_77",
+      "path": [
+        "paragraph_56",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1959,
+        1960
+      ]
+    },
+    "annotation_78": {
+      "type": "subscript",
+      "id": "annotation_78",
+      "path": [
+        "paragraph_56",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1960,
+        1961
+      ]
+    },
+    "annotation_79": {
+      "type": "emphasis",
+      "id": "annotation_79",
+      "path": [
+        "paragraph_56",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        2008,
+        2009
+      ]
+    },
+    "annotation_80": {
+      "type": "subscript",
+      "id": "annotation_80",
+      "path": [
+        "paragraph_56",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        2009,
+        2010
+      ]
+    },
+    "citation_reference_81": {
+      "type": "citation_reference",
+      "id": "citation_reference_81",
+      "path": [
+        "paragraph_56",
+        "content"
+      ],
+      "target": "article_citation_bib3",
+      "range": [
+        2228,
+        2249
+      ]
+    },
+    "citation_reference_82": {
+      "type": "citation_reference",
+      "id": "citation_reference_82",
+      "path": [
+        "paragraph_56",
+        "content"
+      ],
+      "target": "article_citation_bib2",
+      "range": [
+        2251,
+        2272
+      ]
+    },
+    "citation_reference_83": {
+      "type": "citation_reference",
+      "id": "citation_reference_83",
+      "path": [
+        "paragraph_56",
+        "content"
+      ],
+      "target": "article_citation_bib5",
+      "range": [
+        2274,
+        2298
+      ]
+    },
+    "table_tbl1": {
+      "type": "table",
+      "id": "table_tbl1",
+      "label": "Table 1.",
+      "content": "<table><thead><tr><td></td><td>EGFP</td><td>rsEGFP</td><td>rsEGFP2</td></tr></thead><tbody><tr><td>Extinction coefficient (ε) [M<sup>−1</sup> cm<sup>−1</sup>]</td><td>53.000 <sup>* </sup></td><td>47.000</td><td>61.300</td></tr><tr><td>Fluorescence quantum yield (Ф<sup>FL</sup>)</td><td>0.6<sup>*</sup></td><td>0.36</td><td>0.3</td></tr><tr><td>Excitation maximum on-state [nm]</td><td>489</td><td>493</td><td>478</td></tr><tr><td>Emission maximum [nm]</td><td>509</td><td>510</td><td>503</td></tr><tr><td>Absorption maximum off-state [nm]</td><td>n.a.</td><td>396</td><td>408</td></tr><tr><td>Number of switching cycles to bleach to 50% of the initial fluor in the on-state (2 kW/cm<sup>2</sup> at 405 nm, 5.7 kW/cm<sup>2</sup> at 491 nm)<sup>‡</sup></td><td>n.a.</td><td>∼1,100</td><td>∼2,100</td></tr><tr><td>Chromophore maturation halftime at 37°C [min]</td><td>∼25<sup>†</sup></td><td>∼180</td><td>∼20</td></tr></tbody></table>",
+      "title": "",
+      "footers": [],
+      "doi": "http://dx.doi.org/10.7554/eLife.00248.007",
+      "caption": "paragraph_table_tbl1",
+      "format": ""
+    },
+    "paragraph_table_tbl1": {
+      "type": "paragraph",
+      "id": "paragraph_table_tbl1",
+      "content": "Comparison of EGFP, rsEGFP and rsEGFP2 properties."
+    },
+    "footer_tblfn1": {
+      "type": "footer",
+      "id": "footer_tblfn1",
+      "content": "*",
+      "label": ""
+    },
+    "paragraph_84": {
+      "type": "paragraph",
+      "id": "paragraph_84",
+      "content": "Patterson et al., 1997.†"
+    },
+    "citation_reference_85": {
+      "type": "citation_reference",
+      "id": "citation_reference_85",
+      "path": [
+        "paragraph_84",
+        "content"
+      ],
+      "target": "article_citation_bib24",
+      "range": [
+        0,
+        22
+      ]
+    },
+    "paragraph_86": {
+      "type": "paragraph",
+      "id": "paragraph_86",
+      "content": "Verkhusha et al., 2001.‡"
+    },
+    "citation_reference_87": {
+      "type": "citation_reference",
+      "id": "citation_reference_87",
+      "path": [
+        "paragraph_86",
+        "content"
+      ],
+      "target": "article_citation_bib35",
+      "range": [
+        0,
+        22
+      ]
+    },
+    "paragraph_88": {
+      "type": "paragraph",
+      "id": "paragraph_88",
+      "content": "Note, that the number of cycles may depend on the sample preparation and the experimental conditions."
+    },
+    "paragraph_89": {
+      "type": "paragraph",
+      "id": "paragraph_89",
+      "content": "n.a.: not applicable."
+    },
+    "paragraph_90": {
+      "type": "paragraph",
+      "id": "paragraph_90",
+      "content": "The total number of switching cycles before bleaching is critical for the usability of a RSFP for RESOLFT microscopy (Hell, 2009). To compare rsEGFP2 with rsEGFP in this regard, we immobilized purified proteins in polyacrylamide layers (PAA). Applying light intensities that have previously been used for RESOLFT (few kW/cm2), we recorded the fluorescence during 6,000 on-off switching cycles (Figure 1E). The illumination times were adapted for the two proteins such that the signal reached a maximum or minimum in each cycle. We found that under these conditions the fluorescence was halved not before ~1,100 (rsEGFP) and ~2,100 (rsEGFP2) cycles, demonstrating that rsEGFP2 accommodates even more switches than rsEGFP."
+    },
+    "citation_reference_91": {
+      "type": "citation_reference",
+      "id": "citation_reference_91",
+      "path": [
+        "paragraph_90",
+        "content"
+      ],
+      "target": "article_citation_bib16",
+      "range": [
+        118,
+        128
+      ]
+    },
+    "annotation_92": {
+      "type": "superscript",
+      "id": "annotation_92",
+      "path": [
+        "paragraph_90",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        323,
+        324
+      ]
+    },
+    "figure_reference_93": {
+      "type": "figure_reference",
+      "id": "figure_reference_93",
+      "path": [
+        "paragraph_90",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        394,
+        403
+      ]
+    },
+    "paragraph_94": {
+      "type": "paragraph",
+      "id": "paragraph_94",
+      "content": "In most negative switching RSFPs, including rsEGFP, the ensemble off-switching with blue light is slower by 2–3 orders of magnitude, compared to the on-switching with UV light at comparable light intensities, rendering the off-switching the time-limiting step in RESOLFT microscopy. We compared the off-switching half-time (time after which the fluorescence signal is reduced to 50%) of rsEGFP2 and rsEGFP as a function of the off-switching light intensity (491 nm) (Figure 1F). We found that the difference in the off-switching halftimes of rsEGFP2 and rsEGFP depends on the light intensities applied. The lesser the light intensities, the more pronounced is the speed advantage of rsEGFP2. At a light intensity of 5.5 kW/cm2 the off-switching of rsEGFP2 was ~6.5 times faster than the off-switching of rsEGFP (Figure 1F, inset). Presumably the switching speed advantage for rsEGFP2 is even higher at lower intensities. For undesirable intensities of >100 kW/cm2, the differences between rsEGFP and rsEGFP2 are negligible (Figure 1F, inset). These measurements also revealed that the level to which the fluorescence intensity of an ensemble of rsEGFP2 proteins can be reduced (the off-state fluorescence), depends on the intensities for off-switching (Figure 1—figure supplement 3). Hence the light intensities and the irradiation times used for off-switching influence both the switching speed as well as the lowest residual fluorescence. Furthermore, we observed that the buffer conditions, most notably the pH, and the cellular environments also influence the absolute switching speed, potentially requiring adaptations of the illumination protocol to the observed samples."
+    },
+    "figure_reference_95": {
+      "type": "figure_reference",
+      "id": "figure_reference_95",
+      "path": [
+        "paragraph_94",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        467,
+        476
+      ]
+    },
+    "annotation_96": {
+      "type": "superscript",
+      "id": "annotation_96",
+      "path": [
+        "paragraph_94",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        725,
+        726
+      ]
+    },
+    "figure_reference_97": {
+      "type": "figure_reference",
+      "id": "figure_reference_97",
+      "path": [
+        "paragraph_94",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        812,
+        821
+      ]
+    },
+    "annotation_98": {
+      "type": "superscript",
+      "id": "annotation_98",
+      "path": [
+        "paragraph_94",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        962,
+        963
+      ]
+    },
+    "figure_reference_99": {
+      "type": "figure_reference",
+      "id": "figure_reference_99",
+      "path": [
+        "paragraph_94",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        1024,
+        1033
+      ]
+    },
+    "figure_reference_100": {
+      "type": "figure_reference",
+      "id": "figure_reference_100",
+      "path": [
+        "paragraph_94",
+        "content"
+      ],
+      "target": "image_fig1s3",
+      "range": [
+        1253,
+        1281
+      ]
+    },
+    "paragraph_101": {
+      "type": "paragraph",
+      "id": "paragraph_101",
+      "content": "In mammalian cells, rsEGFP2 can be fused to histone H2B and alpha-tubulin, which require a truly monomeric fusion tag (Figure 2). Corroborating its monomeric nature, it migrates on semi-native gels in a single band of the expected size (Figure 2—figure supplement 1). rsEGFP2 maturates in vitro at 37°C with a halftime of ~20 min, which is shorter or comparable to most conventional fluorescent proteins (Shaner et al., 2008) including mCherry (15 min), tdTomato (60 min) or TagRFP (100 min). Its maturation time is superior to both rsEGFP (3 hr) (Grotjohann et al., 2011) and a maturation-improved Dronpa(M159T) variant (Stiel et al., 2007; Willig et al., 2011) (~50 min). Presumably because of its fast maturation time and due to the fact that its linker is identical to that of EGFP (which has been proven to be very suitable for the generation of fusion proteins) rsEGFP2 is well suited to tag proteins in living mammalian cells (Figure 2)."
+    },
+    "figure_reference_102": {
+      "type": "figure_reference",
+      "id": "figure_reference_102",
+      "path": [
+        "paragraph_101",
+        "content"
+      ],
+      "target": "image_fig2",
+      "range": [
+        119,
+        127
+      ]
+    },
+    "figure_reference_103": {
+      "type": "figure_reference",
+      "id": "figure_reference_103",
+      "path": [
+        "paragraph_101",
+        "content"
+      ],
+      "target": "image_fig2s1",
+      "range": [
+        237,
+        265
+      ]
+    },
+    "citation_reference_104": {
+      "type": "citation_reference",
+      "id": "citation_reference_104",
+      "path": [
+        "paragraph_101",
+        "content"
+      ],
+      "target": "article_citation_bib28",
+      "range": [
+        405,
+        424
+      ]
+    },
+    "citation_reference_105": {
+      "type": "citation_reference",
+      "id": "citation_reference_105",
+      "path": [
+        "paragraph_101",
+        "content"
+      ],
+      "target": "article_citation_bib11",
+      "range": [
+        548,
+        571
+      ]
+    },
+    "citation_reference_106": {
+      "type": "citation_reference",
+      "id": "citation_reference_106",
+      "path": [
+        "paragraph_101",
+        "content"
+      ],
+      "target": "article_citation_bib31",
+      "range": [
+        622,
+        640
+      ]
+    },
+    "citation_reference_107": {
+      "type": "citation_reference",
+      "id": "citation_reference_107",
+      "path": [
+        "paragraph_101",
+        "content"
+      ],
+      "target": "article_citation_bib36",
+      "range": [
+        642,
+        661
+      ]
+    },
+    "figure_reference_108": {
+      "type": "figure_reference",
+      "id": "figure_reference_108",
+      "path": [
+        "paragraph_101",
+        "content"
+      ],
+      "target": "image_fig2",
+      "range": [
+        934,
+        942
+      ]
+    },
+    "image_fig2": {
+      "type": "image",
+      "id": "image_fig2",
+      "label": "Figure 2.",
+      "url": "",
+      "object_id": "F5",
+      "title": "Expression of various functional rsEGFP2 fusion proteins in mammalian cells.",
+      "content_type": "",
+      "large_url": "",
+      "content": "",
+      "group": [
+        "parent",
+        null
+      ],
+      "doi": "http://dx.doi.org/10.7554/eLife.00248.008",
+      "caption": "paragraph_image_fig2",
+      "graphic_id": "elife00248f002"
+    },
+    "paragraph_image_fig2": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig2",
+      "content": "(A) rsEGFP2-KDEL (targeting to the ER), (B) Keratin19-rsEGFP2, (C) Histone H2B-rsEGFP2, (D) Vimentin-rsEGFP2, (E) Pex16-rsEGFP2, and (F) rsEGFP2-alpha-tubulin. Shown are single confocal sections (C, F) and maximum intensity projections of confocal images (A, B, D, E) recorded on living cells. Fluorescence was excited by simultaneous irradiation with light of 488 nm and 405 nm. (A–E): PtK2 cells; (F): Vero cell. Scale bars: 10 μm."
+    },
+    "annotation_109": {
+      "type": "strong",
+      "id": "annotation_109",
+      "path": [
+        "paragraph_image_fig2",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1,
+        2
+      ]
+    },
+    "annotation_110": {
+      "type": "strong",
+      "id": "annotation_110",
+      "path": [
+        "paragraph_image_fig2",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        41,
+        42
+      ]
+    },
+    "annotation_111": {
+      "type": "strong",
+      "id": "annotation_111",
+      "path": [
+        "paragraph_image_fig2",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        64,
+        65
+      ]
+    },
+    "annotation_112": {
+      "type": "strong",
+      "id": "annotation_112",
+      "path": [
+        "paragraph_image_fig2",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        89,
+        90
+      ]
+    },
+    "annotation_113": {
+      "type": "strong",
+      "id": "annotation_113",
+      "path": [
+        "paragraph_image_fig2",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        111,
+        112
+      ]
+    },
+    "annotation_114": {
+      "type": "strong",
+      "id": "annotation_114",
+      "path": [
+        "paragraph_image_fig2",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        134,
+        135
+      ]
+    },
+    "annotation_115": {
+      "type": "strong",
+      "id": "annotation_115",
+      "path": [
+        "paragraph_image_fig2",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        196,
+        197
+      ]
+    },
+    "annotation_116": {
+      "type": "strong",
+      "id": "annotation_116",
+      "path": [
+        "paragraph_image_fig2",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        199,
+        200
+      ]
+    },
+    "annotation_117": {
+      "type": "strong",
+      "id": "annotation_117",
+      "path": [
+        "paragraph_image_fig2",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        256,
+        257
+      ]
+    },
+    "annotation_118": {
+      "type": "strong",
+      "id": "annotation_118",
+      "path": [
+        "paragraph_image_fig2",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        259,
+        260
+      ]
+    },
+    "annotation_119": {
+      "type": "strong",
+      "id": "annotation_119",
+      "path": [
+        "paragraph_image_fig2",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        262,
+        263
+      ]
+    },
+    "annotation_120": {
+      "type": "strong",
+      "id": "annotation_120",
+      "path": [
+        "paragraph_image_fig2",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        265,
+        266
+      ]
+    },
+    "annotation_121": {
+      "type": "strong",
+      "id": "annotation_121",
+      "path": [
+        "paragraph_image_fig2",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        381,
+        382
+      ]
+    },
+    "annotation_122": {
+      "type": "strong",
+      "id": "annotation_122",
+      "path": [
+        "paragraph_image_fig2",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        383,
+        384
+      ]
+    },
+    "annotation_123": {
+      "type": "strong",
+      "id": "annotation_123",
+      "path": [
+        "paragraph_image_fig2",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        400,
+        401
+      ]
+    },
+    "image_fig2s1": {
+      "type": "image",
+      "id": "image_fig2s1",
+      "label": "Figure 2—figure supplement 1.",
+      "url": "",
+      "object_id": "F6",
+      "title": "Semi-native polyacrylamide gel electrophoresis of rsEGFP2.",
+      "content_type": "",
+      "large_url": "",
+      "content": "",
+      "group": [
+        "child",
+        "image_fig2"
+      ],
+      "doi": "http://dx.doi.org/10.7554/eLife.00248.009",
+      "caption": "paragraph_image_fig2s1",
+      "graphic_id": "elife00248fs004"
+    },
+    "paragraph_image_fig2s1": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig2s1",
+      "content": "Purified monomeric EGFP, dimeric dTomato, tetrameric DsRed, and rsEGFP2 were separated on a semi-native gel (a two-phase polyacrylamide gel) consisting out of a 12.5% separation gel (6.3 ml H2O, 5 ml 1.5 M Tris–HCl pH 8.8, 8.3 ml Rotiphorese Gel 30 solution [Roth, Karlsruhe, Germany], 200 μl 10% [wt/vol] sodiumdodecyl sulphate [SDS], 200 μl 10% [wt/vol] ammonium persulfate (APS), 20 μl Tetramethylethylendiamin [TEMED]) and a 5% loading gel (5.6 ml H2O, 2.5ml 1.5 M Tris–HCl pH 6.8, 1.7 ml Rotiphorese Gel 30 solution, 100 μl 10% [wt/vol] SDS, 100 μl 10% [wt/vol] APS, 10 μl TEMED). Images were taken with a custom-built gel documentation system. To detect green fluorescence (EGFP and rsEGFP2) the gel was irradiated with light of 470 ± 5 nm and fluorescence was detected at 525 ± 30 nm. To detect red fluorescence (dTomato and DsRed) the gel was irradiated with light of 545 ± 10 nm and fluorescence was recorded at 617 ± 37. Both images were overlaid and are represented in false colors."
+    },
+    "annotation_124": {
+      "type": "subscript",
+      "id": "annotation_124",
+      "path": [
+        "paragraph_image_fig2s1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        191,
+        192
+      ]
+    },
+    "annotation_125": {
+      "type": "subscript",
+      "id": "annotation_125",
+      "path": [
+        "paragraph_image_fig2s1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        453,
+        454
+      ]
+    },
+    "paragraph_126": {
+      "type": "paragraph",
+      "id": "paragraph_126",
+      "content": "The possibility to switch rsEGFP2 faster than rsEGFP, its higher switching stamina, and its faster maturation kinetics, suggested that this protein would be superior for fast live-cell RESOLFT imaging. We first expressed rsEGFP2 fused to the C-terminus of Vimentin in mammalian PtK2 (Potorous tridactylis) cells. RESOLFT imaging was performed with a home-built setup maintaining the cells at 35°C. Because the filaments formed by Vimentin-rsEGFP2 are relatively immobile, we selected an irradiation scheme encompassing low switching light intensities in combination with extended irradiation times. The living cells were imaged pixel-by-pixel, by first irradiating with 405 nm light (2 kW/cm²) for 40 µs to switch most proteins into their fluorescent on-state. After a short illumination break of 10 µs, the doughnut shaped 491 nm beam (10 kW/cm², 300 µs) was used to switch rsEGFP2 into the off-state, confining the on-state to the doughnut center. Finally, the rsEGFP2 fluorescence was probed for 30 µs by irradiation with 491 nm light (38 kW/cm²). Hence the pixel dwell time was 380 µs, which is 25- to 50-fold faster than previously reported using rsEGFP on similar structures (Grotjohann et al., 2011). To enhance the image contrast, we also employed Richardson-Lucy restoration (Richardson, 1972; Hofmann et al., 2005). Movements of Vimentin-filaments in a living cell were recorded in 10 µm × 10 µm frames of 20 nm pixel size, every 100 s (Figure 3a; Figure 3—figure supplement 1; Movie 1). After the 20th image, the overall fluorescence still amounted to 65% of its initial value, underscoring the bleaching resistance of rsEGFP2."
+    },
+    "annotation_127": {
+      "type": "emphasis",
+      "id": "annotation_127",
+      "path": [
+        "paragraph_126",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        284,
+        304
+      ]
+    },
+    "annotation_128": {
+      "type": "superscript",
+      "id": "annotation_128",
+      "path": [
+        "paragraph_126",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        691,
+        692
+      ]
+    },
+    "annotation_129": {
+      "type": "superscript",
+      "id": "annotation_129",
+      "path": [
+        "paragraph_126",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        845,
+        846
+      ]
+    },
+    "annotation_130": {
+      "type": "superscript",
+      "id": "annotation_130",
+      "path": [
+        "paragraph_126",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1047,
+        1048
+      ]
+    },
+    "citation_reference_131": {
+      "type": "citation_reference",
+      "id": "citation_reference_131",
+      "path": [
+        "paragraph_126",
+        "content"
+      ],
+      "target": "article_citation_bib11",
+      "range": [
+        1182,
+        1205
+      ]
+    },
+    "citation_reference_132": {
+      "type": "citation_reference",
+      "id": "citation_reference_132",
+      "path": [
+        "paragraph_126",
+        "content"
+      ],
+      "target": "article_citation_bib26",
+      "range": [
+        1285,
+        1301
+      ]
+    },
+    "citation_reference_133": {
+      "type": "citation_reference",
+      "id": "citation_reference_133",
+      "path": [
+        "paragraph_126",
+        "content"
+      ],
+      "target": "article_citation_bib17",
+      "range": [
+        1303,
+        1323
+      ]
+    },
+    "figure_reference_134": {
+      "type": "figure_reference",
+      "id": "figure_reference_134",
+      "path": [
+        "paragraph_126",
+        "content"
+      ],
+      "target": "image_fig3",
+      "range": [
+        1447,
+        1456
+      ]
+    },
+    "figure_reference_135": {
+      "type": "figure_reference",
+      "id": "figure_reference_135",
+      "path": [
+        "paragraph_126",
+        "content"
+      ],
+      "target": "image_fig3s1",
+      "range": [
+        1458,
+        1486
+      ]
+    },
+    "figure_reference_136": {
+      "type": "figure_reference",
+      "id": "figure_reference_136",
+      "path": [
+        "paragraph_126",
+        "content"
+      ],
+      "target": "video_movie1",
+      "range": [
+        1488,
+        1495
+      ]
+    },
+    "image_fig3": {
+      "type": "image",
+      "id": "image_fig3",
+      "label": "Figure 3.",
+      "url": "",
+      "object_id": "F7",
+      "title": "RESOLFT time lapse imaging using rsEGFP2 in living mammalian PtK2 cells.",
+      "content_type": "",
+      "large_url": "",
+      "content": "",
+      "group": [
+        "parent",
+        null
+      ],
+      "doi": "http://dx.doi.org/10.7554/eLife.00248.010",
+      "caption": "paragraph_image_fig3",
+      "graphic_id": "elife00248f003"
+    },
+    "paragraph_image_fig3": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig3",
+      "content": "(A) Cells expressing Vimentin-rsEGFP2: initial confocal (left) and subsequent RESOLFT images taken every 100 s. Lower row: magnifications of the indicated areas. (B) Lateral resolution measurement: raw images of cells expressing Keratin19-rsEGFP2 recorded with a RESOLFT Quad P microscope (Abberior Instruments GmbH, Göttingen, Germany) with similar imaging conditions as in (A) (on: 405 nm, 5 kW/cm², 20 µs; off: 488 nm, 34 kW/cm², 360 µs; read-out: 488 nm, 76 kW/cm², 20 µs). From left to right: confocal raw image and corresponding raw RESOLFT image. Magnifications of the boxed areas in the RESOLFT image. The graphs show averaged line profiles across the indicated filaments (i–iv) within the respective boxes. The line profiles used for averaging were taken equidistant (20 nm) along the whole respective indicated area. (C),(D) rsEGFP2 targeted to the ER (rsEGFP2-KDEL): (C) 10 µm × 10 µm initial confocal (left) and subsequent RESOLFT images recorded every 5.9 s, and (D) 2.8 µm × 3.2 µm RESOLFT image-series imaged at 2 Hz. (E) RESOLFT imaging of peroxisomes labeled by Pex16-rsEGFP2 fusion proteins. Pixel step sizes: 20 nm (A, B) and 40 nm (C–E). Pixel dwell times: 380 µs (A), 400 µs (B), 75 µs (C, D), and 120 µs (E). In (D) and (E) pixels were interpolated to a size of 20 nm × 20 nm. The arrows indicate moving structures. Richardson Lucy restoration was used for all RESOLFT images except (B). Scale bars: 1 µm."
+    },
+    "annotation_137": {
+      "type": "strong",
+      "id": "annotation_137",
+      "path": [
+        "paragraph_image_fig3",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1,
+        2
+      ]
+    },
+    "annotation_138": {
+      "type": "strong",
+      "id": "annotation_138",
+      "path": [
+        "paragraph_image_fig3",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        163,
+        164
+      ]
+    },
+    "annotation_139": {
+      "type": "strong",
+      "id": "annotation_139",
+      "path": [
+        "paragraph_image_fig3",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        376,
+        377
+      ]
+    },
+    "annotation_140": {
+      "type": "superscript",
+      "id": "annotation_140",
+      "path": [
+        "paragraph_image_fig3",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        399,
+        400
+      ]
+    },
+    "annotation_141": {
+      "type": "superscript",
+      "id": "annotation_141",
+      "path": [
+        "paragraph_image_fig3",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        430,
+        431
+      ]
+    },
+    "annotation_142": {
+      "type": "superscript",
+      "id": "annotation_142",
+      "path": [
+        "paragraph_image_fig3",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        467,
+        468
+      ]
+    },
+    "annotation_143": {
+      "type": "emphasis",
+      "id": "annotation_143",
+      "path": [
+        "paragraph_image_fig3",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        681,
+        682
+      ]
+    },
+    "annotation_144": {
+      "type": "emphasis",
+      "id": "annotation_144",
+      "path": [
+        "paragraph_image_fig3",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        683,
+        685
+      ]
+    },
+    "annotation_145": {
+      "type": "strong",
+      "id": "annotation_145",
+      "path": [
+        "paragraph_image_fig3",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        828,
+        829
+      ]
+    },
+    "annotation_146": {
+      "type": "strong",
+      "id": "annotation_146",
+      "path": [
+        "paragraph_image_fig3",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        832,
+        833
+      ]
+    },
+    "annotation_147": {
+      "type": "strong",
+      "id": "annotation_147",
+      "path": [
+        "paragraph_image_fig3",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        879,
+        880
+      ]
+    },
+    "annotation_148": {
+      "type": "strong",
+      "id": "annotation_148",
+      "path": [
+        "paragraph_image_fig3",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        977,
+        978
+      ]
+    },
+    "annotation_149": {
+      "type": "strong",
+      "id": "annotation_149",
+      "path": [
+        "paragraph_image_fig3",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1034,
+        1035
+      ]
+    },
+    "annotation_150": {
+      "type": "strong",
+      "id": "annotation_150",
+      "path": [
+        "paragraph_image_fig3",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1135,
+        1136
+      ]
+    },
+    "annotation_151": {
+      "type": "strong",
+      "id": "annotation_151",
+      "path": [
+        "paragraph_image_fig3",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1138,
+        1139
+      ]
+    },
+    "annotation_152": {
+      "type": "strong",
+      "id": "annotation_152",
+      "path": [
+        "paragraph_image_fig3",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1152,
+        1153
+      ]
+    },
+    "annotation_153": {
+      "type": "strong",
+      "id": "annotation_153",
+      "path": [
+        "paragraph_image_fig3",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1154,
+        1155
+      ]
+    },
+    "annotation_154": {
+      "type": "strong",
+      "id": "annotation_154",
+      "path": [
+        "paragraph_image_fig3",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1185,
+        1186
+      ]
+    },
+    "annotation_155": {
+      "type": "strong",
+      "id": "annotation_155",
+      "path": [
+        "paragraph_image_fig3",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1197,
+        1198
+      ]
+    },
+    "annotation_156": {
+      "type": "strong",
+      "id": "annotation_156",
+      "path": [
+        "paragraph_image_fig3",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1208,
+        1209
+      ]
+    },
+    "annotation_157": {
+      "type": "strong",
+      "id": "annotation_157",
+      "path": [
+        "paragraph_image_fig3",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1211,
+        1212
+      ]
+    },
+    "annotation_158": {
+      "type": "strong",
+      "id": "annotation_158",
+      "path": [
+        "paragraph_image_fig3",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1227,
+        1228
+      ]
+    },
+    "annotation_159": {
+      "type": "strong",
+      "id": "annotation_159",
+      "path": [
+        "paragraph_image_fig3",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1235,
+        1236
+      ]
+    },
+    "annotation_160": {
+      "type": "strong",
+      "id": "annotation_160",
+      "path": [
+        "paragraph_image_fig3",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1243,
+        1244
+      ]
+    },
+    "annotation_161": {
+      "type": "strong",
+      "id": "annotation_161",
+      "path": [
+        "paragraph_image_fig3",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1406,
+        1407
+      ]
+    },
+    "image_fig3s1": {
+      "type": "image",
+      "id": "image_fig3s1",
+      "label": "Figure 3—figure supplement 1.",
+      "url": "",
+      "object_id": "F8",
+      "title": "Raw RESOLFT images of Figure 3A.",
+      "content_type": "",
+      "large_url": "",
+      "content": "",
+      "group": [
+        "child",
+        "image_fig3"
+      ],
+      "doi": "http://dx.doi.org/10.7554/eLife.00248.011",
+      "caption": "paragraph_image_fig3s1",
+      "graphic_id": "elife00248fs005"
+    },
+    "paragraph_image_fig3s1": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig3s1",
+      "content": "No image processing was applied. Shown are PtK2 cells expressing Vimentin-rsEGFP2: initial confocal (left) and subsequent RESOLFT images taken every 100 s. Scale bar: 1 µm."
+    },
+    "figure_reference_162": {
+      "type": "figure_reference",
+      "id": "figure_reference_162",
+      "path": [
+        "image_fig3s1",
+        "title"
+      ],
+      "target": "image_fig3",
+      "range": [
+        22,
+        31
+      ]
+    },
+    "image_fig3s2": {
+      "type": "image",
+      "id": "image_fig3s2",
+      "label": "Figure 3—figure supplement 2.",
+      "url": "",
+      "object_id": "F9",
+      "title": "Lateral resolution in fast RESOLFT imaging.",
+      "content_type": "",
+      "large_url": "",
+      "content": "",
+      "group": [
+        "child",
+        "image_fig3"
+      ],
+      "doi": "http://dx.doi.org/10.7554/eLife.00248.012",
+      "caption": "paragraph_image_fig3s2",
+      "graphic_id": "elife00248fs006"
+    },
+    "paragraph_image_fig3s2": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig3s2",
+      "content": "(A),(B) Typical examples. Shown are raw images of cells expressing Keratin19-rsEGFP2 taken on a RESOLFT Quad P microscope (Abberior Instruments GmbH, Göttingen, Germany) with a pixel dwell time similar as in Figure 3D,E. Imaging conditions: (on: 405 nm, 8 kW/cm², 2 µs; off: 488 nm, 68 kW/cm², 61 µs; read-out: 488 nm, 200 kW/cm², 7 µs; pixel size: 40 × 40 nm). From left to right: confocal raw image and corresponding raw RESOLFT image. The graphs show averaged line profiles across the indicated filaments within the respective boxes. The line profiles used for averaging were taken equidistant (40 nm) along the whole respective indicated area. Scale bar: 1 µm."
+    },
+    "annotation_163": {
+      "type": "strong",
+      "id": "annotation_163",
+      "path": [
+        "paragraph_image_fig3s2",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1,
+        2
+      ]
+    },
+    "annotation_164": {
+      "type": "strong",
+      "id": "annotation_164",
+      "path": [
+        "paragraph_image_fig3s2",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        5,
+        6
+      ]
+    },
+    "figure_reference_165": {
+      "type": "figure_reference",
+      "id": "figure_reference_165",
+      "path": [
+        "paragraph_image_fig3s2",
+        "content"
+      ],
+      "target": "image_fig3",
+      "range": [
+        208,
+        219
+      ]
+    },
+    "annotation_166": {
+      "type": "superscript",
+      "id": "annotation_166",
+      "path": [
+        "paragraph_image_fig3s2",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        261,
+        262
+      ]
+    },
+    "annotation_167": {
+      "type": "superscript",
+      "id": "annotation_167",
+      "path": [
+        "paragraph_image_fig3s2",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        291,
+        292
+      ]
+    },
+    "annotation_168": {
+      "type": "superscript",
+      "id": "annotation_168",
+      "path": [
+        "paragraph_image_fig3s2",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        328,
+        329
+      ]
+    },
+    "image_fig3s3": {
+      "type": "image",
+      "id": "image_fig3s3",
+      "label": "Figure 3—figure supplement 3.",
+      "url": "",
+      "object_id": "F10",
+      "title": "Comparison of rsEGFP and rsEGFP2 at RESOLFT imaging conditions.",
+      "content_type": "",
+      "large_url": "",
+      "content": "",
+      "group": [
+        "child",
+        "image_fig3"
+      ],
+      "doi": "http://dx.doi.org/10.7554/eLife.00248.013",
+      "caption": "paragraph_image_fig3s3",
+      "graphic_id": "elife00248fs007"
+    },
+    "paragraph_image_fig3s3": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig3s3",
+      "content": "(A) Repeated imaging of peroxisomes labeled by Pex16-rsEGFP or Pex16-EGFP2 fusion proteins. Imaging conditions were as in Figure 3D. Pixel step size: 40 nm; on: 405 nm, 4 kW/cm², 20 µs; off: 491 nm, 20 kW/cm², 50 µs; read-out: 491 nm, 76 kW/cm², 5 µs; pixel dwell time: 75 µs. Images were taken every 5 s. Shown are raw data. (B) Decay of the summed fluorescence intensities of the images shown in (A). Note that rsEGFP photobleaches faster than rsEGFP2. Scale bar: 1 µm."
+    },
+    "annotation_169": {
+      "type": "strong",
+      "id": "annotation_169",
+      "path": [
+        "paragraph_image_fig3s3",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1,
+        2
+      ]
+    },
+    "figure_reference_170": {
+      "type": "figure_reference",
+      "id": "figure_reference_170",
+      "path": [
+        "paragraph_image_fig3s3",
+        "content"
+      ],
+      "target": "image_fig3",
+      "range": [
+        122,
+        131
+      ]
+    },
+    "annotation_171": {
+      "type": "superscript",
+      "id": "annotation_171",
+      "path": [
+        "paragraph_image_fig3s3",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        176,
+        177
+      ]
+    },
+    "annotation_172": {
+      "type": "superscript",
+      "id": "annotation_172",
+      "path": [
+        "paragraph_image_fig3s3",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        207,
+        208
+      ]
+    },
+    "annotation_173": {
+      "type": "superscript",
+      "id": "annotation_173",
+      "path": [
+        "paragraph_image_fig3s3",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        243,
+        244
+      ]
+    },
+    "annotation_174": {
+      "type": "strong",
+      "id": "annotation_174",
+      "path": [
+        "paragraph_image_fig3s3",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        327,
+        328
+      ]
+    },
+    "annotation_175": {
+      "type": "strong",
+      "id": "annotation_175",
+      "path": [
+        "paragraph_image_fig3s3",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        399,
+        400
+      ]
+    },
+    "video_movie1": {
+      "type": "video",
+      "id": "video_movie1",
+      "label": "Movie 3.",
+      "title": "",
+      "caption": "paragraph_video_movie1",
+      "content_type": "",
+      "url_ogv": "http://static.movie-usa.glencoesoftware.com/ogv/10.7554/elife00248m003.ogv",
+      "url_jpg": "",
+      "url_mp4": "",
+      "doi": "http://dx.doi.org/10.7554/eLife.00248.014http://dx.doi.org/10.7554/eLife.00248.015http://dx.doi.org/10.7554/eLife.00248.016",
+      "url": "http://static.movie-usa.glencoesoftware.com/mp4/10.7554/elife00248m003.mp4",
+      "poster": "http://static.movie-usa.glencoesoftware.com/jpg/10.7554/elife00248m003.jpg",
+      "graphic_id": "elife00248m003.avi"
+    },
+    "paragraph_video_movie1": {
+      "type": "paragraph",
+      "id": "paragraph_video_movie1",
+      "content": "Animated sequence of RESOLFT recordings of a living PtK2 cell expressing Vimentin-rsEGFP2 as shown in Figure 3A. 20 RESOLFT images were taken every 100 s. Image size: 10 µm × 10 µm. The movie is accelerated by a factor of 200 compared to the original recording speed."
+    },
+    "figure_reference_176": {
+      "type": "figure_reference",
+      "id": "figure_reference_176",
+      "path": [
+        "paragraph_video_movie1",
+        "content"
+      ],
+      "target": "image_fig3",
+      "range": [
+        102,
+        111
+      ]
+    },
+    "heading_s3": {
+      "type": "heading",
+      "id": "heading_s3",
+      "level": 1,
+      "content": "Materials and methods",
+      "nodes": []
+    },
+    "heading_s3-1": {
+      "type": "heading",
+      "id": "heading_s3-1",
+      "level": 2,
+      "content": "Mutagenesis",
+      "nodes": []
+    },
+    "paragraph_177": {
+      "type": "paragraph",
+      "id": "paragraph_177",
+      "content": "For site-directed mutagenesis, the QuikChange Site Directed Mutagenesis Kit (Stratagene, La Jolla, CA) or a multiple-site mutagenesis approach using several primers were used."
+    },
+    "heading_s3-2": {
+      "type": "heading",
+      "id": "heading_s3-2",
+      "level": 2,
+      "content": "Protein expression, purification and characterization",
+      "nodes": []
+    },
+    "paragraph_178": {
+      "type": "paragraph",
+      "id": "paragraph_178",
+      "content": "The experimental procedures were essentially as described previously (Grotjohann et al., 2011). In brief, proteins were expressed in the E. coli strain BL21-CP-RIL and purified by Ni-NTA affinity chromatography (His SpinTrap, GE Healthcare), according to the manufacturer's instructions. The purified proteins were concentrated by ultrafiltration and taken up in 100 mM Tris–HCl, 150 mM NaCl, pH 7.5."
+    },
+    "citation_reference_179": {
+      "type": "citation_reference",
+      "id": "citation_reference_179",
+      "path": [
+        "paragraph_178",
+        "content"
+      ],
+      "target": "article_citation_bib11",
+      "range": [
+        70,
+        93
+      ]
+    },
+    "annotation_180": {
+      "type": "emphasis",
+      "id": "annotation_180",
+      "path": [
+        "paragraph_178",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        137,
+        144
+      ]
+    },
+    "paragraph_181": {
+      "type": "paragraph",
+      "id": "paragraph_181",
+      "content": "For the determination of the absorption, excitation and emission spectra of rsEGFP2, a protein solution (pH 7.5) was analyzed with a Varian Cary 4000 UV/VIS photospectrometer and a Varian Cary Eclipse fluorescence spectrometer, respectively. At this pH, the majority of the equilibrium-state rsEGFP2 chromophores are in the deprotonated cis-state (see Figure 1D). To determine its emission spectrum, rsEGFP2 was excited at 460 nm; the excitation spectrum was determined by measuring fluorescence at 520 nm. The fluorescence quantum yields and the molar extinction coefficients at the respective absorption maximum were determined relative to the reported values of EGFP (quantum yield ΦFL = 0.60, molar extinction coefficient at 489 nm ε = 53,000 M−1 cm−1) (Patterson et al., 1997). Irradiation-dependent changes in the absorption were quantified by illuminating the protein solution in a cuvette with a fiber coupled mercury lamp (Lecia Microsystems, Wetzlar, Germany) equipped with a (488 ± 5) nm excitation filter. For each measurement of the spectrum the irradiation was briefly interrupted."
+    },
+    "figure_reference_182": {
+      "type": "figure_reference",
+      "id": "figure_reference_182",
+      "path": [
+        "paragraph_181",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        352,
+        361
+      ]
+    },
+    "annotation_183": {
+      "type": "subscript",
+      "id": "annotation_183",
+      "path": [
+        "paragraph_181",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        686,
+        688
+      ]
+    },
+    "annotation_184": {
+      "type": "emphasis",
+      "id": "annotation_184",
+      "path": [
+        "paragraph_181",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        736,
+        737
+      ]
+    },
+    "annotation_185": {
+      "type": "superscript",
+      "id": "annotation_185",
+      "path": [
+        "paragraph_181",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        748,
+        750
+      ]
+    },
+    "annotation_186": {
+      "type": "superscript",
+      "id": "annotation_186",
+      "path": [
+        "paragraph_181",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        753,
+        755
+      ]
+    },
+    "citation_reference_187": {
+      "type": "citation_reference",
+      "id": "citation_reference_187",
+      "path": [
+        "paragraph_181",
+        "content"
+      ],
+      "target": "article_citation_bib24",
+      "range": [
+        758,
+        780
+      ]
+    },
+    "paragraph_188": {
+      "type": "paragraph",
+      "id": "paragraph_188",
+      "content": "For the embedding of rsEGFP2 in a PAA layer, 24.5 µl of purified rsEGFP2 (~0.1 mM) was mixed with 17.5 µl Tris–HCl pH 7.5, 30 µl acrylamide (Rotiphorese Gel 30, Roth, Karlsruhe, Germany), 0.75 µl 10 % ammonium persulfate and 1µl 10 % TEMED. About 10 µl of this solution was placed on a glass slide and a cover slip was pressed onto the sample. After complete polymerization, the sample was sealed with silicon-based glue (Picodent twinsil, Picodent, Wipperfürth, Germany)."
+    },
+    "heading_s3-3": {
+      "type": "heading",
+      "id": "heading_s3-3",
+      "level": 2,
+      "content": "Determination of chromophore maturation halftime",
+      "nodes": []
+    },
+    "paragraph_189": {
+      "type": "paragraph",
+      "id": "paragraph_189",
+      "content": "To determine the time required for chromophore maturation in rsEGFP2, the E. coli cell strain TOP10 (Invitrogen, Carlsbad, CA) was transformed with the inducible expression plasmid pBad-rsEGFP2 and grown overnight at 37°C in LB-Amp medium. The overnight culture was used to inoculate 200 ml LB-Amp growth medium. At an OD600 of 0.5 to 0.6, addition of arabinose to a final concentration of 0.2% induced the protein expression. The cultures were further incubated at 37°C for 2 hr. Cells were opened up by several freeze–thaw cycles and pelleted by centrifugation. rsEGFP2 was purified immediately from the supernatant using a His SpinTrap column (GE Healthcare, Freiburg, Germany). The proteins were diluted in buffer (final concentration: 20 mM NaH2PO4, 500 mM NaCl, 30 mM imidazol, pH 7.5). Care was taken that all preparation steps took place at 4°C. Finally, fluorescence emission spectra of rsEGFP2 were taken at several time points using a fluorescence spectrometer (Varian Cary Eclipse) while incubating the protein solution at 37°C."
+    },
+    "annotation_190": {
+      "type": "emphasis",
+      "id": "annotation_190",
+      "path": [
+        "paragraph_189",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        74,
+        81
+      ]
+    },
+    "annotation_191": {
+      "type": "subscript",
+      "id": "annotation_191",
+      "path": [
+        "paragraph_189",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        749,
+        750
+      ]
+    },
+    "annotation_192": {
+      "type": "subscript",
+      "id": "annotation_192",
+      "path": [
+        "paragraph_189",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        752,
+        753
+      ]
+    },
+    "heading_s3-4": {
+      "type": "heading",
+      "id": "heading_s3-4",
+      "level": 2,
+      "content": "Mammalian cell culture",
+      "nodes": []
+    },
+    "paragraph_193": {
+      "type": "paragraph",
+      "id": "paragraph_193",
+      "content": "PtK2 (Potorous tridactylis) cells were cultured under constant conditions at 37°C and 5% CO2 in DMEM (Invitrogen, Carlsbad, CA) containing 5% FCS (PAA, Pasching, Austria), 100 units per ml streptomycin, 100 µg/ml penicillin (all Biochrom, Berlin, Germany), and 1 mM pyruvate (Sigma, St. Louis, USA ). For transfection, cells were seeded on cover glasses in 6-well plates. At the next day, cells were transfected with plasmid DNA using Nanofectin (PAA, Pasching, Austria) according to the manufacturer's instructions. After 24 hr the growth medium was replaced. Cells were imaged 24–72 hr after transfection."
+    },
+    "annotation_194": {
+      "type": "emphasis",
+      "id": "annotation_194",
+      "path": [
+        "paragraph_193",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        6,
+        26
+      ]
+    },
+    "annotation_195": {
+      "type": "subscript",
+      "id": "annotation_195",
+      "path": [
+        "paragraph_193",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        91,
+        92
+      ]
+    },
+    "heading_s3-5": {
+      "type": "heading",
+      "id": "heading_s3-5",
+      "level": 2,
+      "content": "Cloning",
+      "nodes": []
+    },
+    "paragraph_196": {
+      "type": "paragraph",
+      "id": "paragraph_196",
+      "content": "To generate the various fusion constructs of rsEGFP with Keratin19, with the histone H2B, with Vimentin, or with the peroxisomal membrane protein Pex16, rsEGFP was amplified (forward primer: GATCCACCGGTCGCGGCGTGAGCAAGGGCGAGGAGCTG/reverse primer: ACAACTTAAGAACAACAATTGTTACTTGTACAGCTCGTCCATGCC). The PCR fragment was cloned into the gateway destination vector pMD-tdEosFP-N using the restriction sites AgeI and AflII, thereby replacing the tdEosFP coding sequence against the rsEGFP2 sequence. The final plasmids pMD-Ker19-rsEGFP2, pMD-H2B-rsEGFP2, pMD-Vim-rsEGFP2 and pMD-Pex16-rsEGFP2 were constructed by gateway vector conversion (Invitrogen, Carlsbad, CA) using the donor vectors pDONR223-Krt19, pDONR223-Hist1H2BN, pDONR223-Vim and pDONR223-Pex16, respectively (Lamesch et al., 2007). Pex16-rsEGFP was cloned accordingly."
+    },
+    "annotation_197": {
+      "type": "emphasis",
+      "id": "annotation_197",
+      "path": [
+        "paragraph_196",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        403,
+        404
+      ]
+    },
+    "annotation_198": {
+      "type": "emphasis",
+      "id": "annotation_198",
+      "path": [
+        "paragraph_196",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        412,
+        414
+      ]
+    },
+    "citation_reference_199": {
+      "type": "citation_reference",
+      "id": "citation_reference_199",
+      "path": [
+        "paragraph_196",
+        "content"
+      ],
+      "target": "article_citation_bib21",
+      "range": [
+        765,
+        785
+      ]
+    },
+    "paragraph_200": {
+      "type": "paragraph",
+      "id": "paragraph_200",
+      "content": "To generate pMD-rsEGFP2-α-Tubulin, rsEGFP2 was amplified (forward primer: GATCCGCTAGCGCTAATGGTGAGCAAGGGCGAGGAG/reverse primer: CACTCGAGATCTGAGTCCGGACTTGTACAGCTCGTCCATGCC) and cloned into the vector pEGFP-Tub (Clontech, Mountain View, CA) using the restriction sites NheI and BglII replacing EGFP."
+    },
+    "annotation_201": {
+      "type": "emphasis",
+      "id": "annotation_201",
+      "path": [
+        "paragraph_200",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        269,
+        270
+      ]
+    },
+    "annotation_202": {
+      "type": "emphasis",
+      "id": "annotation_202",
+      "path": [
+        "paragraph_200",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        278,
+        280
+      ]
+    },
+    "paragraph_203": {
+      "type": "paragraph",
+      "id": "paragraph_203",
+      "content": "To generate a construct that targets rsEGFP2 to the ER, the rsEGFP2 sequence was PCR-amplified (forward primer: CTGCAGGTCGACATGGTGAGCAAGGGCGAGGA/reverse primer: TTCTG CGGCCGCCTTGTACAGCTCGTCCATGCCGCCGGT). The PCR product was ligated into the vector pEF/myc/ER (Invitrogen, Carlsbad, CA) using the SalI and NotI restriction sites."
+    },
+    "annotation_204": {
+      "type": "emphasis",
+      "id": "annotation_204",
+      "path": [
+        "paragraph_203",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        299,
+        300
+      ]
+    },
+    "annotation_205": {
+      "type": "emphasis",
+      "id": "annotation_205",
+      "path": [
+        "paragraph_203",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        308,
+        309
+      ]
+    },
+    "heading_s3-6": {
+      "type": "heading",
+      "id": "heading_s3-6",
+      "level": 2,
+      "content": "RESOLFT microscope",
+      "nodes": []
+    },
+    "paragraph_206": {
+      "type": "paragraph",
+      "id": "paragraph_206",
+      "content": "A home-built RESOLFT microscope (Grotjohann et al., 2011; Testa et al., 2012) was adapted for imaging rsEGFP2 in living cells. The microscope utilized three separate beam paths for generating focal spots: two at 491 nm wavelength for excitation and off-switching and one at 405 nm for on-switching of the fluorophores. The two focal spots at 491 nm comprised: (i) a normal diffraction-limited focus with a Gaussian profile for reading out the fluorescence signal and (ii) a focus with a central intensity minimum (‘zero’) for off-switching at the focal periphery in the xy-plane, obtained by passing the beam through a vortex phase mask (463 nm mask, vortex plate VPP-A, RPC Photonics, Rochester, NY). The first two foci were both generated by the same laser diode (50 mW, Calypso 50, Cobolt, Stockholm, Sweden). The third focal spot, again with a normal diffraction-limited Gaussian profile, was generated by a laser diode at 405 nm wavelength (30 mW, BCL-030-405-S, CrystaLaser, Reno, NV, USA) and used for the on-switching of rsEGFP2."
+    },
+    "citation_reference_207": {
+      "type": "citation_reference",
+      "id": "citation_reference_207",
+      "path": [
+        "paragraph_206",
+        "content"
+      ],
+      "target": "article_citation_bib11",
+      "range": [
+        33,
+        56
+      ]
+    },
+    "citation_reference_208": {
+      "type": "citation_reference",
+      "id": "citation_reference_208",
+      "path": [
+        "paragraph_206",
+        "content"
+      ],
+      "target": "article_citation_bib32",
+      "range": [
+        58,
+        76
+      ]
+    },
+    "paragraph_209": {
+      "type": "paragraph",
+      "id": "paragraph_209",
+      "content": "The microscope was equipped with a glycerol-immersion objective lens (PL APO, CORR CS, 63×, 1.3NA, glycerol; Leica Microsystems, Wetzlar, Germany). A piezo system (ENV40/20, Piezosystem Jena, Jena, Germany) was used to move the objective lens along the optical axis. A separate piezo stage (NV40, Piezosystem Jena) was implemented to translate the sample with nanometer precision in the xy-plane. The fluorescence signal was filtered by a band pass filter (532/70 nm) and detected by an avalanche photo diode (Perkin Elmer, Waltham, MA, USA); fluorescence photons were only allowed to be counted when the 491 nm read-out beam was switched on. The individual laser beam paths were triggered either by an acousto-optic modulator (MTS 130A3, Pegasus Optik GmbH, Wallenhorst, Germany) or by an acousto-optic tunable filter (AOTF.nC/TN, Pegasus Optik GmbH). The pulse sequence and duration were defined by a pulse generator (Model 9514, QUANTUM COMPOSERS, Bozeman, MT, USA) and triggered by a fast acquisition card (MCA-3 Series/P7882, FAST ComTec GmbH, Oberhaching, Germany) pixel by pixel."
+    },
+    "paragraph_210": {
+      "type": "paragraph",
+      "id": "paragraph_210",
+      "content": "Alternatively, we assembled the Abberior RESOLFT Quad P microscopy kit provided by Abberior Instruments GmbH, Göttingen, Germany, which used the same arrangement and wavelengths as the home-built system, except for the fact that scanning was accomplished by a galvanometer beam scanning system (Quad scanner) and the body of the microscope was an Olympus iX81 inverted microscope. Imaging was performed with a 100× Olympus oil immersion objective lens of 1.4 numerical aperture."
+    },
+    "heading_s3-7": {
+      "type": "heading",
+      "id": "heading_s3-7",
+      "level": 2,
+      "content": "Image acquisition and analysis",
+      "nodes": []
+    },
+    "paragraph_211": {
+      "type": "paragraph",
+      "id": "paragraph_211",
+      "content": "Image acquisition was performed with the software Imspector (www.imspector.de). Each image was recorded by applying a specific pulse scheme, pixel by pixel. The fluorescence signal was recorded only when the 491 nm read-out Gaussian shaped beam was on. Between each pixel pulse sequence (pixel dwell times 75–380 µs) a delay of 20 µs was inserted for synchronization, resulting in effective dwell times of 95–400 µs. The laser intensities used in our illumination scheme ranged between 1–100 kW/cm2. The approximately 10% remaining switching background introduces some diffraction-limited components in the final raw image. To remove this background, we deconvolved the final image by Richardson–Lucy (Richardson, 1972; Lucy, 1974) restoration with a 10% diffraction-limited PSF added to the RESOLFT PSF, as detailed previously (Hofmann et al., 2005). 10 iterations were performed. All experiments were performed at 35°C except those presented in Figure 3B and Figure 3—figure supplement 2."
+    },
+    "annotation_212": {
+      "type": "superscript",
+      "id": "annotation_212",
+      "path": [
+        "paragraph_211",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        497,
+        498
+      ]
+    },
+    "citation_reference_213": {
+      "type": "citation_reference",
+      "id": "citation_reference_213",
+      "path": [
+        "paragraph_211",
+        "content"
+      ],
+      "target": "article_citation_bib26",
+      "range": [
+        702,
+        718
+      ]
+    },
+    "citation_reference_214": {
+      "type": "citation_reference",
+      "id": "citation_reference_214",
+      "path": [
+        "paragraph_211",
+        "content"
+      ],
+      "target": "article_citation_bib22",
+      "range": [
+        720,
+        730
+      ]
+    },
+    "citation_reference_215": {
+      "type": "citation_reference",
+      "id": "citation_reference_215",
+      "path": [
+        "paragraph_211",
+        "content"
+      ],
+      "target": "article_citation_bib17",
+      "range": [
+        829,
+        849
+      ]
+    },
+    "figure_reference_216": {
+      "type": "figure_reference",
+      "id": "figure_reference_216",
+      "path": [
+        "paragraph_211",
+        "content"
+      ],
+      "target": "image_fig3",
+      "range": [
+        947,
+        956
+      ]
+    },
+    "figure_reference_217": {
+      "type": "figure_reference",
+      "id": "figure_reference_217",
+      "path": [
+        "paragraph_211",
+        "content"
+      ],
+      "target": "image_fig3s2",
+      "range": [
+        961,
+        989
+      ]
+    },
+    "heading_s3-8": {
+      "type": "heading",
+      "id": "heading_s3-8",
+      "level": 2,
+      "content": "Determination of the single-molecule brightness",
+      "nodes": []
+    },
+    "paragraph_218": {
+      "type": "paragraph",
+      "id": "paragraph_218",
+      "content": "The single-molecule brightness of EGFP, rsEGFP and rsEGFP2 were determined using fluorescence fluctuation spectroscopy, specifically fluorescence correlation spectroscopy (FCS) (Haustein and Schwille, 2003) and fluorescence intensity distribution analysis (Chen et al., 1999; Kask et al., 1999). Both methods analyze characteristic fluctuations δF(t) in the fluorescence signal F(t) in time t about an average value F(t) = <F(t)> + δF(t) by either calculating the second-order auto-correlation function G(tc) (FCS, with correlation time tc) or by building up a frequency histogram P(n, ∆T) of photon counts detected per time window ∆T (FIDA, with number of photons n). Fluctuations in F arise for example from diffusion of the fluorescent proteins in and out of the confocal detection volume or by transitions into and out of a dark state such as the triplet, other metastable dark or the switch-off state."
+    },
+    "citation_reference_219": {
+      "type": "citation_reference",
+      "id": "citation_reference_219",
+      "path": [
+        "paragraph_218",
+        "content"
+      ],
+      "target": "article_citation_bib13",
+      "range": [
+        178,
+        205
+      ]
+    },
+    "citation_reference_220": {
+      "type": "citation_reference",
+      "id": "citation_reference_220",
+      "path": [
+        "paragraph_218",
+        "content"
+      ],
+      "target": "article_citation_bib7",
+      "range": [
+        257,
+        274
+      ]
+    },
+    "citation_reference_221": {
+      "type": "citation_reference",
+      "id": "citation_reference_221",
+      "path": [
+        "paragraph_218",
+        "content"
+      ],
+      "target": "article_citation_bib20",
+      "range": [
+        276,
+        293
+      ]
+    },
+    "annotation_222": {
+      "type": "emphasis",
+      "id": "annotation_222",
+      "path": [
+        "paragraph_218",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        345,
+        347
+      ]
+    },
+    "annotation_223": {
+      "type": "emphasis",
+      "id": "annotation_223",
+      "path": [
+        "paragraph_218",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        348,
+        349
+      ]
+    },
+    "annotation_224": {
+      "type": "emphasis",
+      "id": "annotation_224",
+      "path": [
+        "paragraph_218",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        378,
+        379
+      ]
+    },
+    "annotation_225": {
+      "type": "emphasis",
+      "id": "annotation_225",
+      "path": [
+        "paragraph_218",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        380,
+        381
+      ]
+    },
+    "annotation_226": {
+      "type": "emphasis",
+      "id": "annotation_226",
+      "path": [
+        "paragraph_218",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        391,
+        392
+      ]
+    },
+    "annotation_227": {
+      "type": "emphasis",
+      "id": "annotation_227",
+      "path": [
+        "paragraph_218",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        416,
+        417
+      ]
+    },
+    "annotation_228": {
+      "type": "emphasis",
+      "id": "annotation_228",
+      "path": [
+        "paragraph_218",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        418,
+        419
+      ]
+    },
+    "annotation_229": {
+      "type": "emphasis",
+      "id": "annotation_229",
+      "path": [
+        "paragraph_218",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        424,
+        425
+      ]
+    },
+    "annotation_230": {
+      "type": "emphasis",
+      "id": "annotation_230",
+      "path": [
+        "paragraph_218",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        426,
+        427
+      ]
+    },
+    "annotation_231": {
+      "type": "emphasis",
+      "id": "annotation_231",
+      "path": [
+        "paragraph_218",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        432,
+        434
+      ]
+    },
+    "annotation_232": {
+      "type": "emphasis",
+      "id": "annotation_232",
+      "path": [
+        "paragraph_218",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        435,
+        436
+      ]
+    },
+    "annotation_233": {
+      "type": "emphasis",
+      "id": "annotation_233",
+      "path": [
+        "paragraph_218",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        503,
+        504
+      ]
+    },
+    "annotation_234": {
+      "type": "emphasis",
+      "id": "annotation_234",
+      "path": [
+        "paragraph_218",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        505,
+        506
+      ]
+    },
+    "annotation_235": {
+      "type": "emphasis",
+      "id": "annotation_235",
+      "path": [
+        "paragraph_218",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        506,
+        507
+      ]
+    },
+    "annotation_236": {
+      "type": "subscript",
+      "id": "annotation_236",
+      "path": [
+        "paragraph_218",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        506,
+        507
+      ]
+    },
+    "annotation_237": {
+      "type": "emphasis",
+      "id": "annotation_237",
+      "path": [
+        "paragraph_218",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        537,
+        538
+      ]
+    },
+    "annotation_238": {
+      "type": "emphasis",
+      "id": "annotation_238",
+      "path": [
+        "paragraph_218",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        538,
+        539
+      ]
+    },
+    "annotation_239": {
+      "type": "subscript",
+      "id": "annotation_239",
+      "path": [
+        "paragraph_218",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        538,
+        539
+      ]
+    },
+    "annotation_240": {
+      "type": "emphasis",
+      "id": "annotation_240",
+      "path": [
+        "paragraph_218",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        581,
+        582
+      ]
+    },
+    "annotation_241": {
+      "type": "emphasis",
+      "id": "annotation_241",
+      "path": [
+        "paragraph_218",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        583,
+        584
+      ]
+    },
+    "annotation_242": {
+      "type": "emphasis",
+      "id": "annotation_242",
+      "path": [
+        "paragraph_218",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        587,
+        588
+      ]
+    },
+    "annotation_243": {
+      "type": "emphasis",
+      "id": "annotation_243",
+      "path": [
+        "paragraph_218",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        633,
+        634
+      ]
+    },
+    "annotation_244": {
+      "type": "emphasis",
+      "id": "annotation_244",
+      "path": [
+        "paragraph_218",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        665,
+        666
+      ]
+    },
+    "annotation_245": {
+      "type": "emphasis",
+      "id": "annotation_245",
+      "path": [
+        "paragraph_218",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        685,
+        686
+      ]
+    },
+    "paragraph_246": {
+      "type": "paragraph",
+      "id": "paragraph_246",
+      "content": "FCS and FIDA data were analyzed using common theory. As outlined in detail previously (Eggeling et al., 2007), the analysis most importantly resulted in three characteristic molecular parameters of the fluorescent proteins: the single-molecule brightness (or count-rate per particle) q (from FIDA measurements with ∆T = 10 µs), the observation time τobs (from FCS measurements), and the average population of a µs-long-lived dark state (probably the triplet state of the fluorophore, from FCS measurements). In Figure 1—figure supplement 2 the q values in relation to the normalized q value of EGFP are shown. Without saturating the excitation, the brightness q ~ ΦFL ε scales with the fluorescence quantum yield ΦFL and the extinction coefficient ε (compare Table 1). For EGFP, the observation time τobs is given by its average transit time through the focal spot, while for rsEGFP and rsEGFP2 it is given by both the transit time and—if faster—the average switch-off time (Eggeling et al., 2007)."
+    },
+    "citation_reference_247": {
+      "type": "citation_reference",
+      "id": "citation_reference_247",
+      "path": [
+        "paragraph_246",
+        "content"
+      ],
+      "target": "article_citation_bib9",
+      "range": [
+        87,
+        108
+      ]
+    },
+    "annotation_248": {
+      "type": "emphasis",
+      "id": "annotation_248",
+      "path": [
+        "paragraph_246",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        284,
+        285
+      ]
+    },
+    "annotation_249": {
+      "type": "emphasis",
+      "id": "annotation_249",
+      "path": [
+        "paragraph_246",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        316,
+        317
+      ]
+    },
+    "annotation_250": {
+      "type": "emphasis",
+      "id": "annotation_250",
+      "path": [
+        "paragraph_246",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        349,
+        350
+      ]
+    },
+    "annotation_251": {
+      "type": "emphasis",
+      "id": "annotation_251",
+      "path": [
+        "paragraph_246",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        350,
+        353
+      ]
+    },
+    "annotation_252": {
+      "type": "subscript",
+      "id": "annotation_252",
+      "path": [
+        "paragraph_246",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        350,
+        353
+      ]
+    },
+    "figure_reference_253": {
+      "type": "figure_reference",
+      "id": "figure_reference_253",
+      "path": [
+        "paragraph_246",
+        "content"
+      ],
+      "target": "image_fig1s2",
+      "range": [
+        511,
+        539
+      ]
+    },
+    "annotation_254": {
+      "type": "emphasis",
+      "id": "annotation_254",
+      "path": [
+        "paragraph_246",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        544,
+        545
+      ]
+    },
+    "annotation_255": {
+      "type": "emphasis",
+      "id": "annotation_255",
+      "path": [
+        "paragraph_246",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        583,
+        584
+      ]
+    },
+    "annotation_256": {
+      "type": "emphasis",
+      "id": "annotation_256",
+      "path": [
+        "paragraph_246",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        660,
+        661
+      ]
+    },
+    "annotation_257": {
+      "type": "emphasis",
+      "id": "annotation_257",
+      "path": [
+        "paragraph_246",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        664,
+        665
+      ]
+    },
+    "annotation_258": {
+      "type": "emphasis",
+      "id": "annotation_258",
+      "path": [
+        "paragraph_246",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        665,
+        667
+      ]
+    },
+    "annotation_259": {
+      "type": "subscript",
+      "id": "annotation_259",
+      "path": [
+        "paragraph_246",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        665,
+        667
+      ]
+    },
+    "annotation_260": {
+      "type": "emphasis",
+      "id": "annotation_260",
+      "path": [
+        "paragraph_246",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        668,
+        669
+      ]
+    },
+    "annotation_261": {
+      "type": "emphasis",
+      "id": "annotation_261",
+      "path": [
+        "paragraph_246",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        713,
+        714
+      ]
+    },
+    "annotation_262": {
+      "type": "emphasis",
+      "id": "annotation_262",
+      "path": [
+        "paragraph_246",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        714,
+        716
+      ]
+    },
+    "annotation_263": {
+      "type": "subscript",
+      "id": "annotation_263",
+      "path": [
+        "paragraph_246",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        714,
+        716
+      ]
+    },
+    "annotation_264": {
+      "type": "emphasis",
+      "id": "annotation_264",
+      "path": [
+        "paragraph_246",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        748,
+        749
+      ]
+    },
+    "figure_reference_265": {
+      "type": "figure_reference",
+      "id": "figure_reference_265",
+      "path": [
+        "paragraph_246",
+        "content"
+      ],
+      "target": "table_tbl1",
+      "range": [
+        759,
+        766
+      ]
+    },
+    "annotation_266": {
+      "type": "emphasis",
+      "id": "annotation_266",
+      "path": [
+        "paragraph_246",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        800,
+        801
+      ]
+    },
+    "annotation_267": {
+      "type": "emphasis",
+      "id": "annotation_267",
+      "path": [
+        "paragraph_246",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        801,
+        804
+      ]
+    },
+    "annotation_268": {
+      "type": "subscript",
+      "id": "annotation_268",
+      "path": [
+        "paragraph_246",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        801,
+        804
+      ]
+    },
+    "citation_reference_269": {
+      "type": "citation_reference",
+      "id": "citation_reference_269",
+      "path": [
+        "paragraph_246",
+        "content"
+      ],
+      "target": "article_citation_bib9",
+      "range": [
+        975,
+        996
+      ]
+    },
+    "paragraph_270": {
+      "type": "paragraph",
+      "id": "paragraph_270",
+      "content": "The fluorescence fluctuation data were recorded on a FCS reader (Insight, Inovation GmbH, Osnabrück, Germany), applying a water immersion objective (60× UPLSAPO, NA 1.2, Olympus, Japan). Data was recorded for different powers of the 491 nm excitation laser (Viper, Qioptiq, Hamble, UK) and for the fluorescent proteins in aqueous solution (PBS buffer, pH 7.5)."
+    },
+    "paragraph_271": {
+      "type": "paragraph",
+      "id": "paragraph_271",
+      "content": "The observation times τobs were ~225 µs for EGFP (in accordance to the expected focal transit time), while those of rsEGFP and rsEGFP2 were shorter, reaching a value of ~40 µs at excitation powers >50 µW (15 kW/cm2) for rsEGFP and ~10–15 µs for rsEGFP2. The shorter observation times in the case of rsEGFP and rsEGFP2 result from a fast population of >200 µs-lived dark states (for details see (Eggeling et al., 2007))."
+    },
+    "annotation_272": {
+      "type": "emphasis",
+      "id": "annotation_272",
+      "path": [
+        "paragraph_271",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        22,
+        23
+      ]
+    },
+    "annotation_273": {
+      "type": "emphasis",
+      "id": "annotation_273",
+      "path": [
+        "paragraph_271",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        23,
+        26
+      ]
+    },
+    "annotation_274": {
+      "type": "subscript",
+      "id": "annotation_274",
+      "path": [
+        "paragraph_271",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        23,
+        26
+      ]
+    },
+    "annotation_275": {
+      "type": "superscript",
+      "id": "annotation_275",
+      "path": [
+        "paragraph_271",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        213,
+        214
+      ]
+    },
+    "citation_reference_276": {
+      "type": "citation_reference",
+      "id": "citation_reference_276",
+      "path": [
+        "paragraph_271",
+        "content"
+      ],
+      "target": "article_citation_bib9",
+      "range": [
+        395,
+        416
+      ]
+    },
+    "info:ack": {
+      "type": "heading",
+      "id": "info:ack",
+      "level": 2,
+      "content": "Acknowledgements",
+      "nodes": [
+        "paragraph_ack"
+      ]
+    },
+    "paragraph_ack": {
+      "type": "paragraph",
+      "id": "paragraph_ack",
+      "content": "AcknowledgementsWe thank J Jethwa for careful reading, A Schönle for adapting the software Imspector, J Keller for helping with data analysis, and M Andresen, T Gilat, N Jensen and S Löbermann for discussions and technical assistance. This work was supported by the Deutsche Forschungsgemeinschaft (DFG) through the DFG-Research Center for Molecular Physiology of the Brain and the SFB 755 (Nanoscale Photonic Imaging).Additional information"
+    },
+    "info:competing-interest": {
+      "type": "heading",
+      "id": "info:competing-interest",
+      "level": 2,
+      "content": "Competing Interests",
+      "nodes": [
+        "paragraph_277"
+      ]
+    },
+    "paragraph_277": {
+      "type": "paragraph",
+      "id": "paragraph_277",
+      "content": "Competing interestsMR and SWH: Own shares of the Abberior Instruments GmbH start-up supplying RESOLFT microscopy kits. The latter also benefits through IP secured by the Max Planck Society.The remaining have declared that no competing interests exist."
+    },
+    "info:author_contribution": {
+      "type": "heading",
+      "id": "info:author_contribution",
+      "level": 2,
+      "content": "Authors",
+      "nodes": [
+        "person_author_2290",
+        "person_author_2291",
+        "person_author_2295",
+        "person_author_2292",
+        "person_author_2293",
+        "person_author_2233"
+      ]
+    },
+    "article_citation_bib1": {
+      "type": "article_citation",
+      "id": "article_citation_bib1",
+      "authors": [
+        {
+          "given-names": "R",
+          "last-name": "Ando"
+        },
+        {
+          "given-names": "C",
+          "last-name": "Flors"
+        },
+        {
+          "given-names": "H",
+          "last-name": "Mizuno"
+        },
+        {
+          "given-names": "J",
+          "last-name": "Hofkens"
+        },
+        {
+          "given-names": "A",
+          "last-name": "Miyawaki"
+        }
+      ],
+      "title": "Highlighted generation of fluorescence signals using simultaneous two-color irradiation on Dronpa mutants",
+      "year": "2007",
+      "volume": "92",
+      "source": "Biophys J",
+      "issue": "",
+      "fpage": "L97",
+      "lpage": "9",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib2": {
+      "type": "article_citation",
+      "id": "article_citation_bib2",
+      "authors": [
+        {
+          "given-names": "M",
+          "last-name": "Andresen"
+        },
+        {
+          "given-names": "AC",
+          "last-name": "Stiel"
+        },
+        {
+          "given-names": "S",
+          "last-name": "Trowitzsch"
+        },
+        {
+          "given-names": "G",
+          "last-name": "Weber"
+        },
+        {
+          "given-names": "C",
+          "last-name": "Eggeling"
+        },
+        {
+          "given-names": "MC",
+          "last-name": "Wahl"
+        }
+      ],
+      "title": "Structural basis for reversible photoswitching in Dronpa",
+      "year": "2007",
+      "volume": "104",
+      "source": "Proc Natl Acad Sci USA",
+      "issue": "",
+      "fpage": "13005",
+      "lpage": "9",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib3": {
+      "type": "article_citation",
+      "id": "article_citation_bib3",
+      "authors": [
+        {
+          "given-names": "M",
+          "last-name": "Andresen"
+        },
+        {
+          "given-names": "MC",
+          "last-name": "Wahl"
+        },
+        {
+          "given-names": "AC",
+          "last-name": "Stiel"
+        },
+        {
+          "given-names": "F",
+          "last-name": "Gräter"
+        },
+        {
+          "given-names": "LV",
+          "last-name": "Schäfer"
+        },
+        {
+          "given-names": "S",
+          "last-name": "Trowitzsch"
+        }
+      ],
+      "title": "Structure and mechanism of the reversible photoswitch of a fluorescent protein",
+      "year": "2005",
+      "volume": "102",
+      "source": "Proc Natl Acad Sci USA",
+      "issue": "",
+      "fpage": "13070",
+      "lpage": "4",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib4": {
+      "type": "article_citation",
+      "id": "article_citation_bib4",
+      "authors": [
+        {
+          "given-names": "S",
+          "last-name": "Berning"
+        },
+        {
+          "given-names": "KI",
+          "last-name": "Willig"
+        },
+        {
+          "given-names": "H",
+          "last-name": "Steffens"
+        },
+        {
+          "given-names": "P",
+          "last-name": "Dibaj"
+        },
+        {
+          "given-names": "SW",
+          "last-name": "Hell"
+        }
+      ],
+      "title": "Nanoscopy in a living mouse brain",
+      "year": "2012",
+      "volume": "335",
+      "source": "Science",
+      "issue": "",
+      "fpage": "551",
+      "lpage": "",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1126/science.1215369",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib5": {
+      "type": "article_citation",
+      "id": "article_citation_bib5",
+      "authors": [
+        {
+          "given-names": "D",
+          "last-name": "Bourgeois"
+        },
+        {
+          "given-names": "V",
+          "last-name": "Adam"
+        }
+      ],
+      "title": "Reversible photoswitching in fluorescent proteins: a mechanistic view",
+      "year": "2012",
+      "volume": "64",
+      "source": "IUBMB Life",
+      "issue": "",
+      "fpage": "482",
+      "lpage": "91",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1002/iub.1023",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib6": {
+      "type": "article_citation",
+      "id": "article_citation_bib6",
+      "authors": [
+        {
+          "given-names": "T",
+          "last-name": "Brakemann"
+        },
+        {
+          "given-names": "AC",
+          "last-name": "Stiel"
+        },
+        {
+          "given-names": "G",
+          "last-name": "Weber"
+        },
+        {
+          "given-names": "M",
+          "last-name": "Andresen"
+        },
+        {
+          "given-names": "I",
+          "last-name": "Testa"
+        },
+        {
+          "given-names": "T",
+          "last-name": "Grotjohann"
+        }
+      ],
+      "title": "A reversibly photoswitchable GFP-like protein with fluorescence excitation decoupled from switching",
+      "year": "2011",
+      "volume": "29",
+      "source": "Nat Biotechnol",
+      "issue": "",
+      "fpage": "942",
+      "lpage": "7",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1038/nbt.1952",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib7": {
+      "type": "article_citation",
+      "id": "article_citation_bib7",
+      "authors": [
+        {
+          "given-names": "Y",
+          "last-name": "Chen"
+        },
+        {
+          "given-names": "JD",
+          "last-name": "Müller"
+        },
+        {
+          "given-names": "PT",
+          "last-name": "So"
+        },
+        {
+          "given-names": "E",
+          "last-name": "Gratton"
+        }
+      ],
+      "title": "The photon counting histogram in fluorescence fluctuation spectroscopy",
+      "year": "1999",
+      "volume": "77",
+      "source": "Biophys J",
+      "issue": "",
+      "fpage": "553",
+      "lpage": "67",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib8": {
+      "type": "article_citation",
+      "id": "article_citation_bib8",
+      "authors": [
+        {
+          "given-names": "P",
+          "last-name": "Dedecker"
+        },
+        {
+          "given-names": "J",
+          "last-name": "Hotta"
+        },
+        {
+          "given-names": "C",
+          "last-name": "Flors"
+        },
+        {
+          "given-names": "M",
+          "last-name": "Sliwa"
+        },
+        {
+          "given-names": "H",
+          "last-name": "Uji-i"
+        },
+        {
+          "given-names": "MB",
+          "last-name": "Roeffaers"
+        }
+      ],
+      "title": "Subdiffraction imaging through the selective donut-mode depletion of thermally stable photoswitchable fluorophores: numerical analysis and application to the fluorescent protein Dronpa",
+      "year": "2007",
+      "volume": "129",
+      "source": "J Am Chem Soc",
+      "issue": "",
+      "fpage": "16132",
+      "lpage": "41",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib9": {
+      "type": "article_citation",
+      "id": "article_citation_bib9",
+      "authors": [
+        {
+          "given-names": "C",
+          "last-name": "Eggeling"
+        },
+        {
+          "given-names": "M",
+          "last-name": "Hilbert"
+        },
+        {
+          "given-names": "H",
+          "last-name": "Bock"
+        },
+        {
+          "given-names": "C",
+          "last-name": "Ringemann"
+        },
+        {
+          "given-names": "M",
+          "last-name": "Hofmann"
+        },
+        {
+          "given-names": "AC",
+          "last-name": "Stiel"
+        }
+      ],
+      "title": "Reversible photoswitching enables single-molecule fluorescence fluctuation spectroscopy at high molecular concentration",
+      "year": "2007",
+      "volume": "70",
+      "source": "Microsc Res Tech",
+      "issue": "",
+      "fpage": "1003",
+      "lpage": "9",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib10": {
+      "type": "article_citation",
+      "id": "article_citation_bib10",
+      "authors": [
+        {
+          "given-names": "J",
+          "last-name": "Fölling"
+        },
+        {
+          "given-names": "M",
+          "last-name": "Bossi"
+        },
+        {
+          "given-names": "H",
+          "last-name": "Bock"
+        },
+        {
+          "given-names": "R",
+          "last-name": "Medda"
+        },
+        {
+          "given-names": "CA",
+          "last-name": "Wurm"
+        },
+        {
+          "given-names": "B",
+          "last-name": "Hein"
+        }
+      ],
+      "title": "Fluorescence nanoscopy by ground-state depletion and single-molecule return",
+      "year": "2008",
+      "volume": "5",
+      "source": "Nat Methods",
+      "issue": "",
+      "fpage": "943",
+      "lpage": "5",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1038/nmeth.1257",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib11": {
+      "type": "article_citation",
+      "id": "article_citation_bib11",
+      "authors": [
+        {
+          "given-names": "T",
+          "last-name": "Grotjohann"
+        },
+        {
+          "given-names": "I",
+          "last-name": "Testa"
+        },
+        {
+          "given-names": "M",
+          "last-name": "Leutenegger"
+        },
+        {
+          "given-names": "H",
+          "last-name": "Bock"
+        },
+        {
+          "given-names": "NT",
+          "last-name": "Urban"
+        },
+        {
+          "given-names": "F",
+          "last-name": "Lavoie-Cardinal"
+        }
+      ],
+      "title": "Diffraction-unlimited all-optical imaging and writing with a photochromic GFP",
+      "year": "2011",
+      "volume": "478",
+      "source": "Nature",
+      "issue": "",
+      "fpage": "204",
+      "lpage": "8",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1038/nature10497",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib12": {
+      "type": "article_citation",
+      "id": "article_citation_bib12",
+      "authors": [
+        {
+          "given-names": "MG",
+          "last-name": "Gustafsson"
+        }
+      ],
+      "title": "Nonlinear structured-illumination microscopy: wide-field fluorescence imaging with theoretically unlimited resolution",
+      "year": "2005",
+      "volume": "102",
+      "source": "Proc Natl Acad Sci USA",
+      "issue": "",
+      "fpage": "13081",
+      "lpage": "6",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib13": {
+      "type": "article_citation",
+      "id": "article_citation_bib13",
+      "authors": [
+        {
+          "given-names": "E",
+          "last-name": "Haustein"
+        },
+        {
+          "given-names": "P",
+          "last-name": "Schwille"
+        }
+      ],
+      "title": "Ultrasensitive investigations of biological systems by fluorescence correlation spectroscopy",
+      "year": "2003",
+      "volume": "29",
+      "source": "Methods",
+      "issue": "",
+      "fpage": "153",
+      "lpage": "66",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib14": {
+      "type": "article_citation",
+      "id": "article_citation_bib14",
+      "authors": [
+        {
+          "given-names": "SW",
+          "last-name": "Hell"
+        }
+      ],
+      "title": "Toward fluorescence nanoscopy",
+      "year": "2003",
+      "volume": "21",
+      "source": "Nat Biotechnol",
+      "issue": "",
+      "fpage": "1347",
+      "lpage": "55",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib15": {
+      "type": "article_citation",
+      "id": "article_citation_bib15",
+      "authors": [
+        {
+          "given-names": "SW",
+          "last-name": "Hell"
+        },
+        {
+          "given-names": "S",
+          "last-name": "Jakobs"
+        },
+        {
+          "given-names": "L",
+          "last-name": "Kastrup"
+        }
+      ],
+      "title": "Imaging and writing at the nanoscale with focused visible light through saturable optical transitions",
+      "year": "2003",
+      "volume": "77",
+      "source": "Applied Physics A",
+      "issue": "",
+      "fpage": "859",
+      "lpage": "60",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib16": {
+      "type": "article_citation",
+      "id": "article_citation_bib16",
+      "authors": [
+        {
+          "given-names": "SW",
+          "last-name": "Hell"
+        }
+      ],
+      "title": "Microscopy and its focal switch",
+      "year": "2009",
+      "volume": "6",
+      "source": "Nat Methods",
+      "issue": "",
+      "fpage": "24",
+      "lpage": "32",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib17": {
+      "type": "article_citation",
+      "id": "article_citation_bib17",
+      "authors": [
+        {
+          "given-names": "M",
+          "last-name": "Hofmann"
+        },
+        {
+          "given-names": "C",
+          "last-name": "Eggeling"
+        },
+        {
+          "given-names": "S",
+          "last-name": "Jakobs"
+        },
+        {
+          "given-names": "SW",
+          "last-name": "Hell"
+        }
+      ],
+      "title": "Breaking the diffraction barrier in fluorescence microscopy at low light intensities by using reversibly photoswitchable proteins",
+      "year": "2005",
+      "volume": "102",
+      "source": "Proc Natl Acad Sci USA",
+      "issue": "",
+      "fpage": "17565",
+      "lpage": "9",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib18": {
+      "type": "article_citation",
+      "id": "article_citation_bib18",
+      "authors": [
+        {
+          "given-names": "B",
+          "last-name": "Huang"
+        },
+        {
+          "given-names": "H",
+          "last-name": "Babcock"
+        },
+        {
+          "given-names": "X",
+          "last-name": "Zhuang"
+        }
+      ],
+      "title": "Breaking the diffraction barrier: super-resolution imaging of cells",
+      "year": "2010",
+      "volume": "143",
+      "source": "Cell",
+      "issue": "",
+      "fpage": "1047",
+      "lpage": "58",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/j.cell.2010.12.002",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib19": {
+      "type": "article_citation",
+      "id": "article_citation_bib19",
+      "authors": [
+        {
+          "given-names": "SA",
+          "last-name": "Jones"
+        },
+        {
+          "given-names": "SH",
+          "last-name": "Shim"
+        },
+        {
+          "given-names": "J",
+          "last-name": "He"
+        },
+        {
+          "given-names": "X",
+          "last-name": "Zhuang"
+        }
+      ],
+      "title": "Fast, three-dimensional super-resolution imaging of live cells",
+      "year": "2011",
+      "volume": "8",
+      "source": "Nat Methods",
+      "issue": "",
+      "fpage": "499",
+      "lpage": "505",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1038/nmeth.1605",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib20": {
+      "type": "article_citation",
+      "id": "article_citation_bib20",
+      "authors": [
+        {
+          "given-names": "P",
+          "last-name": "Kask"
+        },
+        {
+          "given-names": "K",
+          "last-name": "Palo"
+        },
+        {
+          "given-names": "D",
+          "last-name": "Ullmann"
+        },
+        {
+          "given-names": "K",
+          "last-name": "Gall"
+        }
+      ],
+      "title": "Fluorescence-intensity distribution analysis and its application in biomolecular detection technology",
+      "year": "1999",
+      "volume": "96",
+      "source": "Proc Natl Acad Sci USA",
+      "issue": "",
+      "fpage": "13756",
+      "lpage": "61",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib21": {
+      "type": "article_citation",
+      "id": "article_citation_bib21",
+      "authors": [
+        {
+          "given-names": "P",
+          "last-name": "Lamesch"
+        },
+        {
+          "given-names": "N",
+          "last-name": "Li"
+        },
+        {
+          "given-names": "S",
+          "last-name": "Milstein"
+        },
+        {
+          "given-names": "C",
+          "last-name": "Fan"
+        },
+        {
+          "given-names": "T",
+          "last-name": "Hao"
+        },
+        {
+          "given-names": "G",
+          "last-name": "Szabo"
+        }
+      ],
+      "title": "hORFeome v3.1: a resource of human open reading frames representing over 10,000 human genes",
+      "year": "2007",
+      "volume": "89",
+      "source": "Genomics",
+      "issue": "",
+      "fpage": "307",
+      "lpage": "15",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib22": {
+      "type": "article_citation",
+      "id": "article_citation_bib22",
+      "authors": [
+        {
+          "given-names": "LB",
+          "last-name": "Lucy"
+        }
+      ],
+      "title": "Iterative technique for rectification of observed distributions",
+      "year": "1974",
+      "volume": "79",
+      "source": "Astronomical Journal",
+      "issue": "",
+      "fpage": "745",
+      "lpage": "54",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib23": {
+      "type": "article_citation",
+      "id": "article_citation_bib23",
+      "authors": [
+        {
+          "given-names": "S",
+          "last-name": "Manley"
+        },
+        {
+          "given-names": "JM",
+          "last-name": "Gillette"
+        },
+        {
+          "given-names": "GH",
+          "last-name": "Patterson"
+        },
+        {
+          "given-names": "H",
+          "last-name": "Shroff"
+        },
+        {
+          "given-names": "HF",
+          "last-name": "Hess"
+        },
+        {
+          "given-names": "E",
+          "last-name": "Betzig"
+        }
+      ],
+      "title": "High-density mapping of single-molecule trajectories with photoactivated localization microscopy",
+      "year": "2008",
+      "volume": "5",
+      "source": "Nat Methods",
+      "issue": "",
+      "fpage": "155",
+      "lpage": "7",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib24": {
+      "type": "article_citation",
+      "id": "article_citation_bib24",
+      "authors": [
+        {
+          "given-names": "GH",
+          "last-name": "Patterson"
+        },
+        {
+          "given-names": "SM",
+          "last-name": "Knobel"
+        },
+        {
+          "given-names": "WD",
+          "last-name": "Sharif"
+        },
+        {
+          "given-names": "SR",
+          "last-name": "Kain"
+        },
+        {
+          "given-names": "DW",
+          "last-name": "Piston"
+        }
+      ],
+      "title": "Use of the green fluorescent protein and its mutants in quantitative fluorescence microscopy",
+      "year": "1997",
+      "volume": "73",
+      "source": "Biophys J",
+      "issue": "",
+      "fpage": "2782",
+      "lpage": "90",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib25": {
+      "type": "article_citation",
+      "id": "article_citation_bib25",
+      "authors": [
+        {
+          "given-names": "EH",
+          "last-name": "Rego"
+        },
+        {
+          "given-names": "L",
+          "last-name": "Shao"
+        },
+        {
+          "given-names": "JJ",
+          "last-name": "Macklin"
+        },
+        {
+          "given-names": "L",
+          "last-name": "Winoto"
+        },
+        {
+          "given-names": "GA",
+          "last-name": "Johansson"
+        },
+        {
+          "given-names": "N",
+          "last-name": "Kamps-Hughes"
+        }
+      ],
+      "title": "Nonlinear structured-illumination microscopy with a photoswitchable protein reveals cellular structures at 50-nm resolution",
+      "year": "2012",
+      "volume": "109",
+      "source": "Proc Natl Acad Sci USA",
+      "issue": "",
+      "fpage": "E135",
+      "lpage": "43",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1073/pnas.1107547108",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib26": {
+      "type": "article_citation",
+      "id": "article_citation_bib26",
+      "authors": [
+        {
+          "given-names": "WH",
+          "last-name": "Richardson"
+        }
+      ],
+      "title": "Bayesian-based iterative method of image restoration",
+      "year": "1972",
+      "volume": "62",
+      "source": "JOSA",
+      "issue": "",
+      "fpage": "55",
+      "lpage": "9",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib27": {
+      "type": "article_citation",
+      "id": "article_citation_bib27",
+      "authors": [
+        {
+          "given-names": "MA",
+          "last-name": "Schwentker"
+        },
+        {
+          "given-names": "H",
+          "last-name": "Bock"
+        },
+        {
+          "given-names": "M",
+          "last-name": "Hofmann"
+        },
+        {
+          "given-names": "S",
+          "last-name": "Jakobs"
+        },
+        {
+          "given-names": "J",
+          "last-name": "Bewersdorf"
+        },
+        {
+          "given-names": "C",
+          "last-name": "Eggeling"
+        }
+      ],
+      "title": "Wide-field subdiffraction RESOLFT microscopy using fluorescent protein photoswitching",
+      "year": "2007",
+      "volume": "70",
+      "source": "Microsc Res Tech",
+      "issue": "",
+      "fpage": "269",
+      "lpage": "80",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib28": {
+      "type": "article_citation",
+      "id": "article_citation_bib28",
+      "authors": [
+        {
+          "given-names": "NC",
+          "last-name": "Shaner"
+        },
+        {
+          "given-names": "MZ",
+          "last-name": "Lin"
+        },
+        {
+          "given-names": "MR",
+          "last-name": "McKeown"
+        },
+        {
+          "given-names": "PA",
+          "last-name": "Steinbach"
+        },
+        {
+          "given-names": "KL",
+          "last-name": "Hazelwood"
+        },
+        {
+          "given-names": "MW",
+          "last-name": "Davidson"
+        }
+      ],
+      "title": "Improving the photostability of bright monomeric orange and red fluorescent proteins",
+      "year": "2008",
+      "volume": "5",
+      "source": "Nat Methods",
+      "issue": "",
+      "fpage": "545",
+      "lpage": "51",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib29": {
+      "type": "article_citation",
+      "id": "article_citation_bib29",
+      "authors": [
+        {
+          "given-names": "SH",
+          "last-name": "Shim"
+        },
+        {
+          "given-names": "C",
+          "last-name": "Xia"
+        },
+        {
+          "given-names": "G",
+          "last-name": "Zhong"
+        },
+        {
+          "given-names": "HP",
+          "last-name": "Babcock"
+        },
+        {
+          "given-names": "JC",
+          "last-name": "Vaughan"
+        },
+        {
+          "given-names": "B",
+          "last-name": "Bo Huang"
+        }
+      ],
+      "title": "Super-resolution fluorescence imaging of organelles in live cells with photoswitchable membrane probes",
+      "year": "2012",
+      "volume": "109",
+      "source": "Proc Natl Acad Sci USA",
+      "issue": "",
+      "fpage": "13978",
+      "lpage": "83",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1073/pnas.1201882109",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib30": {
+      "type": "article_citation",
+      "id": "article_citation_bib30",
+      "authors": [
+        {
+          "given-names": "H",
+          "last-name": "Shroff"
+        },
+        {
+          "given-names": "CG",
+          "last-name": "Galbraith"
+        },
+        {
+          "given-names": "JA",
+          "last-name": "Galbraith"
+        },
+        {
+          "given-names": "E",
+          "last-name": "Betzig"
+        }
+      ],
+      "title": "Live-cell photoactivated localization microscopy of nanoscale adhesion dynamics",
+      "year": "2008",
+      "volume": "5",
+      "source": "Nat Methods",
+      "issue": "",
+      "fpage": "417",
+      "lpage": "23",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib31": {
+      "type": "article_citation",
+      "id": "article_citation_bib31",
+      "authors": [
+        {
+          "given-names": "AC",
+          "last-name": "Stiel"
+        },
+        {
+          "given-names": "S",
+          "last-name": "Trowitzsch"
+        },
+        {
+          "given-names": "G",
+          "last-name": "Weber"
+        },
+        {
+          "given-names": "M",
+          "last-name": "Andresen"
+        },
+        {
+          "given-names": "C",
+          "last-name": "Eggeling"
+        },
+        {
+          "given-names": "SW",
+          "last-name": "Hell"
+        }
+      ],
+      "title": "1.8 A bright-state structure of the reversibly switchable fluorescent protein Dronpa guides the generation of fast switching variants",
+      "year": "2007",
+      "volume": "402",
+      "source": "Biochem J",
+      "issue": "",
+      "fpage": "35",
+      "lpage": "42",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib32": {
+      "type": "article_citation",
+      "id": "article_citation_bib32",
+      "authors": [
+        {
+          "given-names": "I",
+          "last-name": "Testa"
+        },
+        {
+          "given-names": "NT",
+          "last-name": "Urban"
+        },
+        {
+          "given-names": "S",
+          "last-name": "Jakobs"
+        },
+        {
+          "given-names": "C",
+          "last-name": "Eggeling"
+        },
+        {
+          "given-names": "KI",
+          "last-name": "Willig"
+        },
+        {
+          "given-names": "SW",
+          "last-name": "Hell"
+        }
+      ],
+      "title": "Nanoscopy of living brain slices with low light levels",
+      "year": "2012",
+      "volume": "75",
+      "source": "Neuron",
+      "issue": "",
+      "fpage": "992",
+      "lpage": "1000",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/j.neuron.2012.07.028",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib33": {
+      "type": "article_citation",
+      "id": "article_citation_bib33",
+      "authors": [
+        {
+          "given-names": "I",
+          "last-name": "Testa"
+        },
+        {
+          "given-names": "CA",
+          "last-name": "Wurm"
+        },
+        {
+          "given-names": "R",
+          "last-name": "Medda"
+        },
+        {
+          "given-names": "E",
+          "last-name": "Rothermel"
+        },
+        {
+          "given-names": "C",
+          "last-name": "von Middendorf"
+        },
+        {
+          "given-names": "J",
+          "last-name": "Folling"
+        }
+      ],
+      "title": "Multicolor fluorescence nanoscopy in fixed and living cells by exciting conventional fluorophores with a single wavelength",
+      "year": "2010",
+      "volume": "99",
+      "source": "Biophys J",
+      "issue": "",
+      "fpage": "2686",
+      "lpage": "94",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib34": {
+      "type": "article_citation",
+      "id": "article_citation_bib34",
+      "authors": [
+        {
+          "given-names": "RY",
+          "last-name": "Tsien"
+        }
+      ],
+      "title": "The green fluorescent protein",
+      "year": "1998",
+      "volume": "67",
+      "source": "Annu Rev Biochem",
+      "issue": "",
+      "fpage": "509",
+      "lpage": "44",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib35": {
+      "type": "article_citation",
+      "id": "article_citation_bib35",
+      "authors": [
+        {
+          "given-names": "VN",
+          "last-name": "Verkhusha"
+        },
+        {
+          "given-names": "NA",
+          "last-name": "Akovbian"
+        },
+        {
+          "given-names": "EN",
+          "last-name": "Efremenko"
+        },
+        {
+          "given-names": "SD",
+          "last-name": "Varfolomeyev"
+        },
+        {
+          "given-names": "PV",
+          "last-name": "Verzheshch"
+        }
+      ],
+      "title": "Kinetic analysis of maturation and denaturation of DsRed, a coral-derived red fluorescent protein",
+      "year": "2001",
+      "volume": "66",
+      "source": "Biochemistry (Mosc)",
+      "issue": "",
+      "fpage": "1659",
+      "lpage": "70",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib36": {
+      "type": "article_citation",
+      "id": "article_citation_bib36",
+      "authors": [
+        {
+          "given-names": "KI",
+          "last-name": "Willig"
+        },
+        {
+          "given-names": "AC",
+          "last-name": "Stiel"
+        },
+        {
+          "given-names": "T",
+          "last-name": "Brakemann"
+        },
+        {
+          "given-names": "S",
+          "last-name": "Jakobs"
+        },
+        {
+          "given-names": "SW",
+          "last-name": "Hell"
+        }
+      ],
+      "title": "Dual-label STED nanoscopy of living cells using photochromism",
+      "year": "2011",
+      "volume": "11",
+      "source": "Nano Lett",
+      "issue": "",
+      "fpage": "3970",
+      "lpage": "3",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1021/nl202290w",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib37": {
+      "type": "article_citation",
+      "id": "article_citation_bib37",
+      "authors": [
+        {
+          "given-names": "DA",
+          "last-name": "Zacharias"
+        },
+        {
+          "given-names": "JD",
+          "last-name": "Violin"
+        },
+        {
+          "given-names": "AC",
+          "last-name": "Newton"
+        },
+        {
+          "given-names": "RY",
+          "last-name": "Tsien"
+        }
+      ],
+      "title": "Partitioning of lipid-modified monomeric GFPs into membrane microdomains of live cells",
+      "year": "2002",
+      "volume": "296",
+      "source": "Science",
+      "issue": "",
+      "fpage": "913",
+      "lpage": "6",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    }
+  }
+}

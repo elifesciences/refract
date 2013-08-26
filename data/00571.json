@@ -1,0 +1,877 @@
+{
+  "id": "00571",
+  "nodes": {
+    "content": {
+      "type": "view",
+      "id": "content",
+      "nodes": [
+        "abstract",
+        "paragraph_3",
+        "paragraph_10",
+        "paragraph_12",
+        "paragraph_13",
+        "paragraph_17",
+        "paragraph_28",
+        "paragraph_30",
+        "paragraph_33",
+        "paragraph_34"
+      ]
+    },
+    "figures": {
+      "type": "view",
+      "id": "figures",
+      "nodes": [
+        "box_B1",
+        "image_fig1"
+      ]
+    },
+    "citations": {
+      "type": "view",
+      "id": "citations",
+      "nodes": [
+        "article_citation_bib1",
+        "article_citation_bib2",
+        "article_citation_bib3",
+        "article_citation_bib4",
+        "article_citation_bib5",
+        "article_citation_bib6",
+        "article_citation_bib7",
+        "article_citation_bib8",
+        "article_citation_bib9"
+      ]
+    },
+    "document": {
+      "type": "document",
+      "id": "document",
+      "views": [
+        "content",
+        "figures",
+        "citations"
+      ],
+      "guid": "00571",
+      "title": "Developing cell biology",
+      "authors": [
+        "person_author_2499"
+      ],
+      "received_on": "",
+      "accepted_on": "",
+      "published_on": "2013-02-19",
+      "journal": "eLife",
+      "article_type": "",
+      "keywords": [
+        "mitotic spindle",
+        "embryogenesis",
+        "microtubule",
+        "kif2a",
+        "intracellular scaling",
+        "mitosis"
+      ],
+      "research_organisms": [
+        "Xenopus"
+      ],
+      "subjects": [
+        "Cell biology"
+      ],
+      "pdf_link": "",
+      "xml_link": "",
+      "json_link": "",
+      "doi": ""
+    },
+    "person_author_2499": {
+      "type": "person",
+      "id": "person_author_2499",
+      "given-names": "Daniel",
+      "last-name": "Needleman",
+      "role": "author",
+      "affiliations": [],
+      "image": "",
+      "contribution": "",
+      "email": "",
+      "funding": []
+    },
+    "info:copyright": {
+      "type": "heading",
+      "id": "info:copyright",
+      "level": 2,
+      "content": "Copyright",
+      "nodes": [
+        "paragraph_1"
+      ]
+    },
+    "paragraph_1": {
+      "type": "paragraph",
+      "id": "paragraph_1",
+      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "annotation_2": {
+      "type": "link",
+      "id": "annotation_2",
+      "path": [
+        "paragraph_1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        51,
+        87
+      ],
+      "url": "http://creativecommons.org/licenses/by/3.0/"
+    },
+    "abstract": {
+      "type": "heading",
+      "id": "abstract",
+      "level": 1,
+      "content": "Abstract",
+      "nodes": []
+    },
+    "paragraph_3": {
+      "type": "paragraph",
+      "id": "paragraph_3",
+      "content": "Experiments in Xenopus embryo extracts reveal that changes in cellular biochemistry cause mitotic spindles to decrease in size over the course of early development."
+    },
+    "annotation_4": {
+      "type": "emphasis",
+      "id": "annotation_4",
+      "path": [
+        "paragraph_3",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        15,
+        22
+      ]
+    },
+    "box_B1": {
+      "type": "box",
+      "id": "box_B1",
+      "label": "",
+      "url": "",
+      "title": "",
+      "caption": "",
+      "content": "Related research article Wilbur JD, Heald R. 2013. Mitotic spindle scaling during Xenopus development by kif2a and importin α. eLife 2:e00290. doi: 10.7554/eLife.00290",
+      "doi": ""
+    },
+    "annotation_5": {
+      "type": "strong",
+      "id": "annotation_5",
+      "path": [
+        "box_B1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        24
+      ]
+    },
+    "annotation_6": {
+      "type": "emphasis",
+      "id": "annotation_6",
+      "path": [
+        "box_B1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        82,
+        89
+      ]
+    },
+    "annotation_7": {
+      "type": "emphasis",
+      "id": "annotation_7",
+      "path": [
+        "box_B1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        127,
+        132
+      ]
+    },
+    "annotation_8": {
+      "type": "strong",
+      "id": "annotation_8",
+      "path": [
+        "box_B1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        133,
+        134
+      ]
+    },
+    "annotation_9": {
+      "type": "link",
+      "id": "annotation_9",
+      "path": [
+        "box_B1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        148,
+        167
+      ],
+      "url": "http://dx.doi.org/10.7554/elife.00290"
+    },
+    "paragraph_10": {
+      "type": "paragraph",
+      "id": "paragraph_10",
+      "content": "Image The mitotic spindle (red) segregates chromosomes (blue) during cell division"
+    },
+    "annotation_11": {
+      "type": "strong",
+      "id": "annotation_11",
+      "path": [
+        "paragraph_10",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        5
+      ]
+    },
+    "paragraph_12": {
+      "type": "paragraph",
+      "id": "paragraph_12",
+      "content": ""
+    },
+    "paragraph_13": {
+      "type": "paragraph",
+      "id": "paragraph_13",
+      "content": "One of the many fibs our teachers told us for our own good is that animals are all the same at the cellular and molecular level despite their apparent outward differences. Thinking in that mindset, it's okay to study how ‘the cell' works without worrying too much about which particular cell one is considering. In addition to being helpful when preparing for exams in introductory biology courses, this fiction has practical benefits for scientists. Focusing on the features that cells have in common has enabled researchers to make great advances by studying the organisms most amenable to their question and method of choice, and to synthesize information to obtain coherent pictures of biological processes. In reality, there is variation throughout all of biology, including at the cellular and molecular levels, and even the most basic cellular processes, such as the mechanics of cell division, can differ dramatically between animal cells. There can even be large variations between different cells of the same organism: it has been known for more than a hundred years that spindles, the structures that segregate chromosomes during cell division, show great variations in size and shape over the course of development (Wilson, 1897). Very little is understood about the origins of this variation—which might have important implications for development, evolution and human health. Now, writing in eLife, Jeremy Wilbur and Rebecca Heald of the University of California at Berkeley offer important insights into the mechanisms that underlie these changes in spindle morphology (Wilbur and Heald, 2013)."
+    },
+    "citation_reference_14": {
+      "type": "citation_reference",
+      "id": "citation_reference_14",
+      "path": [
+        "paragraph_13",
+        "content"
+      ],
+      "target": "article_citation_bib7",
+      "range": [
+        1228,
+        1240
+      ]
+    },
+    "annotation_15": {
+      "type": "emphasis",
+      "id": "annotation_15",
+      "path": [
+        "paragraph_13",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1406,
+        1411
+      ]
+    },
+    "citation_reference_16": {
+      "type": "citation_reference",
+      "id": "citation_reference_16",
+      "path": [
+        "paragraph_13",
+        "content"
+      ],
+      "target": "article_citation_bib8",
+      "range": [
+        1585,
+        1607
+      ]
+    },
+    "paragraph_17": {
+      "type": "paragraph",
+      "id": "paragraph_17",
+      "content": "Embryos undergo multiple rounds of rapid division during early development in many animals, and as the cells become progressively smaller, so too do the spindles that are responsible for their divisions (Figure 1). Recent studies of these early divisions in Xenopus laevis (Wuhr et al., 2008), C. elegans (Hara and Kimura, 2009; Greenan et al., 2010) and mouse (Courtois et al., 2012) have produced many interesting results, but the underlying causes of these changes in spindle size remain unclear. Since both cell size and spindle size decrease, it is tempting to think that there is some causative relationship between the two phenomena: that the confines of a smaller cell make spindles smaller, perhaps due to mechanics (Hara and Kimura, 2009) or the depletion of a limiting pool of cytoplasmic components (Goehring and Hyman, 2012). However, this is not the only possibility. It could be that changes in cellular biochemistry during early development give rise to smaller spindles through processes that are not connected to cell size. Understanding which of these scenarios is correct has been challenging."
+    },
+    "figure_reference_18": {
+      "type": "figure_reference",
+      "id": "figure_reference_18",
+      "path": [
+        "paragraph_17",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        204,
+        212
+      ]
+    },
+    "annotation_19": {
+      "type": "emphasis",
+      "id": "annotation_19",
+      "path": [
+        "paragraph_17",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        258,
+        272
+      ]
+    },
+    "citation_reference_20": {
+      "type": "citation_reference",
+      "id": "citation_reference_20",
+      "path": [
+        "paragraph_17",
+        "content"
+      ],
+      "target": "article_citation_bib9",
+      "range": [
+        274,
+        291
+      ]
+    },
+    "annotation_21": {
+      "type": "emphasis",
+      "id": "annotation_21",
+      "path": [
+        "paragraph_17",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        294,
+        304
+      ]
+    },
+    "citation_reference_22": {
+      "type": "citation_reference",
+      "id": "citation_reference_22",
+      "path": [
+        "paragraph_17",
+        "content"
+      ],
+      "target": "article_citation_bib4",
+      "range": [
+        306,
+        327
+      ]
+    },
+    "citation_reference_23": {
+      "type": "citation_reference",
+      "id": "citation_reference_23",
+      "path": [
+        "paragraph_17",
+        "content"
+      ],
+      "target": "article_citation_bib3",
+      "range": [
+        329,
+        349
+      ]
+    },
+    "citation_reference_24": {
+      "type": "citation_reference",
+      "id": "citation_reference_24",
+      "path": [
+        "paragraph_17",
+        "content"
+      ],
+      "target": "article_citation_bib1",
+      "range": [
+        362,
+        383
+      ]
+    },
+    "citation_reference_25": {
+      "type": "citation_reference",
+      "id": "citation_reference_25",
+      "path": [
+        "paragraph_17",
+        "content"
+      ],
+      "target": "article_citation_bib4",
+      "range": [
+        726,
+        747
+      ]
+    },
+    "citation_reference_26": {
+      "type": "citation_reference",
+      "id": "citation_reference_26",
+      "path": [
+        "paragraph_17",
+        "content"
+      ],
+      "target": "article_citation_bib2",
+      "range": [
+        812,
+        836
+      ]
+    },
+    "image_fig1": {
+      "type": "image",
+      "id": "image_fig1",
+      "label": "Figure 1.",
+      "url": "",
+      "object_id": "F1",
+      "title": "",
+      "content_type": "",
+      "large_url": "",
+      "content": "",
+      "group": [
+        "parent",
+        null
+      ],
+      "doi": "",
+      "caption": "paragraph_image_fig1",
+      "graphic_id": "elife00571f001"
+    },
+    "paragraph_image_fig1": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig1",
+      "content": "Embryos undergo multiple rounds of rapid division during the early stages of development of many animals. As the cells become progressively smaller, the spindles inside them also decrease in size. Reproduced from Wilson (1897)."
+    },
+    "citation_reference_27": {
+      "type": "citation_reference",
+      "id": "citation_reference_27",
+      "path": [
+        "paragraph_image_fig1",
+        "content"
+      ],
+      "target": "article_citation_bib7",
+      "range": [
+        213,
+        226
+      ]
+    },
+    "paragraph_28": {
+      "type": "paragraph",
+      "id": "paragraph_28",
+      "content": "To appreciate how fiendishly difficult this problem is, it is important to realize that the standard usage of two of the mainstays of modern cell biology research, namely inferring causation by 1) detecting co-occurrence of a protein and a phenotype and 2) perturbing the activity of a protein and examining the effect on a phenotype—cannot be used to rigorously establish the mechanisms controlling differences in spindle size. An extreme example illustrates this point: spindles are primarily composed of microtubules, which are in turn composed of the protein tubulin. Thus larger spindles contain more tubulin (co-occurrence) and depleting tubulin will reduce spindle size (perturbation), but this does not mean that changes in tubulin are responsible for changes in spindle size during development. Rather, these results suggest only that changes in tubulin could affect spindle size, not that they actually do so."
+    },
+    "annotation_29": {
+      "type": "emphasis",
+      "id": "annotation_29",
+      "path": [
+        "paragraph_28",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        863,
+        868
+      ]
+    },
+    "paragraph_30": {
+      "type": "paragraph",
+      "id": "paragraph_30",
+      "content": "Wilbur and Heald overcome these difficulties through a powerful and conceptually straightforward approach: they prepare extracts from embryos at different developmental stages and assemble spindles in these extracts. They find that spindles in the extracts are the same size as the spindles in the embryos the extracts were made from, even though the extracts lack cell boundaries. This proves that changes in the size of the spindle are caused by changes in the state of the cytoplasm and are not directly controlled by cell size (at least in this system). This leads us naturally to the next question: how do changes in the cytoplasm produce changes in spindle size? To address this issue, Wilbur and Heald first characterize the behaviors of microtubules grown off of centrosomes—structures that nucleate microtubules—in the extracts. They observe that microtubule polymerization is similar in the different extracts, but that microtubules switch to a depolymerizing state, or ‘catastrophy’, at a higher rate in later stage extracts. It has been argued that modifying microtubule catastrophy rates can change spindle length (Ohi et al., 2007; Loughlin et al., 2010), presumably by altering the lengths of microtubules, suggesting that the decrease in spindle length during early development might be caused by the increase in catastrophy rate. However, differences in microtubule lengths cannot be the whole story because spindles from early stage extracts are not just longer; they are also wider and appear denser, suggesting that they contain far more microtubules than late stage spindles."
+    },
+    "citation_reference_31": {
+      "type": "citation_reference",
+      "id": "citation_reference_31",
+      "path": [
+        "paragraph_30",
+        "content"
+      ],
+      "target": "article_citation_bib6",
+      "range": [
+        1128,
+        1144
+      ]
+    },
+    "citation_reference_32": {
+      "type": "citation_reference",
+      "id": "citation_reference_32",
+      "path": [
+        "paragraph_30",
+        "content"
+      ],
+      "target": "article_citation_bib5",
+      "range": [
+        1146,
+        1167
+      ]
+    },
+    "paragraph_33": {
+      "type": "paragraph",
+      "id": "paragraph_33",
+      "content": "Next, Wilbur and Heald use a candidate approach to attempt to discover which cytoplasmic factors are responsible for the differing rates of microtubule catastrophies in the different extracts. They identify one protein known to increase microtubule catastrophies, namely the kinesin-13, kif2a, as being enriched on spindles in late stage extracts, and use perturbation experiments to argue that kif2a contributes to the differences in spindle size. However, the concentration of kif2a is the same in early and late stage extracts, which means that if kif2a is causing differences in the extracts, this must be because its activity is being regulated differently. Wilbur and Heald provide evidence that this regulation could be performed by importin α, which inhibits kif2a. They argue that over successive cell divisions importin α becomes increasingly sequestered in membranes, causing the cytoplasmic concentration of free importin α to decrease. This leads to an increase in kif2a activity, and thus an increase in microtubule catastrophy rates. This is a clever suggestion, as it offers a possible mechanism by which cell biochemistry could indirectly readout changes in cell size, since smaller cells have a greater surface to volume ratio than larger cells. However, it is not clear why importin α would bind to membranes only after they have been deposited to form cell boundaries, and not earlier when they are in cytoplasmic stores."
+    },
+    "paragraph_34": {
+      "type": "paragraph",
+      "id": "paragraph_34",
+      "content": "Demonstrating that the changes in spindle size during early development are driven by the changing biochemistry of the cytoplasm is a landmark finding that pushes the field forward and allows new, more precise questions to be formulated. One issue that will be important to resolve is the extent to which these changes are multifactorial. Are the differences in spindle structure primarily caused by one or two keys factors, or are large numbers of factors involved, each contributing a little, perhaps in opposing directions? Wilbur and Heald's study provides a hint that the situation may be complicated: they found that spindles from early stage extracts are enriched for the kinesin-13, MCAK. This suggests that MCAK may be more active in early developmental stages—a change that goes the ‘wrong’ way, as MCAK is known to increase catastrophy rates, whereas microtubules in the early stage extracts have a decreased rate of catastrophies. In any case, more work remains in the young and challenging area of studying how cell biology differs in different cells."
+    },
+    "annotation_35": {
+      "type": "emphasis",
+      "id": "annotation_35",
+      "path": [
+        "paragraph_34",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        941,
+        942
+      ]
+    },
+    "annotation_36": {
+      "type": "strong",
+      "id": "annotation_36",
+      "path": [
+        "paragraph_34",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        941,
+        942
+      ]
+    },
+    "info:competing-interest": {
+      "type": "heading",
+      "id": "info:competing-interest",
+      "level": 2,
+      "content": "Competing Interests",
+      "nodes": [
+        "paragraph_37"
+      ]
+    },
+    "paragraph_37": {
+      "type": "paragraph",
+      "id": "paragraph_37",
+      "content": "Competing interests:The author declares that no competing interests existReferences"
+    },
+    "article_citation_bib1": {
+      "type": "article_citation",
+      "id": "article_citation_bib1",
+      "authors": [
+        {
+          "given-names": "A",
+          "last-name": "Courtois"
+        },
+        {
+          "given-names": "M",
+          "last-name": "Schuh"
+        },
+        {
+          "given-names": "J",
+          "last-name": "Ellenberg"
+        },
+        {
+          "given-names": "T",
+          "last-name": "Hiiragi"
+        }
+      ],
+      "title": "The transition from meiotic to mitotic spindle assembly is gradual during early mammalian development",
+      "year": "2012",
+      "volume": "198",
+      "source": "J Cell Biol",
+      "issue": "",
+      "fpage": "357",
+      "lpage": "70",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1083/jcb.201202135",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib2": {
+      "type": "article_citation",
+      "id": "article_citation_bib2",
+      "authors": [
+        {
+          "given-names": "NW",
+          "last-name": "Goehring"
+        },
+        {
+          "given-names": "AA",
+          "last-name": "Hyman"
+        }
+      ],
+      "title": "Organelle growth control through limiting pools of cytoplasmic components",
+      "year": "2012",
+      "volume": "22",
+      "source": "Curr Biol",
+      "issue": "",
+      "fpage": "R330",
+      "lpage": "9",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/j.cub.2012.03.046",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib3": {
+      "type": "article_citation",
+      "id": "article_citation_bib3",
+      "authors": [
+        {
+          "given-names": "G",
+          "last-name": "Greenan"
+        },
+        {
+          "given-names": "CP",
+          "last-name": "Brangwynne"
+        },
+        {
+          "given-names": "S",
+          "last-name": "Jaensch"
+        },
+        {
+          "given-names": "J",
+          "last-name": "Gharakhani"
+        },
+        {
+          "given-names": "F",
+          "last-name": "Julicher"
+        },
+        {
+          "given-names": "AA",
+          "last-name": "Hyman"
+        }
+      ],
+      "title": "Centrosome size sets mitotic spindle length in Caenorhabditis elegans embryos",
+      "year": "2010",
+      "volume": "20",
+      "source": "Curr Biol",
+      "issue": "",
+      "fpage": "353",
+      "lpage": "8",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/j.cub.2009.12.050",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib4": {
+      "type": "article_citation",
+      "id": "article_citation_bib4",
+      "authors": [
+        {
+          "given-names": "Y",
+          "last-name": "Hara"
+        },
+        {
+          "given-names": "A",
+          "last-name": "Kimura"
+        }
+      ],
+      "title": "Cell-size-dependent spindle elongation in the Caenorhabditis elegans early embryo",
+      "year": "2009",
+      "volume": "19",
+      "source": "Curr Biol",
+      "issue": "",
+      "fpage": "1549",
+      "lpage": "54",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/j.cub.2009.07.050",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib5": {
+      "type": "article_citation",
+      "id": "article_citation_bib5",
+      "authors": [
+        {
+          "given-names": "R",
+          "last-name": "Loughlin"
+        },
+        {
+          "given-names": "R",
+          "last-name": "Heald"
+        },
+        {
+          "given-names": "F",
+          "last-name": "Nedelec"
+        }
+      ],
+      "title": "A computational model predicts Xenopus meiotic spindle organization",
+      "year": "2010",
+      "volume": "191",
+      "source": "J Cell Biol",
+      "issue": "",
+      "fpage": "1239",
+      "lpage": "49",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1083/jcb.201006076",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib6": {
+      "type": "article_citation",
+      "id": "article_citation_bib6",
+      "authors": [
+        {
+          "given-names": "R",
+          "last-name": "Ohi"
+        },
+        {
+          "given-names": "K",
+          "last-name": "Burbank"
+        },
+        {
+          "given-names": "Q",
+          "last-name": "Liu"
+        },
+        {
+          "given-names": "TJ",
+          "last-name": "Mitchison"
+        }
+      ],
+      "title": "Nonredundant functions of Kinesin-13s during meiotic spindle assembly",
+      "year": "2007",
+      "volume": "17",
+      "source": "Curr Biol",
+      "issue": "",
+      "fpage": "953",
+      "lpage": "9",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/j.cub.2007.04.057",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib7": {
+      "type": "article_citation",
+      "id": "article_citation_bib7",
+      "authors": [
+        {
+          "given-names": "EB",
+          "last-name": "Wilson"
+        }
+      ],
+      "title": "The cell in development and inheritance",
+      "year": "1897",
+      "volume": "",
+      "source": "",
+      "issue": "",
+      "fpage": "",
+      "lpage": "",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "Norwood Press",
+      "publisher-loc": "Norwood",
+      "doi": "",
+      "citation_url": [],
+      "format": "book",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib8": {
+      "type": "article_citation",
+      "id": "article_citation_bib8",
+      "authors": [
+        {
+          "given-names": "JD",
+          "last-name": "Wilbur"
+        },
+        {
+          "given-names": "R",
+          "last-name": "Heald"
+        }
+      ],
+      "title": "Mitotic spindle scaling during Xenopus development by kif2a and importin α",
+      "year": "2013",
+      "volume": "2",
+      "source": "eLife",
+      "issue": "",
+      "fpage": "e00290",
+      "lpage": "",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.7554/elife.00290",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "annotation_38": {
+      "type": "emphasis",
+      "id": "annotation_38",
+      "path": [
+        "article_citation_bib8",
+        "title"
+      ],
+      "target": null,
+      "range": [
+        31,
+        38
+      ]
+    },
+    "article_citation_bib9": {
+      "type": "article_citation",
+      "id": "article_citation_bib9",
+      "authors": [
+        {
+          "given-names": "M",
+          "last-name": "Wuhr"
+        },
+        {
+          "given-names": "Y",
+          "last-name": "Chen"
+        },
+        {
+          "given-names": "S",
+          "last-name": "Dumont"
+        },
+        {
+          "given-names": "AC",
+          "last-name": "Groen"
+        },
+        {
+          "given-names": "DJ",
+          "last-name": "Needleman"
+        },
+        {
+          "given-names": "A",
+          "last-name": "Salic"
+        }
+      ],
+      "title": "Evidence for an upper limit to mitotic spindle length",
+      "year": "2008",
+      "volume": "18",
+      "source": "Curr Biol",
+      "issue": "",
+      "fpage": "1256",
+      "lpage": "61",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/j.cub.2008.07.092",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    }
+  }
+}

@@ -1,0 +1,1204 @@
+{
+  "id": "01029",
+  "nodes": {
+    "content": {
+      "type": "view",
+      "id": "content",
+      "nodes": [
+        "abstract",
+        "paragraph_3",
+        "paragraph_9",
+        "paragraph_11",
+        "paragraph_12",
+        "paragraph_17",
+        "paragraph_20",
+        "paragraph_34",
+        "paragraph_36",
+        "paragraph_40",
+        "paragraph_42",
+        "paragraph_49",
+        "paragraph_50",
+        "paragraph_51"
+      ]
+    },
+    "figures": {
+      "type": "view",
+      "id": "figures",
+      "nodes": [
+        "box_4",
+        "image_fig1"
+      ]
+    },
+    "citations": {
+      "type": "view",
+      "id": "citations",
+      "nodes": [
+        "article_citation_bib1",
+        "article_citation_bib2",
+        "article_citation_bib3",
+        "article_citation_bib4",
+        "article_citation_bib5",
+        "article_citation_bib6",
+        "article_citation_bib7",
+        "article_citation_bib8",
+        "article_citation_bib9",
+        "article_citation_bib10",
+        "article_citation_bib11"
+      ]
+    },
+    "document": {
+      "type": "document",
+      "id": "document",
+      "views": [
+        "content",
+        "figures",
+        "citations"
+      ],
+      "guid": "01029",
+      "title": "Getting to grips with ammonium",
+      "authors": [
+        "person_author_6058",
+        "person_author_4792"
+      ],
+      "received_on": "",
+      "accepted_on": "",
+      "published_on": "2013-07-02",
+      "journal": "elife",
+      "article_type": "",
+      "keywords": [
+        "transport",
+        "transport proteins",
+        "biosensor",
+        "ammonium",
+        "GFP",
+        "fluorescent probes"
+      ],
+      "research_organisms": [
+        "Arabidopsis"
+      ],
+      "subjects": [
+        "Plant biology"
+      ],
+      "pdf_link": "",
+      "xml_link": "",
+      "json_link": "",
+      "doi": ""
+    },
+    "person_author_6058": {
+      "type": "person",
+      "id": "person_author_6058",
+      "given-names": "Yi",
+      "last-name": "Wang",
+      "role": "author",
+      "affiliations": [],
+      "image": "",
+      "contribution": "",
+      "email": "",
+      "funding": []
+    },
+    "person_author_4792": {
+      "type": "person",
+      "id": "person_author_4792",
+      "given-names": "Jonathan A",
+      "last-name": "Javitch",
+      "role": "author",
+      "affiliations": [],
+      "image": "",
+      "contribution": "",
+      "email": "",
+      "funding": []
+    },
+    "institution_aff1": {
+      "type": "institution",
+      "id": "institution_aff1",
+      "name": "New York State Psychiatric Institute",
+      "city": "New York",
+      "country": "United States",
+      "email": "yw2483@columbia.edu",
+      "image": ""
+    },
+    "institution_aff2": {
+      "type": "institution",
+      "id": "institution_aff2",
+      "name": "New York State Psychiatric Institute",
+      "city": "New York",
+      "country": "United States",
+      "email": "javitch@nyspi.columbia.edu",
+      "image": ""
+    },
+    "info:copyright": {
+      "type": "heading",
+      "id": "info:copyright",
+      "level": 2,
+      "content": "Copyright",
+      "nodes": [
+        "paragraph_1"
+      ]
+    },
+    "paragraph_1": {
+      "type": "paragraph",
+      "id": "paragraph_1",
+      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "annotation_2": {
+      "type": "link",
+      "id": "annotation_2",
+      "path": [
+        "paragraph_1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        51,
+        87
+      ],
+      "url": "http://creativecommons.org/licenses/by/3.0/"
+    },
+    "abstract": {
+      "type": "heading",
+      "id": "abstract",
+      "level": 1,
+      "content": "Abstract",
+      "nodes": []
+    },
+    "paragraph_3": {
+      "type": "paragraph",
+      "id": "paragraph_3",
+      "content": "A fluorescent sensor that can monitor levels of extracellular ammonium has been made by using a fused green fluorescent protein to detect conformational changes in ammonium transport proteins."
+    },
+    "box_4": {
+      "type": "box",
+      "id": "box_4",
+      "label": "",
+      "url": "",
+      "title": "",
+      "caption": "",
+      "content": "Related research article De Michele R, Ast C, Loqué D, Ho C-H, Andrade SLA, Lauquar V, Grossmann G, Gehne S, Kumke MU, Frommer WB. 2013. Fluorescent sensors reporting the activity of ammonium transceptors in live cells. eLife 2:e00800. doi: 10.7554/eLife.00800",
+      "doi": ""
+    },
+    "annotation_5": {
+      "type": "strong",
+      "id": "annotation_5",
+      "path": [
+        "box_4",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        24
+      ]
+    },
+    "annotation_6": {
+      "type": "emphasis",
+      "id": "annotation_6",
+      "path": [
+        "box_4",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        220,
+        225
+      ]
+    },
+    "annotation_7": {
+      "type": "strong",
+      "id": "annotation_7",
+      "path": [
+        "box_4",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        226,
+        227
+      ]
+    },
+    "annotation_8": {
+      "type": "link",
+      "id": "annotation_8",
+      "path": [
+        "box_4",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        241,
+        260
+      ],
+      "url": "http://dx.doi.org/10.7554/eLife.00800"
+    },
+    "paragraph_9": {
+      "type": "paragraph",
+      "id": "paragraph_9",
+      "content": "Image A biosensor for extracellular ammonium made by inserting a modified green fluorescent protein (bottom) into an ammonium transport protein (top)"
+    },
+    "annotation_10": {
+      "type": "strong",
+      "id": "annotation_10",
+      "path": [
+        "paragraph_9",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        5
+      ]
+    },
+    "paragraph_11": {
+      "type": "paragraph",
+      "id": "paragraph_11",
+      "content": ""
+    },
+    "paragraph_12": {
+      "type": "paragraph",
+      "id": "paragraph_12",
+      "content": "All organisms require nitrogen for their survival. However, high levels of nitrogen can be toxic to cells, so its uptake must be tightly controlled, although the mechanisms responsible for controlling nitrogen levels in cells are poorly understood (von Wirén and Merrick, 2004). In nature, nitrogen is frequently found in inaccessible forms that require conversion before use by the cell. Ammonia (NH3) and ammonium (NH4+) are major sources of nitrogen in bacteria, fungi and plants; both are readily metabolized, but the latter is much more prevalent at cellular pH."
+    },
+    "citation_reference_13": {
+      "type": "citation_reference",
+      "id": "citation_reference_13",
+      "path": [
+        "paragraph_12",
+        "content"
+      ],
+      "target": "article_citation_bib10",
+      "range": [
+        249,
+        276
+      ]
+    },
+    "annotation_14": {
+      "type": "subscript",
+      "id": "annotation_14",
+      "path": [
+        "paragraph_12",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        400,
+        401
+      ]
+    },
+    "annotation_15": {
+      "type": "subscript",
+      "id": "annotation_15",
+      "path": [
+        "paragraph_12",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        419,
+        420
+      ]
+    },
+    "annotation_16": {
+      "type": "superscript",
+      "id": "annotation_16",
+      "path": [
+        "paragraph_12",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        420,
+        421
+      ]
+    },
+    "paragraph_17": {
+      "type": "paragraph",
+      "id": "paragraph_17",
+      "content": "Ammonium can enter cells with the help of specific transport proteins or via a number of channels through which other ions and/or water molecules can also pass. However, existing experimental techniques have not been able to determine the relative contributions made by transport proteins and channels to the uptake of ammonium by plant cells. Moreover, these techniques have lacked the spatial and temporal resolution to study the workings of ammonium transport proteins in living cells. Now, in eLife, Wolf Frommer of the Carnegie Institution for Science and co-workers—including Roberto De Michele as first author—have developed a fluorescent biosensor to study ammonium transport proteins in vivo using fluorescence microscopy (De Michele et al., 2013)."
+    },
+    "annotation_18": {
+      "type": "emphasis",
+      "id": "annotation_18",
+      "path": [
+        "paragraph_17",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        497,
+        502
+      ]
+    },
+    "citation_reference_19": {
+      "type": "citation_reference",
+      "id": "citation_reference_19",
+      "path": [
+        "paragraph_17",
+        "content"
+      ],
+      "target": "article_citation_bib4",
+      "range": [
+        732,
+        755
+      ]
+    },
+    "paragraph_20": {
+      "type": "paragraph",
+      "id": "paragraph_20",
+      "content": "The ammonium transport proteins found in plants belong to a superfamily of such proteins that is conserved in bacteria, plants and animals. In general these proteins contain 11 or 12 transmembrane helices, which can be divided into two halves. As is the case with many transport proteins, these halves are structurally similar but organized with pseudo-twofold symmetry as an inverted repeat (Forrest, 2013; Shi, 2013; Figure 1). High-resolution atomic structures have been obtained for two ammonium transport proteins—AmtB, which is found in bacteria (Khademi et al., 2004), and AMT-1, which is found in Archaea (Andrade et al., 2005)—and these structures indicate that the ammonium is transported along a pathway that lies between the two halves of the protein. Several residues situated in the fifth and sixth helices, and the highly mobile cytosolic loop that connects these two helices, are predicted to be involved in the recognition and transport of the ammonium (Andrade et al., 2005), but the details of the transport mechanism and its regulation are not fully understood."
+    },
+    "citation_reference_21": {
+      "type": "citation_reference",
+      "id": "citation_reference_21",
+      "path": [
+        "paragraph_20",
+        "content"
+      ],
+      "target": "article_citation_bib5",
+      "range": [
+        393,
+        406
+      ]
+    },
+    "citation_reference_22": {
+      "type": "citation_reference",
+      "id": "citation_reference_22",
+      "path": [
+        "paragraph_20",
+        "content"
+      ],
+      "target": "article_citation_bib9",
+      "range": [
+        408,
+        417
+      ]
+    },
+    "figure_reference_23": {
+      "type": "figure_reference",
+      "id": "figure_reference_23",
+      "path": [
+        "paragraph_20",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        419,
+        427
+      ]
+    },
+    "citation_reference_24": {
+      "type": "citation_reference",
+      "id": "citation_reference_24",
+      "path": [
+        "paragraph_20",
+        "content"
+      ],
+      "target": "article_citation_bib7",
+      "range": [
+        553,
+        573
+      ]
+    },
+    "citation_reference_25": {
+      "type": "citation_reference",
+      "id": "citation_reference_25",
+      "path": [
+        "paragraph_20",
+        "content"
+      ],
+      "target": "article_citation_bib2",
+      "range": [
+        614,
+        634
+      ]
+    },
+    "citation_reference_26": {
+      "type": "citation_reference",
+      "id": "citation_reference_26",
+      "path": [
+        "paragraph_20",
+        "content"
+      ],
+      "target": "article_citation_bib2",
+      "range": [
+        971,
+        991
+      ]
+    },
+    "image_fig1": {
+      "type": "image",
+      "id": "image_fig1",
+      "label": "Figure 1.",
+      "url": "",
+      "object_id": "F1",
+      "title": "Structures of transport and channel proteins.",
+      "content_type": "",
+      "large_url": "",
+      "content": "",
+      "group": [
+        "parent",
+        null
+      ],
+      "doi": "",
+      "caption": "paragraph_image_fig1",
+      "graphic_id": "elife01029f001"
+    },
+    "paragraph_image_fig1": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig1",
+      "content": "(A) Representation of the ammonium transport protein studied by Frommer and co-workers (De Michele et al., 2013). This protein, which contains 11 transmembrane helices, transports ammonium into the cell (red arrow). De Michele et al. inserted a variant of green fluorescent protein (cpGFP; green) into the cytosolic loop between helix V (shown in pink) and helix VI (blue) to create a fluorescent sensor that reports the binding of ammonium to the protein and/or the transport of ammonium through the internal pore. (B) Representative transport and channel proteins that share an internal pseudo-twofold symmetry. LacY (left; Abramson et al., 2003) and AmtB (centre; Khademi et al., 2004) are transport proteins; human aquaporin 5 (right; Horsefield et al., 2008) is a channel protein. All three are shown as ribbon diagrams viewed from the cytoplasmic side: light pink indicates the N-terminal half and light blue indicates the C-terminal half; the yellow ribbon in AmtB is not part of either half. In each protein, the substrate (lactose, ammonium or water) is thought to be translocated through the interface between the two halves (marked by red stars). AmtB and AQP5 can assemble in the plasma membrane into compact trimers and tetramers respectively (grey). Figure prepared by Yi Wang based on images from the Protein Data Bank: www.rcsb.org/pdb/home/home.do."
+    },
+    "annotation_27": {
+      "type": "strong",
+      "id": "annotation_27",
+      "path": [
+        "paragraph_image_fig1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1,
+        2
+      ]
+    },
+    "citation_reference_28": {
+      "type": "citation_reference",
+      "id": "citation_reference_28",
+      "path": [
+        "paragraph_image_fig1",
+        "content"
+      ],
+      "target": "article_citation_bib4",
+      "range": [
+        88,
+        111
+      ]
+    },
+    "annotation_29": {
+      "type": "strong",
+      "id": "annotation_29",
+      "path": [
+        "paragraph_image_fig1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        517,
+        518
+      ]
+    },
+    "citation_reference_30": {
+      "type": "citation_reference",
+      "id": "citation_reference_30",
+      "path": [
+        "paragraph_image_fig1",
+        "content"
+      ],
+      "target": "article_citation_bib1",
+      "range": [
+        626,
+        647
+      ]
+    },
+    "citation_reference_31": {
+      "type": "citation_reference",
+      "id": "citation_reference_31",
+      "path": [
+        "paragraph_image_fig1",
+        "content"
+      ],
+      "target": "article_citation_bib7",
+      "range": [
+        667,
+        687
+      ]
+    },
+    "citation_reference_32": {
+      "type": "citation_reference",
+      "id": "citation_reference_32",
+      "path": [
+        "paragraph_image_fig1",
+        "content"
+      ],
+      "target": "article_citation_bib6",
+      "range": [
+        739,
+        762
+      ]
+    },
+    "annotation_33": {
+      "type": "link",
+      "id": "annotation_33",
+      "path": [
+        "paragraph_image_fig1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1335,
+        1364
+      ],
+      "url": "http://www.rcsb.org/pdb/home/home.do"
+    },
+    "paragraph_34": {
+      "type": "paragraph",
+      "id": "paragraph_34",
+      "content": "Frommer and co-workers—who are based at labs in Germany, Italy and the US—built a fluorescent sensor for ammonium binding/transport by introducing modified green fluorescent protein (GFP) into AMT1;3, an ammonium transport protein found in the plant model organism Arabidopsis. GFP and its derivatives generate fluorescence when they are excited by light of the appropriate wavelength, so if they are fused to a protein, they can act as markers, with the fluorescence indicating the location of the protein. The part of the GFP that emits the fluorescence is called a chromophore."
+    },
+    "annotation_35": {
+      "type": "emphasis",
+      "id": "annotation_35",
+      "path": [
+        "paragraph_34",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        265,
+        276
+      ]
+    },
+    "paragraph_36": {
+      "type": "paragraph",
+      "id": "paragraph_36",
+      "content": "De Michele et al. used a variant of GFP in which the protein sequence is rearranged to make the chromophore more sensitive to the conformation of the protein to which it is attached. When this variant, which is called ‘circularly permutated’ GFP (cpGFP), is fused to a protein at a suitable site, the chromophore can report on conformational changes by increasing or decreasing the level of its fluorescence (Baird et al., 1999; Nagai et al., 2001). They also created two other ammonium sensors: one was based on another transport protein found in Arabidopsis, and the other was based on an ammonium transport protein called MEP that is found in yeast. The fact that other sensors could be produced using the same strategy suggests that this approach may be generally applicable."
+    },
+    "citation_reference_37": {
+      "type": "citation_reference",
+      "id": "citation_reference_37",
+      "path": [
+        "paragraph_36",
+        "content"
+      ],
+      "target": "article_citation_bib3",
+      "range": [
+        409,
+        427
+      ]
+    },
+    "citation_reference_38": {
+      "type": "citation_reference",
+      "id": "citation_reference_38",
+      "path": [
+        "paragraph_36",
+        "content"
+      ],
+      "target": "article_citation_bib8",
+      "range": [
+        429,
+        447
+      ]
+    },
+    "annotation_39": {
+      "type": "emphasis",
+      "id": "annotation_39",
+      "path": [
+        "paragraph_36",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        548,
+        559
+      ]
+    },
+    "paragraph_40": {
+      "type": "paragraph",
+      "id": "paragraph_40",
+      "content": "To develop a biosensor, De Michele et al. introduced cpGFP into several cytosolic regions of AMT1;3. To assess ammonium transport ability, they knocked out the endogenous MEPs in a strain of yeast and then introduced the AMT1;3-cpGFP fusions. Ammonium was still translocated when cpGFP was inserted into the cytosolic loop between the fifth and sixth helices (see Figure 1), but not when it was inserted into other regions. However, the addition of ammonium did not alter the fluorescence. The researchers carried out intensive optimization of the linker sequences just preceding and following the cpGFP, and this enabled them to finally produce a sensor that was able to report changes in the levels of extracellular ammonium in living cells via substantial changes in the intensity of its fluorescence."
+    },
+    "figure_reference_41": {
+      "type": "figure_reference",
+      "id": "figure_reference_41",
+      "path": [
+        "paragraph_40",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        364,
+        372
+      ]
+    },
+    "paragraph_42": {
+      "type": "paragraph",
+      "id": "paragraph_42",
+      "content": "De Michele et al. expressed this construct, which they call AmTrac, in oocytes from Xenopus (a type of frog) in order to test its ability to report ammonium binding and translocation. They found that the changes in the fluorescence intensity resulting from different levels of extracellular ammonium, as measured by the AmTrac sensor, correlated with levels of ammonium transport determined from measurements of substrate currents. In addition, the affinity constant of AmTrac for NH4Cl determined in this way is almost the same as that measured in Arabidopsis roots expressing wildtype AMT1;3 (Yuan et al., 2007), suggesting that AmTrac maintains its functional properties. Furthermore, the fluorescence intensity responses of AmTrac showed the expected preference for NH4+ over other cations."
+    },
+    "annotation_43": {
+      "type": "emphasis",
+      "id": "annotation_43",
+      "path": [
+        "paragraph_42",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        84,
+        91
+      ]
+    },
+    "annotation_44": {
+      "type": "subscript",
+      "id": "annotation_44",
+      "path": [
+        "paragraph_42",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        483,
+        484
+      ]
+    },
+    "annotation_45": {
+      "type": "emphasis",
+      "id": "annotation_45",
+      "path": [
+        "paragraph_42",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        549,
+        560
+      ]
+    },
+    "citation_reference_46": {
+      "type": "citation_reference",
+      "id": "citation_reference_46",
+      "path": [
+        "paragraph_42",
+        "content"
+      ],
+      "target": "article_citation_bib11",
+      "range": [
+        595,
+        612
+      ]
+    },
+    "annotation_47": {
+      "type": "subscript",
+      "id": "annotation_47",
+      "path": [
+        "paragraph_42",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        772,
+        773
+      ]
+    },
+    "annotation_48": {
+      "type": "superscript",
+      "id": "annotation_48",
+      "path": [
+        "paragraph_42",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        773,
+        774
+      ]
+    },
+    "paragraph_49": {
+      "type": "paragraph",
+      "id": "paragraph_49",
+      "content": "De Michele et al. moved back to yeast to confirm the strict link between ammonium binding/transport and the level of fluorescence. They reasoned that AmTrac could be reporting ammonium uptake in two ways. First, AmTrac might respond to extracellular ammonium binding or transport that occurs during normal ammonium translocation: this response would involve a conformational change that leads to a change in the level of fluorescence. Alternatively, fluorescence might result from sensing increased cytosolic ammonium not necessarily imported through AmTrac itself."
+    },
+    "paragraph_50": {
+      "type": "paragraph",
+      "id": "paragraph_50",
+      "content": "To test these possibilities, they introduced single-point mutations into AmTrac to inactivate its transport properties without disrupting its localization at the cell membrane, and then expressed these mutant forms in wildtype yeast and also in a strain lacking endogenous MEPs. No changes in the fluorescence intensity were seen in either strain, which rules out the possibility that cytosolic ammonium imported by endogenous MEPs or other transport proteins was responsible for the changes in fluorescence seen in the other experiments. They then introduced further mutations in order to identify a ‘gain of function’ mutation that could restore the ability to bind and transport ammonium, and found that the ammonium-induced changes in the fluorescence intensity were also restored by these mutations. Together these results suggest that fluorescence intensity changes in AmTrac specifically correspond with a conformational change that is associated with the binding or transport of extracellular ammonium."
+    },
+    "paragraph_51": {
+      "type": "paragraph",
+      "id": "paragraph_51",
+      "content": "A remaining challenge is to discriminate between the changes in fluorescence intensity triggered by the binding of ammonium and those triggered by its transport, and thus to understand just what is sensed by this biosensor. The fluorescence might be independently or jointly influenced by a variety of factors: ammonium binding; discrete steps (or subsets of steps) during transport; or the full transport cycle. Still, for many years the technology to study plant transport proteins has been restricted to electrophysiological methods and in vitro uptake assays that cannot capture their activity or regulation in living cells. Now, empowered by these novel fluorescent activity sensors, it will be possible to study how these transport proteins function in vivo."
+    },
+    "info:competing-interest": {
+      "type": "heading",
+      "id": "info:competing-interest",
+      "level": 2,
+      "content": "Competing Interests",
+      "nodes": [
+        "paragraph_52"
+      ]
+    },
+    "paragraph_52": {
+      "type": "paragraph",
+      "id": "paragraph_52",
+      "content": "Competing interests:The authors declare that no competing interests exist.References"
+    },
+    "article_citation_bib1": {
+      "type": "article_citation",
+      "id": "article_citation_bib1",
+      "authors": [
+        {
+          "given-names": "J",
+          "last-name": "Abramson"
+        },
+        {
+          "given-names": "I",
+          "last-name": "Smirnova"
+        },
+        {
+          "given-names": "V",
+          "last-name": "Kasho"
+        },
+        {
+          "given-names": "G",
+          "last-name": "Verner"
+        },
+        {
+          "given-names": "HR",
+          "last-name": "Kaback"
+        },
+        {
+          "given-names": "S",
+          "last-name": "Iwata"
+        }
+      ],
+      "title": "Structure and mechanism of the lactose permease of Escherichia coli",
+      "year": "2003",
+      "volume": "301",
+      "source": "Science",
+      "issue": "",
+      "fpage": "610",
+      "lpage": "5",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1126/science.1088196",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "annotation_53": {
+      "type": "emphasis",
+      "id": "annotation_53",
+      "path": [
+        "article_citation_bib1",
+        "title"
+      ],
+      "target": null,
+      "range": [
+        51,
+        67
+      ]
+    },
+    "article_citation_bib2": {
+      "type": "article_citation",
+      "id": "article_citation_bib2",
+      "authors": [
+        {
+          "given-names": "SL",
+          "last-name": "Andrade"
+        },
+        {
+          "given-names": "A",
+          "last-name": "Dickmanns"
+        },
+        {
+          "given-names": "R",
+          "last-name": "Ficner"
+        },
+        {
+          "given-names": "O",
+          "last-name": "Einsle"
+        }
+      ],
+      "title": "Crystal structure of the archaeal ammonium transporter Amt-1 from Archaeoglobus fulgidus",
+      "year": "2005",
+      "volume": "102",
+      "source": "Proc Natl Acad Sci USA",
+      "issue": "",
+      "fpage": "14994",
+      "lpage": "9",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1073/pnas.0506254102",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "annotation_54": {
+      "type": "emphasis",
+      "id": "annotation_54",
+      "path": [
+        "article_citation_bib2",
+        "title"
+      ],
+      "target": null,
+      "range": [
+        66,
+        88
+      ]
+    },
+    "article_citation_bib3": {
+      "type": "article_citation",
+      "id": "article_citation_bib3",
+      "authors": [
+        {
+          "given-names": "GS",
+          "last-name": "Baird"
+        },
+        {
+          "given-names": "DA",
+          "last-name": "Zacharias"
+        },
+        {
+          "given-names": "RY",
+          "last-name": "Tsien"
+        }
+      ],
+      "title": "Circular permutation and receptor insertion within green fluorescent proteins",
+      "year": "1999",
+      "volume": "96",
+      "source": "Proc Natl Acad Sci USA",
+      "issue": "",
+      "fpage": "11241",
+      "lpage": "6",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1073/pnas.96.20.11241",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib4": {
+      "type": "article_citation",
+      "id": "article_citation_bib4",
+      "authors": [
+        {
+          "given-names": "R",
+          "last-name": "De Michele"
+        },
+        {
+          "given-names": "C",
+          "last-name": "Ast"
+        },
+        {
+          "given-names": "D",
+          "last-name": "Loqué"
+        },
+        {
+          "given-names": "CH",
+          "last-name": "Ho"
+        },
+        {
+          "given-names": "SLA",
+          "last-name": "Andrade"
+        },
+        {
+          "given-names": "V",
+          "last-name": "Lauquar"
+        }
+      ],
+      "title": "Fluorescent sensors reporting the activity of ammonium transceptors in live cells",
+      "year": "2013",
+      "volume": "2",
+      "source": "eLife",
+      "issue": "",
+      "fpage": "e00800",
+      "lpage": "",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.7554/eLife.00800",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib5": {
+      "type": "article_citation",
+      "id": "article_citation_bib5",
+      "authors": [
+        {
+          "given-names": "LR",
+          "last-name": "Forrest"
+        }
+      ],
+      "title": "(Pseudo-)symmetrical transport",
+      "year": "2013",
+      "volume": "339",
+      "source": "Science",
+      "issue": "",
+      "fpage": "399",
+      "lpage": "401",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1126/science.1228465",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib6": {
+      "type": "article_citation",
+      "id": "article_citation_bib6",
+      "authors": [
+        {
+          "given-names": "R",
+          "last-name": "Horsefield"
+        },
+        {
+          "given-names": "K",
+          "last-name": "Nordén"
+        },
+        {
+          "given-names": "M",
+          "last-name": "Fellert"
+        },
+        {
+          "given-names": "A",
+          "last-name": "Backmark"
+        },
+        {
+          "given-names": "S",
+          "last-name": "Törnroth-Horsefield"
+        },
+        {
+          "given-names": "AC",
+          "last-name": "Terwisscha van Scheltinga"
+        }
+      ],
+      "title": "High-resolution x-ray structure of human aquaporin 5",
+      "year": "2008",
+      "volume": "105",
+      "source": "Proc Natl Acad Sci USA",
+      "issue": "",
+      "fpage": "13327",
+      "lpage": "32",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1073/pnas.0801466105",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib7": {
+      "type": "article_citation",
+      "id": "article_citation_bib7",
+      "authors": [
+        {
+          "given-names": "S",
+          "last-name": "Khademi"
+        },
+        {
+          "given-names": "III",
+          "last-name": "O'Connell"
+        },
+        {
+          "given-names": "J",
+          "last-name": "Remis"
+        },
+        {
+          "given-names": "Y",
+          "last-name": "Robles-Colmenares"
+        },
+        {
+          "given-names": "LJ",
+          "last-name": "Miercke"
+        },
+        {
+          "given-names": "RM",
+          "last-name": "Stroud"
+        }
+      ],
+      "title": "Mechanism of ammonia transport by Amt/MEP/Rh: structure of AmtB at 1.35 Å",
+      "year": "2004",
+      "volume": "305",
+      "source": "Science",
+      "issue": "",
+      "fpage": "1587",
+      "lpage": "94",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1126/science.1101952",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib8": {
+      "type": "article_citation",
+      "id": "article_citation_bib8",
+      "authors": [
+        {
+          "given-names": "T",
+          "last-name": "Nagai"
+        },
+        {
+          "given-names": "A",
+          "last-name": "Sawano"
+        },
+        {
+          "given-names": "ES",
+          "last-name": "Park"
+        },
+        {
+          "given-names": "A",
+          "last-name": "Miyawaki"
+        }
+      ],
+      "title": "Circularly permuted green 594 fluorescent proteins engineered to sense Ca2+",
+      "year": "2001",
+      "volume": "98",
+      "source": "Proc Natl Acad Sci USA",
+      "issue": "",
+      "fpage": "3197",
+      "lpage": "202",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1073/pnas.051636098",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib9": {
+      "type": "article_citation",
+      "id": "article_citation_bib9",
+      "authors": [
+        {
+          "given-names": "Y",
+          "last-name": "Shi"
+        }
+      ],
+      "title": "Common folds and transport mechanisms of secondary active transporters",
+      "year": "2013",
+      "volume": "42",
+      "source": "Annu Rev Biophys",
+      "issue": "",
+      "fpage": "51",
+      "lpage": "72",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1146/annurev-biophys-083012-130429",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib10": {
+      "type": "article_citation",
+      "id": "article_citation_bib10",
+      "authors": [
+        {
+          "given-names": "N",
+          "last-name": "von Wirén"
+        },
+        {
+          "given-names": "M",
+          "last-name": "Merrick"
+        }
+      ],
+      "title": "Regulation and function of ammonium carriers in bacteria, fungi, and plants",
+      "year": "2004",
+      "volume": "",
+      "source": "Molecular mechanisms controlling transmembrane transport",
+      "issue": "",
+      "fpage": "95",
+      "lpage": "120",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "Springer",
+      "publisher-loc": "Berlin",
+      "doi": "",
+      "citation_url": [],
+      "format": "book",
+      "label": "",
+      "editors": [
+        {
+          "given-names": "E",
+          "last-name": "Boles"
+        },
+        {
+          "given-names": "R",
+          "last-name": "Krämer"
+        }
+      ]
+    },
+    "article_citation_bib11": {
+      "type": "article_citation",
+      "id": "article_citation_bib11",
+      "authors": [
+        {
+          "given-names": "L",
+          "last-name": "Yuan"
+        },
+        {
+          "given-names": "D",
+          "last-name": "Loqué"
+        },
+        {
+          "given-names": "S",
+          "last-name": "Kojima"
+        },
+        {
+          "given-names": "S",
+          "last-name": "Rauch"
+        },
+        {
+          "given-names": "K",
+          "last-name": "Ishiyama"
+        },
+        {
+          "given-names": "E",
+          "last-name": "Inoue"
+        }
+      ],
+      "title": "The organization of high-affinity ammonium uptake in Arabidopsis roots depends on the spatial arrangement and biochemical properties of AMT1-type transporters",
+      "year": "2007",
+      "volume": "19",
+      "source": "Plant Cell",
+      "issue": "",
+      "fpage": "2636",
+      "lpage": "52",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1105/tpc.107.052134",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "annotation_55": {
+      "type": "emphasis",
+      "id": "annotation_55",
+      "path": [
+        "article_citation_bib11",
+        "title"
+      ],
+      "target": null,
+      "range": [
+        53,
+        64
+      ]
+    }
+  }
+}

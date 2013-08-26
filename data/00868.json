@@ -1,0 +1,6459 @@
+{
+  "id": "00868",
+  "nodes": {
+    "content": {
+      "type": "view",
+      "id": "content",
+      "nodes": [
+        "abstract",
+        "paragraph_5",
+        "paragraph_9",
+        "heading_12",
+        "paragraph_13",
+        "paragraph_14",
+        "paragraph_16",
+        "paragraph_17",
+        "paragraph_18",
+        "paragraph_19",
+        "paragraph_20",
+        "heading_s1",
+        "paragraph_25",
+        "paragraph_39",
+        "heading_s2",
+        "heading_s2-1",
+        "paragraph_48",
+        "heading_s2-2",
+        "paragraph_76",
+        "heading_s2-3",
+        "paragraph_138",
+        "heading_s2-4",
+        "paragraph_163",
+        "heading_s2-5",
+        "paragraph_196",
+        "heading_s3",
+        "paragraph_235",
+        "paragraph_246",
+        "paragraph_255",
+        "heading_s4",
+        "heading_s4-1",
+        "paragraph_291",
+        "heading_s4-2",
+        "paragraph_299",
+        "paragraph_304",
+        "heading_s4-3",
+        "paragraph_306",
+        "heading_s4-4",
+        "paragraph_308",
+        "heading_s4-5",
+        "paragraph_312",
+        "heading_s4-6",
+        "paragraph_323",
+        "heading_s4-7",
+        "paragraph_340",
+        "heading_s4-8",
+        "paragraph_355",
+        "sub-article",
+        "sub-article"
+      ]
+    },
+    "figures": {
+      "type": "view",
+      "id": "figures",
+      "nodes": [
+        "image_fig1",
+        "image_fig1s1",
+        "image_fig2",
+        "image_fig2s1",
+        "video_video1",
+        "image_fig3",
+        "image_fig3s1",
+        "video_video4",
+        "image_fig4",
+        "image_fig4s1",
+        "image_fig4s2",
+        "video_video5",
+        "image_fig5",
+        "image_fig5s1",
+        "image_fig6",
+        "image_fig6s1",
+        "image_fig6s2",
+        "supplement_SD1_data"
+      ]
+    },
+    "citations": {
+      "type": "view",
+      "id": "citations",
+      "nodes": [
+        "article_citation_bib2",
+        "article_citation_bib3",
+        "article_citation_bib4",
+        "article_citation_bib5",
+        "article_citation_bib6",
+        "article_citation_bib7",
+        "article_citation_bib8",
+        "article_citation_bib9",
+        "article_citation_bib10",
+        "article_citation_bib10a",
+        "article_citation_bib11",
+        "article_citation_bib12",
+        "article_citation_bib12a",
+        "article_citation_bib13",
+        "article_citation_bib14",
+        "article_citation_bib15",
+        "article_citation_bib16",
+        "article_citation_bib17",
+        "article_citation_bib18",
+        "article_citation_bib19",
+        "article_citation_bib20",
+        "article_citation_bib21",
+        "article_citation_bib22",
+        "article_citation_bib23",
+        "article_citation_bib24",
+        "article_citation_bib25",
+        "article_citation_bib26",
+        "article_citation_bib27"
+      ]
+    },
+    "document": {
+      "type": "document",
+      "id": "document",
+      "views": [
+        "content",
+        "figures",
+        "citations"
+      ],
+      "guid": "00868",
+      "title": "Direct live imaging of cell–cell protein transfer by transient outer membrane fusion in Myxococcus xanthus",
+      "authors": [
+        "person_author_5170",
+        "person_author_5171",
+        "person_author_5172",
+        "person_author_5082"
+      ],
+      "received_on": "2013-04-23",
+      "accepted_on": "2013-06-19",
+      "published_on": "2013-07-23",
+      "journal": "elife",
+      "article_type": "",
+      "keywords": [
+        "Myxococcus xanthus",
+        "lipid tubes",
+        "gliding"
+      ],
+      "research_organisms": [
+        "Other"
+      ],
+      "subjects": [
+        "Cell biology",
+        "Microbiology and infectious disease"
+      ],
+      "pdf_link": "",
+      "xml_link": "",
+      "json_link": "",
+      "doi": ""
+    },
+    "annotation_1": {
+      "type": "emphasis",
+      "id": "annotation_1",
+      "path": [
+        "document",
+        "title"
+      ],
+      "target": null,
+      "range": [
+        88,
+        106
+      ]
+    },
+    "person_author_5170": {
+      "type": "person",
+      "id": "person_author_5170",
+      "given-names": "Adrien",
+      "last-name": "Ducret",
+      "role": "author",
+      "affiliations": [],
+      "image": "",
+      "contribution": " Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article",
+      "email": "",
+      "funding": []
+    },
+    "person_author_5171": {
+      "type": "person",
+      "id": "person_author_5171",
+      "given-names": "Betty",
+      "last-name": "Fleuchot",
+      "role": "author",
+      "affiliations": [],
+      "image": "",
+      "contribution": " Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article",
+      "email": "",
+      "funding": []
+    },
+    "person_author_5172": {
+      "type": "person",
+      "id": "person_author_5172",
+      "given-names": "Ptissam",
+      "last-name": "Bergam",
+      "role": "author",
+      "affiliations": [],
+      "image": "",
+      "contribution": " Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article",
+      "email": "",
+      "funding": []
+    },
+    "person_author_5082": {
+      "type": "person",
+      "id": "person_author_5082",
+      "given-names": "Tâm",
+      "last-name": "Mignot",
+      "role": "author",
+      "affiliations": [],
+      "image": "",
+      "contribution": " Acquisition of data, Analysis and interpretation of data",
+      "email": "email_cor1",
+      "funding": [
+        "funding_par_1",
+        "funding_par_2"
+      ]
+    },
+    "institution_aff1": {
+      "type": "institution",
+      "id": "institution_aff1",
+      "name": "Aix Marseille University-CNRS UMR7283",
+      "city": "Marseille",
+      "country": "France",
+      "email": "",
+      "image": ""
+    },
+    "institution_aff2": {
+      "type": "institution",
+      "id": "institution_aff2",
+      "name": "Institut de Microbiologie de la Méditerranée",
+      "city": "Marseille",
+      "country": "France",
+      "email": "",
+      "image": ""
+    },
+    "person_2": {
+      "type": "person",
+      "id": "person_2",
+      "given-names": "Peter",
+      "last-name": "Greenberg",
+      "role": "editor",
+      "affiliations": [],
+      "image": "",
+      "contribution": "",
+      "email": "",
+      "funding": []
+    },
+    "info:review": {
+      "type": "heading",
+      "id": "info:review",
+      "level": 2,
+      "content": "Reviewing Editor",
+      "nodes": [
+        "person_2"
+      ]
+    },
+    "email_cor1": {
+      "type": "email",
+      "id": "email_cor1",
+      "node": "",
+      "email": "tmignot@imm.cnrs.fr"
+    },
+    "info:copyright": {
+      "type": "heading",
+      "id": "info:copyright",
+      "level": 2,
+      "content": "Copyright",
+      "nodes": [
+        "paragraph_3"
+      ]
+    },
+    "paragraph_3": {
+      "type": "paragraph",
+      "id": "paragraph_3",
+      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited.10.7554/eLife.00868.001"
+    },
+    "annotation_4": {
+      "type": "link",
+      "id": "annotation_4",
+      "path": [
+        "paragraph_3",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        51,
+        87
+      ],
+      "url": "http://creativecommons.org/licenses/by/3.0/"
+    },
+    "abstract": {
+      "type": "heading",
+      "id": "abstract",
+      "level": 1,
+      "content": "Abstract",
+      "nodes": []
+    },
+    "paragraph_5": {
+      "type": "paragraph",
+      "id": "paragraph_5",
+      "content": "In bacteria, multicellular behaviors are regulated by cell–cell signaling through the exchange of both diffusible and contact-dependent signals. In a multicellular context, Myxococcus cells can share outer membrane (OM) materials by an unknown mechanism involving the traAB genes and gliding motility. Using live imaging, we show for the first time that transient contacts between two cells are sufficient to transfer OM materials, proteins and lipids, at high efficiency. Transfer was associated with the formation of dynamic OM tubes, strongly suggesting that transfer results from the local fusion of the OMs of two transferring cells. Last, large amounts of OM materials were released in slime trails deposited by gliding cells. Since cells tend to follow trails laid by other cells, slime-driven OM material exchange may be an important stigmergic regulation of Myxococcus social behaviors."
+    },
+    "annotation_6": {
+      "type": "emphasis",
+      "id": "annotation_6",
+      "path": [
+        "paragraph_5",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        173,
+        183
+      ]
+    },
+    "annotation_7": {
+      "type": "emphasis",
+      "id": "annotation_7",
+      "path": [
+        "paragraph_5",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        268,
+        273
+      ]
+    },
+    "annotation_8": {
+      "type": "emphasis",
+      "id": "annotation_8",
+      "path": [
+        "paragraph_5",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        867,
+        877
+      ]
+    },
+    "paragraph_9": {
+      "type": "paragraph",
+      "id": "paragraph_9",
+      "content": "DOI: http://dx.doi.org/10.7554/eLife.00868.00110.7554/eLife.00868.002"
+    },
+    "annotation_10": {
+      "type": "strong",
+      "id": "annotation_10",
+      "path": [
+        "paragraph_9",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        4
+      ]
+    },
+    "annotation_11": {
+      "type": "link",
+      "id": "annotation_11",
+      "path": [
+        "paragraph_9",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        5,
+        46
+      ],
+      "url": "10.7554/eLife.00868.001"
+    },
+    "heading_12": {
+      "type": "heading",
+      "id": "heading_12",
+      "level": 0,
+      "content": "eLife digest",
+      "nodes": []
+    },
+    "paragraph_13": {
+      "type": "paragraph",
+      "id": "paragraph_13",
+      "content": "Bacteria studied in the laboratory are, in general, readily amenable to culture, and they easily form colonies when grown on agar plates. In the wild, however, many bacteria exhibit a range of more complex behaviors, including the growth of super-organisms that contain many cells."
+    },
+    "paragraph_14": {
+      "type": "paragraph",
+      "id": "paragraph_14",
+      "content": "The bacterium Myxococcus xanthus can exist either as single cells or as a super-organism. Each cell has an inner and outer plasma membrane separated by a periplasmic space. Previous work has found that individual cells communicate with each other by exchanging the contents of their outer membranes, and that these swaps can govern multicellular behavior."
+    },
+    "annotation_15": {
+      "type": "emphasis",
+      "id": "annotation_15",
+      "path": [
+        "paragraph_14",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        14,
+        32
+      ]
+    },
+    "paragraph_16": {
+      "type": "paragraph",
+      "id": "paragraph_16",
+      "content": "Membrane exchange is known to depend on both donor and recipient cells having the proteins TraA and TraB. TraA proteins are similar to the adhesion factors that hold cells together, and they are found in many species: this suggests that TraA therefore might help the outer membranes of cells to fuse so that they can swap materials. The role of TraB is not known at present."
+    },
+    "paragraph_17": {
+      "type": "paragraph",
+      "id": "paragraph_17",
+      "content": "To investigate membrane exchange more closely, Ducret et al. measured the transfer of fluorescent proteins from the periplasm and the inner and outer membranes of the donor cell to the recipient cell, as well as the transfer of fluorescent lipids from the donor’s outer membrane. Both proteins and lipids from the outer membrane were transferred rapidly (within minutes); although a small amount of protein transfer from the periplasmic space was observed after 36 hr, there was no transfer from the inner membrane. As in previous studies, exchange depended on the presence of TraA."
+    },
+    "paragraph_18": {
+      "type": "paragraph",
+      "id": "paragraph_18",
+      "content": "Ducret et al. observed that contact between two cells was sufficient to stimulate transfer of proteins and lipids from the outer membrane. But not all contacts led to a transfer. Importantly, when cells that had swapped fluorescent membrane components moved apart, they appeared to remain connected by tubular structures, suggesting that an inter-membrane junction must form to allow proteins and lipids to be transferred between the cells. This junction is referred to as an outer-membrane synapse."
+    },
+    "paragraph_19": {
+      "type": "paragraph",
+      "id": "paragraph_19",
+      "content": "Ducret et al. also noted another phenomenon: cells shed pieces of membrane as they moved across surfaces or separated after outer membrane exchange. This suggests that both synapse formation after direct cell-to-cell contact and the shedding of membrane components can help to propagate bacterial signals, enabling population-wide behavioral changes, including the formation or collapse of super-organisms."
+    },
+    "paragraph_20": {
+      "type": "paragraph",
+      "id": "paragraph_20",
+      "content": "DOI: http://dx.doi.org/10.7554/eLife.00868.002"
+    },
+    "annotation_21": {
+      "type": "strong",
+      "id": "annotation_21",
+      "path": [
+        "paragraph_20",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        4
+      ]
+    },
+    "annotation_22": {
+      "type": "link",
+      "id": "annotation_22",
+      "path": [
+        "paragraph_20",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        5,
+        46
+      ],
+      "url": "10.7554/eLife.00868.002"
+    },
+    "funding_par_1": {
+      "type": "funding",
+      "id": "funding_par_1",
+      "institution": "HFSP young investigator grant",
+      "accession": "RGY0075/2008",
+      "person": "person_author_5082",
+      "given-names": "Tâm",
+      "last-name": "Mignot"
+    },
+    "funding_par_2": {
+      "type": "funding",
+      "id": "funding_par_2",
+      "institution": "ERC starting grant",
+      "accession": "DOME 261105",
+      "person": "person_author_5082",
+      "given-names": "Tâm",
+      "last-name": "Mignot"
+    },
+    "info:impact": {
+      "type": "heading",
+      "id": "info:impact",
+      "level": 2,
+      "content": "ImpactAuthor impact statementPhysical contact between two Myxococcus xanthus cells is sufficient to fuse their outer membrane transiently and exchange outer membrane proteins and lipids at high efficiency.",
+      "nodes": [
+        "paragraph_23"
+      ]
+    },
+    "paragraph_23": {
+      "type": "paragraph",
+      "id": "paragraph_23",
+      "content": ""
+    },
+    "annotation_24": {
+      "type": "emphasis",
+      "id": "annotation_24",
+      "path": [
+        "info:impact",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        58,
+        76
+      ]
+    },
+    "heading_s1": {
+      "type": "heading",
+      "id": "heading_s1",
+      "level": 1,
+      "content": "Introduction",
+      "nodes": []
+    },
+    "paragraph_25": {
+      "type": "paragraph",
+      "id": "paragraph_25",
+      "content": "Myxococcus xanthus, a gram negative deltaproteobacterium, displays complex multicellular behaviors in response to environmental cues such as the presence of prey bacteria or starvation (Zhang et al., 2012). In particular, starvation triggers a developmental program where thousands of cells coordinate their motility, moving into aggregation centers to build multicellular fruiting bodies where the cells form metabolically-inert spores. This multicellular response requires an arsenal of intercellular signals, including diffusible long-range signals as well as contact-dependent signals (Konovalova et al., 2010; Mauriello et al., 2009). One intriguing cell–cell communication mechanism involves the cell-to-cell transfer of outer membrane (OM) proteins between Myxococcus cells. This phenomenon was originally unmasked by mixing experiments where certain motility mutants were shown to rescue other motility mutants in a process called stimulation (Nudleman et al., 2005). Stimulatable mutants all carried mutations in genes encoding predicted OM proteins (termed cgl or tgl). Experiments with the Tgl and the CglB OM lipoproteins suggested that stimulation is transient and does not involve the exchange of genetic material, but results from the physical transfer of Tgl/Cgl proteins from donor Tgl+/Cgl+ cells to recipient Tgl−/Cgl− cells (Nudleman et al., 2005)."
+    },
+    "annotation_26": {
+      "type": "emphasis",
+      "id": "annotation_26",
+      "path": [
+        "paragraph_25",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        18
+      ]
+    },
+    "citation_reference_27": {
+      "type": "citation_reference",
+      "id": "citation_reference_27",
+      "path": [
+        "paragraph_25",
+        "content"
+      ],
+      "target": "article_citation_bib27",
+      "range": [
+        186,
+        204
+      ]
+    },
+    "citation_reference_28": {
+      "type": "citation_reference",
+      "id": "citation_reference_28",
+      "path": [
+        "paragraph_25",
+        "content"
+      ],
+      "target": "article_citation_bib10a",
+      "range": [
+        590,
+        613
+      ]
+    },
+    "citation_reference_29": {
+      "type": "citation_reference",
+      "id": "citation_reference_29",
+      "path": [
+        "paragraph_25",
+        "content"
+      ],
+      "target": "article_citation_bib12a",
+      "range": [
+        615,
+        637
+      ]
+    },
+    "annotation_30": {
+      "type": "emphasis",
+      "id": "annotation_30",
+      "path": [
+        "paragraph_25",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        764,
+        774
+      ]
+    },
+    "citation_reference_31": {
+      "type": "citation_reference",
+      "id": "citation_reference_31",
+      "path": [
+        "paragraph_25",
+        "content"
+      ],
+      "target": "article_citation_bib16",
+      "range": [
+        952,
+        973
+      ]
+    },
+    "annotation_32": {
+      "type": "emphasis",
+      "id": "annotation_32",
+      "path": [
+        "paragraph_25",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1067,
+        1070
+      ]
+    },
+    "annotation_33": {
+      "type": "emphasis",
+      "id": "annotation_33",
+      "path": [
+        "paragraph_25",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1074,
+        1077
+      ]
+    },
+    "annotation_34": {
+      "type": "superscript",
+      "id": "annotation_34",
+      "path": [
+        "paragraph_25",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1302,
+        1303
+      ]
+    },
+    "annotation_35": {
+      "type": "superscript",
+      "id": "annotation_35",
+      "path": [
+        "paragraph_25",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1307,
+        1308
+      ]
+    },
+    "annotation_36": {
+      "type": "superscript",
+      "id": "annotation_36",
+      "path": [
+        "paragraph_25",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1331,
+        1332
+      ]
+    },
+    "annotation_37": {
+      "type": "superscript",
+      "id": "annotation_37",
+      "path": [
+        "paragraph_25",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1336,
+        1337
+      ]
+    },
+    "citation_reference_38": {
+      "type": "citation_reference",
+      "id": "citation_reference_38",
+      "path": [
+        "paragraph_25",
+        "content"
+      ],
+      "target": "article_citation_bib16",
+      "range": [
+        1345,
+        1366
+      ]
+    },
+    "paragraph_39": {
+      "type": "paragraph",
+      "id": "paragraph_39",
+      "content": "Remarkably, OM protein exchange is not restricted to motility proteins and virtually any OM protein and even lipid can be exchanged between cells (Wei et al., 2011; Pathak et al., 2012). Gliding (A−)motility has been shown to be important for transfer, but rather indirectly by promoting the formation of dense regions of aligned cells and favoring intimate cell–cell contacts (Nudleman et al., 2005; Pathak et al., 2012). The transfer process itself depends on two specific proteins, TraA and TraB (Pathak et al., 2012). TraA is a protein with hallmarks of yeast floculins, a class of cell surface adhesins that mediate cell–cell interactions leading to flocculation (Smukalla et al., 2008) and TraB is a secreted protein of unknown function with a possible peptidoglycan-binding domain. TraA and TraB must be expressed both by donor and recipient cells for transfer to occur. Consequently, Wall and colleagues proposed that when adjacent cells engage Tra-dependent surface interactions (i.e., homotypic interactions or interactions with other surface ligands), the OMs fuse locally and OM materials are exchanged (Wei et al., 2011; Pathak et al., 2012). However, because transfer was studied in bulk assays this hypothesis could not be tested directly. Therefore, other mechanisms remained possible, for example long-range exchange of OM vesicles or even local cell lysis. In this study, we investigated the transfer mechanism at the single cell level to gain more insights into the transfer mechanism."
+    },
+    "citation_reference_40": {
+      "type": "citation_reference",
+      "id": "citation_reference_40",
+      "path": [
+        "paragraph_39",
+        "content"
+      ],
+      "target": "article_citation_bib26",
+      "range": [
+        147,
+        163
+      ]
+    },
+    "citation_reference_41": {
+      "type": "citation_reference",
+      "id": "citation_reference_41",
+      "path": [
+        "paragraph_39",
+        "content"
+      ],
+      "target": "article_citation_bib18",
+      "range": [
+        165,
+        184
+      ]
+    },
+    "citation_reference_42": {
+      "type": "citation_reference",
+      "id": "citation_reference_42",
+      "path": [
+        "paragraph_39",
+        "content"
+      ],
+      "target": "article_citation_bib16",
+      "range": [
+        378,
+        399
+      ]
+    },
+    "citation_reference_43": {
+      "type": "citation_reference",
+      "id": "citation_reference_43",
+      "path": [
+        "paragraph_39",
+        "content"
+      ],
+      "target": "article_citation_bib18",
+      "range": [
+        401,
+        420
+      ]
+    },
+    "citation_reference_44": {
+      "type": "citation_reference",
+      "id": "citation_reference_44",
+      "path": [
+        "paragraph_39",
+        "content"
+      ],
+      "target": "article_citation_bib18",
+      "range": [
+        500,
+        519
+      ]
+    },
+    "citation_reference_45": {
+      "type": "citation_reference",
+      "id": "citation_reference_45",
+      "path": [
+        "paragraph_39",
+        "content"
+      ],
+      "target": "article_citation_bib23",
+      "range": [
+        669,
+        690
+      ]
+    },
+    "citation_reference_46": {
+      "type": "citation_reference",
+      "id": "citation_reference_46",
+      "path": [
+        "paragraph_39",
+        "content"
+      ],
+      "target": "article_citation_bib26",
+      "range": [
+        1116,
+        1132
+      ]
+    },
+    "citation_reference_47": {
+      "type": "citation_reference",
+      "id": "citation_reference_47",
+      "path": [
+        "paragraph_39",
+        "content"
+      ],
+      "target": "article_citation_bib18",
+      "range": [
+        1134,
+        1153
+      ]
+    },
+    "heading_s2": {
+      "type": "heading",
+      "id": "heading_s2",
+      "level": 1,
+      "content": "Results",
+      "nodes": []
+    },
+    "heading_s2-1": {
+      "type": "heading",
+      "id": "heading_s2-1",
+      "level": 2,
+      "content": "Transfer is a highly efficient OM-specific process",
+      "nodes": []
+    },
+    "paragraph_48": {
+      "type": "paragraph",
+      "id": "paragraph_48",
+      "content": "In a previous study, Wei et al. (2011) measured the transfer efficiency in agar plate mixing assays (‘Materials and methods’), monitoring the appearance of fluorescent recipient cells over time with mCherry fluorescent probes (OMmCherry and IMmCherry), which when fused to type II or type I signal sequences localize to the OM or the inner membrane (IM), respectively. However, no information was obtained about the increase in fluorescence intensity in the recipient cells. Thus, in a prelude to this study, we repeated the Wei et al. (2011) experiment and further measured fluorescence fluctuations in recipient cells. For completion and to test the transfer of soluble periplasmic proteins, we also constructed a periplasmic probe, fusing mCherry to the Escherichia coli phoA signal sequence (PERImCherry) (‘Materials and methods’ and Figure 1—figure supplement 1). Consistent with previous works and OM specific protein transfer, only OMmCherry was transferred significantly between cells. As observed by Wei et al. (2011), transfer was highly efficient and ∼80% of the total recipient cells were already labeled after 12 hr of co-incubation (Figure 1A). Transfer remained active for the next 36 hr because although the total number of recipient cells became stable after 24 hr, the fluorescence intensity of recipient cells increased regularly until it reached a plateau at 36 hr (Figure 1B). After 36 hr of co-incubation, 20% of the recipient cells displayed a high level of fluorescence, showing that some cells acquire exogenous OM content with very high efficiency (Figure 1C). A low amount of PERImCherry transfer was detected after 48 hr (Figure 1A), suggesting that periplasmic proteins may also be exchanged but with a near background level efficiency. These findings confirm results from previous studies that transfer is a highly efficient OM-specific process."
+    },
+    "citation_reference_49": {
+      "type": "citation_reference",
+      "id": "citation_reference_49",
+      "path": [
+        "paragraph_48",
+        "content"
+      ],
+      "target": "article_citation_bib26",
+      "range": [
+        21,
+        38
+      ]
+    },
+    "annotation_50": {
+      "type": "subscript",
+      "id": "annotation_50",
+      "path": [
+        "paragraph_48",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        229,
+        236
+      ]
+    },
+    "annotation_51": {
+      "type": "subscript",
+      "id": "annotation_51",
+      "path": [
+        "paragraph_48",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        243,
+        250
+      ]
+    },
+    "citation_reference_52": {
+      "type": "citation_reference",
+      "id": "citation_reference_52",
+      "path": [
+        "paragraph_48",
+        "content"
+      ],
+      "target": "article_citation_bib26",
+      "range": [
+        525,
+        542
+      ]
+    },
+    "annotation_53": {
+      "type": "emphasis",
+      "id": "annotation_53",
+      "path": [
+        "paragraph_48",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        757,
+        778
+      ]
+    },
+    "annotation_54": {
+      "type": "subscript",
+      "id": "annotation_54",
+      "path": [
+        "paragraph_48",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        800,
+        807
+      ]
+    },
+    "figure_reference_55": {
+      "type": "figure_reference",
+      "id": "figure_reference_55",
+      "path": [
+        "paragraph_48",
+        "content"
+      ],
+      "target": "image_fig1s1",
+      "range": [
+        838,
+        866
+      ]
+    },
+    "annotation_56": {
+      "type": "subscript",
+      "id": "annotation_56",
+      "path": [
+        "paragraph_48",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        941,
+        948
+      ]
+    },
+    "citation_reference_57": {
+      "type": "citation_reference",
+      "id": "citation_reference_57",
+      "path": [
+        "paragraph_48",
+        "content"
+      ],
+      "target": "article_citation_bib26",
+      "range": [
+        1009,
+        1026
+      ]
+    },
+    "figure_reference_58": {
+      "type": "figure_reference",
+      "id": "figure_reference_58",
+      "path": [
+        "paragraph_48",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        1147,
+        1156
+      ]
+    },
+    "figure_reference_59": {
+      "type": "figure_reference",
+      "id": "figure_reference_59",
+      "path": [
+        "paragraph_48",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        1386,
+        1395
+      ]
+    },
+    "figure_reference_60": {
+      "type": "figure_reference",
+      "id": "figure_reference_60",
+      "path": [
+        "paragraph_48",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        1575,
+        1584
+      ]
+    },
+    "annotation_61": {
+      "type": "subscript",
+      "id": "annotation_61",
+      "path": [
+        "paragraph_48",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1607,
+        1614
+      ]
+    },
+    "figure_reference_62": {
+      "type": "figure_reference",
+      "id": "figure_reference_62",
+      "path": [
+        "paragraph_48",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        1650,
+        1659
+      ]
+    },
+    "image_fig1": {
+      "type": "image",
+      "id": "image_fig1",
+      "label": "Figure 1.",
+      "url": "",
+      "object_id": "F1",
+      "title": "Transfer is a highly efficient OM-specific process.",
+      "content_type": "",
+      "large_url": "",
+      "content": "",
+      "group": [
+        "parent",
+        null
+      ],
+      "doi": "http://dx.doi.org/10.7554/eLife.00868.003",
+      "caption": "paragraph_image_fig1",
+      "graphic_id": "elife00868f001"
+    },
+    "paragraph_image_fig1": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig1",
+      "content": "(A) Percentage of mCherry+ recipient cells as a function of time. For each strain and time point, at least 3000 cells were analyzed in triplicate. Error bars = SD. (B) Fluorescence intensity of mCherry+ recipient cells as a function of time. For each time point, the fluorescence numbers are expressed as a percentage of the mean fluorescence intensity of the donor cells population. For each time point, fluorescence intensities were measured for ∼3000 cells per strain. (C) Distribution of fluorescence intensities measured in the positive recipient cells after 12 hr (green bars) and 36 hr (orange bars) of co-incubation. Note the logarithmic scale log(Fluorescence Intensity). The black arrow highlights the appearance of a highly-stained cell sub-population of mCherry+ cells at 36 hr. For each time point, fluorescence intensities were measured for ∼3000 cells per strain."
+    },
+    "annotation_63": {
+      "type": "strong",
+      "id": "annotation_63",
+      "path": [
+        "paragraph_image_fig1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1,
+        2
+      ]
+    },
+    "annotation_64": {
+      "type": "superscript",
+      "id": "annotation_64",
+      "path": [
+        "paragraph_image_fig1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        25,
+        26
+      ]
+    },
+    "annotation_65": {
+      "type": "strong",
+      "id": "annotation_65",
+      "path": [
+        "paragraph_image_fig1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        165,
+        166
+      ]
+    },
+    "annotation_66": {
+      "type": "superscript",
+      "id": "annotation_66",
+      "path": [
+        "paragraph_image_fig1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        201,
+        202
+      ]
+    },
+    "annotation_67": {
+      "type": "strong",
+      "id": "annotation_67",
+      "path": [
+        "paragraph_image_fig1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        473,
+        474
+      ]
+    },
+    "annotation_68": {
+      "type": "superscript",
+      "id": "annotation_68",
+      "path": [
+        "paragraph_image_fig1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        773,
+        774
+      ]
+    },
+    "image_fig1s1": {
+      "type": "image",
+      "id": "image_fig1s1",
+      "label": "Figure 1—figure supplement 1.",
+      "url": "",
+      "object_id": "F2",
+      "title": "Subcellular localization of indicated fluorescent probes before and after a plasmolysis treatment.",
+      "content_type": "",
+      "large_url": "",
+      "content": "",
+      "group": [
+        "child",
+        "image_fig1"
+      ],
+      "doi": "http://dx.doi.org/10.7554/eLife.00868.004",
+      "caption": "paragraph_image_fig1s1",
+      "graphic_id": "elife00868fs001"
+    },
+    "paragraph_image_fig1s1": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig1s1",
+      "content": "(A and B) Sub-cellular localization of the OMmcherry, OMsfGFP, IMmcherry, PERImcherry fusions before (−) and after (+) plasmolysis treatment (0.5 M NaCl). For each fusion, cells were immobilized in a hybrid flow chamber and imaged before and after injection of the plasmolysis solution. Note that fluorescent cytoplasmic aggregates are observed for the IMmcherry fusion after the plasmolysis treatment (white arrow). Scale bar = 1 µm."
+    },
+    "annotation_69": {
+      "type": "strong",
+      "id": "annotation_69",
+      "path": [
+        "paragraph_image_fig1s1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1,
+        2
+      ]
+    },
+    "annotation_70": {
+      "type": "strong",
+      "id": "annotation_70",
+      "path": [
+        "paragraph_image_fig1s1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        7,
+        8
+      ]
+    },
+    "annotation_71": {
+      "type": "subscript",
+      "id": "annotation_71",
+      "path": [
+        "paragraph_image_fig1s1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        45,
+        52
+      ]
+    },
+    "annotation_72": {
+      "type": "subscript",
+      "id": "annotation_72",
+      "path": [
+        "paragraph_image_fig1s1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        56,
+        61
+      ]
+    },
+    "annotation_73": {
+      "type": "subscript",
+      "id": "annotation_73",
+      "path": [
+        "paragraph_image_fig1s1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        65,
+        72
+      ]
+    },
+    "annotation_74": {
+      "type": "subscript",
+      "id": "annotation_74",
+      "path": [
+        "paragraph_image_fig1s1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        78,
+        85
+      ]
+    },
+    "annotation_75": {
+      "type": "subscript",
+      "id": "annotation_75",
+      "path": [
+        "paragraph_image_fig1s1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        355,
+        362
+      ]
+    },
+    "heading_s2-2": {
+      "type": "heading",
+      "id": "heading_s2-2",
+      "level": 2,
+      "content": "OM transfer can be captured at the single cell level in a live transfer assay",
+      "nodes": []
+    },
+    "paragraph_76": {
+      "type": "paragraph",
+      "id": "paragraph_76",
+      "content": "We next tested whether OM transfer between two cells could be captured at the single cell level. Although most of the recipient cells are stained after 12 hr, the staining is generally weak and both brilliance and the fast-bleaching of mCherry prevented single cell transfer analysis with the OMmCherry probe. Therefore, to maximize our chances to observe a transfer event, we constructed a new probe where super-folder GFP (sfGFP), a fast folding bright variant of GFP (Pédelacq et al., 2006), is fused to the type II signal sequence (OMsfGFP). In a bulk transfer assay, OMsfGFP and OMmCherry were transferred with similar efficiencies, showing that OMsfGFP could be used in a single cell assay (Figure 2—figure supplement 1A). To this aim, Myxococcus donor cells expressing OMsfGFP were mixed with recipient cells expressing IMmCherry, and the emergence of dual color cells was monitored over time by time-lapse fluorescence microscopy. As observed in Figure 2A,B and Figure 2—figure supplement 1D, unlabeled recipient cells became fluorescent when they came in contact with OMsfGFP donor cells (Videos 1,2). Several lines of evidence argue that the observed fluorescence increase results from the physical transfer of OMsfGFP: (i), Fluorescence transfer was very rapid, approximately a third of the total donor fluorescence appeared in the recipient strain after 12 min of contact (Figure 2—figure supplement 1B). (ii), Fluorescence initially appeared at the contact zone and subsequently diffused throughout the cell body (Figure 2B). Additionally, green fluorescence was enhanced at the recipient cell periphery, reflecting a membrane localization (Figure 2—figure supplement 1C). (iii), IMmCherry was not exchanged between the two cells (Figure 2A). (iv), Green fluorescence transfer was not detected in recipient cells that were not in contact with donor cells (Figure 2—figure supplement 1C), or in a negative control experiment, when they were mixed with a traA mutant (Figure 2—figure supplement 1A)."
+    },
+    "annotation_77": {
+      "type": "subscript",
+      "id": "annotation_77",
+      "path": [
+        "paragraph_76",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        295,
+        302
+      ]
+    },
+    "citation_reference_78": {
+      "type": "citation_reference",
+      "id": "citation_reference_78",
+      "path": [
+        "paragraph_76",
+        "content"
+      ],
+      "target": "article_citation_bib19",
+      "range": [
+        471,
+        492
+      ]
+    },
+    "annotation_79": {
+      "type": "subscript",
+      "id": "annotation_79",
+      "path": [
+        "paragraph_76",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        538,
+        543
+      ]
+    },
+    "annotation_80": {
+      "type": "subscript",
+      "id": "annotation_80",
+      "path": [
+        "paragraph_76",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        574,
+        579
+      ]
+    },
+    "annotation_81": {
+      "type": "subscript",
+      "id": "annotation_81",
+      "path": [
+        "paragraph_76",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        586,
+        593
+      ]
+    },
+    "annotation_82": {
+      "type": "subscript",
+      "id": "annotation_82",
+      "path": [
+        "paragraph_76",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        653,
+        658
+      ]
+    },
+    "figure_reference_83": {
+      "type": "figure_reference",
+      "id": "figure_reference_83",
+      "path": [
+        "paragraph_76",
+        "content"
+      ],
+      "target": "image_fig2s1",
+      "range": [
+        697,
+        726
+      ]
+    },
+    "annotation_84": {
+      "type": "emphasis",
+      "id": "annotation_84",
+      "path": [
+        "paragraph_76",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        742,
+        752
+      ]
+    },
+    "annotation_85": {
+      "type": "subscript",
+      "id": "annotation_85",
+      "path": [
+        "paragraph_76",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        778,
+        783
+      ]
+    },
+    "annotation_86": {
+      "type": "subscript",
+      "id": "annotation_86",
+      "path": [
+        "paragraph_76",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        829,
+        837
+      ]
+    },
+    "figure_reference_87": {
+      "type": "figure_reference",
+      "id": "figure_reference_87",
+      "path": [
+        "paragraph_76",
+        "content"
+      ],
+      "target": "image_fig2",
+      "range": [
+        954,
+        965
+      ]
+    },
+    "figure_reference_88": {
+      "type": "figure_reference",
+      "id": "figure_reference_88",
+      "path": [
+        "paragraph_76",
+        "content"
+      ],
+      "target": "image_fig2s1",
+      "range": [
+        970,
+        999
+      ]
+    },
+    "annotation_89": {
+      "type": "subscript",
+      "id": "annotation_89",
+      "path": [
+        "paragraph_76",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1079,
+        1084
+      ]
+    },
+    "figure_reference_90": {
+      "type": "figure_reference",
+      "id": "figure_reference_90",
+      "path": [
+        "paragraph_76",
+        "content"
+      ],
+      "target": "video_video1",
+      "range": [
+        1098,
+        1108
+      ]
+    },
+    "annotation_91": {
+      "type": "subscript",
+      "id": "annotation_91",
+      "path": [
+        "paragraph_76",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1223,
+        1228
+      ]
+    },
+    "figure_reference_92": {
+      "type": "figure_reference",
+      "id": "figure_reference_92",
+      "path": [
+        "paragraph_76",
+        "content"
+      ],
+      "target": "image_fig2s1",
+      "range": [
+        1385,
+        1414
+      ]
+    },
+    "figure_reference_93": {
+      "type": "figure_reference",
+      "id": "figure_reference_93",
+      "path": [
+        "paragraph_76",
+        "content"
+      ],
+      "target": "image_fig2",
+      "range": [
+        1527,
+        1536
+      ]
+    },
+    "figure_reference_94": {
+      "type": "figure_reference",
+      "id": "figure_reference_94",
+      "path": [
+        "paragraph_76",
+        "content"
+      ],
+      "target": "image_fig2s1",
+      "range": [
+        1654,
+        1683
+      ]
+    },
+    "annotation_95": {
+      "type": "subscript",
+      "id": "annotation_95",
+      "path": [
+        "paragraph_76",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1695,
+        1702
+      ]
+    },
+    "figure_reference_96": {
+      "type": "figure_reference",
+      "id": "figure_reference_96",
+      "path": [
+        "paragraph_76",
+        "content"
+      ],
+      "target": "image_fig2",
+      "range": [
+        1744,
+        1753
+      ]
+    },
+    "figure_reference_97": {
+      "type": "figure_reference",
+      "id": "figure_reference_97",
+      "path": [
+        "paragraph_76",
+        "content"
+      ],
+      "target": "image_fig2s1",
+      "range": [
+        1869,
+        1898
+      ]
+    },
+    "annotation_98": {
+      "type": "emphasis",
+      "id": "annotation_98",
+      "path": [
+        "paragraph_76",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1966,
+        1970
+      ]
+    },
+    "figure_reference_99": {
+      "type": "figure_reference",
+      "id": "figure_reference_99",
+      "path": [
+        "paragraph_76",
+        "content"
+      ],
+      "target": "image_fig2s1",
+      "range": [
+        1979,
+        2008
+      ]
+    },
+    "image_fig2": {
+      "type": "image",
+      "id": "image_fig2",
+      "label": "Figure 2.",
+      "url": "",
+      "object_id": "F3",
+      "title": "Cell-contact-dependent transfer of OMsfGFP/DiO between single cells.",
+      "content_type": "",
+      "large_url": "",
+      "content": "",
+      "group": [
+        "parent",
+        null
+      ],
+      "doi": "http://dx.doi.org/10.7554/eLife.00868.005",
+      "caption": "paragraph_image_fig2",
+      "graphic_id": "elife00868f002"
+    },
+    "paragraph_image_fig2": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig2",
+      "content": "(A) sfGFP transfer from a donor OMsfGFP+ (white contour in lower panel) cell to a recipient OMsfGFP− IMmCherry+ cell (orange contour in upper panel). Scale bar=1 µm. (B) Kymographs of green fluorescence intensities in the positive recipient cell (top) and the donor cell (bottom) shown in (A). Note that in the recipient cell, green fluorescence diffuses from one half (t12min to t16min) to the entire cell body. The Y-axis of each kymograph represents the relative position along the cell body, where 0 represents mid-cell and 1 or −1 the cell poles. The −1 pole is the pole closer to the bottom of the frames for each cell shown in panel (A). (C) A DiO+ cell (white cell contour) transfers DiO to two unlabeled cells (orange and green contours). Fluorescence and corresponding phase contrast images are shown. Fluorescence fluctuations are shown in pseudo colors where high fluorescence levels appear yellow-green and low fluorescence levels appear blue. Note that the green cell is not immediately in contact with the DiO+ cell. A cell that comes in contact with the DiO+ cell but does not become labeled is shown by a red contour. Scale bar = 1 µm. (D) Mean DiO fluorescence intensity over time in the donor cell (gray square), the first positive recipient cell (green circle) and the second positive recipient cell (orange circle)."
+    },
+    "annotation_100": {
+      "type": "subscript",
+      "id": "annotation_100",
+      "path": [
+        "image_fig2",
+        "title"
+      ],
+      "target": null,
+      "range": [
+        37,
+        42
+      ]
+    },
+    "annotation_101": {
+      "type": "strong",
+      "id": "annotation_101",
+      "path": [
+        "paragraph_image_fig2",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1,
+        2
+      ]
+    },
+    "annotation_102": {
+      "type": "subscript",
+      "id": "annotation_102",
+      "path": [
+        "paragraph_image_fig2",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        34,
+        39
+      ]
+    },
+    "annotation_103": {
+      "type": "superscript",
+      "id": "annotation_103",
+      "path": [
+        "paragraph_image_fig2",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        39,
+        40
+      ]
+    },
+    "annotation_104": {
+      "type": "subscript",
+      "id": "annotation_104",
+      "path": [
+        "paragraph_image_fig2",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        94,
+        99
+      ]
+    },
+    "annotation_105": {
+      "type": "superscript",
+      "id": "annotation_105",
+      "path": [
+        "paragraph_image_fig2",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        99,
+        100
+      ]
+    },
+    "annotation_106": {
+      "type": "subscript",
+      "id": "annotation_106",
+      "path": [
+        "paragraph_image_fig2",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        103,
+        110
+      ]
+    },
+    "annotation_107": {
+      "type": "superscript",
+      "id": "annotation_107",
+      "path": [
+        "paragraph_image_fig2",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        110,
+        111
+      ]
+    },
+    "annotation_108": {
+      "type": "strong",
+      "id": "annotation_108",
+      "path": [
+        "paragraph_image_fig2",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        167,
+        168
+      ]
+    },
+    "annotation_109": {
+      "type": "strong",
+      "id": "annotation_109",
+      "path": [
+        "paragraph_image_fig2",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        290,
+        291
+      ]
+    },
+    "annotation_110": {
+      "type": "subscript",
+      "id": "annotation_110",
+      "path": [
+        "paragraph_image_fig2",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        371,
+        376
+      ]
+    },
+    "annotation_111": {
+      "type": "subscript",
+      "id": "annotation_111",
+      "path": [
+        "paragraph_image_fig2",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        381,
+        386
+      ]
+    },
+    "annotation_112": {
+      "type": "strong",
+      "id": "annotation_112",
+      "path": [
+        "paragraph_image_fig2",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        641,
+        642
+      ]
+    },
+    "annotation_113": {
+      "type": "strong",
+      "id": "annotation_113",
+      "path": [
+        "paragraph_image_fig2",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        646,
+        647
+      ]
+    },
+    "annotation_114": {
+      "type": "superscript",
+      "id": "annotation_114",
+      "path": [
+        "paragraph_image_fig2",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        654,
+        655
+      ]
+    },
+    "annotation_115": {
+      "type": "superscript",
+      "id": "annotation_115",
+      "path": [
+        "paragraph_image_fig2",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1024,
+        1025
+      ]
+    },
+    "annotation_116": {
+      "type": "superscript",
+      "id": "annotation_116",
+      "path": [
+        "paragraph_image_fig2",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1073,
+        1074
+      ]
+    },
+    "annotation_117": {
+      "type": "strong",
+      "id": "annotation_117",
+      "path": [
+        "paragraph_image_fig2",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1154,
+        1155
+      ]
+    },
+    "image_fig2s1": {
+      "type": "image",
+      "id": "image_fig2s1",
+      "label": "Figure 2—figure supplement 1.",
+      "url": "",
+      "object_id": "F4",
+      "title": "Cell-contact-dependent transfer of OMsfGFP.",
+      "content_type": "",
+      "large_url": "",
+      "content": "",
+      "group": [
+        "child",
+        "image_fig2"
+      ],
+      "doi": "http://dx.doi.org/10.7554/eLife.00868.006",
+      "caption": "paragraph_image_fig2s1",
+      "graphic_id": "elife00868fs002"
+    },
+    "paragraph_image_fig2s1": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig2s1",
+      "content": "(A) OMsfGFP is transferred in a traA dependent-manner. The transfer kinetics of OMmcherry are also shown for comparison. The percentage of fluorescent recipient cells is plotted as a function of time. For each condition and time point, at least 3000 cells were analyzed in triplicate. (B) Mean green fluorescence intensities of distinct cell types over time, donor cell (gray circle), the positive recipient cell (green circle) and a negative and isolated recipient cell (orange circle) observed in Figure 1D. The dashed line represents the time when the donor and recipient cells establish contact. (C) Peripheral membrane staining of the recipient cell shown in Figure 1D (white Arrow). For comparison, the red triangles indicate OMsfGFP− recipient cells (red triangle) showing no significant level of green fluorescence during the time course. The inset shows a trans-section fluorescence scan. The Y-axis represents the fluorescence intensity and the X-axis represents the relative position along the scan represented by the dashed line. (D) OMsfGFP transfer upon transient cell contact between a donor OMsfGFP+ and a recipient IMmCherry+ cell. Note that OMsfGFP transfer is only observed during the second contact between the donor and the recipient cells (white arrow). Scale bar = 1 µm."
+    },
+    "annotation_118": {
+      "type": "strong",
+      "id": "annotation_118",
+      "path": [
+        "paragraph_image_fig2s1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1,
+        2
+      ]
+    },
+    "annotation_119": {
+      "type": "subscript",
+      "id": "annotation_119",
+      "path": [
+        "paragraph_image_fig2s1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        6,
+        11
+      ]
+    },
+    "annotation_120": {
+      "type": "emphasis",
+      "id": "annotation_120",
+      "path": [
+        "paragraph_image_fig2s1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        32,
+        36
+      ]
+    },
+    "annotation_121": {
+      "type": "subscript",
+      "id": "annotation_121",
+      "path": [
+        "paragraph_image_fig2s1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        82,
+        89
+      ]
+    },
+    "annotation_122": {
+      "type": "strong",
+      "id": "annotation_122",
+      "path": [
+        "paragraph_image_fig2s1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        286,
+        287
+      ]
+    },
+    "figure_reference_123": {
+      "type": "figure_reference",
+      "id": "figure_reference_123",
+      "path": [
+        "paragraph_image_fig2s1",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        499,
+        508
+      ]
+    },
+    "annotation_124": {
+      "type": "strong",
+      "id": "annotation_124",
+      "path": [
+        "paragraph_image_fig2s1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        601,
+        602
+      ]
+    },
+    "figure_reference_125": {
+      "type": "figure_reference",
+      "id": "figure_reference_125",
+      "path": [
+        "paragraph_image_fig2s1",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        664,
+        673
+      ]
+    },
+    "annotation_126": {
+      "type": "subscript",
+      "id": "annotation_126",
+      "path": [
+        "paragraph_image_fig2s1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        734,
+        739
+      ]
+    },
+    "annotation_127": {
+      "type": "superscript",
+      "id": "annotation_127",
+      "path": [
+        "paragraph_image_fig2s1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        739,
+        740
+      ]
+    },
+    "annotation_128": {
+      "type": "strong",
+      "id": "annotation_128",
+      "path": [
+        "paragraph_image_fig2s1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1043,
+        1044
+      ]
+    },
+    "annotation_129": {
+      "type": "subscript",
+      "id": "annotation_129",
+      "path": [
+        "paragraph_image_fig2s1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1048,
+        1053
+      ]
+    },
+    "annotation_130": {
+      "type": "subscript",
+      "id": "annotation_130",
+      "path": [
+        "paragraph_image_fig2s1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1109,
+        1114
+      ]
+    },
+    "annotation_131": {
+      "type": "superscript",
+      "id": "annotation_131",
+      "path": [
+        "paragraph_image_fig2s1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1114,
+        1115
+      ]
+    },
+    "annotation_132": {
+      "type": "subscript",
+      "id": "annotation_132",
+      "path": [
+        "paragraph_image_fig2s1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1134,
+        1141
+      ]
+    },
+    "annotation_133": {
+      "type": "superscript",
+      "id": "annotation_133",
+      "path": [
+        "paragraph_image_fig2s1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1141,
+        1142
+      ]
+    },
+    "annotation_134": {
+      "type": "subscript",
+      "id": "annotation_134",
+      "path": [
+        "paragraph_image_fig2s1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1161,
+        1166
+      ]
+    },
+    "video_video1": {
+      "type": "video",
+      "id": "video_video1",
+      "label": "Video 3.",
+      "title": "Live observations of cell–contact dependent transfer of OMsfGFP between single cells.Live observations of cell–contact dependent transfer of OMsfGFP between single cells.Live observations of cell–contact dependent transfer of DiO between single cells.",
+      "caption": "paragraph_video_video1",
+      "content_type": "",
+      "url_ogv": "http://static.movie-usa.glencoesoftware.com/ogv/10.7554/elife00868v003.ogv",
+      "url_jpg": "",
+      "url_mp4": "",
+      "doi": "http://dx.doi.org/10.7554/eLife.00868.007http://dx.doi.org/10.7554/eLife.00868.008http://dx.doi.org/10.7554/eLife.00868.009",
+      "url": "http://static.movie-usa.glencoesoftware.com/mp4/10.7554/elife00868v003.mp4",
+      "poster": "http://static.movie-usa.glencoesoftware.com/jpg/10.7554/elife00868v003.jpg",
+      "graphic_id": "elife00868v003.avi"
+    },
+    "paragraph_video_video1": {
+      "type": "paragraph",
+      "id": "paragraph_video_video1",
+      "content": "Corresponding green fluorescence and red fluorescence are shown. For details see Figure 2. Pictures were taken every 30 s."
+    },
+    "annotation_135": {
+      "type": "subscript",
+      "id": "annotation_135",
+      "path": [
+        "video_video1",
+        "title"
+      ],
+      "target": null,
+      "range": [
+        58,
+        63
+      ]
+    },
+    "figure_reference_136": {
+      "type": "figure_reference",
+      "id": "figure_reference_136",
+      "path": [
+        "paragraph_video_video1",
+        "content"
+      ],
+      "target": "image_fig2",
+      "range": [
+        81,
+        89
+      ]
+    },
+    "annotation_137": {
+      "type": "subscript",
+      "id": "annotation_137",
+      "path": [
+        "video_video1",
+        "title"
+      ],
+      "target": null,
+      "range": [
+        143,
+        148
+      ]
+    },
+    "heading_s2-3": {
+      "type": "heading",
+      "id": "heading_s2-3",
+      "level": 2,
+      "content": "Dynamic OM extensions are formed between cells",
+      "nodes": []
+    },
+    "paragraph_138": {
+      "type": "paragraph",
+      "id": "paragraph_138",
+      "content": "The DiO experiment suggests that transferring cells are connected like communicating vessels, which would be explained by the formation of transfer sites where the lipid bilayers of each OM fuse locally, giving rise to a single continuous OM between connected cells. What is the evidence for such connections? While imaging OMsfGFP expressing cells or DiO stained cells, we frequently observed tubular structures that appeared when two connected cells moved apart (Figure 3A, Video 4). These tubes were exclusively derived from the OM because they were only stained by sfGFP when observed in two-color cells expressing both OMsfGFP and IMmCherry (Figure 3B and Figure 1—figure supplement 1B). The tubes were also observed by Electron Microscopy (EM), appearing as flexible structures characterized by a diameter of 51.4 ± 15 nm (Figure 3C and Figure 3—figure supplement 1A). The structures observed by EM were not type-IV pili because (i), polar pili have a much thinner diameter (Figure 3—figure supplement 1B) and (ii), they were observed in a pilA mutant (Figure 3—figure supplement 1C). Interestingly, numerous tubes and vesicles were also observed in large amounts around the cells (Figure 3C), suggesting that lipid materials are also released by the cells (see below)."
+    },
+    "annotation_139": {
+      "type": "subscript",
+      "id": "annotation_139",
+      "path": [
+        "paragraph_138",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        326,
+        331
+      ]
+    },
+    "figure_reference_140": {
+      "type": "figure_reference",
+      "id": "figure_reference_140",
+      "path": [
+        "paragraph_138",
+        "content"
+      ],
+      "target": "image_fig3",
+      "range": [
+        465,
+        474
+      ]
+    },
+    "figure_reference_141": {
+      "type": "figure_reference",
+      "id": "figure_reference_141",
+      "path": [
+        "paragraph_138",
+        "content"
+      ],
+      "target": "video_video4",
+      "range": [
+        476,
+        483
+      ]
+    },
+    "annotation_142": {
+      "type": "subscript",
+      "id": "annotation_142",
+      "path": [
+        "paragraph_138",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        626,
+        631
+      ]
+    },
+    "annotation_143": {
+      "type": "subscript",
+      "id": "annotation_143",
+      "path": [
+        "paragraph_138",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        638,
+        645
+      ]
+    },
+    "figure_reference_144": {
+      "type": "figure_reference",
+      "id": "figure_reference_144",
+      "path": [
+        "paragraph_138",
+        "content"
+      ],
+      "target": "image_fig3",
+      "range": [
+        647,
+        656
+      ]
+    },
+    "figure_reference_145": {
+      "type": "figure_reference",
+      "id": "figure_reference_145",
+      "path": [
+        "paragraph_138",
+        "content"
+      ],
+      "target": "image_fig1s1",
+      "range": [
+        661,
+        690
+      ]
+    },
+    "figure_reference_146": {
+      "type": "figure_reference",
+      "id": "figure_reference_146",
+      "path": [
+        "paragraph_138",
+        "content"
+      ],
+      "target": "image_fig3",
+      "range": [
+        829,
+        838
+      ]
+    },
+    "figure_reference_147": {
+      "type": "figure_reference",
+      "id": "figure_reference_147",
+      "path": [
+        "paragraph_138",
+        "content"
+      ],
+      "target": "image_fig3s1",
+      "range": [
+        843,
+        872
+      ]
+    },
+    "figure_reference_148": {
+      "type": "figure_reference",
+      "id": "figure_reference_148",
+      "path": [
+        "paragraph_138",
+        "content"
+      ],
+      "target": "image_fig3s1",
+      "range": [
+        981,
+        1010
+      ]
+    },
+    "annotation_149": {
+      "type": "emphasis",
+      "id": "annotation_149",
+      "path": [
+        "paragraph_138",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1046,
+        1050
+      ]
+    },
+    "figure_reference_150": {
+      "type": "figure_reference",
+      "id": "figure_reference_150",
+      "path": [
+        "paragraph_138",
+        "content"
+      ],
+      "target": "image_fig3s1",
+      "range": [
+        1059,
+        1088
+      ]
+    },
+    "figure_reference_151": {
+      "type": "figure_reference",
+      "id": "figure_reference_151",
+      "path": [
+        "paragraph_138",
+        "content"
+      ],
+      "target": "image_fig3",
+      "range": [
+        1188,
+        1197
+      ]
+    },
+    "image_fig3": {
+      "type": "image",
+      "id": "image_fig3",
+      "label": "Figure 3.",
+      "url": "",
+      "object_id": "F5",
+      "title": "Lipid tubes are OM-derived and are observed when cells move apart.",
+      "content_type": "",
+      "large_url": "",
+      "content": "",
+      "group": [
+        "parent",
+        null
+      ],
+      "doi": "http://dx.doi.org/10.7554/eLife.00868.010",
+      "caption": "paragraph_image_fig3",
+      "graphic_id": "elife00868f003"
+    },
+    "paragraph_image_fig3": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig3",
+      "content": "(A) A lipid tubes formed between two cells expressing OMsfGFP. (B) Lipid tubes formed by OMsfGFP IMmCherry-expressing cells (white arrow). Scale bar = 1 µm. (C) TEM images of lipid tubes. Tubes appear as continuous and flexible structures emerging from the cell surface (white arrow). Note the presence of vesicles in close proximity with the cell body (black arrows, left panel) or around the cells (right panel). Scale bar=250 nm."
+    },
+    "annotation_152": {
+      "type": "strong",
+      "id": "annotation_152",
+      "path": [
+        "paragraph_image_fig3",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1,
+        2
+      ]
+    },
+    "annotation_153": {
+      "type": "subscript",
+      "id": "annotation_153",
+      "path": [
+        "paragraph_image_fig3",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        56,
+        61
+      ]
+    },
+    "annotation_154": {
+      "type": "strong",
+      "id": "annotation_154",
+      "path": [
+        "paragraph_image_fig3",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        64,
+        65
+      ]
+    },
+    "annotation_155": {
+      "type": "subscript",
+      "id": "annotation_155",
+      "path": [
+        "paragraph_image_fig3",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        91,
+        96
+      ]
+    },
+    "annotation_156": {
+      "type": "subscript",
+      "id": "annotation_156",
+      "path": [
+        "paragraph_image_fig3",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        99,
+        106
+      ]
+    },
+    "annotation_157": {
+      "type": "strong",
+      "id": "annotation_157",
+      "path": [
+        "paragraph_image_fig3",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        158,
+        159
+      ]
+    },
+    "image_fig3s1": {
+      "type": "image",
+      "id": "image_fig3s1",
+      "label": "Figure 3—figure supplement 1.",
+      "url": "",
+      "object_id": "F6",
+      "title": "The tubular extensions are not Type-IV pili.",
+      "content_type": "",
+      "large_url": "",
+      "content": "",
+      "group": [
+        "child",
+        "image_fig3"
+      ],
+      "doi": "http://dx.doi.org/10.7554/eLife.00868.011",
+      "caption": "paragraph_image_fig3s1",
+      "graphic_id": "elife00868fs003"
+    },
+    "paragraph_image_fig3s1": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig3s1",
+      "content": "(A) Measured diameters of the tubes observed by TEM. The diameters distribution is shown as a boxplot (n=100). (B) Polar Type-IV pili observed in wt cells by Transmission Electron Microscopy. (Scale bar = 100 nm). (C) Tubes formed by a pilA mutant cell observed by TEM is shown for comparison. (Scale bar = 100 nm)."
+    },
+    "annotation_158": {
+      "type": "strong",
+      "id": "annotation_158",
+      "path": [
+        "paragraph_image_fig3s1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1,
+        2
+      ]
+    },
+    "annotation_159": {
+      "type": "strong",
+      "id": "annotation_159",
+      "path": [
+        "paragraph_image_fig3s1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        112,
+        113
+      ]
+    },
+    "annotation_160": {
+      "type": "strong",
+      "id": "annotation_160",
+      "path": [
+        "paragraph_image_fig3s1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        215,
+        216
+      ]
+    },
+    "annotation_161": {
+      "type": "emphasis",
+      "id": "annotation_161",
+      "path": [
+        "paragraph_image_fig3s1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        236,
+        240
+      ]
+    },
+    "video_video4": {
+      "type": "video",
+      "id": "video_video4",
+      "label": "Video 4.",
+      "title": "Formation of OMsfGFP tubes between two cells.",
+      "caption": "paragraph_video_video4",
+      "content_type": "",
+      "url_ogv": "http://static.movie-usa.glencoesoftware.com/ogv/10.7554/elife00868v004.ogv",
+      "url_jpg": "",
+      "url_mp4": "",
+      "doi": "http://dx.doi.org/10.7554/eLife.00868.012",
+      "url": "http://static.movie-usa.glencoesoftware.com/mp4/10.7554/elife00868v004.mp4",
+      "poster": "http://static.movie-usa.glencoesoftware.com/jpg/10.7554/elife00868v004.jpg"
+    },
+    "paragraph_video_video4": {
+      "type": "paragraph",
+      "id": "paragraph_video_video4",
+      "content": "Corresponding phase contrast and green fluorescence are shown. Pictures were taken every 30 s."
+    },
+    "annotation_162": {
+      "type": "subscript",
+      "id": "annotation_162",
+      "path": [
+        "video_video4",
+        "title"
+      ],
+      "target": null,
+      "range": [
+        15,
+        20
+      ]
+    },
+    "heading_s2-4": {
+      "type": "heading",
+      "id": "heading_s2-4",
+      "level": 2,
+      "content": "Tube formation is linked to OM transfer",
+      "nodes": []
+    },
+    "paragraph_163": {
+      "type": "paragraph",
+      "id": "paragraph_163",
+      "content": "Motile transferring cells may fuse their OMs locally, forming an ‘OM synapse’. If such synapses are not resolved when the cells physically separate due to motility, OM tubes would appear because of the tight physical connection. This would predict that tube formation is linked to the transfer mechanism. We first tested whether a tube and the cell OM are continuous. For this, we took advantage of the rapid diffusion of DiO and performed fluorescence recovery after photobleaching (FRAP) experiments targeting a tube connected to a single DiO+ cell. DiO fluorescence showed a quick recovery, implying rapid exchange between the tube and the cell DiO pool (Figure 4A,B). We then aimed to capture tube formation between transferring cells. Since the tubes are relatively short lived, we also used DiO staining for these experiments. In the example shown in Figure 4C and Video 5, DiO is exchanged upon contact between two cells, a tube becomes apparent when the cells move apart, strongly suggesting that tubes are formed between transferring cells. Last, if two cells linked by a tube have continuous OMs, they should exchange DiO, even if they are not immediately in contact. Figure 4D and Video 6, show a DiO-stained tube formed between a brightly fluorescent cell and a weakly fluorescent cell within a larger group of cells. Remarkably, in the cell with weak fluorescence, the level of fluorescence increased steadily as long as the tube connection was maintained, even though the two cells were not in immediate contact (Figure 4E). When the tube was ruptured the fluorescence decreased due to photo-bleaching (Figure 4E). Fluorescence transfer was strictly confined to the tube-connected cells and no fluorescent fluctuations were observed in the other cells of the group (Figure 4C,D). Thus, tubes allow the rapid exchange of DiO and must be continuous between two connected cells."
+    },
+    "annotation_164": {
+      "type": "superscript",
+      "id": "annotation_164",
+      "path": [
+        "paragraph_163",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        544,
+        545
+      ]
+    },
+    "figure_reference_165": {
+      "type": "figure_reference",
+      "id": "figure_reference_165",
+      "path": [
+        "paragraph_163",
+        "content"
+      ],
+      "target": "image_fig4",
+      "range": [
+        658,
+        669
+      ]
+    },
+    "figure_reference_166": {
+      "type": "figure_reference",
+      "id": "figure_reference_166",
+      "path": [
+        "paragraph_163",
+        "content"
+      ],
+      "target": "image_fig4",
+      "range": [
+        857,
+        866
+      ]
+    },
+    "figure_reference_167": {
+      "type": "figure_reference",
+      "id": "figure_reference_167",
+      "path": [
+        "paragraph_163",
+        "content"
+      ],
+      "target": "video_video5",
+      "range": [
+        871,
+        878
+      ]
+    },
+    "figure_reference_168": {
+      "type": "figure_reference",
+      "id": "figure_reference_168",
+      "path": [
+        "paragraph_163",
+        "content"
+      ],
+      "target": "image_fig4",
+      "range": [
+        1178,
+        1187
+      ]
+    },
+    "figure_reference_169": {
+      "type": "figure_reference",
+      "id": "figure_reference_169",
+      "path": [
+        "paragraph_163",
+        "content"
+      ],
+      "target": "video_video6",
+      "range": [
+        1192,
+        1199
+      ]
+    },
+    "figure_reference_170": {
+      "type": "figure_reference",
+      "id": "figure_reference_170",
+      "path": [
+        "paragraph_163",
+        "content"
+      ],
+      "target": "image_fig4",
+      "range": [
+        1527,
+        1536
+      ]
+    },
+    "figure_reference_171": {
+      "type": "figure_reference",
+      "id": "figure_reference_171",
+      "path": [
+        "paragraph_163",
+        "content"
+      ],
+      "target": "image_fig4",
+      "range": [
+        1617,
+        1626
+      ]
+    },
+    "figure_reference_172": {
+      "type": "figure_reference",
+      "id": "figure_reference_172",
+      "path": [
+        "paragraph_163",
+        "content"
+      ],
+      "target": "image_fig4",
+      "range": [
+        1780,
+        1791
+      ]
+    },
+    "image_fig4": {
+      "type": "image",
+      "id": "image_fig4",
+      "label": "Figure 4.",
+      "url": "",
+      "object_id": "F7",
+      "title": "Transfer is driven by transient OM fusion between donor and recipient cells.",
+      "content_type": "",
+      "large_url": "",
+      "content": "",
+      "group": [
+        "parent",
+        null
+      ],
+      "doi": "http://dx.doi.org/10.7554/eLife.00868.013",
+      "caption": "paragraph_image_fig4",
+      "graphic_id": "elife00868f004"
+    },
+    "paragraph_image_fig4": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig4",
+      "content": "(A and B) Fluorescence recovery after photobleaching (FRAP) experiments targeting a tube connected to a single DiO+ cell. Rapid DiO exchange is observed between the tube and the cell body. The cell body is positioned at +1 in (A). (C) DiO transfer and formation of DiO+ tubes between two cells. An unstained recipient cell (orange cell contour) becomes stained in contact with a DiO donor cell (white cell contour). The grey arrow points to a tube formed between the two cells. Note that transfer only occurs between the two cells although other cells are also in contact with the donor cell. Scale bar = 1 µm. (D) DiO is exchanged by tubes connecting two cells. Fluorescence and corresponding phase contrast images between two transferring cells (green and orange contours) are shown. Scale bar = 1 µm. (E) Mean DiO fluorescence intensity over time in the donor cell (gray square) and the recipient cell (orange circle). The vertical dashed line represents the time where the tube connection was ruptured. The horizontal dashed line represents the maximal value of fluorescence intensity observed in the recipient cell."
+    },
+    "annotation_173": {
+      "type": "strong",
+      "id": "annotation_173",
+      "path": [
+        "paragraph_image_fig4",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1,
+        2
+      ]
+    },
+    "annotation_174": {
+      "type": "strong",
+      "id": "annotation_174",
+      "path": [
+        "paragraph_image_fig4",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        7,
+        8
+      ]
+    },
+    "annotation_175": {
+      "type": "superscript",
+      "id": "annotation_175",
+      "path": [
+        "paragraph_image_fig4",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        114,
+        115
+      ]
+    },
+    "annotation_176": {
+      "type": "strong",
+      "id": "annotation_176",
+      "path": [
+        "paragraph_image_fig4",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        227,
+        228
+      ]
+    },
+    "annotation_177": {
+      "type": "strong",
+      "id": "annotation_177",
+      "path": [
+        "paragraph_image_fig4",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        232,
+        233
+      ]
+    },
+    "annotation_178": {
+      "type": "superscript",
+      "id": "annotation_178",
+      "path": [
+        "paragraph_image_fig4",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        268,
+        269
+      ]
+    },
+    "annotation_179": {
+      "type": "strong",
+      "id": "annotation_179",
+      "path": [
+        "paragraph_image_fig4",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        612,
+        613
+      ]
+    },
+    "annotation_180": {
+      "type": "strong",
+      "id": "annotation_180",
+      "path": [
+        "paragraph_image_fig4",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        805,
+        806
+      ]
+    },
+    "image_fig4s1": {
+      "type": "image",
+      "id": "image_fig4s1",
+      "label": "Figure 4—figure supplement 1.",
+      "url": "",
+      "object_id": "F8",
+      "title": "The OMsfGFP or OMmCherry fluorescent probes are not significantly exchanged through the lipid tubes.",
+      "content_type": "",
+      "large_url": "",
+      "content": "",
+      "group": [
+        "child",
+        "image_fig4"
+      ],
+      "doi": "http://dx.doi.org/10.7554/eLife.00868.014",
+      "caption": "paragraph_image_fig4s1",
+      "graphic_id": "elife00868fs004"
+    },
+    "paragraph_image_fig4s1": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig4s1",
+      "content": "OMsfGFP-stained tubes formed between an OMsfGFP+ IMmcherry− cell and an OMsfGFP− IMmcherry+ recipient cell. No significant exchange of green fluorescence can be observed through the tubes. Scale bar = 1 µm."
+    },
+    "annotation_181": {
+      "type": "subscript",
+      "id": "annotation_181",
+      "path": [
+        "image_fig4s1",
+        "title"
+      ],
+      "target": null,
+      "range": [
+        6,
+        11
+      ]
+    },
+    "annotation_182": {
+      "type": "subscript",
+      "id": "annotation_182",
+      "path": [
+        "image_fig4s1",
+        "title"
+      ],
+      "target": null,
+      "range": [
+        17,
+        24
+      ]
+    },
+    "annotation_183": {
+      "type": "subscript",
+      "id": "annotation_183",
+      "path": [
+        "paragraph_image_fig4s1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        2,
+        7
+      ]
+    },
+    "annotation_184": {
+      "type": "subscript",
+      "id": "annotation_184",
+      "path": [
+        "paragraph_image_fig4s1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        42,
+        47
+      ]
+    },
+    "annotation_185": {
+      "type": "superscript",
+      "id": "annotation_185",
+      "path": [
+        "paragraph_image_fig4s1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        47,
+        48
+      ]
+    },
+    "annotation_186": {
+      "type": "subscript",
+      "id": "annotation_186",
+      "path": [
+        "paragraph_image_fig4s1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        51,
+        58
+      ]
+    },
+    "annotation_187": {
+      "type": "superscript",
+      "id": "annotation_187",
+      "path": [
+        "paragraph_image_fig4s1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        58,
+        59
+      ]
+    },
+    "annotation_188": {
+      "type": "subscript",
+      "id": "annotation_188",
+      "path": [
+        "paragraph_image_fig4s1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        74,
+        79
+      ]
+    },
+    "annotation_189": {
+      "type": "superscript",
+      "id": "annotation_189",
+      "path": [
+        "paragraph_image_fig4s1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        79,
+        80
+      ]
+    },
+    "annotation_190": {
+      "type": "subscript",
+      "id": "annotation_190",
+      "path": [
+        "paragraph_image_fig4s1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        83,
+        90
+      ]
+    },
+    "annotation_191": {
+      "type": "superscript",
+      "id": "annotation_191",
+      "path": [
+        "paragraph_image_fig4s1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        90,
+        91
+      ]
+    },
+    "image_fig4s2": {
+      "type": "image",
+      "id": "image_fig4s2",
+      "label": "Figure 4—figure supplement 2.",
+      "url": "",
+      "object_id": "F9",
+      "title": "Fluorescence Recovery After Photobleaching (FRAP) experiments targeting indicated fluorescent probes.",
+      "content_type": "",
+      "large_url": "",
+      "content": "",
+      "group": [
+        "child",
+        "image_fig4"
+      ],
+      "doi": "http://dx.doi.org/10.7554/eLife.00868.015",
+      "caption": "paragraph_image_fig4s2",
+      "graphic_id": "elife00868fs005"
+    },
+    "paragraph_image_fig4s2": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig4s2",
+      "content": "(A) Representative fluorescence recovery after FRAP on the cell body of a DiO-stained cell. (B) Comparative recovery kinetics of DiO and OMsfGFP after FRAP."
+    },
+    "annotation_192": {
+      "type": "strong",
+      "id": "annotation_192",
+      "path": [
+        "paragraph_image_fig4s2",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1,
+        2
+      ]
+    },
+    "annotation_193": {
+      "type": "strong",
+      "id": "annotation_193",
+      "path": [
+        "paragraph_image_fig4s2",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        93,
+        94
+      ]
+    },
+    "annotation_194": {
+      "type": "subscript",
+      "id": "annotation_194",
+      "path": [
+        "paragraph_image_fig4s2",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        139,
+        144
+      ]
+    },
+    "video_video5": {
+      "type": "video",
+      "id": "video_video5",
+      "label": "Video 6.",
+      "title": "Live observations of DiO transfer and formation of DiO+ tubes between two cells.Live observations of DiO transfer and formation of DiO+ tubes between two cells.",
+      "caption": "paragraph_video_video5",
+      "content_type": "",
+      "url_ogv": "http://static.movie-usa.glencoesoftware.com/ogv/10.7554/elife00868v006.ogv",
+      "url_jpg": "",
+      "url_mp4": "",
+      "doi": "http://dx.doi.org/10.7554/eLife.00868.016http://dx.doi.org/10.7554/eLife.00868.017",
+      "url": "http://static.movie-usa.glencoesoftware.com/mp4/10.7554/elife00868v006.mp4",
+      "poster": "http://static.movie-usa.glencoesoftware.com/jpg/10.7554/elife00868v006.jpg",
+      "graphic_id": "elife00868v006.avi"
+    },
+    "paragraph_video_video5": {
+      "type": "paragraph",
+      "id": "paragraph_video_video5",
+      "content": "For details see Figure 3A. Corresponding phase contrast and green fluorescence are shown. Pictures were taken every 30 s."
+    },
+    "figure_reference_195": {
+      "type": "figure_reference",
+      "id": "figure_reference_195",
+      "path": [
+        "paragraph_video_video5",
+        "content"
+      ],
+      "target": "image_fig3",
+      "range": [
+        16,
+        25
+      ]
+    },
+    "heading_s2-5": {
+      "type": "heading",
+      "id": "heading_s2-5",
+      "level": 2,
+      "content": "Large amounts of OM materials are deposited in slime trails during single cell motility",
+      "nodes": []
+    },
+    "paragraph_196": {
+      "type": "paragraph",
+      "id": "paragraph_196",
+      "content": "Where does transfer occur in the Myxococcus biofilm and why is it highly dependent on motility? Cell alignment in densely packed Myxococcus swarms promotes cell-cell transfer, likely because it favors tight interactions between cells (Nudleman et al., 2005; Wei et al., 2011; Pathak et al., 2012). However, Cryo-EM studies on the Myxococcus biofilm and our TEM and live observations of the lipid tubes also suggests that large amounts of OM materials may be released in the biofilm matrix, which may constitute a significant transfer reservoir (Palsdottir et al., 2009). Interestingly, when we observed gliding cells on cellulose pre-coated EM grids (‘Materials and methods’), we found that cells deposit vesicular/tubular material in their wake (Figure 5A and Figure 5—figure supplement 1). This material was also observed by fluorescence microscopy and must be derived from the OM because dual labeled OMsfGFP/IMmCherry cells deposited trails that were labeled with OMsfGFP but not with IMmCherry (Figure 5B). Gliding Myxococcus cells are known to deposit slime, a self-deposited sugar polymer of unknown composition that facilitates cell adhesion to the underlying substratum (Ducret et al., 2012). The slime polymer can be detected selectively by addition of fluorescent Concanavalin A (ConA-FITC) in a microfluidic gliding assay (Ducret et al., 2012). To test whether the OM materials are specifically associated with the deposited slime, we observed slime trails deposited by an OMmCherry-expressing strain in the presence of ConA-FITC. Figure 5B shows that such cells deposited numerous mCherry+ dots and tubular structures that co-localized with ConA+ trails. EM analysis using gold-labeled ConA confirmed that the deposited OM material is embedded in a sheath of slime polymer (‘Materials and methods’ and Figure 5C). All together, these results suggest that gliding Myxococcus cells shed a significant amount of their OM during motility and that this material remains attached to the underlying slime polymer. Since gliding Myxococcus cells have long been known to follow trails left by other cells (Burchard, 1982), a tantalizing possibility is that the transfer of OM materials could also occur when cells follow slime trails, harvesting vesicles and tubes embedded in the slime. Unfortunately, we could not test this possibility directly because the amount of OMsfGFP/OMmCherry labeled material remains too weak to detect a significant transfer to gliding cells by fluorescence microscopy."
+    },
+    "annotation_197": {
+      "type": "emphasis",
+      "id": "annotation_197",
+      "path": [
+        "paragraph_196",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        33,
+        43
+      ]
+    },
+    "annotation_198": {
+      "type": "emphasis",
+      "id": "annotation_198",
+      "path": [
+        "paragraph_196",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        129,
+        139
+      ]
+    },
+    "citation_reference_199": {
+      "type": "citation_reference",
+      "id": "citation_reference_199",
+      "path": [
+        "paragraph_196",
+        "content"
+      ],
+      "target": "article_citation_bib16",
+      "range": [
+        235,
+        256
+      ]
+    },
+    "citation_reference_200": {
+      "type": "citation_reference",
+      "id": "citation_reference_200",
+      "path": [
+        "paragraph_196",
+        "content"
+      ],
+      "target": "article_citation_bib26",
+      "range": [
+        258,
+        274
+      ]
+    },
+    "citation_reference_201": {
+      "type": "citation_reference",
+      "id": "citation_reference_201",
+      "path": [
+        "paragraph_196",
+        "content"
+      ],
+      "target": "article_citation_bib18",
+      "range": [
+        276,
+        295
+      ]
+    },
+    "annotation_202": {
+      "type": "emphasis",
+      "id": "annotation_202",
+      "path": [
+        "paragraph_196",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        330,
+        340
+      ]
+    },
+    "citation_reference_203": {
+      "type": "citation_reference",
+      "id": "citation_reference_203",
+      "path": [
+        "paragraph_196",
+        "content"
+      ],
+      "target": "article_citation_bib17",
+      "range": [
+        545,
+        568
+      ]
+    },
+    "figure_reference_204": {
+      "type": "figure_reference",
+      "id": "figure_reference_204",
+      "path": [
+        "paragraph_196",
+        "content"
+      ],
+      "target": "image_fig5",
+      "range": [
+        747,
+        756
+      ]
+    },
+    "figure_reference_205": {
+      "type": "figure_reference",
+      "id": "figure_reference_205",
+      "path": [
+        "paragraph_196",
+        "content"
+      ],
+      "target": "image_fig5s1",
+      "range": [
+        761,
+        789
+      ]
+    },
+    "annotation_206": {
+      "type": "subscript",
+      "id": "annotation_206",
+      "path": [
+        "paragraph_196",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        906,
+        911
+      ]
+    },
+    "annotation_207": {
+      "type": "subscript",
+      "id": "annotation_207",
+      "path": [
+        "paragraph_196",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        914,
+        921
+      ]
+    },
+    "annotation_208": {
+      "type": "subscript",
+      "id": "annotation_208",
+      "path": [
+        "paragraph_196",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        970,
+        975
+      ]
+    },
+    "annotation_209": {
+      "type": "subscript",
+      "id": "annotation_209",
+      "path": [
+        "paragraph_196",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        991,
+        998
+      ]
+    },
+    "figure_reference_210": {
+      "type": "figure_reference",
+      "id": "figure_reference_210",
+      "path": [
+        "paragraph_196",
+        "content"
+      ],
+      "target": "image_fig5",
+      "range": [
+        1000,
+        1009
+      ]
+    },
+    "annotation_211": {
+      "type": "emphasis",
+      "id": "annotation_211",
+      "path": [
+        "paragraph_196",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1020,
+        1030
+      ]
+    },
+    "citation_reference_212": {
+      "type": "citation_reference",
+      "id": "citation_reference_212",
+      "path": [
+        "paragraph_196",
+        "content"
+      ],
+      "target": "article_citation_bib9",
+      "range": [
+        1180,
+        1199
+      ]
+    },
+    "citation_reference_213": {
+      "type": "citation_reference",
+      "id": "citation_reference_213",
+      "path": [
+        "paragraph_196",
+        "content"
+      ],
+      "target": "article_citation_bib9",
+      "range": [
+        1335,
+        1354
+      ]
+    },
+    "annotation_214": {
+      "type": "subscript",
+      "id": "annotation_214",
+      "path": [
+        "paragraph_196",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1487,
+        1494
+      ]
+    },
+    "figure_reference_215": {
+      "type": "figure_reference",
+      "id": "figure_reference_215",
+      "path": [
+        "paragraph_196",
+        "content"
+      ],
+      "target": "image_fig5",
+      "range": [
+        1543,
+        1552
+      ]
+    },
+    "annotation_216": {
+      "type": "superscript",
+      "id": "annotation_216",
+      "path": [
+        "paragraph_196",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1601,
+        1602
+      ]
+    },
+    "annotation_217": {
+      "type": "superscript",
+      "id": "annotation_217",
+      "path": [
+        "paragraph_196",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1658,
+        1659
+      ]
+    },
+    "figure_reference_218": {
+      "type": "figure_reference",
+      "id": "figure_reference_218",
+      "path": [
+        "paragraph_196",
+        "content"
+      ],
+      "target": "image_fig5",
+      "range": [
+        1815,
+        1824
+      ]
+    },
+    "annotation_219": {
+      "type": "emphasis",
+      "id": "annotation_219",
+      "path": [
+        "paragraph_196",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1876,
+        1886
+      ]
+    },
+    "annotation_220": {
+      "type": "emphasis",
+      "id": "annotation_220",
+      "path": [
+        "paragraph_196",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        2034,
+        2044
+      ]
+    },
+    "citation_reference_221": {
+      "type": "citation_reference",
+      "id": "citation_reference_221",
+      "path": [
+        "paragraph_196",
+        "content"
+      ],
+      "target": "article_citation_bib3",
+      "range": [
+        2110,
+        2124
+      ]
+    },
+    "annotation_222": {
+      "type": "subscript",
+      "id": "annotation_222",
+      "path": [
+        "paragraph_196",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        2375,
+        2380
+      ]
+    },
+    "annotation_223": {
+      "type": "subscript",
+      "id": "annotation_223",
+      "path": [
+        "paragraph_196",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        2383,
+        2390
+      ]
+    },
+    "image_fig5": {
+      "type": "image",
+      "id": "image_fig5",
+      "label": "Figure 5.",
+      "url": "",
+      "object_id": "F10",
+      "title": "Lipid tubes and vesicles are deposited in slime trails.",
+      "content_type": "",
+      "large_url": "",
+      "content": "",
+      "group": [
+        "parent",
+        null
+      ],
+      "doi": "http://dx.doi.org/10.7554/eLife.00868.018",
+      "caption": "paragraph_image_fig5",
+      "graphic_id": "elife00868f005"
+    },
+    "paragraph_image_fig5": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig5",
+      "content": "(A) TEM images of lipid tubes deposited in the wake of a moving cell (left panel). A higher magnification view of lipid tubes/vesicles is shown in the right panel. Scale bars = 250 nm. (B) Deposition of lipid tubes/vesicles observed by an OMsfGFP+/IMmCherry+ cell. The deposited material is only stained with green fluorescence implying that it is derived from the OM. Scale bar = 1 µm. (C) Co-localization of deposited OM materials detected using OMmCherry probe and slime detected using ConA-FITC. Corresponding phase contrast, red fluorescence, green fluorescence and overlay images are shown. Scale bar = 1 µm. (D) Lipid tubes/vesicles are embedded in the slime polymer (Black Arrow). Electron dense trails are clearly visible after ConA treatment. White arrows highlight gold particles specifically associated with biotinylated ConA and thus slime. Scale bar = 250 nm."
+    },
+    "annotation_224": {
+      "type": "strong",
+      "id": "annotation_224",
+      "path": [
+        "paragraph_image_fig5",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1,
+        2
+      ]
+    },
+    "annotation_225": {
+      "type": "strong",
+      "id": "annotation_225",
+      "path": [
+        "paragraph_image_fig5",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        186,
+        187
+      ]
+    },
+    "annotation_226": {
+      "type": "subscript",
+      "id": "annotation_226",
+      "path": [
+        "paragraph_image_fig5",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        241,
+        246
+      ]
+    },
+    "annotation_227": {
+      "type": "superscript",
+      "id": "annotation_227",
+      "path": [
+        "paragraph_image_fig5",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        246,
+        247
+      ]
+    },
+    "annotation_228": {
+      "type": "subscript",
+      "id": "annotation_228",
+      "path": [
+        "paragraph_image_fig5",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        250,
+        257
+      ]
+    },
+    "annotation_229": {
+      "type": "superscript",
+      "id": "annotation_229",
+      "path": [
+        "paragraph_image_fig5",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        257,
+        258
+      ]
+    },
+    "annotation_230": {
+      "type": "strong",
+      "id": "annotation_230",
+      "path": [
+        "paragraph_image_fig5",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        388,
+        389
+      ]
+    },
+    "annotation_231": {
+      "type": "subscript",
+      "id": "annotation_231",
+      "path": [
+        "paragraph_image_fig5",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        450,
+        457
+      ]
+    },
+    "annotation_232": {
+      "type": "strong",
+      "id": "annotation_232",
+      "path": [
+        "paragraph_image_fig5",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        616,
+        617
+      ]
+    },
+    "image_fig5s1": {
+      "type": "image",
+      "id": "image_fig5s1",
+      "label": "Figure 5—figure supplement 1.",
+      "url": "",
+      "object_id": "F11",
+      "title": "Lipid tubes and vesicles are deposited in slime trails.",
+      "content_type": "",
+      "large_url": "",
+      "content": "",
+      "group": [
+        "child",
+        "image_fig5"
+      ],
+      "doi": "http://dx.doi.org/10.7554/eLife.00868.019",
+      "caption": "paragraph_image_fig5s1",
+      "graphic_id": "elife00868fs006"
+    },
+    "paragraph_image_fig5s1": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig5s1",
+      "content": "(A) OM materials are deposited in the wake of motile cells and specifically associated with slime. A higher magnification view of lipid tubes/vesicles is shown in the panel (B). Scale bars = 500 nm."
+    },
+    "annotation_233": {
+      "type": "strong",
+      "id": "annotation_233",
+      "path": [
+        "paragraph_image_fig5s1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1,
+        2
+      ]
+    },
+    "annotation_234": {
+      "type": "strong",
+      "id": "annotation_234",
+      "path": [
+        "paragraph_image_fig5s1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        174,
+        175
+      ]
+    },
+    "heading_s3": {
+      "type": "heading",
+      "id": "heading_s3",
+      "level": 1,
+      "content": "Discussion",
+      "nodes": []
+    },
+    "paragraph_235": {
+      "type": "paragraph",
+      "id": "paragraph_235",
+      "content": "Direct imaging of OM protein transfer between Myxococcus cells uncovers critical aspects of the cell biology and kinetics of transfer. Specifically, we found that the physical contact between two adjacent cells is sufficient to promote transfer of OM proteins and lipids at high efficiency. This explains the results from bulk transfer experiments (from previous works and reported herein) suggesting that transfer is a remarkably efficient process. The formation of transient OM tubes between cells is a major indication that transfer indeed occurs by OM fusion: the tubes are continuous extension of cell OM, they form between transferring cells and allow the rapid exchange of lipids. Importantly, the Myxococcus OM transfer system is distinct from reported bacterial nanotubes, which seem to connect the cytosolic contents of connected cells and involve a yet uncharacterized machinery (Dubey and Ben-Yehuda, 2011). In Myxococcus, the transfer process is restricted to OM proteins and lipids. Transfer only occurs in a subset of cell contact events, suggesting that it is provoked by specific contacts, for example if TraA interactions brought OMs in close apposition locally. OMsfGFP/OMmCherry are fused to type II signal sequences and thus insert in the OM as OM lipoproteins. Since, OM lipoproteins are inserted in the inner leaflet of the OM (Nakayama et al., 2012), transfer must involve the fusion of both leaflets of the OM membrane, suggesting that the entire OM is exchanged locally between cells. The formation of OM synapses must therefore create continuity between the periplasmic content of transferring cells. The size of the OM synapse may be estimated from the size of the tubes (∼50 nm), suggesting that the diameter of the periplasmic lumen may reach up to 20 nm (for an OM of 10–15 nm thickness [Bayer, 1991; Palsdottir et al., 2009]), providing ample space for periplasmic exchange. However, the PERImCherry probe was poorly if at all exchanged and there is currently no evidence for the physiological transfer of periplasmic proteins, suggesting that OM synapses are not very permeable to periplasmic proteins."
+    },
+    "annotation_236": {
+      "type": "emphasis",
+      "id": "annotation_236",
+      "path": [
+        "paragraph_235",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        46,
+        56
+      ]
+    },
+    "annotation_237": {
+      "type": "emphasis",
+      "id": "annotation_237",
+      "path": [
+        "paragraph_235",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        705,
+        715
+      ]
+    },
+    "citation_reference_238": {
+      "type": "citation_reference",
+      "id": "citation_reference_238",
+      "path": [
+        "paragraph_235",
+        "content"
+      ],
+      "target": "article_citation_bib6",
+      "range": [
+        891,
+        917
+      ]
+    },
+    "annotation_239": {
+      "type": "emphasis",
+      "id": "annotation_239",
+      "path": [
+        "paragraph_235",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        923,
+        933
+      ]
+    },
+    "annotation_240": {
+      "type": "subscript",
+      "id": "annotation_240",
+      "path": [
+        "paragraph_235",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1183,
+        1188
+      ]
+    },
+    "annotation_241": {
+      "type": "subscript",
+      "id": "annotation_241",
+      "path": [
+        "paragraph_235",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1191,
+        1198
+      ]
+    },
+    "citation_reference_242": {
+      "type": "citation_reference",
+      "id": "citation_reference_242",
+      "path": [
+        "paragraph_235",
+        "content"
+      ],
+      "target": "article_citation_bib13",
+      "range": [
+        1351,
+        1372
+      ]
+    },
+    "citation_reference_243": {
+      "type": "citation_reference",
+      "id": "citation_reference_243",
+      "path": [
+        "paragraph_235",
+        "content"
+      ],
+      "target": "article_citation_bib2",
+      "range": [
+        1819,
+        1830
+      ]
+    },
+    "citation_reference_244": {
+      "type": "citation_reference",
+      "id": "citation_reference_244",
+      "path": [
+        "paragraph_235",
+        "content"
+      ],
+      "target": "article_citation_bib17",
+      "range": [
+        1832,
+        1855
+      ]
+    },
+    "annotation_245": {
+      "type": "subscript",
+      "id": "annotation_245",
+      "path": [
+        "paragraph_235",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1924,
+        1931
+      ]
+    },
+    "paragraph_246": {
+      "type": "paragraph",
+      "id": "paragraph_246",
+      "content": "Our results also suggest that gliding motility may facilitate transfer by promoting cell–cell alignment but also when cells follow slime trails by incorporating membrane materials embedded in the slime polymer. The shedding of large amounts of membrane materials on the underlying substrate is a common byproduct of surface motility both in eukaryotic and prokaryotic cells. For example, crawling keratinocytes also deposit their plasma membrane due to the activity of acto-myosin motors in focal adhesions (Kirfel et al., 2003). In Myxococcus, gliding (A−)motility is thought to involve OM dynamics in the form of energized deformations and/or protein movements (Nan et al., 2010; Luciano et al., 2011; Nan et al., 2011; Sun et al., 2011). Thus, OM fragments may detach to the substrate due to the interaction between the motility machinery and slime. It is possible that acquisition of the traAB genes allowed Myxococcus cells to recycle this ‘waste’ and co-opt it for cell–cell signaling. A tantalizing possibility would be that slime embedded vesicles contain signals that promote specific recognition, facilitate trail following and promote colony expansion in response to environmental changes."
+    },
+    "citation_reference_247": {
+      "type": "citation_reference",
+      "id": "citation_reference_247",
+      "path": [
+        "paragraph_246",
+        "content"
+      ],
+      "target": "article_citation_bib10",
+      "range": [
+        508,
+        527
+      ]
+    },
+    "annotation_248": {
+      "type": "emphasis",
+      "id": "annotation_248",
+      "path": [
+        "paragraph_246",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        533,
+        544
+      ]
+    },
+    "citation_reference_249": {
+      "type": "citation_reference",
+      "id": "citation_reference_249",
+      "path": [
+        "paragraph_246",
+        "content"
+      ],
+      "target": "article_citation_bib15",
+      "range": [
+        664,
+        680
+      ]
+    },
+    "citation_reference_250": {
+      "type": "citation_reference",
+      "id": "citation_reference_250",
+      "path": [
+        "paragraph_246",
+        "content"
+      ],
+      "target": "article_citation_bib12",
+      "range": [
+        682,
+        702
+      ]
+    },
+    "citation_reference_251": {
+      "type": "citation_reference",
+      "id": "citation_reference_251",
+      "path": [
+        "paragraph_246",
+        "content"
+      ],
+      "target": "article_citation_bib14",
+      "range": [
+        704,
+        720
+      ]
+    },
+    "citation_reference_252": {
+      "type": "citation_reference",
+      "id": "citation_reference_252",
+      "path": [
+        "paragraph_246",
+        "content"
+      ],
+      "target": "article_citation_bib24",
+      "range": [
+        722,
+        738
+      ]
+    },
+    "annotation_253": {
+      "type": "emphasis",
+      "id": "annotation_253",
+      "path": [
+        "paragraph_246",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        892,
+        897
+      ]
+    },
+    "annotation_254": {
+      "type": "emphasis",
+      "id": "annotation_254",
+      "path": [
+        "paragraph_246",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        912,
+        922
+      ]
+    },
+    "paragraph_255": {
+      "type": "paragraph",
+      "id": "paragraph_255",
+      "content": "The Myxococcus Tra-dependent cell–cell transfer of OM proteins is a novel mode of bacterial communication that adds to the growing repertoire of bacterial contact-dependent signaling mechanisms. Contrary to known contact dependent protein transfer systems, the type VI secretion (Silverman et al., 2012) or intercellular nanotubes (Dubey and Ben-Yehuda, 2011), the distribution of TraA suggests that Tra-dependent OM fusion is restricted to the deltaproteobacteria (Figure 6A and Figure 6—figure supplement 1). Interestingly, even in Myxococcus xanthus strains, the predicted extracellular N-terminal PA14 domain of TraA shows variability, while the C-terminal region, presumably involved in anchoring to the cell surface is highly conserved (Figure 6B—figure supplement 2). Importantly, TraA acts as both key and lock for transfer to occur (Pathak et al., 2012). Therefore, as already suggested, OM-transfer may have evolved to regulate interactions between cells of the same kin. tra mutants do not show motility or developmental defects in pure culture and thus the contribution of OM transfer to Myxococcus social behaviors is unclear (Pathak et al., 2012). Interestingly however, mixing tra mutants with WT cells perturbs motility and development profoundly, consistent with a role in the control population dynamics (Pathak et al., 2012). OM exchange by transient fusion may be more widespread than suspected, especially because it is not easily unmasked and likely does not employ a conserved molecular system. Indeed, membrane vesicles and tubes have been observed in other biofilm-forming proteobacteria (Schooling and Beveridge, 2006; Schooling et al., 2009) and could well be involved in OM exchange behaviors."
+    },
+    "annotation_256": {
+      "type": "emphasis",
+      "id": "annotation_256",
+      "path": [
+        "paragraph_255",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        4,
+        14
+      ]
+    },
+    "citation_reference_257": {
+      "type": "citation_reference",
+      "id": "citation_reference_257",
+      "path": [
+        "paragraph_255",
+        "content"
+      ],
+      "target": "article_citation_bib22",
+      "range": [
+        280,
+        302
+      ]
+    },
+    "citation_reference_258": {
+      "type": "citation_reference",
+      "id": "citation_reference_258",
+      "path": [
+        "paragraph_255",
+        "content"
+      ],
+      "target": "article_citation_bib6",
+      "range": [
+        332,
+        358
+      ]
+    },
+    "figure_reference_259": {
+      "type": "figure_reference",
+      "id": "figure_reference_259",
+      "path": [
+        "paragraph_255",
+        "content"
+      ],
+      "target": "image_fig6",
+      "range": [
+        466,
+        475
+      ]
+    },
+    "figure_reference_260": {
+      "type": "figure_reference",
+      "id": "figure_reference_260",
+      "path": [
+        "paragraph_255",
+        "content"
+      ],
+      "target": "image_fig6s1",
+      "range": [
+        480,
+        508
+      ]
+    },
+    "annotation_261": {
+      "type": "emphasis",
+      "id": "annotation_261",
+      "path": [
+        "paragraph_255",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        534,
+        552
+      ]
+    },
+    "figure_reference_262": {
+      "type": "figure_reference",
+      "id": "figure_reference_262",
+      "path": [
+        "paragraph_255",
+        "content"
+      ],
+      "target": "image_fig6s2",
+      "range": [
+        743,
+        772
+      ]
+    },
+    "citation_reference_263": {
+      "type": "citation_reference",
+      "id": "citation_reference_263",
+      "path": [
+        "paragraph_255",
+        "content"
+      ],
+      "target": "article_citation_bib18",
+      "range": [
+        842,
+        861
+      ]
+    },
+    "annotation_264": {
+      "type": "emphasis",
+      "id": "annotation_264",
+      "path": [
+        "paragraph_255",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        982,
+        985
+      ]
+    },
+    "annotation_265": {
+      "type": "emphasis",
+      "id": "annotation_265",
+      "path": [
+        "paragraph_255",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1100,
+        1110
+      ]
+    },
+    "citation_reference_266": {
+      "type": "citation_reference",
+      "id": "citation_reference_266",
+      "path": [
+        "paragraph_255",
+        "content"
+      ],
+      "target": "article_citation_bib18",
+      "range": [
+        1140,
+        1159
+      ]
+    },
+    "annotation_267": {
+      "type": "emphasis",
+      "id": "annotation_267",
+      "path": [
+        "paragraph_255",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1192,
+        1195
+      ]
+    },
+    "citation_reference_268": {
+      "type": "citation_reference",
+      "id": "citation_reference_268",
+      "path": [
+        "paragraph_255",
+        "content"
+      ],
+      "target": "article_citation_bib18",
+      "range": [
+        1323,
+        1342
+      ]
+    },
+    "citation_reference_269": {
+      "type": "citation_reference",
+      "id": "citation_reference_269",
+      "path": [
+        "paragraph_255",
+        "content"
+      ],
+      "target": "article_citation_bib20",
+      "range": [
+        1614,
+        1643
+      ]
+    },
+    "citation_reference_270": {
+      "type": "citation_reference",
+      "id": "citation_reference_270",
+      "path": [
+        "paragraph_255",
+        "content"
+      ],
+      "target": "article_citation_bib21",
+      "range": [
+        1645,
+        1667
+      ]
+    },
+    "image_fig6": {
+      "type": "image",
+      "id": "image_fig6",
+      "label": "Figure 6.",
+      "url": "",
+      "object_id": "F12",
+      "title": "Distribution of TraA is restricted to the deltaproteobacteria.",
+      "content_type": "",
+      "large_url": "",
+      "content": "",
+      "group": [
+        "parent",
+        null
+      ],
+      "doi": "http://dx.doi.org/10.7554/eLife.00868.020",
+      "caption": "paragraph_image_fig6",
+      "graphic_id": "elife00868f006"
+    },
+    "paragraph_image_fig6": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig6",
+      "content": "(A) TraA homologues in Myxococcus xanthus DK1622 (gi|108763680), Myxococcus stipitatus (gi|442324418), Corallococcus coralloides (gi|383459429), Myxococcus fulvus (gi|338532052), Stigmatella aurantiaca (gi|310818240), Cystobacter fuscus (gi|444910311), Haliangium Ochraceum (gi|262197466), Sorangium Cellulosum (gi|162451690). (B) The PA-14 domain is variable in Myxococcus xanthus strains. The conservation of the Ct domain is shown for comparison. Sequence database access numbers are shown to the left."
+    },
+    "annotation_271": {
+      "type": "strong",
+      "id": "annotation_271",
+      "path": [
+        "paragraph_image_fig6",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1,
+        2
+      ]
+    },
+    "annotation_272": {
+      "type": "emphasis",
+      "id": "annotation_272",
+      "path": [
+        "paragraph_image_fig6",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        23,
+        41
+      ]
+    },
+    "annotation_273": {
+      "type": "emphasis",
+      "id": "annotation_273",
+      "path": [
+        "paragraph_image_fig6",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        65,
+        86
+      ]
+    },
+    "annotation_274": {
+      "type": "emphasis",
+      "id": "annotation_274",
+      "path": [
+        "paragraph_image_fig6",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        103,
+        128
+      ]
+    },
+    "annotation_275": {
+      "type": "emphasis",
+      "id": "annotation_275",
+      "path": [
+        "paragraph_image_fig6",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        145,
+        162
+      ]
+    },
+    "annotation_276": {
+      "type": "emphasis",
+      "id": "annotation_276",
+      "path": [
+        "paragraph_image_fig6",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        179,
+        201
+      ]
+    },
+    "annotation_277": {
+      "type": "emphasis",
+      "id": "annotation_277",
+      "path": [
+        "paragraph_image_fig6",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        218,
+        236
+      ]
+    },
+    "annotation_278": {
+      "type": "emphasis",
+      "id": "annotation_278",
+      "path": [
+        "paragraph_image_fig6",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        253,
+        273
+      ]
+    },
+    "annotation_279": {
+      "type": "emphasis",
+      "id": "annotation_279",
+      "path": [
+        "paragraph_image_fig6",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        290,
+        310
+      ]
+    },
+    "annotation_280": {
+      "type": "strong",
+      "id": "annotation_280",
+      "path": [
+        "paragraph_image_fig6",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        328,
+        329
+      ]
+    },
+    "annotation_281": {
+      "type": "emphasis",
+      "id": "annotation_281",
+      "path": [
+        "paragraph_image_fig6",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        363,
+        381
+      ]
+    },
+    "image_fig6s1": {
+      "type": "image",
+      "id": "image_fig6s1",
+      "label": "Figure 6—figure supplement 1.",
+      "url": "",
+      "object_id": "F13",
+      "title": "TraA homologues in deltaproteobacteria.",
+      "content_type": "",
+      "large_url": "",
+      "content": "",
+      "group": [
+        "child",
+        "image_fig6"
+      ],
+      "doi": "http://dx.doi.org/10.7554/eLife.00868.021",
+      "caption": "paragraph_image_fig6s1",
+      "graphic_id": "elife00868fs007"
+    },
+    "paragraph_image_fig6s1": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig6s1",
+      "content": "ClustalW alignment of TraA homolog: Myxococcus xanthus DK1622 (gi|108763680), Myxococcus stipitatus (gi|442324418), Corallococcus coralloides (gi|383459429), Myxococcus fulvus (gi|338532052), Stigmatella aurantiaca (gi|310818240), Cystobacter fuscus (gi|444910311), Haliangium Ochraceum (gi|262197466), Sorangium Cellulosum (gi|162451690)."
+    },
+    "annotation_282": {
+      "type": "emphasis",
+      "id": "annotation_282",
+      "path": [
+        "paragraph_image_fig6s1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        36,
+        54
+      ]
+    },
+    "annotation_283": {
+      "type": "emphasis",
+      "id": "annotation_283",
+      "path": [
+        "paragraph_image_fig6s1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        78,
+        99
+      ]
+    },
+    "annotation_284": {
+      "type": "emphasis",
+      "id": "annotation_284",
+      "path": [
+        "paragraph_image_fig6s1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        116,
+        141
+      ]
+    },
+    "annotation_285": {
+      "type": "emphasis",
+      "id": "annotation_285",
+      "path": [
+        "paragraph_image_fig6s1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        158,
+        175
+      ]
+    },
+    "annotation_286": {
+      "type": "emphasis",
+      "id": "annotation_286",
+      "path": [
+        "paragraph_image_fig6s1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        192,
+        214
+      ]
+    },
+    "annotation_287": {
+      "type": "emphasis",
+      "id": "annotation_287",
+      "path": [
+        "paragraph_image_fig6s1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        231,
+        249
+      ]
+    },
+    "annotation_288": {
+      "type": "emphasis",
+      "id": "annotation_288",
+      "path": [
+        "paragraph_image_fig6s1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        266,
+        286
+      ]
+    },
+    "annotation_289": {
+      "type": "emphasis",
+      "id": "annotation_289",
+      "path": [
+        "paragraph_image_fig6s1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        303,
+        323
+      ]
+    },
+    "image_fig6s2": {
+      "type": "image",
+      "id": "image_fig6s2",
+      "label": "Figure 6—figure supplement 2.",
+      "url": "",
+      "object_id": "F14",
+      "title": "ClustalW alignment of TraA in Myxococcus xanthus strains.",
+      "content_type": "",
+      "large_url": "",
+      "content": "",
+      "group": [
+        "child",
+        "image_fig6"
+      ],
+      "doi": "http://dx.doi.org/10.7554/eLife.00868.022",
+      "caption": "paragraph_image_fig6s2",
+      "graphic_id": "elife00868fs008"
+    },
+    "paragraph_image_fig6s2": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig6s2",
+      "content": "Note that most amino acids variations are localized in the first 300 N-terminal residues region encompassing the so-called PA14 domain."
+    },
+    "annotation_290": {
+      "type": "emphasis",
+      "id": "annotation_290",
+      "path": [
+        "image_fig6s2",
+        "title"
+      ],
+      "target": null,
+      "range": [
+        30,
+        48
+      ]
+    },
+    "heading_s4": {
+      "type": "heading",
+      "id": "heading_s4",
+      "level": 1,
+      "content": "Materials and methods",
+      "nodes": []
+    },
+    "heading_s4-1": {
+      "type": "heading",
+      "id": "heading_s4-1",
+      "level": 2,
+      "content": "Bacterial strains, plasmids and growth",
+      "nodes": []
+    },
+    "paragraph_291": {
+      "type": "paragraph",
+      "id": "paragraph_291",
+      "content": "Primers and plasmids used in this study are listed in Supplementary file 1A,B. See also Supplementary file 1C for strains and their mode of construction. M. xanthus strains were grown at 32°C in CYE rich media as previously described (Bustamante et al., 2004). When necessary antibiotics were added: kanamycin (Km) at 50 mg/ml, tetracycline (Tc) at 12 mg/ml, for M. xanthus, and Km at 50 mg/ml, or Tc at 100 mg/ml for E. coli. Constructs were confirmed by phenotypes, restriction analysis and DNA sequencing. Plasmids were introduced in M. xanthus by electroporation."
+    },
+    "figure_reference_292": {
+      "type": "figure_reference",
+      "id": "figure_reference_292",
+      "path": [
+        "paragraph_291",
+        "content"
+      ],
+      "target": "supplement_SD1_data",
+      "range": [
+        54,
+        77
+      ]
+    },
+    "figure_reference_293": {
+      "type": "figure_reference",
+      "id": "figure_reference_293",
+      "path": [
+        "paragraph_291",
+        "content"
+      ],
+      "target": "supplement_SD1_data",
+      "range": [
+        88,
+        109
+      ]
+    },
+    "annotation_294": {
+      "type": "emphasis",
+      "id": "annotation_294",
+      "path": [
+        "paragraph_291",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        154,
+        164
+      ]
+    },
+    "citation_reference_295": {
+      "type": "citation_reference",
+      "id": "citation_reference_295",
+      "path": [
+        "paragraph_291",
+        "content"
+      ],
+      "target": "article_citation_bib4",
+      "range": [
+        235,
+        258
+      ]
+    },
+    "annotation_296": {
+      "type": "emphasis",
+      "id": "annotation_296",
+      "path": [
+        "paragraph_291",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        363,
+        373
+      ]
+    },
+    "annotation_297": {
+      "type": "emphasis",
+      "id": "annotation_297",
+      "path": [
+        "paragraph_291",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        418,
+        425
+      ]
+    },
+    "annotation_298": {
+      "type": "emphasis",
+      "id": "annotation_298",
+      "path": [
+        "paragraph_291",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        537,
+        547
+      ]
+    },
+    "heading_s4-2": {
+      "type": "heading",
+      "id": "heading_s4-2",
+      "level": 2,
+      "content": "Protein transfer experiment",
+      "nodes": []
+    },
+    "paragraph_299": {
+      "type": "paragraph",
+      "id": "paragraph_299",
+      "content": "For colony assays, cells were first grown in CYE, harvested and resuspended to a final concentration of 4 × 109 cfu/ml. Fluorescent donors (DZ2 PpilA–OMss–mCherry, DZ2 PpilA–IMss–mCherry, DZ2 PpilA–PERIss–mCherry or DZ2 PpilA–OMss–sfGFP) were mixed 1:1 with fluorescent recipients (DZ2 aglZ-YFP or DZ2 PpilA–IMss–mCherry). Strain mixtures were then spotted on CYE plates (1.5% agar). At various times, cells were scraped from agar plates and resuspended in TPM (10 mM Tris [pH 7.6], 8 mM MgSO4, 10 mM KH2PO4) and spotted on agar pads to be counted directly under the micrscope. For each condition and time point, at least 3000 cells were analyzed in triplicate."
+    },
+    "annotation_300": {
+      "type": "superscript",
+      "id": "annotation_300",
+      "path": [
+        "paragraph_299",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        110,
+        111
+      ]
+    },
+    "annotation_301": {
+      "type": "subscript",
+      "id": "annotation_301",
+      "path": [
+        "paragraph_299",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        492,
+        493
+      ]
+    },
+    "annotation_302": {
+      "type": "subscript",
+      "id": "annotation_302",
+      "path": [
+        "paragraph_299",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        503,
+        504
+      ]
+    },
+    "annotation_303": {
+      "type": "subscript",
+      "id": "annotation_303",
+      "path": [
+        "paragraph_299",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        506,
+        507
+      ]
+    },
+    "paragraph_304": {
+      "type": "paragraph",
+      "id": "paragraph_304",
+      "content": "For single-cell level assays, cells were first grown in CYE, harvested, resuspended to a final concentration of 1 × 107 cfu/ml. To clearly differentiate fluorescent donor to recipient, OMss–sfGFP expressing donors was mixed 1:1 with IMss–mCherry expressing recipient. Cells were then imaged under on agar pads for up to 1 hr."
+    },
+    "annotation_305": {
+      "type": "superscript",
+      "id": "annotation_305",
+      "path": [
+        "paragraph_304",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        118,
+        119
+      ]
+    },
+    "heading_s4-3": {
+      "type": "heading",
+      "id": "heading_s4-3",
+      "level": 2,
+      "content": "Lipid dye transfer experiment",
+      "nodes": []
+    },
+    "paragraph_306": {
+      "type": "paragraph",
+      "id": "paragraph_306",
+      "content": "Cells were first grown in CYE, harvested, resuspended to a final concentration of 1 × 107 cfu/ml. To stain cells, 1 µl of Vybrant DiO Cell-Labeling Solution (Invitrogen, Saint Aubin, France) was added to 1 ml of cells and incubated for 30 min in the dark at 32°C under agitation. Cells were then pelleted by centrifugation, and washed four times with 1 ml TPM. Cells were then imaged on agar pads for up to 1 hr."
+    },
+    "annotation_307": {
+      "type": "superscript",
+      "id": "annotation_307",
+      "path": [
+        "paragraph_306",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        88,
+        89
+      ]
+    },
+    "heading_s4-4": {
+      "type": "heading",
+      "id": "heading_s4-4",
+      "level": 2,
+      "content": "Time lapse video-microscopy",
+      "nodes": []
+    },
+    "paragraph_308": {
+      "type": "paragraph",
+      "id": "paragraph_308",
+      "content": "Time lapse experiments were performed as previously described (Ducret et al., 2009). Microscopic analysis was performed using an automated and inverted epifluorescence microscope TE2000-E-PFS (Nikon, Champigny sur Marne, France). The microscope is equipped with ‘The Perfect Focus System’ (PFS) that automatically maintains focus so that the point of interest within a specimen is always kept in sharp focus at all times, in spite of any mechanical or thermal perturbations. Photobleaching was performed with a 488 nm laser. The bleach region of interest (ROI) was a circular region ∼1 µm diameter. The ROI was uniformly bleached with a 200 ms laser exposition at 100% intensity. Images were recorded with a CoolSNAP HQ 2 (Roper Scientific, Roper Scientific SARL, France) and a 100x/1.4 DLL objective. All fluorescence images were acquired with appropriate filters with a minimal exposure time to minimize bleaching and phototoxicity effects. Cell tracking was performed automatically using a previously described macro under the METAMORPH software (Molecular devices, Evry, France) (Ducret et al., 2009). Typically, the images were equalized, straightened and overlaid under both ImageJ 1.40g (National Institute of Health, United States) and METAMORPH. Kymographs display the maximum intensity values of green or red signal along the long axis of the cell for each frame, using a 0.2 µm wide region. The Y-axis of each kymograph represents the relative position along the cell body, where 0 represents the mid-cell and 1 or −1 the cell poles. The −1 pole is always the pole closer to the bottom of the frames shown in panel."
+    },
+    "citation_reference_309": {
+      "type": "citation_reference",
+      "id": "citation_reference_309",
+      "path": [
+        "paragraph_308",
+        "content"
+      ],
+      "target": "article_citation_bib7",
+      "range": [
+        63,
+        82
+      ]
+    },
+    "citation_reference_310": {
+      "type": "citation_reference",
+      "id": "citation_reference_310",
+      "path": [
+        "paragraph_308",
+        "content"
+      ],
+      "target": "article_citation_bib7",
+      "range": [
+        1084,
+        1103
+      ]
+    },
+    "heading_s4-5": {
+      "type": "heading",
+      "id": "heading_s4-5",
+      "level": 2,
+      "content": "Diffusion rates of DiO dye and OMsfGFP fusion",
+      "nodes": []
+    },
+    "annotation_311": {
+      "type": "subscript",
+      "id": "annotation_311",
+      "path": [
+        "heading_s4-5",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        33,
+        38
+      ]
+    },
+    "paragraph_312": {
+      "type": "paragraph",
+      "id": "paragraph_312",
+      "content": "To know the respective diffusions rates of the probes used in this study, we measured the diffusion constant of the DiO and the outer membrane probe OMsfGFP using fluorescence recovery after photobleaching (FRAP). As observed in Figure 4—figure supplement 2A,B, FRAP analysis provided a diffusion coefficient for DiO (DDiO = 8.1 ± 1.3 µm2/s) at least four times faster than the OMsfGFP probe (DsfGFP = 2.3 ± 0.5 µm2/s). These values are similar to diffusion constants measured for respectively outer membrane probes and outer membrane proteins in E. coli (Tocanne et al., 1994; Chow et al., 2012)."
+    },
+    "annotation_313": {
+      "type": "subscript",
+      "id": "annotation_313",
+      "path": [
+        "paragraph_312",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        151,
+        156
+      ]
+    },
+    "figure_reference_314": {
+      "type": "figure_reference",
+      "id": "figure_reference_314",
+      "path": [
+        "paragraph_312",
+        "content"
+      ],
+      "target": "image_fig4s2",
+      "range": [
+        229,
+        260
+      ]
+    },
+    "annotation_315": {
+      "type": "subscript",
+      "id": "annotation_315",
+      "path": [
+        "paragraph_312",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        319,
+        322
+      ]
+    },
+    "annotation_316": {
+      "type": "superscript",
+      "id": "annotation_316",
+      "path": [
+        "paragraph_312",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        337,
+        338
+      ]
+    },
+    "annotation_317": {
+      "type": "subscript",
+      "id": "annotation_317",
+      "path": [
+        "paragraph_312",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        380,
+        385
+      ]
+    },
+    "annotation_318": {
+      "type": "subscript",
+      "id": "annotation_318",
+      "path": [
+        "paragraph_312",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        394,
+        399
+      ]
+    },
+    "annotation_319": {
+      "type": "superscript",
+      "id": "annotation_319",
+      "path": [
+        "paragraph_312",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        414,
+        415
+      ]
+    },
+    "annotation_320": {
+      "type": "emphasis",
+      "id": "annotation_320",
+      "path": [
+        "paragraph_312",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        547,
+        554
+      ]
+    },
+    "citation_reference_321": {
+      "type": "citation_reference",
+      "id": "citation_reference_321",
+      "path": [
+        "paragraph_312",
+        "content"
+      ],
+      "target": "article_citation_bib25",
+      "range": [
+        556,
+        576
+      ]
+    },
+    "citation_reference_322": {
+      "type": "citation_reference",
+      "id": "citation_reference_322",
+      "path": [
+        "paragraph_312",
+        "content"
+      ],
+      "target": "article_citation_bib5",
+      "range": [
+        578,
+        595
+      ]
+    },
+    "heading_s4-6": {
+      "type": "heading",
+      "id": "heading_s4-6",
+      "level": 2,
+      "content": "TEM procedure",
+      "nodes": []
+    },
+    "paragraph_323": {
+      "type": "paragraph",
+      "id": "paragraph_323",
+      "content": "For TEM experiments carbon-coated copper grids were first coated with carboxymethylcellulose. Briefly, carbon-coated copper grids were covered with 30 µl of carboxymethylcellulose sodium salt (Medium viscosity, Sigma-Aldrich, Inc., St Louis, MO) diluted in ultrapure water. After 15 min of incubation at room temperature, the coating solution was removed by performing two successive washes with ultrapure water. Carbon-coated copper grids were then covered with the cell suspension previously washed and resuspended in TPM containing 100 mM of CaCl2 (TPM-Ca2+). After 1 or 15 min incubation, unattached cells were removed by performing two successive washes with TPM. For Lectin-Gold staining procedure, carbon-coated copper grids were first covered for 30 min with 30 µl of ConcanavalinA (ConA)-Biotin conjugated (ConA-Biotin; Sigma-Aldrich, Inc.) diluted in TPM-Ca2+ to a final concentration of 100 µg/ml and then washed four times with TPM-Ca2+. The grids were then incubated for 15 min with 10 nm gold-conjugated streptavidin (Invitrogen, Saint Aubin, France) diluted in TPM-Ca2+ (1/500) and then washed four times with TPM-Ca2+. Grids were postfixed with 1% glutaraldehyde, washed once with TPM, washed four times with water, stained with 1% (wt/vol) uranyl acetate, dried, and imaged with a JEM-1011 transmission electron microscope operated at 100 kV. Cells were first observed on standard TEM grids. As observed in Figure 3C, tubes appear as continuous and flexible structures emerging from the cell surface. Unattached tubes and vesicles were also observed in the vicinity of cells suggesting that this material was also released by cells in the media. On standard uncoated TEM grids Myxococcus cells do not glide (data not shown) precluding any observation of these structures when cells were moving. To deal with this limitation we pre-coated the TEM grids with cellulose, a linear polysaccharide composed of β(1→4) linked D-glucose units and previously known to support gliding motility of M. xanthus (Ducret et al., 2013). As observed on Figure 5A,D and Figure 5—figure supplement 1A,B, linear depositions of tubes and vesicles were observed in the wake of motile cells when cells were deposited on pre-coated TEM grids and incubated for 20 min before fixation. Linear depositions were not observed (i) when motile cells were fixed directly after deposition, (ii) with non-motile cells, and (iii) with A− cells (A−S+ strain), strongly suggesting that these depositions are specifically associated with the A-motility. Since gliding Myxococcus cells are known to deposit slime, a self-deposited sugar polymer that facilitates cell adhesion to the underlying substratum, we then tested if the deposited material is associated with slime. The slime polymer can be detected selectively by addition of Concanavalin A (ConA). When ConA was added to the TEM grids, electron-dense trails appeared in the wake of motile cells. The tubes and vesicles were clearly embedded in these trails. To verify that the trails are indeed labeled by ConA, we use Biotinylated ConA and colloidal gold-streptavidin. As observed on Figure 5D, gold particles were exclusively associated with the trail proving that vesicles and tubes are associated with the slime polymer."
+    },
+    "annotation_324": {
+      "type": "subscript",
+      "id": "annotation_324",
+      "path": [
+        "paragraph_323",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        549,
+        550
+      ]
+    },
+    "annotation_325": {
+      "type": "superscript",
+      "id": "annotation_325",
+      "path": [
+        "paragraph_323",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        558,
+        560
+      ]
+    },
+    "annotation_326": {
+      "type": "superscript",
+      "id": "annotation_326",
+      "path": [
+        "paragraph_323",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        867,
+        869
+      ]
+    },
+    "annotation_327": {
+      "type": "superscript",
+      "id": "annotation_327",
+      "path": [
+        "paragraph_323",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        946,
+        948
+      ]
+    },
+    "annotation_328": {
+      "type": "superscript",
+      "id": "annotation_328",
+      "path": [
+        "paragraph_323",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1082,
+        1084
+      ]
+    },
+    "annotation_329": {
+      "type": "superscript",
+      "id": "annotation_329",
+      "path": [
+        "paragraph_323",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1131,
+        1133
+      ]
+    },
+    "figure_reference_330": {
+      "type": "figure_reference",
+      "id": "figure_reference_330",
+      "path": [
+        "paragraph_323",
+        "content"
+      ],
+      "target": "image_fig3",
+      "range": [
+        1424,
+        1433
+      ]
+    },
+    "annotation_331": {
+      "type": "emphasis",
+      "id": "annotation_331",
+      "path": [
+        "paragraph_323",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1694,
+        1704
+      ]
+    },
+    "annotation_332": {
+      "type": "emphasis",
+      "id": "annotation_332",
+      "path": [
+        "paragraph_323",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        2003,
+        2013
+      ]
+    },
+    "citation_reference_333": {
+      "type": "citation_reference",
+      "id": "citation_reference_333",
+      "path": [
+        "paragraph_323",
+        "content"
+      ],
+      "target": "article_citation_bib8",
+      "range": [
+        2015,
+        2034
+      ]
+    },
+    "figure_reference_334": {
+      "type": "figure_reference",
+      "id": "figure_reference_334",
+      "path": [
+        "paragraph_323",
+        "content"
+      ],
+      "target": "image_fig5",
+      "range": [
+        2052,
+        2063
+      ]
+    },
+    "figure_reference_335": {
+      "type": "figure_reference",
+      "id": "figure_reference_335",
+      "path": [
+        "paragraph_323",
+        "content"
+      ],
+      "target": "image_fig5s1",
+      "range": [
+        2068,
+        2099
+      ]
+    },
+    "annotation_336": {
+      "type": "superscript",
+      "id": "annotation_336",
+      "path": [
+        "paragraph_323",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        2427,
+        2428
+      ]
+    },
+    "annotation_337": {
+      "type": "superscript",
+      "id": "annotation_337",
+      "path": [
+        "paragraph_323",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        2429,
+        2430
+      ]
+    },
+    "annotation_338": {
+      "type": "emphasis",
+      "id": "annotation_338",
+      "path": [
+        "paragraph_323",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        2546,
+        2556
+      ]
+    },
+    "figure_reference_339": {
+      "type": "figure_reference",
+      "id": "figure_reference_339",
+      "path": [
+        "paragraph_323",
+        "content"
+      ],
+      "target": "image_fig5",
+      "range": [
+        3121,
+        3130
+      ]
+    },
+    "heading_s4-7": {
+      "type": "heading",
+      "id": "heading_s4-7",
+      "level": 2,
+      "content": "Periplasmic probe and OM/IM probe Verification—plasmolysis",
+      "nodes": []
+    },
+    "paragraph_340": {
+      "type": "paragraph",
+      "id": "paragraph_340",
+      "content": "To verify the proper localization of each probe, cells expressing OMmCherry, IMmCherry, PERImCherry or OMsfGFP/IMmCherry were subjected to plasmolysis (Lewenza et al., 2008; Wei et al., 2011). As predicted, OMmCherry, OMsfGFP and PERImCherry retained their envelope localization when IMmCherry probe formed fluorescent cytoplasmic aggregates (Figure 1—figure supplement 1A,B), indicating that following plasmolysis only the IM fusions collapse with the inner membrane. Plasmolysis was performed as previously described (Lewenza et al., 2008). Briefly, log phase cells were washed, resuspended in TPM buffer and then immobilized in a hybrid flow chamber (Ducret et al., 2009). Cells were imaged before (control) and after injection of the plasmolysis solution (0.5 M NaCl)."
+    },
+    "annotation_341": {
+      "type": "subscript",
+      "id": "annotation_341",
+      "path": [
+        "paragraph_340",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        68,
+        75
+      ]
+    },
+    "annotation_342": {
+      "type": "subscript",
+      "id": "annotation_342",
+      "path": [
+        "paragraph_340",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        79,
+        86
+      ]
+    },
+    "annotation_343": {
+      "type": "subscript",
+      "id": "annotation_343",
+      "path": [
+        "paragraph_340",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        92,
+        99
+      ]
+    },
+    "annotation_344": {
+      "type": "subscript",
+      "id": "annotation_344",
+      "path": [
+        "paragraph_340",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        105,
+        110
+      ]
+    },
+    "annotation_345": {
+      "type": "subscript",
+      "id": "annotation_345",
+      "path": [
+        "paragraph_340",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        113,
+        120
+      ]
+    },
+    "citation_reference_346": {
+      "type": "citation_reference",
+      "id": "citation_reference_346",
+      "path": [
+        "paragraph_340",
+        "content"
+      ],
+      "target": "article_citation_bib11",
+      "range": [
+        152,
+        172
+      ]
+    },
+    "citation_reference_347": {
+      "type": "citation_reference",
+      "id": "citation_reference_347",
+      "path": [
+        "paragraph_340",
+        "content"
+      ],
+      "target": "article_citation_bib26",
+      "range": [
+        174,
+        190
+      ]
+    },
+    "annotation_348": {
+      "type": "subscript",
+      "id": "annotation_348",
+      "path": [
+        "paragraph_340",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        209,
+        217
+      ]
+    },
+    "annotation_349": {
+      "type": "subscript",
+      "id": "annotation_349",
+      "path": [
+        "paragraph_340",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        220,
+        225
+      ]
+    },
+    "annotation_350": {
+      "type": "subscript",
+      "id": "annotation_350",
+      "path": [
+        "paragraph_340",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        234,
+        241
+      ]
+    },
+    "annotation_351": {
+      "type": "subscript",
+      "id": "annotation_351",
+      "path": [
+        "paragraph_340",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        286,
+        293
+      ]
+    },
+    "figure_reference_352": {
+      "type": "figure_reference",
+      "id": "figure_reference_352",
+      "path": [
+        "paragraph_340",
+        "content"
+      ],
+      "target": "image_fig1s1",
+      "range": [
+        343,
+        374
+      ]
+    },
+    "citation_reference_353": {
+      "type": "citation_reference",
+      "id": "citation_reference_353",
+      "path": [
+        "paragraph_340",
+        "content"
+      ],
+      "target": "article_citation_bib11",
+      "range": [
+        520,
+        540
+      ]
+    },
+    "citation_reference_354": {
+      "type": "citation_reference",
+      "id": "citation_reference_354",
+      "path": [
+        "paragraph_340",
+        "content"
+      ],
+      "target": "article_citation_bib7",
+      "range": [
+        654,
+        673
+      ]
+    },
+    "heading_s4-8": {
+      "type": "heading",
+      "id": "heading_s4-8",
+      "level": 2,
+      "content": "Lectin staining procedure",
+      "nodes": []
+    },
+    "paragraph_355": {
+      "type": "paragraph",
+      "id": "paragraph_355",
+      "content": "Lectin staining was performed as previously described (Ducret et al., 2012). Briefly, cells were injected in a flow chamber pre-coated with Chitosan. Immediately prior to the experiments, the Concanavalin-A stock solution were diluted to a final concentration of 20 µg/ml in TPM containing 100 mM of CaCl2 and 100 µg/ml of bovine serum albumin (BSA). The mixture was then injected into the flow chamber. After 20 min of incubation, the lectins were washed out with TPM."
+    },
+    "citation_reference_356": {
+      "type": "citation_reference",
+      "id": "citation_reference_356",
+      "path": [
+        "paragraph_355",
+        "content"
+      ],
+      "target": "article_citation_bib9",
+      "range": [
+        55,
+        74
+      ]
+    },
+    "annotation_357": {
+      "type": "subscript",
+      "id": "annotation_357",
+      "path": [
+        "paragraph_355",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        304,
+        305
+      ]
+    },
+    "annotation_358": {
+      "type": "emphasis",
+      "id": "annotation_358",
+      "path": [
+        "paragraph_355",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        330,
+        343
+      ]
+    },
+    "info:ack": {
+      "type": "heading",
+      "id": "info:ack",
+      "level": 2,
+      "content": "Acknowledgements",
+      "nodes": [
+        "paragraph_ack"
+      ]
+    },
+    "paragraph_ack": {
+      "type": "paragraph",
+      "id": "paragraph_ack",
+      "content": "AcknowledgementsWe wish to thank Emilia Mauriello, Thierry Doan, Arnaud Chastanet, Velocity Hughes and Cécile Berne for comments and discussion about the manuscript. We would like to thank Alain Bernadac for his help with TEM microscopy.Additional information"
+    },
+    "info:competing-interest": {
+      "type": "heading",
+      "id": "info:competing-interest",
+      "level": 2,
+      "content": "Competing Interests",
+      "nodes": [
+        "paragraph_359"
+      ]
+    },
+    "paragraph_359": {
+      "type": "paragraph",
+      "id": "paragraph_359",
+      "content": "Competing interestsThe authors declare that no competing interests exist."
+    },
+    "info:author_contribution": {
+      "type": "heading",
+      "id": "info:author_contribution",
+      "level": 2,
+      "content": "Authors",
+      "nodes": [
+        "person_author_5170",
+        "person_author_5171",
+        "person_author_5172",
+        "person_author_5082"
+      ]
+    },
+    "supplement_SD1_data": {
+      "type": "supplement",
+      "id": "supplement_SD1_data",
+      "label": "Supplementary file 1.",
+      "source": "",
+      "title": "",
+      "caption": "paragraph_supplement_SD1_data",
+      "content": "",
+      "doi": "http://dx.doi.org/10.7554/eLife.00868.023",
+      "graphic_id": "elife00868s001.xlsx"
+    },
+    "paragraph_supplement_SD1_data": {
+      "type": "paragraph",
+      "id": "paragraph_supplement_SD1_data",
+      "content": "(A) Strains used in this study. (B) Primers used in this study. (C) Plasmids used in this study and their mode of construction."
+    },
+    "annotation_360": {
+      "type": "strong",
+      "id": "annotation_360",
+      "path": [
+        "paragraph_supplement_SD1_data",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1,
+        2
+      ]
+    },
+    "annotation_361": {
+      "type": "strong",
+      "id": "annotation_361",
+      "path": [
+        "paragraph_supplement_SD1_data",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        33,
+        34
+      ]
+    },
+    "annotation_362": {
+      "type": "strong",
+      "id": "annotation_362",
+      "path": [
+        "paragraph_supplement_SD1_data",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        65,
+        66
+      ]
+    },
+    "article_citation_bib2": {
+      "type": "article_citation",
+      "id": "article_citation_bib2",
+      "authors": [
+        {
+          "given-names": "ME",
+          "last-name": "Bayer"
+        }
+      ],
+      "title": "Zones of membrane adhesion in the cryofixed envelope of Escherichia coli",
+      "year": "1991",
+      "volume": "107",
+      "source": "J Struct Biol",
+      "issue": "",
+      "fpage": "268",
+      "lpage": "80",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/1047-8477(91)90052-X",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "annotation_363": {
+      "type": "emphasis",
+      "id": "annotation_363",
+      "path": [
+        "article_citation_bib2",
+        "title"
+      ],
+      "target": null,
+      "range": [
+        56,
+        72
+      ]
+    },
+    "article_citation_bib3": {
+      "type": "article_citation",
+      "id": "article_citation_bib3",
+      "authors": [
+        {
+          "given-names": "RP",
+          "last-name": "Burchard"
+        }
+      ],
+      "title": "Trail following by gliding bacteria",
+      "year": "1982",
+      "volume": "152",
+      "source": "J Bacteriol",
+      "issue": "",
+      "fpage": "495",
+      "lpage": "501",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib4": {
+      "type": "article_citation",
+      "id": "article_citation_bib4",
+      "authors": [
+        {
+          "given-names": "VH",
+          "last-name": "Bustamante"
+        },
+        {
+          "given-names": "I",
+          "last-name": "Martínez-Flores"
+        },
+        {
+          "given-names": "HC",
+          "last-name": "Vlamakis"
+        },
+        {
+          "given-names": "DR",
+          "last-name": "Zusman"
+        }
+      ],
+      "title": "Analysis of the Frz signal transduction system of Myxococcus xanthus shows the importance of the conserved C-terminal region of the cytoplasmic chemoreceptor FrzCD in sensing signals",
+      "year": "2004",
+      "volume": "53",
+      "source": "Mol Microbiol",
+      "issue": "",
+      "fpage": "1501",
+      "lpage": "13",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1111/j.1365-2958.2004.04221.x",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "annotation_364": {
+      "type": "emphasis",
+      "id": "annotation_364",
+      "path": [
+        "article_citation_bib4",
+        "title"
+      ],
+      "target": null,
+      "range": [
+        50,
+        68
+      ]
+    },
+    "article_citation_bib5": {
+      "type": "article_citation",
+      "id": "article_citation_bib5",
+      "authors": [
+        {
+          "given-names": "D",
+          "last-name": "Chow"
+        },
+        {
+          "given-names": "L",
+          "last-name": "Guo"
+        },
+        {
+          "given-names": "F",
+          "last-name": "Gai"
+        },
+        {
+          "given-names": "M",
+          "last-name": "Goulian"
+        }
+      ],
+      "title": "Fluorescence correlation spectroscopy measurements of the membrane protein TetA in Escherichia coli suggest rapid diffusion at short length scales",
+      "year": "2012",
+      "volume": "7",
+      "source": "PLOS ONE",
+      "issue": "",
+      "fpage": "e48600",
+      "lpage": "",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1371/journal.pone.0048600",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "annotation_365": {
+      "type": "emphasis",
+      "id": "annotation_365",
+      "path": [
+        "article_citation_bib5",
+        "title"
+      ],
+      "target": null,
+      "range": [
+        83,
+        99
+      ]
+    },
+    "article_citation_bib6": {
+      "type": "article_citation",
+      "id": "article_citation_bib6",
+      "authors": [
+        {
+          "given-names": "GP",
+          "last-name": "Dubey"
+        },
+        {
+          "given-names": "S",
+          "last-name": "Ben-Yehuda"
+        }
+      ],
+      "title": "Intercellular nanotubes mediate bacterial communication",
+      "year": "2011",
+      "volume": "144",
+      "source": "Cell",
+      "issue": "",
+      "fpage": "590",
+      "lpage": "600",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/j.cell.2011.01.015",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib7": {
+      "type": "article_citation",
+      "id": "article_citation_bib7",
+      "authors": [
+        {
+          "given-names": "A",
+          "last-name": "Ducret"
+        },
+        {
+          "given-names": "E",
+          "last-name": "Maisonneuve"
+        },
+        {
+          "given-names": "P",
+          "last-name": "Notareschi"
+        },
+        {
+          "given-names": "A",
+          "last-name": "Grossi"
+        },
+        {
+          "given-names": "T",
+          "last-name": "Mignot"
+        },
+        {
+          "given-names": "S",
+          "last-name": "Dukan"
+        }
+      ],
+      "title": "A microscope automated fluidic system to study bacterial processes in real time",
+      "year": "2009",
+      "volume": "4",
+      "source": "PLOS ONE",
+      "issue": "",
+      "fpage": "e7282",
+      "lpage": "",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1371/journal.pone.0007282",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib8": {
+      "type": "article_citation",
+      "id": "article_citation_bib8",
+      "authors": [
+        {
+          "given-names": "A",
+          "last-name": "Ducret"
+        },
+        {
+          "given-names": "O",
+          "last-name": "Théodoly"
+        },
+        {
+          "given-names": "T",
+          "last-name": "Mignot"
+        }
+      ],
+      "title": "Single cell microfluidic studies of bacterial motility",
+      "year": "2013",
+      "volume": "966",
+      "source": "Methods Mol Biol",
+      "issue": "",
+      "fpage": "97",
+      "lpage": "107",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1007/978-1-62703-245-2_6",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib9": {
+      "type": "article_citation",
+      "id": "article_citation_bib9",
+      "authors": [
+        {
+          "given-names": "A",
+          "last-name": "Ducret"
+        },
+        {
+          "given-names": "M-P",
+          "last-name": "Valignat"
+        },
+        {
+          "given-names": "F",
+          "last-name": "Mouhamar"
+        },
+        {
+          "given-names": "T",
+          "last-name": "Mignot"
+        },
+        {
+          "given-names": "O",
+          "last-name": "Theodoly"
+        }
+      ],
+      "title": "Wet-surface-enhanced ellipsometric contrast microscopy identifies slime as a major adhesion factor during bacterial surface motility",
+      "year": "2012",
+      "volume": "109",
+      "source": "Proc Natl Acad Sci USA",
+      "issue": "",
+      "fpage": "10036",
+      "lpage": "41",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1073/pnas.1120979109",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib10": {
+      "type": "article_citation",
+      "id": "article_citation_bib10",
+      "authors": [
+        {
+          "given-names": "G",
+          "last-name": "Kirfel"
+        },
+        {
+          "given-names": "A",
+          "last-name": "Rigort"
+        },
+        {
+          "given-names": "B",
+          "last-name": "Borm"
+        },
+        {
+          "given-names": "C",
+          "last-name": "Schulte"
+        },
+        {
+          "given-names": "V",
+          "last-name": "Herzog"
+        }
+      ],
+      "title": "Structural and compositional analysis of the keratinocyte migration track",
+      "year": "2003",
+      "volume": "55",
+      "source": "Cell Motil Cytoskeleton",
+      "issue": "",
+      "fpage": "1",
+      "lpage": "13",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1002/cm.10106",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib10a": {
+      "type": "article_citation",
+      "id": "article_citation_bib10a",
+      "authors": [
+        {
+          "given-names": "A",
+          "last-name": "Konovalova"
+        },
+        {
+          "given-names": "T",
+          "last-name": "Petters"
+        },
+        {
+          "given-names": "L",
+          "last-name": "Søgaard-Andersen"
+        }
+      ],
+      "title": "Extracellular biology of Myxococcus xanthus",
+      "year": "2010",
+      "volume": "34",
+      "source": "FEMS Microbiol Rev",
+      "issue": "",
+      "fpage": "89",
+      "lpage": "106",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1111/j.1574-6976.2009.00194.x",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "annotation_366": {
+      "type": "emphasis",
+      "id": "annotation_366",
+      "path": [
+        "article_citation_bib10a",
+        "title"
+      ],
+      "target": null,
+      "range": [
+        25,
+        43
+      ]
+    },
+    "article_citation_bib11": {
+      "type": "article_citation",
+      "id": "article_citation_bib11",
+      "authors": [
+        {
+          "given-names": "S",
+          "last-name": "Lewenza"
+        },
+        {
+          "given-names": "MM",
+          "last-name": "Mhlanga"
+        },
+        {
+          "given-names": "AP",
+          "last-name": "Pugsley"
+        }
+      ],
+      "title": "Novel inner membrane retention signals in Pseudomonas aeruginosa lipoproteins",
+      "year": "2008",
+      "volume": "190",
+      "source": "J Bacteriol",
+      "issue": "",
+      "fpage": "6119",
+      "lpage": "25",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1128/JB.00603-08",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "annotation_367": {
+      "type": "emphasis",
+      "id": "annotation_367",
+      "path": [
+        "article_citation_bib11",
+        "title"
+      ],
+      "target": null,
+      "range": [
+        42,
+        64
+      ]
+    },
+    "article_citation_bib12": {
+      "type": "article_citation",
+      "id": "article_citation_bib12",
+      "authors": [
+        {
+          "given-names": "J",
+          "last-name": "Luciano"
+        },
+        {
+          "given-names": "R",
+          "last-name": "Agrebi"
+        },
+        {
+          "given-names": "AV",
+          "last-name": "Le Gall"
+        },
+        {
+          "given-names": "M",
+          "last-name": "Wartel"
+        },
+        {
+          "given-names": "F",
+          "last-name": "Fiegna"
+        },
+        {
+          "given-names": "A",
+          "last-name": "Ducret"
+        }
+      ],
+      "title": "Emergence and modular evolution of a novel motility machinery in bacteria",
+      "year": "2011",
+      "volume": "7",
+      "source": "PLOS Genet",
+      "issue": "",
+      "fpage": "e1002268",
+      "lpage": "",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1371/journal.pgen.1002268",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib12a": {
+      "type": "article_citation",
+      "id": "article_citation_bib12a",
+      "authors": [
+        {
+          "given-names": "EMF",
+          "last-name": "Mauriello"
+        },
+        {
+          "given-names": "DP",
+          "last-name": "Astling"
+        },
+        {
+          "given-names": "O",
+          "last-name": "Sliusarenko"
+        },
+        {
+          "given-names": "DR",
+          "last-name": "Zusman"
+        }
+      ],
+      "title": "Localization of a bacterial cytoplasmic receptor is dynamic and changes with cell-cell contacts",
+      "year": "2009",
+      "volume": "106",
+      "source": "Proc Natl Acad Sci USA",
+      "issue": "",
+      "fpage": "4852",
+      "lpage": "7",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1073/pnas.0810583106",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib13": {
+      "type": "article_citation",
+      "id": "article_citation_bib13",
+      "authors": [
+        {
+          "given-names": "H",
+          "last-name": "Nakayama"
+        },
+        {
+          "given-names": "K",
+          "last-name": "Kurokawa"
+        },
+        {
+          "given-names": "BL",
+          "last-name": "Lee"
+        }
+      ],
+      "title": "Lipoproteins in bacteria: structures and biosynthetic pathways",
+      "year": "2012",
+      "volume": "279",
+      "source": "FEBS J",
+      "issue": "",
+      "fpage": "4247",
+      "lpage": "68",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1111/febs.12041",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib14": {
+      "type": "article_citation",
+      "id": "article_citation_bib14",
+      "authors": [
+        {
+          "given-names": "B",
+          "last-name": "Nan"
+        },
+        {
+          "given-names": "J",
+          "last-name": "Chen"
+        },
+        {
+          "given-names": "JC",
+          "last-name": "Neu"
+        },
+        {
+          "given-names": "RM",
+          "last-name": "Berry"
+        },
+        {
+          "given-names": "G",
+          "last-name": "Oster"
+        },
+        {
+          "given-names": "DR",
+          "last-name": "Zusman"
+        }
+      ],
+      "title": "Myxobacteria gliding motility requires cytoskeleton rotation powered by proton motive force",
+      "year": "2011",
+      "volume": "108",
+      "source": "Proc Natl Acad Sci USA",
+      "issue": "",
+      "fpage": "2498",
+      "lpage": "2503",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1073/pnas.1018556108",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib15": {
+      "type": "article_citation",
+      "id": "article_citation_bib15",
+      "authors": [
+        {
+          "given-names": "B",
+          "last-name": "Nan"
+        },
+        {
+          "given-names": "EMF",
+          "last-name": "Mauriello"
+        },
+        {
+          "given-names": "I-H",
+          "last-name": "Sun"
+        },
+        {
+          "given-names": "A",
+          "last-name": "Wong"
+        },
+        {
+          "given-names": "DR",
+          "last-name": "Zusman"
+        }
+      ],
+      "title": "A multi-protein complex from Myxococcus xanthus required for bacterial gliding motility",
+      "year": "2010",
+      "volume": "76",
+      "source": "Mol Microbiol",
+      "issue": "",
+      "fpage": "1539",
+      "lpage": "54",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1111/j.1365-2958.2010.07184.x",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "annotation_368": {
+      "type": "emphasis",
+      "id": "annotation_368",
+      "path": [
+        "article_citation_bib15",
+        "title"
+      ],
+      "target": null,
+      "range": [
+        29,
+        47
+      ]
+    },
+    "article_citation_bib16": {
+      "type": "article_citation",
+      "id": "article_citation_bib16",
+      "authors": [
+        {
+          "given-names": "E",
+          "last-name": "Nudleman"
+        },
+        {
+          "given-names": "D",
+          "last-name": "Wall"
+        },
+        {
+          "given-names": "D",
+          "last-name": "Kaiser"
+        }
+      ],
+      "title": "Cell-to-cell transfer of bacterial outer membrane lipoproteins",
+      "year": "2005",
+      "volume": "309",
+      "source": "Science",
+      "issue": "",
+      "fpage": "125",
+      "lpage": "7",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1126/science.1112440",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib17": {
+      "type": "article_citation",
+      "id": "article_citation_bib17",
+      "authors": [
+        {
+          "given-names": "H",
+          "last-name": "Palsdottir"
+        },
+        {
+          "given-names": "JP",
+          "last-name": "Remis"
+        },
+        {
+          "given-names": "C",
+          "last-name": "Schaudinn"
+        },
+        {
+          "given-names": "E",
+          "last-name": "O’Toole"
+        },
+        {
+          "given-names": "R",
+          "last-name": "Lux"
+        },
+        {
+          "given-names": "W",
+          "last-name": "Shi"
+        }
+      ],
+      "title": "Three-dimensional macromolecular organization of cryofixed Myxococcus xanthus biofilms as revealed by electron microscopic tomography",
+      "year": "2009",
+      "volume": "191",
+      "source": "J Bacteriol",
+      "issue": "",
+      "fpage": "2077",
+      "lpage": "82",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1128/JB.01333-08",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "annotation_369": {
+      "type": "emphasis",
+      "id": "annotation_369",
+      "path": [
+        "article_citation_bib17",
+        "title"
+      ],
+      "target": null,
+      "range": [
+        59,
+        77
+      ]
+    },
+    "article_citation_bib18": {
+      "type": "article_citation",
+      "id": "article_citation_bib18",
+      "authors": [
+        {
+          "given-names": "DT",
+          "last-name": "Pathak"
+        },
+        {
+          "given-names": "X",
+          "last-name": "Wei"
+        },
+        {
+          "given-names": "A",
+          "last-name": "Bucuvalas"
+        },
+        {
+          "given-names": "DH",
+          "last-name": "Haft"
+        },
+        {
+          "given-names": "DL",
+          "last-name": "Gerloff"
+        },
+        {
+          "given-names": "D",
+          "last-name": "Wall"
+        }
+      ],
+      "title": "Cell contact-dependent outer membrane exchange in myxobacteria: genetic determinants and mechanism",
+      "year": "2012",
+      "volume": "8",
+      "source": "PLOS Genet",
+      "issue": "",
+      "fpage": "e1002626",
+      "lpage": "",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1371/journal.pgen.1002626",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib19": {
+      "type": "article_citation",
+      "id": "article_citation_bib19",
+      "authors": [
+        {
+          "given-names": "J-D",
+          "last-name": "Pédelacq"
+        },
+        {
+          "given-names": "S",
+          "last-name": "Cabantous"
+        },
+        {
+          "given-names": "T",
+          "last-name": "Tran"
+        },
+        {
+          "given-names": "TC",
+          "last-name": "Terwilliger"
+        },
+        {
+          "given-names": "GS",
+          "last-name": "Waldo"
+        }
+      ],
+      "title": "Engineering and characterization of a superfolder green fluorescent protein",
+      "year": "2006",
+      "volume": "24",
+      "source": "Nat Biotechnol",
+      "issue": "",
+      "fpage": "79",
+      "lpage": "88",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1038/nbt1172",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib20": {
+      "type": "article_citation",
+      "id": "article_citation_bib20",
+      "authors": [
+        {
+          "given-names": "SR",
+          "last-name": "Schooling"
+        },
+        {
+          "given-names": "TJ",
+          "last-name": "Beveridge"
+        }
+      ],
+      "title": "Membrane vesicles: an overlooked component of the matrices of biofilms",
+      "year": "2006",
+      "volume": "188",
+      "source": "J Bacteriol",
+      "issue": "",
+      "fpage": "5945",
+      "lpage": "57",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1128/JB.00257-06",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib21": {
+      "type": "article_citation",
+      "id": "article_citation_bib21",
+      "authors": [
+        {
+          "given-names": "SR",
+          "last-name": "Schooling"
+        },
+        {
+          "given-names": "A",
+          "last-name": "Hubley"
+        },
+        {
+          "given-names": "TJ",
+          "last-name": "Beveridge"
+        }
+      ],
+      "title": "Interactions of DNA with biofilm-derived membrane vesicles",
+      "year": "2009",
+      "volume": "191",
+      "source": "J Bacteriol",
+      "issue": "",
+      "fpage": "4097",
+      "lpage": "102",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1128/JB.00717-08",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib22": {
+      "type": "article_citation",
+      "id": "article_citation_bib22",
+      "authors": [
+        {
+          "given-names": "JM",
+          "last-name": "Silverman"
+        },
+        {
+          "given-names": "YR",
+          "last-name": "Brunet"
+        },
+        {
+          "given-names": "E",
+          "last-name": "Cascales"
+        },
+        {
+          "given-names": "JD",
+          "last-name": "Mougous"
+        }
+      ],
+      "title": "Structure and regulation of the type VI secretion system",
+      "year": "2012",
+      "volume": "66",
+      "source": "Annu Rev Microbiol",
+      "issue": "",
+      "fpage": "453",
+      "lpage": "72",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1146/annurev-micro-121809-151619",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib23": {
+      "type": "article_citation",
+      "id": "article_citation_bib23",
+      "authors": [
+        {
+          "given-names": "S",
+          "last-name": "Smukalla"
+        },
+        {
+          "given-names": "M",
+          "last-name": "Caldara"
+        },
+        {
+          "given-names": "N",
+          "last-name": "Pochet"
+        },
+        {
+          "given-names": "A",
+          "last-name": "Beauvais"
+        },
+        {
+          "given-names": "S",
+          "last-name": "Guadagnini"
+        },
+        {
+          "given-names": "C",
+          "last-name": "Yan"
+        }
+      ],
+      "title": "FLO1 is a variable green beard gene that drives biofilm-like cooperation in budding yeast",
+      "year": "2008",
+      "volume": "135",
+      "source": "Cell",
+      "issue": "",
+      "fpage": "726",
+      "lpage": "37",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/j.cell.2008.09.037",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib24": {
+      "type": "article_citation",
+      "id": "article_citation_bib24",
+      "authors": [
+        {
+          "given-names": "M",
+          "last-name": "Sun"
+        },
+        {
+          "given-names": "M",
+          "last-name": "Wartel"
+        },
+        {
+          "given-names": "E",
+          "last-name": "Cascales"
+        },
+        {
+          "given-names": "JW",
+          "last-name": "Shaevitz"
+        },
+        {
+          "given-names": "T",
+          "last-name": "Mignot"
+        }
+      ],
+      "title": "Motor-driven intracellular transport powers bacterial gliding motility",
+      "year": "2011",
+      "volume": "108",
+      "source": "Proc Natl Acad Sci USA",
+      "issue": "",
+      "fpage": "7559",
+      "lpage": "64",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1073/pnas.1101101108",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib25": {
+      "type": "article_citation",
+      "id": "article_citation_bib25",
+      "authors": [
+        {
+          "given-names": "J-F",
+          "last-name": "Tocanne"
+        },
+        {
+          "given-names": "L",
+          "last-name": "Dupou-Cézanne"
+        },
+        {
+          "given-names": "A",
+          "last-name": "Lopez"
+        }
+      ],
+      "title": "Lateral diffusion of lipids in model and natural membranes",
+      "year": "1994",
+      "volume": "33",
+      "source": "Prog Lipid Res",
+      "issue": "",
+      "fpage": "203",
+      "lpage": "37",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/0163-7827(94)90027-2",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib26": {
+      "type": "article_citation",
+      "id": "article_citation_bib26",
+      "authors": [
+        {
+          "given-names": "X",
+          "last-name": "Wei"
+        },
+        {
+          "given-names": "DT",
+          "last-name": "Pathak"
+        },
+        {
+          "given-names": "D",
+          "last-name": "Wall"
+        }
+      ],
+      "title": "Heterologous protein transfer within structured myxobacteria biofilms",
+      "year": "2011",
+      "volume": "81",
+      "source": "Mol Microbiol",
+      "issue": "",
+      "fpage": "315",
+      "lpage": "26",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1111/j.1365-2958.2011.07710.x",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib27": {
+      "type": "article_citation",
+      "id": "article_citation_bib27",
+      "authors": [
+        {
+          "given-names": "Y",
+          "last-name": "Zhang"
+        },
+        {
+          "given-names": "A",
+          "last-name": "Ducret"
+        },
+        {
+          "given-names": "J",
+          "last-name": "Shaevitz"
+        },
+        {
+          "given-names": "T",
+          "last-name": "Mignot"
+        }
+      ],
+      "title": "From individual cell motility to collective behaviors: insights from a prokaryote, Myxococcus xanthus",
+      "year": "2012",
+      "volume": "36",
+      "source": "FEMS Microbiol Rev",
+      "issue": "",
+      "fpage": "149",
+      "lpage": "64",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1111/j.1574-6976.2011.00307.x",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "annotation_370": {
+      "type": "emphasis",
+      "id": "annotation_370",
+      "path": [
+        "article_citation_bib27",
+        "title"
+      ],
+      "target": null,
+      "range": [
+        83,
+        101
+      ]
+    },
+    "sub-article": {
+      "type": "heading",
+      "id": "sub-article",
+      "level": 1,
+      "content": "Article Commentary",
+      "nodes": []
+    }
+  }
+}

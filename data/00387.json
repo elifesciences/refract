@@ -1,0 +1,914 @@
+{
+  "id": "00387",
+  "nodes": {
+    "content": {
+      "type": "view",
+      "id": "content",
+      "nodes": [
+        "abstract",
+        "paragraph_3",
+        "paragraph_8",
+        "paragraph_10",
+        "paragraph_11",
+        "paragraph_14",
+        "paragraph_19",
+        "paragraph_21",
+        "paragraph_26",
+        "paragraph_29",
+        "paragraph_35"
+      ]
+    },
+    "figures": {
+      "type": "view",
+      "id": "figures",
+      "nodes": [
+        "box_B1",
+        "image_fig1"
+      ]
+    },
+    "citations": {
+      "type": "view",
+      "id": "citations",
+      "nodes": [
+        "article_citation_bib1",
+        "article_citation_bib2",
+        "article_citation_bib3",
+        "article_citation_bib4",
+        "article_citation_bib5",
+        "article_citation_bib6",
+        "article_citation_bib7",
+        "article_citation_bib8",
+        "article_citation_bib9"
+      ]
+    },
+    "document": {
+      "type": "document",
+      "id": "document",
+      "views": [
+        "content",
+        "figures",
+        "citations"
+      ],
+      "guid": "00387",
+      "title": "How does doxorubicin work?",
+      "authors": [
+        "person_author_3093",
+        "person_author_3092"
+      ],
+      "received_on": "",
+      "accepted_on": "",
+      "published_on": "2012-12-18",
+      "journal": "eLife",
+      "article_type": "",
+      "keywords": [
+        "doxorubicin",
+        "cancer",
+        "CREB3L1",
+        "ceramide"
+      ],
+      "research_organisms": [
+        "Human"
+      ],
+      "subjects": [
+        "Biochemistry",
+        "Human biology and medicine"
+      ],
+      "pdf_link": "",
+      "xml_link": "",
+      "json_link": "",
+      "doi": ""
+    },
+    "person_author_3093": {
+      "type": "person",
+      "id": "person_author_3093",
+      "given-names": "Anand G",
+      "last-name": "Patel",
+      "role": "author",
+      "affiliations": [],
+      "image": "",
+      "contribution": "",
+      "email": "",
+      "funding": []
+    },
+    "person_author_3092": {
+      "type": "person",
+      "id": "person_author_3092",
+      "given-names": "Scott H",
+      "last-name": "Kaufmann",
+      "role": "author",
+      "affiliations": [],
+      "image": "",
+      "contribution": "",
+      "email": "",
+      "funding": []
+    },
+    "institution_aff1": {
+      "type": "institution",
+      "id": "institution_aff1",
+      "name": "Mayo Clinic",
+      "city": "Rochester",
+      "country": "United States",
+      "email": "",
+      "image": ""
+    },
+    "institution_aff2": {
+      "type": "institution",
+      "id": "institution_aff2",
+      "name": "Mayo Clinic",
+      "city": "Rochester",
+      "country": "United States",
+      "email": "Kaufmann.Scott@mayo.edu",
+      "image": ""
+    },
+    "info:copyright": {
+      "type": "heading",
+      "id": "info:copyright",
+      "level": 2,
+      "content": "Copyright",
+      "nodes": [
+        "paragraph_1"
+      ]
+    },
+    "paragraph_1": {
+      "type": "paragraph",
+      "id": "paragraph_1",
+      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "annotation_2": {
+      "type": "link",
+      "id": "annotation_2",
+      "path": [
+        "paragraph_1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        51,
+        87
+      ],
+      "url": "http://creativecommons.org/licenses/by/3.0/"
+    },
+    "abstract": {
+      "type": "heading",
+      "id": "abstract",
+      "level": 1,
+      "content": "Abstract",
+      "nodes": []
+    },
+    "paragraph_3": {
+      "type": "paragraph",
+      "id": "paragraph_3",
+      "content": "A new mechanism involving cleavage of a transcription factor called CREB3L1 has been proposed to explain the anti-tumour effects of doxorubicin."
+    },
+    "box_B1": {
+      "type": "box",
+      "id": "box_B1",
+      "label": "",
+      "url": "",
+      "title": "",
+      "caption": "",
+      "content": "Related research article Denard B, Lee C, Ye J. 2012. Doxorubicin blocks proliferation of cancer cells through proteolytic activation of CREB3L1. eLife 1:e00090. doi: 10.7554/eLife.00090",
+      "doi": ""
+    },
+    "annotation_4": {
+      "type": "strong",
+      "id": "annotation_4",
+      "path": [
+        "box_B1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        24
+      ]
+    },
+    "annotation_5": {
+      "type": "emphasis",
+      "id": "annotation_5",
+      "path": [
+        "box_B1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        146,
+        151
+      ]
+    },
+    "annotation_6": {
+      "type": "strong",
+      "id": "annotation_6",
+      "path": [
+        "box_B1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        152,
+        153
+      ]
+    },
+    "annotation_7": {
+      "type": "link",
+      "id": "annotation_7",
+      "path": [
+        "box_B1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        167,
+        186
+      ],
+      "url": "http://dx.doi.org/10.7554/eLife.00090"
+    },
+    "paragraph_8": {
+      "type": "paragraph",
+      "id": "paragraph_8",
+      "content": "Image Cleavage of the transcription factor CREB3L1"
+    },
+    "annotation_9": {
+      "type": "strong",
+      "id": "annotation_9",
+      "path": [
+        "paragraph_8",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        5
+      ]
+    },
+    "paragraph_10": {
+      "type": "paragraph",
+      "id": "paragraph_10",
+      "content": ""
+    },
+    "paragraph_11": {
+      "type": "paragraph",
+      "id": "paragraph_11",
+      "content": "Many clinically available drugs are used without a clear understanding of how they work. This is particularly true in oncology, where powerful cytotoxic drugs are given to patients despite the fact that we do not fully understand their mechanism of action. Even targeted therapies such as rapamycins and receptor tyrosine kinase inhibitors are active in only a subset of the tumours for which they were originally developed, which has led to calls for better methods to identify tumours that will respond to specific drugs. This issue is even more pressing for conventional cytotoxic agents because, in addition to being toxic to cancer cells, they can also be toxic to healthy cells. Now, writing in eLife, Brey Denard, Ching Lee and Jin Ye provide evidence that doxorubicin, a widely used cancer drug, induces cellular toxicity via a novel mechanism that involves the synthesis of ceramide followed by activation of a transcription factor called CREB3L1 (Denard et al., 2012)."
+    },
+    "annotation_12": {
+      "type": "emphasis",
+      "id": "annotation_12",
+      "path": [
+        "paragraph_11",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        701,
+        706
+      ]
+    },
+    "citation_reference_13": {
+      "type": "citation_reference",
+      "id": "citation_reference_13",
+      "path": [
+        "paragraph_11",
+        "content"
+      ],
+      "target": "article_citation_bib3",
+      "range": [
+        957,
+        976
+      ]
+    },
+    "paragraph_14": {
+      "type": "paragraph",
+      "id": "paragraph_14",
+      "content": "This is a story that began 40 years ago with the introduction of doxorubicin and daunorubicin into clinical practice. Both of these compounds belong to a class of drugs called anthracyclines that are derived from bacteria belonging to the genus Streptomyces. Extensive clinical studies have demonstrated that they are active against a wide variety of tumours (Minotti et al., 2004). However, despite this, the clinical use of anthracyclines has been limited because of a significant risk for cardiac damage. The chances of this life-threatening side effect depend on cumulative dosage, and can occur decades after exposure (Kremer et al., 2001). Over the years, many mechanisms of action have been proposed for these drugs—including topoisomerase II inhibition, DNA intercalation, and free radical generation—but there has until recently been a lack of definitive evidence for all three of these mechanisms (Gewirtz, 1999)."
+    },
+    "annotation_15": {
+      "type": "emphasis",
+      "id": "annotation_15",
+      "path": [
+        "paragraph_14",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        245,
+        257
+      ]
+    },
+    "citation_reference_16": {
+      "type": "citation_reference",
+      "id": "citation_reference_16",
+      "path": [
+        "paragraph_14",
+        "content"
+      ],
+      "target": "article_citation_bib8",
+      "range": [
+        360,
+        380
+      ]
+    },
+    "citation_reference_17": {
+      "type": "citation_reference",
+      "id": "citation_reference_17",
+      "path": [
+        "paragraph_14",
+        "content"
+      ],
+      "target": "article_citation_bib5",
+      "range": [
+        624,
+        643
+      ]
+    },
+    "citation_reference_18": {
+      "type": "citation_reference",
+      "id": "citation_reference_18",
+      "path": [
+        "paragraph_14",
+        "content"
+      ],
+      "target": "article_citation_bib4",
+      "range": [
+        908,
+        921
+      ]
+    },
+    "paragraph_19": {
+      "type": "paragraph",
+      "id": "paragraph_19",
+      "content": "Denard, Lee and Ye, who are based at the University of Texas Southwestern (UTSW) Medical Center, propose that doxorubicin can combat tumours via a mechanism called regulated intramembrane proteolysis. In this process, a membrane-bound protein is cleaved, liberating a soluble messaging molecule that can play a role in a variety of cellular processes, including apoptosis, lipid metabolism and the response to viral infection (Lal and Caplan, 2011)."
+    },
+    "citation_reference_20": {
+      "type": "citation_reference",
+      "id": "citation_reference_20",
+      "path": [
+        "paragraph_19",
+        "content"
+      ],
+      "target": "article_citation_bib6",
+      "range": [
+        427,
+        447
+      ]
+    },
+    "paragraph_21": {
+      "type": "paragraph",
+      "id": "paragraph_21",
+      "content": "In previous work, the UTSW group showed that CREB3L1—a membrane protein with a carboxy-domain inside the lumen of the endoplasmic reticulum, and an amino-terminal domain that is in the cytoplasm of the cell—undergoes proteolytic cleavage during viral infection to release the amino-terminal domain, which then translocates to the nucleus and drives the transcription of genes that inhibit cellular proliferation (Denard et al., 2011). In the present study, Denard, Lee and Ye extend these results by treating multiple cell lines with doxorubicin and showing that the drug produces lipid molecules called ceramides that trigger the cleavage of CREB3L1 (see Figure 1). This is again followed by translocation of the resulting amino-terminal fragment to the nucleus and the increased expression of several genes (Denard et al., 2012). Importantly, the down-regulation of CREB3L1 diminishes doxorubicin-induced effects on cell proliferation, whereas overexpression of CREB3L1 makes tumour cells more sensitive to doxorubicin. Collectively, these observations provide the first evidence for a model in which the anthracycline-induced synthesis of ceramides leads to the cleavage of CREB3L1, resulting in altered expression of genes that might contribute to the effect of the drug."
+    },
+    "citation_reference_22": {
+      "type": "citation_reference",
+      "id": "citation_reference_22",
+      "path": [
+        "paragraph_21",
+        "content"
+      ],
+      "target": "article_citation_bib2",
+      "range": [
+        413,
+        432
+      ]
+    },
+    "figure_reference_23": {
+      "type": "figure_reference",
+      "id": "figure_reference_23",
+      "path": [
+        "paragraph_21",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        656,
+        664
+      ]
+    },
+    "citation_reference_24": {
+      "type": "citation_reference",
+      "id": "citation_reference_24",
+      "path": [
+        "paragraph_21",
+        "content"
+      ],
+      "target": "article_citation_bib3",
+      "range": [
+        810,
+        829
+      ]
+    },
+    "image_fig1": {
+      "type": "image",
+      "id": "image_fig1",
+      "label": "Figure 1.",
+      "url": "",
+      "object_id": "F1",
+      "title": "",
+      "content_type": "",
+      "large_url": "",
+      "content": "",
+      "group": [
+        "parent",
+        null
+      ],
+      "doi": "",
+      "caption": "paragraph_image_fig1",
+      "graphic_id": "elife00387f001"
+    },
+    "paragraph_image_fig1": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig1",
+      "content": "Understanding how the anticancer drug doxorubicin works is an important challenge in cancer research. Two independent groups have recently published evidence for two potential mechanisms that might be able to explain anti-tumour effects of doxorubicin. Zhang et al. showed diminished toxicity in cardiomyocytes from mice lacking the Top2b gene. These data are consistent with previous claims that doxorubicin helps to stabilize complexes containing double-stranded DNA and the enzyme topoisomerase II (top right of figure): this enzyme then cuts both of the DNA strands, which leads to the death of both normal cells (predominantly via topoisomerase IIβ) and in tumour cells that are susceptible to the drug (predominantly via topoisomerase IIα), thus accounting for both the toxicity and anti-tumour efficacy of doxorubicin. Denard et al. propose that doxorubicin increases the production of ceramides inside cells (top left), which leads to the latent transcription factor CREB3L1 translocating from the endoplasmic reticulum to the Golgi apparatus. Two proteases (S1P and S2P) then cut the CREB3L1 protein; and its amino-terminal fragment then migrates into the nucleus, where it acts as a transcription factor to activate the CDNK1A locus and additional genes (bottom right). This leads to increased expression of the p21 protein along with other proteins that inhibit the proliferation of tumour cells."
+    },
+    "annotation_25": {
+      "type": "emphasis",
+      "id": "annotation_25",
+      "path": [
+        "paragraph_image_fig1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        333,
+        338
+      ]
+    },
+    "paragraph_26": {
+      "type": "paragraph",
+      "id": "paragraph_26",
+      "content": "While intriguing, these results represent only a first step in testing this model. In particular, as discussed by the authors, there are several open questions: Does ceramide alter CREB3L1 trafficking to the Golgi apparatus, where the intramembrane proteases are located? Does CDKN1A, one of the genes that is overexpressed when cells are treated with doxorubicin, have a critical role in the action of the drug? And does expression or activation of CREB3L1 correlate with doxorubicin sensitivity across a panel of cancer cell lines, such as the Cancer Cell Line Encyclopedia (Barretina et al., 2012), or clinical specimens? In addition, it will be important to establish whether other chemo-therapeutic agents also induce proteolysis of CREB3L1 or other transmembrane proteins."
+    },
+    "annotation_27": {
+      "type": "emphasis",
+      "id": "annotation_27",
+      "path": [
+        "paragraph_26",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        277,
+        283
+      ]
+    },
+    "citation_reference_28": {
+      "type": "citation_reference",
+      "id": "citation_reference_28",
+      "path": [
+        "paragraph_26",
+        "content"
+      ],
+      "target": "article_citation_bib1",
+      "range": [
+        577,
+        599
+      ]
+    },
+    "paragraph_29": {
+      "type": "paragraph",
+      "id": "paragraph_29",
+      "content": "It will also be interesting to see whether the ideas put forward by the UTSW group can be integrated into existing models of doxorubicin action. Emerging data suggest that the enzyme topoisomerase IIβ has a critical role in the toxic effects of doxorubicin on cardiac tissue (see Figure 1), and it has been reported that the targeted deletion of the Top2b gene abolishes doxorubicin-induced effects on cardiac function (Zhang et al., 2012). By contrast, it has been suggested that the Top2a gene contributes to the anticancer effects of doxorubicin and other anthracyclines (Mao et al., 1999). This work, and also the work of the UTSW group, needs to be rigorously extended by studying in detail how doxorubicin kills cancer cells in appropriate cancer models and clinical samples."
+    },
+    "figure_reference_30": {
+      "type": "figure_reference",
+      "id": "figure_reference_30",
+      "path": [
+        "paragraph_29",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        280,
+        288
+      ]
+    },
+    "annotation_31": {
+      "type": "emphasis",
+      "id": "annotation_31",
+      "path": [
+        "paragraph_29",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        350,
+        355
+      ]
+    },
+    "citation_reference_32": {
+      "type": "citation_reference",
+      "id": "citation_reference_32",
+      "path": [
+        "paragraph_29",
+        "content"
+      ],
+      "target": "article_citation_bib9",
+      "range": [
+        420,
+        438
+      ]
+    },
+    "annotation_33": {
+      "type": "emphasis",
+      "id": "annotation_33",
+      "path": [
+        "paragraph_29",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        485,
+        490
+      ]
+    },
+    "citation_reference_34": {
+      "type": "citation_reference",
+      "id": "citation_reference_34",
+      "path": [
+        "paragraph_29",
+        "content"
+      ],
+      "target": "article_citation_bib7",
+      "range": [
+        575,
+        591
+      ]
+    },
+    "paragraph_35": {
+      "type": "paragraph",
+      "id": "paragraph_35",
+      "content": "The fact that doxorubicin remains the subject of intense study four decades after its introduction into the clinic is a reflection of its complex biology and its importance as a cancer drug. Hopefully, these recent studies will ultimately allow clinicians to better understand this important agent and to utilize it in a more targeted fashion."
+    },
+    "info:competing-interest": {
+      "type": "heading",
+      "id": "info:competing-interest",
+      "level": 2,
+      "content": "Competing Interests",
+      "nodes": [
+        "paragraph_36"
+      ]
+    },
+    "paragraph_36": {
+      "type": "paragraph",
+      "id": "paragraph_36",
+      "content": "Competing interests:The authors declare that no competing interests existReferences"
+    },
+    "article_citation_bib1": {
+      "type": "article_citation",
+      "id": "article_citation_bib1",
+      "authors": [
+        {
+          "given-names": "J",
+          "last-name": "Barretina"
+        },
+        {
+          "given-names": "G",
+          "last-name": "Caponigro"
+        },
+        {
+          "given-names": "N",
+          "last-name": "Stransky"
+        },
+        {
+          "given-names": "K",
+          "last-name": "Venkatesan"
+        },
+        {
+          "given-names": "AA",
+          "last-name": "Margolin"
+        },
+        {
+          "given-names": "S",
+          "last-name": "Kim"
+        }
+      ],
+      "title": "The Cancer Cell Line Encyclopedia enables predictive modelling of anticancer drug sensitivity",
+      "year": "2012",
+      "volume": "483",
+      "source": "Nature",
+      "issue": "",
+      "fpage": "603",
+      "lpage": "7",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1038/nature11003",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib2": {
+      "type": "article_citation",
+      "id": "article_citation_bib2",
+      "authors": [
+        {
+          "given-names": "B",
+          "last-name": "Denard"
+        },
+        {
+          "given-names": "J",
+          "last-name": "Seemann"
+        },
+        {
+          "given-names": "Q",
+          "last-name": "Chen"
+        },
+        {
+          "given-names": "A",
+          "last-name": "Gay"
+        },
+        {
+          "given-names": "H",
+          "last-name": "Huang"
+        },
+        {
+          "given-names": "Y",
+          "last-name": "Chen"
+        }
+      ],
+      "title": "The membrane-bound transcription factor CREB3L1 is activated in response to virus infection to inhibit proliferation of virus-infected cells",
+      "year": "2011",
+      "volume": "10",
+      "source": "Cell Host Microbe",
+      "issue": "",
+      "fpage": "65",
+      "lpage": "74",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/j.chom.2011.06.006",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib3": {
+      "type": "article_citation",
+      "id": "article_citation_bib3",
+      "authors": [
+        {
+          "given-names": "B",
+          "last-name": "Denard"
+        },
+        {
+          "given-names": "C",
+          "last-name": "Lee"
+        },
+        {
+          "given-names": "J",
+          "last-name": "Ye"
+        }
+      ],
+      "title": "Doxorubicin blocks proliferation of cancer cells through proteolytic activation of CREB3L1",
+      "year": "2012",
+      "volume": "1",
+      "source": "eLife",
+      "issue": "",
+      "fpage": "e00090",
+      "lpage": "",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.7554/elife.00090",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib4": {
+      "type": "article_citation",
+      "id": "article_citation_bib4",
+      "authors": [
+        {
+          "given-names": "D",
+          "last-name": "Gewirtz"
+        }
+      ],
+      "title": "A critical evaluation of the mechanisms of action proposed for the antitumor effects of the anthracycline antibiotics adriamycin and daunorubicin",
+      "year": "1999",
+      "volume": "57",
+      "source": "Biochem Pharmacol",
+      "issue": "",
+      "fpage": "727",
+      "lpage": "41",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/S0006-2952(98)00307-4",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib5": {
+      "type": "article_citation",
+      "id": "article_citation_bib5",
+      "authors": [
+        {
+          "given-names": "LC",
+          "last-name": "Kremer"
+        },
+        {
+          "given-names": "EC",
+          "last-name": "van Dalen"
+        },
+        {
+          "given-names": "M",
+          "last-name": "Offringa"
+        },
+        {
+          "given-names": "J",
+          "last-name": "Ottenkamp"
+        },
+        {
+          "given-names": "PA",
+          "last-name": "Voute"
+        }
+      ],
+      "title": "Anthracycline-induced clinical heart failure in a cohort of 607 children: long-term follow-up study",
+      "year": "2001",
+      "volume": "19",
+      "source": "J Clin Oncol",
+      "issue": "",
+      "fpage": "191",
+      "lpage": "6",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib6": {
+      "type": "article_citation",
+      "id": "article_citation_bib6",
+      "authors": [
+        {
+          "given-names": "M",
+          "last-name": "Lal"
+        },
+        {
+          "given-names": "M",
+          "last-name": "Caplan"
+        }
+      ],
+      "title": "Regulated intramembrane proteolysis: signaling pathways and biological functions",
+      "year": "2011",
+      "volume": "26",
+      "source": "Physiology (Bethesda)",
+      "issue": "",
+      "fpage": "34",
+      "lpage": "44",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1152/physiol.00028.2010",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib7": {
+      "type": "article_citation",
+      "id": "article_citation_bib7",
+      "authors": [
+        {
+          "given-names": "Y",
+          "last-name": "Mao"
+        },
+        {
+          "given-names": "C",
+          "last-name": "Yu"
+        },
+        {
+          "given-names": "TS",
+          "last-name": "Hsieh"
+        },
+        {
+          "given-names": "JL",
+          "last-name": "Nitiss"
+        },
+        {
+          "given-names": "AA",
+          "last-name": "Liu"
+        },
+        {
+          "given-names": "H",
+          "last-name": "Wang"
+        }
+      ],
+      "title": "Mutations of human topoisomerase II alpha affecting multidrug resistance and sensitivity",
+      "year": "1999",
+      "volume": "38",
+      "source": "Biochemistry",
+      "issue": "",
+      "fpage": "10793",
+      "lpage": "800",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1021/bi9909804",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib8": {
+      "type": "article_citation",
+      "id": "article_citation_bib8",
+      "authors": [
+        {
+          "given-names": "G",
+          "last-name": "Minotti"
+        },
+        {
+          "given-names": "P",
+          "last-name": "Menna"
+        },
+        {
+          "given-names": "E",
+          "last-name": "Salvatorelli"
+        },
+        {
+          "given-names": "G",
+          "last-name": "Cairo"
+        },
+        {
+          "given-names": "L",
+          "last-name": "Gianni"
+        }
+      ],
+      "title": "Anthracyclines: molecular advances and pharmacologic developments in antitumor activity and cardiotoxicity",
+      "year": "2004",
+      "volume": "56",
+      "source": "Pharmacol Rev",
+      "issue": "",
+      "fpage": "185",
+      "lpage": "229",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1124/pr.56.2.6",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib9": {
+      "type": "article_citation",
+      "id": "article_citation_bib9",
+      "authors": [
+        {
+          "given-names": "S",
+          "last-name": "Zhang"
+        },
+        {
+          "given-names": "X",
+          "last-name": "Liu"
+        },
+        {
+          "given-names": "T",
+          "last-name": "Bawa-Khalfe"
+        },
+        {
+          "given-names": "LS",
+          "last-name": "Lu"
+        },
+        {
+          "given-names": "YL",
+          "last-name": "Lyu"
+        },
+        {
+          "given-names": "LF",
+          "last-name": "Liu"
+        }
+      ],
+      "title": "Identification of the molecular basis of doxorubicin-induced cardiotoxicity",
+      "year": "2012",
+      "volume": "18",
+      "source": "Nat Med",
+      "issue": "",
+      "fpage": "1639",
+      "lpage": "42",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1038/nm.2919",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    }
+  }
+}

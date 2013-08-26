@@ -1,0 +1,903 @@
+{
+  "id": "00593",
+  "nodes": {
+    "content": {
+      "type": "view",
+      "id": "content",
+      "nodes": [
+        "abstract",
+        "paragraph_3",
+        "paragraph_8",
+        "paragraph_10",
+        "paragraph_11",
+        "paragraph_14",
+        "paragraph_19",
+        "paragraph_22",
+        "paragraph_24",
+        "paragraph_26",
+        "paragraph_28",
+        "paragraph_33",
+        "paragraph_34"
+      ]
+    },
+    "figures": {
+      "type": "view",
+      "id": "figures",
+      "nodes": [
+        "box_B1"
+      ]
+    },
+    "citations": {
+      "type": "view",
+      "id": "citations",
+      "nodes": [
+        "article_citation_bib1",
+        "article_citation_bib2",
+        "article_citation_bib10",
+        "article_citation_bib3",
+        "article_citation_bib4",
+        "article_citation_bib5",
+        "article_citation_bib6",
+        "article_citation_bib7",
+        "article_citation_bib8",
+        "article_citation_bib9"
+      ]
+    },
+    "document": {
+      "type": "document",
+      "id": "document",
+      "views": [
+        "content",
+        "figures",
+        "citations"
+      ],
+      "guid": "00593",
+      "title": "Bidding the CpG island goodbye",
+      "authors": [
+        "person_author_3090"
+      ],
+      "received_on": "",
+      "accepted_on": "",
+      "published_on": "2013-02-26",
+      "journal": "eLife",
+      "article_type": "",
+      "keywords": [
+        "CpG islands",
+        "DNA methylation",
+        "Epigenetics",
+        "Chromatin",
+        "Evolutionary conservation"
+      ],
+      "research_organisms": [
+        "Chicken",
+        "Human",
+        "Mouse"
+      ],
+      "subjects": [
+        "Genes and chromosomes",
+        "Genomics and evolutionary biology"
+      ],
+      "pdf_link": "",
+      "xml_link": "",
+      "json_link": "",
+      "doi": ""
+    },
+    "person_author_3090": {
+      "type": "person",
+      "id": "person_author_3090",
+      "given-names": "John M",
+      "last-name": "Greally",
+      "role": "author",
+      "affiliations": [],
+      "image": "",
+      "contribution": "",
+      "email": "",
+      "funding": []
+    },
+    "institution_aff1": {
+      "type": "institution",
+      "id": "institution_aff1",
+      "name": "Albert Einstein College of Medicine",
+      "city": "New York",
+      "country": "United States",
+      "email": "john.greally@einstein.yu.edu",
+      "image": ""
+    },
+    "info:copyright": {
+      "type": "heading",
+      "id": "info:copyright",
+      "level": 2,
+      "content": "Copyright",
+      "nodes": [
+        "paragraph_1"
+      ]
+    },
+    "paragraph_1": {
+      "type": "paragraph",
+      "id": "paragraph_1",
+      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited."
+    },
+    "annotation_2": {
+      "type": "link",
+      "id": "annotation_2",
+      "path": [
+        "paragraph_1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        51,
+        87
+      ],
+      "url": "http://creativecommons.org/licenses/by/3.0/"
+    },
+    "abstract": {
+      "type": "heading",
+      "id": "abstract",
+      "level": 1,
+      "content": "Abstract",
+      "nodes": []
+    },
+    "paragraph_3": {
+      "type": "paragraph",
+      "id": "paragraph_3",
+      "content": "Experiments on seven vertebrates suggest that identifying the locations of islands of non-methylated DNA provides more insights into evolutionarily-conserved epigenetic regulatory elements than studies of CpG islands."
+    },
+    "box_B1": {
+      "type": "box",
+      "id": "box_B1",
+      "label": "",
+      "url": "",
+      "title": "",
+      "caption": "",
+      "content": "Related research article Long HK, Sims D, Heger A, Blackledge NP, Kutter C, Wright ML, Grützner F, Odom DT, Patient R, Ponting CP, Klose RJ. 2013. Epigenetic conservation at gene regulatory elements revealed by non-methylated DNA profiling in seven vertebrates. eLife 2:e00348. doi: 10.7554/eLife.00348",
+      "doi": ""
+    },
+    "annotation_4": {
+      "type": "strong",
+      "id": "annotation_4",
+      "path": [
+        "box_B1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        24
+      ]
+    },
+    "annotation_5": {
+      "type": "emphasis",
+      "id": "annotation_5",
+      "path": [
+        "box_B1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        263,
+        268
+      ]
+    },
+    "annotation_6": {
+      "type": "strong",
+      "id": "annotation_6",
+      "path": [
+        "box_B1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        269,
+        270
+      ]
+    },
+    "annotation_7": {
+      "type": "link",
+      "id": "annotation_7",
+      "path": [
+        "box_B1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        284,
+        303
+      ],
+      "url": "http://dx.doi.org/10.7554/eLife.00348"
+    },
+    "paragraph_8": {
+      "type": "paragraph",
+      "id": "paragraph_8",
+      "content": "Image Percentage of non-methylated islands of DNA conserved among seven vertebrates"
+    },
+    "annotation_9": {
+      "type": "strong",
+      "id": "annotation_9",
+      "path": [
+        "paragraph_8",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        5
+      ]
+    },
+    "paragraph_10": {
+      "type": "paragraph",
+      "id": "paragraph_10",
+      "content": ""
+    },
+    "paragraph_11": {
+      "type": "paragraph",
+      "id": "paragraph_11",
+      "content": "It is now almost 26 years since the CpG island—a stretch of DNA with a larger than expected proportion of cytosine followed by guanine bases—was first defined, based on an analysis of the relative proportions of the four bases in the then limited amount of human sequence information available (Gardiner-Garden and Frommer, 1987). At the time, these islands of CpG dinucleotides were presumed to be the location of cis-regulatory elements (regions of DNA that regulate the expression of nearby genes) and, in particular, to be the location of gene promoters (regions of DNA that initiate the transcription of genes)."
+    },
+    "citation_reference_12": {
+      "type": "citation_reference",
+      "id": "citation_reference_12",
+      "path": [
+        "paragraph_11",
+        "content"
+      ],
+      "target": "article_citation_bib3",
+      "range": [
+        295,
+        328
+      ]
+    },
+    "annotation_13": {
+      "type": "emphasis",
+      "id": "annotation_13",
+      "path": [
+        "paragraph_11",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        415,
+        418
+      ]
+    },
+    "paragraph_14": {
+      "type": "paragraph",
+      "id": "paragraph_14",
+      "content": "During the past quarter century, we have sequenced numerous whole genomes from a wide range of species, and have witnessed the development of powerful techniques for identifying cis-regulators throughout these whole genomes, yet we still persist with the concept of the CpG island when we annotate those parts of the genome that do not code for proteins. Frequently ignored is the fact that the annotation only works if we exclude the substantial proportion of the genome that is repetitive DNA, mostly the remnants of self-replicating virus-like elements that have all of the sequence characteristics of the CpG island but are rarely found to be regulatory elements (Glass et al., 2007). A defining feature of CpG islands is that they tend to escape DNA methylation (the addition of a methyl group to cytosine), whereas cytosines in the genome as a whole, and in repetitive DNA in particular, tend to be heavily methylated (Yoder et al., 1997). The question that emerges is whether the CpG island annotation merely acts as a surrogate for an absence of DNA methylation, which is much more relevant when we are searching for cis-regulators in the genome."
+    },
+    "annotation_15": {
+      "type": "emphasis",
+      "id": "annotation_15",
+      "path": [
+        "paragraph_14",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        178,
+        181
+      ]
+    },
+    "citation_reference_16": {
+      "type": "citation_reference",
+      "id": "citation_reference_16",
+      "path": [
+        "paragraph_14",
+        "content"
+      ],
+      "target": "article_citation_bib4",
+      "range": [
+        668,
+        686
+      ]
+    },
+    "citation_reference_17": {
+      "type": "citation_reference",
+      "id": "citation_reference_17",
+      "path": [
+        "paragraph_14",
+        "content"
+      ],
+      "target": "article_citation_bib9",
+      "range": [
+        925,
+        943
+      ]
+    },
+    "annotation_18": {
+      "type": "emphasis",
+      "id": "annotation_18",
+      "path": [
+        "paragraph_14",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1125,
+        1128
+      ]
+    },
+    "paragraph_19": {
+      "type": "paragraph",
+      "id": "paragraph_19",
+      "content": "Now, in eLife, Robert Klose, Chris Ponting and colleagues at Oxford University, Cancer Research UK and the University of Adelaide—including Hannah Long and David Sims of Oxford as joint first authors—highlight the weakness of the CpG island annotation in an innovative way. They report that when they looked for loci that escape DNA methylation in a set of non-human genomes, they found the CpG island annotation to be very poorly associated with these unmethylated loci (Long et al., 2013). They used a technique called biotinylated CxxC affinity purification (Bio-CAP), followed by massively parallel sequencing, to identify islands of non-methylated DNA in seven highly divergent vertebrate species, ranging from fish to humans."
+    },
+    "annotation_20": {
+      "type": "emphasis",
+      "id": "annotation_20",
+      "path": [
+        "paragraph_19",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        8,
+        13
+      ]
+    },
+    "citation_reference_21": {
+      "type": "citation_reference",
+      "id": "citation_reference_21",
+      "path": [
+        "paragraph_19",
+        "content"
+      ],
+      "target": "article_citation_bib6",
+      "range": [
+        472,
+        489
+      ]
+    },
+    "paragraph_22": {
+      "type": "paragraph",
+      "id": "paragraph_22",
+      "content": "The Bio-CAP approach takes advantage of the fact that CxxC protein domains (where x is an amino acid other than cysteine) bind preferentially to CpG dinucleotides that are not methylated (Voo et al., 2000). Long, Sims and co-workers found that the base composition of the non-methylated islands in the different species varied substantially. Moreover, the non-methylated islands were conserved more between the species than the CpG islands were, which suggests that they are more biologically meaningful. The results also demonstrate that the CpG island annotation performs especially poorly in non-human species."
+    },
+    "citation_reference_23": {
+      "type": "citation_reference",
+      "id": "citation_reference_23",
+      "path": [
+        "paragraph_22",
+        "content"
+      ],
+      "target": "article_citation_bib8",
+      "range": [
+        188,
+        204
+      ]
+    },
+    "paragraph_24": {
+      "type": "paragraph",
+      "id": "paragraph_24",
+      "content": "The Bio-CAP approach is likely to have its own limitations: the CxxC domain is more likely to capture and enrich loci with multiple unmethylated CpG dinucleotides on the same fragment of DNA, so longer stretches of unmethylated sequence, especially if they are rich in CpG dinucleotides, are going to be more readily identified. The use of 51 base pair single-end reads in the Bio-CAP approach also makes it less likely that non-methylated islands in repetitive DNA (where it is more difficult to map such short reads) will be identified, should they happen to exist. However, as a survey technique, the Bio-CAP approach has many strengths. It should also be recognized that shotgun bisulphite sequencing, the gold standard for DNA methylation studies, does not comprehensively test every cytosine in the genome (Harris et al., 2010), strengthening the justification for survey techniques in the short term until a better genome-wide approach is developed."
+    },
+    "citation_reference_25": {
+      "type": "citation_reference",
+      "id": "citation_reference_25",
+      "path": [
+        "paragraph_24",
+        "content"
+      ],
+      "target": "article_citation_bib5",
+      "range": [
+        813,
+        832
+      ]
+    },
+    "paragraph_26": {
+      "type": "paragraph",
+      "id": "paragraph_26",
+      "content": "The use of mixed cell types in the tissues studied might also influence the results, by tending to enrich those non-methylated islands that are found in many different types of cells. However, despite this possibility, Long, Sims and co-workers were able to compare cells taken from the liver and testes and identify non-methylated islands that were specific to each tissue type. The tissue-specific islands were shorter and contained fewer CpG dinucleotides than those found in both types of tissue, a finding that is reminiscent of work at Stanford that identified two classes of gene promoters—one with high levels of CpG dinucleotides and one with lower levels (Saxonov et al., 2006)."
+    },
+    "citation_reference_27": {
+      "type": "citation_reference",
+      "id": "citation_reference_27",
+      "path": [
+        "paragraph_26",
+        "content"
+      ],
+      "target": "article_citation_bib7",
+      "range": [
+        666,
+        686
+      ]
+    },
+    "paragraph_28": {
+      "type": "paragraph",
+      "id": "paragraph_28",
+      "content": "So where does this new insight about non-methylated islands leave us? Base composition has served us well for over a quarter of a century in defining the candidate cis-regulatory elements we call CpG islands, but we are now in a different era in which functional elements can be annotated at high resolution based on molecular assays in individual cell types. At first these annotations were generated by large collaborations—such as the ENCODE collaboration (Dunham et al., 2012), the modENCODE collaboration (Celniker et al., 2009), and the Roadmap in Epigenomics (Bernstein et al., 2010)—but it is becoming increasingly feasible for individual investigators to generate such annotations. This has enormous potential value in allowing us to understand the information located at non-protein coding sequences in the genome. Moreover, as Long, Sims and colleagues clearly demonstrate, the ability to do this is a prerequisite for performing comparative studies between species."
+    },
+    "annotation_29": {
+      "type": "emphasis",
+      "id": "annotation_29",
+      "path": [
+        "paragraph_28",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        164,
+        167
+      ]
+    },
+    "citation_reference_30": {
+      "type": "citation_reference",
+      "id": "citation_reference_30",
+      "path": [
+        "paragraph_28",
+        "content"
+      ],
+      "target": "article_citation_bib10",
+      "range": [
+        460,
+        479
+      ]
+    },
+    "citation_reference_31": {
+      "type": "citation_reference",
+      "id": "citation_reference_31",
+      "path": [
+        "paragraph_28",
+        "content"
+      ],
+      "target": "article_citation_bib2",
+      "range": [
+        511,
+        532
+      ]
+    },
+    "citation_reference_32": {
+      "type": "citation_reference",
+      "id": "citation_reference_32",
+      "path": [
+        "paragraph_28",
+        "content"
+      ],
+      "target": "article_citation_bib1",
+      "range": [
+        567,
+        589
+      ]
+    },
+    "paragraph_33": {
+      "type": "paragraph",
+      "id": "paragraph_33",
+      "content": "The problem that will arise in a new era of functional annotations will be that of community standards—most people have tended to agree what defines a CpG island, but definitions of features based on identifying unmethylated DNA are likely to be more contentious. For example, is there a minimum size for these features? If a single CpG dinucleotide remains unmethylated in all the cell types tested, surely it should be considered as a potentially significant locus? And if a locus is partially unmethylated on a consistent basis, how unmethylated does it have to be to be a candidate regulatory element? Is conservation of DNA methylation patterns the best way to identify candidates for regulatory elements, or are there other ways?"
+    },
+    "paragraph_34": {
+      "type": "paragraph",
+      "id": "paragraph_34",
+      "content": "Notwithstanding these concerns, the work described by Long, Sims and colleagues represents the kind of bold and empirically-based approach that we need to develop for every cell type from every research organism. In parallel, the CpG island annotation on every genome browser should now come with a user warning, especially for non-human genomes: after 26 years of service, the CpG island should be allowed to retire with honour."
+    },
+    "info:competing-interest": {
+      "type": "heading",
+      "id": "info:competing-interest",
+      "level": 2,
+      "content": "Competing Interests",
+      "nodes": [
+        "paragraph_35"
+      ]
+    },
+    "paragraph_35": {
+      "type": "paragraph",
+      "id": "paragraph_35",
+      "content": "Competing interests:The author declares that no competing interests existReferences"
+    },
+    "article_citation_bib1": {
+      "type": "article_citation",
+      "id": "article_citation_bib1",
+      "authors": [
+        {
+          "given-names": "BE",
+          "last-name": "Bernstein"
+        },
+        {
+          "given-names": "JA",
+          "last-name": "Stamatoyannopoulos"
+        },
+        {
+          "given-names": "JF",
+          "last-name": "Costello"
+        },
+        {
+          "given-names": "B",
+          "last-name": "Ren"
+        },
+        {
+          "given-names": "A",
+          "last-name": "Milosavljevic"
+        },
+        {
+          "given-names": "A",
+          "last-name": "Meissner"
+        }
+      ],
+      "title": "The NIH Roadmap Epigenomics Mapping Consortium",
+      "year": "2010",
+      "volume": "28",
+      "source": "Nat Biotechnol",
+      "issue": "",
+      "fpage": "1045",
+      "lpage": "8",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1038/nbt1010-1045",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib2": {
+      "type": "article_citation",
+      "id": "article_citation_bib2",
+      "authors": [
+        {
+          "given-names": "SE",
+          "last-name": "Celniker"
+        },
+        {
+          "given-names": "LA",
+          "last-name": "Dillon"
+        },
+        {
+          "given-names": "MB",
+          "last-name": "Gerstein"
+        },
+        {
+          "given-names": "KC",
+          "last-name": "Gunsalus"
+        },
+        {
+          "given-names": "S",
+          "last-name": "Henikoff"
+        },
+        {
+          "given-names": "GH",
+          "last-name": "Karpen"
+        }
+      ],
+      "title": "Unlocking the secrets of the genome",
+      "year": "2009",
+      "volume": "459",
+      "source": "Nature",
+      "issue": "",
+      "fpage": "927",
+      "lpage": "30",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1038/459927a",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib10": {
+      "type": "article_citation",
+      "id": "article_citation_bib10",
+      "authors": [
+        {
+          "given-names": "I",
+          "last-name": "Dunham"
+        },
+        {
+          "given-names": "A",
+          "last-name": "Kundaje"
+        },
+        {
+          "given-names": "SF",
+          "last-name": "Aldred"
+        },
+        {
+          "given-names": "PJ",
+          "last-name": "Collins"
+        },
+        {
+          "given-names": "CA",
+          "last-name": "Davis"
+        },
+        {
+          "given-names": "F",
+          "last-name": "Doyle"
+        }
+      ],
+      "title": "An integrated encyclopedia of DNA elements in the human genome",
+      "year": "2012",
+      "volume": "489",
+      "source": "Nature",
+      "issue": "",
+      "fpage": "57",
+      "lpage": "74",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1038/nature11247",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib3": {
+      "type": "article_citation",
+      "id": "article_citation_bib3",
+      "authors": [
+        {
+          "given-names": "M",
+          "last-name": "Gardiner-Garden"
+        },
+        {
+          "given-names": "M",
+          "last-name": "Frommer"
+        }
+      ],
+      "title": "CpG islands in vertebrate genomes",
+      "year": "1987",
+      "volume": "196",
+      "source": "J Mol Biol",
+      "issue": "",
+      "fpage": "261",
+      "lpage": "82",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/0022-2836(87)90689-9",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib4": {
+      "type": "article_citation",
+      "id": "article_citation_bib4",
+      "authors": [
+        {
+          "given-names": "JL",
+          "last-name": "Glass"
+        },
+        {
+          "given-names": "RF",
+          "last-name": "Thompson"
+        },
+        {
+          "given-names": "B",
+          "last-name": "Khulan"
+        },
+        {
+          "given-names": "ME",
+          "last-name": "Figueroa"
+        },
+        {
+          "given-names": "EN",
+          "last-name": "Olivier"
+        },
+        {
+          "given-names": "EJ",
+          "last-name": "Oakley"
+        }
+      ],
+      "title": "CG dinucleotide clustering is a species-specific property of the genome",
+      "year": "2007",
+      "volume": "35",
+      "source": "Nucleic Acids Res",
+      "issue": "",
+      "fpage": "6798",
+      "lpage": "6807",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1093/nar/gkm489",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib5": {
+      "type": "article_citation",
+      "id": "article_citation_bib5",
+      "authors": [
+        {
+          "given-names": "RA",
+          "last-name": "Harris"
+        },
+        {
+          "given-names": "T",
+          "last-name": "Wang"
+        },
+        {
+          "given-names": "C",
+          "last-name": "Coarfa"
+        },
+        {
+          "given-names": "RP",
+          "last-name": "Nagarajan"
+        },
+        {
+          "given-names": "C",
+          "last-name": "Hong"
+        },
+        {
+          "given-names": "SL",
+          "last-name": "Downey"
+        }
+      ],
+      "title": "Comparison of sequencing-based methods to profile DNA methylation and identification of monoallelic epigenetic modifications",
+      "year": "2010",
+      "volume": "28",
+      "source": "Nat Biotechnol",
+      "issue": "",
+      "fpage": "1097",
+      "lpage": "1105",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1038/nbt.1682",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib6": {
+      "type": "article_citation",
+      "id": "article_citation_bib6",
+      "authors": [
+        {
+          "given-names": "HK",
+          "last-name": "Long"
+        },
+        {
+          "given-names": "D",
+          "last-name": "Sims"
+        },
+        {
+          "given-names": "A",
+          "last-name": "Heger"
+        },
+        {
+          "given-names": "NP",
+          "last-name": "Blackledge"
+        },
+        {
+          "given-names": "C",
+          "last-name": "Kutter"
+        },
+        {
+          "given-names": "ML",
+          "last-name": "Wright"
+        }
+      ],
+      "title": "Epigenetic conservation at gene regulatory elements revealed by non-methylated DNA profiling in seven vertebrates",
+      "year": "2013",
+      "volume": "2",
+      "source": "eLife",
+      "issue": "",
+      "fpage": "e00348",
+      "lpage": "",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.7554/elife.00348",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib7": {
+      "type": "article_citation",
+      "id": "article_citation_bib7",
+      "authors": [
+        {
+          "given-names": "S",
+          "last-name": "Saxonov"
+        },
+        {
+          "given-names": "P",
+          "last-name": "Berg"
+        },
+        {
+          "given-names": "DL",
+          "last-name": "Brutlag"
+        }
+      ],
+      "title": "A genome-wide analysis of CpG dinucleotides in the human genome distinguishes two distinct classes of promoters",
+      "year": "2006",
+      "volume": "103",
+      "source": "Proc Natl Acad Sci USA",
+      "issue": "",
+      "fpage": "1412",
+      "lpage": "7",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1073/pnas.0510310103",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib8": {
+      "type": "article_citation",
+      "id": "article_citation_bib8",
+      "authors": [
+        {
+          "given-names": "KS",
+          "last-name": "Voo"
+        },
+        {
+          "given-names": "DL",
+          "last-name": "Carlone"
+        },
+        {
+          "given-names": "BM",
+          "last-name": "Jacobsen"
+        },
+        {
+          "given-names": "A.",
+          "last-name": "Flodin"
+        },
+        {
+          "given-names": "DG",
+          "last-name": "Skalnik"
+        }
+      ],
+      "title": "Cloning of a mammalian transcriptional activator that binds unmethylated CpG motifs and shares a CXXC domain with DNA methyltransferase, human trithorax, and methyl-CpG binding domain protein 1",
+      "year": "2000",
+      "volume": "20",
+      "source": "Mol Cell Biol",
+      "issue": "",
+      "fpage": "2108",
+      "lpage": "21",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1128/MCB.20.6.2108-2121.2000",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    },
+    "article_citation_bib9": {
+      "type": "article_citation",
+      "id": "article_citation_bib9",
+      "authors": [
+        {
+          "given-names": "JA",
+          "last-name": "Yoder"
+        },
+        {
+          "given-names": "CP",
+          "last-name": "Walsh"
+        },
+        {
+          "given-names": "TH",
+          "last-name": "Bestor"
+        }
+      ],
+      "title": "Cytosine methylation and the ecology of intragenomic parasites",
+      "year": "1997",
+      "volume": "13",
+      "source": "Trends Genet",
+      "issue": "",
+      "fpage": "335",
+      "lpage": "40",
+      "collab": "",
+      "edition": "",
+      "publisher-name": "",
+      "publisher-loc": "",
+      "doi": "http://dx.doi.org/10.1016/S0168-9525(97)01181-5",
+      "citation_url": [],
+      "format": "journal",
+      "label": "",
+      "editors": []
+    }
+  }
+}

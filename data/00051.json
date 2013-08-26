@@ -1,0 +1,3076 @@
+{
+  "id": "00051",
+  "nodes": {
+    "content": {
+      "type": "view",
+      "id": "content",
+      "nodes": [
+        "abstract",
+        "paragraph_4",
+        "paragraph_5",
+        "heading_8",
+        "paragraph_9",
+        "paragraph_10",
+        "paragraph_11",
+        "paragraph_12",
+        "heading_s1",
+        "paragraph_16",
+        "paragraph_19",
+        "paragraph_23",
+        "paragraph_40",
+        "heading_s1-1",
+        "paragraph_43",
+        "formula_eqn1",
+        "paragraph_46",
+        "paragraph_54",
+        "formula_eqn2",
+        "paragraph_58",
+        "formula_eqn3",
+        "paragraph_63",
+        "paragraph_67",
+        "formula_eqn4",
+        "paragraph_69",
+        "heading_s1-2",
+        "paragraph_74",
+        "formula_eqn5",
+        "paragraph_77",
+        "formula_eqn6",
+        "paragraph_92",
+        "formula_eqn7",
+        "paragraph_95",
+        "paragraph_102",
+        "paragraph_103",
+        "paragraph_104",
+        "formula_eqn8",
+        "formula_eqn9",
+        "paragraph_107",
+        "paragraph_111",
+        "heading_s2",
+        "heading_s2-1",
+        "paragraph_114",
+        "paragraph_121",
+        "paragraph_127",
+        "paragraph_131",
+        "heading_s2-4",
+        "paragraph_136",
+        "paragraph_138",
+        "heading_s3",
+        "paragraph_142",
+        "paragraph_143",
+        "paragraph_149",
+        "paragraph_155",
+        "paragraph_157",
+        "paragraph_165",
+        "paragraph_171",
+        "paragraph_172",
+        "paragraph_174",
+        "heading_s4",
+        "paragraph_180",
+        "heading_s5",
+        "paragraph_201",
+        "formula_eqn10",
+        "formula_eqn11",
+        "sub-article"
+      ]
+    },
+    "figures": {
+      "type": "view",
+      "id": "figures",
+      "nodes": [
+        "image_fig1",
+        "image_fig2",
+        "table_tbl1",
+        "table_tbl2",
+        "image_fig3",
+        "table_tbl3",
+        "image_fig4",
+        "image_fig5",
+        "table_tbl4",
+        "image_fig6",
+        "supplement_SD1_data"
+      ]
+    },
+    "citations": {
+      "type": "view",
+      "id": "citations",
+      "nodes": []
+    },
+    "document": {
+      "type": "document",
+      "id": "document",
+      "views": [
+        "content",
+        "figures",
+        "citations"
+      ],
+      "guid": "00051",
+      "title": "Global divergence in critical income for adult and childhood survival: analyses of mortality using Michaelis–Menten",
+      "authors": [
+        "person_author_1414",
+        "person_author_1017",
+        "person_author_1694",
+        "person_author_1695"
+      ],
+      "received_on": "2012-07-10",
+      "accepted_on": "2012-09-25",
+      "published_on": "2012-12-13",
+      "journal": "eLife",
+      "article_type": "",
+      "keywords": [
+        "enzyme kinetics",
+        "adult survival",
+        "child survival",
+        "income",
+        "HIV",
+        "smoking"
+      ],
+      "research_organisms": [
+        "Human"
+      ],
+      "subjects": [
+        "Human biology and medicine",
+        "Microbiology and infectious disease"
+      ],
+      "pdf_link": "",
+      "xml_link": "",
+      "json_link": "",
+      "doi": ""
+    },
+    "person_author_1414": {
+      "type": "person",
+      "id": "person_author_1414",
+      "given-names": "Ryan J",
+      "last-name": "Hum",
+      "role": "author",
+      "affiliations": [],
+      "image": "",
+      "contribution": " Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article",
+      "email": "email_cor1",
+      "funding": [
+        "funding_par_1",
+        "funding_par_2",
+        "funding_par_6"
+      ]
+    },
+    "person_author_1017": {
+      "type": "person",
+      "id": "person_author_1017",
+      "given-names": "Prabhat",
+      "last-name": "Jha",
+      "role": "author",
+      "affiliations": [],
+      "image": "",
+      "contribution": " Conception and design, Analysis and interpretation of data, Drafting or revising the article",
+      "email": "",
+      "funding": [
+        "funding_par_5"
+      ]
+    },
+    "person_author_1694": {
+      "type": "person",
+      "id": "person_author_1694",
+      "given-names": "Anita M",
+      "last-name": "McGahan",
+      "role": "author",
+      "affiliations": [],
+      "image": "",
+      "contribution": " Analysis and interpretation of data, Drafting or revising the article",
+      "email": "",
+      "funding": [
+        "funding_par_4"
+      ]
+    },
+    "person_author_1695": {
+      "type": "person",
+      "id": "person_author_1695",
+      "given-names": "Yu-Ling",
+      "last-name": "Cheng",
+      "role": "author",
+      "affiliations": [],
+      "image": "",
+      "contribution": " Conception and design, Analysis and interpretation of data, Drafting or revising the article",
+      "email": "",
+      "funding": [
+        "funding_par_3"
+      ]
+    },
+    "institution_aff1": {
+      "type": "institution",
+      "id": "institution_aff1",
+      "name": "University of Toronto",
+      "city": "Toronto",
+      "country": "Canada",
+      "email": "",
+      "image": ""
+    },
+    "institution_aff2": {
+      "type": "institution",
+      "id": "institution_aff2",
+      "name": "University of Toronto",
+      "city": "Toronto",
+      "country": "Canada",
+      "email": "",
+      "image": ""
+    },
+    "institution_aff3": {
+      "type": "institution",
+      "id": "institution_aff3",
+      "name": "St Michael's Hospital",
+      "city": "Toronto",
+      "country": "Canada",
+      "email": "",
+      "image": ""
+    },
+    "institution_aff4": {
+      "type": "institution",
+      "id": "institution_aff4",
+      "name": "University of Toronto",
+      "city": "Toronto",
+      "country": "Canada",
+      "email": "",
+      "image": ""
+    },
+    "person_1": {
+      "type": "person",
+      "id": "person_1",
+      "given-names": "Eduardo",
+      "last-name": "Franco",
+      "role": "editor",
+      "affiliations": [],
+      "image": "",
+      "contribution": "",
+      "email": "",
+      "funding": []
+    },
+    "info:review": {
+      "type": "heading",
+      "id": "info:review",
+      "level": 2,
+      "content": "Reviewing Editor",
+      "nodes": [
+        "person_1"
+      ]
+    },
+    "email_cor1": {
+      "type": "email",
+      "id": "email_cor1",
+      "node": "",
+      "email": "ryan.hum@mail.utoronto.ca"
+    },
+    "info:copyright": {
+      "type": "heading",
+      "id": "info:copyright",
+      "level": 2,
+      "content": "Copyright",
+      "nodes": [
+        "paragraph_2"
+      ]
+    },
+    "paragraph_2": {
+      "type": "paragraph",
+      "id": "paragraph_2",
+      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited.10.7554/eLife.00051.001"
+    },
+    "annotation_3": {
+      "type": "link",
+      "id": "annotation_3",
+      "path": [
+        "paragraph_2",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        51,
+        87
+      ],
+      "url": "http://creativecommons.org/licenses/by/3.0/"
+    },
+    "abstract": {
+      "type": "heading",
+      "id": "abstract",
+      "level": 1,
+      "content": "Abstract",
+      "nodes": []
+    },
+    "paragraph_4": {
+      "type": "paragraph",
+      "id": "paragraph_4",
+      "content": "Life expectancy has risen sharply in the last 50 years. We applied the classic Michaelis–Menten enzyme kinetics to demonstrate a novel mathematical relationship of income to childhood (aged 0–5 years) and adult (aged 15–60 years) survival. We treat income as a substrate that is catalyzed to increase survival (from technologies that income buys) for 180 countries from 1970 and 2007. Michaelis–Menten kinetics permit estimates of maximal survival and, uniquely, the critical income needed to achieve half of the period-specific maximum. Maximum child and adult survival rose by about 1% per year. Critical incomes fell by half for children, but doubled for men. HIV infection and smoking account for some, but not all, of the rising critical incomes for adult survival. Altering the future cost curve for adult survival will require more widespread use of current interventions, most notably tobacco control, but also research to identify practicable low-cost drugs, diagnostics, and strategies."
+    },
+    "paragraph_5": {
+      "type": "paragraph",
+      "id": "paragraph_5",
+      "content": "DOI: http://dx.doi.org/10.7554/eLife.00051.00110.7554/eLife.00051.002"
+    },
+    "annotation_6": {
+      "type": "strong",
+      "id": "annotation_6",
+      "path": [
+        "paragraph_5",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        4
+      ]
+    },
+    "annotation_7": {
+      "type": "link",
+      "id": "annotation_7",
+      "path": [
+        "paragraph_5",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        5,
+        46
+      ],
+      "url": "10.7554/eLife.00051.001"
+    },
+    "heading_8": {
+      "type": "heading",
+      "id": "heading_8",
+      "level": 0,
+      "content": "eLife digest",
+      "nodes": []
+    },
+    "paragraph_9": {
+      "type": "paragraph",
+      "id": "paragraph_9",
+      "content": "In 1975 Samuel Preston published a classic paper that showed life expectancy was related to national income. When plotted as a graph, with national income on the horizontal axis and life expectancy on the vertical axis, the Preston curve shows that an increase in national income leads to an increase in life expectancy, with the increases in life expectancy becoming proportionally smaller as income increases. Moreover, Preston showed that innovations in healthcare (such as vaccinations, public health education, and sanitation systems) were increasing the maximum life expectancy that can be achieved for any given national income (defined as GDP per capita): this can be seen by comparing the Preston curves from 1960 and 2000 shown in Figure 1A. Indeed, global life expectancy increased by about 25 years over the course of the 20th century, which suggests that the level of daily income needed to achieve a certain life expectancy should be falling over time."
+    },
+    "paragraph_10": {
+      "type": "paragraph",
+      "id": "paragraph_10",
+      "content": "To explore this in greater detail, Hum et al. have constructed a mathematical model to investigate the relationship between health and income across different age groups and income levels. They found that most of the gains in life expectancy for low- and middle-income countries have been achieved by reducing child mortality, with gains in life expectancy for adults being restricted mostly to high-income countries. The model, which is based on the mathematical equations used to describe the kinetics of enzymatic reactions, makes it possible to estimate the improvements of health that can be made over time, and also the level of income that is needed to achieve these improvements."
+    },
+    "paragraph_11": {
+      "type": "paragraph",
+      "id": "paragraph_11",
+      "content": "In particular, Hum et al. have established a new parameter, the critical income, which is the level of income needed to achieve half of the maximal health found in high-income countries for the year in question. Based on available data from over 150 countries, they found that critical incomes fell by half for children between 1970 and 2007, but doubled for adult males during the same period. The rise in critical income for adults was due partly to the HIV epidemic and increases in smoking in low- and middle-income countries, reflecting the growing problems presented by noncommunicable diseases. Hum et al. conclude that increasing the survival among adults will require increased use of proven cost-effective interventions, most notably tobacco control, plus new research to identify low-cost drugs, diagnostics, and other public health strategies."
+    },
+    "paragraph_12": {
+      "type": "paragraph",
+      "id": "paragraph_12",
+      "content": "DOI: http://dx.doi.org/10.7554/eLife.00051.002"
+    },
+    "annotation_13": {
+      "type": "strong",
+      "id": "annotation_13",
+      "path": [
+        "paragraph_12",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        4
+      ]
+    },
+    "annotation_14": {
+      "type": "link",
+      "id": "annotation_14",
+      "path": [
+        "paragraph_12",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        5,
+        46
+      ],
+      "url": "10.7554/eLife.00051.002"
+    },
+    "funding_par_1": {
+      "type": "funding",
+      "id": "funding_par_1",
+      "institution": "Canadian Institute for Health Research",
+      "accession": "",
+      "person": "person_author_1414",
+      "given-names": "Ryan J",
+      "last-name": "Hum"
+    },
+    "funding_par_2": {
+      "type": "funding",
+      "id": "funding_par_2",
+      "institution": "Lupina Foundation",
+      "accession": "",
+      "person": "person_author_1414",
+      "given-names": "Ryan J",
+      "last-name": "Hum"
+    },
+    "funding_par_3": {
+      "type": "funding",
+      "id": "funding_par_3",
+      "institution": "National Sciences and Engineering Research Council",
+      "accession": "",
+      "person": "person_author_1695",
+      "given-names": "Yu-Ling",
+      "last-name": "Cheng"
+    },
+    "funding_par_4": {
+      "type": "funding",
+      "id": "funding_par_4",
+      "institution": "Social Sciences and Humanities Research Council",
+      "accession": "",
+      "person": "person_author_1694",
+      "given-names": "Anita M",
+      "last-name": "McGahan"
+    },
+    "funding_par_5": {
+      "type": "funding",
+      "id": "funding_par_5",
+      "institution": "Disease Control Priorities 3",
+      "accession": "637968",
+      "person": "person_author_1017",
+      "given-names": "Prabhat",
+      "last-name": "Jha"
+    },
+    "funding_par_6": {
+      "type": "funding",
+      "id": "funding_par_6",
+      "institution": "Metcalfe Fellowship",
+      "accession": "",
+      "person": "person_author_1414",
+      "given-names": "Ryan J",
+      "last-name": "Hum"
+    },
+    "info:impact": {
+      "type": "heading",
+      "id": "info:impact",
+      "level": 2,
+      "content": "ImpactAuthor impact statementA mathematical model based on enzyme kinetics shows how the relationships between life expectancy, survival rates for children and adults, and national income change over time.",
+      "nodes": [
+        "paragraph_15"
+      ]
+    },
+    "paragraph_15": {
+      "type": "paragraph",
+      "id": "paragraph_15",
+      "content": ""
+    },
+    "heading_s1": {
+      "type": "heading",
+      "id": "heading_s1",
+      "level": 1,
+      "content": "Introduction",
+      "nodes": []
+    },
+    "paragraph_16": {
+      "type": "paragraph",
+      "id": "paragraph_16",
+      "content": "In the 20th century, global life expectancy rose by about 90 days per year, with much of that increase driven by substantial declines in childhood mortality (Oeppen, 2002; Vallin and Meslé, 2009)."
+    },
+    "citation_reference_17": {
+      "type": "citation_reference",
+      "id": "citation_reference_17",
+      "path": [
+        "paragraph_16",
+        "content"
+      ],
+      "target": "article_citation_bib32",
+      "range": [
+        158,
+        170
+      ]
+    },
+    "citation_reference_18": {
+      "type": "citation_reference",
+      "id": "citation_reference_18",
+      "path": [
+        "paragraph_16",
+        "content"
+      ],
+      "target": "article_citation_bib43",
+      "range": [
+        172,
+        194
+      ]
+    },
+    "paragraph_19": {
+      "type": "paragraph",
+      "id": "paragraph_19",
+      "content": "In most low-income countries, death in middle age is increasing in relative importance as other causes decrease and the effects of smoking increase (Jha, 2009). Most adult deaths are due to noncommunicable diseases, such as vascular, respiratory, or neoplastic diseases, with a significant minority due to HIV/AIDS, malaria, and tuberculosis (Beaglehole et al., 2011b). This has spurred calls for global efforts to tackle chronic diseases of adults akin to the already established global efforts to reduce childhood, maternal, and infectious disease deaths through the United Nations (UN) 2015 Millennium Development Goals (MDGs) (Beaglehole et al., 2011a)."
+    },
+    "citation_reference_20": {
+      "type": "citation_reference",
+      "id": "citation_reference_20",
+      "path": [
+        "paragraph_19",
+        "content"
+      ],
+      "target": "article_citation_bib22",
+      "range": [
+        149,
+        158
+      ]
+    },
+    "citation_reference_21": {
+      "type": "citation_reference",
+      "id": "citation_reference_21",
+      "path": [
+        "paragraph_19",
+        "content"
+      ],
+      "target": "article_citation_bib3",
+      "range": [
+        343,
+        367
+      ]
+    },
+    "citation_reference_22": {
+      "type": "citation_reference",
+      "id": "citation_reference_22",
+      "path": [
+        "paragraph_19",
+        "content"
+      ],
+      "target": "article_citation_bib2",
+      "range": [
+        631,
+        655
+      ]
+    },
+    "paragraph_23": {
+      "type": "paragraph",
+      "id": "paragraph_23",
+      "content": "In a classic paper, Preston (1975) offered an elegant analysis to establish a cross-sectional relationship between mean national life expectancy and national income per capita. The ‘Preston curve’ shows a positive relationship between national income levels and life expectancy in poorer countries but with smaller marginal returns at higher incomes. Preston noted an upward rise in the curve for three decades over the 20th century, leading to higher life expectancies for any given national income (defined as GDP per capita) level over time (Figure 1A is a reproduced graph of the Preston curve for the years 1960 and 2000). This upward rise has been attributed to the adoption of low-cost health technologies for child survival (Mathers et al., 2008; United Nations, 2011), such as immunization and oral rehydration, and to improvements in nutrition (Fogel, 1997), sanitation (Cutler and Miller, 2004), primary education for women (Caldwell, 1979; Cutler et al., 2006), or a combination of these variables (Rodgers, 2002). Indeed, some countries such as Costa Rica, Cuba, and Sri Lanka all achieve life expectancy levels greater than expected by their income (Caldwell, 1986)."
+    },
+    "citation_reference_24": {
+      "type": "citation_reference",
+      "id": "citation_reference_24",
+      "path": [
+        "paragraph_23",
+        "content"
+      ],
+      "target": "article_citation_bib33",
+      "range": [
+        20,
+        34
+      ]
+    },
+    "figure_reference_25": {
+      "type": "figure_reference",
+      "id": "figure_reference_25",
+      "path": [
+        "paragraph_23",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        545,
+        554
+      ]
+    },
+    "citation_reference_26": {
+      "type": "citation_reference",
+      "id": "citation_reference_26",
+      "path": [
+        "paragraph_23",
+        "content"
+      ],
+      "target": "article_citation_bib29",
+      "range": [
+        733,
+        753
+      ]
+    },
+    "citation_reference_27": {
+      "type": "citation_reference",
+      "id": "citation_reference_27",
+      "path": [
+        "paragraph_23",
+        "content"
+      ],
+      "target": "article_citation_bib41",
+      "range": [
+        755,
+        775
+      ]
+    },
+    "citation_reference_28": {
+      "type": "citation_reference",
+      "id": "citation_reference_28",
+      "path": [
+        "paragraph_23",
+        "content"
+      ],
+      "target": "article_citation_bib14",
+      "range": [
+        855,
+        866
+      ]
+    },
+    "citation_reference_29": {
+      "type": "citation_reference",
+      "id": "citation_reference_29",
+      "path": [
+        "paragraph_23",
+        "content"
+      ],
+      "target": "article_citation_bib10",
+      "range": [
+        881,
+        904
+      ]
+    },
+    "citation_reference_30": {
+      "type": "citation_reference",
+      "id": "citation_reference_30",
+      "path": [
+        "paragraph_23",
+        "content"
+      ],
+      "target": "article_citation_bib6",
+      "range": [
+        936,
+        950
+      ]
+    },
+    "citation_reference_31": {
+      "type": "citation_reference",
+      "id": "citation_reference_31",
+      "path": [
+        "paragraph_23",
+        "content"
+      ],
+      "target": "article_citation_bib11",
+      "range": [
+        952,
+        971
+      ]
+    },
+    "citation_reference_32": {
+      "type": "citation_reference",
+      "id": "citation_reference_32",
+      "path": [
+        "paragraph_23",
+        "content"
+      ],
+      "target": "article_citation_bib35",
+      "range": [
+        1011,
+        1024
+      ]
+    },
+    "citation_reference_33": {
+      "type": "citation_reference",
+      "id": "citation_reference_33",
+      "path": [
+        "paragraph_23",
+        "content"
+      ],
+      "target": "article_citation_bib7",
+      "range": [
+        1164,
+        1178
+      ]
+    },
+    "image_fig1": {
+      "type": "image",
+      "id": "image_fig1",
+      "label": "Figure 1.",
+      "url": "",
+      "object_id": "F1",
+      "title": "",
+      "content_type": "",
+      "large_url": "",
+      "content": "",
+      "group": [
+        "parent",
+        null
+      ],
+      "doi": "http://dx.doi.org/10.7554/eLife.00051.003",
+      "caption": "paragraph_image_fig1",
+      "graphic_id": "elife00051f001"
+    },
+    "paragraph_image_fig1": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig1",
+      "content": "(A) The original ‘Preston curve’ (plotted as a logistic function) demonstrating an upward shift from 1930 to 1960. Source: Preston (1975). (B) A hypothetical Michaelis–Menten plot with kinetic parameters vmax and Km."
+    },
+    "annotation_34": {
+      "type": "strong",
+      "id": "annotation_34",
+      "path": [
+        "paragraph_image_fig1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1,
+        2
+      ]
+    },
+    "citation_reference_35": {
+      "type": "citation_reference",
+      "id": "citation_reference_35",
+      "path": [
+        "paragraph_image_fig1",
+        "content"
+      ],
+      "target": "article_citation_bib33",
+      "range": [
+        123,
+        137
+      ]
+    },
+    "annotation_36": {
+      "type": "strong",
+      "id": "annotation_36",
+      "path": [
+        "paragraph_image_fig1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        140,
+        141
+      ]
+    },
+    "annotation_37": {
+      "type": "emphasis",
+      "id": "annotation_37",
+      "path": [
+        "paragraph_image_fig1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        204,
+        205
+      ]
+    },
+    "annotation_38": {
+      "type": "subscript",
+      "id": "annotation_38",
+      "path": [
+        "paragraph_image_fig1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        205,
+        208
+      ]
+    },
+    "annotation_39": {
+      "type": "subscript",
+      "id": "annotation_39",
+      "path": [
+        "paragraph_image_fig1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        214,
+        215
+      ]
+    },
+    "paragraph_40": {
+      "type": "paragraph",
+      "id": "paragraph_40",
+      "content": "Life expectancy has continued to increase globally, and this has led to the belief that less daily income is required to achieve a certain life expectancy level (Casabonne and Kenny, 2012). But these trends mask heterogeneity across age groups and income levels. In this article, we argue that the majority of gains in life expectancy for low- and middle-income countries have been achieved through reductions in child mortality while improvements in adult mortality have been restricted mostly to high-income countries. This has reduced inequality between countries for child survival, however, increased inequality for adult survival. The central objective of this article is to construct a mathematical model derived from the field of biochemistry/enzymology to analyze upward and lateral movements in the Preston curve. More specifically, we establish a new parameter ‘critical income’ (analogous to the Michaelis constant [Km]) to investigate the trends in income levels associated with reductions in mortality over the past 40 years; this model is further applied to age-specific populations to elucidate child and adult contributions to improving life expectancy. We also estimate the impact of HIV/AIDS and smoking on adult critical income values."
+    },
+    "citation_reference_41": {
+      "type": "citation_reference",
+      "id": "citation_reference_41",
+      "path": [
+        "paragraph_40",
+        "content"
+      ],
+      "target": "article_citation_bib9",
+      "range": [
+        162,
+        187
+      ]
+    },
+    "annotation_42": {
+      "type": "subscript",
+      "id": "annotation_42",
+      "path": [
+        "paragraph_40",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        929,
+        930
+      ]
+    },
+    "heading_s1-1": {
+      "type": "heading",
+      "id": "heading_s1-1",
+      "level": 2,
+      "content": "Mathematical models of health and income",
+      "nodes": []
+    },
+    "paragraph_43": {
+      "type": "paragraph",
+      "id": "paragraph_43",
+      "content": "The relationship between health and income has been described using a variety of empirical models, generally of the form (Wagstaff and Van Doorslaer, 2000)"
+    },
+    "citation_reference_44": {
+      "type": "citation_reference",
+      "id": "citation_reference_44",
+      "path": [
+        "paragraph_43",
+        "content"
+      ],
+      "target": "article_citation_bib45",
+      "range": [
+        122,
+        154
+      ]
+    },
+    "formula_eqn1": {
+      "type": "formula",
+      "id": "formula_eqn1",
+      "label": "[1]",
+      "content": "<mml:mrow><mml:msub><mml:mi>h</mml:mi><mml:mi>i</mml:mi></mml:msub><mml:mo>=</mml:mo><mml:mi>f</mml:mi><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:msub><mml:mi>y</mml:mi><mml:mi>i</mml:mi></mml:msub></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:mo>;</mml:mo><mml:mo> </mml:mo><mml:mtext>where</mml:mtext><mml:mo> </mml:mo><mml:mi>f</mml:mi><mml:mo>′</mml:mo><mml:mo>></mml:mo><mml:mn>0</mml:mn><mml:mo> </mml:mo><mml:mtext>and</mml:mtext><mml:mo> </mml:mo><mml:mi>f</mml:mi><mml:mo>″</mml:mo><mml:mo><</mml:mo><mml:mn>0</mml:mn><mml:mo>,</mml:mo></mml:mrow>",
+      "format": ""
+    },
+    "formula_45": {
+      "type": "formula",
+      "id": "formula_45",
+      "label": "",
+      "content": "",
+      "format": "",
+      "key": "content",
+      "source": "paragraph_43",
+      "target": "formula_eqn1",
+      "pos": [
+        155,
+        1
+      ]
+    },
+    "paragraph_46": {
+      "type": "paragraph",
+      "id": "paragraph_46",
+      "content": "where hi is a health indicator (such as life expectancy or survival rates) and yi is income, for country or unit i."
+    },
+    "annotation_47": {
+      "type": "emphasis",
+      "id": "annotation_47",
+      "path": [
+        "paragraph_46",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        6,
+        7
+      ]
+    },
+    "annotation_48": {
+      "type": "emphasis",
+      "id": "annotation_48",
+      "path": [
+        "paragraph_46",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        "where h",
+        8
+      ]
+    },
+    "annotation_49": {
+      "type": "subscript",
+      "id": "annotation_49",
+      "path": [
+        "paragraph_46",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        7,
+        8
+      ]
+    },
+    "annotation_50": {
+      "type": "emphasis",
+      "id": "annotation_50",
+      "path": [
+        "paragraph_46",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        79,
+        80
+      ]
+    },
+    "annotation_51": {
+      "type": "emphasis",
+      "id": "annotation_51",
+      "path": [
+        "paragraph_46",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        "where hi is a health indicator (such as life expectancy or survival rates) and y",
+        81
+      ]
+    },
+    "annotation_52": {
+      "type": "subscript",
+      "id": "annotation_52",
+      "path": [
+        "paragraph_46",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        80,
+        81
+      ]
+    },
+    "annotation_53": {
+      "type": "emphasis",
+      "id": "annotation_53",
+      "path": [
+        "paragraph_46",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        113,
+        114
+      ]
+    },
+    "paragraph_54": {
+      "type": "paragraph",
+      "id": "paragraph_54",
+      "content": "Preston, originally, characterized the relationship between life expectancy (e0) at birth and gross domestic product per capita (‘GDP’) as a logistic function in the form"
+    },
+    "annotation_55": {
+      "type": "emphasis",
+      "id": "annotation_55",
+      "path": [
+        "paragraph_54",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        77,
+        78
+      ]
+    },
+    "annotation_56": {
+      "type": "subscript",
+      "id": "annotation_56",
+      "path": [
+        "paragraph_54",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        78,
+        79
+      ]
+    },
+    "formula_eqn2": {
+      "type": "formula",
+      "id": "formula_eqn2",
+      "label": "[2]",
+      "content": "<mml:mrow><mml:msub><mml:mtext>e</mml:mtext><mml:mn>0</mml:mn></mml:msub><mml:mo>=</mml:mo><mml:mfrac><mml:mi>a</mml:mi><mml:mrow><mml:mn>1</mml:mn><mml:mo>+</mml:mo><mml:msup><mml:mtext>e</mml:mtext><mml:mrow><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mi>b</mml:mi><mml:mo>+</mml:mo><mml:mi>c</mml:mi><mml:mo>×</mml:mo><mml:msup><mml:mi>d</mml:mi><mml:mrow><mml:mtext>GDP</mml:mtext><mml:mo>′</mml:mo></mml:mrow></mml:msup></mml:mrow><mml:mo>)</mml:mo></mml:mrow></mml:mrow></mml:msup></mml:mrow></mml:mfrac><mml:mo>,</mml:mo></mml:mrow>",
+      "format": ""
+    },
+    "formula_57": {
+      "type": "formula",
+      "id": "formula_57",
+      "label": "",
+      "content": "",
+      "format": "",
+      "key": "content",
+      "source": "paragraph_54",
+      "target": "formula_eqn2",
+      "pos": [
+        170,
+        1
+      ]
+    },
+    "paragraph_58": {
+      "type": "paragraph",
+      "id": "paragraph_58",
+      "content": "where GDP′ is GDP linearized on a scale of 0 to 1. Figure 1A is a reproduced plot of the original ‘Preston curve’, with an upward shift between the years 1960 and 2000 (Preston, 1975). Although the fit of this model to data is good, the model parameters are harder to interpret. It is suggested that identifying an inflection point (the point of diminishing returns) could clarify the analysis of these parameters (Rogers and Crimmins, 2011), for a generalized logistic function of the form"
+    },
+    "figure_reference_59": {
+      "type": "figure_reference",
+      "id": "figure_reference_59",
+      "path": [
+        "paragraph_58",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        51,
+        60
+      ]
+    },
+    "citation_reference_60": {
+      "type": "citation_reference",
+      "id": "citation_reference_60",
+      "path": [
+        "paragraph_58",
+        "content"
+      ],
+      "target": "article_citation_bib33",
+      "range": [
+        169,
+        182
+      ]
+    },
+    "citation_reference_61": {
+      "type": "citation_reference",
+      "id": "citation_reference_61",
+      "path": [
+        "paragraph_58",
+        "content"
+      ],
+      "target": "article_citation_bib36",
+      "range": [
+        415,
+        440
+      ]
+    },
+    "formula_eqn3": {
+      "type": "formula",
+      "id": "formula_eqn3",
+      "label": "[3]",
+      "content": "<mml:mrow><mml:msub><mml:mtext>e</mml:mtext><mml:mn>0</mml:mn></mml:msub><mml:mo>=</mml:mo><mml:mfrac><mml:mi>c</mml:mi><mml:mrow><mml:mn>1</mml:mn><mml:mo>+</mml:mo><mml:mi>a</mml:mi><mml:mo>×</mml:mo><mml:msup><mml:mtext>e</mml:mtext><mml:mrow><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mo>−</mml:mo><mml:mi>b</mml:mi><mml:mo>×</mml:mo><mml:mtext>GDP</mml:mtext></mml:mrow><mml:mo>)</mml:mo></mml:mrow></mml:mrow></mml:msup></mml:mrow></mml:mfrac><mml:mo>,</mml:mo></mml:mrow>",
+      "format": ""
+    },
+    "formula_62": {
+      "type": "formula",
+      "id": "formula_62",
+      "label": "",
+      "content": "",
+      "format": "",
+      "key": "content",
+      "source": "paragraph_58",
+      "target": "formula_eqn3",
+      "pos": [
+        490,
+        1
+      ]
+    },
+    "paragraph_63": {
+      "type": "paragraph",
+      "id": "paragraph_63",
+      "content": "where ‘c’ is the maximal life expectancy and the inflection point is at a GDP value of ‘ln(a)/b’."
+    },
+    "annotation_64": {
+      "type": "emphasis",
+      "id": "annotation_64",
+      "path": [
+        "paragraph_63",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        7,
+        8
+      ]
+    },
+    "annotation_65": {
+      "type": "emphasis",
+      "id": "annotation_65",
+      "path": [
+        "paragraph_63",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        91,
+        92
+      ]
+    },
+    "annotation_66": {
+      "type": "emphasis",
+      "id": "annotation_66",
+      "path": [
+        "paragraph_63",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        94,
+        95
+      ]
+    },
+    "paragraph_67": {
+      "type": "paragraph",
+      "id": "paragraph_67",
+      "content": "More commonly, however, a log-linear relationship is used as a simpler alternative to the logistic function"
+    },
+    "formula_eqn4": {
+      "type": "formula",
+      "id": "formula_eqn4",
+      "label": "[4]",
+      "content": "<mml:mrow><mml:msub><mml:mtext>e</mml:mtext><mml:mn>0</mml:mn></mml:msub><mml:mo>=</mml:mo><mml:mi>a</mml:mi><mml:mo>+</mml:mo><mml:mi>b</mml:mi><mml:mo>×</mml:mo><mml:mtext>ln</mml:mtext><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mtext>GDP</mml:mtext></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:mo>.</mml:mo></mml:mrow>",
+      "format": ""
+    },
+    "formula_68": {
+      "type": "formula",
+      "id": "formula_68",
+      "label": "",
+      "content": "",
+      "format": "",
+      "key": "content",
+      "source": "paragraph_67",
+      "target": "formula_eqn4",
+      "pos": [
+        107,
+        1
+      ]
+    },
+    "paragraph_69": {
+      "type": "paragraph",
+      "id": "paragraph_69",
+      "content": "The Preston model explains the majority of the observed variance in life expectancy, but the coefficients (‘a’ and ‘b’) are not interpretable as no meaning exists for each coefficient nor is a theoretical relationship between them stipulated. The inadequacy of the Preston models to methodologically identify a single point (such as an inflection point; Rogers and Crimmins, 2011), which describes the changing curvature at lower income levels, has led to greater emphasis on the upward rise in the Preston curve, and less attention is devoted to lateral movements (along the income axis). Nonparametric regressions have been used to identify a ‘hinge’ on the Preston curve (Deaton and Case, 2009); however, we know of no known study that has explicitly quantified shifts across income levels."
+    },
+    "annotation_70": {
+      "type": "emphasis",
+      "id": "annotation_70",
+      "path": [
+        "paragraph_69",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        108,
+        109
+      ]
+    },
+    "annotation_71": {
+      "type": "emphasis",
+      "id": "annotation_71",
+      "path": [
+        "paragraph_69",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        116,
+        117
+      ]
+    },
+    "citation_reference_72": {
+      "type": "citation_reference",
+      "id": "citation_reference_72",
+      "path": [
+        "paragraph_69",
+        "content"
+      ],
+      "target": "article_citation_bib36",
+      "range": [
+        354,
+        379
+      ]
+    },
+    "citation_reference_73": {
+      "type": "citation_reference",
+      "id": "citation_reference_73",
+      "path": [
+        "paragraph_69",
+        "content"
+      ],
+      "target": "article_citation_bib8",
+      "range": [
+        675,
+        696
+      ]
+    },
+    "heading_s1-2": {
+      "type": "heading",
+      "id": "heading_s1-2",
+      "level": 2,
+      "content": "Adapted enzyme kinetics model",
+      "nodes": []
+    },
+    "paragraph_74": {
+      "type": "paragraph",
+      "id": "paragraph_74",
+      "content": "Here, we identify a new construct called ‘critical income’ through the novel application of a mathematical model by Michaelis and Menten (MM) to empirically track child and adult mortality at different incomes. The Michaelis–Menten mathematical model first described in 1913 (Michaelis and Menten, 1913) was initially developed to analyze enzyme kinetics. Enzymes are biomacromolecules that act as catalysts, agents that accelerate the rate of a chemical reaction without being consumed in the process. In the absence of these enzymes, some thermodynamically favorable reactions may be kinetically hindered from occurring. For a single reaction, enzyme E binds to a substrate S to form an intermediate complex ES, which is converted into a product P and the original enzyme"
+    },
+    "citation_reference_75": {
+      "type": "citation_reference",
+      "id": "citation_reference_75",
+      "path": [
+        "paragraph_74",
+        "content"
+      ],
+      "target": "article_citation_bib30",
+      "range": [
+        276,
+        302
+      ]
+    },
+    "formula_eqn5": {
+      "type": "formula",
+      "id": "formula_eqn5",
+      "label": "[5]",
+      "content": "<mml:mrow><mml:mtext>E</mml:mtext><mml:mo>+</mml:mo><mml:mtext>S</mml:mtext><mml:mo>⇌</mml:mo><mml:mtext>ES</mml:mtext><mml:mo>⇀</mml:mo><mml:mtext>E</mml:mtext><mml:mo>+</mml:mo><mml:mtext>P</mml:mtext><mml:mo>.</mml:mo></mml:mrow>",
+      "format": ""
+    },
+    "formula_76": {
+      "type": "formula",
+      "id": "formula_76",
+      "label": "",
+      "content": "",
+      "format": "",
+      "key": "content",
+      "source": "paragraph_74",
+      "target": "formula_eqn5",
+      "pos": [
+        773,
+        1
+      ]
+    },
+    "paragraph_77": {
+      "type": "paragraph",
+      "id": "paragraph_77",
+      "content": "Figure 1B is a plot of the MM equation for a hypothetical reaction. The classic MM equation describes the dependence of the enzyme velocity ν on substrate concentration [S]. ν asymptotically approaches a maximum value (νmax) at high [S] when enzymatic sites are saturated. Km is the half saturation constant—substrate concentration at which ν = 0.5νmax. Km is a function of the forward and reverse reaction rate constants, where a lower Km value indicates a more efficient catalyst"
+    },
+    "figure_reference_78": {
+      "type": "figure_reference",
+      "id": "figure_reference_78",
+      "path": [
+        "paragraph_77",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        0,
+        9
+      ]
+    },
+    "annotation_79": {
+      "type": "emphasis",
+      "id": "annotation_79",
+      "path": [
+        "paragraph_77",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        140,
+        141
+      ]
+    },
+    "annotation_80": {
+      "type": "emphasis",
+      "id": "annotation_80",
+      "path": [
+        "paragraph_77",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        170,
+        171
+      ]
+    },
+    "annotation_81": {
+      "type": "emphasis",
+      "id": "annotation_81",
+      "path": [
+        "paragraph_77",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        174,
+        175
+      ]
+    },
+    "annotation_82": {
+      "type": "emphasis",
+      "id": "annotation_82",
+      "path": [
+        "paragraph_77",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        219,
+        220
+      ]
+    },
+    "annotation_83": {
+      "type": "subscript",
+      "id": "annotation_83",
+      "path": [
+        "paragraph_77",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        220,
+        223
+      ]
+    },
+    "annotation_84": {
+      "type": "emphasis",
+      "id": "annotation_84",
+      "path": [
+        "paragraph_77",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        234,
+        235
+      ]
+    },
+    "annotation_85": {
+      "type": "subscript",
+      "id": "annotation_85",
+      "path": [
+        "paragraph_77",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        274,
+        275
+      ]
+    },
+    "annotation_86": {
+      "type": "emphasis",
+      "id": "annotation_86",
+      "path": [
+        "paragraph_77",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        341,
+        342
+      ]
+    },
+    "annotation_87": {
+      "type": "emphasis",
+      "id": "annotation_87",
+      "path": [
+        "paragraph_77",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        348,
+        349
+      ]
+    },
+    "annotation_88": {
+      "type": "subscript",
+      "id": "annotation_88",
+      "path": [
+        "paragraph_77",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        349,
+        352
+      ]
+    },
+    "annotation_89": {
+      "type": "subscript",
+      "id": "annotation_89",
+      "path": [
+        "paragraph_77",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        355,
+        356
+      ]
+    },
+    "annotation_90": {
+      "type": "subscript",
+      "id": "annotation_90",
+      "path": [
+        "paragraph_77",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        438,
+        439
+      ]
+    },
+    "formula_eqn6": {
+      "type": "formula",
+      "id": "formula_eqn6",
+      "label": "[6]",
+      "content": "<mml:mrow><mml:mi>ν</mml:mi><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:msub><mml:mi>ν</mml:mi><mml:mrow><mml:mtext>max</mml:mtext></mml:mrow></mml:msub><mml:mrow><mml:mo>[</mml:mo><mml:mi>S</mml:mi><mml:mo>]</mml:mo></mml:mrow></mml:mrow><mml:mrow><mml:mrow><mml:mo>[</mml:mo><mml:mi>S</mml:mi><mml:mo>]</mml:mo></mml:mrow><mml:mo>+</mml:mo><mml:msub><mml:mtext>K</mml:mtext><mml:mtext>m</mml:mtext></mml:msub></mml:mrow></mml:mfrac><mml:mo>.</mml:mo></mml:mrow>",
+      "format": ""
+    },
+    "formula_91": {
+      "type": "formula",
+      "id": "formula_91",
+      "label": "",
+      "content": "",
+      "format": "",
+      "key": "content",
+      "source": "paragraph_77",
+      "target": "formula_eqn6",
+      "pos": [
+        481,
+        1
+      ]
+    },
+    "paragraph_92": {
+      "type": "paragraph",
+      "id": "paragraph_92",
+      "content": "We extend the application of the Michaelis–Menten kinetics model to describe life expectancy, child, and adult survival. We use the analogy that GDP is a substrate, and health determinants and widespread applications of public health research, treatments and interventions are catalysts that increase health and survival (Ad Hoc Committee on Health Research Relating to Future Intervention Options, 1996). Indeed, infrastructure (such as water sanitation and education systems), vaccinations (leading to long-term immunity), and public health knowledge can be viewed as catalysts that are not consumed in entirety during the process."
+    },
+    "citation_reference_93": {
+      "type": "citation_reference",
+      "id": "citation_reference_93",
+      "path": [
+        "paragraph_92",
+        "content"
+      ],
+      "target": "article_citation_bib1",
+      "range": [
+        322,
+        403
+      ]
+    },
+    "formula_eqn7": {
+      "type": "formula",
+      "id": "formula_eqn7",
+      "label": "[7]",
+      "content": "<mml:mrow><mml:msub><mml:mtext>e</mml:mtext><mml:mn>0</mml:mn></mml:msub><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:msub><mml:mtext>e</mml:mtext><mml:mrow><mml:mn>0</mml:mn><mml:mo>,</mml:mo><mml:mtext>max</mml:mtext></mml:mrow></mml:msub><mml:mo>×</mml:mo><mml:mtext>GDP</mml:mtext></mml:mrow><mml:mrow><mml:mtext>GDP</mml:mtext><mml:mo>+</mml:mo><mml:msub><mml:mtext>K</mml:mtext><mml:mrow><mml:mtext>inc</mml:mtext></mml:mrow></mml:msub></mml:mrow></mml:mfrac><mml:mo>,</mml:mo></mml:mrow>",
+      "format": ""
+    },
+    "formula_94": {
+      "type": "formula",
+      "id": "formula_94",
+      "label": "",
+      "content": "",
+      "format": "",
+      "key": "content",
+      "source": "paragraph_92",
+      "target": "formula_eqn7",
+      "pos": [
+        633,
+        1
+      ]
+    },
+    "paragraph_95": {
+      "type": "paragraph",
+      "id": "paragraph_95",
+      "content": "where for a given year, the mean life expectancy at birth (e0) in a country is related to its GDP per capita (per day, at constant 2005 international dollars, adjusted for purchasing power parity and inflation). The MM model is characterized by two parameters: the life expectancy of the highest income countries (e0,max), and critical income (Kinc). We introduce a new parameter called ‘critical income’ as a meaningful construct that can be estimated to assess the relationship between income and mortality. This construct is defined as the level of daily income associated with the achievement of 50% of the maximum life expectancy (i.e., GDP per capita at e0 = 0.5 × e0,max); ‘maximum life expectancy’ is empiric, approximating the observed average life expectancy in high-income countries (Rodgers, 2002). While it is a biochemical convention to report the 50% mark, the critical income value is adaptable to determine higher fractional level of maximum life expectancy. In particular, two, four, and nine times the critical income yields the income required to achieve 66.7%, 80%, and 90% of the maximal life expectancy, respectively."
+    },
+    "annotation_96": {
+      "type": "subscript",
+      "id": "annotation_96",
+      "path": [
+        "paragraph_95",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        60,
+        61
+      ]
+    },
+    "annotation_97": {
+      "type": "subscript",
+      "id": "annotation_97",
+      "path": [
+        "paragraph_95",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        315,
+        320
+      ]
+    },
+    "annotation_98": {
+      "type": "subscript",
+      "id": "annotation_98",
+      "path": [
+        "paragraph_95",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        345,
+        348
+      ]
+    },
+    "annotation_99": {
+      "type": "subscript",
+      "id": "annotation_99",
+      "path": [
+        "paragraph_95",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        661,
+        662
+      ]
+    },
+    "annotation_100": {
+      "type": "subscript",
+      "id": "annotation_100",
+      "path": [
+        "paragraph_95",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        672,
+        677
+      ]
+    },
+    "citation_reference_101": {
+      "type": "citation_reference",
+      "id": "citation_reference_101",
+      "path": [
+        "paragraph_95",
+        "content"
+      ],
+      "target": "article_citation_bib35",
+      "range": [
+        795,
+        808
+      ]
+    },
+    "paragraph_102": {
+      "type": "paragraph",
+      "id": "paragraph_102",
+      "content": "The asymptotic leveling of life expectancy at high income seen in the Preston or MM curves is analogous to the saturation of enzymatic sites at high substrate concentration, thus, further increases in GDP leads to only marginal increases in life expectancy."
+    },
+    "paragraph_103": {
+      "type": "paragraph",
+      "id": "paragraph_103",
+      "content": "This model establishes a systematic and empirical method for monitoring not only previously documented upward rises in the Preston curve but also potential shifts along the income axis. Whereas an upward rise can increase the maximum achievable survival for all countries, lateral shifts indicate an increase or decrease of income required to achieve this survival. These lateral shifts are particularly significant for more resource-limited countries that have yet to reach asymptotic leveling in the health and income relationship."
+    },
+    "paragraph_104": {
+      "type": "paragraph",
+      "id": "paragraph_104",
+      "content": "Age-specific contributions to changes in life expectancy are quantified using child mortality rate as the probability of a child born in a specific year dying before reaching the age of 5 years, referred to as 5q0, and the gender-specific adult mortality rate, representing the probability (for a given year) that an individual who has just turned 15 years will not reach the age of 60 years, referred to as 45q15. We transform these values to survival rates, where a mortality rate of 5 per 1000 corresponds to a 99.5% survival rate. The corresponding MM functions for child survival from age 0 to 5 years (5p0) and for adults from the age of 15 to 60 years (45p15), by gender, are"
+    },
+    "formula_eqn8": {
+      "type": "formula",
+      "id": "formula_eqn8",
+      "label": "[8]",
+      "content": "<mml:mrow><mml:mn>5</mml:mn><mml:mtext>p</mml:mtext><mml:mn>0</mml:mn><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:mn>5</mml:mn><mml:mtext>p</mml:mtext><mml:msub><mml:mn>0</mml:mn><mml:mrow><mml:mtext>max</mml:mtext></mml:mrow></mml:msub><mml:mo>×</mml:mo><mml:mtext>GDP</mml:mtext></mml:mrow><mml:mrow><mml:mtext>GDP</mml:mtext><mml:mo>+</mml:mo><mml:msub><mml:mtext>K</mml:mtext><mml:mrow><mml:mtext>inc</mml:mtext></mml:mrow></mml:msub></mml:mrow></mml:mfrac><mml:mo>;</mml:mo></mml:mrow>",
+      "format": ""
+    },
+    "formula_105": {
+      "type": "formula",
+      "id": "formula_105",
+      "label": "",
+      "content": "",
+      "format": "",
+      "key": "content",
+      "source": "paragraph_104",
+      "target": "formula_eqn8",
+      "pos": [
+        682,
+        1
+      ]
+    },
+    "formula_eqn9": {
+      "type": "formula",
+      "id": "formula_eqn9",
+      "label": "[9]",
+      "content": "<mml:mrow><mml:mn>45</mml:mn><mml:mtext>p</mml:mtext><mml:mn>15</mml:mn><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:mn>45</mml:mn><mml:mtext>p</mml:mtext><mml:msub><mml:mrow><mml:mn>15</mml:mn></mml:mrow><mml:mrow><mml:mtext>max</mml:mtext></mml:mrow></mml:msub><mml:mo>×</mml:mo><mml:mtext>GDP</mml:mtext></mml:mrow><mml:mrow><mml:mtext>GDP</mml:mtext><mml:mo>+</mml:mo><mml:msub><mml:mtext>K</mml:mtext><mml:mrow><mml:mtext>inc</mml:mtext></mml:mrow></mml:msub></mml:mrow></mml:mfrac><mml:mo>,</mml:mo></mml:mrow>",
+      "format": ""
+    },
+    "formula_106": {
+      "type": "formula",
+      "id": "formula_106",
+      "label": "",
+      "content": "",
+      "format": "",
+      "key": "content",
+      "source": "formula_eqn8",
+      "target": "formula_eqn9",
+      "pos": [
+        490,
+        1
+      ]
+    },
+    "paragraph_107": {
+      "type": "paragraph",
+      "id": "paragraph_107",
+      "content": "where in a given year, 5p0max and 45p15max are the maximum survival rates in high income countries and Kinc is the critical income associated with that age-specific group and gender."
+    },
+    "annotation_108": {
+      "type": "subscript",
+      "id": "annotation_108",
+      "path": [
+        "paragraph_107",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        26,
+        29
+      ]
+    },
+    "annotation_109": {
+      "type": "subscript",
+      "id": "annotation_109",
+      "path": [
+        "paragraph_107",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        39,
+        42
+      ]
+    },
+    "annotation_110": {
+      "type": "subscript",
+      "id": "annotation_110",
+      "path": [
+        "paragraph_107",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        104,
+        107
+      ]
+    },
+    "paragraph_111": {
+      "type": "paragraph",
+      "id": "paragraph_111",
+      "content": "Two large and widespread public health factors that have influenced mortality over the last four decades have been the HIV/AIDS pandemic and smoking, which makes more common most vascular, respiratory, and neoplastic diseases as well as tuberculosis (Gajalakshmi et al., 2003; Jha, 2009). We test if adjustment for the marked heterogeneity of HIV prevalence (between the ages of 15 and 49 years, as proxy for general population infection levels) and cigarette consumption (at ages 15 years or older) make less efficient the relationship between GDP per capita and adult mortality—as indicated by critical income values."
+    },
+    "citation_reference_112": {
+      "type": "citation_reference",
+      "id": "citation_reference_112",
+      "path": [
+        "paragraph_111",
+        "content"
+      ],
+      "target": "article_citation_bib15",
+      "range": [
+        251,
+        275
+      ]
+    },
+    "citation_reference_113": {
+      "type": "citation_reference",
+      "id": "citation_reference_113",
+      "path": [
+        "paragraph_111",
+        "content"
+      ],
+      "target": "article_citation_bib22",
+      "range": [
+        277,
+        286
+      ]
+    },
+    "heading_s2": {
+      "type": "heading",
+      "id": "heading_s2",
+      "level": 1,
+      "content": "Results",
+      "nodes": []
+    },
+    "heading_s2-1": {
+      "type": "heading",
+      "id": "heading_s2-1",
+      "level": 2,
+      "content": "Model fitness",
+      "nodes": []
+    },
+    "paragraph_114": {
+      "type": "paragraph",
+      "id": "paragraph_114",
+      "content": "Figure 2A shows the graphical similarity between the logistic, log-linear, and MM model fits of life expectancy for the year 1990. For the years 1970 to 2007, there was no significant difference in the coefficient of determination (R2) for the logistic (M = 0.666, SD = 0.064), log-linear (M = 0.645, SD = 0.073), and MM regressions (M = 0.622, SD = 0.083; F(2,26) = 0.807, p=0.458, not statistically significant), indicating that the MM model is statistically as valid as the Preston log-linear and logistic models. See Table 1 for the regression coefficient for all years."
+    },
+    "figure_reference_115": {
+      "type": "figure_reference",
+      "id": "figure_reference_115",
+      "path": [
+        "paragraph_114",
+        "content"
+      ],
+      "target": "image_fig2",
+      "range": [
+        0,
+        9
+      ]
+    },
+    "annotation_116": {
+      "type": "superscript",
+      "id": "annotation_116",
+      "path": [
+        "paragraph_114",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        233,
+        234
+      ]
+    },
+    "figure_reference_117": {
+      "type": "figure_reference",
+      "id": "figure_reference_117",
+      "path": [
+        "paragraph_114",
+        "content"
+      ],
+      "target": "table_tbl1",
+      "range": [
+        521,
+        528
+      ]
+    },
+    "image_fig2": {
+      "type": "image",
+      "id": "image_fig2",
+      "label": "Figure 2.",
+      "url": "",
+      "object_id": "F2",
+      "title": "",
+      "content_type": "",
+      "large_url": "",
+      "content": "",
+      "group": [
+        "parent",
+        null
+      ],
+      "doi": "http://dx.xoi.org/10.7554/eLife.00051.004",
+      "caption": "paragraph_image_fig2",
+      "graphic_id": "elife00051f002"
+    },
+    "paragraph_image_fig2": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig2",
+      "content": "(A) The graphical similarity between the logistic, log-linear, and Michaelis–Menten model fits of life expectancy for the year 1990. (B) Preston curve plotted as an enzyme kinetics reaction with coefficients critical income and maximum life expectancy for the years 1970 and 2007."
+    },
+    "annotation_118": {
+      "type": "strong",
+      "id": "annotation_118",
+      "path": [
+        "paragraph_image_fig2",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1,
+        2
+      ]
+    },
+    "annotation_119": {
+      "type": "strong",
+      "id": "annotation_119",
+      "path": [
+        "paragraph_image_fig2",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        134,
+        135
+      ]
+    },
+    "table_tbl1": {
+      "type": "table",
+      "id": "table_tbl1",
+      "label": "Table 1.",
+      "content": "<table><thead><tr><td rowspan=3>Year</td><td rowspan=3>n</td><td rowspan=3>R<sup>2</sup></td><td>MaxLife expectancy (LEmax, years)</td><td rowspan=3>5% trimmed mean LE for high-income countries</td><td>Income require for varying levels of LEmax</td></tr><tr><td rowspan=2>Full sample</td><td rowspan=2>95% random sample</td><td>Critical income (K<sub>inc</sub>, 50%)</td><td rowspan=2>66.70%</td><td rowspan=2>80%</td><td rowspan=2>90%</td></tr><tr><td>Full sample</td><td>95% random sample</td></tr></thead><tbody><tr><td>1970</td><td>148</td><td>0.535</td><td>67.8 (65.4–70.1)</td><td>67.6</td><td>66.7</td><td>1.48 (1.18–1.78)</td><td>1.43</td><td>2.96</td><td>5.92</td><td>13.32</td></tr><tr><td>1975</td><td>148</td><td>0.574</td><td>69.3 (67.2–71.4)</td><td>69.2</td><td>70.3</td><td>1.50 (1.22–1.77)</td><td>1.53</td><td>3.00</td><td>6.00</td><td>13.50</td></tr><tr><td>1980</td><td>149</td><td>0.668</td><td>71.3 (69.6–73.0)</td><td>71.1</td><td>71.8</td><td>1.51 (1.28–1.74)</td><td>1.46</td><td>3.02</td><td>6.04</td><td>13.59</td></tr><tr><td>1985</td><td>152</td><td>0.716</td><td>73.2 (71.8–74.8)</td><td>73.1</td><td>73.2</td><td>1.50 (1.29–1.70)</td><td>1.46</td><td>3.00</td><td>6.00</td><td>13.50</td></tr><tr><td>1990</td><td>164</td><td>0.735</td><td>74.6 (73.2–75.9)</td><td>73.5</td><td>74.3</td><td>1.45 (1.27–1.63)</td><td>1.34</td><td>2.90</td><td>5.80</td><td>13.05</td></tr><tr><td>1995</td><td>177</td><td>0.677</td><td>75.0 (73.6–76.4)</td><td>74.8</td><td>75.4</td><td>1.31 (1.13–1.49)</td><td>1.27</td><td>2.62</td><td>5.24</td><td>11.79</td></tr><tr><td>2000</td><td>178</td><td>0.64</td><td>75.2 (73.8–76.7)</td><td>75.3</td><td>76.2</td><td>1.27 (1.08–1.46)</td><td>1.27</td><td>2.54</td><td>5.08</td><td>11.43</td></tr><tr><td>2005</td><td>177</td><td>0.532</td><td>75.3 (73.6–76.9)</td><td>75.6</td><td>76.5</td><td>1.19 (0.97–1.41)</td><td>1.23</td><td>2.38</td><td>4.76</td><td>10.71</td></tr><tr><td>2007</td><td>172</td><td>0.521</td><td>75.5 (73.9–77.1)</td><td>75.7</td><td>76.4</td><td>1.21 (0.98–1.44)</td><td>1.22</td><td>2.42</td><td>4.84</td><td>10.89</td></tr></tbody></table>",
+      "title": "",
+      "footers": [],
+      "doi": "http://dx.doi.org/10.7554/eLife.00051.005",
+      "caption": "paragraph_table_tbl1",
+      "format": ""
+    },
+    "paragraph_table_tbl1": {
+      "type": "paragraph",
+      "id": "paragraph_table_tbl1",
+      "content": "Maximum life expectancy, critical income, and regression coefficients (95% confidence intervals) for all countries at 5-year intervals from 1970 to 2007"
+    },
+    "footer_120": {
+      "type": "footer",
+      "id": "footer_120",
+      "content": "Note: All model parameters were found to be significant, p<0.0001.",
+      "label": ""
+    },
+    "paragraph_121": {
+      "type": "paragraph",
+      "id": "paragraph_121",
+      "content": "Although the fits of the models were comparable, the parameters of the logistic and log-linear models have less obvious explanatory value. For the logistic function, all inflection points were determined to be negative (from −$2.69 in 1970 to −$8.47 in 2007) and are impossible income values for any country. This suggests that the logistic function is overly complex and not necessary to model the data. For the log-linear function, the model parameters did not allow for a means to intuitively track lateral movements in the Preston curve. In addition, when using annual income (rather than daily income), the parameter ‘a’ was not statistically significant for any year from 1970 to 2000. Table 2 is a comparison of all three models for the year 1990."
+    },
+    "annotation_122": {
+      "type": "emphasis",
+      "id": "annotation_122",
+      "path": [
+        "paragraph_121",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        623,
+        624
+      ]
+    },
+    "figure_reference_123": {
+      "type": "figure_reference",
+      "id": "figure_reference_123",
+      "path": [
+        "paragraph_121",
+        "content"
+      ],
+      "target": "table_tbl2",
+      "range": [
+        692,
+        699
+      ]
+    },
+    "table_tbl2": {
+      "type": "table",
+      "id": "table_tbl2",
+      "label": "Table 2.",
+      "content": "<table><thead><tr><td>Model</td><td>Form</td><td>R<sup>2</sup></td><td>Parameters</td></tr></thead><tbody><tr><td>Logistic</td><td><mml:math><mml:mrow><mml:mi>LE</mml:mi><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:mi>L</mml:mi><mml:msub><mml:mi>E</mml:mi><mml:mrow><mml:mtext>max</mml:mtext></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:mi>a</mml:mi><mml:mo>+</mml:mo><mml:msup><mml:mtext>e</mml:mtext><mml:mrow><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mo>−</mml:mo><mml:mi>b</mml:mi><mml:mo>×</mml:mo><mml:mtext>GDP</mml:mtext></mml:mrow><mml:mo>)</mml:mo></mml:mrow></mml:mrow></mml:msup></mml:mrow></mml:mfrac></mml:mrow></mml:math></td><td>0.745</td><td><em>LE</em><sub>max</sub> = 73.6 (72.1–75.1)</td><td><em>a</em> = 0.642 (0.546–0.739)</td><td><em>b</em> = 0.129 (0.159–0.100)</td><td>Inflection point = −3.43</td></tr><tr><td>Adapted Michaelis–Menten</td><td><mml:math><mml:mrow><mml:mi>LE</mml:mi><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:mi>L</mml:mi><mml:msub><mml:mi>E</mml:mi><mml:mrow><mml:mtext>max</mml:mtext></mml:mrow></mml:msub><mml:mo>×</mml:mo><mml:mtext>GDP</mml:mtext></mml:mrow><mml:mrow><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:msub><mml:mi>k</mml:mi><mml:mrow><mml:mtext>inc</mml:mtext></mml:mrow></mml:msub><mml:mo>+</mml:mo><mml:mtext>GDP</mml:mtext></mml:mrow><mml:mo>)</mml:mo></mml:mrow></mml:mrow></mml:mfrac></mml:mrow></mml:math></td><td>0.735</td><td><em>LE</em><sub>max</sub> = 74.6 (73.2–75.9)</td><td><em>k</em><sub>inc</sub> = 1.50 (1.29–1.70)</td></tr><tr><td>Log-linear</td><td><em>LE</em> = <em>a</em> + <em>b</em> × ln(GDP)</td><td>0.731</td><td><em>a</em> = 44.1 (42.0–46.2)</td><td><em>b</em> = 7.65 (6.93–8.37)</td></tr></tbody></table>",
+      "title": "",
+      "footers": [],
+      "doi": "http://dx.doi.org/10.7554/eLife.00051.006",
+      "caption": "paragraph_table_tbl2",
+      "format": ""
+    },
+    "paragraph_table_tbl2": {
+      "type": "paragraph",
+      "id": "paragraph_table_tbl2",
+      "content": "Comparison of the logistic adapted Michaelis–Menten and log-linear models for the year 1990"
+    },
+    "image_fig3": {
+      "type": "image",
+      "id": "image_fig3",
+      "label": "Figure 3.",
+      "url": "",
+      "object_id": "F3",
+      "title": "",
+      "content_type": "",
+      "large_url": "",
+      "content": "",
+      "group": [
+        "parent",
+        null
+      ],
+      "doi": "http://dx.doi.org/10.7554/eLife.00051.007",
+      "caption": "paragraph_image_fig3",
+      "graphic_id": "elife00051f003"
+    },
+    "paragraph_image_fig3": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig3",
+      "content": "Trends for maximum survival (A) and critical income (B) for children and adults from 1970 to 2007."
+    },
+    "annotation_124": {
+      "type": "strong",
+      "id": "annotation_124",
+      "path": [
+        "paragraph_image_fig3",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        29,
+        30
+      ]
+    },
+    "annotation_125": {
+      "type": "strong",
+      "id": "annotation_125",
+      "path": [
+        "paragraph_image_fig3",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        53,
+        54
+      ]
+    },
+    "table_tbl3": {
+      "type": "table",
+      "id": "table_tbl3",
+      "label": "Table 3.",
+      "content": "<table><thead><tr><td rowspan=2>Year</td><td>Child</td><td>Female</td><td>Female (with HIV covariate)</td><td>Male</td><td>Male (with HIV covariate)</td></tr><tr><td>R<sup>2</sup></td><td>Max%</td><td>K<sub>inc</sub>, $</td><td>R<sup>2</sup></td><td>Max%</td><td>K<sub>inc</sub>, $</td><td>R<sup>2</sup></td><td>Max%</td><td>K<sub>inc</sub>, $</td><td>HIV</td><td>R<sup>2</sup></td><td>Max%</td><td>K<sub>inc</sub>, $</td><td>R<sup>2</sup></td><td>Max%</td><td>K<sub>inc</sub>, $</td><td>HIV</td></tr></thead><tbody><tr><td>1970</td><td>0.444</td><td>94.5 (92.7–96.2)</td><td>0.58 (0.46–0.70)</td><td>0.376</td><td>85.9 (84.1–87.7)</td><td>0.57 (0.43–0.70)</td><td rowspan=2 colspan=4></td><td>0.253</td><td>77.7 (75.6–79.7)</td><td>0.54 (0.38–0.71)</td><td rowspan=2 colspan=4></td></tr><tr><td>1980</td><td>0.569</td><td>96.9 (95.7–98.2)</td><td>0.57 (0.48–0.66)</td><td>0.448</td><td>88.3 (86.7–89.9)</td><td>0.62 (0.49–0.74)</td><td>0.286</td><td>79.5 (77.5–81.6)</td><td>0.65 (0.46–0.83)</td></tr><tr><td>1990</td><td>0.629</td><td>98.3 (97.4–99.2)</td><td>0.48 (0.42–0.55)</td><td>0.482</td><td>90.2 (88.7–91.8)</td><td>0.68 (0.55–0.81)</td><td>0.595</td><td>90.4 (88.8–91.4)</td><td>0.54 (0.41–0.67)</td><td>−1.8 (−1.2 to −2.4)</td><td>0.380</td><td>82.1 (80.2–84.1)</td><td>0.81 (0.62–0.99)</td><td>0.498</td><td>81.8 (79.8–83.8)</td><td>0.60 (0.42–0.79)</td><td>−2.2 (−1.3 to −2.8)</td></tr><tr><td>2000</td><td>0.530</td><td>97.9 (97.2–98.7)</td><td>0.30 (0.25–0.34)</td><td>0.377</td><td>90.2 (88.0–92.4)</td><td>0.86 (0.65–1.06)</td><td>0.787</td><td>92.1 (90.5–93.6)</td><td>0.69 (0.55–0.82)</td><td>−1.8(−1.6 to −2.0)</td><td>0.284</td><td>81.9 (79.0–84.8)</td><td>1.10 (0.77–1.43)</td><td>0.720</td><td>83.5 (81.4–85.6)</td><td>0.79 (0.57–1.00)</td><td>−2.2 (−1.9 to −2.5)</td></tr><tr><td>2005</td><td>0.466</td><td>98.0 (97.3–98.6)</td><td>0.25 (0.20–0.29)</td><td>0.323</td><td>90.1 (87.8–92.3)</td><td>0.86 (0.63–1.12)</td><td>0.803</td><td>92.4 (90.9–93.8)</td><td>0.68 (0.54–0.81)</td><td>−2.2(−1.8 to −2.5)</td><td>0.254</td><td>82.0 (79.0–85.0)</td><td>1.14 (0.81–1.58)</td><td>0.739</td><td>84.2 (82.1–86.3)</td><td>0.82 (0.59–1.04)</td><td>−2.6 (−3.0 to −2.2)</td></tr></tbody></table>",
+      "title": "",
+      "footers": [],
+      "doi": "http://dx.doi.org/10.7554/eLife.00051.008",
+      "caption": "paragraph_table_tbl3",
+      "format": ""
+    },
+    "paragraph_table_tbl3": {
+      "type": "paragraph",
+      "id": "paragraph_table_tbl3",
+      "content": "Maximum survival, critical income, and regression coefficients (95% confidence intervals) from 1970 to 2005"
+    },
+    "footer_126": {
+      "type": "footer",
+      "id": "footer_126",
+      "content": "Note: All model parameters were found to be significant, p<0.0001.",
+      "label": ""
+    },
+    "paragraph_127": {
+      "type": "paragraph",
+      "id": "paragraph_127",
+      "content": "However, critical incomes diverged dramatically for children and adults (Figure 3B). From 1970 to 1980, the critical income values for children, adult males, and adult females were statistically equivalent, between $0.54–$0.58 per day. For children, the critical income values declined gradually, however, with a large drop in 1990–1995. Over the 40-year period from 1970 to 2010, the critical income for child survival fell by over half from $0.58 ($0.46–$0.70) to $0.24 ($0.20–$0.28). In contrast, critical income more than doubled for adult male survival from $0.54 ($0.38–$0.71) to $1.20 ($0.81–$1.58) and rose over 50% for adult female survival from $0.57 ($0.43–$0.70) to $0.89 ($0.65–$1.12) (see Table 3 for all years and Supplementary file 1 for each country-specific critical income). These percentage increases were similar even if critical income was defined differently, for example, income needed to achieve 66.7%, 80%, or 90% of maximum survival (not shown)."
+    },
+    "figure_reference_128": {
+      "type": "figure_reference",
+      "id": "figure_reference_128",
+      "path": [
+        "paragraph_127",
+        "content"
+      ],
+      "target": "image_fig3",
+      "range": [
+        73,
+        82
+      ]
+    },
+    "figure_reference_129": {
+      "type": "figure_reference",
+      "id": "figure_reference_129",
+      "path": [
+        "paragraph_127",
+        "content"
+      ],
+      "target": "table_tbl3",
+      "range": [
+        703,
+        710
+      ]
+    },
+    "cross_reference_130": {
+      "type": "cross_reference",
+      "id": "cross_reference_130",
+      "path": [
+        "paragraph_127",
+        "content"
+      ],
+      "target": "supplement_SD1_data",
+      "range": [
+        729,
+        749
+      ]
+    },
+    "paragraph_131": {
+      "type": "paragraph",
+      "id": "paragraph_131",
+      "content": "The 1970 and 2007 survival curves for adult men crossed over at a value for $10.95 GDP per capita per day. There are 58 countries with a total adult male population of approximately 780 million (or 35% of the world adult male population) below this income value. For these countries, adult male survival was lower in 2007 than in 1970 (Figure 4A). For women, the comparable 1970 and 2007 survival curves crossed at a value of $5.93 GDP per capita per day, corresponding to 32 countries, with approximately 150 million women (or 7% of the world adult female population), where female survival in 2007 was worse than in 1970 (Figure 4B). By contrast, between 1970 and 2007, for the 58 countries with an income under $10.95 per capita per day in 2007, child mortality improved by 11.8%, adult male survival fell by 2.7%, and incomes rose by 8.9% (or an absolute increase of $0.98)."
+    },
+    "figure_reference_132": {
+      "type": "figure_reference",
+      "id": "figure_reference_132",
+      "path": [
+        "paragraph_131",
+        "content"
+      ],
+      "target": "image_fig4",
+      "range": [
+        336,
+        345
+      ]
+    },
+    "figure_reference_133": {
+      "type": "figure_reference",
+      "id": "figure_reference_133",
+      "path": [
+        "paragraph_131",
+        "content"
+      ],
+      "target": "image_fig4",
+      "range": [
+        624,
+        633
+      ]
+    },
+    "image_fig4": {
+      "type": "image",
+      "id": "image_fig4",
+      "label": "Figure 4.",
+      "url": "",
+      "object_id": "F4",
+      "title": "",
+      "content_type": "",
+      "large_url": "",
+      "content": "",
+      "group": [
+        "parent",
+        null
+      ],
+      "doi": "http://dx.doi.org/10.7554/eLife.00051.009",
+      "caption": "paragraph_image_fig4",
+      "graphic_id": "elife00051f004"
+    },
+    "paragraph_image_fig4": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig4",
+      "content": "Adult male (A) and female (B) survival regression curves for the years 1970 and 2007. Adult survival in 2007 is lower than in 1970 for countries under the income threshold of $10.95 (for men) and $5.93 (for women)."
+    },
+    "annotation_134": {
+      "type": "strong",
+      "id": "annotation_134",
+      "path": [
+        "paragraph_image_fig4",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        12,
+        13
+      ]
+    },
+    "annotation_135": {
+      "type": "strong",
+      "id": "annotation_135",
+      "path": [
+        "paragraph_image_fig4",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        27,
+        28
+      ]
+    },
+    "heading_s2-4": {
+      "type": "heading",
+      "id": "heading_s2-4",
+      "level": 2,
+      "content": "Impact of HIV prevalence and smoking",
+      "nodes": []
+    },
+    "paragraph_136": {
+      "type": "paragraph",
+      "id": "paragraph_136",
+      "content": "Particularly given the marked increase in critical incomes needed to achieve maximal adult male survival, we tested if HIV infection and deaths and smoking (both, greater in males than in females) explained the increasing critical income values for adult males (Figure 5). For adult males in the year 2000, HIV prevalence (range 0.06–26% aged 15–49 years) and cigarette consumption (range 54.6–3385.2 per year at ages 15 years or older) were shown to influence critical income. Selecting the 86 countries with complete survival, income, HIV, and cigarette data, the critical income value was $2.02 ($1.32–$2.73). Adjusting for HIV and smoking prevalence to the average across countries reduced the critical income to $1.22 ($0.76–$1.69), meaning that HIV and smoking could explain about half of the increases in critical income. In 1970, the critical income was $0.54 ($0.38–$0.71), thus, HIV infection and smoking do not explain all of the worsening of critical income observed by the year 2000. HIV infection and smoking had no statistical impact on the maximum survival."
+    },
+    "figure_reference_137": {
+      "type": "figure_reference",
+      "id": "figure_reference_137",
+      "path": [
+        "paragraph_136",
+        "content"
+      ],
+      "target": "image_fig5",
+      "range": [
+        262,
+        270
+      ]
+    },
+    "image_fig5": {
+      "type": "image",
+      "id": "image_fig5",
+      "label": "Figure 5.",
+      "url": "",
+      "object_id": "F5",
+      "title": "",
+      "content_type": "",
+      "large_url": "",
+      "content": "",
+      "group": [
+        "parent",
+        null
+      ],
+      "doi": "http://dx.doi.org/10.7554/eLife.00051.010",
+      "caption": "paragraph_image_fig5",
+      "graphic_id": "elife00051f005"
+    },
+    "paragraph_image_fig5": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig5",
+      "content": "Impact of smoking and HIV on critical income for adult males in 2000."
+    },
+    "paragraph_138": {
+      "type": "paragraph",
+      "id": "paragraph_138",
+      "content": "These results are further supported by a first differences analysis (Table 4). Over the 10-year period from 1990 to 2000, a rise of one cigarette consumed per day per person and 1% in HIV prevalence led, for adult men, to a $1.70 ($0.96–$2.43) and $0.70 ($0.27–$1.13) increase in critical income, respectively. For adult females, the impact of a 1% rise in HIV prevalence per capita was associated with a $0.40 ($0.31–$0.49) increase in critical income; however, the impact of smoking was lower, with a change of $0.38 ($0.23–$0.54). Moreover, adding a covariate for HIV prevalence also improved the goodness of fit dramatically for all years and genders (Table 3)."
+    },
+    "figure_reference_139": {
+      "type": "figure_reference",
+      "id": "figure_reference_139",
+      "path": [
+        "paragraph_138",
+        "content"
+      ],
+      "target": "table_tbl4",
+      "range": [
+        69,
+        76
+      ]
+    },
+    "figure_reference_140": {
+      "type": "figure_reference",
+      "id": "figure_reference_140",
+      "path": [
+        "paragraph_138",
+        "content"
+      ],
+      "target": "table_tbl3",
+      "range": [
+        656,
+        663
+      ]
+    },
+    "table_tbl4": {
+      "type": "table",
+      "id": "table_tbl4",
+      "label": "Table 4.",
+      "content": "<table><thead><tr><td></td><td>N</td><td>R<sup>2</sup></td><td>HIV α ($ per HIV %)</td><td>Standardized α</td><td>Smoking β ($ per cigarette per person per day)</td><td>Standardized β</td></tr></thead><tbody><tr><td>Adult male</td><td>92</td><td>0.240</td><td>0.70 (0.27–1.13)</td><td>0.302</td><td>1.70 (0.96–2.43)</td><td>0.425</td></tr><tr><td>Adult female</td><td>92</td><td>0.504</td><td>0.40 (0.31–0.49)</td><td>0.655</td><td>0.38 (0.23–0.54)</td><td>0.366</td></tr></tbody></table>",
+      "title": "",
+      "footers": [],
+      "doi": "http://dx.doi.org/10.7554/eLife.00051.011",
+      "caption": "paragraph_table_tbl4",
+      "format": ""
+    },
+    "paragraph_table_tbl4": {
+      "type": "paragraph",
+      "id": "paragraph_table_tbl4",
+      "content": "First differences analysis for HIV prevalence and cigarette consumption on country-specific critical income from 1990 to 2000"
+    },
+    "footer_141": {
+      "type": "footer",
+      "id": "footer_141",
+      "content": "Note: All model parameters were found to be significant, p<0.0001.",
+      "label": ""
+    },
+    "heading_s3": {
+      "type": "heading",
+      "id": "heading_s3",
+      "level": 1,
+      "content": "Discussion",
+      "nodes": []
+    },
+    "paragraph_142": {
+      "type": "paragraph",
+      "id": "paragraph_142",
+      "content": "Our establishment of a new parameter ‘critical income’ provides novel insights into the relationship of global mortality changes with income. It builds on the well-established Preston curve functions by quantifying the rise in survival. More profoundly, our analyses reveal that while less and less income is required to improve childhood survival, the opposite is true to improve adult survival—particularly in low- and middle-income countries."
+    },
+    "paragraph_143": {
+      "type": "paragraph",
+      "id": "paragraph_143",
+      "content": "Unlike for adults, child survival replicates the upward and lateral trend in the original Preston curve for life expectancy. This suggests that for low- and middle-income countries, the majority of the past gains in life expectancy have been achieved via declining child mortality. This is consistent with the UN Population Division trends given the large impact of child mortality (compared to adult mortality) on overall life expectancy (United Nations, 2011). The greatest decline in child critical income was achieved after 1990, coinciding with actions following the UN's World Summit for Children. With justification, cost-effective interventions have been disproportionately devoted to child and maternal health (Daar et al., 2007), and more recently to control of infectious diseases such as HIV/AIDS, malaria, and tuberculosis. Increasing coverage of inexpensive health interventions such as immunization, insecticide-treated nets, and case management of childhood infections could be contributing to the decline in critical income for child survival (Jamison et al., 2006; Mathers et al., 2008). Moreover, there might be complementary benefits of education in reducing child mortality (Gakidou et al., 2010). Our study does not address any causal relationship between such interventions and reductions in child mortality; however, our results imply that the achievement of the UN MDG 4 (to reduce child mortality by two-thirds from 1990 levels) might be due to the falling levels of income needed to increase child survival."
+    },
+    "citation_reference_144": {
+      "type": "citation_reference",
+      "id": "citation_reference_144",
+      "path": [
+        "paragraph_143",
+        "content"
+      ],
+      "target": "article_citation_bib41",
+      "range": [
+        440,
+        460
+      ]
+    },
+    "citation_reference_145": {
+      "type": "citation_reference",
+      "id": "citation_reference_145",
+      "path": [
+        "paragraph_143",
+        "content"
+      ],
+      "target": "article_citation_bib12",
+      "range": [
+        720,
+        737
+      ]
+    },
+    "citation_reference_146": {
+      "type": "citation_reference",
+      "id": "citation_reference_146",
+      "path": [
+        "paragraph_143",
+        "content"
+      ],
+      "target": "article_citation_bib21",
+      "range": [
+        1061,
+        1081
+      ]
+    },
+    "citation_reference_147": {
+      "type": "citation_reference",
+      "id": "citation_reference_147",
+      "path": [
+        "paragraph_143",
+        "content"
+      ],
+      "target": "article_citation_bib29",
+      "range": [
+        1083,
+        1103
+      ]
+    },
+    "citation_reference_148": {
+      "type": "citation_reference",
+      "id": "citation_reference_148",
+      "path": [
+        "paragraph_143",
+        "content"
+      ],
+      "target": "article_citation_bib16",
+      "range": [
+        1196,
+        1216
+      ]
+    },
+    "paragraph_149": {
+      "type": "paragraph",
+      "id": "paragraph_149",
+      "content": "For adult survival, however, there is a reversal of fortune. While achievable adult survival rates have improved, improvements are only associated with those countries at higher income levels. The rise in critical income suggests that the marginal costs of increasing adult longevity are rising; this may explain the lower rate of decline in adult mortality in countries with low income (Rajaratnam et al., 2010). The emergence of HIV/AIDS in the 1980s and the rise in global smoking prevalence in low- and middle-income countries (Guindon and Boisclair, 2003) can explain much, but not the entire rise in critical income for adult males. For males, the rise in smoking accounts for over 40% more of the variance in critical income compared to 30% for HIV/AIDS. For adult women, the impact of cigarettes on critical income is much lower, which reflects the five times lower prevalence of smoking among women compared to men (Guindon and Boisclair, 2003). Indeed, previous studies have already highlighted the impact of smoking and HIV/AIDS on adult survival in developing countries. Even low levels (4%) of HIV prevalence in rural Tanzania can increase overall adult mortality by more than 50% (Todd et al., 1997). Our findings also show that smoking increases critical income but has no statistical impact on maximum survival. This is in line with trends in global smoking, where prevalence of smoking (and subsequently the deaths attributed to smoking) are rising in low- and middle-income countries but declining in high-income countries (Jha, 2009)."
+    },
+    "citation_reference_150": {
+      "type": "citation_reference",
+      "id": "citation_reference_150",
+      "path": [
+        "paragraph_149",
+        "content"
+      ],
+      "target": "article_citation_bib34",
+      "range": [
+        388,
+        411
+      ]
+    },
+    "citation_reference_151": {
+      "type": "citation_reference",
+      "id": "citation_reference_151",
+      "path": [
+        "paragraph_149",
+        "content"
+      ],
+      "target": "article_citation_bib18",
+      "range": [
+        532,
+        559
+      ]
+    },
+    "citation_reference_152": {
+      "type": "citation_reference",
+      "id": "citation_reference_152",
+      "path": [
+        "paragraph_149",
+        "content"
+      ],
+      "target": "article_citation_bib18",
+      "range": [
+        925,
+        952
+      ]
+    },
+    "citation_reference_153": {
+      "type": "citation_reference",
+      "id": "citation_reference_153",
+      "path": [
+        "paragraph_149",
+        "content"
+      ],
+      "target": "article_citation_bib38",
+      "range": [
+        1195,
+        1212
+      ]
+    },
+    "citation_reference_154": {
+      "type": "citation_reference",
+      "id": "citation_reference_154",
+      "path": [
+        "paragraph_149",
+        "content"
+      ],
+      "target": "article_citation_bib22",
+      "range": [
+        1542,
+        1551
+      ]
+    },
+    "paragraph_155": {
+      "type": "paragraph",
+      "id": "paragraph_155",
+      "content": "Under the current conditions, an approximate national income per capita of $2.20 per day would be required in 2007 to attain the same achievable adult male survival rate with $1.25 per day in 1970. Moreover, should the critical income costs for adults continue to rise (in line with current trends), survival rates for low- and middle-income countries might well deteriorate into the future. In contrast, high-income countries have benefited from the rise in maximum survival among adults. This is likely due to more widespread availability of secondary treatments for chronic diseases, most notably for vascular disease, and in particular from sharp reductions in smoking (Jha, 2009)."
+    },
+    "citation_reference_156": {
+      "type": "citation_reference",
+      "id": "citation_reference_156",
+      "path": [
+        "paragraph_155",
+        "content"
+      ],
+      "target": "article_citation_bib22",
+      "range": [
+        674,
+        683
+      ]
+    },
+    "paragraph_157": {
+      "type": "paragraph",
+      "id": "paragraph_157",
+      "content": "The probabilities of premature adult deaths before the age of 70 from vascular, respiratory, and neoplastic diseases are remarkably similar in low-, middle-, countries and high-income countries (Strong et al., 2005). Low-cost, effective, and feasible interventions (Jha et al., 2002) exist against these diseases, most importantly tobacco control (Jha, 2009), but also increased reduction in hazardous alcohol intake (particularly in former Soviet states; Zaridze et al., 2009), and low-cost drugs for secondary management of existing disease. However, these interventions are still not widely used in low-income countries (Jha et al., 2012). Over the past few decades, research and development of new technologies (drugs, vaccines, and policies) have focused mostly on childhood and infectious disease, with fewer worldwide investments for adult chronic diseases (Ad Hoc Committee on Health Research Relating to Future Intervention Options, 1996). Thus, the longer-term trajectory of critical incomes for adult survival might well depend on the development of newer interventions, as well as more widespread application of interventions already proven to be cost effective (Jamison et al., 2006)."
+    },
+    "citation_reference_158": {
+      "type": "citation_reference",
+      "id": "citation_reference_158",
+      "path": [
+        "paragraph_157",
+        "content"
+      ],
+      "target": "article_citation_bib37",
+      "range": [
+        195,
+        214
+      ]
+    },
+    "citation_reference_159": {
+      "type": "citation_reference",
+      "id": "citation_reference_159",
+      "path": [
+        "paragraph_157",
+        "content"
+      ],
+      "target": "article_citation_bib24",
+      "range": [
+        266,
+        282
+      ]
+    },
+    "citation_reference_160": {
+      "type": "citation_reference",
+      "id": "citation_reference_160",
+      "path": [
+        "paragraph_157",
+        "content"
+      ],
+      "target": "article_citation_bib22",
+      "range": [
+        348,
+        357
+      ]
+    },
+    "citation_reference_161": {
+      "type": "citation_reference",
+      "id": "citation_reference_161",
+      "path": [
+        "paragraph_157",
+        "content"
+      ],
+      "target": "article_citation_bib46",
+      "range": [
+        456,
+        476
+      ]
+    },
+    "citation_reference_162": {
+      "type": "citation_reference",
+      "id": "citation_reference_162",
+      "path": [
+        "paragraph_157",
+        "content"
+      ],
+      "target": "article_citation_bib25",
+      "range": [
+        624,
+        640
+      ]
+    },
+    "citation_reference_163": {
+      "type": "citation_reference",
+      "id": "citation_reference_163",
+      "path": [
+        "paragraph_157",
+        "content"
+      ],
+      "target": "article_citation_bib1",
+      "range": [
+        865,
+        946
+      ]
+    },
+    "citation_reference_164": {
+      "type": "citation_reference",
+      "id": "citation_reference_164",
+      "path": [
+        "paragraph_157",
+        "content"
+      ],
+      "target": "article_citation_bib21",
+      "range": [
+        1175,
+        1195
+      ]
+    },
+    "paragraph_165": {
+      "type": "paragraph",
+      "id": "paragraph_165",
+      "content": "This is, as far as we know, the first application of enzyme kinetics to mortality changes. There is no a priori reason to exclude a relationship of mortality and income being comparable to biological reactions. Indeed, since its initial formulation in 1913, the MM equation has been sufficiently adaptable to explain various levels of biological complexity from thousands of single enzyme reactions (English et al., 2005), reversible and quasi-steady state systems (Briggs, 1925), the growth of microbial cultures on a nutrient substrate (Monod, 1949), the growth in size of a variety of different animal species (López et al., 2000), and the ability of organisms to acclimate to changes in environmental conditions (Bonachela et al., 2011)."
+    },
+    "citation_reference_166": {
+      "type": "citation_reference",
+      "id": "citation_reference_166",
+      "path": [
+        "paragraph_165",
+        "content"
+      ],
+      "target": "article_citation_bib13",
+      "range": [
+        400,
+        420
+      ]
+    },
+    "citation_reference_167": {
+      "type": "citation_reference",
+      "id": "citation_reference_167",
+      "path": [
+        "paragraph_165",
+        "content"
+      ],
+      "target": "article_citation_bib5",
+      "range": [
+        466,
+        478
+      ]
+    },
+    "citation_reference_168": {
+      "type": "citation_reference",
+      "id": "citation_reference_168",
+      "path": [
+        "paragraph_165",
+        "content"
+      ],
+      "target": "article_citation_bib31",
+      "range": [
+        539,
+        550
+      ]
+    },
+    "citation_reference_169": {
+      "type": "citation_reference",
+      "id": "citation_reference_169",
+      "path": [
+        "paragraph_165",
+        "content"
+      ],
+      "target": "article_citation_bib28",
+      "range": [
+        614,
+        632
+      ]
+    },
+    "citation_reference_170": {
+      "type": "citation_reference",
+      "id": "citation_reference_170",
+      "path": [
+        "paragraph_165",
+        "content"
+      ],
+      "target": "article_citation_bib4",
+      "range": [
+        717,
+        739
+      ]
+    },
+    "paragraph_171": {
+      "type": "paragraph",
+      "id": "paragraph_171",
+      "content": "Like all models, ours faces certain limitations. The relationship of income to mortality is comparable using the log-linear, logistic, MM, or indeed other methods. But none of the models can directly elucidate the mechanism(s) that converts income into better survival. The novel insight from the MM method is that we can model income as a substrate that catalyzes further changes that more directly impact survival. National income is quite large in relation to health spending for most countries (the median national spending on health is 5% of the GDP, and the United States at about 18% of GDP represents an outlier). Thus, income fulfills, partially, the MM definition of a substrate that is an input converted into health interventions and their use. We also reason that income directly enables certain technologies, immunization programs, epidemiological knowledge, education, and sanitation systems and other areas, which may themselves be interpreted as ‘catalysts’—agents that accelerate the rate of a reaction without being fully consumed in the process."
+    },
+    "paragraph_172": {
+      "type": "paragraph",
+      "id": "paragraph_172",
+      "content": "Moreover, the MM method advances some understanding of mechanisms by defining critical income levels that measure the efficiency of particular countries using available income to keep up with maximal achievable survival by other countries during that narrow 5-year time period. The new variable critical income (akin to Km) provides a measure to observe a ‘lateral shift’ that was not possible mathematically with the log-linear or logistic models. Additionally, the obvious impacts of two large risk factors (HIV and tobacco) on adult survival suggest some mechanistic insights between income and survival (and indeed the fact that male survival was more unequal from greater male smoking, and female and male survival were affected equally by the more even spread of HIV infection, further strengthens this case)."
+    },
+    "annotation_173": {
+      "type": "subscript",
+      "id": "annotation_173",
+      "path": [
+        "paragraph_172",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        321,
+        322
+      ]
+    },
+    "paragraph_174": {
+      "type": "paragraph",
+      "id": "paragraph_174",
+      "content": "We caution however that full explanation of the links between specific technologies catalyzed by income need more research. For example, the Monod equation (an adaptation of the MM equation to fit the growth of bacterial cultures; Monod, 1949), which was first proposed in 1949, was only interpreted thermodynamically 50 years later (Liu et al., 2003). Nonetheless, this equation was (and continues to be) used extensively in the pharmaceutical and food industries as well as in waste treatment systems. Additionally, our analyses could be considerably strengthened by examining trends in age, gender, and cause-specific mortality, but cause-specific mortality data are simply unavailable for most countries; for instance, notwithstanding global efforts to identify data for child mortality, less than 3% of all child deaths worldwide were certified according to cause of death (Liu et al., 2012). Indeed, expanded efforts to measure causes of death is a big global priority (Jha, 2012; Vogel, 2012) and the development of new physically or biologically inspired analytical models can help elucidate better understanding of global mortality trends."
+    },
+    "citation_reference_175": {
+      "type": "citation_reference",
+      "id": "citation_reference_175",
+      "path": [
+        "paragraph_174",
+        "content"
+      ],
+      "target": "article_citation_bib31",
+      "range": [
+        231,
+        242
+      ]
+    },
+    "citation_reference_176": {
+      "type": "citation_reference",
+      "id": "citation_reference_176",
+      "path": [
+        "paragraph_174",
+        "content"
+      ],
+      "target": "article_citation_bib26",
+      "range": [
+        334,
+        350
+      ]
+    },
+    "citation_reference_177": {
+      "type": "citation_reference",
+      "id": "citation_reference_177",
+      "path": [
+        "paragraph_174",
+        "content"
+      ],
+      "target": "article_citation_bib27",
+      "range": [
+        879,
+        895
+      ]
+    },
+    "citation_reference_178": {
+      "type": "citation_reference",
+      "id": "citation_reference_178",
+      "path": [
+        "paragraph_174",
+        "content"
+      ],
+      "target": "article_citation_bib23",
+      "range": [
+        976,
+        985
+      ]
+    },
+    "citation_reference_179": {
+      "type": "citation_reference",
+      "id": "citation_reference_179",
+      "path": [
+        "paragraph_174",
+        "content"
+      ],
+      "target": "article_citation_bib44",
+      "range": [
+        987,
+        998
+      ]
+    },
+    "heading_s4": {
+      "type": "heading",
+      "id": "heading_s4",
+      "level": 1,
+      "content": "Materials (data sources)",
+      "nodes": []
+    },
+    "paragraph_180": {
+      "type": "paragraph",
+      "id": "paragraph_180",
+      "content": "Data for 180 countries at 5-year intervals from 1970 to 2007 were included in the analysis, with definitions of income as per those from the World Bank (Supplementary file 1); the Institute for Health Metrics and Evaluation (Institute for Health Metrics and Evaluation, 2012), UN Population Division (United Nations, 2011), UNAIDS online database (UNAIDS, 2010), and Penn World Table 6.3 databases (Heston et al., 2009) were used for child and adult mortality, life expectancy and country population by age-groups, prevalence of HIV among adults aged 15–49 years, and GDP per capita at constant 2005 international dollars and purchasing price parity, respectively. Cigarette consumption per capita is from the American Cancer Society (Guindon and Boisclair, 2003). Availability of data for all 180 countries was not consistent across all years and all variables. Data from missing countries (by individual year and population group and disease and risk burden) were removed from that specific regression analysis. A list of countries is found in Supplementary file 1. The UN Population Division database for child (UN Inter-agency for Child Mortality Estimates, 2012) and adult (United Nations, 2011) mortality were used to confirm results. To confirm the completeness and accuracy of the Institute for Health Metrics and Evaluation database, statistical analysis was duplicated using 5-year rolling averages from UN Inter-agency Group for Child Mortality Estimates (UN Inter-agency for Child Mortality Estimates, 2012) and UN Population Division database adult mortality (United Nations, 2011), with general consistency in the trend lines (Figure 6A,B). 5-year rolling averages also increased the R2 values compared to single-year regressions; for regressions using UN datasets, the average R2 rose to above 0.5 for all age groups (including high HIV-prevalent countries)—compared with lower correlation coefficients for single-year regressions using the Institute for Health Metrics and Evaluation dataset (Table 3)."
+    },
+    "cross_reference_181": {
+      "type": "cross_reference",
+      "id": "cross_reference_181",
+      "path": [
+        "paragraph_180",
+        "content"
+      ],
+      "target": "supplement_SD1_data",
+      "range": [
+        153,
+        173
+      ]
+    },
+    "citation_reference_182": {
+      "type": "citation_reference",
+      "id": "citation_reference_182",
+      "path": [
+        "paragraph_180",
+        "content"
+      ],
+      "target": "article_citation_bib20",
+      "range": [
+        225,
+        274
+      ]
+    },
+    "citation_reference_183": {
+      "type": "citation_reference",
+      "id": "citation_reference_183",
+      "path": [
+        "paragraph_180",
+        "content"
+      ],
+      "target": "article_citation_bib41",
+      "range": [
+        301,
+        321
+      ]
+    },
+    "citation_reference_184": {
+      "type": "citation_reference",
+      "id": "citation_reference_184",
+      "path": [
+        "paragraph_180",
+        "content"
+      ],
+      "target": "article_citation_bib39",
+      "range": [
+        348,
+        360
+      ]
+    },
+    "citation_reference_185": {
+      "type": "citation_reference",
+      "id": "citation_reference_185",
+      "path": [
+        "paragraph_180",
+        "content"
+      ],
+      "target": "article_citation_bib19",
+      "range": [
+        399,
+        418
+      ]
+    },
+    "citation_reference_186": {
+      "type": "citation_reference",
+      "id": "citation_reference_186",
+      "path": [
+        "paragraph_180",
+        "content"
+      ],
+      "target": "article_citation_bib18",
+      "range": [
+        735,
+        762
+      ]
+    },
+    "cross_reference_187": {
+      "type": "cross_reference",
+      "id": "cross_reference_187",
+      "path": [
+        "paragraph_180",
+        "content"
+      ],
+      "target": "supplement_SD1_data",
+      "range": [
+        1046,
+        1066
+      ]
+    },
+    "citation_reference_188": {
+      "type": "citation_reference",
+      "id": "citation_reference_188",
+      "path": [
+        "paragraph_180",
+        "content"
+      ],
+      "target": "article_citation_bib42",
+      "range": [
+        1115,
+        1166
+      ]
+    },
+    "citation_reference_189": {
+      "type": "citation_reference",
+      "id": "citation_reference_189",
+      "path": [
+        "paragraph_180",
+        "content"
+      ],
+      "target": "article_citation_bib41",
+      "range": [
+        1179,
+        1199
+      ]
+    },
+    "citation_reference_190": {
+      "type": "citation_reference",
+      "id": "citation_reference_190",
+      "path": [
+        "paragraph_180",
+        "content"
+      ],
+      "target": "article_citation_bib42",
+      "range": [
+        1467,
+        1518
+      ]
+    },
+    "citation_reference_191": {
+      "type": "citation_reference",
+      "id": "citation_reference_191",
+      "path": [
+        "paragraph_180",
+        "content"
+      ],
+      "target": "article_citation_bib41",
+      "range": [
+        1573,
+        1593
+      ]
+    },
+    "figure_reference_192": {
+      "type": "figure_reference",
+      "id": "figure_reference_192",
+      "path": [
+        "paragraph_180",
+        "content"
+      ],
+      "target": "image_fig6",
+      "range": [
+        1641,
+        1652
+      ]
+    },
+    "annotation_193": {
+      "type": "superscript",
+      "id": "annotation_193",
+      "path": [
+        "paragraph_180",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1699,
+        1700
+      ]
+    },
+    "annotation_194": {
+      "type": "superscript",
+      "id": "annotation_194",
+      "path": [
+        "paragraph_180",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1793,
+        1794
+      ]
+    },
+    "figure_reference_195": {
+      "type": "figure_reference",
+      "id": "figure_reference_195",
+      "path": [
+        "paragraph_180",
+        "content"
+      ],
+      "target": "table_tbl3",
+      "range": [
+        2009,
+        2016
+      ]
+    },
+    "image_fig6": {
+      "type": "image",
+      "id": "image_fig6",
+      "label": "Figure 6.",
+      "url": "",
+      "object_id": "F6",
+      "title": "",
+      "content_type": "",
+      "large_url": "",
+      "content": "",
+      "group": [
+        "parent",
+        null
+      ],
+      "doi": "http://dx.doi.org/10.7554/eLife.00051.012",
+      "caption": "paragraph_image_fig6",
+      "graphic_id": "elife00051f006"
+    },
+    "paragraph_image_fig6": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig6",
+      "content": "Child, adult male and adult female maximum survival (A) and critical income (B) curves from 1970 to 2005 using two different data sources (IHME and UN Population Division). Maximum survival and critical income values were calculated using 5-year averages where the national income per capita and country survival rates for year i was an average for the years i to i + 4."
+    },
+    "annotation_196": {
+      "type": "strong",
+      "id": "annotation_196",
+      "path": [
+        "paragraph_image_fig6",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        53,
+        54
+      ]
+    },
+    "annotation_197": {
+      "type": "strong",
+      "id": "annotation_197",
+      "path": [
+        "paragraph_image_fig6",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        77,
+        78
+      ]
+    },
+    "annotation_198": {
+      "type": "emphasis",
+      "id": "annotation_198",
+      "path": [
+        "paragraph_image_fig6",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        328,
+        329
+      ]
+    },
+    "annotation_199": {
+      "type": "emphasis",
+      "id": "annotation_199",
+      "path": [
+        "paragraph_image_fig6",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        359,
+        360
+      ]
+    },
+    "annotation_200": {
+      "type": "emphasis",
+      "id": "annotation_200",
+      "path": [
+        "paragraph_image_fig6",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        364,
+        365
+      ]
+    },
+    "heading_s5": {
+      "type": "heading",
+      "id": "heading_s5",
+      "level": 1,
+      "content": "Methods",
+      "nodes": []
+    },
+    "paragraph_201": {
+      "type": "paragraph",
+      "id": "paragraph_201",
+      "content": "For the Michaelis–Menten adapted model and the logistic model, a nonlinear regression analysis (using iterative parameter estimation algorithms; Greco and Hakala, 1979) was used to calculate the parameters. The logistic and log-linear regressions were analyzed for life expectancy to compare the goodness of fit. To study progress over time, we calculated these eo,max, 5p0max and 45p15max, and Kinc values for each age group and gender at 5-year intervals from 1970 to 2007. Countries with missing mortality or income estimates were eliminated from the regression analysis on a year-by-year basis. We also computed estimates of critical income for each specific country, year, age group, and gender, assuming that the maximum survival was a constant across all countries. Additional analyses were completed by adding covariates for HIV prevalence in a given year (from 1990 to 2007) and cigarette consumption per capita (in the year 2000). For the year 2000, analysis was restricted to countries with complete data for both HIV prevalence and cigarette consumption (n = 86). First differences analysis was used to confirm the impact of HIV/AIDS prevalence and cigarette consumption on critical income values over the 10-year period from 1990 to 2000, such that"
+    },
+    "citation_reference_202": {
+      "type": "citation_reference",
+      "id": "citation_reference_202",
+      "path": [
+        "paragraph_201",
+        "content"
+      ],
+      "target": "article_citation_bib17",
+      "range": [
+        145,
+        167
+      ]
+    },
+    "annotation_203": {
+      "type": "subscript",
+      "id": "annotation_203",
+      "path": [
+        "paragraph_201",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        363,
+        368
+      ]
+    },
+    "annotation_204": {
+      "type": "subscript",
+      "id": "annotation_204",
+      "path": [
+        "paragraph_201",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        373,
+        376
+      ]
+    },
+    "annotation_205": {
+      "type": "subscript",
+      "id": "annotation_205",
+      "path": [
+        "paragraph_201",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        386,
+        389
+      ]
+    },
+    "annotation_206": {
+      "type": "subscript",
+      "id": "annotation_206",
+      "path": [
+        "paragraph_201",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        396,
+        399
+      ]
+    },
+    "formula_eqn10": {
+      "type": "formula",
+      "id": "formula_eqn10",
+      "label": "[10]",
+      "content": "<mml:mrow><mml:msub><mml:mtext>K</mml:mtext><mml:mrow><mml:mtext>inc</mml:mtext></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mi>f</mml:mi><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mtext>HIV</mml:mtext><mml:mo>,</mml:mo><mml:mtext>Cig</mml:mtext></mml:mrow><mml:mo>)</mml:mo><mml:mo>,</mml:mo></mml:mrow></mml:mrow>",
+      "format": ""
+    },
+    "formula_207": {
+      "type": "formula",
+      "id": "formula_207",
+      "label": "",
+      "content": "",
+      "format": "",
+      "key": "content",
+      "source": "paragraph_201",
+      "target": "formula_eqn10",
+      "pos": [
+        1261,
+        1
+      ]
+    },
+    "formula_eqn11": {
+      "type": "formula",
+      "id": "formula_eqn11",
+      "label": "[11]",
+      "content": "<mml:mrow><mml:msub><mml:mrow><mml:mi mathvariant=normal>Δ</mml:mi><mml:mtext>K</mml:mtext></mml:mrow><mml:mrow><mml:mtext>inc</mml:mtext></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mi mathvariant=normal>α</mml:mi><mml:mi mathvariant=normal>Δ</mml:mi><mml:mtext>HIV</mml:mtext><mml:mo>+</mml:mo><mml:mi>β</mml:mi><mml:mi mathvariant=normal>Δ</mml:mi><mml:mtext>Cig</mml:mtext><mml:mo>;</mml:mo><mml:mo> </mml:mo><mml:mtext>where</mml:mtext><mml:mo> </mml:mo><mml:mi>α</mml:mi><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:mo>∂</mml:mo><mml:msub><mml:mtext>K</mml:mtext><mml:mrow><mml:mtext>inc</mml:mtext></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:mo>∂</mml:mo><mml:mtext>HIV</mml:mtext></mml:mrow></mml:mfrac><mml:mo> </mml:mo><mml:mtext>and</mml:mtext><mml:mo> </mml:mo><mml:mi>β</mml:mi><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:mo>∂</mml:mo><mml:msub><mml:mtext>K</mml:mtext><mml:mrow><mml:mtext>inc</mml:mtext></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:mo>∂</mml:mo><mml:mtext>Cig</mml:mtext></mml:mrow></mml:mfrac><mml:mo>.</mml:mo></mml:mrow>",
+      "format": ""
+    },
+    "formula_208": {
+      "type": "formula",
+      "id": "formula_208",
+      "label": "",
+      "content": "",
+      "format": "",
+      "key": "content",
+      "source": "formula_eqn10",
+      "target": "formula_eqn11",
+      "pos": [
+        315,
+        1
+      ]
+    },
+    "info:ack": {
+      "type": "heading",
+      "id": "info:ack",
+      "level": 2,
+      "content": "Acknowledgements",
+      "nodes": [
+        "paragraph_ack"
+      ]
+    },
+    "paragraph_ack": {
+      "type": "paragraph",
+      "id": "paragraph_ack",
+      "content": "AcknowledgementsWe thank Beverly Bradley for comments.Additional information"
+    },
+    "info:competing-interest": {
+      "type": "heading",
+      "id": "info:competing-interest",
+      "level": 2,
+      "content": "Competing Interests",
+      "nodes": [
+        "paragraph_209"
+      ]
+    },
+    "paragraph_209": {
+      "type": "paragraph",
+      "id": "paragraph_209",
+      "content": "Competing interestsPJ: Senior Editor, eLife.The remaining authors have no competing interests to declare."
+    },
+    "annotation_210": {
+      "type": "emphasis",
+      "id": "annotation_210",
+      "path": [
+        "paragraph_209",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        38,
+        43
+      ]
+    },
+    "info:author_contribution": {
+      "type": "heading",
+      "id": "info:author_contribution",
+      "level": 2,
+      "content": "Authors",
+      "nodes": [
+        "person_author_1414",
+        "person_author_1017",
+        "person_author_1694",
+        "person_author_1695"
+      ]
+    },
+    "supplement_SD1_data": {
+      "type": "supplement",
+      "id": "supplement_SD1_data",
+      "label": "Supplementary file 1.",
+      "source": "",
+      "title": "",
+      "caption": "paragraph_supplement_SD1_data",
+      "content": "",
+      "doi": "http://dx.doi.org/10.7554/eLife.00051.013",
+      "graphic_id": "elife00051s001.xlsx"
+    },
+    "paragraph_supplement_SD1_data": {
+      "type": "paragraph",
+      "id": "paragraph_supplement_SD1_data",
+      "content": "Country specific critical incomes for adult male, adult female and children (in constant $2005 with purchasing price parity) for the years 1970, 1990 and 2007."
+    },
+    "sub-article": {
+      "type": "heading",
+      "id": "sub-article",
+      "level": 1,
+      "content": "Article Commentary",
+      "nodes": []
+    }
+  }
+}

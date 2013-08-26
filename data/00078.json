@@ -1,0 +1,2543 @@
+{
+  "id": "00078",
+  "nodes": {
+    "content": {
+      "type": "view",
+      "id": "content",
+      "nodes": [
+        "abstract",
+        "paragraph_4",
+        "paragraph_7",
+        "heading_10",
+        "paragraph_11",
+        "paragraph_12",
+        "paragraph_13",
+        "paragraph_17",
+        "paragraph_18",
+        "heading_s1",
+        "paragraph_22",
+        "paragraph_28",
+        "heading_s2",
+        "paragraph_39",
+        "paragraph_56",
+        "paragraph_68",
+        "paragraph_92",
+        "heading_s3",
+        "paragraph_110",
+        "paragraph_120",
+        "heading_s4",
+        "heading_s4-1",
+        "paragraph_122",
+        "heading_s4-2",
+        "paragraph_127",
+        "heading_s4-3",
+        "paragraph_131",
+        "paragraph_135",
+        "formula_eqn1",
+        "paragraph_136",
+        "formula_eqn2",
+        "paragraph_137",
+        "paragraph_146",
+        "formula_eqn3",
+        "paragraph_147",
+        "paragraph_150",
+        "paragraph_151",
+        "heading_s4-4",
+        "paragraph_153",
+        "paragraph_157",
+        "paragraph_163",
+        "sub-article"
+      ]
+    },
+    "figures": {
+      "type": "view",
+      "id": "figures",
+      "nodes": [
+        "image_fig1",
+        "image_fig2",
+        "image_fig3",
+        "image_fig4",
+        "image_fig5",
+        "supplement_SD1_data"
+      ]
+    },
+    "citations": {
+      "type": "view",
+      "id": "citations",
+      "nodes": []
+    },
+    "document": {
+      "type": "document",
+      "id": "document",
+      "views": [
+        "content",
+        "figures",
+        "citations"
+      ],
+      "guid": "00078",
+      "title": "Chromatin is an ancient innovation conserved between Archaea and Eukarya",
+      "authors": [
+        "person_author_1635",
+        "person_author_1685",
+        "person_author_1686",
+        "person_author_1687",
+        "person_author_1688",
+        "person_author_1483",
+        "person_author_1689",
+        "person_author_1639"
+      ],
+      "received_on": "2012-07-16",
+      "accepted_on": "2012-09-25",
+      "published_on": "2012-12-13",
+      "journal": "eLife",
+      "article_type": "",
+      "keywords": [
+        "Haloferax volcanii",
+        "Nucleosome",
+        "Chromatin",
+        "Transcriptome",
+        "RNA-seq",
+        "Archaea"
+      ],
+      "research_organisms": [
+        "Other"
+      ],
+      "subjects": [
+        "Cell biology",
+        "Genomics and evolutionary biology"
+      ],
+      "pdf_link": "",
+      "xml_link": "",
+      "json_link": "",
+      "doi": ""
+    },
+    "person_author_1635": {
+      "type": "person",
+      "id": "person_author_1635",
+      "given-names": "Ron",
+      "last-name": "Ammar",
+      "role": "author",
+      "affiliations": [],
+      "image": "",
+      "contribution": " Conception and design, acquisition of data, analysis and interpretation of data, drafting and revising the article",
+      "email": "",
+      "funding": [
+        "funding_par_3"
+      ]
+    },
+    "person_author_1685": {
+      "type": "person",
+      "id": "person_author_1685",
+      "given-names": "Dax",
+      "last-name": "Torti",
+      "role": "author",
+      "affiliations": [],
+      "image": "",
+      "contribution": " Acquisition of data analysis and interpretation of data",
+      "email": "",
+      "funding": []
+    },
+    "person_author_1686": {
+      "type": "person",
+      "id": "person_author_1686",
+      "given-names": "Kyle",
+      "last-name": "Tsui",
+      "role": "author",
+      "affiliations": [],
+      "image": "",
+      "contribution": " Prepared samples for sequencing",
+      "email": "",
+      "funding": []
+    },
+    "person_author_1687": {
+      "type": "person",
+      "id": "person_author_1687",
+      "given-names": "Marinella",
+      "last-name": "Gebbia",
+      "role": "author",
+      "affiliations": [],
+      "image": "",
+      "contribution": " Prepared samples for sequencing, drafting and revising the article; Conception and design, acquisition of data analysis and interpretation of data, drafting and revising the article",
+      "email": "",
+      "funding": []
+    },
+    "person_author_1688": {
+      "type": "person",
+      "id": "person_author_1688",
+      "given-names": "Tanja",
+      "last-name": "Durbic",
+      "role": "author",
+      "affiliations": [],
+      "image": "",
+      "contribution": " Prepared samples for sequencing; performed the sequencing",
+      "email": "",
+      "funding": []
+    },
+    "person_author_1483": {
+      "type": "person",
+      "id": "person_author_1483",
+      "given-names": "Gary D",
+      "last-name": "Bader",
+      "role": "author",
+      "affiliations": [],
+      "image": "",
+      "contribution": " Conception and design, analysis and interpretation of data, drafting and revising the article",
+      "email": "",
+      "funding": []
+    },
+    "person_author_1689": {
+      "type": "person",
+      "id": "person_author_1689",
+      "given-names": "Guri",
+      "last-name": "Giaever",
+      "role": "author",
+      "affiliations": [],
+      "image": "",
+      "contribution": " Interpretation of data, drafting and revising the article",
+      "email": "",
+      "funding": []
+    },
+    "person_author_1639": {
+      "type": "person",
+      "id": "person_author_1639",
+      "given-names": "Corey",
+      "last-name": "Nislow",
+      "role": "author",
+      "affiliations": [],
+      "image": "",
+      "contribution": " Directed the research, prepared biological material, conception and design, acquisition of data, analysis and interpretation of data, drafting and revising the article",
+      "email": "email_cor1",
+      "funding": [
+        "funding_par_1",
+        "funding_par_2"
+      ]
+    },
+    "institution_aff1": {
+      "type": "institution",
+      "id": "institution_aff1",
+      "name": "University of Toronto",
+      "city": "Toronto",
+      "country": "Canada",
+      "email": "",
+      "image": ""
+    },
+    "institution_aff2": {
+      "type": "institution",
+      "id": "institution_aff2",
+      "name": "University of Toronto",
+      "city": "Toronto",
+      "country": "Canada",
+      "email": "",
+      "image": ""
+    },
+    "institution_aff3": {
+      "type": "institution",
+      "id": "institution_aff3",
+      "name": "University of Toronto",
+      "city": "Toronto",
+      "country": "Canada",
+      "email": "",
+      "image": ""
+    },
+    "person_1": {
+      "type": "person",
+      "id": "person_1",
+      "given-names": "Danny",
+      "last-name": "Reinberg",
+      "role": "editor",
+      "affiliations": [],
+      "image": "",
+      "contribution": "",
+      "email": "",
+      "funding": []
+    },
+    "info:review": {
+      "type": "heading",
+      "id": "info:review",
+      "level": 2,
+      "content": "Reviewing Editor",
+      "nodes": [
+        "person_1"
+      ]
+    },
+    "email_cor1": {
+      "type": "email",
+      "id": "email_cor1",
+      "node": "",
+      "email": "corey.nislow@gmail.com"
+    },
+    "info:copyright": {
+      "type": "heading",
+      "id": "info:copyright",
+      "level": 2,
+      "content": "Copyright",
+      "nodes": [
+        "paragraph_2"
+      ]
+    },
+    "paragraph_2": {
+      "type": "paragraph",
+      "id": "paragraph_2",
+      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited.10.7554/eLife.00078.001"
+    },
+    "annotation_3": {
+      "type": "link",
+      "id": "annotation_3",
+      "path": [
+        "paragraph_2",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        51,
+        87
+      ],
+      "url": "http://creativecommons.org/licenses/by/3.0/"
+    },
+    "abstract": {
+      "type": "heading",
+      "id": "abstract",
+      "level": 1,
+      "content": "Abstract",
+      "nodes": []
+    },
+    "paragraph_4": {
+      "type": "paragraph",
+      "id": "paragraph_4",
+      "content": "The eukaryotic nucleosome is the fundamental unit of chromatin, comprising a protein octamer that wraps ∼147 bp of DNA and has essential roles in DNA compaction, replication and gene expression. Nucleosomes and chromatin have historically been considered to be unique to eukaryotes, yet studies of select archaea have identified homologs of histone proteins that assemble into tetrameric nucleosomes. Here we report the first archaeal genome-wide nucleosome occupancy map, as observed in the halophile Haloferax volcanii. Nucleosome occupancy was compared with gene expression by compiling a comprehensive transcriptome of Hfx. volcanii. We found that archaeal transcripts possess hallmarks of eukaryotic chromatin structure: nucleosome-depleted regions at transcriptional start sites and conserved −1 and +1 promoter nucleosomes. Our observations demonstrate that histones and chromatin architecture evolved before the divergence of Archaea and Eukarya, suggesting that the fundamental role of chromatin in the regulation of gene expression is ancient."
+    },
+    "annotation_5": {
+      "type": "emphasis",
+      "id": "annotation_5",
+      "path": [
+        "paragraph_4",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        502,
+        520
+      ]
+    },
+    "annotation_6": {
+      "type": "emphasis",
+      "id": "annotation_6",
+      "path": [
+        "paragraph_4",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        623,
+        636
+      ]
+    },
+    "paragraph_7": {
+      "type": "paragraph",
+      "id": "paragraph_7",
+      "content": "DOI: http://dx.doi.org/10.7554/eLife.00078.00110.7554/eLife.00078.002"
+    },
+    "annotation_8": {
+      "type": "strong",
+      "id": "annotation_8",
+      "path": [
+        "paragraph_7",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        4
+      ]
+    },
+    "annotation_9": {
+      "type": "link",
+      "id": "annotation_9",
+      "path": [
+        "paragraph_7",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        5,
+        46
+      ],
+      "url": "10.7554/eLife.00078.001"
+    },
+    "heading_10": {
+      "type": "heading",
+      "id": "heading_10",
+      "level": 0,
+      "content": "eLife digest",
+      "nodes": []
+    },
+    "paragraph_11": {
+      "type": "paragraph",
+      "id": "paragraph_11",
+      "content": "Single-celled microorganisms called archaea are one of the three domains of cellular life, along with bacteria and eukaryotes. Archaea are similar to bacteria in that they do not have nuclei, but genetically they have more in common with eukaryotes. Archaea are found in a wide range of habitats including the human colon, marshlands, the ocean and extreme environments such as hot springs and salt lakes."
+    },
+    "paragraph_12": {
+      "type": "paragraph",
+      "id": "paragraph_12",
+      "content": "It has been known since the 1990s that the DNA of archaea is wrapped around histones to form complexes that closely resemble the nucleosomes found in eukaryotes, albeit with four rather than eight histone subunits. Nucleosomes are the fundamental units of chromatin, the highly-ordered and compact structure that all the DNA in a cell is packed into. Now we know exactly how many nucleosomes are present in a given cell for some eukaryotes, notably yeast, and to a good approximation we know the position of each nucleosome during a variety of metabolic states and physiological conditions. We can also quantify the nucleosome occupancy, which is measure of the length of time that the nucleosomes spend in contact with the DNA: this is a critical piece of information because it determines the level of access that other proteins, including those that regulate gene expression, have to the DNA. These advances have been driven in large part by advances in technology, notably high-density microarrays for genome wide-studies of nucleosome occupancy, and massively parallel sequencing for direct nucleosome sequencing."
+    },
+    "paragraph_13": {
+      "type": "paragraph",
+      "id": "paragraph_13",
+      "content": "Ammar et al. have used these techniques to explore how the DNA of Haloferax volcanii, a species of archaea that thrives in the hyper-salty waters of the Dead Sea, is organized on a genome-wide basis. Despite some clear differences between the genomes of archaea and eukaryotes—for example, genomic DNA is typically circular in archaea and linear in eukaryotes—they found that the genome of Hfx. volcanii is organized into chromatin in a way that is remarkably similar to that seen in all eukaryotic genomes studied to date. This is surprising given that the chromatin in eukaryotes is confined to the nucleus, whereas there are no such constraints in archaea. In particular, Ammar et al. found that those regions of the DNA near the ends of genes that mark where the transcription of the DNA into RNA should begin and end contain have lower nucleosome occupancy than other regions. Moreover, the overall level of occupancy in Hfx. volcanii was twice that of eukaryotes, which is what one would expect given that nucleosomes in archaea contain half as many histone subunits as nucleosomes in eukaryotes. Ammar et al. also confirmed that that the degree of nucleosome occupancy is correlated with gene expression."
+    },
+    "annotation_14": {
+      "type": "emphasis",
+      "id": "annotation_14",
+      "path": [
+        "paragraph_13",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        66,
+        84
+      ]
+    },
+    "annotation_15": {
+      "type": "emphasis",
+      "id": "annotation_15",
+      "path": [
+        "paragraph_13",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        390,
+        403
+      ]
+    },
+    "annotation_16": {
+      "type": "emphasis",
+      "id": "annotation_16",
+      "path": [
+        "paragraph_13",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        926,
+        939
+      ]
+    },
+    "paragraph_17": {
+      "type": "paragraph",
+      "id": "paragraph_17",
+      "content": "These two findings—the similarities between the chromatin in archaea and eukaryotes, and the correlation between nucleosome occupancy and gene expression in archaea—raise an interesting evolutionary possibility: the initial function of nucleosomes and chromatin formation might have been for the regulation of gene expression rather than the packaging of DNA. This is consistent with two decades of research that has shown that there is an extraordinary and complex relationship between the structure of chromatin and the process of gene expression. It is possible, therefore, that as the early eukaryotes evolved, nucleosomes and chromatin started to package DNA into compact structures that, among other things, helped to prevent DNA damage, and that this subsequently enabled the early eukaryotes to flourish."
+    },
+    "paragraph_18": {
+      "type": "paragraph",
+      "id": "paragraph_18",
+      "content": "DOI: http://dx.doi.org/10.7554/eLife.00078.002"
+    },
+    "annotation_19": {
+      "type": "strong",
+      "id": "annotation_19",
+      "path": [
+        "paragraph_18",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        4
+      ]
+    },
+    "annotation_20": {
+      "type": "link",
+      "id": "annotation_20",
+      "path": [
+        "paragraph_18",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        5,
+        46
+      ],
+      "url": "10.7554/eLife.00078.002"
+    },
+    "funding_par_1": {
+      "type": "funding",
+      "id": "funding_par_1",
+      "institution": "Canadian Institutes for Health Research",
+      "accession": "MOP-86705",
+      "person": "person_author_1639",
+      "given-names": "Corey",
+      "last-name": "Nislow"
+    },
+    "funding_par_2": {
+      "type": "funding",
+      "id": "funding_par_2",
+      "institution": "Canadian Cancer Society",
+      "accession": "20380",
+      "person": "person_author_1639",
+      "given-names": "Corey",
+      "last-name": "Nislow"
+    },
+    "funding_par_3": {
+      "type": "funding",
+      "id": "funding_par_3",
+      "institution": "Ontario Graduate Scholarship",
+      "accession": "",
+      "person": "person_author_1635",
+      "given-names": "Ron",
+      "last-name": "Ammar"
+    },
+    "info:impact": {
+      "type": "heading",
+      "id": "info:impact",
+      "level": 2,
+      "content": "ImpactAuthor impact statementSimilarities in the way that nucleosomes are organized into chromatin in archaea and eukaryotes suggest that chromatin might have been involved in gene regulation before its role in DNA packaging evolved.",
+      "nodes": [
+        "paragraph_21"
+      ]
+    },
+    "paragraph_21": {
+      "type": "paragraph",
+      "id": "paragraph_21",
+      "content": ""
+    },
+    "heading_s1": {
+      "type": "heading",
+      "id": "heading_s1",
+      "level": 1,
+      "content": "Introduction",
+      "nodes": []
+    },
+    "paragraph_22": {
+      "type": "paragraph",
+      "id": "paragraph_22",
+      "content": "Archaeal nucleosome core particles protect ∼60 bp of DNA, approximately half that of eukaryotic nucleosomes, as demonstrated by the landmark work of Pereira et al. (1997). Comparing both eukaryotic and archaeal nucleosomes, the former is an octamer composed of heterodimers of histones H2A, H2B, H3 and H4 whereas the latter histones assemble from homologs of H3 and H4 proteins (Pereira and Reeve, 1998; Talbert and Henikoff, 2010). Archaeal histones can form both homodimers and heterodimers, as well as homotetramers, whereas eukaryotic histones contain hydrophobic dimerization surfaces that restrict assembly of the octamer from H2A-H2B and H3-H4 heterodimers (Sandman and Reeve, 2006; Talbert and Henikoff, 2010)."
+    },
+    "citation_reference_23": {
+      "type": "citation_reference",
+      "id": "citation_reference_23",
+      "path": [
+        "paragraph_22",
+        "content"
+      ],
+      "target": "article_citation_bib26",
+      "range": [
+        149,
+        170
+      ]
+    },
+    "citation_reference_24": {
+      "type": "citation_reference",
+      "id": "citation_reference_24",
+      "path": [
+        "paragraph_22",
+        "content"
+      ],
+      "target": "article_citation_bib25",
+      "range": [
+        380,
+        403
+      ]
+    },
+    "citation_reference_25": {
+      "type": "citation_reference",
+      "id": "citation_reference_25",
+      "path": [
+        "paragraph_22",
+        "content"
+      ],
+      "target": "article_citation_bib35",
+      "range": [
+        405,
+        431
+      ]
+    },
+    "citation_reference_26": {
+      "type": "citation_reference",
+      "id": "citation_reference_26",
+      "path": [
+        "paragraph_22",
+        "content"
+      ],
+      "target": "article_citation_bib30",
+      "range": [
+        666,
+        689
+      ]
+    },
+    "citation_reference_27": {
+      "type": "citation_reference",
+      "id": "citation_reference_27",
+      "path": [
+        "paragraph_22",
+        "content"
+      ],
+      "target": "article_citation_bib35",
+      "range": [
+        691,
+        717
+      ]
+    },
+    "paragraph_28": {
+      "type": "paragraph",
+      "id": "paragraph_28",
+      "content": "Using single-nucleotide resolution maps of archaeal nucleosome occupancy and gene expression, we demonstrate that the architecture of archaeal chromatin and the occupancy of its nucleosomes along transcription units are conserved. We constructed a nucleosome occupancy map of the halophilic archaeon Haloferax volcanii, a member of the phylum euryarchaeota, originally discovered in the highly saline sediment of the Dead Sea (Mullakhanbhai and Larsen, 1975). The genome of Hfx. volcanii has an average GC content of 65% and a total genome length of 4 Mb (Hartman et al., 2010) composed of five circular genetic elements: a 2.8 Mb main chromosome, three smaller chromosomes pHV1, pHV3 and pHV4 and the plasmid pHV2. It is highly polyploid with ∼15 genome copies during exponential growth and ∼10 during stationary phase (Breuert et al., 2006). The histone protein of Hfx. volcanii, hstA (HVO_0520), has a domain architecture containing two distinct histone fold domains within the same peptide that heterodimerize similar to the Methanopyrus kandleri histone (HMk) (Geer et al., 2002; Talbert and Henikoff, 2010; Marchler-Bauer et al., 2011)."
+    },
+    "annotation_29": {
+      "type": "emphasis",
+      "id": "annotation_29",
+      "path": [
+        "paragraph_28",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        300,
+        318
+      ]
+    },
+    "citation_reference_30": {
+      "type": "citation_reference",
+      "id": "citation_reference_30",
+      "path": [
+        "paragraph_28",
+        "content"
+      ],
+      "target": "article_citation_bib23",
+      "range": [
+        427,
+        457
+      ]
+    },
+    "annotation_31": {
+      "type": "emphasis",
+      "id": "annotation_31",
+      "path": [
+        "paragraph_28",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        474,
+        487
+      ]
+    },
+    "citation_reference_32": {
+      "type": "citation_reference",
+      "id": "citation_reference_32",
+      "path": [
+        "paragraph_28",
+        "content"
+      ],
+      "target": "article_citation_bib14",
+      "range": [
+        556,
+        576
+      ]
+    },
+    "citation_reference_33": {
+      "type": "citation_reference",
+      "id": "citation_reference_33",
+      "path": [
+        "paragraph_28",
+        "content"
+      ],
+      "target": "article_citation_bib5",
+      "range": [
+        821,
+        841
+      ]
+    },
+    "annotation_34": {
+      "type": "emphasis",
+      "id": "annotation_34",
+      "path": [
+        "paragraph_28",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        867,
+        880
+      ]
+    },
+    "annotation_35": {
+      "type": "emphasis",
+      "id": "annotation_35",
+      "path": [
+        "paragraph_28",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1029,
+        1050
+      ]
+    },
+    "citation_reference_36": {
+      "type": "citation_reference",
+      "id": "citation_reference_36",
+      "path": [
+        "paragraph_28",
+        "content"
+      ],
+      "target": "article_citation_bib13",
+      "range": [
+        1066,
+        1083
+      ]
+    },
+    "citation_reference_37": {
+      "type": "citation_reference",
+      "id": "citation_reference_37",
+      "path": [
+        "paragraph_28",
+        "content"
+      ],
+      "target": "article_citation_bib35",
+      "range": [
+        1085,
+        1111
+      ]
+    },
+    "citation_reference_38": {
+      "type": "citation_reference",
+      "id": "citation_reference_38",
+      "path": [
+        "paragraph_28",
+        "content"
+      ],
+      "target": "article_citation_bib21",
+      "range": [
+        1113,
+        1140
+      ]
+    },
+    "heading_s2": {
+      "type": "heading",
+      "id": "heading_s2",
+      "level": 1,
+      "content": "Results",
+      "nodes": []
+    },
+    "paragraph_39": {
+      "type": "paragraph",
+      "id": "paragraph_39",
+      "content": "We cultured Hfx. volcanii in rich media containing 2 M NaCl (Mullakhanbhai and Larsen, 1975). Genomic DNA was cross-linked and digested with micrococcal nuclease (MNase), with cell disruption accomplished by bead-beating (Tsui et al., 2012). Nucleosome-bound cross-linked genomic regions are protected from MNase digestion, in contrast to the linker DNA between nucleosomes. Mononucleosome-sized (50–60 bp) DNA fragments were gel purified and libraries were sequenced on an Illumina HiSeq2000 (Figure 1A). Sequence reads were aligned to the published Hfx. volcanii DS2 genome (Hartman et al., 2010) to generate a genome-wide nucleosome occupancy map. Controls included crosslinked DNA without MNase digestion as well as MNase treated nucleosome-free genomic DNA. The nucleosome occupancy data was significantly different than the control MNase digest of deproteinized ‘naked’ genomic DNA (r = 0.071), indicating that the nucleosome map is unaffected by any potential MNase sequence bias (Chung et al., 2010)."
+    },
+    "annotation_40": {
+      "type": "emphasis",
+      "id": "annotation_40",
+      "path": [
+        "paragraph_39",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        12,
+        25
+      ]
+    },
+    "citation_reference_41": {
+      "type": "citation_reference",
+      "id": "citation_reference_41",
+      "path": [
+        "paragraph_39",
+        "content"
+      ],
+      "target": "article_citation_bib23",
+      "range": [
+        61,
+        91
+      ]
+    },
+    "citation_reference_42": {
+      "type": "citation_reference",
+      "id": "citation_reference_42",
+      "path": [
+        "paragraph_39",
+        "content"
+      ],
+      "target": "article_citation_bib37",
+      "range": [
+        222,
+        239
+      ]
+    },
+    "figure_reference_43": {
+      "type": "figure_reference",
+      "id": "figure_reference_43",
+      "path": [
+        "paragraph_39",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        494,
+        503
+      ]
+    },
+    "annotation_44": {
+      "type": "emphasis",
+      "id": "annotation_44",
+      "path": [
+        "paragraph_39",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        551,
+        564
+      ]
+    },
+    "citation_reference_45": {
+      "type": "citation_reference",
+      "id": "citation_reference_45",
+      "path": [
+        "paragraph_39",
+        "content"
+      ],
+      "target": "article_citation_bib14",
+      "range": [
+        577,
+        597
+      ]
+    },
+    "citation_reference_46": {
+      "type": "citation_reference",
+      "id": "citation_reference_46",
+      "path": [
+        "paragraph_39",
+        "content"
+      ],
+      "target": "article_citation_bib7",
+      "range": [
+        988,
+        1006
+      ]
+    },
+    "image_fig1": {
+      "type": "image",
+      "id": "image_fig1",
+      "label": "Figure 1.",
+      "url": "",
+      "object_id": "F1",
+      "title": "Micrococcal nuclease digestion produces nucleosomal fragments from crosslinked Hfx. volcanii chromatin.",
+      "content_type": "",
+      "large_url": "",
+      "content": "",
+      "group": [
+        "parent",
+        null
+      ],
+      "doi": "http://dx.doi.org/10.7554/eLife.00078.003",
+      "caption": "paragraph_image_fig1",
+      "graphic_id": "elife00078f001"
+    },
+    "paragraph_image_fig1": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig1",
+      "content": "(A) Formaldehyde cross-linked chromatin was subjected to MNase digestion with increasing amounts on microccocal nuclease (from 1 to 5 units). De-crosslinked DNAs were separated on a 3% agarose gel and ∼60 bp and ∼120 bp mono- and di-nucleosomes were observed. Markers (M) indicate *50 bp and **150 bp. (B) The counts of AA, AT, TA, TT or CC, CG, GC, GG dinucleotides are reported at each position showing an enrichment of G/C nucleotides and a depletion of A/T nucleotides at the dyad relative to the end points of the protected fragment. This differs from the observation of Bailey et al. (2000), where GC, AA and TA dinucleotides were repeated at ∼10-bp intervals in recombinant archaeal histone B from Methanothermus fervidus (rHMfB) (Bailey et al., 2000). (C) The sequence logo of a nucleosome-binding site in Hfx. volcanii centered at the nucleosome midpoint. There is a significant GC enrichment towards the nucleosome midpoint. This is exhibited using both bit score and probability measures."
+    },
+    "annotation_47": {
+      "type": "emphasis",
+      "id": "annotation_47",
+      "path": [
+        "image_fig1",
+        "title"
+      ],
+      "target": null,
+      "range": [
+        79,
+        92
+      ]
+    },
+    "annotation_48": {
+      "type": "strong",
+      "id": "annotation_48",
+      "path": [
+        "paragraph_image_fig1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1,
+        2
+      ]
+    },
+    "annotation_49": {
+      "type": "strong",
+      "id": "annotation_49",
+      "path": [
+        "paragraph_image_fig1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        201,
+        202
+      ]
+    },
+    "annotation_50": {
+      "type": "strong",
+      "id": "annotation_50",
+      "path": [
+        "paragraph_image_fig1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        303,
+        304
+      ]
+    },
+    "citation_reference_51": {
+      "type": "citation_reference",
+      "id": "citation_reference_51",
+      "path": [
+        "paragraph_image_fig1",
+        "content"
+      ],
+      "target": "article_citation_bib4",
+      "range": [
+        576,
+        596
+      ]
+    },
+    "annotation_52": {
+      "type": "emphasis",
+      "id": "annotation_52",
+      "path": [
+        "paragraph_image_fig1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        705,
+        728
+      ]
+    },
+    "citation_reference_53": {
+      "type": "citation_reference",
+      "id": "citation_reference_53",
+      "path": [
+        "paragraph_image_fig1",
+        "content"
+      ],
+      "target": "article_citation_bib4",
+      "range": [
+        738,
+        757
+      ]
+    },
+    "annotation_54": {
+      "type": "strong",
+      "id": "annotation_54",
+      "path": [
+        "paragraph_image_fig1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        761,
+        762
+      ]
+    },
+    "annotation_55": {
+      "type": "emphasis",
+      "id": "annotation_55",
+      "path": [
+        "paragraph_image_fig1",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        814,
+        827
+      ]
+    },
+    "paragraph_56": {
+      "type": "paragraph",
+      "id": "paragraph_56",
+      "content": "To determine nucleosome midpoints, we smoothed the occupancy data using a symmetrical convolution sum with a Gaussian filter (Smith, 1997). Extrema were detected in the smoothed signal, and maxima were defined as nucleosome midpoints. In the smoothed signal, the mean peak-to-peak distance for the main chromosome was 68.5 bp in genic regions and 76.1 bp in non-genic regions. Genic regions were defined as the transcribed region plus 40 bp (the average promoter length based on Palmer and Daniels, 1995) upstream of the 5′ end. We observed a greater nucleosome density in Hfx. volcanii vs all eukaryotes likely due to the shorter length of DNA wrapped around the archaeal histone tetramer (Pereira et al., 1997). Based on our data, the Hfx. volcanii genome has 14.2 nucleosomes per kilobase compared to 5.2 nucleosomes per kilobase in Saccharomyces cerevisiae. The resulting map reveals a periodic pattern similar to that seen in all eukaryotes examined to date; with protected regions appearing as peaks and linker regions as troughs. Sequence analysis of the entire nucleosome map showed that nucleosome midpoints were enriched with G/C nucleotides from 61.4% GC at the edge of the protected fragment to 74.6% GC at the midpoint (dyad). We found an increase of G/C nucleotides and a decrease in A/T nucleotides at the midpoint, as described recently for human cell lines (Figure 1B,C) (Valouev et al., 2011). In contrast to previous studies in eukaryotes, we did not observe a periodicity in dinucleotide frequency relative to the nucleosome midpoint (Satchwell et al., 1986; Bailey et al., 2000; Albert et al., 2007)."
+    },
+    "citation_reference_57": {
+      "type": "citation_reference",
+      "id": "citation_reference_57",
+      "path": [
+        "paragraph_56",
+        "content"
+      ],
+      "target": "article_citation_bib34",
+      "range": [
+        126,
+        137
+      ]
+    },
+    "citation_reference_58": {
+      "type": "citation_reference",
+      "id": "citation_reference_58",
+      "path": [
+        "paragraph_56",
+        "content"
+      ],
+      "target": "article_citation_bib24",
+      "range": [
+        479,
+        503
+      ]
+    },
+    "annotation_59": {
+      "type": "emphasis",
+      "id": "annotation_59",
+      "path": [
+        "paragraph_56",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        573,
+        586
+      ]
+    },
+    "citation_reference_60": {
+      "type": "citation_reference",
+      "id": "citation_reference_60",
+      "path": [
+        "paragraph_56",
+        "content"
+      ],
+      "target": "article_citation_bib26",
+      "range": [
+        691,
+        711
+      ]
+    },
+    "annotation_61": {
+      "type": "emphasis",
+      "id": "annotation_61",
+      "path": [
+        "paragraph_56",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        737,
+        750
+      ]
+    },
+    "annotation_62": {
+      "type": "emphasis",
+      "id": "annotation_62",
+      "path": [
+        "paragraph_56",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        836,
+        860
+      ]
+    },
+    "figure_reference_63": {
+      "type": "figure_reference",
+      "id": "figure_reference_63",
+      "path": [
+        "paragraph_56",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        1375,
+        1386
+      ]
+    },
+    "citation_reference_64": {
+      "type": "citation_reference",
+      "id": "citation_reference_64",
+      "path": [
+        "paragraph_56",
+        "content"
+      ],
+      "target": "article_citation_bib38",
+      "range": [
+        1389,
+        1409
+      ]
+    },
+    "citation_reference_65": {
+      "type": "citation_reference",
+      "id": "citation_reference_65",
+      "path": [
+        "paragraph_56",
+        "content"
+      ],
+      "target": "article_citation_bib32",
+      "range": [
+        1555,
+        1577
+      ]
+    },
+    "citation_reference_66": {
+      "type": "citation_reference",
+      "id": "citation_reference_66",
+      "path": [
+        "paragraph_56",
+        "content"
+      ],
+      "target": "article_citation_bib4",
+      "range": [
+        1579,
+        1598
+      ]
+    },
+    "citation_reference_67": {
+      "type": "citation_reference",
+      "id": "citation_reference_67",
+      "path": [
+        "paragraph_56",
+        "content"
+      ],
+      "target": "article_citation_bib1",
+      "range": [
+        1600,
+        1619
+      ]
+    },
+    "paragraph_68": {
+      "type": "paragraph",
+      "id": "paragraph_68",
+      "content": "We next investigated the relationship between nucleosome occupancy and gene expression. The existing genome annotation for Haloferax is derived almost exclusively from ORF predictions (Hartman et al., 2010). To augment these predictions, we used deep sequencing to create a high confidence transcriptome of the main chromosome of Hfx. volcanii. This map allowed us to define both 5′UTR lengths, transcriptional start sites (TSSs) and transcriptional termination sites (TTSs). Total RNA was extracted from Hfx. volcanii cells, repetitive RNA was partially depleted via duplex-specific nuclease (DSN) normalization followed by RNA-seq (see ‘Materials and methods’) (Zhulidov et al., 2004). Transcript sequences were aligned, assembled and quantified using TopHat and the Genome Analysis Toolkit (Trapnell et al., 2009; McKenna et al., 2010) and transcript boundaries were further trimmed based on RNA-seq coverage information, as described previously (Wurtzel et al., 2010). The final set of transcripts were manually curated yielding 3059 transcriptional units in Hfx. volcanii, a number that is greater than observed previously in the comparable transcriptome of the sulfur-metabolizing archaeon Sulfolobus solfataricus (Wurtzel et al., 2010) but fewer than the 4073 predicted Hfx. volcanii genes. It is likely that in the rich media conditions used in this study, not all genes are expressed. Specifically 75% of the predicted transcripts were detectably expressed, and this fraction is consistent with observations obtained for yeast gene expression in rich media (David et al., 2006). Thirty-two novel transcripts (absent from the predicted sequence annotation) were identified in the RNA-seq data. Most of these 32 transcripts lack significant sequence homologs, and several were classified as transposases with paralogs in Hfx. volcanii (Supplementary file 1). Notably, the gene that was most highly expressed in the transcriptome (NTRANS_0004) was not previously annotated and contains a putative N-Acyltransferase (NAT) superfamily domain. Homology searches revealed that this transcript appears to be restricted to the genomes of other halophilic archaea (Altschul et al., 1990). The architecture of this domain is homologous to chain A of the well-characterized histone acetyltransferases Gcn5, Gna1, Hpa2 in S. cerevisiae, suggesting a possible role for this transcript in regulating transcription via histone acetylation (Marchler-Bauer et al., 2011). Additional acyltransferases with a similar architecture have been implicated in bacteriophage-encoded DNA modifiers as well as in cold and ethanol tolerance in yeast (Du and Takagi, 2007; Kaminska and Bujnicki, 2008). Thus, while histone post-translational modifications have not been observed in archaeal histones (Forbes et al., 2004), our observation suggests that some rudimentary control over chromatin accessibility may occur via the action of ancient NAT family members. Furthermore acetyltransferase and deacetylase orthologs, which appear to have enzymatic activity based on their sensitivity to the histone deacetylase (HDAC) inhibitor trichostatin A have been identified in Hfx. volcanii (Altman-Price and Mevarech, 2009). In our subsequent analysis, we focused on all genes we empirically determined to be expressed."
+    },
+    "annotation_69": {
+      "type": "emphasis",
+      "id": "annotation_69",
+      "path": [
+        "paragraph_68",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        123,
+        132
+      ]
+    },
+    "citation_reference_70": {
+      "type": "citation_reference",
+      "id": "citation_reference_70",
+      "path": [
+        "paragraph_68",
+        "content"
+      ],
+      "target": "article_citation_bib14",
+      "range": [
+        185,
+        205
+      ]
+    },
+    "annotation_71": {
+      "type": "emphasis",
+      "id": "annotation_71",
+      "path": [
+        "paragraph_68",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        330,
+        343
+      ]
+    },
+    "annotation_72": {
+      "type": "emphasis",
+      "id": "annotation_72",
+      "path": [
+        "paragraph_68",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        505,
+        518
+      ]
+    },
+    "citation_reference_73": {
+      "type": "citation_reference",
+      "id": "citation_reference_73",
+      "path": [
+        "paragraph_68",
+        "content"
+      ],
+      "target": "article_citation_bib40",
+      "range": [
+        664,
+        685
+      ]
+    },
+    "citation_reference_74": {
+      "type": "citation_reference",
+      "id": "citation_reference_74",
+      "path": [
+        "paragraph_68",
+        "content"
+      ],
+      "target": "article_citation_bib36",
+      "range": [
+        794,
+        815
+      ]
+    },
+    "citation_reference_75": {
+      "type": "citation_reference",
+      "id": "citation_reference_75",
+      "path": [
+        "paragraph_68",
+        "content"
+      ],
+      "target": "article_citation_bib22",
+      "range": [
+        817,
+        837
+      ]
+    },
+    "citation_reference_76": {
+      "type": "citation_reference",
+      "id": "citation_reference_76",
+      "path": [
+        "paragraph_68",
+        "content"
+      ],
+      "target": "article_citation_bib39",
+      "range": [
+        950,
+        970
+      ]
+    },
+    "annotation_77": {
+      "type": "emphasis",
+      "id": "annotation_77",
+      "path": [
+        "paragraph_68",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1063,
+        1076
+      ]
+    },
+    "annotation_78": {
+      "type": "emphasis",
+      "id": "annotation_78",
+      "path": [
+        "paragraph_68",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1196,
+        1219
+      ]
+    },
+    "citation_reference_79": {
+      "type": "citation_reference",
+      "id": "citation_reference_79",
+      "path": [
+        "paragraph_68",
+        "content"
+      ],
+      "target": "article_citation_bib39",
+      "range": [
+        1221,
+        1241
+      ]
+    },
+    "annotation_80": {
+      "type": "emphasis",
+      "id": "annotation_80",
+      "path": [
+        "paragraph_68",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1277,
+        1290
+      ]
+    },
+    "citation_reference_81": {
+      "type": "citation_reference",
+      "id": "citation_reference_81",
+      "path": [
+        "paragraph_68",
+        "content"
+      ],
+      "target": "article_citation_bib8",
+      "range": [
+        1567,
+        1585
+      ]
+    },
+    "annotation_82": {
+      "type": "emphasis",
+      "id": "annotation_82",
+      "path": [
+        "paragraph_68",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1828,
+        1841
+      ]
+    },
+    "cross_reference_83": {
+      "type": "cross_reference",
+      "id": "cross_reference_83",
+      "path": [
+        "paragraph_68",
+        "content"
+      ],
+      "target": "supplement_SD1_data",
+      "range": [
+        1843,
+        1863
+      ]
+    },
+    "citation_reference_84": {
+      "type": "citation_reference",
+      "id": "citation_reference_84",
+      "path": [
+        "paragraph_68",
+        "content"
+      ],
+      "target": "article_citation_bib3",
+      "range": [
+        2164,
+        2185
+      ]
+    },
+    "annotation_85": {
+      "type": "emphasis",
+      "id": "annotation_85",
+      "path": [
+        "paragraph_68",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        2318,
+        2331
+      ]
+    },
+    "citation_reference_86": {
+      "type": "citation_reference",
+      "id": "citation_reference_86",
+      "path": [
+        "paragraph_68",
+        "content"
+      ],
+      "target": "article_citation_bib21",
+      "range": [
+        2433,
+        2460
+      ]
+    },
+    "citation_reference_87": {
+      "type": "citation_reference",
+      "id": "citation_reference_87",
+      "path": [
+        "paragraph_68",
+        "content"
+      ],
+      "target": "article_citation_bib10",
+      "range": [
+        2630,
+        2649
+      ]
+    },
+    "citation_reference_88": {
+      "type": "citation_reference",
+      "id": "citation_reference_88",
+      "path": [
+        "paragraph_68",
+        "content"
+      ],
+      "target": "article_citation_bib17",
+      "range": [
+        2651,
+        2678
+      ]
+    },
+    "citation_reference_89": {
+      "type": "citation_reference",
+      "id": "citation_reference_89",
+      "path": [
+        "paragraph_68",
+        "content"
+      ],
+      "target": "article_citation_bib12",
+      "range": [
+        2779,
+        2798
+      ]
+    },
+    "annotation_90": {
+      "type": "emphasis",
+      "id": "annotation_90",
+      "path": [
+        "paragraph_68",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        3148,
+        3161
+      ]
+    },
+    "citation_reference_91": {
+      "type": "citation_reference",
+      "id": "citation_reference_91",
+      "path": [
+        "paragraph_68",
+        "content"
+      ],
+      "target": "article_citation_bib2",
+      "range": [
+        3163,
+        3194
+      ]
+    },
+    "paragraph_92": {
+      "type": "paragraph",
+      "id": "paragraph_92",
+      "content": "In eukaryotes, the TSS of the majority of expressed genes is characterized by a nucleosome-depleted region (NDR) (Jiang and Pugh, 2009). This NDR is flanked by the well-positioned −1 and the +1 nucleosomes. These regions direct RNA polymerase II to initiate transcription and influence the binding of promoter regulatory elements (Jiang and Pugh, 2009). This stereotypical pattern of nucleosome depletion at promoters and well-ordered nucleosomes in gene bodies is found in all eukaryotes, including yeast, Drosophila, Arabidopsis and humans. Using the RNA-seq-derived transcripts for Hfx. volcanii, we computed the degree of aggregate nucleosome occupancy for the 2343 transcripts on the main chromosome, and found that the NDR and −1 and +1 nucleosomes are conserved in Hfx. volcanii (Figure 2) suggesting that the interplay between chromatin and transcription is conserved in archaeal promoters. We generated nucleosome occupancy profiles for each transcript and clustered them hierarchically. Differential nucleosome density was observed with profiles encompassing between four to six nucleosomes in a 400-bp DNA segment spanning 200 bp on each side of the TSS (Figure 2C). NDRs at TTSs are also observed, and similar to those found in eukaryotes (Lee et al., 2007) they are less prominent than promoter NDRs in Hfx. volcanii (Figure 3)."
+    },
+    "citation_reference_93": {
+      "type": "citation_reference",
+      "id": "citation_reference_93",
+      "path": [
+        "paragraph_92",
+        "content"
+      ],
+      "target": "article_citation_bib16",
+      "range": [
+        114,
+        134
+      ]
+    },
+    "citation_reference_94": {
+      "type": "citation_reference",
+      "id": "citation_reference_94",
+      "path": [
+        "paragraph_92",
+        "content"
+      ],
+      "target": "article_citation_bib16",
+      "range": [
+        331,
+        351
+      ]
+    },
+    "annotation_95": {
+      "type": "emphasis",
+      "id": "annotation_95",
+      "path": [
+        "paragraph_92",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        507,
+        517
+      ]
+    },
+    "annotation_96": {
+      "type": "emphasis",
+      "id": "annotation_96",
+      "path": [
+        "paragraph_92",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        519,
+        530
+      ]
+    },
+    "annotation_97": {
+      "type": "emphasis",
+      "id": "annotation_97",
+      "path": [
+        "paragraph_92",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        585,
+        598
+      ]
+    },
+    "annotation_98": {
+      "type": "emphasis",
+      "id": "annotation_98",
+      "path": [
+        "paragraph_92",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        772,
+        785
+      ]
+    },
+    "figure_reference_99": {
+      "type": "figure_reference",
+      "id": "figure_reference_99",
+      "path": [
+        "paragraph_92",
+        "content"
+      ],
+      "target": "image_fig2",
+      "range": [
+        787,
+        795
+      ]
+    },
+    "figure_reference_100": {
+      "type": "figure_reference",
+      "id": "figure_reference_100",
+      "path": [
+        "paragraph_92",
+        "content"
+      ],
+      "target": "image_fig2",
+      "range": [
+        1166,
+        1175
+      ]
+    },
+    "citation_reference_101": {
+      "type": "citation_reference",
+      "id": "citation_reference_101",
+      "path": [
+        "paragraph_92",
+        "content"
+      ],
+      "target": "article_citation_bib20",
+      "range": [
+        1252,
+        1268
+      ]
+    },
+    "annotation_102": {
+      "type": "emphasis",
+      "id": "annotation_102",
+      "path": [
+        "paragraph_92",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1316,
+        1329
+      ]
+    },
+    "figure_reference_103": {
+      "type": "figure_reference",
+      "id": "figure_reference_103",
+      "path": [
+        "paragraph_92",
+        "content"
+      ],
+      "target": "image_fig3",
+      "range": [
+        1331,
+        1339
+      ]
+    },
+    "image_fig2": {
+      "type": "image",
+      "id": "image_fig2",
+      "label": "Figure 2.",
+      "url": "",
+      "object_id": "F2",
+      "title": "Nucleosome occupancy in Haloferax volcanii.",
+      "content_type": "",
+      "large_url": "",
+      "content": "",
+      "group": [
+        "parent",
+        null
+      ],
+      "doi": "http://dx.doi.org/10.7554/eLife.00078.004",
+      "caption": "paragraph_image_fig2",
+      "graphic_id": "elife00078f002"
+    },
+    "paragraph_image_fig2": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig2",
+      "content": "(A) Degree of normalized nucleosome occupancy in aggregate for the main chromosome. As observed in eukaryotes, there is a prominent nucleosome-depleted region (NDR) at the transcriptional start site (TSS) preceded by a −1 nucleosome and followed by a +1 nucleosome, demonstrating that promoter genome architecture is conserved between archaea and eukaryotes. (B) Hierarchical clustergram for the 2343 expressed transcripts on the main Haloferax chromosome. Green represents nucleosome-depleted regions and red represents occupied regions. (C) The clustered heatmap was subdivided into the largest six subclades, and differential density of nucleosomes can be observed with occupancy profile clusters containing between four to six nucleosomes."
+    },
+    "annotation_104": {
+      "type": "emphasis",
+      "id": "annotation_104",
+      "path": [
+        "image_fig2",
+        "title"
+      ],
+      "target": null,
+      "range": [
+        24,
+        42
+      ]
+    },
+    "annotation_105": {
+      "type": "strong",
+      "id": "annotation_105",
+      "path": [
+        "paragraph_image_fig2",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1,
+        2
+      ]
+    },
+    "annotation_106": {
+      "type": "strong",
+      "id": "annotation_106",
+      "path": [
+        "paragraph_image_fig2",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        360,
+        361
+      ]
+    },
+    "annotation_107": {
+      "type": "emphasis",
+      "id": "annotation_107",
+      "path": [
+        "paragraph_image_fig2",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        435,
+        444
+      ]
+    },
+    "annotation_108": {
+      "type": "strong",
+      "id": "annotation_108",
+      "path": [
+        "paragraph_image_fig2",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        540,
+        541
+      ]
+    },
+    "image_fig3": {
+      "type": "image",
+      "id": "image_fig3",
+      "label": "Figure 3.",
+      "url": "",
+      "object_id": "F3",
+      "title": "Nucleosome-depleted regions at the 5′ and 3′ ends of transcripts.",
+      "content_type": "",
+      "large_url": "",
+      "content": "",
+      "group": [
+        "parent",
+        null
+      ],
+      "doi": "http://dx.doi.org/10.7554/eLife.00078.005",
+      "caption": "paragraph_image_fig3",
+      "graphic_id": "elife00078f003"
+    },
+    "paragraph_image_fig3": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig3",
+      "content": "As observed in eukaryotes, NDRs are also found at the transcriptional termination sites in Hfx. volcanii. Both 5′ and 3′ end profiles are overlaid in this figure for comparison. The 5′ NDR is, on average, more depleted and longer."
+    },
+    "annotation_109": {
+      "type": "emphasis",
+      "id": "annotation_109",
+      "path": [
+        "paragraph_image_fig3",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        91,
+        104
+      ]
+    },
+    "heading_s3": {
+      "type": "heading",
+      "id": "heading_s3",
+      "level": 1,
+      "content": "Discussion",
+      "nodes": []
+    },
+    "paragraph_110": {
+      "type": "paragraph",
+      "id": "paragraph_110",
+      "content": "Our study establishes that genome-wide nucleosome occupancy is conserved between archaea and eukaryotes (Figure 4). We further show that the nucleosomal protected fragments and NDRs are shorter in archaea than in eukaryotes. Our findings are particularly noteworthy because Hfx. volcanii likely resembles a deeply rooted ancestor that possessed eukaryotic genome architecture hallmarks such as histones, as well as bacterial hallmarks such as the Shine-Dalgarno sequence (Sartorius-Neef and Pfeifer, 2004). Archaeal histone tetramers likely resemble an ancestral state of chromatin, as it has been observed that functional (H3-H4)2 tetramers can be formed in vitro from eukaryotic histones, and these tetramers are functional; they facilitate more rapid transcription in vitro compared to native histone octamers (Puerta et al., 1993). The observation that archaea contain (H3-H4)2 tetramers is consistent with the proposal that formation of the canonical eukaryotic nucleosome octamer begins with (H3-H4)2 tetramer assembly (Talbert and Henikoff, 2010)."
+    },
+    "figure_reference_111": {
+      "type": "figure_reference",
+      "id": "figure_reference_111",
+      "path": [
+        "paragraph_110",
+        "content"
+      ],
+      "target": "image_fig4",
+      "range": [
+        105,
+        113
+      ]
+    },
+    "annotation_112": {
+      "type": "emphasis",
+      "id": "annotation_112",
+      "path": [
+        "paragraph_110",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        274,
+        287
+      ]
+    },
+    "citation_reference_113": {
+      "type": "citation_reference",
+      "id": "citation_reference_113",
+      "path": [
+        "paragraph_110",
+        "content"
+      ],
+      "target": "article_citation_bib31",
+      "range": [
+        472,
+        504
+      ]
+    },
+    "annotation_114": {
+      "type": "subscript",
+      "id": "annotation_114",
+      "path": [
+        "paragraph_110",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        630,
+        631
+      ]
+    },
+    "citation_reference_115": {
+      "type": "citation_reference",
+      "id": "citation_reference_115",
+      "path": [
+        "paragraph_110",
+        "content"
+      ],
+      "target": "article_citation_bib27",
+      "range": [
+        814,
+        833
+      ]
+    },
+    "annotation_116": {
+      "type": "subscript",
+      "id": "annotation_116",
+      "path": [
+        "paragraph_110",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        880,
+        881
+      ]
+    },
+    "annotation_117": {
+      "type": "subscript",
+      "id": "annotation_117",
+      "path": [
+        "paragraph_110",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1005,
+        1006
+      ]
+    },
+    "citation_reference_118": {
+      "type": "citation_reference",
+      "id": "citation_reference_118",
+      "path": [
+        "paragraph_110",
+        "content"
+      ],
+      "target": "article_citation_bib35",
+      "range": [
+        1026,
+        1052
+      ]
+    },
+    "image_fig4": {
+      "type": "image",
+      "id": "image_fig4",
+      "label": "Figure 4.",
+      "url": "",
+      "object_id": "F4",
+      "title": "Chromatin architecture is conserved at the 5′ end of transcripts across eukaryotes and archaea.",
+      "content_type": "",
+      "large_url": "",
+      "content": "",
+      "group": [
+        "parent",
+        null
+      ],
+      "doi": "http://dx.doi.org/10.7554/eLife.00078.006",
+      "caption": "paragraph_image_fig4",
+      "graphic_id": "elife00078f004"
+    },
+    "paragraph_image_fig4": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig4",
+      "content": "Due to the smaller size of archaeal nucleosome DNA, the occupancy has a shorter periodicity. Figure adapted with permission from Chang et al. (2012)."
+    },
+    "citation_reference_119": {
+      "type": "citation_reference",
+      "id": "citation_reference_119",
+      "path": [
+        "paragraph_image_fig4",
+        "content"
+      ],
+      "target": "article_citation_bib6",
+      "range": [
+        129,
+        148
+      ]
+    },
+    "paragraph_120": {
+      "type": "paragraph",
+      "id": "paragraph_120",
+      "content": "Our study demonstrates that both histones and chromatin architecture arose before the divergence of Archaea and Eukarya, suggesting that the fundamental role of chromatin in the regulation of gene expression is ancient. As well, owing to the small bacterial-sized archaeal genome, we suggest that archaeal chromatin is not required for genome compaction. This leads us to postulate that higher-order chromatin (Sajan and Hawkins, 2012) is a eukaryotic invention and that archaeal chromatin is necessary but not sufficient for genome compaction. Additionally our observations provide a rich dataset that addresses the evolution of chromatin and its fundamental role in the regulation of gene expression."
+    },
+    "citation_reference_121": {
+      "type": "citation_reference",
+      "id": "citation_reference_121",
+      "path": [
+        "paragraph_120",
+        "content"
+      ],
+      "target": "article_citation_bib29",
+      "range": [
+        411,
+        434
+      ]
+    },
+    "heading_s4": {
+      "type": "heading",
+      "id": "heading_s4",
+      "level": 1,
+      "content": "Materials and methods",
+      "nodes": []
+    },
+    "heading_s4-1": {
+      "type": "heading",
+      "id": "heading_s4-1",
+      "level": 2,
+      "content": "Sample preparation",
+      "nodes": []
+    },
+    "paragraph_122": {
+      "type": "paragraph",
+      "id": "paragraph_122",
+      "content": "Haloferax volcanii DS2 cells (obtained from the ATCC) were grown to mid-log phase at 42°C in ATCC 974 Halobacterium medium containing 2 M NaCl. Cells were fixed with 2% formaldehyde for 30 min then quenched with 125 mM of glycine for 5 min. An unfixed control sample was also prepared to serve as a deproteinized, ‘naked’ DNA control, as described previously (Chung et al., 2010). Cells were pelleted and snap frozen prior to MNase digestion and DNA extraction. Frozen cells were processed according to a modified protocol from Rizzo et al. (2011) and Tsui et al. (2012). Samples were digested with increasing concentrations of MNase and a no MNase control. After digestion, fragments 50–60 bp in length were size-selected using an Agilent Bioanalyzer High Sensitivity chip (Agilent, Santa Clara, CA, part# 5067-4626) and further processed for Illumina deep sequencing. Nucleosomal and genomic libraries were pooled equally according to qPCR quantitation, and sequenced using v3 chemistry on one single-read HiSeq2000 lane (50 × 8). Samples were demultiplexed using an 8-bp index read at the end of read 1."
+    },
+    "annotation_123": {
+      "type": "emphasis",
+      "id": "annotation_123",
+      "path": [
+        "paragraph_122",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        18
+      ]
+    },
+    "citation_reference_124": {
+      "type": "citation_reference",
+      "id": "citation_reference_124",
+      "path": [
+        "paragraph_122",
+        "content"
+      ],
+      "target": "article_citation_bib7",
+      "range": [
+        360,
+        378
+      ]
+    },
+    "citation_reference_125": {
+      "type": "citation_reference",
+      "id": "citation_reference_125",
+      "path": [
+        "paragraph_122",
+        "content"
+      ],
+      "target": "article_citation_bib28",
+      "range": [
+        528,
+        547
+      ]
+    },
+    "citation_reference_126": {
+      "type": "citation_reference",
+      "id": "citation_reference_126",
+      "path": [
+        "paragraph_122",
+        "content"
+      ],
+      "target": "article_citation_bib37",
+      "range": [
+        552,
+        570
+      ]
+    },
+    "heading_s4-2": {
+      "type": "heading",
+      "id": "heading_s4-2",
+      "level": 2,
+      "content": "Sequence read filtering and alignment",
+      "nodes": []
+    },
+    "paragraph_127": {
+      "type": "paragraph",
+      "id": "paragraph_127",
+      "content": "Illumina sequencers require the ligation of an adapter oligonucleotide to facilitate cluster formation on the flow cell. Because the library inserts were short (∼60 bp), many sequence reads extended into the Illumina adapter sequences. The adapter subsequences were computationally trimmed to ensure maximal read mapping. Then, using a sequence quality cutoff of Phred20, reads were trimmed from both 5′ and 3′ ends to ensure accurate mapping. These trimmed reads from control and MNase-treated genomic DNA were aligned to the Hfx. volcanii DS2 genome using the Bowtie 2 gapped short read aligner (Langmead and Salzberg, 2012). Sequence coverage was computed using the Genome Analysis Toolkit (GATK) depth of coverage walker, which revealed the periodicity in the occupancy data (DePristo et al., 2011)."
+    },
+    "annotation_128": {
+      "type": "emphasis",
+      "id": "annotation_128",
+      "path": [
+        "paragraph_127",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        527,
+        540
+      ]
+    },
+    "citation_reference_129": {
+      "type": "citation_reference",
+      "id": "citation_reference_129",
+      "path": [
+        "paragraph_127",
+        "content"
+      ],
+      "target": "article_citation_bib19",
+      "range": [
+        598,
+        625
+      ]
+    },
+    "citation_reference_130": {
+      "type": "citation_reference",
+      "id": "citation_reference_130",
+      "path": [
+        "paragraph_127",
+        "content"
+      ],
+      "target": "article_citation_bib9",
+      "range": [
+        780,
+        801
+      ]
+    },
+    "heading_s4-3": {
+      "type": "heading",
+      "id": "heading_s4-3",
+      "level": 2,
+      "content": "Nucleosome identification",
+      "nodes": []
+    },
+    "paragraph_131": {
+      "type": "paragraph",
+      "id": "paragraph_131",
+      "content": "To detect nucleosome midpoint positions, sequence data were Gaussian-smoothed as described previously by Shivaswamy et al. (2008) and Kaplan et al. (2009). This is appropriate because signals generated by processes that are random, such as sequence coverage noise, usually have a probability density function defined by a Gaussian distribution (Smith, 1997)."
+    },
+    "citation_reference_132": {
+      "type": "citation_reference",
+      "id": "citation_reference_132",
+      "path": [
+        "paragraph_131",
+        "content"
+      ],
+      "target": "article_citation_bib33",
+      "range": [
+        105,
+        129
+      ]
+    },
+    "citation_reference_133": {
+      "type": "citation_reference",
+      "id": "citation_reference_133",
+      "path": [
+        "paragraph_131",
+        "content"
+      ],
+      "target": "article_citation_bib18",
+      "range": [
+        134,
+        154
+      ]
+    },
+    "citation_reference_134": {
+      "type": "citation_reference",
+      "id": "citation_reference_134",
+      "path": [
+        "paragraph_131",
+        "content"
+      ],
+      "target": "article_citation_bib34",
+      "range": [
+        345,
+        356
+      ]
+    },
+    "paragraph_135": {
+      "type": "paragraph",
+      "id": "paragraph_135",
+      "content": "The Gaussian filter was defined as:"
+    },
+    "formula_eqn1": {
+      "type": "formula",
+      "id": "formula_eqn1",
+      "label": "",
+      "content": "<mml:mrow><mml:mi>G</mml:mi><mml:mo>(</mml:mo><mml:mi>x</mml:mi><mml:mo>)</mml:mo><mml:mo>=</mml:mo><mml:mfrac><mml:mn>1</mml:mn><mml:mrow><mml:msqrt><mml:mrow><mml:mn>2</mml:mn><mml:mi mathvariant=normal>π</mml:mi><mml:mi>σ</mml:mi></mml:mrow></mml:msqrt></mml:mrow></mml:mfrac><mml:msup><mml:mi>e</mml:mi><mml:mrow><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mfrac><mml:mrow><mml:mo>−</mml:mo><mml:msup><mml:mrow><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mi>x</mml:mi><mml:mo>−</mml:mo><mml:mi>μ</mml:mi></mml:mrow><mml:mo>)</mml:mo></mml:mrow></mml:mrow><mml:mn>2</mml:mn></mml:msup></mml:mrow><mml:mrow><mml:mn>2</mml:mn><mml:msup><mml:mi>σ</mml:mi><mml:mn>2</mml:mn></mml:msup></mml:mrow></mml:mfrac></mml:mrow><mml:mo>)</mml:mo></mml:mrow></mml:mrow></mml:msup><mml:mo>,</mml:mo></mml:mrow>",
+      "format": "mml"
+    },
+    "paragraph_136": {
+      "type": "paragraph",
+      "id": "paragraph_136",
+      "content": "A symmetrical convolution sum was applied with the following format:"
+    },
+    "formula_eqn2": {
+      "type": "formula",
+      "id": "formula_eqn2",
+      "label": "",
+      "content": "<mml:mrow><mml:mi>y</mml:mi><mml:mrow><mml:mo>[</mml:mo><mml:mi>i</mml:mi><mml:mo>]</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:mstyle><mml:munderover><mml:mo>∑</mml:mo><mml:mrow><mml:mi>j</mml:mi><mml:mo>=</mml:mo><mml:mo>−</mml:mo><mml:mfrac><mml:mi>M</mml:mi><mml:mn>2</mml:mn></mml:mfrac></mml:mrow><mml:mrow><mml:mfrac><mml:mi>M</mml:mi><mml:mn>2</mml:mn></mml:mfrac></mml:mrow></mml:munderover><mml:mrow><mml:mi>h</mml:mi><mml:mrow><mml:mo>[</mml:mo><mml:mi>j</mml:mi><mml:mo>]</mml:mo></mml:mrow><mml:mo>×</mml:mo><mml:mi>x</mml:mi><mml:mrow><mml:mo>[</mml:mo><mml:mrow><mml:mi>i</mml:mi><mml:mo>−</mml:mo><mml:mi>j</mml:mi></mml:mrow><mml:mo>]</mml:mo></mml:mrow></mml:mrow></mml:mstyle><mml:mo>,</mml:mo></mml:mrow>",
+      "format": "mml"
+    },
+    "paragraph_137": {
+      "type": "paragraph",
+      "id": "paragraph_137",
+      "content": "where M is an integer bandwidth, y[j] is the output, x[j] is the input and h[j] is an M-point function."
+    },
+    "annotation_138": {
+      "type": "emphasis",
+      "id": "annotation_138",
+      "path": [
+        "paragraph_137",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        6,
+        7
+      ]
+    },
+    "annotation_139": {
+      "type": "emphasis",
+      "id": "annotation_139",
+      "path": [
+        "paragraph_137",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        33,
+        34
+      ]
+    },
+    "annotation_140": {
+      "type": "emphasis",
+      "id": "annotation_140",
+      "path": [
+        "paragraph_137",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        35,
+        36
+      ]
+    },
+    "annotation_141": {
+      "type": "emphasis",
+      "id": "annotation_141",
+      "path": [
+        "paragraph_137",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        53,
+        54
+      ]
+    },
+    "annotation_142": {
+      "type": "emphasis",
+      "id": "annotation_142",
+      "path": [
+        "paragraph_137",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        55,
+        56
+      ]
+    },
+    "annotation_143": {
+      "type": "emphasis",
+      "id": "annotation_143",
+      "path": [
+        "paragraph_137",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        75,
+        76
+      ]
+    },
+    "annotation_144": {
+      "type": "emphasis",
+      "id": "annotation_144",
+      "path": [
+        "paragraph_137",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        77,
+        78
+      ]
+    },
+    "annotation_145": {
+      "type": "emphasis",
+      "id": "annotation_145",
+      "path": [
+        "paragraph_137",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        86,
+        87
+      ]
+    },
+    "paragraph_146": {
+      "type": "paragraph",
+      "id": "paragraph_146",
+      "content": "So, to smooth the coverage data, we applied the following convolution sum:"
+    },
+    "formula_eqn3": {
+      "type": "formula",
+      "id": "formula_eqn3",
+      "label": "",
+      "content": "<mml:mrow><mml:mi>y</mml:mi><mml:mrow><mml:mo>[</mml:mo><mml:mi>i</mml:mi><mml:mo>]</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:mstyle><mml:munderover><mml:mo>∑</mml:mo><mml:mrow><mml:mi>j</mml:mi><mml:mo>=</mml:mo><mml:mo>−</mml:mo><mml:mfrac><mml:mi>M</mml:mi><mml:mn>2</mml:mn></mml:mfrac></mml:mrow><mml:mrow><mml:mfrac><mml:mi>M</mml:mi><mml:mn>2</mml:mn></mml:mfrac></mml:mrow></mml:munderover><mml:mrow><mml:mi>G</mml:mi><mml:mrow><mml:mo>[</mml:mo><mml:mi>j</mml:mi><mml:mo>]</mml:mo></mml:mrow><mml:mo>×</mml:mo><mml:mi>x</mml:mi><mml:mrow><mml:mo>[</mml:mo><mml:mrow><mml:mi>i</mml:mi><mml:mo>−</mml:mo><mml:mi>j</mml:mi></mml:mrow><mml:mo>]</mml:mo></mml:mrow></mml:mrow></mml:mstyle><mml:mo>,</mml:mo></mml:mrow>",
+      "format": "mml"
+    },
+    "paragraph_147": {
+      "type": "paragraph",
+      "id": "paragraph_147",
+      "content": "where σ=M6. The interval length M is constrained to 6σ because this encompasses 99.75% of the Gaussian (Smith, 1997)."
+    },
+    "formula_148": {
+      "type": "formula",
+      "id": "formula_148",
+      "label": "",
+      "content": "",
+      "format": ""
+    },
+    "annotation_149": {
+      "type": "inline_formula",
+      "id": "annotation_149",
+      "path": "",
+      "target": "formula_148",
+      "range": "",
+      "source": "paragraph_147",
+      "key": "content",
+      "pos": [
+        6,
+        0
+      ]
+    },
+    "paragraph_150": {
+      "type": "paragraph",
+      "id": "paragraph_150",
+      "content": "We also optimized nucleosome midpoint detection by convoluting a two-pass simple moving average (SMA) filter, but the Gaussian filter detected midpoints with greater resolution. Optimal interval size for the Gaussian convolution sum, as determined by Pearson's correlation coefficient with the raw data, was 27 bp. For the two-pass SMA it was 40 bp for first-pass and 15 bp for second-pass."
+    },
+    "paragraph_151": {
+      "type": "paragraph",
+      "id": "paragraph_151",
+      "content": "Nucleosome occupancy was normalized genome-wide by transforming sequence coverage data into binary-like data that existed in states of ‘occupied’, ‘depleted’ or transitioning between those two states. This final occupancy map was used to define nucleosome positions. Nucleosome occupancy profiles were clustered hierarchically by average linkage using Pearson's correlation coefficient as the similarity metric in the Cluster 3.0 software package. Clusters were visualized with Java Treeview (Figure 2B)."
+    },
+    "figure_reference_152": {
+      "type": "figure_reference",
+      "id": "figure_reference_152",
+      "path": [
+        "paragraph_151",
+        "content"
+      ],
+      "target": "image_fig2",
+      "range": [
+        493,
+        502
+      ]
+    },
+    "heading_s4-4": {
+      "type": "heading",
+      "id": "heading_s4-4",
+      "level": 2,
+      "content": "Transcript identification and genome annotation",
+      "nodes": []
+    },
+    "paragraph_153": {
+      "type": "paragraph",
+      "id": "paragraph_153",
+      "content": "RNA was extracted with Trizol reagent (Invitrogen, Carlsbad, CA, 15596-026), and DNase treated (Invitrogen, Carlsbad, CA, AM1907) according to manufacturer specifications. A cDNA library was generated using 100 ng of total RNA according to Illumina TruSeq RNA Sample Prep protocol (Illumina, RS-122-2001) prior to duplex-specific nuclease (DSN) treatment. 100 ng of cDNA library was incubated in hybridization buffer (50 mM HEPES, 500 mM NaCl) for 2 min at 98°C, followed by 1 hr at 68°C. Ribosomal RNA (rRNA) was not specifically depleted (He et al., 2010). Instead, we used duplex-specific nuclease (DSN) normalization to remove abundant RNA (rRNA, tRNA) from the total RNA sample, thereby enriching mRNA (Zhulidov et al., 2004). Samples were immediately treated with 4 units of DSN enzyme (Evrogen, Moscow, Russia EA001) in 1× DSN buffer and incubated for an additional 25 min at 68°C, prior to addition of stop solution, and purification with Ampure XP beads (Beckman Coulter, Brea, CA, A63881). RNA libraries were pooled equally according to qPCR quantitation, and sequenced using v3 chemistry on a paired-end single HiSeq2000 lane (100 × 8 × 100). Samples were demultiplexed using an 8-bp index read at the end of read 1. Total RNA was sequenced at extremely high coverage (2587 × mean coverage) so that rRNA sequences (∼77% of all sequence reads) could be computationally excluded, as described by Wurtzel et al. (2010)."
+    },
+    "citation_reference_154": {
+      "type": "citation_reference",
+      "id": "citation_reference_154",
+      "path": [
+        "paragraph_153",
+        "content"
+      ],
+      "target": "article_citation_bib15",
+      "range": [
+        541,
+        556
+      ]
+    },
+    "citation_reference_155": {
+      "type": "citation_reference",
+      "id": "citation_reference_155",
+      "path": [
+        "paragraph_153",
+        "content"
+      ],
+      "target": "article_citation_bib40",
+      "range": [
+        708,
+        729
+      ]
+    },
+    "citation_reference_156": {
+      "type": "citation_reference",
+      "id": "citation_reference_156",
+      "path": [
+        "paragraph_153",
+        "content"
+      ],
+      "target": "article_citation_bib39",
+      "range": [
+        1405,
+        1426
+      ]
+    },
+    "paragraph_157": {
+      "type": "paragraph",
+      "id": "paragraph_157",
+      "content": "After quality score trimming (described earlier), sequence reads were aligned using TopHat (Trapnell et al., 2009). The RNA-seq data displayed a great deal of overlap with the predicted annotations (Hartman et al., 2010), with 92.1% of the existing annotations being confirmed. Of the 4073 predicted annotations, 3751 were confirmed, and, of these, 744 were merged with other transcripts to form longer transcripts. A heuristic approach was applied to adjust the transcript 5′ and 3′ positions of the Hartman et al. (2010) predicted annotations based on the boundaries of high RNA-seq coverage regions. This was vital as TSS accuracy is of great importance for NDR identification (Figure 5)."
+    },
+    "citation_reference_158": {
+      "type": "citation_reference",
+      "id": "citation_reference_158",
+      "path": [
+        "paragraph_157",
+        "content"
+      ],
+      "target": "article_citation_bib36",
+      "range": [
+        92,
+        113
+      ]
+    },
+    "citation_reference_159": {
+      "type": "citation_reference",
+      "id": "citation_reference_159",
+      "path": [
+        "paragraph_157",
+        "content"
+      ],
+      "target": "article_citation_bib14",
+      "range": [
+        199,
+        219
+      ]
+    },
+    "citation_reference_160": {
+      "type": "citation_reference",
+      "id": "citation_reference_160",
+      "path": [
+        "paragraph_157",
+        "content"
+      ],
+      "target": "article_citation_bib14",
+      "range": [
+        501,
+        522
+      ]
+    },
+    "figure_reference_161": {
+      "type": "figure_reference",
+      "id": "figure_reference_161",
+      "path": [
+        "paragraph_157",
+        "content"
+      ],
+      "target": "image_fig5",
+      "range": [
+        681,
+        689
+      ]
+    },
+    "image_fig5": {
+      "type": "image",
+      "id": "image_fig5",
+      "label": "Figure 5.",
+      "url": "",
+      "object_id": "F5",
+      "title": "Sample screenshot of all data tracks loaded into the Savant genome browser (Fiume et al., 2010).",
+      "content_type": "",
+      "large_url": "",
+      "content": "",
+      "group": [
+        "parent",
+        null
+      ],
+      "doi": "http://dx.doi.org/10.7554/eLife.00078.007",
+      "caption": "paragraph_image_fig5",
+      "graphic_id": "elife00078f005"
+    },
+    "paragraph_image_fig5": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig5",
+      "content": "The nucleosome sequence data is displayed, and the periodicity reflects protected and unprotected fragments after MNase digestion (magnitude of peak is not considered). Peaks represent nucleosome midpoints, which were detected and marked. Below are the corresponding RNA-seq and curated gene tracks. In this screenshot, one can observe seven entire ORFs in line with their NDRs and –1 and +1 nucleosomes."
+    },
+    "citation_reference_162": {
+      "type": "citation_reference",
+      "id": "citation_reference_162",
+      "path": [
+        "image_fig5",
+        "title"
+      ],
+      "target": "article_citation_bib11",
+      "range": [
+        76,
+        94
+      ]
+    },
+    "paragraph_163": {
+      "type": "paragraph",
+      "id": "paragraph_163",
+      "content": "Because 85% of the Haloferax genome is predicted to be coding (Hartman et al., 2010), transcript detection is complicated by transcript overlap. To overcome this, computationally identified transcripts were manually curated yielding a total of 3059 expressed transcripts in Hfx. volcanii. Of these, 32 transcripts are novel (Supplementary file 1). Of these transcripts, NTRANS_0004 was the most abundant transcript in the transcriptome, excluding the six rRNA genes. Homology data was obtained using BLASTX with a BLOSUM45 matrix against the non-redundant protein sequence database (Altschul et al., 1990). Conserved domains were identified using the Conserved Domain Database (Marchler-Bauer et al., 2011). Sequence data, nucleosome and transcriptome maps and supplemental tables have been deposited to the Short Read Archive and Dryad, as indicated in the datasets statement. Additionally this data is available at http://chemogenomics.med.utoronto.ca/supplemental/chromatin/."
+    },
+    "annotation_164": {
+      "type": "emphasis",
+      "id": "annotation_164",
+      "path": [
+        "paragraph_163",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        19,
+        28
+      ]
+    },
+    "citation_reference_165": {
+      "type": "citation_reference",
+      "id": "citation_reference_165",
+      "path": [
+        "paragraph_163",
+        "content"
+      ],
+      "target": "article_citation_bib14",
+      "range": [
+        63,
+        83
+      ]
+    },
+    "annotation_166": {
+      "type": "emphasis",
+      "id": "annotation_166",
+      "path": [
+        "paragraph_163",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        274,
+        287
+      ]
+    },
+    "cross_reference_167": {
+      "type": "cross_reference",
+      "id": "cross_reference_167",
+      "path": [
+        "paragraph_163",
+        "content"
+      ],
+      "target": "supplement_SD1_data",
+      "range": [
+        325,
+        345
+      ]
+    },
+    "citation_reference_168": {
+      "type": "citation_reference",
+      "id": "citation_reference_168",
+      "path": [
+        "paragraph_163",
+        "content"
+      ],
+      "target": "article_citation_bib3",
+      "range": [
+        583,
+        604
+      ]
+    },
+    "citation_reference_169": {
+      "type": "citation_reference",
+      "id": "citation_reference_169",
+      "path": [
+        "paragraph_163",
+        "content"
+      ],
+      "target": "article_citation_bib21",
+      "range": [
+        678,
+        705
+      ]
+    },
+    "annotation_170": {
+      "type": "link",
+      "id": "annotation_170",
+      "path": [
+        "paragraph_163",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        917,
+        977
+      ],
+      "url": "http://chemogenomics.med.utoronto.ca/supplemental/chromatin/"
+    },
+    "info:ack": {
+      "type": "heading",
+      "id": "info:ack",
+      "level": 2,
+      "content": "Acknowledgements",
+      "nodes": [
+        "paragraph_ack"
+      ]
+    },
+    "paragraph_ack": {
+      "type": "paragraph",
+      "id": "paragraph_ack",
+      "content": "AcknowledgementsWe thank H van Bakel for advice with nucleosome map and transcriptome construction.Additional information"
+    },
+    "info:competing-interest": {
+      "type": "heading",
+      "id": "info:competing-interest",
+      "level": 2,
+      "content": "Competing Interests",
+      "nodes": [
+        "paragraph_171"
+      ]
+    },
+    "paragraph_171": {
+      "type": "paragraph",
+      "id": "paragraph_171",
+      "content": "Competing interestsThe authors have declared that no competing interests exist"
+    },
+    "info:author_contribution": {
+      "type": "heading",
+      "id": "info:author_contribution",
+      "level": 2,
+      "content": "Authors",
+      "nodes": [
+        "person_author_1635",
+        "person_author_1685",
+        "person_author_1686",
+        "person_author_1687",
+        "person_author_1688",
+        "person_author_1483",
+        "person_author_1689",
+        "person_author_1639"
+      ]
+    },
+    "supplement_SD1_data": {
+      "type": "supplement",
+      "id": "supplement_SD1_data",
+      "label": "Supplementary file 1.",
+      "source": "",
+      "title": "",
+      "caption": "paragraph_supplement_SD1_data",
+      "content": "",
+      "doi": "http://dx.doi.org/10.7554/eLife.00078.008",
+      "graphic_id": "elife00078s001.txt"
+    },
+    "paragraph_supplement_SD1_data": {
+      "type": "paragraph",
+      "id": "paragraph_supplement_SD1_data",
+      "content": "A table describing the 32 novel transcripts identified in Hfx. volcanii."
+    },
+    "annotation_172": {
+      "type": "emphasis",
+      "id": "annotation_172",
+      "path": [
+        "paragraph_supplement_SD1_data",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        58,
+        71
+      ]
+    },
+    "sub-article": {
+      "type": "heading",
+      "id": "sub-article",
+      "level": 1,
+      "content": "Article Commentary",
+      "nodes": []
+    }
+  }
+}

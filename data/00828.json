@@ -103,7 +103,34 @@
         "paragraph_640",
         "paragraph_642",
         "sub-article",
-        "sub-article"
+        "heading_647",
+        "paragraph_648",
+        "paragraph_650",
+        "paragraph_652",
+        "paragraph_653",
+        "paragraph_654",
+        "paragraph_655",
+        "paragraph_656",
+        "paragraph_657",
+        "paragraph_658",
+        "paragraph_659",
+        "paragraph_660",
+        "paragraph_661",
+        "paragraph_664",
+        "sub-article",
+        "heading_665",
+        "paragraph_666",
+        "paragraph_668",
+        "paragraph_669",
+        "paragraph_671",
+        "paragraph_672",
+        "paragraph_675",
+        "paragraph_676",
+        "paragraph_678",
+        "paragraph_679",
+        "paragraph_686",
+        "paragraph_690",
+        "paragraph_692"
       ]
     },
     "figures": {
@@ -134,7 +161,8 @@
         "image_fig15",
         "image_fig16",
         "image_fig17",
-        "table_tbl2"
+        "table_tbl2",
+        "image_fig18"
       ]
     },
     "citations": {
@@ -536,7 +564,7 @@
     "paragraph_2": {
       "type": "paragraph",
       "id": "paragraph_2",
-      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited.10.7554/eLife.00828.001"
+      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited."
     },
     "annotation_3": {
       "type": "link",
@@ -567,7 +595,7 @@
     "paragraph_5": {
       "type": "paragraph",
       "id": "paragraph_5",
-      "content": "DOI: http://dx.doi.org/10.7554/eLife.00828.00110.7554/eLife.00828.002"
+      "content": "DOI: http://dx.doi.org/10.7554/eLife.00828.001"
     },
     "annotation_6": {
       "type": "strong",
@@ -11026,6 +11054,421 @@
       "level": 1,
       "content": "Article Commentary",
       "nodes": []
+    },
+    "heading_647": {
+      "type": "heading",
+      "id": "heading_647",
+      "level": 2,
+      "content": "Decision letter",
+      "nodes": []
+    },
+    "paragraph_648": {
+      "type": "paragraph",
+      "id": "paragraph_648",
+      "content": "eLife posts the editorial decision letter and author response on a selection of the published articles (subject to the approval of the authors). An edited version of the letter sent to the authors after peer review is shown, indicating the substantive concerns or comments; minor concerns are not usually shown. Reviewers have the opportunity to discuss the decision before the letter is sent (see review process). Similarly, the author response typically shows only responses to the major concerns raised by the reviewers."
+    },
+    "annotation_649": {
+      "type": "link",
+      "id": "annotation_649",
+      "path": [
+        "paragraph_648",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        398,
+        412
+      ],
+      "url": "http://elife.elifesciences.org/review-process"
+    },
+    "paragraph_650": {
+      "type": "paragraph",
+      "id": "paragraph_650",
+      "content": "Thank you for sending your work entitled “Mechanism of ubiquitin ligation and lysine prioritization by a HECT E3” for consideration at eLife. Your article has been favorably peer reviewed by 3 reviewers, one of whom is a Senior editor."
+    },
+    "annotation_651": {
+      "type": "emphasis",
+      "id": "annotation_651",
+      "path": [
+        "paragraph_650",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        135,
+        140
+      ]
+    },
+    "paragraph_652": {
+      "type": "paragraph",
+      "id": "paragraph_652",
+      "content": "The Senior editor and the other reviewers discussed their comments before we reached this decision, and the Senior editor has assembled the following comments to help you prepare a revised submission."
+    },
+    "paragraph_653": {
+      "type": "paragraph",
+      "id": "paragraph_653",
+      "content": "Overall summary:"
+    },
+    "paragraph_654": {
+      "type": "paragraph",
+      "id": "paragraph_654",
+      "content": "This is a very interesting paper in which the authors dissect the mechanism of a HECT E3 ligase. Ubiquitylation is an essential posttranslational modification that controls many aspects of cellular behavior. HECT-type E3 ubiquitin ligases were the first E3s to be discovered, and they are known to play many important roles in cellular signaling. HECT-E3s often catalyze monoubiquitylation reactions, during which they specifically modify a lysine residue in a substrate with ubiquitin; alternatively, HECT-E3s are also able to decorate substrates with ubiquitin chains, requiring an initial modification of a substrate lysine and subsequent repetitive modification of specific ubiquitin lysine residues. How HECT-E3s catalyze transfer of ubiquitin to a lysine residue in the substrate has remained poorly understood."
+    },
+    "paragraph_655": {
+      "type": "paragraph",
+      "id": "paragraph_655",
+      "content": "Using the essential HECT-E3 Rsp5, Schulman and colleagues provide structural insight into this important reaction. By determining the Lys preference in Rps5-substrates, as well as by alanine scanning of most of the HECT-domain, they first provide convincing evidence that a specific orientation of N- and C-lobe, and the substrate-binding WW-domain of Rsp5 is important for ubiquitin transfer to the substrate. A key advance reported in the paper is the clever use of an artificial residue that was incorporated in the substrate peptide, replacing the lysine that is normally present. The artificial residue incorporated a dual-headed maleimide, which allowed simultaneous crosslinking of the Cys residue of the HECT E3 as well as the terminal residue of the ubiquitin. This allowed stabilization of the otherwise transient complex between the substrate and the charged E3, and crystallographic visualization of the complex."
+    },
+    "paragraph_656": {
+      "type": "paragraph",
+      "id": "paragraph_656",
+      "content": "Work from the Schulman lab had previously shown a HECT E3 to bind to E2∼Ub in a conformation that places the HECT active site cysteine far from the substrate binding site. The new structure reported here is dramatically different, and shows that the Rsp5 HECT E3 undergoes a dramatic conformational change that brings the C-lobe of the HECT E3 with bound ubiquitin into a position so that the HECT∼Ub thioester in the C-lobe is brought near to the bound Sna3 substrate."
+    },
+    "paragraph_657": {
+      "type": "paragraph",
+      "id": "paragraph_657",
+      "content": "The structural results provide nice confirmation of the conclusion reached by the authors using detailed biochemistry, which is that in contrast to the Cys-carrying C-lobe of the ligase being a completely flexible, it prefers a particular orientation with respect to lysine presented by the substrate. The model presented by the authors is that the HECT E2 switches between two states, one for charging by E2 and one for transferring the ubiquitin to the substrate. The structure determined by the authors shows that the docking of the substrate to a WW domain attached to the HECT domain places steric constraints on the distance of the ubiquitylated lysine from the WW docking site. This is consistent with their biochemical analysis, which shows that if the lysine is too close to the WW docking site then ubiquitylation is inefficient. The authors then validate their structure through multiple approaches, including the rescue of mutants in the C-lobe through mutation of opposing residues in the N-lobe, and using a point mutant equivalent to a key mutation in Angelman’s Syndrome, they underscore the medical relevance of their studies. The Lys residue modified in Sna3, as well as a loop in Rsp5 close to its active site were not resolved in their structure, so the authors used modeling approaches based on their structure to probe the orientation of these residues."
+    },
+    "paragraph_658": {
+      "type": "paragraph",
+      "id": "paragraph_658",
+      "content": "Major concerns:"
+    },
+    "paragraph_659": {
+      "type": "paragraph",
+      "id": "paragraph_659",
+      "content": "1) There is a serious concern that this paper might be unnecessarily difficult to read for people who are not experts in the ubiquitin field. This has to be fixed before the paper can be accepted. One indication of the problem faced by a general reader is the very short Introduction (two paragraphs) that falls short of setting the stage for the general reader. In addition to introducing the field and the principal question, the Introduction should bring the reader up to speed with the basic chemistry of the ubiqutinylation reactions. As it stands, the general reader will be lost by comments such as “the HECT domain forms a DTT-reducible thioester-linked intermediate” and the arguments made by the paper will be missed. The paper presents an enormous amount of data and digesting this could also obscure some of the most important results. The authors have chosen to present the mutagenesis data first and the structural results second. While the final presentation order should be as the authors think best, if they stick with this order then a properly written Introduction could help guide the reader through the results that follow. As currently written, the paper requires the reader to go back-and-forth to understand the logic."
+    },
+    "paragraph_660": {
+      "type": "paragraph",
+      "id": "paragraph_660",
+      "content": "2) The chemical trick used by the authors to trap the 3-way complex is both an asset and a potential pitfall of the structure. While perhaps unlikely, given all the mutagenesis data presented here, it is a potential caveat of analyzing crosslinked structures that the crosslink stabilizes an usually underpopulated conformation. It is indeed very interesting that the C-lobe undergoes such a large conformational change between charging by the E2 and transfer to the substrate, which is all the more surprising given how highly transient the HECT∼Ub intermediate is in the absence of substrate. The authors have a significant burden of proof since this artificial linkage could be what determines the relative position of the N- and C-lobe. Given this, all of the key data supporting the structural model should be integrated into the main text. For example, Figure 3–figure supplement 2 maps some of the alanine scanning mutants to the N-lobe-C-lobe interface and also shows the R501A/E502A experiment, which similarly addresses the validity of this interface. This figure should be in the main part of the paper as it really contains very important support for the model. Do the authors have data concerning the efficiency of the crosslink between the substrate peptide and Rsp5, and whether it mimics the Lys preference results (i.e., low efficiency if crosslink is attached to a residue within 9 amino acids from the ppxy motif)?"
+    },
+    "paragraph_661": {
+      "type": "paragraph",
+      "id": "paragraph_661",
+      "content": "3) Some of the mutant analysis was done with an assay using a large fusion protein consisting of MBP fused to the Sna3C peptide by a TEV cleavage site. The ubiquitinated substrate is then cleaved with TEV, which makes it possible to distinguish between Sna3 ubiquitination and MBP ubiquitination. What is the evidence that the surface mapped by the authors as contributing to HECT to substrate transfer (Figure 1–figure supplement 3) disrupt interactions with the C-lobe (i.e., support a conformational change) rather than with MBP (which would then not be relevant to a conformational change). A few of the alanine scan mutants were also assayed for diubiquitin formation (Figure 2—figure supplement 1), which seemed to give somewhat different results than the MBP fusion and suggest that the results are reporting as much on the substrate as on the HECT conformational change. These issues need clarification."
+    },
+    "annotation_662": {
+      "type": "superscript",
+      "id": "annotation_662",
+      "path": [
+        "paragraph_661",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        118,
+        119
+      ]
+    },
+    "figure_reference_663": {
+      "type": "figure_reference",
+      "id": "figure_reference_663",
+      "path": [
+        "paragraph_661",
+        "content"
+      ],
+      "target": "image_fig2s1",
+      "range": [
+        674,
+        702
+      ]
+    },
+    "paragraph_664": {
+      "type": "paragraph",
+      "id": "paragraph_664",
+      "content": "4) Rosetta was used to model the native complex based on the 3-way cross-linker. The discussion of the linkage to the active site, including statements about the rotamer of the catalytic cysteine, etc., are very detailed and more appropriate for a high-resolution crystal structure rather than modeling based on a moderate-resolution structure containing a chemical cross-linker. This part of the paper is not that critical – a more qualitative model would have sufficed.10.7554/eLife.00828.023"
+    },
+    "heading_665": {
+      "type": "heading",
+      "id": "heading_665",
+      "level": 2,
+      "content": "Author response",
+      "nodes": []
+    },
+    "paragraph_666": {
+      "type": "paragraph",
+      "id": "paragraph_666",
+      "content": "1) There is a serious concern that this paper might be unnecessarily difficult to read for people who are not experts in the ubiquitin field. This has to be fixed before the paper can be accepted. One indication of the problem faced by a general reader is the very short Introduction (two paragraphs) that falls short of setting the stage for the general reader. In addition to introducing the field and the principal question, the Introduction should bring the reader up to speed with the basic chemistry of the ubiqutinylation reactions. As it stands, the general reader will be lost by comments such as “the HECT domain forms a DTT-reducible thioester-linked intermediate” and the arguments made by the paper will be missed. The paper presents an enormous amount of data and digesting this could also obscure some of the most important results. The authors have chosen to present the mutagenesis data first and the structural results second. While the final presentation order should be as the authors think best, if they stick with this order then a properly written Introduction could help guide the reader through the results that follow. As currently written, the paper requires the reader to go back-and-forth to understand the logic."
+    },
+    "annotation_667": {
+      "type": "emphasis",
+      "id": "annotation_667",
+      "path": [
+        "paragraph_666",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        1241
+      ]
+    },
+    "paragraph_668": {
+      "type": "paragraph",
+      "id": "paragraph_668",
+      "content": "To address the review comments and improve the presentation of our work, we substantially rewrote the manuscript and improved the figures. For example:"
+    },
+    "paragraph_669": {
+      "type": "paragraph",
+      "id": "paragraph_669",
+      "content": "• Figure 1A now introduces the basic chemistry of the reactions for HECT E3s."
+    },
+    "figure_reference_670": {
+      "type": "figure_reference",
+      "id": "figure_reference_670",
+      "path": [
+        "paragraph_669",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        2,
+        11
+      ]
+    },
+    "paragraph_671": {
+      "type": "paragraph",
+      "id": "paragraph_671",
+      "content": "• We expanded the Introduction to six paragraphs, including (1) a general description of ubiquitin transfer cascades with a more broad discussion E3 enzymes and the chemical reaction they catalyze; (2) an introduction to the NEDD4 family of HECT E3s and Rsp5, in particular; and (3) the rationale behind choosing Rsp5 and Sna3 as a model system for studying HECT E3-substrate interactions."
+    },
+    "paragraph_672": {
+      "type": "paragraph",
+      "id": "paragraph_672",
+      "content": "• In describing the first ubiquitin ligation reactions, we more clearly explain the experiments and expectations. Examples of new sentences added for clarity are: “Thioester-linked intermediates were confirmed by their susceptibility to reduction by DTT (Figure 1—figure supplement 1). Complexes in which Ub was linked via an isopeptide bond via autoubiquitination of Rsp5 or to a lysine on Sna3C were not susceptible to reduction.” We also added more detailed explanations of how Ala scan and deletion mutagenesis results are interpreted."
+    },
+    "figure_reference_673": {
+      "type": "figure_reference",
+      "id": "figure_reference_673",
+      "path": [
+        "paragraph_672",
+        "content"
+      ],
+      "target": "image_fig1s1",
+      "range": [
+        255,
+        283
+      ]
+    },
+    "annotation_674": {
+      "type": "superscript",
+      "id": "annotation_674",
+      "path": [
+        "paragraph_672",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        395,
+        396
+      ]
+    },
+    "paragraph_675": {
+      "type": "paragraph",
+      "id": "paragraph_675",
+      "content": "• For clarity, we also moved the linker deletion mutational data to the end of the manuscript."
+    },
+    "paragraph_676": {
+      "type": "paragraph",
+      "id": "paragraph_676",
+      "content": "2) The chemical trick used by the authors to trap the 3-way complex is both an asset and a potential pitfall of the structure. While perhaps unlikely, given all the mutagenesis data presented here, it is a potential caveat of analyzing crosslinked structures that the crosslink stabilizes an usually underpopulated conformation. It is indeed very interesting that the C-lobe undergoes such a large conformational change between charging by the E2 and transfer to the substrate, which is all the more surprising given how highly transient the HECT∼Ub intermediate is in the absence of substrate. The authors have a significant burden of proof since this artificial linkage could be what determines the relative position of the N- and C-lobe. Given this, all of the key data supporting the structural model should be integrated into the main text. For example, Figure 3–figure supplement 2 maps some of the alanine scanning mutants to the N-lobe-C-lobe interface and also shows the R501A/E502A experiment, which similarly addresses the validity of this interface. This figure should be in the main part of the paper as it really contains very important support for the model. Do the authors have data concerning the efficiency of the crosslink between the substrate peptide and Rsp5, and whether it mimics the Lys preference results (i.e., low efficiency if crosslink is attached to a residue within 9 amino acids from the ppxy motif)?"
+    },
+    "annotation_677": {
+      "type": "emphasis",
+      "id": "annotation_677",
+      "path": [
+        "paragraph_676",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        1432
+      ]
+    },
+    "paragraph_678": {
+      "type": "paragraph",
+      "id": "paragraph_678",
+      "content": "We substantially rearranged our description of the mutational data supporting the active conformation. In particular, we describe the effects of the R501A/E502A and R559A/R560A/F561A mutants from the Ala scan in the main text. Additional data validating this interface include in vitro and in vivo compensation of the F806L mutation in the C-lobe with a complementary L506F mutation in the N-lobe. We do not have data concerning crosslinking efficiency."
+    },
+    "paragraph_679": {
+      "type": "paragraph",
+      "id": "paragraph_679",
+      "content": "3) Some of the mutant analysis was done with an assay using a large fusion protein consisting of MBP fused to the Sna3C peptide by a TEV cleavage site. The ubiquitinated substrate is then cleaved with TEV, which makes it possible to distinguish between Sna3 ubiquitination and MBP ubiquitination. What is the evidence that the surface mapped by the authors as contributing to HECT to substrate transfer (Figure 1–figure supplement 3) disrupt interactions with the C-lobe (i.e., support a conformational change) rather than with MBP (which would then not be relevant to a conformational change). A few of the alanine scan mutants were also assayed for diubiquitin formation (Figure 2—figure supplement 12013-06-20), which seemed to give somewhat different results than the MBP fusion and suggest that the results are reporting as much on the substrate as on the HECT conformational change. These issues need clarification."
+    },
+    "annotation_680": {
+      "type": "emphasis",
+      "id": "annotation_680",
+      "path": [
+        "paragraph_679",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        118
+      ]
+    },
+    "annotation_681": {
+      "type": "emphasis",
+      "id": "annotation_681",
+      "path": [
+        "paragraph_679",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        118,
+        119
+      ]
+    },
+    "annotation_682": {
+      "type": "superscript",
+      "id": "annotation_682",
+      "path": [
+        "paragraph_679",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        118,
+        119
+      ]
+    },
+    "annotation_683": {
+      "type": "emphasis",
+      "id": "annotation_683",
+      "path": [
+        "paragraph_679",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        120,
+        674
+      ]
+    },
+    "annotation_684": {
+      "type": "emphasis",
+      "id": "annotation_684",
+      "path": [
+        "paragraph_679",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        674,
+        702
+      ]
+    },
+    "annotation_685": {
+      "type": "emphasis",
+      "id": "annotation_685",
+      "path": [
+        "paragraph_679",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        712,
+        920
+      ]
+    },
+    "paragraph_686": {
+      "type": "paragraph",
+      "id": "paragraph_686",
+      "content": "We are very sorry that our initial description of the assays was confusing. We made several changes for clarity. First, the Ala scan was done with a peptide substrate. MBP-fusions were not used in these assays. Thus, MBP did not impact the conclusions from these assays. We now show a schematic view of the assays with peptide substrates in Figure 1. Second, the MBP fusion is only used in the substrate selection assay. We recognize that describing this assay first, as in the original manuscript, was confusing. In the revision, the substrate selection is the last assay presented. We hope the new position for this assay will alleviate confusion. Third, for ease of comparison, we decided to complete testing the entire panel of Ala mutants in the di-Ub synthesis assay, and to include the data in the main text as Figure 8. This allows the reader to make a more direct comparison of the bar graphs in the different figures. The conclusions remain the same with the full suite of mutants."
+    },
+    "figure_reference_687": {
+      "type": "figure_reference",
+      "id": "figure_reference_687",
+      "path": [
+        "paragraph_686",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        341,
+        349
+      ]
+    },
+    "annotation_688": {
+      "type": "emphasis",
+      "id": "annotation_688",
+      "path": [
+        "paragraph_686",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        377,
+        381
+      ]
+    },
+    "figure_reference_689": {
+      "type": "figure_reference",
+      "id": "figure_reference_689",
+      "path": [
+        "paragraph_686",
+        "content"
+      ],
+      "target": "image_fig8",
+      "range": [
+        818,
+        826
+      ]
+    },
+    "paragraph_690": {
+      "type": "paragraph",
+      "id": "paragraph_690",
+      "content": "4) Rosetta was used to model the native complex based on the 3-way cross-linker. The discussion of the linkage to the active site, including statements about the rotamer of the catalytic cysteine, etc., are very detailed and more appropriate for a high-resolution crystal structure rather than modeling based on a moderate-resolution structure containing a chemical cross-linker. This part of the paper is not that critical – a more qualitative model would have sufficed."
+    },
+    "annotation_691": {
+      "type": "emphasis",
+      "id": "annotation_691",
+      "path": [
+        "paragraph_690",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        470
+      ]
+    },
+    "paragraph_692": {
+      "type": "paragraph",
+      "id": "paragraph_692",
+      "content": "We appreciate the concerns of the reviewers. In response to the suggestions, we revised the section entitled “A composite HECT domain catalytic center involving both HECT C-lobe and N-lobe” to address the concerns and to improve readability. Nonetheless, we do believe it is appropriate to include atomic-level detail in the modeled figures. We took great care to reproduce an atomic-level accurate model of the thioester linked Ub tail and, to our knowledge, this is the most accurate snapshot of the E3 ligase poised to transfer Ub to a substrate lysine. Additionally, the strategy outlined in this manuscript is generalizable and robust. The accuracy of our prediction is underscored by the striking similarity to a disulfide-Ub linked NEDD4 that was recently reported while this paper was in revision (Maspero et al., Nat. Struct. Mol. Biol. 20: 696–701, 2013; Author response image 1)."
+    },
+    "figure_reference_693": {
+      "type": "figure_reference",
+      "id": "figure_reference_693",
+      "path": [
+        "paragraph_692",
+        "content"
+      ],
+      "target": "image_fig18",
+      "range": [
+        865,
+        888
+      ]
+    },
+    "image_fig18": {
+      "type": "image",
+      "id": "image_fig18",
+      "label": "Author response image 1.",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00828/svg/elife00828f018.svg",
+      "title": "Overlay of modeled thioester conjugated tail with recently disulfide conjugated Ub to NEDD4 (4BBN).",
+      "caption": "paragraph_image_fig18",
+      "graphic_id": "elife00828f018",
+      "format": "image"
+    },
+    "paragraph_image_fig18": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig18",
+      "content": "A Rosetta model is depicted in pink, the Rsp5xUbXSna3C structure is green, and the disulfide chemical surrogate is colored grey. The Rosetta model provides near atomic-level accuracy of the thioester conjugated Ub tail. The similarities between the structure and the model strongly support the position of the acceptor lysine."
     }
   }
 }

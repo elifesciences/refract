@@ -53,7 +53,38 @@
         "heading_s3-7",
         "paragraph_189",
         "sub-article",
-        "sub-article"
+        "heading_195",
+        "paragraph_196",
+        "paragraph_198",
+        "paragraph_200",
+        "paragraph_201",
+        "paragraph_202",
+        "paragraph_203",
+        "paragraph_204",
+        "paragraph_205",
+        "paragraph_206",
+        "paragraph_207",
+        "paragraph_208",
+        "sub-article",
+        "heading_209",
+        "paragraph_210",
+        "paragraph_212",
+        "paragraph_216",
+        "paragraph_218",
+        "paragraph_220",
+        "paragraph_221",
+        "paragraph_223",
+        "paragraph_224",
+        "paragraph_225",
+        "paragraph_227",
+        "paragraph_228",
+        "paragraph_229",
+        "paragraph_231",
+        "paragraph_232",
+        "paragraph_234",
+        "paragraph_235",
+        "paragraph_237",
+        "paragraph_238"
       ]
     },
     "figures": {
@@ -252,7 +283,7 @@
     "paragraph_2": {
       "type": "paragraph",
       "id": "paragraph_2",
-      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited.10.7554/eLife.00863.001"
+      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited."
     },
     "annotation_3": {
       "type": "link",
@@ -283,7 +314,7 @@
     "paragraph_5": {
       "type": "paragraph",
       "id": "paragraph_5",
-      "content": "DOI: http://dx.doi.org/10.7554/eLife.00863.00110.7554/eLife.00863.002"
+      "content": "DOI: http://dx.doi.org/10.7554/eLife.00863.001"
     },
     "annotation_6": {
       "type": "strong",
@@ -3892,6 +3923,374 @@
       "level": 1,
       "content": "Article Commentary",
       "nodes": []
+    },
+    "heading_195": {
+      "type": "heading",
+      "id": "heading_195",
+      "level": 2,
+      "content": "Decision letter",
+      "nodes": []
+    },
+    "paragraph_196": {
+      "type": "paragraph",
+      "id": "paragraph_196",
+      "content": "eLife posts the editorial decision letter and author response on a selection of the published articles (subject to the approval of the authors). An edited version of the letter sent to the authors after peer review is shown, indicating the substantive concerns or comments; minor concerns are not usually shown. Reviewers have the opportunity to discuss the decision before the letter is sent (see review process). Similarly, the author response typically shows only responses to the major concerns raised by the reviewers."
+    },
+    "annotation_197": {
+      "type": "link",
+      "id": "annotation_197",
+      "path": [
+        "paragraph_196",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        398,
+        412
+      ],
+      "url": "http://elife.elifesciences.org/review-process"
+    },
+    "paragraph_198": {
+      "type": "paragraph",
+      "id": "paragraph_198",
+      "content": "Thank you for sending your work entitled “ATP-dependent Chromatin Assembly Is Functionally Distinct from Chromatin Remodeling” for consideration at eLife. Your article has been favorably evaluated by a Senior editor and 3 reviewers, one of whom is a member of our Board of Reviewing Editors."
+    },
+    "annotation_199": {
+      "type": "emphasis",
+      "id": "annotation_199",
+      "path": [
+        "paragraph_198",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        148,
+        153
+      ]
+    },
+    "paragraph_200": {
+      "type": "paragraph",
+      "id": "paragraph_200",
+      "content": "The Reviewing editor and the other two reviewers discussed their comments before we reached a decision, and the Reviewing editor has assembled the following comments to help you prepare a revised submission."
+    },
+    "paragraph_201": {
+      "type": "paragraph",
+      "id": "paragraph_201",
+      "content": "We believe the work will advance the field and thus we invite you to resubmit a revised manuscript addressing the following issues:"
+    },
+    "paragraph_202": {
+      "type": "paragraph",
+      "id": "paragraph_202",
+      "content": "Though the Chd1 Δ932-940 and W932A mutants are capable of hydrolyzing ATP, they essentially function as ‘histone chaperones’ of a sort since they are defective for chromatin remodeling. However, the authors suggest that ATP accentuates Chd1 chromatin assembly in these mutants, yet these assays include the NAP1 histone chaperone. In spite of having BRG1 as a control, the idea that the chromatin assembly function of CHD1 by itself requires ATP may need further verification. Though careful titration of histones would be needed, would the absence of NAP1 in the actual Chd1 chromatin assembly assays still result in higher chromatin assembly levels in the presence of ATP? Would the levels still be different between the wild-type and mutant proteins? What if these mutants were combined with ATPase-defective mutations? Would any chromatin assembly be observed if NAP1 is not present? The usage of ATP could really differentiate the chromatin assembly mechanisms per se of ATP-dependent chromatin remodelers and histone chaperones, and the question is therefore important."
+    },
+    "paragraph_203": {
+      "type": "paragraph",
+      "id": "paragraph_203",
+      "content": "Additionally, nucleosome assembly is monitored solely by the change in negative supercoiling in 1D gels. Thus, it is not clear how many nucleosomes are being assembled in these reactions. Typically 2D gels are the gold standard for assembly reactions, and if a 2D gel system was used, the authors could actually quantify the number of nucleosomes/nM Chd1/min; numbers that are more informative and accurate."
+    },
+    "paragraph_204": {
+      "type": "paragraph",
+      "id": "paragraph_204",
+      "content": "With the exception of the 1D supercoiling analysis, there is little evidence that the altered Chd1 is actually assembling nucleosomes. In the MNase digestion assays, there is virtually no difference in the MNase ladders -/+ Chd1. It looks like chaperone by itself. In fact, in some cases the chaperone only lanes produce fairly good tri-nucleosome arrays. Even with Chd1, there is quite a bit of subnucleosomal product generated at fairly low MNase concentrations. The authors should present a longer MNase digestion series until the limit digest is observed."
+    },
+    "paragraph_205": {
+      "type": "paragraph",
+      "id": "paragraph_205",
+      "content": "[Editors’ note: the authors requested clarification from the editors, which is shown below.]"
+    },
+    "paragraph_206": {
+      "type": "paragraph",
+      "id": "paragraph_206",
+      "content": "1) First, the manuscript (and title) seem to imply at times that CHD1 alone has chromatin assembly functions, hence comment 1. The authors should simply emphasize throughout the text that the CHD1 chromatin assembly function requires a histone chaperone and cannot be performed in vitro by CHD1 alone. With that information in mind, it will be pointless for them to repeat CHD1 chromatin assembly with mutant CHD1."
+    },
+    "paragraph_207": {
+      "type": "paragraph",
+      "id": "paragraph_207",
+      "content": "2) Regarding the information garnered from 1D vs. 2D gels. Though 2D gels may provide more information, you are right in saying it is unlikely to change the conclusion of this manuscript. It may however help with the following comment."
+    },
+    "paragraph_208": {
+      "type": "paragraph",
+      "id": "paragraph_208",
+      "content": "3) Unfortunately, the reviewer is correct in stating that the main evidence suggesting chromatin assembly in mutant CHD1 solely relies on the DNA supercoiling analyses. Though technically challenging, a second technique unambiguously concluding the same therefore remains high desirable.10.7554/eLife.00863.013"
+    },
+    "heading_209": {
+      "type": "heading",
+      "id": "heading_209",
+      "level": 2,
+      "content": "Author response",
+      "nodes": []
+    },
+    "paragraph_210": {
+      "type": "paragraph",
+      "id": "paragraph_210",
+      "content": "Though the Chd1 Δ932-940 and W932A mutants are capable of hydrolyzing ATP, they essentially function as ‘histone chaperones’ of a sort since they are defective for chromatin remodeling. However, the authors suggest that ATP accentuates Chd1 chromatin assembly in these mutants, yet these assays include the NAP1 histone chaperone. In spite of having BRG1 as a control, the idea that the chromatin assembly function of CHD1 by itself requires ATP may need further verification. Though careful titration of histones would be needed, would the absence of NAP1 in the actual Chd1 chromatin assembly assays still result in higher chromatin assembly levels in the presence of ATP? Would the levels still be different between the wild-type and mutant proteins? What if these mutants were combined with ATPase-defective mutations? Would any chromatin assembly be observed if NAP1 is not present?"
+    },
+    "annotation_211": {
+      "type": "emphasis",
+      "id": "annotation_211",
+      "path": [
+        "paragraph_210",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        886
+      ]
+    },
+    "paragraph_212": {
+      "type": "paragraph",
+      "id": "paragraph_212",
+      "content": "Our interpretation of these comments is that we need to test the NAP-independent chromatin assembly function of Chd1 in the presence or absence of both ATP and NAP1. With regard to this point, I should mention that we did publish the chromatin assembly activity of wild-type Drosophila Chd1 by itself (no NAP1) in Lusser et al., (2005) [attached; see Figures 2 and 4]. We found that wild-type Chd1 does not exhibit chromatin assembly activity without NAP1, even in the presence of ATP. We can repeat the same experiments with the mutant Chd1 proteins in the absence vs. presence of NAP1 and ATP, if desired. Given, however, that the wild-type protein lacks any detectable chromatin assembly activity in the absence of NAP1, it does seem unlikely that the mutant proteins will somehow have gained this activity. Nevertheless, if the reviewers wish for us to perform this experiment, we will."
+    },
+    "annotation_213": {
+      "type": "emphasis",
+      "id": "annotation_213",
+      "path": [
+        "paragraph_212",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        275,
+        285
+      ]
+    },
+    "citation_reference_214": {
+      "type": "citation_reference",
+      "id": "citation_reference_214",
+      "path": [
+        "paragraph_212",
+        "content"
+      ],
+      "target": "article_citation_bib24",
+      "range": [
+        314,
+        335
+      ]
+    },
+    "figure_reference_215": {
+      "type": "figure_reference",
+      "id": "figure_reference_215",
+      "path": [
+        "paragraph_212",
+        "content"
+      ],
+      "target": "image_fig2",
+      "range": [
+        351,
+        366
+      ]
+    },
+    "paragraph_216": {
+      "type": "paragraph",
+      "id": "paragraph_216",
+      "content": "The usage of ATP could really differentiate the chromatin assembly mechanisms of ATP-dependent chromatin remodelers and histone chaperones, and the question is therefore important."
+    },
+    "annotation_217": {
+      "type": "emphasis",
+      "id": "annotation_217",
+      "path": [
+        "paragraph_216",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        179
+      ]
+    },
+    "paragraph_218": {
+      "type": "paragraph",
+      "id": "paragraph_218",
+      "content": "Since we have previously shown that Chd1 alone (no NAP1) does not assemble chromatin (Lusser et al., 2005), doesn't that already demonstrate a difference between the ATP-dependent motor proteins and histone chaperones? Also, in the present manuscript, we demonstrated the ATP dependence of Chd1 function by the use of ATP vs. AMP-PMP."
+    },
+    "citation_reference_219": {
+      "type": "citation_reference",
+      "id": "citation_reference_219",
+      "path": [
+        "paragraph_218",
+        "content"
+      ],
+      "target": "article_citation_bib24",
+      "range": [
+        86,
+        105
+      ]
+    },
+    "paragraph_220": {
+      "type": "paragraph",
+      "id": "paragraph_220",
+      "content": "The main point of this paper is that ATP-dependent chromatin assembly is functionally distinct from ATP-dependent chromatin remodeling, as in the title. In addition, wild-type Chd1 by itself (no NAP1) does not assemble chromatin in the presence of ATP. Therefore, it is difficult to see how characterization of the ATP-dependence of the wild-type and mutant Chd1 proteins by themselves (no NAP1) would affect the conclusion of this work. Perhaps some clarification would be useful here."
+    },
+    "paragraph_221": {
+      "type": "paragraph",
+      "id": "paragraph_221",
+      "content": "Additionally, nucleosome assembly is monitored solely by the change in negative supercoiling in 1D gels. Thus, it is not clear how many nucleosomes are being assembled in these reactions. Typically 2D gels are the gold standard for assembly reactions, and if a 2D gel system was used, the authors could actually quantify the number of nucleosomes/nM Chd1/min; numbers that are more informative and accurate."
+    },
+    "annotation_222": {
+      "type": "emphasis",
+      "id": "annotation_222",
+      "path": [
+        "paragraph_221",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        406
+      ]
+    },
+    "paragraph_223": {
+      "type": "paragraph",
+      "id": "paragraph_223",
+      "content": "Over the past 24 years, we have used 2D gels on many occasions in other papers to analyze the properties of chromatin with up to four samples at a time (but typically just one or two samples). Given the limit of about four samples per gel, we would need to run samples in one series of experiments on multiple different gels. It would be difficult and essentially impossible to obtain reliable data for the comparison of different samples on different gels. Even within a single 2D gel there can be some variations due to the relatively long distances the DNA samples travel in two different dimensions. In other words, it just doesn't seem realistic or feasible to run all of the supercoiling samples on 2D gels. In our experience, we can generate the most consistent and reliable data for the comparison of a series of multiple samples with 1D gels. If our experiments had involved the quantitative analysis of two or three samples, we would have used 2D gels as we have in the past. In other words, while 2D gels can provide information on the relative amounts of differently supercoiled species of a plasmid, we do not recommend their use in the comparative analysis of a series of samples."
+    },
+    "paragraph_224": {
+      "type": "paragraph",
+      "id": "paragraph_224",
+      "content": "If we did the 2D gels, we might get different numbers, but I would not be confident that they would be more accurate or more informative. In addition, I do not really see how obtaining the data in units of number of nucleosomes/nM Chd1/min will change the conclusions of this paper."
+    },
+    "paragraph_225": {
+      "type": "paragraph",
+      "id": "paragraph_225",
+      "content": "With the exception of the 1D supercoiling analysis, there is little evidence that the altered Chd1 is actually assembling nucleosomes. In the MNase digestion assays, there is virtually no difference in the ladders -/+ Chd1. It looks like chaperone by itself. In fact, in some cases the chaperone only lanes produce fairly good tri-nucleosome arrays. Even with Chd1, there is quite a bit of subnucleosomal product generated at fairly low MNase concentrations. The authors should present a longer MNase digestion series until the limit digest is observed."
+    },
+    "annotation_226": {
+      "type": "emphasis",
+      "id": "annotation_226",
+      "path": [
+        "paragraph_225",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        552
+      ]
+    },
+    "paragraph_227": {
+      "type": "paragraph",
+      "id": "paragraph_227",
+      "content": "To test this idea, we performed a series of experiments with higher MNase concentrations. We found, however, that we were not able to obtain small chromatin fragments at the high concentrations of mutant Chd1 proteins used (e.g., the Chd1 might be binding to the DNA and inhibiting nucleases). Hence, in this specific case, we have carried out the experiments but were not able to obtain unambiguous data."
+    },
+    "paragraph_228": {
+      "type": "paragraph",
+      "id": "paragraph_228",
+      "content": "[Editors’ note: the authors requested clarification from the editors, which is shown below.]"
+    },
+    "paragraph_229": {
+      "type": "paragraph",
+      "id": "paragraph_229",
+      "content": "1) First, the manuscript (and title) seem to imply at times that CHD1 alone has chromatin assembly functions, hence comment 1. The authors should simply emphasize throughout the text that the CHD1 chromatin assembly function requires a histone chaperone and cannot be performed in vitro by CHD1 alone. With that information in mind, it will be pointless for them to repeat CHD1 chromatin assembly with mutant CHD1.”"
+    },
+    "annotation_230": {
+      "type": "emphasis",
+      "id": "annotation_230",
+      "path": [
+        "paragraph_229",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        414
+      ]
+    },
+    "paragraph_231": {
+      "type": "paragraph",
+      "id": "paragraph_231",
+      "content": "The revised manuscript now clearly indicates that chromatin assembly by Chd1 requires a histone chaperone and that Chd1 alone cannot assemble chromatin. The emphasis of this point will essentially eliminate any misunderstanding of the properties of Chd1 in the absence of a histone chaperone."
+    },
+    "paragraph_232": {
+      "type": "paragraph",
+      "id": "paragraph_232",
+      "content": "2) Regarding the information garnered from 1D vs. 2D gels. Though 2D gels may provide more information, you are right in saying it is unlikely to change the conclusion of this manuscript. It may however help with the following comment.”"
+    },
+    "annotation_233": {
+      "type": "emphasis",
+      "id": "annotation_233",
+      "path": [
+        "paragraph_232",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        235
+      ]
+    },
+    "paragraph_234": {
+      "type": "paragraph",
+      "id": "paragraph_234",
+      "content": "Yes, we agree that it is unlikely that the addition of 2D gel data would change the conclusions of this manuscript. We further note that 2D gels are large and unwieldy. The use of 2D gels in this study would require the direct comparison of data from multiple independent gels, and it is questionable whether quantitative data from separate gels could be compared in a meaningful manner. For this study, we felt that it would be best to compare multiple 1D gel samples that are run in parallel on the same gel."
+    },
+    "paragraph_235": {
+      "type": "paragraph",
+      "id": "paragraph_235",
+      "content": "3) Unfortunately, the reviewer is correct in stating that the main evidence suggesting chromatin assembly in mutant CHD1 solely relies on the DNA supercoiling analyses. Though technically challenging, a second technique unambiguously concluding the same therefore remains high desirable."
+    },
+    "annotation_236": {
+      "type": "emphasis",
+      "id": "annotation_236",
+      "path": [
+        "paragraph_235",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        3,
+        286
+      ]
+    },
+    "paragraph_237": {
+      "type": "paragraph",
+      "id": "paragraph_237",
+      "content": "We have successfully addressed this point. The editors indicated the desirability of demonstrating nucleosome assembly by the mutant Chd1 proteins by using a technique other than the DNA supercoiling assay."
+    },
+    "paragraph_238": {
+      "type": "paragraph",
+      "id": "paragraph_238",
+      "content": "To this end, we performed parallel chromatin assembly reactions with wild-type or mutant Chd1 proteins, digested the reaction products extensively with micrococcal nuclease, and then analyzed the resulting DNA fragments (new Figure 1D) and chromatin particles (new Figure 1E). As shown in the new Figure 1E, we observed ATP-dependent stimulation of the formation of core particles by both wild-type and mutant Chd1 proteins. Hence, we now have used two different assays to provide evidence of nucleosome assembly by the mutant Chd1 proteins."
+    },
+    "figure_reference_239": {
+      "type": "figure_reference",
+      "id": "figure_reference_239",
+      "path": [
+        "paragraph_238",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        225,
+        234
+      ]
+    },
+    "figure_reference_240": {
+      "type": "figure_reference",
+      "id": "figure_reference_240",
+      "path": [
+        "paragraph_238",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        265,
+        274
+      ]
+    },
+    "figure_reference_241": {
+      "type": "figure_reference",
+      "id": "figure_reference_241",
+      "path": [
+        "paragraph_238",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        297,
+        306
+      ]
     }
   }
 }

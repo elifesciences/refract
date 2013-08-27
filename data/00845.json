@@ -42,7 +42,28 @@
         "heading_s4-2",
         "paragraph_251",
         "sub-article",
-        "sub-article"
+        "heading_261",
+        "paragraph_262",
+        "paragraph_264",
+        "paragraph_266",
+        "paragraph_267",
+        "paragraph_269",
+        "paragraph_270",
+        "paragraph_272",
+        "paragraph_273",
+        "paragraph_274",
+        "sub-article",
+        "heading_275",
+        "paragraph_276",
+        "paragraph_280",
+        "paragraph_281",
+        "paragraph_282",
+        "paragraph_283",
+        "paragraph_286",
+        "paragraph_288",
+        "paragraph_290",
+        "paragraph_292",
+        "paragraph_294"
       ]
     },
     "figures": {
@@ -269,7 +290,7 @@
     "paragraph_2": {
       "type": "paragraph",
       "id": "paragraph_2",
-      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited.10.7554/eLife.00845.001"
+      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited."
     },
     "annotation_3": {
       "type": "link",
@@ -300,7 +321,7 @@
     "paragraph_5": {
       "type": "paragraph",
       "id": "paragraph_5",
-      "content": "DOI: http://dx.doi.org/10.7554/eLife.00845.00110.7554/eLife.00845.002"
+      "content": "DOI: http://dx.doi.org/10.7554/eLife.00845.001"
     },
     "annotation_6": {
       "type": "strong",
@@ -5076,6 +5097,298 @@
       "level": 1,
       "content": "Article Commentary",
       "nodes": []
+    },
+    "heading_261": {
+      "type": "heading",
+      "id": "heading_261",
+      "level": 2,
+      "content": "Decision letter",
+      "nodes": []
+    },
+    "paragraph_262": {
+      "type": "paragraph",
+      "id": "paragraph_262",
+      "content": "eLife posts the editorial decision letter and author response on a selection of the published articles (subject to the approval of the authors). An edited version of the letter sent to the authors after peer review is shown, indicating the substantive concerns or comments; minor concerns are not usually shown. Reviewers have the opportunity to discuss the decision before the letter is sent (see review process). Similarly, the author response typically shows only responses to the major concerns raised by the reviewers."
+    },
+    "annotation_263": {
+      "type": "link",
+      "id": "annotation_263",
+      "path": [
+        "paragraph_262",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        398,
+        412
+      ],
+      "url": "http://elife.elifesciences.org/review-process"
+    },
+    "paragraph_264": {
+      "type": "paragraph",
+      "id": "paragraph_264",
+      "content": "Thank you for sending your work entitled “Dynamin phosphorylation controls optmization of endocytosis for brief action potential bursts” for consideration at eLife. Your article has been favorably evaluated by a Senior editor and 3 reviewers, one of whom, Graeme Davis, is a member of our Board of Reviewing Editors."
+    },
+    "annotation_265": {
+      "type": "emphasis",
+      "id": "annotation_265",
+      "path": [
+        "paragraph_264",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        158,
+        163
+      ]
+    },
+    "paragraph_266": {
+      "type": "paragraph",
+      "id": "paragraph_266",
+      "content": "The Reviewing editor and the other reviewers discussed their comments before we reached this decision, and the Reviewing editor has assembled the following comments to help you prepare a revised submission."
+    },
+    "paragraph_267": {
+      "type": "paragraph",
+      "id": "paragraph_267",
+      "content": "The paper by Armbruster et al. focuses on the kinetics of synaptic vesicle endocytosis at the nerve terminal. This is an important biological problem and the present paper reports on a new cellular/molecular mechanism by which synaptic vesicle endocytosis is accelerated in an activity-dependent manner. The approach to study endocytosis by following VGluT1-pHluorin fluorescence has been validated and is powerful. The study should appeal to the broad readership of eLife."
+    },
+    "annotation_268": {
+      "type": "emphasis",
+      "id": "annotation_268",
+      "path": [
+        "paragraph_267",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        467,
+        472
+      ]
+    },
+    "paragraph_269": {
+      "type": "paragraph",
+      "id": "paragraph_269",
+      "content": "Major comments:"
+    },
+    "paragraph_270": {
+      "type": "paragraph",
+      "id": "paragraph_270",
+      "content": "1) The authors employ a powerful strategy of transgene expression in a dynamin knockout background. As a control, it is important to determine whether or not the KO of dynamin 1 itself affects the observed acceleration of endocytosis rates (e.g., please add data on WT and dynamin 1 KO to Figure 4C)."
+    },
+    "figure_reference_271": {
+      "type": "figure_reference",
+      "id": "figure_reference_271",
+      "path": [
+        "paragraph_270",
+        "content"
+      ],
+      "target": "image_fig4",
+      "range": [
+        289,
+        298
+      ]
+    },
+    "paragraph_272": {
+      "type": "paragraph",
+      "id": "paragraph_272",
+      "content": "2) The authors probe the consequences of altered stimulus number. The effect of stimulation frequency should be addressed. For example, does one see acceleration for 25APs at 40Hz vs. 100 APs at 40Hz?"
+    },
+    "paragraph_273": {
+      "type": "paragraph",
+      "id": "paragraph_273",
+      "content": "3) There has been debate among the reviewers regarding whether it is necessary to show an effect on short-term synaptic plasticity. As highlighted by the authors in the Introduction, an implication of altered endocytic rate is that it will impact the dynamics of short-term synaptic release properties. However, the reviewers acknowledge that this study focuses on endocytic mechanisms, and that future studies will be necessary to explore the impact on short-term synaptic plasticity. In particular, determining the precise contribution of changing endocytic rate to short-term release dynamics will not be trivial, in part because it will be necessary to dissociate the effects of altered endocytic rate from other influences on release dynamics including calcium dynamics and vesicle pool dynamics. As such, this is best left to a future study."
+    },
+    "paragraph_274": {
+      "type": "paragraph",
+      "id": "paragraph_274",
+      "content": "However, it does seem appropriate to include more explicit control data regarding basic properties of synaptic vesicle release that could be understood from existing pHluorin experiments in the existing experimental system. This should be done to control for effects on gross neurotransmitter release and/or pool sizes in the wild type and transgenic rescue experiments. Please show this information for neurons expressing WT dynamin 1, phosphomimetic dynamin 1, and phosphorylation-deficient dynamin 1.10.7554/eLife.00845.011"
+    },
+    "heading_275": {
+      "type": "heading",
+      "id": "heading_275",
+      "level": 2,
+      "content": "Author response",
+      "nodes": []
+    },
+    "paragraph_276": {
+      "type": "paragraph",
+      "id": "paragraph_276",
+      "content": "1) The authors employ a powerful strategy of transgene expression in a dynamin knockout background. As a control, it is important to determine whether or not the KO of dynamin 1 itself affects the observed acceleration of endocytosis rates (e.g., please add data on WT and dynamin 1 KO to Figure 4C2013-06-24)."
+    },
+    "annotation_277": {
+      "type": "emphasis",
+      "id": "annotation_277",
+      "path": [
+        "paragraph_276",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        288
+      ]
+    },
+    "annotation_278": {
+      "type": "emphasis",
+      "id": "annotation_278",
+      "path": [
+        "paragraph_276",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        289,
+        298
+      ]
+    },
+    "annotation_279": {
+      "type": "emphasis",
+      "id": "annotation_279",
+      "path": [
+        "paragraph_276",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        308,
+        309
+      ]
+    },
+    "paragraph_280": {
+      "type": "paragraph",
+      "id": "paragraph_280",
+      "content": "Our reasoning for using the dynamin 1/3 KO as the background in which we would reintroduce mutant dynamins is based on the following:"
+    },
+    "paragraph_281": {
+      "type": "paragraph",
+      "id": "paragraph_281",
+      "content": "A) The single dynamin 1 KO had a remarkably subtle phenotype (Ferguson et al. Science 2007; Raimondi et al Neuron 2011) owing to the fact that there is sufficient dynamin 3 to allow normal endocytosis. Only upon removal of forms does one see a significant impact on endocytosis."
+    },
+    "paragraph_282": {
+      "type": "paragraph",
+      "id": "paragraph_282",
+      "content": "B) While less well characterized, dynamin 3 also contains a similar phospho-box motif as dynamin 1 (Larsen et al. Mol. Cell Proteomics 2004). As a result we felt that any result that would be obtained in the dynamin-1 KO would be difficult to interpret until the phosphorylation cycle of dynamin 3 has been better characterized. We have attempted to clarify this in the text."
+    },
+    "paragraph_283": {
+      "type": "paragraph",
+      "id": "paragraph_283",
+      "content": "Regarding including control data in Figure 4C: we have made many versions of this figure trying to decide what to include. While we agree with the reviewers’ suggestion that is would enhance the comparison, visually it makes it difficult with all 4 overlapping traces. Since the control trace is already included in Figure 4B, we have left it unchanged."
+    },
+    "figure_reference_284": {
+      "type": "figure_reference",
+      "id": "figure_reference_284",
+      "path": [
+        "paragraph_283",
+        "content"
+      ],
+      "target": "image_fig4",
+      "range": [
+        36,
+        45
+      ]
+    },
+    "figure_reference_285": {
+      "type": "figure_reference",
+      "id": "figure_reference_285",
+      "path": [
+        "paragraph_283",
+        "content"
+      ],
+      "target": "image_fig4",
+      "range": [
+        316,
+        325
+      ]
+    },
+    "paragraph_286": {
+      "type": "paragraph",
+      "id": "paragraph_286",
+      "content": "2) The authors probe the consequences of altered stimulus number. The effect of stimulation frequency should be addressed. For example, does one see acceleration for 25APs at 40Hz vs. 100 APs at 40Hz?"
+    },
+    "annotation_287": {
+      "type": "emphasis",
+      "id": "annotation_287",
+      "path": [
+        "paragraph_286",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        199
+      ]
+    },
+    "paragraph_288": {
+      "type": "paragraph",
+      "id": "paragraph_288",
+      "content": "We have now included a dataset for 30 Hz stimulation. As expected this condition shifts the minimum endocytosis time to smaller stimuli and makes it difficult to resolve, similar to what happened at lower temperatures. This endocytosis curve (10,15,25,50,100AP) at 30Hz is included in Figure 2–figure supplement 2. The acceleration is clearly present when compared to the 1AP time constant; however, the minimum is below 15AP and cannot be clearly resolved as expected for conditions that lead to greater accumulation of intracellular calcium."
+    },
+    "figure_reference_289": {
+      "type": "figure_reference",
+      "id": "figure_reference_289",
+      "path": [
+        "paragraph_288",
+        "content"
+      ],
+      "target": "image_fig2s2",
+      "range": [
+        285,
+        313
+      ]
+    },
+    "paragraph_290": {
+      "type": "paragraph",
+      "id": "paragraph_290",
+      "content": "3) There has been debate among the reviewers regarding whether it is necessary to show an effect on short-term synaptic plasticity. As highlighted by the authors in the Introduction, an implication of altered endocytic rate is that it will impact the dynamics of short-term synaptic release properties. However, the reviewers acknowledge that this study focuses on endocytic mechanisms, and that future studies will be necessary to explore the impact on short-term synaptic plasticity. In particular, determining the precise contribution of changing endocytic rate to short-term release dynamics will not be trivial, in part because it will be necessary to dissociate the effects of altered endocytic rate from other influences on release dynamics including calcium dynamics and vesicle pool dynamics. As such, this is best left to a future study."
+    },
+    "annotation_291": {
+      "type": "emphasis",
+      "id": "annotation_291",
+      "path": [
+        "paragraph_290",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        846
+      ]
+    },
+    "paragraph_292": {
+      "type": "paragraph",
+      "id": "paragraph_292",
+      "content": "However, it does seem appropriate to include more explicit control data regarding basic properties of synaptic vesicle release that could be understood from existing pHluorin experiments in the existing experimental system. This should be done to control for effects on gross neurotransmitter release and/or pool sizes in the wild type and transgenic rescue experiments. Please show this information for neurons expressing WT dynamin 1, phosphomimetic dynamin 1, and phosphorylation-deficient dynamin 1."
+    },
+    "annotation_293": {
+      "type": "emphasis",
+      "id": "annotation_293",
+      "path": [
+        "paragraph_292",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        502
+      ]
+    },
+    "paragraph_294": {
+      "type": "paragraph",
+      "id": "paragraph_294",
+      "content": "We have included controls on the recycling pool size and the vesicle release rate for the various dynamin 1-rescue conditions in Figure 4–figure supplement 1."
+    },
+    "figure_reference_295": {
+      "type": "figure_reference",
+      "id": "figure_reference_295",
+      "path": [
+        "paragraph_294",
+        "content"
+      ],
+      "target": "image_fig4s1",
+      "range": [
+        129,
+        157
+      ]
     }
   }
 }

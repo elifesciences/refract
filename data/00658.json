@@ -86,7 +86,32 @@
         "heading_s4-12",
         "paragraph_420",
         "sub-article",
-        "sub-article"
+        "heading_430",
+        "paragraph_431",
+        "paragraph_433",
+        "paragraph_435",
+        "paragraph_436",
+        "paragraph_437",
+        "paragraph_438",
+        "paragraph_439",
+        "paragraph_440",
+        "sub-article",
+        "heading_441",
+        "paragraph_442",
+        "paragraph_443",
+        "paragraph_445",
+        "paragraph_446",
+        "paragraph_454",
+        "paragraph_455",
+        "paragraph_456",
+        "paragraph_457",
+        "paragraph_459",
+        "paragraph_475",
+        "paragraph_480",
+        "paragraph_482",
+        "paragraph_484",
+        "paragraph_486",
+        "paragraph_488"
       ]
     },
     "figures": {
@@ -410,7 +435,7 @@
     "paragraph_2": {
       "type": "paragraph",
       "id": "paragraph_2",
-      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited.10.7554/eLife.00658.001"
+      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited."
     },
     "annotation_3": {
       "type": "link",
@@ -558,7 +583,7 @@
     "paragraph_14": {
       "type": "paragraph",
       "id": "paragraph_14",
-      "content": "DOI: http://dx.doi.org/10.7554/eLife.00658.00110.7554/eLife.00658.002"
+      "content": "DOI: http://dx.doi.org/10.7554/eLife.00658.001"
     },
     "annotation_15": {
       "type": "strong",
@@ -7466,7 +7491,7 @@
       "citation_url": [],
       "format": "journal",
       "editors": [],
-      "comment": "e1–5"
+      "comment": "undefined[object Object]"
     },
     "article_citation_bib38": {
       "type": "article_citation",
@@ -8483,6 +8508,578 @@
       "level": 1,
       "content": "Article Commentary",
       "nodes": []
+    },
+    "heading_430": {
+      "type": "heading",
+      "id": "heading_430",
+      "level": 2,
+      "content": "Decision letter",
+      "nodes": []
+    },
+    "paragraph_431": {
+      "type": "paragraph",
+      "id": "paragraph_431",
+      "content": "eLife posts the editorial decision letter and author response on a selection of the published articles (subject to the approval of the authors). An edited version of the letter sent to the authors after peer review is shown, indicating the substantive concerns or comments; minor concerns are not usually shown. Reviewers have the opportunity to discuss the decision before the letter is sent (see review process). Similarly, the author response typically shows only responses to the major concerns raised by the reviewers."
+    },
+    "annotation_432": {
+      "type": "link",
+      "id": "annotation_432",
+      "path": [
+        "paragraph_431",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        398,
+        412
+      ],
+      "url": "http://www.elifesciences.org/the-journal/review-process"
+    },
+    "paragraph_433": {
+      "type": "paragraph",
+      "id": "paragraph_433",
+      "content": "Thank you for sending your work entitled “TRPM5-mediated calcium uptake regulates mucin secretion from human colon goblet cells” for consideration at eLife. Your article has been favorably evaluated by a Senior editor and 3 reviewers, one of whom is a member of our Board of Reviewing Editors."
+    },
+    "annotation_434": {
+      "type": "emphasis",
+      "id": "annotation_434",
+      "path": [
+        "paragraph_433",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        150,
+        155
+      ]
+    },
+    "paragraph_435": {
+      "type": "paragraph",
+      "id": "paragraph_435",
+      "content": "The Reviewing editor and the other reviewers discussed their comments before we reached this decision, and the Reviewing editor has assembled the following comments to help you prepare a revised submission."
+    },
+    "paragraph_436": {
+      "type": "paragraph",
+      "id": "paragraph_436",
+      "content": "Your work presents an investigation of the genetic and physiological requirements for regulated secretion of Mucin 5AC from a differentiated human goblet cell line. The mucin coat is a key protective element of respiratory and intestinal epithelia, and the signals and mechanisms that underlie its synthesis and maintenance are poorly understood. Hence, the work addresses a very important question. Genetic requirements for Mucin 5AC secretion were elucidated with a siRNA-based screen of PMA-induced N2 cells that detects secreted MUC5AC. The reviewers agreed that the screen and hit validation process was rigorously executed, so there is high confidence that the PIMS gene products are key players in Muc5AC secretion, at least in the context of the N2 cell line. The second half of the manuscript uses electrophysiological experiments to address the specific role of one of the hits, TRPM5, in MUC5AC secretion. The results make a convincing case that TRPM5 plays a key and previously unappreciated role in NCX-mediated calcium influx (reverse mode) required for MUC5AC secretion, at least in a colonic cell line. However, the reviewers had three substantive concerns:"
+    },
+    "paragraph_437": {
+      "type": "paragraph",
+      "id": "paragraph_437",
+      "content": "1) The Introduction and Discussion focused on the pathophysiological importance of airway mucin secretion, but you used a different cell type (colonic epithelium) from the one of interest (airway epithelium; Rossi AH, Am J Physiol 2007, 292:92; Kemp PA, Am J Respir Cell Mol Biol 2004, 31:446). Importantly, MUC5AC is not normally produced by colonic epithelium, so the physiological relevance of the results is unclear. This problem was compounded by a number of misstatements. For example, it is stated that secreted mucins “coat the plasma membranes”, which is true in the gut but not in the airway. In addition, “mucus coats epithelial surfaces exposed to the external environment”: this is true (with the caveat above) of some surfaces such as the airways, gut and, genitourinary tract, but not the skin. It is also stated that MUC5AC and MUC5B are the major components of mucus, which is true of the airway but not the gut, as noted above. A small point is that Muc5ac should be used for the non-human protein and MUC5AC for the human, rather than Muc5AC for both."
+    },
+    "paragraph_438": {
+      "type": "paragraph",
+      "id": "paragraph_438",
+      "content": "2) There has been extensive work on airway epithelia showing that calcium entry from outside the cell is not important acutely in secretion (Bahra P, Brit J Pharmacol 2004, 143:91; Scott CE, Am J Physiol 1998, 275:C285; Rossi AH, J Physiol 2004. 559:555). Since the authors speculate that reduced calcium entry following TRPM5 knockdown is a major mechanism, what is the relevance of the findings to airway epithelium? Are mechanisms of calcium handling different between colonic and airway epithelium?"
+    },
+    "paragraph_439": {
+      "type": "paragraph",
+      "id": "paragraph_439",
+      "content": "The reviewers strongly recommend that these two concerns should be remedied by extensive rewriting. The Introduction and Discussion should include a careful analysis of potential differences between colonic and airway epithelial cells, and their mechanisms of induction of mucin secretion."
+    },
+    "paragraph_440": {
+      "type": "paragraph",
+      "id": "paragraph_440",
+      "content": "3) The reviewers were concerned that the 2hr PMA stimulation could introduce artifacts. How was this time determined and is it the optimal time for induction? Is it in the linear response range? Since mucin is present in intracellular vesicles that are primed for release, a much shorter activation time would seem more physiological. A 2hr treatment would allow new protein translation and possibly transcription. Therefore, have the authors examined whether addition of cycloheximide, or even APC, during PMA treatment affects mucin release? These experiments might provide insight into the role of the hits identified in the screen (are they expressed constitutively for mucin release, or expressed upon physiological stimulation?).10.7554/eLife.00658.021"
+    },
+    "heading_441": {
+      "type": "heading",
+      "id": "heading_441",
+      "level": 2,
+      "content": "Author response",
+      "nodes": []
+    },
+    "paragraph_442": {
+      "type": "paragraph",
+      "id": "paragraph_442",
+      "content": "We want to state at the outset that we have used a colonic cancer cell line because it is easy to culture, easy to transfect, and it expresses and secretes MUC5AC upon differentiation. Altogether, this is a useful approach to identify proteins required for the secretion of MUC5AC. This is similar, in principle, to the use of HeLa cells and VSV-G to study the components of the secretory pathway. And like the HeLa cells-VSV-G combination, HT29-18N2 cells-MUC5AC has revealed a number of new components in the PMA mediated, post-Golgi release of MUC5AC from the secretory granules. BFA does not affect the secretion of MUC5AC in our experimental conditions, which gives us the confidence to rule out the effects of PIMS on the synthesis, export, and sorting of MUC5AC at the TGN. The next obvious step is to test the involvement of PIMS in primary cultures of the cells that line the respiratory and digestive tract. We expect many of the PIMS will be required for the secretion of MUC5AC and other secreted mucins in other cell types, but there could be noticeable differences as well. Some of these proteins might have cell type specific isoforms or closely related proteins that function at the same step in other cell types. Identification of PIMS will help address many of these issues as we learn more about the system."
+    },
+    "paragraph_443": {
+      "type": "paragraph",
+      "id": "paragraph_443",
+      "content": "1) The Introduction and Discussion focused on the pathophysiological importance of airway mucin secretion, but you used a different cell type (colonic epithelium) from the one of interest (airway epithelium; Rossi AH, Am J Physiol 2007, 292:92; Kemp PA, Am J Respir Cell Mol Biol 2004, 31:446). Importantly, MUC5AC is not normally produced by colonic epithelium, so the physiological relevance of the results is unclear. This problem was compounded by a number of misstatements. For example, it is stated that secreted mucins “coat the plasma membranes”, which is true in the gut but not in the airway. In addition, “mucus coats epithelial surfaces exposed to the external environment”: this is true (with the caveat above) of some surfaces such as the airways, gut and, genitourinary tract, but not the skin. It is also stated that MUC5AC and MUC5B are the major components of mucus, which is true of the airway but not the gut, as noted above. A small point is that Muc5ac should be used for the non-human protein and MUC5AC for the human, rather than Muc5AC for both."
+    },
+    "annotation_444": {
+      "type": "emphasis",
+      "id": "annotation_444",
+      "path": [
+        "paragraph_443",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        1069
+      ]
+    },
+    "paragraph_445": {
+      "type": "paragraph",
+      "id": "paragraph_445",
+      "content": "We have addressed this issue by rewriting the Abstract and Introduction. The Abstract now begins with the following statement: “Mucin 5AC (MUC5AC) is secreted by goblet cells of the respiratory tract and, surprisingly, also expressed de novo in mucus secreting cancer lines.”"
+    },
+    "paragraph_446": {
+      "type": "paragraph",
+      "id": "paragraph_446",
+      "content": "The Introduction begins with the following statements: “Mucus is secreted by specialized cells that line the respiratory and digestive tract to protect against pathogens and other forms of cellular abuse. The secretion of mucus is therefore essential for the normal physiology of the wet mucosal epithelium (Rubin, 2010). The secretory or gel-forming mucin Mucin 5AC (MUC5AC) is one of the major components of the mucus in the airways, and hyper- or hyposecretion of this component is a hallmark of a number of chronic obstructive pulmonary diseases (COPD) (Rose and Voynow, 2006). MUC5AC is also expressed at low levels in the gastrointestinal tract and, surprisingly, expressed de novo, and upregulated in colonic mucus from cancer and ulcerative colitis patients (Bartman et al., 1999; Kocer et al., 2002; Byrd and Bresalier, 2004; Forgue-Lafitte et al., 2007; Bu et al., 2010).”"
+    },
+    "citation_reference_447": {
+      "type": "citation_reference",
+      "id": "citation_reference_447",
+      "path": [
+        "paragraph_446",
+        "content"
+      ],
+      "target": "article_citation_bib52",
+      "range": [
+        308,
+        319
+      ]
+    },
+    "citation_reference_448": {
+      "type": "citation_reference",
+      "id": "citation_reference_448",
+      "path": [
+        "paragraph_446",
+        "content"
+      ],
+      "target": "article_citation_bib48",
+      "range": [
+        558,
+        579
+      ]
+    },
+    "citation_reference_449": {
+      "type": "citation_reference",
+      "id": "citation_reference_449",
+      "path": [
+        "paragraph_446",
+        "content"
+      ],
+      "target": "article_citation_bib7",
+      "range": [
+        767,
+        787
+      ]
+    },
+    "citation_reference_450": {
+      "type": "citation_reference",
+      "id": "citation_reference_450",
+      "path": [
+        "paragraph_446",
+        "content"
+      ],
+      "target": "article_citation_bib35",
+      "range": [
+        789,
+        807
+      ]
+    },
+    "citation_reference_451": {
+      "type": "citation_reference",
+      "id": "citation_reference_451",
+      "path": [
+        "paragraph_446",
+        "content"
+      ],
+      "target": "article_citation_bib14",
+      "range": [
+        809,
+        833
+      ]
+    },
+    "citation_reference_452": {
+      "type": "citation_reference",
+      "id": "citation_reference_452",
+      "path": [
+        "paragraph_446",
+        "content"
+      ],
+      "target": "article_citation_bib26",
+      "range": [
+        835,
+        862
+      ]
+    },
+    "citation_reference_453": {
+      "type": "citation_reference",
+      "id": "citation_reference_453",
+      "path": [
+        "paragraph_446",
+        "content"
+      ],
+      "target": "article_citation_bib13",
+      "range": [
+        864,
+        879
+      ]
+    },
+    "paragraph_454": {
+      "type": "paragraph",
+      "id": "paragraph_454",
+      "content": "The last paragraph of the Introduction is rewritten to address the reviewers concern with respect to the use of colon cell lines to address the mechanism of MUC5AC secretion. The changes in the text follow:"
+    },
+    "paragraph_455": {
+      "type": "paragraph",
+      "id": "paragraph_455",
+      "content": "“As stated above, human cancer cells and cells from patients with ulcerative colitis express and secrete MUC5AC. These cells and cell lines therefore provide a convenient means to address the mechanism MUC5AC secretion. We have established a quantitative assay to measure the secretion of MUC5AC from a human goblet cell line. The procedure was used to screen 7343 human gene products and we describe here the identification and involvement of transient receptor potential melastatin 5 (TRPM5) channel in MUC5AC secretion.”"
+    },
+    "paragraph_456": {
+      "type": "paragraph",
+      "id": "paragraph_456",
+      "content": "We now include the following statements in the final paragraph of the Discussion: “It is important now to test the expression of PIMS in cells of the respiratory and gastric lining, their involvement in secretion of MUC5AC, and other secreted mucins such as MUC2, to understand the mechanisms of mucin homeostasis.”"
+    },
+    "paragraph_457": {
+      "type": "paragraph",
+      "id": "paragraph_457",
+      "content": "2) There has been extensive work on airway epithelia showing that calcium entry from outside the cell is not important acutely in secretion (Bahra P, Brit J Pharmacol 2004, 143:91; Scott CE, Am J Physiol 1998, 275:C285; Rossi AH, J Physiol 2004. 559:555). Since the authors speculate that reduced calcium entry following TRPM5 knockdown is a major mechanism, what is the relevance of the findings to airway epithelium? Are mechanisms of calcium handling different between colonic and airway epithelium?"
+    },
+    "annotation_458": {
+      "type": "emphasis",
+      "id": "annotation_458",
+      "path": [
+        "paragraph_457",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        501
+      ]
+    },
+    "paragraph_459": {
+      "type": "paragraph",
+      "id": "paragraph_459",
+      "content": "We now state the following in the Discussion: “In cells of the gastro-intestinal lining (Bou-Hanna et al., 1994; Barcelo et al., 2001; Bertrand et al., 2004) and eye conjunctiva (Li et al., 2012) influx of extracellular Ca2+ participates in the release of mucins from the secretory granules. Ca2+-dependent events are also essential for the release of mucins from the respiratory tract; however, the source of Ca2+ is unclear. The general view is that mucin secretion in the airways is dependent on Ca2+ release from intracellular stores and independent of extracellular Ca2+ (Kemp et al., 2004; Davis and Dickey, 2008). However, extracellular Ca2+ is required for mucin secretion from cholinergic stimulated swine airway submucosal glands (Lu et al., 2011) as well as by cold and menthol stimulated human bronchial epithelial cells (Li et al., 2011). The involvement of extracellular Ca2+ in mucin secretion is therefore likely to be cell type, signal, and mucin specific.”"
+    },
+    "citation_reference_460": {
+      "type": "citation_reference",
+      "id": "citation_reference_460",
+      "path": [
+        "paragraph_459",
+        "content"
+      ],
+      "target": "article_citation_bib9",
+      "range": [
+        89,
+        111
+      ]
+    },
+    "citation_reference_461": {
+      "type": "citation_reference",
+      "id": "citation_reference_461",
+      "path": [
+        "paragraph_459",
+        "content"
+      ],
+      "target": "article_citation_bib6",
+      "range": [
+        113,
+        133
+      ]
+    },
+    "citation_reference_462": {
+      "type": "citation_reference",
+      "id": "citation_reference_462",
+      "path": [
+        "paragraph_459",
+        "content"
+      ],
+      "target": "article_citation_bib8",
+      "range": [
+        135,
+        156
+      ]
+    },
+    "citation_reference_463": {
+      "type": "citation_reference",
+      "id": "citation_reference_463",
+      "path": [
+        "paragraph_459",
+        "content"
+      ],
+      "target": "article_citation_bib36",
+      "range": [
+        179,
+        194
+      ]
+    },
+    "annotation_464": {
+      "type": "superscript",
+      "id": "annotation_464",
+      "path": [
+        "paragraph_459",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        222,
+        224
+      ]
+    },
+    "annotation_465": {
+      "type": "superscript",
+      "id": "annotation_465",
+      "path": [
+        "paragraph_459",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        294,
+        296
+      ]
+    },
+    "annotation_466": {
+      "type": "superscript",
+      "id": "annotation_466",
+      "path": [
+        "paragraph_459",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        412,
+        414
+      ]
+    },
+    "annotation_467": {
+      "type": "superscript",
+      "id": "annotation_467",
+      "path": [
+        "paragraph_459",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        501,
+        503
+      ]
+    },
+    "annotation_468": {
+      "type": "superscript",
+      "id": "annotation_468",
+      "path": [
+        "paragraph_459",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        573,
+        575
+      ]
+    },
+    "citation_reference_469": {
+      "type": "citation_reference",
+      "id": "citation_reference_469",
+      "path": [
+        "paragraph_459",
+        "content"
+      ],
+      "target": "article_citation_bib34",
+      "range": [
+        577,
+        594
+      ]
+    },
+    "citation_reference_470": {
+      "type": "citation_reference",
+      "id": "citation_reference_470",
+      "path": [
+        "paragraph_459",
+        "content"
+      ],
+      "target": "article_citation_bib18",
+      "range": [
+        596,
+        618
+      ]
+    },
+    "annotation_471": {
+      "type": "superscript",
+      "id": "annotation_471",
+      "path": [
+        "paragraph_459",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        646,
+        648
+      ]
+    },
+    "citation_reference_472": {
+      "type": "citation_reference",
+      "id": "citation_reference_472",
+      "path": [
+        "paragraph_459",
+        "content"
+      ],
+      "target": "article_citation_bib40",
+      "range": [
+        741,
+        756
+      ]
+    },
+    "citation_reference_473": {
+      "type": "citation_reference",
+      "id": "citation_reference_473",
+      "path": [
+        "paragraph_459",
+        "content"
+      ],
+      "target": "article_citation_bib37",
+      "range": [
+        834,
+        849
+      ]
+    },
+    "annotation_474": {
+      "type": "superscript",
+      "id": "annotation_474",
+      "path": [
+        "paragraph_459",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        887,
+        889
+      ]
+    },
+    "paragraph_475": {
+      "type": "paragraph",
+      "id": "paragraph_475",
+      "content": "Additionally, the references cited by the reviewers do not address the role of Ca2+ entry in mucin secretion. Scott 1998 and Rossi 2004, respectively, reported that mucin secretion required both PKC (Ca2+ independent) and Ca2+ dependent components in an airway epithelial cell line SPOC1 permeabilized with O-streptolysin. Bahra and colleagues (2004) did not measure mucin secretion: they analysed the calcium responses of P2Y2 receptors in human bronchial epithelial cells and reported the involvement of a Ca2+ influx component."
+    },
+    "annotation_476": {
+      "type": "superscript",
+      "id": "annotation_476",
+      "path": [
+        "paragraph_475",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        81,
+        83
+      ]
+    },
+    "annotation_477": {
+      "type": "superscript",
+      "id": "annotation_477",
+      "path": [
+        "paragraph_475",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        202,
+        204
+      ]
+    },
+    "annotation_478": {
+      "type": "superscript",
+      "id": "annotation_478",
+      "path": [
+        "paragraph_475",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        224,
+        226
+      ]
+    },
+    "annotation_479": {
+      "type": "superscript",
+      "id": "annotation_479",
+      "path": [
+        "paragraph_475",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        510,
+        512
+      ]
+    },
+    "paragraph_480": {
+      "type": "paragraph",
+      "id": "paragraph_480",
+      "content": "The reviewers strongly recommend that these two concerns should be remedied by extensive rewriting. The Introduction and Discussion should include a careful analysis of potential differences between colonic and airway epithelial cells, and their mechanisms of induction of mucin secretion."
+    },
+    "annotation_481": {
+      "type": "emphasis",
+      "id": "annotation_481",
+      "path": [
+        "paragraph_480",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        288
+      ]
+    },
+    "paragraph_482": {
+      "type": "paragraph",
+      "id": "paragraph_482",
+      "content": "The inclusion of the text, as above, makes it clear that the source of Ca2+ in mucin secretion is cell type specific and currently a controversial issue."
+    },
+    "annotation_483": {
+      "type": "superscript",
+      "id": "annotation_483",
+      "path": [
+        "paragraph_482",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        73,
+        75
+      ]
+    },
+    "paragraph_484": {
+      "type": "paragraph",
+      "id": "paragraph_484",
+      "content": "3) The reviewers were concerned that the 2 hr PMA stimulation could introduce artifacts. How was this time determined and is it the optimal time for induction? Is it in the linear response range? Since mucin is present in intracellular vesicles that are primed for release, a much shorter activation time would seem more physiological. A 2 hr treatment would allow new protein translation and possibly transcription. Therefore, have the authors examined whether addition of cycloheximide, or even APC, during PMA treatment affects mucin release? These experiments might provide insight into the role of the hits identified in the screen (are they expressed constitutively for mucin release, or expressed upon physiological stimulation?)."
+    },
+    "annotation_485": {
+      "type": "emphasis",
+      "id": "annotation_485",
+      "path": [
+        "paragraph_484",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        736
+      ]
+    },
+    "paragraph_486": {
+      "type": "paragraph",
+      "id": "paragraph_486",
+      "content": "We now show a time course for the PMA dependent secretion of MUC5AC. The time course for PMA induced MUC5AC secretion revealed a significant increase of MUC5AC secretion at 15 min and maximal MUC5AC secretion was observed after 2h incubation with 2 µM PMA (Figure 2–figure supplement 1)."
+    },
+    "figure_reference_487": {
+      "type": "figure_reference",
+      "id": "figure_reference_487",
+      "path": [
+        "paragraph_486",
+        "content"
+      ],
+      "target": "image_fig2s1",
+      "range": [
+        257,
+        285
+      ]
+    },
+    "paragraph_488": {
+      "type": "paragraph",
+      "id": "paragraph_488",
+      "content": "It is also very important to note that PMA mediated MUC5AC release is not inhibited by BFA. The release of MUC5AC in our experimental conditions, therefore, is from a post-Golgi pool. This alleviates any potential effects on the synthesis of MUC5AC."
     }
   }
 }

@@ -69,7 +69,36 @@
         "paragraph_301",
         "paragraph_308",
         "sub-article",
-        "sub-article"
+        "heading_311",
+        "paragraph_312",
+        "paragraph_314",
+        "paragraph_315",
+        "paragraph_316",
+        "paragraph_317",
+        "paragraph_318",
+        "paragraph_319",
+        "paragraph_320",
+        "sub-article",
+        "heading_321",
+        "paragraph_322",
+        "paragraph_323",
+        "paragraph_325",
+        "paragraph_326",
+        "paragraph_328",
+        "paragraph_329",
+        "paragraph_331",
+        "paragraph_332",
+        "paragraph_334",
+        "paragraph_335",
+        "paragraph_336",
+        "paragraph_337",
+        "paragraph_338",
+        "paragraph_340",
+        "paragraph_342",
+        "paragraph_345",
+        "paragraph_347",
+        "paragraph_349",
+        "paragraph_351"
       ]
     },
     "figures": {
@@ -286,7 +315,7 @@
     "paragraph_3": {
       "type": "paragraph",
       "id": "paragraph_3",
-      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited.10.7554/eLife.00160.001"
+      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited."
     },
     "annotation_4": {
       "type": "link",
@@ -330,7 +359,7 @@
     "paragraph_7": {
       "type": "paragraph",
       "id": "paragraph_7",
-      "content": "DOI: http://dx.doi.org/10.7554/eLife.00160.00110.7554/eLife.00160.002"
+      "content": "DOI: http://dx.doi.org/10.7554/eLife.00160.001"
     },
     "annotation_8": {
       "type": "strong",
@@ -5520,7 +5549,7 @@
       "citation_url": [],
       "format": "journal",
       "editors": [],
-      "comment": "sup pp 41–48"
+      "comment": "undefined[object Object]"
     },
     "article_citation_bib36": {
       "type": "article_citation",
@@ -6419,6 +6448,325 @@
       "level": 1,
       "content": "Article Commentary",
       "nodes": []
+    },
+    "heading_311": {
+      "type": "heading",
+      "id": "heading_311",
+      "level": 2,
+      "content": "Decision letter",
+      "nodes": []
+    },
+    "paragraph_312": {
+      "type": "paragraph",
+      "id": "paragraph_312",
+      "content": "eLife posts the editorial decision letter and author response on a selection of the published articles (subject to the approval of the authors). An edited version of the letter sent to the authors after peer review is shown, indicating the substantive concerns or comments; minor concerns are not usually shown. Reviewers have the opportunity to discuss the decision before the letter is sent (see review process). Similarly, the author response typically shows only responses to the major concerns raised by the reviewers."
+    },
+    "annotation_313": {
+      "type": "link",
+      "id": "annotation_313",
+      "path": [
+        "paragraph_312",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        398,
+        412
+      ],
+      "url": "http://www.elifesciences.org/the-journal/review-process"
+    },
+    "paragraph_314": {
+      "type": "paragraph",
+      "id": "paragraph_314",
+      "content": "Thank you for choosing to send your work entitled “A Novel GTP-binding protein-adaptor protein complex responsible for export of Vangl2 from the trans Golgi network” for consideration at eLife. Your article has been evaluated by a Senior Editor (Detlef Weigel) and 3 reviewers, one of whom is a member of our Board of Reviewing Editors (Suzanne Pfeffer)."
+    },
+    "paragraph_315": {
+      "type": "paragraph",
+      "id": "paragraph_315",
+      "content": "The Reviewing Editor and the other reviewers discussed their comments before we reached this decision, and the Reviewing Editor has assembled the following comments based on the reviewers' reports. Our goal is to provide the essential revision requirements as a single set of instructions, so that you have a clear view of the revisions that are necessary for us to publish your work."
+    },
+    "paragraph_316": {
+      "type": "paragraph",
+      "id": "paragraph_316",
+      "content": "Overall, this is a well-done study that provides convincing evidence that Arfrp1·GTP, in conjunction with AP-1, is required for the transport of the transmembrane protein Vangl2 to the cell surface. This new finding is of particular interest in that Arf1 cannot replace Arfrp1 in this function. The experiments are well controlled, the data are clean, and the text is very clearly written. We would be pleased to publish the work in eLife. The reviewers included true experts in this field who evaluated the work with great care. It should be straightforward to respond textually to each of the following minor comments in a revised manuscript."
+    },
+    "paragraph_317": {
+      "type": "paragraph",
+      "id": "paragraph_317",
+      "content": "1. It is unclear from the data how much of the TGN deposited AP-1 is Arf1 dependent and how much is Arfrp1 dependent. Arfrp1 is reported to be relatively Brefeldin A resistant compared with Arf1. Do you know how much AP-1 remains after BFA application?"
+    },
+    "paragraph_318": {
+      "type": "paragraph",
+      "id": "paragraph_318",
+      "content": "2. Please explain why such a different experimental strategy was required for evaluating PTK7 when for the other transmembrane cargoes, simple RNAi was sufficient to see a steady-state morphologic change. Also, the conclusion that Frizzled 6 and Celsr1 were not dependent on Arfrp1 or AP-1 is not too surprising, as neither has AP-1-recognized sorting signals. Therefore, please tone down the statement that PTK7 “depends on Arfrp1 for traffic”. What would Frizzled 6/Celsr1 localization look like after a similar temperature shift/cycloheximide experiment?"
+    },
+    "paragraph_319": {
+      "type": "paragraph",
+      "id": "paragraph_319",
+      "content": "3. Please mention the possible role of Arl1 or Golgin245 in the phenotypes observed. Others have reported these to be downstream targets of Arfrp1."
+    },
+    "paragraph_320": {
+      "type": "paragraph",
+      "id": "paragraph_320",
+      "content": "4. The Discussion section should be enhanced and could include the following points. 1. How a YXXphi-like sequence can be selectively recognized by only one of the YXXphi-decoding APs. Why wouldn't AP-2 and AP-3 recognize the YYxxphi signal? Is it deactivated by phosphorylation post TGN perhaps? 2. At the end, you suggest that Arfrp1-GTP directs AP-1 to a conformation that allows Vangl2 engagement, a conformation not generated by Arf1-GTP binding. Is there structural precedent for this? What is the degree of amino acid conservation between these two GTPases? 3. Why is there evidently a complete block of Vangl2 delivery when the YYxxF sequence is mutated but only a partial block with Arfrp1 knockdown? 4. Why do Arfrp1 and Arf1 bind differentially to allow this cooperativity with the Vangl2 Yxxphi? Please consider the key role of the distal Phe vs. the proximal Tyr pair in the Vangl2 YYxxF signal. Could this be binding to the opposite, convex surface of the AP-1 mu1 subunit, similar to the Phe-based APP signal binding to AP-4 mu4?10.7554/eLife.00160.019"
+    },
+    "heading_321": {
+      "type": "heading",
+      "id": "heading_321",
+      "level": 2,
+      "content": "Author response",
+      "nodes": []
+    },
+    "paragraph_322": {
+      "type": "paragraph",
+      "id": "paragraph_322",
+      "content": "We thank the Editor and reviewers for providing positive and valuable comments."
+    },
+    "paragraph_323": {
+      "type": "paragraph",
+      "id": "paragraph_323",
+      "content": "1. It is unclear from the data how much of the TGN deposited AP-1 is Arf1 dependent and how much is Arfrp1 dependent. Arfrp1 is reported to be relatively Brefeldin A resistant compared with Arf1. Do you know how much AP-1 remains after BFA application?"
+    },
+    "annotation_324": {
+      "type": "emphasis",
+      "id": "annotation_324",
+      "path": [
+        "paragraph_323",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        251
+      ]
+    },
+    "paragraph_325": {
+      "type": "paragraph",
+      "id": "paragraph_325",
+      "content": "We analyzed the localization of γ1-adaptin in BFA treated COS7 cells. We found that the majority of γ1-adaptin was dispersed from the TGN after 15min of BFA treatment, which is consistent with previous reports (Shin et al., 2005). It is possible that most of the AP-1 is bound to BFA sensitive Arfs such as Arf1, and only a small fraction is bound to Arfrp1, which is relatively BFA resistant. BFA could also cause indirect effects on structure and lipid composition of the TGN, which may affect AP-1 recruitment."
+    },
+    "paragraph_326": {
+      "type": "paragraph",
+      "id": "paragraph_326",
+      "content": "2. Please explain why such a different experimental strategy was required for evaluating PTK7 when for the other transmembrane cargoes, simple RNAi was sufficient to see a steady-state morphologic change. Also, the conclusion that Frizzled 6 and Celsr1 were not dependent on Arfrp1 or AP-1 is not too surprising, as neither has AP-1-recognized sorting signals. Therefore, please tone down the statement that PTK7 “depends on Arfrp1 for traffic”. What would Frizzled 6/Celsr1 localization look like after a similar temperature shift/cycloheximide experiment?"
+    },
+    "annotation_327": {
+      "type": "emphasis",
+      "id": "annotation_327",
+      "path": [
+        "paragraph_326",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        556
+      ]
+    },
+    "paragraph_328": {
+      "type": "paragraph",
+      "id": "paragraph_328",
+      "content": "We didn't detect an obvious difference in PTK7 localization in Arfrp1 knockdown and control cells at steady state. A significant percentage (around 50%) of cells showed both surface- and Golgi-localized PTK7 at steady state in cells treated with control siRNA. After the temperature shift/cycloheximide experiment, the percentage of control cells showing Golgi-localized PTK7 dropped to around 12%. Thus we adopted this regimen to synchronize PTK7 in the Golgi region to localize the effect of Arfrp1 knockdown specifically on exit from the Golgi. This is now described in the manuscript. We agree that the defects of PTK7 trafficking in Arfrp1 knockdown cells are likely due to a kinetic delay. Accordingly, we have modified the statement that PTK7 “depends on Arfrp1 for traffic”. We analyzed the localization of Frizzle 6 in the Arfrp1 knockdown cells in a similar temperature shift/cycloheximide experiment and did not see a difference (now shown in the text and Figure 8J)."
+    },
+    "paragraph_329": {
+      "type": "paragraph",
+      "id": "paragraph_329",
+      "content": "3. Please mention the possible role of Arl1 or Golgin245 in the phenotypes observed. Others have reported these to be downstream targets of Arfrp1."
+    },
+    "annotation_330": {
+      "type": "emphasis",
+      "id": "annotation_330",
+      "path": [
+        "paragraph_329",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        146
+      ]
+    },
+    "paragraph_331": {
+      "type": "paragraph",
+      "id": "paragraph_331",
+      "content": "In yeast, membrane recruitment of Arl1 and GRIP domain containing Golgins is reported to be mediated by Arl3, the yeast equivalent of Arfrp1 (Panic et al., 2003). However, in mammalian cells, there are contradictory reports regarding the role of Arfrp1 in regulating membrane recruitment of Arl1 and Golgin245 (Nishimoto-Morita et al., 2009; Zahn et al., 2006). Our siRNA knockdown screen indicates that knockdown of Arl1 does not affect the localization of Vangl2, suggesting that Arl1 and its associated GRIP-domain containing proteins are not involved in TGN sorting of Vangl2 (this is now discussed in the manuscript)."
+    },
+    "paragraph_332": {
+      "type": "paragraph",
+      "id": "paragraph_332",
+      "content": "4. The Discussion section should be enhanced and could include the following points. 1. How a YXXphi-like sequence can be selectively recognized by only one of the YXXphi-decoding APs. Why wouldn't AP-2 and AP-3 recognize the YYxxphi signal? Is it deactivated by phosphorylation post TGN perhaps? 2. At the end, you suggest that Arfrp1-GTP directs AP-1 to a conformation that allows Vangl2 engagement, a conformation not generated by Arf1-GTP binding. Is there structural precedent for this? What is the degree of amino acid conservation between these two GTPases? 3. Why is there evidently a complete block of Vangl2 delivery when the YYxxF sequence is mutated but only a partial block with Arfrp1 knockdown? 4. Why do Arfrp1 and Arf1 bind differentially to allow this cooperativity with the Vangl2 Yxxphi? Please consider the key role of the distal Phe vs. the proximal Tyr pair in the Vangl2 YYxxF signal. Could this be binding to the opposite, convex surface of the AP-1 mu1 subunit, similar to the Phe-based APP signal binding to AP-4 mu4?"
+    },
+    "annotation_333": {
+      "type": "emphasis",
+      "id": "annotation_333",
+      "path": [
+        "paragraph_332",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        1043
+      ]
+    },
+    "paragraph_334": {
+      "type": "paragraph",
+      "id": "paragraph_334",
+      "content": "4.1. The μ subunit of each adaptor complex preferentially binds distinct but a considerable degree of overlapping sets of YXXØ motifs (Ohno et al., 1998; Ohno et al., 1996). The affinity of YXXØ motifs to different adaptor medium subunits is regulated by the identity of the X and Ø residues and the residues surrounding the tyrosine sorting motif as well as the position of the motif within the cytosolic domain (Ohno et al., 1998; Ohno et al., 1996). This is now discussed in the text. Vangl2 is phosphorylated at the cell surface and the N terminal- but not C terminal-cytosolic domain is the major phosphorylation region (Gao et al., 2011). It would be interesting to test whether the tyrosine residues in the YYXXF motif on Vangl2 are phosphorylated to deactivate the interaction between AP-1 and Vangl2, but this is outside of the scope of our current study."
+    },
+    "paragraph_335": {
+      "type": "paragraph",
+      "id": "paragraph_335",
+      "content": "4.2. Currently, there is no direct structural evidence suggests that AP-1 has multiple alternative conformations to accommodate different Arfs and sorting motifs. Arfrp1 shares 34% sequence identity with Arf1. This is now described in the manuscript."
+    },
+    "paragraph_336": {
+      "type": "paragraph",
+      "id": "paragraph_336",
+      "content": "4.3. Two possible reasons could account for this. One is that the plasma-membrane pool of Vangl2 may be synthesized and transported to the plasma membrane before the siRNA treatment depletes Arfrp1. Experiments with mutant Vangl2 may not be subject to this limitation. Alternatively, another Arf or Arl protein may engage AP-1 and the YYXXF motif at a low level of efficiency to transport Vangl2 out of the trans-Golgi. This is now discussed in the manuscript."
+    },
+    "paragraph_337": {
+      "type": "paragraph",
+      "id": "paragraph_337",
+      "content": "4.4. One can speculate on alternative explanations, but we favor the idea that AP-1 may assume several different conformations to accommodate members of the Arf/Arl GTPases and sorting motifs. The key residues in the novel cargo binding site on μ4 are conserved in the μ subunits of other AP complexes (Burgos et al., 2010). Thus it is possible that μ1 could have multiple cargo binding sites that recognize specific tyrosine sorting motifs. We speculate that the YYXXF motif on Vangl2 could bind a novel cargo-binding site on μ1; Arfrp1, but not Arf1, bound to AP-1 could promote the exposure of this novel cargo-binding site on μ1-adaptin. This is now described in the manuscript."
+    },
+    "paragraph_338": {
+      "type": "paragraph",
+      "id": "paragraph_338",
+      "content": "References"
+    },
+    "annotation_339": {
+      "type": "strong",
+      "id": "annotation_339",
+      "path": [
+        "paragraph_338",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        10
+      ]
+    },
+    "paragraph_340": {
+      "type": "paragraph",
+      "id": "paragraph_340",
+      "content": "Burgos, P.V., Mardones, G.A., Rojas, A.L., daSilva, L.L., Prabhu, Y., Hurley, J.H., and Bonifacino, J.S. (2010). Sorting of the Alzheimer's disease amyloid precursor protein mediated by the AP-4 complex. Developmental cell 18, 425-436. "
+    },
+    "annotation_341": {
+      "type": "emphasis",
+      "id": "annotation_341",
+      "path": [
+        "paragraph_340",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        223,
+        226
+      ]
+    },
+    "paragraph_342": {
+      "type": "paragraph",
+      "id": "paragraph_342",
+      "content": "Gao, B., Song, H., Bishop, K., Elliot, G., Garrett, L., English, M.A., Andre, P., Robinson, J., Sood, R., Minami, Y., et al. (2011). Wnt signaling gradients establish planar cell polarity by inducing Vangl2 phosphorylation through Ror2. Developmental cell 20, 163-176. "
+    },
+    "annotation_343": {
+      "type": "emphasis",
+      "id": "annotation_343",
+      "path": [
+        "paragraph_342",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        118,
+        124
+      ]
+    },
+    "annotation_344": {
+      "type": "emphasis",
+      "id": "annotation_344",
+      "path": [
+        "paragraph_342",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        256,
+        259
+      ]
+    },
+    "paragraph_345": {
+      "type": "paragraph",
+      "id": "paragraph_345",
+      "content": "Nishimoto-Morita, K., Shin, H.W., Mitsuhashi, H., Kitamura, M., Zhang, Q., Johannes, L., and Nakayama, K. (2009). Differential effects of depletion of ARL1 and ARFRP1 on membrane trafficking between the trans-Golgi network and endosomes. The Journal of biological chemistry 284, 10583-10592. "
+    },
+    "annotation_346": {
+      "type": "emphasis",
+      "id": "annotation_346",
+      "path": [
+        "paragraph_345",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        274,
+        278
+      ]
+    },
+    "paragraph_347": {
+      "type": "paragraph",
+      "id": "paragraph_347",
+      "content": "Ohno, H., Aguilar, R.C., Yeh, D., Taura, D., Saito, T., and Bonifacino, J.S. (1998). The medium subunits of adaptor complexes recognize distinct but overlapping sets of tyrosine-based sorting signals. The Journal of biological chemistry 273, 25915-25921. "
+    },
+    "annotation_348": {
+      "type": "emphasis",
+      "id": "annotation_348",
+      "path": [
+        "paragraph_347",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        237,
+        241
+      ]
+    },
+    "paragraph_349": {
+      "type": "paragraph",
+      "id": "paragraph_349",
+      "content": "Ohno, H., Fournier, M.C., Poy, G., and Bonifacino, J.S. (1996). Structural determinants of interaction of tyrosine-based sorting signals with the adaptor medium chains. The Journal of biological chemistry 271, 29009-29015. "
+    },
+    "annotation_350": {
+      "type": "emphasis",
+      "id": "annotation_350",
+      "path": [
+        "paragraph_349",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        205,
+        209
+      ]
+    },
+    "paragraph_351": {
+      "type": "paragraph",
+      "id": "paragraph_351",
+      "content": "Zahn, C., Hommel, A., Lu, L., Hong, W., Walther, D.J., Florian, S., Joost, H.G., and Schurmann, A. (2006). Knockout of Arfrp1 leads to disruption of ARF-like1 (ARL1) targeting to the trans- Golgi in mouse embryos and HeLa cells. Molecular membrane biology 23, 475-485."
+    },
+    "annotation_352": {
+      "type": "emphasis",
+      "id": "annotation_352",
+      "path": [
+        "paragraph_351",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        256,
+        259
+      ]
     }
   }
 }

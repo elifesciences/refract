@@ -73,7 +73,38 @@
         "heading_s4-15",
         "paragraph_221",
         "sub-article",
-        "sub-article"
+        "heading_223",
+        "paragraph_224",
+        "paragraph_226",
+        "paragraph_228",
+        "paragraph_229",
+        "paragraph_230",
+        "paragraph_231",
+        "paragraph_232",
+        "paragraph_233",
+        "paragraph_234",
+        "sub-article",
+        "heading_235",
+        "paragraph_236",
+        "paragraph_238",
+        "paragraph_239",
+        "paragraph_241",
+        "paragraph_242",
+        "paragraph_244",
+        "paragraph_245",
+        "paragraph_247",
+        "paragraph_248",
+        "paragraph_250",
+        "paragraph_251",
+        "paragraph_253",
+        "paragraph_255",
+        "paragraph_256",
+        "paragraph_258",
+        "paragraph_260",
+        "paragraph_262",
+        "paragraph_266",
+        "paragraph_267",
+        "paragraph_269"
       ]
     },
     "figures": {
@@ -91,7 +122,16 @@
         "image_fig7",
         "image_fig7s1",
         "image_fig8",
-        "image_fig9"
+        "image_fig9",
+        "image_fig10",
+        "image_fig11",
+        "image_fig12",
+        "image_fig13",
+        "image_fig14",
+        "image_fig15",
+        "image_fig16",
+        "image_fig17",
+        "image_fig18"
       ]
     },
     "citations": {
@@ -244,7 +284,7 @@
     "paragraph_2": {
       "type": "paragraph",
       "id": "paragraph_2",
-      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited.10.7554/eLife.00321.001"
+      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited."
     },
     "annotation_3": {
       "type": "link",
@@ -275,7 +315,7 @@
     "paragraph_5": {
       "type": "paragraph",
       "id": "paragraph_5",
-      "content": "DOI: http://dx.doi.org/10.7554/eLife.00321.00110.7554/eLife.00321.002"
+      "content": "DOI: http://dx.doi.org/10.7554/eLife.00321.001"
     },
     "annotation_6": {
       "type": "strong",
@@ -4351,6 +4391,531 @@
       "level": 1,
       "content": "Article Commentary",
       "nodes": []
+    },
+    "heading_223": {
+      "type": "heading",
+      "id": "heading_223",
+      "level": 2,
+      "content": "Decision letter",
+      "nodes": []
+    },
+    "paragraph_224": {
+      "type": "paragraph",
+      "id": "paragraph_224",
+      "content": "eLife posts the editorial decision letter and author response on a selection of the published articles (subject to the approval of the authors). An edited version of the letter sent to the authors after peer review is shown, indicating the substantive concerns or comments; minor concerns are not usually shown. Reviewers have the opportunity to discuss the decision before the letter is sent (see review process). Similarly, the author response typically shows only responses to the major concerns raised by the reviewers."
+    },
+    "annotation_225": {
+      "type": "link",
+      "id": "annotation_225",
+      "path": [
+        "paragraph_224",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        398,
+        412
+      ],
+      "url": "http://www.elifesciences.org/the-journal/review-process"
+    },
+    "paragraph_226": {
+      "type": "paragraph",
+      "id": "paragraph_226",
+      "content": "Thank you for choosing to send your work entitled “Hierarchical organization of context in the hippocampal episodic code” for consideration at eLife. Your article has been evaluated by a Senior editor and 3 reviewers, one of whom is a member of our Board of Reviewing Editors."
+    },
+    "annotation_227": {
+      "type": "emphasis",
+      "id": "annotation_227",
+      "path": [
+        "paragraph_226",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        143,
+        148
+      ]
+    },
+    "paragraph_228": {
+      "type": "paragraph",
+      "id": "paragraph_228",
+      "content": "The following individuals responsible for the peer review of your submission want to reveal their identity: Howard Eichenbaum (Reviewing editor), Jozsef Csicsvari (peer reviewer), and Emma Wood (peer reviewer)."
+    },
+    "paragraph_229": {
+      "type": "paragraph",
+      "id": "paragraph_229",
+      "content": "The Reviewing editor and the other reviewers discussed their comments before we reached this decision, and the Reviewing editor has assembled the following comments based on the reviewers' reports."
+    },
+    "paragraph_230": {
+      "type": "paragraph",
+      "id": "paragraph_230",
+      "content": "* The reviewers agree that the paper could be useful and important, but requires additional analyses and improved presentation of the findings. There is a major concern about the need to control for potential differences between location, speed, and head direction in making claims about differential firing on the stem of the maze prior to left and right turn trials (see, for example, Wood et al., 2000). This will require substantial further analyses and likely restriction of the analyses to the central portion of the maze stem."
+    },
+    "paragraph_231": {
+      "type": "paragraph",
+      "id": "paragraph_231",
+      "content": "* There are also concerns about the language and presentation of data. Part of the problem is the use of too much jargon."
+    },
+    "paragraph_232": {
+      "type": "paragraph",
+      "id": "paragraph_232",
+      "content": "* In addition, the description of generalization is difficult to follow. In particular, Figure 7 is hard to interpret, so perhaps the data can be presented in a more intuitive way. The premise is understandable – that knowing the R-L and L-R neuronal trajectories in one task allows classification into R-L and L-R for the other tasks, but the figure does not aid that understanding. Also, it would be useful that provide some analysis and discussion of the relative ability to classify into trajectories (L-R vs R-L) vs into tasks (VD, SA, DA) vs into specific trial types (i.e., task and trajectory information combined)."
+    },
+    "paragraph_233": {
+      "type": "paragraph",
+      "id": "paragraph_233",
+      "content": "[Editors' note: the following comments were also sent to the author before acceptance.]"
+    },
+    "paragraph_234": {
+      "type": "paragraph",
+      "id": "paragraph_234",
+      "content": "The author attempted to address the concerns of all the reviewers by performing ANCOVAs to eliminate cells for which differences in direction, speed, or lateral position could account for differences in firing patterns associated with distinct trajectories. However, nearly all the examples are taken from areas of the maze stem at the beginning or end of the stem where the animal's behavior, location, and direction of movement clearly differ. This is evident in the nearly all the examples shown in Figure 3 (exceptions are RatF120112-cell 53 and RatG111125-cell 326). We fear that somehow the ANCOVAs are not detecting this confound and this could undermine the conclusions. We recommend that you select a middle region of the maze stem that excludes the top and bottom areas where the trajectory of the rat separates, and use only the data from the middle region for all analyses.10.7554/eLife.00321.016"
+    },
+    "heading_235": {
+      "type": "heading",
+      "id": "heading_235",
+      "level": 2,
+      "content": "Author response",
+      "nodes": []
+    },
+    "paragraph_236": {
+      "type": "paragraph",
+      "id": "paragraph_236",
+      "content": "* The reviewers agree that the paper could be useful and important, but requires additional analyses and improved presentation of the findings."
+    },
+    "annotation_237": {
+      "type": "emphasis",
+      "id": "annotation_237",
+      "path": [
+        "paragraph_236",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        142
+      ]
+    },
+    "paragraph_238": {
+      "type": "paragraph",
+      "id": "paragraph_238",
+      "content": "The entire manuscript has been thoroughly rewritten and reconstructed. According to the reviewers' suggestions, two additional analyses were performed. To improve the presentation of the findings, some comments and figures for explanation were added."
+    },
+    "paragraph_239": {
+      "type": "paragraph",
+      "id": "paragraph_239",
+      "content": "There is a major concern about the need to control for potential differences between location, speed, and head direction in making claims about differential firing on the stem of the maze prior to left and right turn trials (see, for example, Wood et al., 2000). This will require substantial further analyses and likely restriction of the analyses to the central portion of the maze stem."
+    },
+    "annotation_240": {
+      "type": "emphasis",
+      "id": "annotation_240",
+      "path": [
+        "paragraph_239",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        388
+      ]
+    },
+    "paragraph_241": {
+      "type": "paragraph",
+      "id": "paragraph_241",
+      "content": "In the revised manuscript, I performed an additional analysis using ANCOVA as Wood et al., 2000 had conducted. The results are shown in Figure 4 of the revised manuscript and suggest that the differential firing in the central stem of the maze was significant even when running speed, head direction, and lateral position are taken into account. This is consistent with the findings of Wood et al., 2000. I added a paragraph describing this to the Results section and a few sentences to the Discussion section. To describe my methods in detail, I added a paragraph to the Materials and methods section."
+    },
+    "paragraph_242": {
+      "type": "paragraph",
+      "id": "paragraph_242",
+      "content": "* There are also concerns about the language and presentation of data. Part of the problem is the use of too much jargon."
+    },
+    "annotation_243": {
+      "type": "emphasis",
+      "id": "annotation_243",
+      "path": [
+        "paragraph_242",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        120
+      ]
+    },
+    "paragraph_244": {
+      "type": "paragraph",
+      "id": "paragraph_244",
+      "content": "In line with the reviewers' suggestions, I have thoroughly rewritten and reconstructed the previous manuscript. In particular, I have replaced the terms “spatiotemporal context”, “non-spatial context”, and “combination of spatiotemporal and non-spatial contexts” with “journey”, “task-demand”, and “trial type”, respectively, throughout the Results, Discussion, and Materials and methods sections, and the figure legends in the revised version of the manuscript. In addition, I have replaced “spatial measure” with “spatial correlation”."
+    },
+    "paragraph_245": {
+      "type": "paragraph",
+      "id": "paragraph_245",
+      "content": "* In addition, the description of generalization is difficult to follow. In particular, Figure 7 is hard to interpret, so perhaps the data can be presented in a more intuitive way. The premise is understandable – that knowing the R-L and L-R neuronal trajectories in one task allows classification into R-L and L-R for the other tasks, but the figure does not aid that understanding."
+    },
+    "annotation_246": {
+      "type": "emphasis",
+      "id": "annotation_246",
+      "path": [
+        "paragraph_245",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        382
+      ]
+    },
+    "paragraph_247": {
+      "type": "paragraph",
+      "id": "paragraph_247",
+      "content": "To clearly demonstrate the presentation of the data for generalization accuracy, I have added a subfigure to Figure 9 (Figure 7 in the previous version of the manuscript) and some comments to the legend of Figure 9. In addition, to clearly describe the generalization analysis, I have added a few sentences to the Results section."
+    },
+    "paragraph_248": {
+      "type": "paragraph",
+      "id": "paragraph_248",
+      "content": "Also, it would be useful that provide some analysis and discussion of the relative ability to classify into trajectories (L-R vs R-L) versus into tasks (VD, SA, DA) versus into specific trial types (i.e., task and trajectory information combined)."
+    },
+    "annotation_249": {
+      "type": "emphasis",
+      "id": "annotation_249",
+      "path": [
+        "paragraph_248",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        246
+      ]
+    },
+    "paragraph_250": {
+      "type": "paragraph",
+      "id": "paragraph_250",
+      "content": "In line with the reviewers' suggestions, I have performed an additional analysis to assess the relative ability to classify journeys, versus task-demands, versus specific trial types using a binary classification scheme. Figure 8 of the revised manuscript shows these results. The results suggest that the abilities of the hippocampal ensemble activity to identify journeys, task-demands, and trial types are sufficiently high and relatively similar to each other. I added details pertaining to my methods to the Materials and methods section. Moreover, I have added some text addressing these results to the Results and Discussion sections."
+    },
+    "paragraph_251": {
+      "type": "paragraph",
+      "id": "paragraph_251",
+      "content": "[Editors' note: the following comments were also sent to the author before acceptance.]"
+    },
+    "annotation_252": {
+      "type": "emphasis",
+      "id": "annotation_252",
+      "path": [
+        "paragraph_251",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        86
+      ]
+    },
+    "paragraph_253": {
+      "type": "paragraph",
+      "id": "paragraph_253",
+      "content": "The author attempted to address the concerns of all the reviewers by performing ANCOVAs to eliminate cells for which differences in direction, speed, or lateral position could account for differences in firing patterns associated with distinct trajectories. However, nearly all the examples are taken from areas of the maze stem at the beginning or end of the stem where the animal's behavior, location, and direction of movement clearly differ. This is evident in the nearly all the examples shown in Figure 3 (exceptions are RatF120112-cell 53 and RatG111125-cell 326). We fear that somehow the ANCOVAs are not detecting this confound and this could undermine the conclusions."
+    },
+    "annotation_254": {
+      "type": "emphasis",
+      "id": "annotation_254",
+      "path": [
+        "paragraph_253",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        677
+      ]
+    },
+    "paragraph_255": {
+      "type": "paragraph",
+      "id": "paragraph_255",
+      "content": "The reviewers pointed out that the detection error of the ANCOVAs could undermine the main conclusions because many place fields in Figure 3 in the previous manuscript can be seen at the beginning or end of the stem. I have addressed this concern in three ways."
+    },
+    "paragraph_256": {
+      "type": "paragraph",
+      "id": "paragraph_256",
+      "content": "1) Results of the reanalysis: I completely agree with the reviewers' concern about Figure 3. However, although I repeatedly checked place fields in Figure 3 in the previous manuscript, the results suggested that they fired at significantly different rates in the central stem even when head direction, running speed, and lateral position in the central stem were taken into account. For example, although RAT# G111125 Cell 109 in Figure 3b in the previous manuscript showed a large part of the place fields at the beginning or end of the stem (dotted red box in Author response image 1), all analyses in the previous manuscript excluded such regions. Instead, only other remaining parts of the place fields in the central stem (i.e., locations where the rat's head direction, running speed, and lateral position do not clearly differ) were analyzed in the previous manuscript (solid red box in Author response image 1; arrows: analyzed place fields) and showed significant rate differences. Therefore, I concluded that there is no serious concern about the detection error of the ANCOVAs."
+    },
+    "annotation_257": {
+      "type": "strong",
+      "id": "annotation_257",
+      "path": [
+        "paragraph_256",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        3,
+        28
+      ]
+    },
+    "image_fig10": {
+      "type": "image",
+      "id": "image_fig10",
+      "label": "Author response image 1.",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00321/svg/elife00321f010.svg",
+      "title": "Red solid and dotted boxes indicate the analyzed and unanalyzed regions of the central stem, respectively.",
+      "caption": "paragraph_image_fig10",
+      "graphic_id": "elife00321f010",
+      "format": "image"
+    },
+    "paragraph_image_fig10": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig10",
+      "content": "Arrows indicate the location of the analyzed place fields. The rate was coded on a color scale from blue (silent) to red (maximum rate). The pixels that were not sampled are white. The symbols above the map indicate the journey, task-demand and illuminated light-cue. For each cell, the rate scale corresponds to the peak firing rate in Hz in that condition (indicated to the right of the rate maps)."
+    },
+    "paragraph_258": {
+      "type": "paragraph",
+      "id": "paragraph_258",
+      "content": "2) The bias of the place fields location shown in Figure 3: As the journey-dependent coding was changed in a global remapping manner, if the place fields of a place cell in one of two journeys were located at the beginning or end of the central stem, the fields in another journey, if any, tended to be located at the another side (e.g., Author response Image 2, RAT# G111125 Cell 109 in Figure 3b in the previous manuscript). The length of the central stem was 60cm and the place field width was approximately 20–30cm so that the beginning and end of the central stem tended to be exclusive to each other. In addition to the tendency, to demonstrate the place fields in the central stem in both left-to-right and right-to-left journeys, and the main finding (i.e., the journey-dependent coding was changed in a global remapping manner), the place fields in Figure 3 in the previous manuscript were selected. This could have caused the reviewers' concern."
+    },
+    "annotation_259": {
+      "type": "strong",
+      "id": "annotation_259",
+      "path": [
+        "paragraph_258",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        3,
+        58
+      ]
+    },
+    "image_fig11": {
+      "type": "image",
+      "id": "image_fig11",
+      "label": "Author response image 2.",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00321/svg/elife00321f011.svg",
+      "title": "The journey-dependent global remapping may make the place fields be exclusively located at the beginning or end of the central stem.",
+      "caption": "paragraph_image_fig11",
+      "graphic_id": "elife00321f011",
+      "format": "image"
+    },
+    "paragraph_image_fig11": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig11",
+      "content": "The rate was coded on a color scale from blue (silent) to red (maximum rate). The pixels that were not sampled are white. The symbols above the map indicate the journey, task-demand, and illuminated light-cue. For each cell, the rate scale corresponds to the peak firing rate in Hz in that condition (indicated to the right of the rate maps)."
+    },
+    "paragraph_260": {
+      "type": "paragraph",
+      "id": "paragraph_260",
+      "content": "We recommend that you select a middle region of the maze stem that excludes the top and bottom areas where the trajectory of the rat separates, and use only the data from the middle region for all analyses."
+    },
+    "annotation_261": {
+      "type": "emphasis",
+      "id": "annotation_261",
+      "path": [
+        "paragraph_260",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        205
+      ]
+    },
+    "paragraph_262": {
+      "type": "paragraph",
+      "id": "paragraph_262",
+      "content": "3) Analyses of the place fields in the middle region of the central stem: In line with the reviewers' suggestion, I selected cells which showed the place fields restricted in a middle region of the central stem and fired at significantly different rates between different journeys or between different subtasks even when running speed, head direction, and lateral position were taken into account. The results shown in Author response images 4–9 did not undermine the main conclusions, with the exceptions that only the distributions of the change in firing rates in the place fields between VD3 and SA2 were similar to control condition (n.s., P=0.44, Wilcoxon rank sum test, Author response image 5), and that the relative ability of distinguishing trial types was slightly higher than that of distinguishing task-demands (P=0.03, Kruskal-Wallis test with Tukey honestly significant difference (HSD) post-hoc test, Author response image 8). However, as the number of selected cells for each ensemble (K: 3 cells, F: 4 cells, L: 9 cells, B: 16 cells, G: 27 cells; Only 5% (59/1119) of the recorded cells) was too few to statistically analyze at the ensemble level, these minor exceptions might be due to the sampling bias."
+    },
+    "annotation_263": {
+      "type": "strong",
+      "id": "annotation_263",
+      "path": [
+        "paragraph_262",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        3,
+        72
+      ]
+    },
+    "annotation_264": {
+      "type": "emphasis",
+      "id": "annotation_264",
+      "path": [
+        "paragraph_262",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        645,
+        646
+      ]
+    },
+    "annotation_265": {
+      "type": "emphasis",
+      "id": "annotation_265",
+      "path": [
+        "paragraph_262",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        825,
+        826
+      ]
+    },
+    "paragraph_266": {
+      "type": "paragraph",
+      "id": "paragraph_266",
+      "content": "Taken together, as I concluded that the reason that nearly all the examples in Figure 3b are taken from areas of the maze stem at the beginning or end of the stem was not due to the detection error of the ANCOVAs, but due to the selection bias influenced by the global remapping of place fields, I would instead fear that the restricted selection of cells in the middle of the central stem causes the sampling bias and could undermine the main conclusions. Therefore, the data in this response letter were not included in the revised manuscript."
+    },
+    "paragraph_267": {
+      "type": "paragraph",
+      "id": "paragraph_267",
+      "content": "Also, in all examples, indicate that middle region on illustrations show only examples of cells that differ in firing pattern in that middle section."
+    },
+    "annotation_268": {
+      "type": "emphasis",
+      "id": "annotation_268",
+      "path": [
+        "paragraph_267",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        148
+      ]
+    },
+    "paragraph_269": {
+      "type": "paragraph",
+      "id": "paragraph_269",
+      "content": "As I totally agree with the reviewers' concern about Figure 3b, I removed ambiguous cells and replaced five cells in Figure 3b in the previous manuscript with cells that fired at significantly different rates in the middle of the central stem in the revised manuscript (see Author response image 3; boxes indicate the middle of the central stem)."
+    },
+    "image_fig12": {
+      "type": "image",
+      "id": "image_fig12",
+      "label": "Author response image 3.",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00321/svg/elife00321f012.svg",
+      "title": "Journey-dependent coding of a place-specific activity modulated with task-demand.",
+      "caption": "paragraph_image_fig12",
+      "graphic_id": "elife00321f012",
+      "format": "image"
+    },
+    "paragraph_image_fig12": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig12",
+      "content": "The rate maps for five CA1 pyramidal cells. The maps are averages for repeated sessions. Each row shows the data from one pyramidal cell. Note that different journeys in the same place resulted in place fields similar in locations, but different task-demands caused different firing intensities in those place fields. Boxes indicate the middle region of the central stem. The rate was coded on a color scale from blue (silent) to red (maximum rate). The pixels that were not sampled are white. The symbols above the map indicate the journey, task-demand, and illuminated light-cue. For each cell, the rate scale corresponds to the peak firing rate in Hz in that condition (indicated to the right of the rate maps)."
+    },
+    "image_fig13": {
+      "type": "image",
+      "id": "image_fig13",
+      "label": "Author response image 4.",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00321/svg/elife00321f013.svg",
+      "title": "Proportion of place cells that fired at significantly different rates in the middle region of the central stem.",
+      "caption": "paragraph_image_fig13",
+      "graphic_id": "elife00321f013",
+      "format": "image"
+    },
+    "paragraph_image_fig13": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig13"
+    },
+    "image_fig14": {
+      "type": "image",
+      "id": "image_fig14",
+      "label": "Author response image 5.",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00321/svg/elife00321f014.svg",
+      "title": "A quantitative assessment of the spatial and rate similarities between a pair of trial types for place cells that fired at significantly different rates in the middle region of the central stem.",
+      "caption": "paragraph_image_fig14",
+      "graphic_id": "elife00321f014",
+      "format": "image"
+    },
+    "paragraph_image_fig14": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig14",
+      "content": "(a) The region of interest (ROI) was set at the region highlighted in the green shaded box. (c) In contrast to figure 4, only the distributions of the change in firing rates in the place fields between VD3 and SA2 were similar to control condition (n.s., P=0.44, Wilcoxon rank sum test)."
+    },
+    "annotation_270": {
+      "type": "emphasis",
+      "id": "annotation_270",
+      "path": [
+        "paragraph_image_fig14",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        255,
+        256
+      ]
+    },
+    "image_fig15": {
+      "type": "image",
+      "id": "image_fig15",
+      "label": "Author response image 6.",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00321/svg/elife00321f015.svg",
+      "title": "Neuronal trajectory of different journeys and different future directions for place cells that fired at significantly different rates in the middle region of the central stem.",
+      "caption": "paragraph_image_fig15",
+      "graphic_id": "elife00321f015",
+      "format": "image"
+    },
+    "paragraph_image_fig15": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig15"
+    },
+    "image_fig16": {
+      "type": "image",
+      "id": "image_fig16",
+      "label": "Author response image 7.",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00321/svg/elife00321f016.svg",
+      "title": "Episode-specific neuronal trajectories for place cells that fired at significantly different rates in the middle region of the central stem.",
+      "caption": "paragraph_image_fig16",
+      "graphic_id": "elife00321f016",
+      "format": "image"
+    },
+    "paragraph_image_fig16": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig16"
+    },
+    "image_fig17": {
+      "type": "image",
+      "id": "image_fig17",
+      "label": "Author response image 8.",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00321/svg/elife00321f017.svg",
+      "title": "Comparison of accuracy of distinguishing journeys, task-demands, and trial types from neuronal ensemble activity of place cells that fired at significantly different rates in the middle region of the central stem.",
+      "caption": "paragraph_image_fig17",
+      "graphic_id": "elife00321f017",
+      "format": "image"
+    },
+    "paragraph_image_fig17": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig17",
+      "content": "In contrast to figure 8, the average classification accuracy of distinguishing trial types was different from that of distinguishing task-demands (P=0.03, Kruskal-Wallis test with Tukey honestly significant difference (HSD) post-hoc test)."
+    },
+    "annotation_271": {
+      "type": "emphasis",
+      "id": "annotation_271",
+      "path": [
+        "paragraph_image_fig17",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        147,
+        148
+      ]
+    },
+    "image_fig18": {
+      "type": "image",
+      "id": "image_fig18",
+      "label": "Author response image 9.",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00321/svg/elife00321f018.svg",
+      "title": "Generalization accuracy of determining a journey over task-demands from neuronal ensemble activity of place cells that fired at significantly different rates in the middle region of the central stem.",
+      "caption": "paragraph_image_fig18",
+      "graphic_id": "elife00321f018",
+      "format": "image"
+    },
+    "paragraph_image_fig18": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig18"
     }
   }
 }

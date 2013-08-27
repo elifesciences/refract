@@ -63,7 +63,36 @@
         "heading_s4-11",
         "paragraph_255",
         "sub-article",
-        "sub-article"
+        "heading_259",
+        "paragraph_260",
+        "paragraph_262",
+        "paragraph_264",
+        "paragraph_265",
+        "paragraph_266",
+        "paragraph_267",
+        "paragraph_268",
+        "paragraph_269",
+        "paragraph_271",
+        "paragraph_272",
+        "paragraph_273",
+        "sub-article",
+        "heading_274",
+        "paragraph_275",
+        "paragraph_277",
+        "paragraph_279",
+        "paragraph_281",
+        "paragraph_282",
+        "paragraph_285",
+        "paragraph_286",
+        "paragraph_288",
+        "paragraph_289",
+        "paragraph_290",
+        "paragraph_291",
+        "paragraph_293",
+        "paragraph_294",
+        "paragraph_295",
+        "paragraph_297",
+        "paragraph_298"
       ]
     },
     "figures": {
@@ -424,7 +453,7 @@
     "paragraph_2": {
       "type": "paragraph",
       "id": "paragraph_2",
-      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited.10.7554/eLife.00348.001"
+      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited."
     },
     "annotation_3": {
       "type": "link",
@@ -455,7 +484,7 @@
     "paragraph_5": {
       "type": "paragraph",
       "id": "paragraph_5",
-      "content": "DOI: http://dx.doi.org/10.7554/eLife.00348.00110.7554/eLife.00348.002"
+      "content": "DOI: http://dx.doi.org/10.7554/eLife.00348.001"
     },
     "annotation_6": {
       "type": "strong",
@@ -6421,6 +6450,302 @@
       "level": 1,
       "content": "Article Commentary",
       "nodes": []
+    },
+    "heading_259": {
+      "type": "heading",
+      "id": "heading_259",
+      "level": 2,
+      "content": "Decision letter",
+      "nodes": []
+    },
+    "paragraph_260": {
+      "type": "paragraph",
+      "id": "paragraph_260",
+      "content": "eLife posts the editorial decision letter and author response on a selection of the published articles (subject to the approval of the authors). An edited version of the letter sent to the authors after peer review is shown, indicating the substantive concerns or comments; minor concerns are not usually shown. Reviewers have the opportunity to discuss the decision before the letter is sent (see review process). Similarly, the author response typically shows only responses to the major concerns raised by the reviewers."
+    },
+    "annotation_261": {
+      "type": "link",
+      "id": "annotation_261",
+      "path": [
+        "paragraph_260",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        398,
+        412
+      ],
+      "url": "http://www.elifesciences.org/the-journal/review-process"
+    },
+    "paragraph_262": {
+      "type": "paragraph",
+      "id": "paragraph_262",
+      "content": "Thank you for choosing to send your work entitled “Epigenetic conservation at gene regulatory elements revealed by non-methylated DNA profiling in seven vertebrates” for consideration at eLife. Your article has been evaluated by a Senior editor and 3 reviewers, one of whom is a member of our Board of Reviewing Editors. The following individuals responsible for the peer review of your submission want to reveal their identity: Anne Ferguson-Smith (Reviewing editor); Wolf Reik (peer reviewer)."
+    },
+    "annotation_263": {
+      "type": "emphasis",
+      "id": "annotation_263",
+      "path": [
+        "paragraph_262",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        187,
+        192
+      ]
+    },
+    "paragraph_264": {
+      "type": "paragraph",
+      "id": "paragraph_264",
+      "content": "The Reviewing editor and the other reviewers discussed the manuscript before we reached this decision, and the Reviewing editor has assembled the following comments based on the individual reports."
+    },
+    "paragraph_265": {
+      "type": "paragraph",
+      "id": "paragraph_265",
+      "content": "General assessment: this is a well executed, clearly presented original piece of work and publication is recommended."
+    },
+    "paragraph_266": {
+      "type": "paragraph",
+      "id": "paragraph_266",
+      "content": "Comments to address:"
+    },
+    "paragraph_267": {
+      "type": "paragraph",
+      "id": "paragraph_267",
+      "content": "1. Please validate some of the new NMIs by orthogonal, quantitative single locus studies, such as bisulphite sequencing, pyrosequencing or EpiTyping to support the idea that the method used by the authors confidently identifies NMIs. This is mentioned as data not shown but please provide some examples."
+    },
+    "paragraph_268": {
+      "type": "paragraph",
+      "id": "paragraph_268",
+      "content": "2. Could the authors briefly summarise (perhaps in the Introduction) why the different species have such different sequence composition, leading to the problem with the prediction algorithm. Also, the performance of the affinity-based assay may differ between species depending on the CpG content overall and at CpG-dense loci. This should be acknowledged."
+    },
+    "paragraph_269": {
+      "type": "paragraph",
+      "id": "paragraph_269",
+      "content": "3. The substantial variability between species of genomic CpG and (G+C) content has previously been described and should be cited (for example PMID: 17932072), as it implies the need for species-specific CpG island annotation rather than the UCSC approach."
+    },
+    "annotation_270": {
+      "type": "link",
+      "id": "annotation_270",
+      "path": [
+        "paragraph_269",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        143,
+        157
+      ],
+      "url": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2175314/"
+    },
+    "paragraph_271": {
+      "type": "paragraph",
+      "id": "paragraph_271",
+      "content": "4. It is not clear why the authors talk about NMIs at promoters being “contrary to expectations”, when the opposite is probably more generally accepted. Please justify or change this."
+    },
+    "paragraph_272": {
+      "type": "paragraph",
+      "id": "paragraph_272",
+      "content": "5. Although this does not influence the conclusions, it should be acknowledged that an affinity approach (such as the use of the CXXC reagent) is more likely to be sensitive to CpG-dense than CpG-depleted loci."
+    },
+    "paragraph_273": {
+      "type": "paragraph",
+      "id": "paragraph_273",
+      "content": "6. Regarding the UCSC CpG island annotation, it should be recognized that the annotation is performed on repeat masked sequence, so the quality of the annotation of repetitive elements also plays a role in CpG island annotation (in addition to reference sequence quality).10.7554/eLife.00348.016"
+    },
+    "heading_274": {
+      "type": "heading",
+      "id": "heading_274",
+      "level": 2,
+      "content": "Author response",
+      "nodes": []
+    },
+    "paragraph_275": {
+      "type": "paragraph",
+      "id": "paragraph_275",
+      "content": "1. Please validate some of the new NMIs by orthogonal, quantitative single locus studies, such as bisulphite sequencing, pyrosequencing or EpiTyping to support the idea that the method used by the authors confidently identifies NMIs. This is mentioned as data not shown but please provide some examples."
+    },
+    "annotation_276": {
+      "type": "emphasis",
+      "id": "annotation_276",
+      "path": [
+        "paragraph_275",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        302
+      ]
+    },
+    "paragraph_277": {
+      "type": "paragraph",
+      "id": "paragraph_277",
+      "content": "As requested by the reviewers we have now included bisulphite sequencing analysis to support the idea that Bio-CAP confidently identifies NMIs. This is included in the new figure, Figure 5–figure supplement 1', and we now refer to this figure in the manuscript in place of ‘data not shown’. In all cases the bisulfite sequencing demonstrates that NMIs identified by Bio-CAP signal correspond to regions containing non-methylated DNA. This is in agreement with our previous work describing the Bio-CAP technique (Blackledge NP and Long HK, NAR, 2012). Furthermore, we demonstrate using bisulphite sequencing that unique NMIs between testes and liver in both mouse and zebrafish correspond to regions with differential methylation."
+    },
+    "annotation_278": {
+      "type": "link",
+      "id": "annotation_278",
+      "path": [
+        "paragraph_277",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        512,
+        548
+      ],
+      "url": "http://nar.oxfordjournals.org/content/40/4/e32.long"
+    },
+    "paragraph_279": {
+      "type": "paragraph",
+      "id": "paragraph_279",
+      "content": "2. Could the authors briefly summarise (perhaps in the Introduction) why the different species have such different sequence composition, leading to the problem with the prediction algorithm. Also, the performance of the affinity-based assay may differ between species depending on the CpG content overall and at CpG-dense loci. This should be acknowledged."
+    },
+    "annotation_280": {
+      "type": "emphasis",
+      "id": "annotation_280",
+      "path": [
+        "paragraph_279",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        355
+      ]
+    },
+    "paragraph_281": {
+      "type": "paragraph",
+      "id": "paragraph_281",
+      "content": "We agree with the reviewers that it would be useful to discuss in more detail why different species have different sequence composition. However, we thought it would be more appropriate to cover this in the section entitled ‘Nucleotide properties within NMIs are variable in different vertebrate genomes’ than in the Introduction. We have added text to explain how species acquire different sequence composition and also added a statement qualifying that Bio-CAP is an affinity based approach and therefore this could affect performance between species."
+    },
+    "paragraph_282": {
+      "type": "paragraph",
+      "id": "paragraph_282",
+      "content": "3. The substantial variability between species of genomic CpG and (G+C) content has previously been described and should be cited (for example PMID: 17932072), as it implies the need for species-specific CpG island annotation rather than the UCSC approach."
+    },
+    "annotation_283": {
+      "type": "link",
+      "id": "annotation_283",
+      "path": [
+        "paragraph_282",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        143,
+        157
+      ],
+      "url": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2175314/"
+    },
+    "annotation_284": {
+      "type": "emphasis",
+      "id": "annotation_284",
+      "path": [
+        "paragraph_282",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        255
+      ]
+    },
+    "paragraph_285": {
+      "type": "paragraph",
+      "id": "paragraph_285",
+      "content": "We agree with the reviewer that the variability in nucleotide content amongst species has previously been identified as a hurdle to accurate bioinformatic prediction of non-methylated islands using the UCSC based approach. We have added text to the ‘Nucleotide properties within NMIs are variable in different vertebrate genomes’ section of the manuscript to clarify this point and we have cited the suggested reference."
+    },
+    "paragraph_286": {
+      "type": "paragraph",
+      "id": "paragraph_286",
+      "content": "4. It is not clear why the authors talk about NMIs at promoters being “contrary to expectations”, when the opposite is probably more generally accepted. Please justify or change this."
+    },
+    "annotation_287": {
+      "type": "emphasis",
+      "id": "annotation_287",
+      "path": [
+        "paragraph_286",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        182
+      ]
+    },
+    "paragraph_288": {
+      "type": "paragraph",
+      "id": "paragraph_288",
+      "content": "In warm-blooded vertebrates, including human and mouse, more than half of all gene transcription start sites (TSSs) are associated with CGIs. In contrast, CGI predictions in cold-blooded vertebrates, including frog and zebrafish, are infrequently associated with gene TSSs. This potentially represents a major difference in promoter architecture between warm-blooded and cold-blooded vertebrates, and has been used previously as an argument that CGIs may have arisen as a feature in the gene promoters of endotherms. We use a phrase similar to “contrary to expectation” a number of times during the manuscript to refer to the fact that CGI predictions, and their usage in comparative evolutionary studies, suggest that CGI usage, and in warm- and cold-blooded vertebrates, may be divergent."
+    },
+    "paragraph_289": {
+      "type": "paragraph",
+      "id": "paragraph_289",
+      "content": "In retrospect we see that it would be more useful to clarify this point early in the manuscript, and we have now added sections to the revised manuscript that illustrates this point quantitatively and clarifies the differences in CGI prediction between warm- and cold-blooded vertebrates within the Introduction and within the section ‘NMIs are a highly conserved feature of vertebrate gene promoters’ section."
+    },
+    "paragraph_290": {
+      "type": "paragraph",
+      "id": "paragraph_290",
+      "content": "As indicated by the reviewers this concept is iterated in five places throughout the manuscript. We have now clarified this point or further supported it by references in all instances."
+    },
+    "paragraph_291": {
+      "type": "paragraph",
+      "id": "paragraph_291",
+      "content": "5. Although this does not influence the conclusions, it should be acknowledged that an affinity approach (such as the use of the CXXC reagent) is more likely to be sensitive to CpG-dense than CpG-depleted loci."
+    },
+    "annotation_292": {
+      "type": "emphasis",
+      "id": "annotation_292",
+      "path": [
+        "paragraph_291",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        209
+      ]
+    },
+    "paragraph_293": {
+      "type": "paragraph",
+      "id": "paragraph_293",
+      "content": "We have included the following text to emphasise this point:"
+    },
+    "paragraph_294": {
+      "type": "paragraph",
+      "id": "paragraph_294",
+      "content": "“Bio-CAP identifies NMIs through an affinity based isolation of non-methylated CpGs and therefore does not solely rely on nucleotide content in the same way prediction algorithms do. Nevertheless, it does remain possible that the efficiency of NMI identification by Bio-CAP between species may differ due to the overall non-methylated CpG content and density. However this does not appear to be the case as non-methylated DNA fragments, even with low CpG density, are effectively detected by Bio-CAP (Blackledge et al, 2012) and a broad distribution of CpG density within NMIs is identified in all species.”"
+    },
+    "paragraph_295": {
+      "type": "paragraph",
+      "id": "paragraph_295",
+      "content": "6. Regarding the UCSC CpG island annotation, it should be recognized that the annotation is performed on repeat masked sequence, so the quality of the annotation of repetitive elements also plays a role in CpG island annotation (in addition to reference sequence quality)."
+    },
+    "annotation_296": {
+      "type": "emphasis",
+      "id": "annotation_296",
+      "path": [
+        "paragraph_295",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        271
+      ]
+    },
+    "paragraph_297": {
+      "type": "paragraph",
+      "id": "paragraph_297",
+      "content": "We have included a statement in the ‘Nucleotide properties within NMIs are variable in different vertebrate genomes’ section to emphasise that the quality of repeat element annotation will also affect the accuracy of CGI prediction:"
+    },
+    "paragraph_298": {
+      "type": "paragraph",
+      "id": "paragraph_298",
+      "content": "“The failure of CpG island prediction algorithms to accurately identify NMIs in different species is almost certainly dependent on the variation in CpG density and G+C content amongst vertebrate genomes, but also will rely on genome assembly and annotation quality, particularly of repetitive elements.”"
     }
   }
 }

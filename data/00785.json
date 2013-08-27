@@ -81,7 +81,29 @@
         "heading_s4-11",
         "paragraph_661",
         "sub-article",
-        "sub-article"
+        "heading_693",
+        "paragraph_694",
+        "paragraph_696",
+        "paragraph_698",
+        "paragraph_699",
+        "paragraph_700",
+        "paragraph_701",
+        "paragraph_703",
+        "paragraph_705",
+        "sub-article",
+        "heading_709",
+        "paragraph_710",
+        "paragraph_712",
+        "paragraph_720",
+        "paragraph_722",
+        "paragraph_723",
+        "paragraph_728",
+        "paragraph_730",
+        "paragraph_739",
+        "paragraph_747",
+        "paragraph_750",
+        "paragraph_755",
+        "paragraph_757"
       ]
     },
     "figures": {
@@ -353,7 +375,7 @@
     "paragraph_2": {
       "type": "paragraph",
       "id": "paragraph_2",
-      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited.10.7554/eLife.00785.001"
+      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited."
     },
     "annotation_3": {
       "type": "link",
@@ -384,7 +406,7 @@
     "paragraph_5": {
       "type": "paragraph",
       "id": "paragraph_5",
-      "content": "DOI: http://dx.doi.org/10.7554/eLife.00785.00110.7554/eLife.00785.002"
+      "content": "DOI: http://dx.doi.org/10.7554/eLife.00785.001"
     },
     "annotation_6": {
       "type": "strong",
@@ -11517,6 +11539,680 @@
       "level": 1,
       "content": "Article Commentary",
       "nodes": []
+    },
+    "heading_693": {
+      "type": "heading",
+      "id": "heading_693",
+      "level": 2,
+      "content": "Decision letter",
+      "nodes": []
+    },
+    "paragraph_694": {
+      "type": "paragraph",
+      "id": "paragraph_694",
+      "content": "eLife posts the editorial decision letter and author response on a selection of the published articles (subject to the approval of the authors). An edited version of the letter sent to the authors after peer review is shown, indicating the substantive concerns or comments; minor concerns are not usually shown. Reviewers have the opportunity to discuss the decision before the letter is sent (see review process). Similarly, the author response typically shows only responses to the major concerns raised by the reviewers."
+    },
+    "annotation_695": {
+      "type": "link",
+      "id": "annotation_695",
+      "path": [
+        "paragraph_694",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        398,
+        412
+      ],
+      "url": "http://elife.elifesciences.org/review-process"
+    },
+    "paragraph_696": {
+      "type": "paragraph",
+      "id": "paragraph_696",
+      "content": "Thank you for sending your work entitled “MAVS Recruits Multiple Ubiquitin E3 Ligases to Activate Antiviral Signaling Cascades” for consideration at eLife. Your article has been favorably evaluated by a Senior editor and 3 reviewers, one of whom is a member of our Board of Reviewing Editors."
+    },
+    "annotation_697": {
+      "type": "emphasis",
+      "id": "annotation_697",
+      "path": [
+        "paragraph_696",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        149,
+        154
+      ]
+    },
+    "paragraph_698": {
+      "type": "paragraph",
+      "id": "paragraph_698",
+      "content": "The Reviewing editor and the other reviewers discussed their comments before we reached this decision, and the Reviewing editor has assembled the following comments to help you prepare a revised submission."
+    },
+    "paragraph_699": {
+      "type": "paragraph",
+      "id": "paragraph_699",
+      "content": "The manuscript by Liu et al. elucidated the biochemical mechanism for MAVS activation of type I interferon response and NF-κB signaling. Upon innate immune detection of cytoplasmic viral RNA by RIG-I receptors, MAVS, a mitochondrial outer membrane protein, polymerizes and signals NF-κB and IRF3 activation through IKK and TBK1 kinases. This process critically requires ubiquitination, but the nature of the ubiquitination events and the roles of TRAF-family ubiquitin ligases have been controversial and are not clearly defined. In this study, the authors employed cell-free reconstitution and biochemical fraction approaches, and identified TRAF6 being one of the key ubiquitin ligases in mediating MAVS activation of both NF-κB and IRF3 signaling. Using viral infection of different TRAF KO MEFs, the authors further discovered that TRAF2/5, but not TRAF3, play a redundant role with TRAF6 and function cooperatively with TRAF6 to mediate ubiquitination signaling upon MAVS activation. Importantly, all three TRAFs (TRAF2/5/6) are recruited to MAVS upon viral RNA-induced MAVS polymerization, and only when all three TRAFs are depleted is MAVS-mediated antiviral signaling completely blocked. This clarifies the role of different TRAF ubiquitin ligases in MAVS-mediated antiviral signaling. Moreover, the study also demonstrates that K63-linked ubiquitin chains, sensed simultaneously by the two ubiquitin-binding domains in NEMO, play a pre-dominant role in MAVS activation of NF-κB and IRF3 signaling through IKK/TBK1. These findings are of great interest and certainly seem to advance our understanding of the RIG-I-MAVS antiviral signaling. The study is carefully designed and performed, the evidences provided are quite thorough and complete, and the conclusion drawn is reasonably justified. However, there are several issues that need to be addressed before the manuscript can be accepted for publication:"
+    },
+    "paragraph_700": {
+      "type": "paragraph",
+      "id": "paragraph_700",
+      "content": "1) The finding of LUBAC coordinating with TRAF2/5 in MAVS signaling contradicts with two prior reports that instead show a negative role (Inn et al. Mol. Cell 41:354; Belgnaoui et al. Cell Host & Microbe 12:211). The authors should try resolving this discrepancy. The authors should compare the impact of deficiency of each of the three LUBAC components on MAVS signaling as other studies suggested that, although the three proteins associate, they are differentially involved in distinct functions. The authors may also test this using different cell lines."
+    },
+    "paragraph_701": {
+      "type": "paragraph",
+      "id": "paragraph_701",
+      "content": "2) TRAF2/5 and LUBAC function redundantly in generating ubiquitin chain signals in the absence of TRAF6. Meanwhile, the authors also indicate that K63 ubiquitin chains play a major role in MAVS signaling. TRAF2/5 is suggested in some previous studies to have no E3 activity while LUBAC only produces linear chains. Therefore, the authors should address how K63 ubiquitin chains are generated in the absence of TRAF6. Do the authors really mean that TRAF2/5 and/or LUBAC can make K63 ubiquitin chains? The authors should also perform knockdown experiments to clearly rule out the role of cIAPs in Traf6-deficient cells."
+    },
+    "annotation_702": {
+      "type": "emphasis",
+      "id": "annotation_702",
+      "path": [
+        "paragraph_701",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        596,
+        601
+      ]
+    },
+    "paragraph_703": {
+      "type": "paragraph",
+      "id": "paragraph_703",
+      "content": "3) The present study disagrees with several prior studies which suggested an essential role of TRAF3 in MAVS signaling. This is rather puzzling as the evidence presented previously was obtained independently by several groups. The authors should better investigate this discrepancy. Is this due to clonal variation and adaption among the TRAF KO cells? Are all different TRAFs expressed in KO cells as expected? The authors should also properly refer to those prior studies so that the contradiction can be more evident. For example, the paper does not give accurate reference to Oganesyan et al. (Nature 439:208). That paper is only referred as that TRAF3 is required for TLR-mediated IFN induction, though it did show that VSV activation of IRF3-dependent genes is markedly reduced in Traf3 KO MEFs."
+    },
+    "annotation_704": {
+      "type": "emphasis",
+      "id": "annotation_704",
+      "path": [
+        "paragraph_703",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        787,
+        791
+      ]
+    },
+    "paragraph_705": {
+      "type": "paragraph",
+      "id": "paragraph_705",
+      "content": "4) Another major concern is the large quantitative differences among the experiments: The levels of IL6 induction attained in Figure 2E are in the range of 1000-fold, and in 2H of 60-fold. The levels of IFNβ induction in Figure 2D approaches 100,000-fold while those in Figure 2–figure supplement 1E are less than 600-fold. The author should clarify if these huge differences reflect just experimental variations or differences intrinsic to the cell clones used. The extent of the inter-clonal variation of response should be assessed by comparing a number of different cell clones of the same genotype. The authors should also clarify whether this large variation in extent of induction reflects differences in actual level of gene expression attained after viral infection or variation in the basal expression levels of the induced gene. In the latter case, the actual values of expression, rather than 'fold induction' should be presented. The exact nature of the differences in the values of gene induction in the various cells used in the same experiment is also not clear. Do the figures present average and standard deviation? In that case, average of what: different cell clones or several replicates of the same clone? In how many independent experiments? Are the various transfected proteins expressed at the same level and how do they compare to the endogenous levels? Western analyses and comparison of the expression levels of the transfected proteins should be presented."
+    },
+    "figure_reference_706": {
+      "type": "figure_reference",
+      "id": "figure_reference_706",
+      "path": [
+        "paragraph_705",
+        "content"
+      ],
+      "target": "image_fig2",
+      "range": [
+        126,
+        135
+      ]
+    },
+    "figure_reference_707": {
+      "type": "figure_reference",
+      "id": "figure_reference_707",
+      "path": [
+        "paragraph_705",
+        "content"
+      ],
+      "target": "image_fig2",
+      "range": [
+        221,
+        230
+      ]
+    },
+    "figure_reference_708": {
+      "type": "figure_reference",
+      "id": "figure_reference_708",
+      "path": [
+        "paragraph_705",
+        "content"
+      ],
+      "target": "image_fig2",
+      "range": [
+        270,
+        278
+      ]
+    },
+    "heading_709": {
+      "type": "heading",
+      "id": "heading_709",
+      "level": 2,
+      "content": "Author response",
+      "nodes": []
+    },
+    "paragraph_710": {
+      "type": "paragraph",
+      "id": "paragraph_710",
+      "content": "1) The finding of LUBAC coordinating with TRAF2/5 in MAVS signaling contradicts with two prior reports that instead show a negative role (Inn et al. Mol. Cell 41:354; Belgnaoui et al. Cell Host & Microbe 12:211). The authors should try resolving this discrepancy. The authors should compare the impact of deficiency of each of the three LUBAC components on MAVS signaling as other studies suggested that, although the three proteins associate, they are differentially involved in distinct functions. The authors may also test this using different cell lines."
+    },
+    "annotation_711": {
+      "type": "emphasis",
+      "id": "annotation_711",
+      "path": [
+        "paragraph_710",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        557
+      ]
+    },
+    "paragraph_712": {
+      "type": "paragraph",
+      "id": "paragraph_712",
+      "content": "Following the reviewers’ suggestion, we have compared the effect of knocking down each of the three LUBAC components on MAVS signaling (new Figure 3A and 3B, Figure 3–figure supplement 1). While knockdown of HOIL-1 led to a modest enhancement of IRF3 activation and IFN? induction, knockdown of HOIP or Sharpin in WT MEF cells did not affect IRF3 activation and only modestly inhibited IFN? induction. The positive role of HOIP and Sharpin in IRF3 activation was revealed only in cells expressing TRAF2?RING, but not WT TRAF2 (Figure 3D; Figure 3–figure supplement 1I), supporting our model that HOIP and Sharpin function redundantly with the E3 activity of TRAF2. Overall, our results are consistent with those of Inn et al. that HOIL-1 is a negative regulator of RIG-I signaling (Mol Cell 41:354), but contradict with those of Belgnaoui et al. who showed that Sharpin negatively regulates the RIG-I pathway (Cell Host & Microbe 12:211). To further investigate the role of Sharpin in the RIG-I pathway, we infected the Sharpin-deficient (cpdm) MEFs with VSV and Sendai virus (SeV) for different time points (Figure 3–figure supplement 1C). In each case, IFN? induction by the viruses was significantly reduced in the absence of Sharpin. We also used tetracycline-inducible RNAi to knock down HOIP in U2OS cells and found that IFN? induction by VSV was partially inhibited in the absence of HOIP (Figure 3–figure supplement 1E–1G). Thus, in multiple independent experiments involving different cell lines, viruses and time courses, we consistently found that HOIP and Sharpin played a positive, albeit not indispensable, role in the RIG-I pathway."
+    },
+    "figure_reference_713": {
+      "type": "figure_reference",
+      "id": "figure_reference_713",
+      "path": [
+        "paragraph_712",
+        "content"
+      ],
+      "target": "image_fig3",
+      "range": [
+        140,
+        156
+      ]
+    },
+    "figure_reference_714": {
+      "type": "figure_reference",
+      "id": "figure_reference_714",
+      "path": [
+        "paragraph_712",
+        "content"
+      ],
+      "target": "image_fig3",
+      "range": [
+        158,
+        166
+      ]
+    },
+    "figure_reference_715": {
+      "type": "figure_reference",
+      "id": "figure_reference_715",
+      "path": [
+        "paragraph_712",
+        "content"
+      ],
+      "target": "image_fig3",
+      "range": [
+        527,
+        536
+      ]
+    },
+    "figure_reference_716": {
+      "type": "figure_reference",
+      "id": "figure_reference_716",
+      "path": [
+        "paragraph_712",
+        "content"
+      ],
+      "target": "image_fig3",
+      "range": [
+        538,
+        546
+      ]
+    },
+    "annotation_717": {
+      "type": "emphasis",
+      "id": "annotation_717",
+      "path": [
+        "paragraph_712",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1020,
+        1027
+      ]
+    },
+    "figure_reference_718": {
+      "type": "figure_reference",
+      "id": "figure_reference_718",
+      "path": [
+        "paragraph_712",
+        "content"
+      ],
+      "target": "image_fig3",
+      "range": [
+        1109,
+        1117
+      ]
+    },
+    "figure_reference_719": {
+      "type": "figure_reference",
+      "id": "figure_reference_719",
+      "path": [
+        "paragraph_712",
+        "content"
+      ],
+      "target": "image_fig3",
+      "range": [
+        1397,
+        1405
+      ]
+    },
+    "paragraph_720": {
+      "type": "paragraph",
+      "id": "paragraph_720",
+      "content": "2) TRAF2/5 and LUBAC function redundantly in generating ubiquitin chain signals in the absence of TRAF6. Meanwhile, the authors also indicate that K63 ubiquitin chains play a major role in MAVS signaling. TRAF2/5 is suggested in some previous studies to have no E3 activity while LUBAC only produces linear chains. Therefore, the authors should address how K63 ubiquitin chains are generated in the absence of TRAF6. Do the authors really mean that TRAF2/5 and/or LUBAC can make K63 ubiquitin chains? The authors should also perform knockdown experiments to clearly rule out the role of cIAPs in Traf6-deficient cells."
+    },
+    "annotation_721": {
+      "type": "emphasis",
+      "id": "annotation_721",
+      "path": [
+        "paragraph_720",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        617
+      ]
+    },
+    "paragraph_722": {
+      "type": "paragraph",
+      "id": "paragraph_722",
+      "content": "We did not propose that TRAF2/5 and LUBAC generate K63 ubiquitin chains in the absence of TRAF6. In fact, it is quite likely that linear and other types of ubiquitin chains generated in the absence of TRAF6 and Ubc13 could activate IKK and TBK1. This could explain how different TRAF proteins and LUBAC could compensate for each other in MAVS signaling in cells. Our in vitro assay largely recapitulates the K63 polyubiquitination-dependent pathways, but not the linear polyubiquitination-dependent pathway. How LUBAC mediates MAVS signaling in the absence of TRAF6 in vivo requires further investigation."
+    },
+    "paragraph_723": {
+      "type": "paragraph",
+      "id": "paragraph_723",
+      "content": "We have investigated the role of cIAPs in MAVS signaling using a small molecule SMAC mimetic compound (SM), which is known to bind cIAP1 and cIAP2 and induce their degradation. Treatment of WT, Traf6 KO and Traf2/Traf5 DKO cells with SM did not lead to any significant inhibition of IRF3 dimerization or induction of IFN? or IL6 by VSV (new Figure 2–figure supplement 1I–1L). Thus, cIAPs are largely dispensable for MAVS signaling under all conditions that we have tested. These results have been incorporated into the revised manuscript."
+    },
+    "annotation_724": {
+      "type": "emphasis",
+      "id": "annotation_724",
+      "path": [
+        "paragraph_723",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        194,
+        198
+      ]
+    },
+    "annotation_725": {
+      "type": "emphasis",
+      "id": "annotation_725",
+      "path": [
+        "paragraph_723",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        207,
+        211
+      ]
+    },
+    "annotation_726": {
+      "type": "emphasis",
+      "id": "annotation_726",
+      "path": [
+        "paragraph_723",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        213,
+        217
+      ]
+    },
+    "figure_reference_727": {
+      "type": "figure_reference",
+      "id": "figure_reference_727",
+      "path": [
+        "paragraph_723",
+        "content"
+      ],
+      "target": "image_fig2",
+      "range": [
+        341,
+        349
+      ]
+    },
+    "paragraph_728": {
+      "type": "paragraph",
+      "id": "paragraph_728",
+      "content": "3) The present study disagrees with several prior studies which suggested an essential role of TRAF3 in MAVS signaling. This is rather puzzling as the evidence presented previously was obtained independently by several groups. The authors should better investigate this discrepancy. Is this due to clonal variation and adaption among the TRAF KO cells? Are all different TRAFs expressed in KO cells as expected? The authors should also properly refer to those prior studies so that the contradiction can be more evident. For example, the paper does not give accurate reference to Oganesyan et al. (Nature 439:208). That paper is only referred as that TRAF3 is required for TLR-mediated IFN induction, though it did show that VSV activation of IRF3-dependent genes is markedly reduced in Traf3 KO MEFs."
+    },
+    "annotation_729": {
+      "type": "emphasis",
+      "id": "annotation_729",
+      "path": [
+        "paragraph_728",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        800
+      ]
+    },
+    "paragraph_730": {
+      "type": "paragraph",
+      "id": "paragraph_730",
+      "content": "Our previous study using Traf3 knockout MEF cells showed that IFN? induction and IRF3 activation by Sendai virus were largely normal, except that at the later time point (9 hours after infection) there was a modest reduction of IFN? in the absence of TRAF3 (Zeng et al., 2009, Mol Cell 36: 315). In that study, we verified that TRAF3 was indeed not detectable in the Traf3 KO MEFs that we used. Using a different approach, here we showed that knockdown of TRAF3 by RNAi in Traf2/Traf5 DKO cells did not significantly impair IFN? or IL6 induction by VSV (Fig 2–figure supplement 1E–1G). Similarly, knockdown of Traf6 in Traf3-deficient MEF cells also did not inhibit IRF3 activation by Sendai virus (Figure 2–figure supplement 1H). Thus, unlike TRAF6 that functions redundantly with TRAF2/5, TRAF3 is not redundant with TRAF2/5 or TRAF6. Overall, although TRAF3 may play some roles in the induction of interferons in certain cells, it is largely dispensable for IRF3 activation under different experimental conditions. We have incorporated these new data into the revised manuscript. We have also revised the Discussion to leave open the possibility that TRAF3 may regulate interferon induction through a mechanism independent of regulating IRF3 activation."
+    },
+    "annotation_731": {
+      "type": "emphasis",
+      "id": "annotation_731",
+      "path": [
+        "paragraph_730",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        25,
+        29
+      ]
+    },
+    "citation_reference_732": {
+      "type": "citation_reference",
+      "id": "citation_reference_732",
+      "path": [
+        "paragraph_730",
+        "content"
+      ],
+      "target": "article_citation_bib54",
+      "range": [
+        258,
+        275
+      ]
+    },
+    "annotation_733": {
+      "type": "emphasis",
+      "id": "annotation_733",
+      "path": [
+        "paragraph_730",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        367,
+        371
+      ]
+    },
+    "annotation_734": {
+      "type": "emphasis",
+      "id": "annotation_734",
+      "path": [
+        "paragraph_730",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        473,
+        477
+      ]
+    },
+    "annotation_735": {
+      "type": "emphasis",
+      "id": "annotation_735",
+      "path": [
+        "paragraph_730",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        479,
+        483
+      ]
+    },
+    "figure_reference_736": {
+      "type": "figure_reference",
+      "id": "figure_reference_736",
+      "path": [
+        "paragraph_730",
+        "content"
+      ],
+      "target": "image_fig2",
+      "range": [
+        554,
+        559
+      ]
+    },
+    "annotation_737": {
+      "type": "emphasis",
+      "id": "annotation_737",
+      "path": [
+        "paragraph_730",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        619,
+        623
+      ]
+    },
+    "figure_reference_738": {
+      "type": "figure_reference",
+      "id": "figure_reference_738",
+      "path": [
+        "paragraph_730",
+        "content"
+      ],
+      "target": "image_fig2",
+      "range": [
+        699,
+        707
+      ]
+    },
+    "paragraph_739": {
+      "type": "paragraph",
+      "id": "paragraph_739",
+      "content": "4) Another major concern is the large quantitative differences among the experiments: The levels of IL6 induction attained in Figure 2E2013-07-01 are in the range of 1000-fold, and in 2H of 60-fold. The levels of IFNβ induction in Figure 2D2013-07-01 approaches 100,000-fold while those in Figure 22013-07-01–figure supplement 1E are less than 600-fold. The author should clarify if these huge differences reflect just experimental variations or differences intrinsic to the cell clones used. The extent of the inter-clonal variation of response should be assessed by comparing a number of different cell clones of the same genotype. The authors should also clarify whether this large variation in extent of induction reflects differences in actual level of gene expression attained after viral infection or variation in the basal expression levels of the induced gene. In the latter case, the actual values of expression, rather than 'fold induction' should be presented. The exact nature of the differences in the values of gene induction in the various cells used in the same experiment is also not clear. Do the figures present average and standard deviation? In that case, average of what: different cell clones or several replicates of the same clone? In how many independent experiments? Are the various transfected proteins expressed at the same level and how do they compare to the endogenous levels? Western analyses and comparison of the expression levels of the transfected proteins should be presented."
+    },
+    "annotation_740": {
+      "type": "emphasis",
+      "id": "annotation_740",
+      "path": [
+        "paragraph_739",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        125
+      ]
+    },
+    "annotation_741": {
+      "type": "emphasis",
+      "id": "annotation_741",
+      "path": [
+        "paragraph_739",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        126,
+        135
+      ]
+    },
+    "annotation_742": {
+      "type": "emphasis",
+      "id": "annotation_742",
+      "path": [
+        "paragraph_739",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        146,
+        230
+      ]
+    },
+    "annotation_743": {
+      "type": "emphasis",
+      "id": "annotation_743",
+      "path": [
+        "paragraph_739",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        231,
+        240
+      ]
+    },
+    "annotation_744": {
+      "type": "emphasis",
+      "id": "annotation_744",
+      "path": [
+        "paragraph_739",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        251,
+        289
+      ]
+    },
+    "annotation_745": {
+      "type": "emphasis",
+      "id": "annotation_745",
+      "path": [
+        "paragraph_739",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        290,
+        298
+      ]
+    },
+    "annotation_746": {
+      "type": "emphasis",
+      "id": "annotation_746",
+      "path": [
+        "paragraph_739",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        308,
+        1514
+      ]
+    },
+    "paragraph_747": {
+      "type": "paragraph",
+      "id": "paragraph_747",
+      "content": "We apologize for this confusion. The large differences in the RNA levels as measured by q-RT-PCR were largely due to the variations in the basal levels (minus virus or 0 hour). For example, in Figure 2E, the basal level of IL6 RNA in DKO + shTRAF6 + TRAF6-WT cells was ∼36 fold higher than the basal level in DKO-GFP control cells. This higher basal level was likely due to overexpression of TRAF6 in the cells. We have now modified Figure 2E by indicating the values of the IL6 RNA levels relative to the basal level of IL6 in the GFP control cells. It is apparent from these values that the ‘super-induction’ of IL6 in shTRAF6+TRAF6-WT cell was due to higher levels of TRAF6 in these cells."
+    },
+    "figure_reference_748": {
+      "type": "figure_reference",
+      "id": "figure_reference_748",
+      "path": [
+        "paragraph_747",
+        "content"
+      ],
+      "target": "image_fig2",
+      "range": [
+        193,
+        202
+      ]
+    },
+    "figure_reference_749": {
+      "type": "figure_reference",
+      "id": "figure_reference_749",
+      "path": [
+        "paragraph_747",
+        "content"
+      ],
+      "target": "image_fig2",
+      "range": [
+        433,
+        442
+      ]
+    },
+    "paragraph_750": {
+      "type": "paragraph",
+      "id": "paragraph_750",
+      "content": "The reviewers correctly pointed out the large differences in the folds of induction of IFN? in Figure 2D and Figure 2–figure supplement 1E. Such a difference was due to the use of different PCR machines which we acquired during the course of these experiments. The q-RT-PCR experiment in Figure 2–figure supplement 1E was performed using BioRad iQ5, whereas the experiment in Figure 2D was done using ABI ViiA7. The latter instrument has much higher sensitivity and allowed detection of very low levels of RNA in the samples. Since the basal levels of IFN? RNA were very low in uninfected cells, their detection was quite variable using different instruments. Such variability in the basal levels contributes to the large differences in the folds of induction presented in these figures. Despite such variation in different sets of experiments performed at different times, it is clear that virus infection induced very large and consistent increases of IFN? expression in the same set of experiments, allowing us to draw solid conclusions for each experiment."
+    },
+    "figure_reference_751": {
+      "type": "figure_reference",
+      "id": "figure_reference_751",
+      "path": [
+        "paragraph_750",
+        "content"
+      ],
+      "target": "image_fig2",
+      "range": [
+        95,
+        104
+      ]
+    },
+    "figure_reference_752": {
+      "type": "figure_reference",
+      "id": "figure_reference_752",
+      "path": [
+        "paragraph_750",
+        "content"
+      ],
+      "target": "image_fig2",
+      "range": [
+        109,
+        117
+      ]
+    },
+    "figure_reference_753": {
+      "type": "figure_reference",
+      "id": "figure_reference_753",
+      "path": [
+        "paragraph_750",
+        "content"
+      ],
+      "target": "image_fig2",
+      "range": [
+        288,
+        296
+      ]
+    },
+    "figure_reference_754": {
+      "type": "figure_reference",
+      "id": "figure_reference_754",
+      "path": [
+        "paragraph_750",
+        "content"
+      ],
+      "target": "image_fig2",
+      "range": [
+        376,
+        385
+      ]
+    },
+    "paragraph_755": {
+      "type": "paragraph",
+      "id": "paragraph_755",
+      "content": "With the exception of the SILAC experiments, the results presented in this paper are representative of at least two independent experiments. The error bars represent standard deviations of triplicate experiments. We have now indicated this fact in the Figure 2 legend with the following sentence:"
+    },
+    "figure_reference_756": {
+      "type": "figure_reference",
+      "id": "figure_reference_756",
+      "path": [
+        "paragraph_755",
+        "content"
+      ],
+      "target": "image_fig2",
+      "range": [
+        252,
+        260
+      ]
+    },
+    "paragraph_757": {
+      "type": "paragraph",
+      "id": "paragraph_757",
+      "content": "“Unless indicated otherwise, error bars in this and other figures of this paper represent standard deviation of triplicate experiments.”"
     }
   }
 }

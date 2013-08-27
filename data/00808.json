@@ -159,7 +159,42 @@
         "heading_s4-19",
         "paragraph_816",
         "sub-article",
-        "sub-article"
+        "heading_843",
+        "paragraph_844",
+        "paragraph_846",
+        "paragraph_848",
+        "paragraph_849",
+        "paragraph_851",
+        "paragraph_854",
+        "paragraph_857",
+        "paragraph_859",
+        "paragraph_861",
+        "paragraph_862",
+        "paragraph_863",
+        "paragraph_865",
+        "sub-article",
+        "heading_867",
+        "paragraph_868",
+        "paragraph_871",
+        "paragraph_875",
+        "paragraph_878",
+        "paragraph_881",
+        "paragraph_883",
+        "paragraph_887",
+        "paragraph_891",
+        "paragraph_894",
+        "paragraph_896",
+        "paragraph_901",
+        "paragraph_904",
+        "paragraph_906",
+        "paragraph_913",
+        "paragraph_914",
+        "paragraph_915",
+        "paragraph_917",
+        "paragraph_920",
+        "paragraph_922",
+        "paragraph_924",
+        "paragraph_927"
       ]
     },
     "figures": {
@@ -425,7 +460,7 @@
     "paragraph_2": {
       "type": "paragraph",
       "id": "paragraph_2",
-      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited.10.7554/eLife.00808.001"
+      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited."
     },
     "annotation_3": {
       "type": "link",
@@ -495,7 +530,7 @@
     "paragraph_8": {
       "type": "paragraph",
       "id": "paragraph_8",
-      "content": "DOI: http://dx.doi.org/10.7554/eLife.00808.00110.7554/eLife.00808.002"
+      "content": "DOI: http://dx.doi.org/10.7554/eLife.00808.001"
     },
     "annotation_9": {
       "type": "strong",
@@ -11597,7 +11632,7 @@
       "citation_url": [],
       "format": "journal",
       "editors": [],
-      "comment": "advance online publication"
+      "comment": "undefined[object Object]"
     },
     "annotation_828": {
       "type": "emphasis",
@@ -13629,6 +13664,853 @@
       "level": 1,
       "content": "Article Commentary",
       "nodes": []
+    },
+    "heading_843": {
+      "type": "heading",
+      "id": "heading_843",
+      "level": 2,
+      "content": "Decision letter",
+      "nodes": []
+    },
+    "paragraph_844": {
+      "type": "paragraph",
+      "id": "paragraph_844",
+      "content": "eLife posts the editorial decision letter and author response on a selection of the published articles (subject to the approval of the authors). An edited version of the letter sent to the authors after peer review is shown, indicating the substantive concerns or comments; minor concerns are not usually shown. Reviewers have the opportunity to discuss the decision before the letter is sent (see review process). Similarly, the author response typically shows only responses to the major concerns raised by the reviewers."
+    },
+    "annotation_845": {
+      "type": "link",
+      "id": "annotation_845",
+      "path": [
+        "paragraph_844",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        398,
+        412
+      ],
+      "url": "http://www.elifesciences.org/the-journal/review-process"
+    },
+    "paragraph_846": {
+      "type": "paragraph",
+      "id": "paragraph_846",
+      "content": "Thank you for sending your work entitled “Condensin controls recruitment of RNA Polymerase II to achieve nematode X-chromosome dosage compensation” for consideration at eLife. Your article has been favorably evaluated by a Senior editor and 3 reviewers, one of whom is a member of our Board of Reviewing Editors."
+    },
+    "annotation_847": {
+      "type": "emphasis",
+      "id": "annotation_847",
+      "path": [
+        "paragraph_846",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        169,
+        174
+      ]
+    },
+    "paragraph_848": {
+      "type": "paragraph",
+      "id": "paragraph_848",
+      "content": "The Reviewing editor and the other reviewers discussed their comments before we reached this decision, and the Reviewing editor has assembled the following comments to help you prepare a revised submission."
+    },
+    "paragraph_849": {
+      "type": "paragraph",
+      "id": "paragraph_849",
+      "content": "This study describes the development of a new technique for mapping nascent TSS;GRO-cap. This powerful new technique has been applied to two aspects of C. elegans transcriptional regulation: mapping the nascent TSS of outrons and transcriptional regulation of X-chromosome inactivation. Both of these applications are important and publishable. However the first application needs further work/clarification."
+    },
+    "annotation_850": {
+      "type": "emphasis",
+      "id": "annotation_850",
+      "path": [
+        "paragraph_849",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        152,
+        162
+      ]
+    },
+    "paragraph_851": {
+      "type": "paragraph",
+      "id": "paragraph_851",
+      "content": "1) Our main concern is the authors’ claim that a combination of GRO-seq and GRO-cap allows unequivocal assignment of new upstream TSS for C. elegans outrons (5’ end of mature mRNA is formed by SL1 trans-splicing and so doesn’t define gene TSS). For example, in the Discussion section, the authors state that they assign upstream TSS “by requiring that TSS calls be supported by uninterrupted GRO-seq signal for transcriptionally engaged Pol II between the GRO-cap TSS and the previously annotated 5’ end”. GRO-seq shows the presence of active polymerases, and hence, uninterrupted signal does not rule out the possibility of signal arising from multiple, partially overlapping transcripts. For example, if two tandem transcriptional units were located in close proximity, GRO-seq signal could appear continuous (especially as run-on can proceed after the TTS). This could explain the differences with the Chen et al (2013) data, which proposes that separate transcription units may exist upstream of outrons that could be enhancer derived transcripts (eRNAs)."
+    },
+    "annotation_852": {
+      "type": "emphasis",
+      "id": "annotation_852",
+      "path": [
+        "paragraph_851",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        138,
+        148
+      ]
+    },
+    "citation_reference_853": {
+      "type": "citation_reference",
+      "id": "citation_reference_853",
+      "path": [
+        "paragraph_851",
+        "content"
+      ],
+      "target": "article_citation_bib10",
+      "range": [
+        905,
+        922
+      ]
+    },
+    "paragraph_854": {
+      "type": "paragraph",
+      "id": "paragraph_854",
+      "content": "Since this is a key issue we recommend further analysis on this point. To distinguish between these two possibilities, it would be necessary to analyse secondary promoters detected by GRO-cap and confirm that there are no 3’ ends at these positions (PMID: 20522740 or 21085120) that would break these very long outrons into two independent units."
+    },
+    "annotation_855": {
+      "type": "link",
+      "id": "annotation_855",
+      "path": [
+        "paragraph_854",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        256,
+        264
+      ],
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/20522740"
+    },
+    "annotation_856": {
+      "type": "link",
+      "id": "annotation_856",
+      "path": [
+        "paragraph_854",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        268,
+        276
+      ],
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/21085120"
+    },
+    "paragraph_857": {
+      "type": "paragraph",
+      "id": "paragraph_857",
+      "content": "Specific comments related to point 1: A) In Figure 1G, one can observe a secondary TSS in the position of the annotated WB start, in addition to the one described by the authors. Specifically, in the right panel (where the reads are centered on the GRO-cap determined TSS), a clear white line moving towards the right is apparent. To be able to appreciate how important this secondary TSS (located in the WB defined position) is with respect to the new ones defined by the authors, it would be useful make the same plot but using the GRO-cap data."
+    },
+    "figure_reference_858": {
+      "type": "figure_reference",
+      "id": "figure_reference_858",
+      "path": [
+        "paragraph_857",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        44,
+        53
+      ]
+    },
+    "paragraph_859": {
+      "type": "paragraph",
+      "id": "paragraph_859",
+      "content": "B) Figure 1–figure supplement 11: the fact that GRO-seq signal increases as it passes GRO-cap spikes does not prove that they are continuous transcripts with different 5’ UTRs. Partially overlapping tandem eRNA with lower expression level than the main transcript could produce the same pattern."
+    },
+    "figure_reference_860": {
+      "type": "figure_reference",
+      "id": "figure_reference_860",
+      "path": [
+        "paragraph_859",
+        "content"
+      ],
+      "target": "image_fig1s11",
+      "range": [
+        3,
+        32
+      ]
+    },
+    "paragraph_861": {
+      "type": "paragraph",
+      "id": "paragraph_861",
+      "content": "C) It seems to us that there is one limitation for the GRO-cap method that the authors did not discuss. Only elongating polymerases in the proximity of the TSS (e.g., <500bp?) will have a nascent RNA short enough to produce a sequencing library compatible with Illumina technology. Although that does not alter the discussed results in this case, this limitation should be stated for future users of the technique."
+    },
+    "paragraph_862": {
+      "type": "paragraph",
+      "id": "paragraph_862",
+      "content": "2) A way to further strengthen the argument that authentic TSS of outrons in many cases is distant to the mature mRNA 5’ end would be ChIP based analysis using Pol II CTD ser5 and ser2 specific antibodies. Thus could be performed on a few selected transcription units with amplicons covering the outron and 5’ half of the coding region."
+    },
+    "paragraph_863": {
+      "type": "paragraph",
+      "id": "paragraph_863",
+      "content": "3) Regarding the accumulation of Pol II at the 3’ end of genes. The authors suggest that extensive pausing at the 3’ end of genes may be linked to trans-splicing. In this context, it would be beneficial if the “not in operon genes” in the analysis presented in Figure 4B were further subdivided into monocistronic trans-spliced genes and non-trans-sliced genes. It would be interesting to see if non-trans-spliced genes also show Pol II accumulation at the 3’ end. In addition they should comment on the possibility that the high U content in the intergenic regions within operons (ur element that direct trans-splicing) and perhaps also at the 3’ end of genes could create a partial bias during GRO-seq and so skew the results for these regions."
+    },
+    "figure_reference_864": {
+      "type": "figure_reference",
+      "id": "figure_reference_864",
+      "path": [
+        "paragraph_863",
+        "content"
+      ],
+      "target": "image_fig4",
+      "range": [
+        261,
+        270
+      ]
+    },
+    "paragraph_865": {
+      "type": "paragraph",
+      "id": "paragraph_865",
+      "content": "4) The effect of scd2 mutant on dosage compensation and consequent effects on transcription uncovers that dosage compensation also affects small non-coding RNAs (miRNAs). Are there more miRNA affected by dosage compensation? What do they have in common? Do they regulate a group of genes with similar function?"
+    },
+    "annotation_866": {
+      "type": "emphasis",
+      "id": "annotation_866",
+      "path": [
+        "paragraph_865",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        17,
+        21
+      ]
+    },
+    "heading_867": {
+      "type": "heading",
+      "id": "heading_867",
+      "level": 2,
+      "content": "Author response",
+      "nodes": []
+    },
+    "paragraph_868": {
+      "type": "paragraph",
+      "id": "paragraph_868",
+      "content": "1) Our main concern is the authors’ claim that a combination of GRO-seq and GRO-cap allows unequivocal assignment of new upstream TSS for C. elegans outrons (5’ end of mature mRNA is formed by SL1 trans-splicing and so doesn’t define gene TSS). For example, in the Discussion section, the authors state that they assign upstream TSS “by requiring that TSS calls be supported by uninterrupted GRO-seq signal for transcriptionally engaged Pol II between the GRO-cap TSS and the previously annotated 5’ end”. GRO-seq shows the presence of active polymerases, and hence, uninterrupted signal does not rule out the possibility of signal arising from multiple, partially overlapping transcripts. For example, if two tandem transcriptional units were located in close proximity, GRO-seq signal could appear continuous (especially as run-on can proceed after the TTS). This could explain the differences with the Chen et al (2013) data, which proposes that separate transcription units may exist upstream of outrons that could be enhancer derived transcripts (eRNAs)."
+    },
+    "citation_reference_869": {
+      "type": "citation_reference",
+      "id": "citation_reference_869",
+      "path": [
+        "paragraph_868",
+        "content"
+      ],
+      "target": "article_citation_bib10",
+      "range": [
+        905,
+        922
+      ]
+    },
+    "annotation_870": {
+      "type": "emphasis",
+      "id": "annotation_870",
+      "path": [
+        "paragraph_868",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        1058
+      ]
+    },
+    "paragraph_871": {
+      "type": "paragraph",
+      "id": "paragraph_871",
+      "content": "Since this is a key issue we recommend further analysis on this point. To distinguish between these two possibilities, it would be necessary to analyse secondary promoters detected by GRO-cap and confirm that there are no 3’ ends at these positions (PMID: 20522740 or 21085120) that would break these very long outrons into two independent units."
+    },
+    "annotation_872": {
+      "type": "link",
+      "id": "annotation_872",
+      "path": [
+        "paragraph_871",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        256,
+        264
+      ],
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/20522740"
+    },
+    "annotation_873": {
+      "type": "link",
+      "id": "annotation_873",
+      "path": [
+        "paragraph_871",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        268,
+        276
+      ],
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/21085120"
+    },
+    "annotation_874": {
+      "type": "emphasis",
+      "id": "annotation_874",
+      "path": [
+        "paragraph_871",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        345
+      ]
+    },
+    "paragraph_875": {
+      "type": "paragraph",
+      "id": "paragraph_875",
+      "content": "Specific comments related to point 1: A) In Figure 1G, one can observe a secondary TSS in the position of the annotated WB start, in addition to the one described by the authors. Specifically, in the right panel (where the reads are centered on the GRO-cap determined TSS), a clear white line moving towards the right is apparent. To be able to appreciate how important this secondary TSS (located in the WB defined position) is with respect to the new ones defined by the authors, it would be useful make the same plot but using the GRO-cap data."
+    },
+    "figure_reference_876": {
+      "type": "figure_reference",
+      "id": "figure_reference_876",
+      "path": [
+        "paragraph_875",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        44,
+        53
+      ]
+    },
+    "annotation_877": {
+      "type": "emphasis",
+      "id": "annotation_877",
+      "path": [
+        "paragraph_875",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        546
+      ]
+    },
+    "paragraph_878": {
+      "type": "paragraph",
+      "id": "paragraph_878",
+      "content": "B) Figure 1–figure supplement 11: the fact that GRO-seq signal increases as it passes GRO-cap spikes does not prove that they are continuous transcripts with different 5’ UTRs. Partially overlapping tandem eRNA with lower expression level than the main transcript could produce the same pattern."
+    },
+    "figure_reference_879": {
+      "type": "figure_reference",
+      "id": "figure_reference_879",
+      "path": [
+        "paragraph_878",
+        "content"
+      ],
+      "target": "image_fig1s11",
+      "range": [
+        3,
+        32
+      ]
+    },
+    "annotation_880": {
+      "type": "emphasis",
+      "id": "annotation_880",
+      "path": [
+        "paragraph_878",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        294
+      ]
+    },
+    "paragraph_881": {
+      "type": "paragraph",
+      "id": "paragraph_881",
+      "content": "C) It seems to us that there is one limitation for the GRO-cap method that the authors did not discuss. Only elongating polymerases in the proximity of the TSS (e.g., <500bp?) will have a nascent RNA short enough to produce a sequencing library compatible with Illumina technology. Although that does not alter the discussed results in this case, this limitation should be stated for future users of the technique."
+    },
+    "annotation_882": {
+      "type": "emphasis",
+      "id": "annotation_882",
+      "path": [
+        "paragraph_881",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        413
+      ]
+    },
+    "paragraph_883": {
+      "type": "paragraph",
+      "id": "paragraph_883",
+      "content": "The main concern of the reviewers was our claim that the combination of GRO-cap and GRO-seq permits accurate assignment of new upstream TSSs for C. elegans outrons. The reviewers were specifically concerned with our procedure of “requiring that TSS calls be supported by uninterrupted GRO-seq signal for engaged Pol II between the GRO-cap TSS and the previously annotated 5’ end.” They felt that GRO-seq shows the presence of active polymerases and therefore uninterrupted signal does not rule out the possibility of signal arising from multiple, partially overlapping transcripts. The example given was that “if two tandem transcription units were located in close proximity, GRO-seq signal could appear continuous (especially as run-on can proceed after the TTS.” They felt that such overlapping transcripts could explain the difference between our work and that of Chen et al. (2013), which proposes that separate transcription units may exist upstream of outrons and could be enhancer derived transcripts. The reviewers asked for further analysis to distinguish between these possibilities. The first request was to analyze the outron regions for 3’ ends as defined in two separate studies, Jan et al., 2011 and Mangone et al., 2010."
+    },
+    "annotation_884": {
+      "type": "emphasis",
+      "id": "annotation_884",
+      "path": [
+        "paragraph_883",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        145,
+        155
+      ]
+    },
+    "citation_reference_885": {
+      "type": "citation_reference",
+      "id": "citation_reference_885",
+      "path": [
+        "paragraph_883",
+        "content"
+      ],
+      "target": "article_citation_bib10",
+      "range": [
+        868,
+        886
+      ]
+    },
+    "citation_reference_886": {
+      "type": "citation_reference",
+      "id": "citation_reference_886",
+      "path": [
+        "paragraph_883",
+        "content"
+      ],
+      "target": "article_citation_bib47",
+      "range": [
+        1216,
+        1236
+      ]
+    },
+    "paragraph_887": {
+      "type": "paragraph",
+      "id": "paragraph_887",
+      "content": "We performed this analysis and found 3’ UTRs and polyA signals to be rare in outrons of greater than 1 kb in length. From 565 such outrons, only 1.4% had an identified 3’ UTR in the Jan et al. (2011) study, and 0.7% had a 3’ UTR in the Mangone et al. (2010) study. Furthermore, only 3.5% had a polyA site (Mangone et al., 2010). This analysis strongly supports the view that the engaged Pol II signal is not from independent transcription units. Furthermore, in the long outrons, we failed to find the typical GRO-seq signature of C. elegans 3' ends: a spike of high Pol II accumulation at the 3’ cleavage and polyadenylation site."
+    },
+    "citation_reference_888": {
+      "type": "citation_reference",
+      "id": "citation_reference_888",
+      "path": [
+        "paragraph_887",
+        "content"
+      ],
+      "target": "article_citation_bib47",
+      "range": [
+        236,
+        257
+      ]
+    },
+    "citation_reference_889": {
+      "type": "citation_reference",
+      "id": "citation_reference_889",
+      "path": [
+        "paragraph_887",
+        "content"
+      ],
+      "target": "article_citation_bib47",
+      "range": [
+        306,
+        326
+      ]
+    },
+    "annotation_890": {
+      "type": "emphasis",
+      "id": "annotation_890",
+      "path": [
+        "paragraph_887",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        531,
+        541
+      ]
+    },
+    "paragraph_891": {
+      "type": "paragraph",
+      "id": "paragraph_891",
+      "content": "Relevant to this first concern, the reviewers commented that in the heat maps of the old Figure 1G (new Figure 1F), they saw a clear white line moving towards the right and interpreted it as secondary TSSs. The reviewers asked that we plot GRO-cap signal relative to our called TSSs to see whether we could find secondary TSSs."
+    },
+    "figure_reference_892": {
+      "type": "figure_reference",
+      "id": "figure_reference_892",
+      "path": [
+        "paragraph_891",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        89,
+        98
+      ]
+    },
+    "figure_reference_893": {
+      "type": "figure_reference",
+      "id": "figure_reference_893",
+      "path": [
+        "paragraph_891",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        104,
+        113
+      ]
+    },
+    "paragraph_894": {
+      "type": "paragraph",
+      "id": "paragraph_894",
+      "content": "The idea of the plot was helpful and the plot itself was revealing. The heat map of individual genes displaying GRO-cap signal relative to TSSs (new Figure 1G) showed that a dominant TSS contributes the majority of the vast GRO-cap signal and thereby supports our claim about the correct identification of TSSs. In addition, we have an alternative interpretation of the light line. It reflects reduced GRO-seq signal caused by trans-splicing near the Wormbase start sites (the sites for the trans-splice acceptor site)."
+    },
+    "figure_reference_895": {
+      "type": "figure_reference",
+      "id": "figure_reference_895",
+      "path": [
+        "paragraph_894",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        149,
+        158
+      ]
+    },
+    "paragraph_896": {
+      "type": "paragraph",
+      "id": "paragraph_896",
+      "content": "When we first submitted our paper for review, the data from Chen et al. (2013) were not available for comparison. For that reason we could only comment on their enhancers for the single gene shown in one of their figures (old Figure 1–figure supplement 11). We found strong overlap between the regions they called enhancers and our TSS calls. That gene was particularly complex for such a comparison because it appears by our analysis to have multiple, alternative TSSs. The interpretation of multiple TSSs rather than independent upstream transcription units has subsequently been supported by finding no evidence of 3’ UTRs or polyA sites from the data of Jan et al. (2011) and Mangone et al (2010), and continuous ChIP signal for the hypo-phosphorylated form of Pol II (see new Figure 1–figure supplement 12A)."
+    },
+    "citation_reference_897": {
+      "type": "citation_reference",
+      "id": "citation_reference_897",
+      "path": [
+        "paragraph_896",
+        "content"
+      ],
+      "target": "article_citation_bib10",
+      "range": [
+        60,
+        78
+      ]
+    },
+    "figure_reference_898": {
+      "type": "figure_reference",
+      "id": "figure_reference_898",
+      "path": [
+        "paragraph_896",
+        "content"
+      ],
+      "target": "image_fig1s11",
+      "range": [
+        226,
+        255
+      ]
+    },
+    "citation_reference_899": {
+      "type": "citation_reference",
+      "id": "citation_reference_899",
+      "path": [
+        "paragraph_896",
+        "content"
+      ],
+      "target": "article_citation_bib47",
+      "range": [
+        680,
+        700
+      ]
+    },
+    "figure_reference_900": {
+      "type": "figure_reference",
+      "id": "figure_reference_900",
+      "path": [
+        "paragraph_896",
+        "content"
+      ],
+      "target": "image_fig1s12",
+      "range": [
+        781,
+        811
+      ]
+    },
+    "paragraph_901": {
+      "type": "paragraph",
+      "id": "paragraph_901",
+      "content": "Since the Chen et al. data became available, we found other specific genes to compare. Particularly informative are genes for which Chen et al. call a single upstream enhancer and we called a single strong TSS at exactly the same position as the enhancer. An example is in the new Figure 1–figure supplement 12B. It shows a gene with a single called TSS (2534 bp upstream of WB start) that corresponds with the single called enhancer. Continuous ChIP signal of hyper-phosphorylated Pol II was found between the TSS and the WB start, and no 3’ UTRs or polyA signals were found. This and other similar examples strongly support the view that (1) some regions called enhancers by Chen et al. are actual TSSs and (2) GRO-cap signal paired with continuous GRO-seq signal from WB starts defines authentic TSSs. That said, many of the enhancers they mapped do not correspond to outron TSSs, and we are not dismissing the general enhancer mapping performed by Chen et al. A relevant example illustrating this point is in Figure 1–figure supplement 12C, which shows a strong TSS overlapping one of the two called enhancers. On balance, though, we do think the enhancer mapping of Chen et al. needs to be corrected in light of our TSS mapping. The revised text now reflects a more balanced assessment of the Chen et al. analysis as it relates to our TSS mapping based on the newly available data."
+    },
+    "figure_reference_902": {
+      "type": "figure_reference",
+      "id": "figure_reference_902",
+      "path": [
+        "paragraph_901",
+        "content"
+      ],
+      "target": "image_fig1s12",
+      "range": [
+        281,
+        311
+      ]
+    },
+    "figure_reference_903": {
+      "type": "figure_reference",
+      "id": "figure_reference_903",
+      "path": [
+        "paragraph_901",
+        "content"
+      ],
+      "target": "image_fig1s12",
+      "range": [
+        1013,
+        1043
+      ]
+    },
+    "paragraph_904": {
+      "type": "paragraph",
+      "id": "paragraph_904",
+      "content": "2) A way to further strengthen the argument that authentic TSS of outrons in many cases is distant to the mature mRNA 5’ end would be ChIP based analysis using Pol II CTD ser5 and ser2 specific antibodies. Thus could be performed on a few selected transcription units with amplicons covering the outron and 5’ half of the coding region."
+    },
+    "annotation_905": {
+      "type": "emphasis",
+      "id": "annotation_905",
+      "path": [
+        "paragraph_904",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        335
+      ]
+    },
+    "paragraph_906": {
+      "type": "paragraph",
+      "id": "paragraph_906",
+      "content": "We have addressed this point by reanalyzing ChIP data from our prior studies (Pferdehirt et al., 2011) and those of modENCODE. In general, we found that regions corresponding to long outrons have continuous ChIP-chip signal from antibodies enriched for either the ser2 phosphorylated form of Pol II or the hypo-phosphorylated form of Pol II (see new Figure 1–figure supplement 8A–C and Figure 3A). These results and the restricted run-on length of ∼100 nucleotides that is typical of GRO-seq reactions (Core et al., 2008) indicate that GRO-seq signal corresponds to bound Pol II in vivo and is not an artifact of the nuclear run-on reactions in vitro extending beyond the 3’ ends defined in vivo. We now emphasize in the protocol (see Figure 2) that GRO-seq run-ons have been tuned to only extend the length of nascent RNAs by 100 bases on average, thus minimizing the concern that independent transcription units have been artifactually linked."
+    },
+    "citation_reference_907": {
+      "type": "citation_reference",
+      "id": "citation_reference_907",
+      "path": [
+        "paragraph_906",
+        "content"
+      ],
+      "target": "article_citation_bib53",
+      "range": [
+        78,
+        101
+      ]
+    },
+    "figure_reference_908": {
+      "type": "figure_reference",
+      "id": "figure_reference_908",
+      "path": [
+        "paragraph_906",
+        "content"
+      ],
+      "target": "image_fig1s8",
+      "range": [
+        350,
+        381
+      ]
+    },
+    "figure_reference_909": {
+      "type": "figure_reference",
+      "id": "figure_reference_909",
+      "path": [
+        "paragraph_906",
+        "content"
+      ],
+      "target": "image_fig3",
+      "range": [
+        386,
+        395
+      ]
+    },
+    "citation_reference_910": {
+      "type": "citation_reference",
+      "id": "citation_reference_910",
+      "path": [
+        "paragraph_906",
+        "content"
+      ],
+      "target": "article_citation_bib16",
+      "range": [
+        503,
+        520
+      ]
+    },
+    "annotation_911": {
+      "type": "emphasis",
+      "id": "annotation_911",
+      "path": [
+        "paragraph_906",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        695,
+        696
+      ]
+    },
+    "figure_reference_912": {
+      "type": "figure_reference",
+      "id": "figure_reference_912",
+      "path": [
+        "paragraph_906",
+        "content"
+      ],
+      "target": "image_fig2",
+      "range": [
+        735,
+        743
+      ]
+    },
+    "paragraph_913": {
+      "type": "paragraph",
+      "id": "paragraph_913",
+      "content": "In summary, our paper now provides multiple lines of evidence showing that the GRO-seq signal between newly called TSSs and previously identified TASs represents legitimate outrons rather than independent overlapping upstream transcripts."
+    },
+    "paragraph_914": {
+      "type": "paragraph",
+      "id": "paragraph_914",
+      "content": "A final issue raised by reviewers about our GRO-cap method is the following: ”It seems to us that there is one limitation for the GRO-cap method that the authors did not discuss. Only elongating polymerases in the proximity of the TSS (e.g., <500bp?) will have a nascent RNA short enough to produce a sequencing library compatible with Illumina technology. Although that does not alter the discussed results in this case, this limitation should be stated for future users of the technique.”"
+    },
+    "paragraph_915": {
+      "type": "paragraph",
+      "id": "paragraph_915",
+      "content": "We responded to this request by adding the following comment to the legend of Figure 2, which describes the protocol in detail: “We note that transcripts < 500 bp are captured most efficiently on Illumina sequencing platforms.”"
+    },
+    "figure_reference_916": {
+      "type": "figure_reference",
+      "id": "figure_reference_916",
+      "path": [
+        "paragraph_915",
+        "content"
+      ],
+      "target": "image_fig2",
+      "range": [
+        78,
+        86
+      ]
+    },
+    "paragraph_917": {
+      "type": "paragraph",
+      "id": "paragraph_917",
+      "content": "3) Regarding the accumulation of Pol II at the 3’ end of genes. The authors suggest that extensive pausing at the 3’ end of genes may be linked to trans-splicing. In this context, it would be beneficial if the “not in operon genes” in the analysis presented in Figure 4B were further subdivided into monocistronic trans-spliced genes and non-trans-sliced genes. It would be interesting to see if non-trans-spliced genes also show Pol II accumulation at the 3’ end. In addition they should comment on the possibility that the high U content in the intergenic regions within operons (ur element that direct trans-splicing) and perhaps also at the 3’ end of genes could create a partial bias during GRO-seq and so skew the results for these regions."
+    },
+    "figure_reference_918": {
+      "type": "figure_reference",
+      "id": "figure_reference_918",
+      "path": [
+        "paragraph_917",
+        "content"
+      ],
+      "target": "image_fig4",
+      "range": [
+        261,
+        270
+      ]
+    },
+    "annotation_919": {
+      "type": "emphasis",
+      "id": "annotation_919",
+      "path": [
+        "paragraph_917",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        745
+      ]
+    },
+    "paragraph_920": {
+      "type": "paragraph",
+      "id": "paragraph_920",
+      "content": "The third request made by the reviewers relates to the accumulation of Pol II at the 3' end of genes. In response to the reviewers, we analyzed 3’ Pol II accumulation in monocistronic genes with and without trans-splicing and presented the results in the text and in the new Figure 4–figure supplement 2A. We found that first and middle genes in operons had the highest 3’-pausing ratio. Monocistronic genes with trans-splicing had a slightly higher 3’-pausing ratio than terminal genes in operons. Monocistronic genes with trans-splicing had a higher 3’-pausing ratio than monocistronic genes lacking trans-splicing (Mann-Whitney-U p<e-10). The 3’-pausing ratios for genes in all classes were greater than for Drosophila genes. These results further support our proposal that pausing at 3’ ends is linked to trans-splicing."
+    },
+    "figure_reference_921": {
+      "type": "figure_reference",
+      "id": "figure_reference_921",
+      "path": [
+        "paragraph_920",
+        "content"
+      ],
+      "target": "image_fig1s4",
+      "range": [
+        275,
+        304
+      ]
+    },
+    "paragraph_922": {
+      "type": "paragraph",
+      "id": "paragraph_922",
+      "content": "Regarding the relationship between U content and 3’ end pausing, we found that Pol II accumulation at 3’ ends does not overlap with U-rich regions at 3’ ends. Therefore, the high GRO-seq signal is not due to selective enrichment of U-rich RNAs (Figure 4–figure supplement 2B,C)."
+    },
+    "figure_reference_923": {
+      "type": "figure_reference",
+      "id": "figure_reference_923",
+      "path": [
+        "paragraph_922",
+        "content"
+      ],
+      "target": "image_fig1s2",
+      "range": [
+        245,
+        276
+      ]
+    },
+    "paragraph_924": {
+      "type": "paragraph",
+      "id": "paragraph_924",
+      "content": "4) The effect of scd2 mutant on dosage compensation and consequent effects on transcription uncovers that dosage compensation also affects small non-coding RNAs (miRNAs). Are there more miRNA affected by dosage compensation? What do they have in common? Do they regulate a group of genes with similar function?"
+    },
+    "annotation_925": {
+      "type": "emphasis",
+      "id": "annotation_925",
+      "path": [
+        "paragraph_924",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        16
+      ]
+    },
+    "annotation_926": {
+      "type": "emphasis",
+      "id": "annotation_926",
+      "path": [
+        "paragraph_924",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        22,
+        309
+      ]
+    },
+    "paragraph_927": {
+      "type": "paragraph",
+      "id": "paragraph_927",
+      "content": "The fourth request from the reviewers concerned the effect of the sdc-2 dosage compensation mutation on the expression of X-linked microRNAs. We found most embryonically expressed X-linked microRNAs to be dosage compensated. The targets of these microRNAs have not been determined experimentally and the predicted targets do not represent groups of genes with similar functions."
+    },
+    "annotation_928": {
+      "type": "emphasis",
+      "id": "annotation_928",
+      "path": [
+        "paragraph_927",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        66,
+        71
+      ]
     }
   }
 }

@@ -86,7 +86,33 @@
         "paragraph_298",
         "paragraph_299",
         "sub-article",
-        "sub-article"
+        "heading_301",
+        "paragraph_302",
+        "paragraph_304",
+        "paragraph_307",
+        "paragraph_308",
+        "paragraph_309",
+        "paragraph_311",
+        "paragraph_313",
+        "sub-article",
+        "heading_315",
+        "paragraph_316",
+        "paragraph_317",
+        "paragraph_319",
+        "paragraph_321",
+        "paragraph_322",
+        "paragraph_324",
+        "paragraph_325",
+        "paragraph_326",
+        "paragraph_328",
+        "paragraph_331",
+        "paragraph_333",
+        "paragraph_335",
+        "paragraph_338",
+        "paragraph_339",
+        "paragraph_342",
+        "paragraph_343",
+        "paragraph_345"
       ]
     },
     "figures": {
@@ -108,7 +134,8 @@
         "image_fig6s3",
         "image_fig7",
         "image_fig7s1",
-        "image_fig7s2"
+        "image_fig7s2",
+        "image_fig8"
       ]
     },
     "citations": {
@@ -260,7 +287,7 @@
     "paragraph_2": {
       "type": "paragraph",
       "id": "paragraph_2",
-      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited.10.7554/eLife.00558.001"
+      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited."
     },
     "annotation_3": {
       "type": "link",
@@ -291,7 +318,7 @@
     "paragraph_5": {
       "type": "paragraph",
       "id": "paragraph_5",
-      "content": "DOI: http://dx.doi.org/10.7554/eLife.00558.00110.7554/eLife.00558.002"
+      "content": "DOI: http://dx.doi.org/10.7554/eLife.00558.001"
     },
     "annotation_6": {
       "type": "strong",
@@ -5012,6 +5039,396 @@
       "level": 1,
       "content": "Article Commentary",
       "nodes": []
+    },
+    "heading_301": {
+      "type": "heading",
+      "id": "heading_301",
+      "level": 2,
+      "content": "Decision letter",
+      "nodes": []
+    },
+    "paragraph_302": {
+      "type": "paragraph",
+      "id": "paragraph_302",
+      "content": "eLife posts the editorial decision letter and author response on a selection of the published articles (subject to the approval of the authors). An edited version of the letter sent to the authors after peer review is shown, indicating the substantive concerns or comments; minor concerns are not usually shown. Reviewers have the opportunity to discuss the decision before the letter is sent (see review process). Similarly, the author response typically shows only responses to the major concerns raised by the reviewers."
+    },
+    "annotation_303": {
+      "type": "link",
+      "id": "annotation_303",
+      "path": [
+        "paragraph_302",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        398,
+        412
+      ],
+      "url": "http://www.elifesciences.org/the-journal/review-process"
+    },
+    "paragraph_304": {
+      "type": "paragraph",
+      "id": "paragraph_304",
+      "content": "Thank you for sending your work entitled “Dynamics of the Golgi Apparatus I: Stapled Golgi Cisternae Remain in Place as Cargo Passes Through the Stack” for consideration at eLife. Your article has been favorably evaluated by a Senior editor and 3 reviewers, one of whom is a member of our Board of Reviewing Editors, who believe that with appropriate revision the work should be published by eLife. The comments relate to the experiments studying collagen release in stapled cells. Specifically:"
+    },
+    "annotation_305": {
+      "type": "emphasis",
+      "id": "annotation_305",
+      "path": [
+        "paragraph_304",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        173,
+        178
+      ]
+    },
+    "annotation_306": {
+      "type": "emphasis",
+      "id": "annotation_306",
+      "path": [
+        "paragraph_304",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        392,
+        397
+      ]
+    },
+    "paragraph_307": {
+      "type": "paragraph",
+      "id": "paragraph_307",
+      "content": "1) There is no known cargo of this type and that has to be clearly stated. If “stapling” results in a “dead” Golgi then there might be a transient block in traffic at the time of drug addition (“stapling”) until a new region of Golgi had formed. Please state the half life of the collagen compared with the staples in stapled cells to try to address this point."
+    },
+    "paragraph_308": {
+      "type": "paragraph",
+      "id": "paragraph_308",
+      "content": "2) Some staples may be in cis and others trans. This should be mentioned in the text."
+    },
+    "paragraph_309": {
+      "type": "paragraph",
+      "id": "paragraph_309",
+      "content": "3) In Figure 6C, it was not clear that the collagen secretion was due to new collagen versus previously secreted collagen. This must be clarified or carried out in such a way that only newly secreted collagen is scored."
+    },
+    "figure_reference_310": {
+      "type": "figure_reference",
+      "id": "figure_reference_310",
+      "path": [
+        "paragraph_309",
+        "content"
+      ],
+      "target": "image_fig6",
+      "range": [
+        6,
+        15
+      ]
+    },
+    "paragraph_311": {
+      "type": "paragraph",
+      "id": "paragraph_311",
+      "content": "4) Figure 6 and related text: the experiments assume the cells are co-transfected. This is important for interpreting the results, and the authors have assumed cells tend to express both VSV-G and CD8 constructs. The authors should measure and include the degree of co-transfection."
+    },
+    "figure_reference_312": {
+      "type": "figure_reference",
+      "id": "figure_reference_312",
+      "path": [
+        "paragraph_311",
+        "content"
+      ],
+      "target": "image_fig6",
+      "range": [
+        3,
+        11
+      ]
+    },
+    "paragraph_313": {
+      "type": "paragraph",
+      "id": "paragraph_313",
+      "content": "5) Figure 7 and related text: how much FM protein was actually expressed? A Western blot is needed to show this. A plasmid ratio is given but this isn't particularly helpful in determining the actual protein ratio of membrane:soluble FM protein."
+    },
+    "figure_reference_314": {
+      "type": "figure_reference",
+      "id": "figure_reference_314",
+      "path": [
+        "paragraph_313",
+        "content"
+      ],
+      "target": "image_fig7",
+      "range": [
+        3,
+        11
+      ]
+    },
+    "heading_315": {
+      "type": "heading",
+      "id": "heading_315",
+      "level": 2,
+      "content": "Author response",
+      "nodes": []
+    },
+    "paragraph_316": {
+      "type": "paragraph",
+      "id": "paragraph_316",
+      "content": "As requested prior to peer review, we initially assessed if Golgi staples altered the secretion of collagen. We now clarify the minor concerns that were raised during peer review."
+    },
+    "paragraph_317": {
+      "type": "paragraph",
+      "id": "paragraph_317",
+      "content": "1) There is no known cargo of this type and that has to be clearly stated. If “stapling” results in a “dead” Golgi then there might be a transient block in traffic at the time of drug addition (“stapling”) until a new region of Golgi had formed. Please state the half life of the collagen compared with the staples in stapled cells to try to address this point."
+    },
+    "annotation_318": {
+      "type": "emphasis",
+      "id": "annotation_318",
+      "path": [
+        "paragraph_317",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        360
+      ]
+    },
+    "paragraph_319": {
+      "type": "paragraph",
+      "id": "paragraph_319",
+      "content": "We have shown that the rate of secretion of collagen-I and MMP2 are unchanged whether or not staples are pre-positioned in the Golgi (Figure 6–figure supplement 1). Since there is no retention of collagen-I, there is no reason to expect any change in the lifetime of this protein. On a more technical point of view, how can one measure the intracellular lifetime of a protein, which is efficiently secreted?"
+    },
+    "figure_reference_320": {
+      "type": "figure_reference",
+      "id": "figure_reference_320",
+      "path": [
+        "paragraph_319",
+        "content"
+      ],
+      "target": "image_fig6s1",
+      "range": [
+        134,
+        162
+      ]
+    },
+    "paragraph_321": {
+      "type": "paragraph",
+      "id": "paragraph_321",
+      "content": "We now state in the revised manuscript that the unique nature of the artificial staples prevents us from definitively concluding that “pure maturation” does not occur in regions of the Golgi stacks that are depleted of staples. Although we established by using broad sets of assays that anterograde transport through stapled Golgi is not altered, we cannot rule out that staples introduced other, non-obvious, minor side effects on Golgi membranes."
+    },
+    "paragraph_322": {
+      "type": "paragraph",
+      "id": "paragraph_322",
+      "content": "2) Some staples may be in cis and others trans. This should be mentioned in the text."
+    },
+    "annotation_323": {
+      "type": "emphasis",
+      "id": "annotation_323",
+      "path": [
+        "paragraph_322",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        84
+      ]
+    },
+    "paragraph_324": {
+      "type": "paragraph",
+      "id": "paragraph_324",
+      "content": "Do you mean cis-Golgi vs Trans-Golgi localization or cis-interaction vs trans-interaction?"
+    },
+    "paragraph_325": {
+      "type": "paragraph",
+      "id": "paragraph_325",
+      "content": "Concerning the localization within the Golgi we combined biochemistry (lectin precipitation), confocal microscopy, electron microscopy, and immuno-electron microcopy to establish that staples formed in the cis-Golgi remain in the cis Golgi."
+    },
+    "paragraph_326": {
+      "type": "paragraph",
+      "id": "paragraph_326",
+      "content": "Concerning the mode of interaction, although we visualized only staples resulting from trans-interaction, as proved by the artificial stacking of ER membranes harboring cytosolic staples (Figure 1–figure supplement 1), we cannot rule out that staples may form in cis (on the same membrane bilayer) when physical constraints are favorable. This is now mentioned in the manuscript."
+    },
+    "figure_reference_327": {
+      "type": "figure_reference",
+      "id": "figure_reference_327",
+      "path": [
+        "paragraph_326",
+        "content"
+      ],
+      "target": "image_fig1s1",
+      "range": [
+        188,
+        216
+      ]
+    },
+    "paragraph_328": {
+      "type": "paragraph",
+      "id": "paragraph_328",
+      "content": "3) In Figure 6C, it was not clear that the collagen secretion was due to new collagen versus previously secreted collagen. This must be clarified or carried out in such a way that only newly secreted collagen is scored."
+    },
+    "figure_reference_329": {
+      "type": "figure_reference",
+      "id": "figure_reference_329",
+      "path": [
+        "paragraph_328",
+        "content"
+      ],
+      "target": "image_fig6",
+      "range": [
+        6,
+        15
+      ]
+    },
+    "annotation_330": {
+      "type": "emphasis",
+      "id": "annotation_330",
+      "path": [
+        "paragraph_328",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        218
+      ]
+    },
+    "paragraph_331": {
+      "type": "paragraph",
+      "id": "paragraph_331",
+      "content": "We scored only the secretion of newly released collagen-I. In Figure 6C, staples were formed for two hours and then secretion of collagen-I was tested. At the beginning of the chase (t=0), old media was removed and replaced with fresh media. After two hours the media was collected and submitted to TCA precipitation. This is now clarified in the manuscript."
+    },
+    "figure_reference_332": {
+      "type": "figure_reference",
+      "id": "figure_reference_332",
+      "path": [
+        "paragraph_331",
+        "content"
+      ],
+      "target": "image_fig6",
+      "range": [
+        62,
+        71
+      ]
+    },
+    "paragraph_333": {
+      "type": "paragraph",
+      "id": "paragraph_333",
+      "content": "Note that Figure 6–figure supplement 1 showed the rate of release of collagen-I (and MMP2), and clearly showed the absence of collagen-I in the media at t=0."
+    },
+    "figure_reference_334": {
+      "type": "figure_reference",
+      "id": "figure_reference_334",
+      "path": [
+        "paragraph_333",
+        "content"
+      ],
+      "target": "image_fig6s1",
+      "range": [
+        10,
+        38
+      ]
+    },
+    "paragraph_335": {
+      "type": "paragraph",
+      "id": "paragraph_335",
+      "content": "4) Figure 6 and related text: the experiments assume the cells are co-transfected. This is important for interpreting the results, and the authors have assumed cells tend to express both VSV-G and CD8 constructs. The authors should measure and include the degree of co-transfection."
+    },
+    "figure_reference_336": {
+      "type": "figure_reference",
+      "id": "figure_reference_336",
+      "path": [
+        "paragraph_335",
+        "content"
+      ],
+      "target": "image_fig6",
+      "range": [
+        3,
+        11
+      ]
+    },
+    "annotation_337": {
+      "type": "emphasis",
+      "id": "annotation_337",
+      "path": [
+        "paragraph_335",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        281
+      ]
+    },
+    "paragraph_338": {
+      "type": "paragraph",
+      "id": "paragraph_338",
+      "content": "When observed under a confocal microscope, >95% of the cells are co-transfected. This is now reported in the manuscript."
+    },
+    "paragraph_339": {
+      "type": "paragraph",
+      "id": "paragraph_339",
+      "content": "5) Figure 7 and related text: how much FM protein was actually expressed? A Western blot is needed to show this. A plasmid ratio is given but this isn't particularly helpful in determining the actual protein ratio of membrane:soluble FM protein."
+    },
+    "figure_reference_340": {
+      "type": "figure_reference",
+      "id": "figure_reference_340",
+      "path": [
+        "paragraph_339",
+        "content"
+      ],
+      "target": "image_fig7",
+      "range": [
+        3,
+        11
+      ]
+    },
+    "annotation_341": {
+      "type": "emphasis",
+      "id": "annotation_341",
+      "path": [
+        "paragraph_339",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        244
+      ]
+    },
+    "paragraph_342": {
+      "type": "paragraph",
+      "id": "paragraph_342",
+      "content": "We estimated that a 3:1 membrane:soluble plasmid ratio results in a 2:1 membrane:soluble protein ratio."
+    },
+    "paragraph_343": {
+      "type": "paragraph",
+      "id": "paragraph_343",
+      "content": "Such quantification seems trivial; however, the molecular weight of ssDsRedFM4hGH (sol) and ssDsRedFM4cDB (rMD) are almost similar, making it difficult to distinguish with the same antibody each protein when they are co-expressed (even when using an acrylamide gradient gel: Author response image 1)."
+    },
+    "figure_reference_344": {
+      "type": "figure_reference",
+      "id": "figure_reference_344",
+      "path": [
+        "paragraph_343",
+        "content"
+      ],
+      "target": "image_fig8",
+      "range": [
+        275,
+        298
+      ]
+    },
+    "image_fig8": {
+      "type": "image",
+      "id": "image_fig8",
+      "label": "Author response image 1",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00558/svg/elife00558f008.svg",
+      "graphic_id": "elife00558f008",
+      "format": "image"
+    },
+    "paragraph_345": {
+      "type": "paragraph",
+      "id": "paragraph_345",
+      "content": "Therefore we could only estimate by densitometry the sum of the chemiluminescence signal emanating from both proteins. The amount of plasmid used for the soluble protein was constant, whereas the amount of plasmid for the membrane protein was increased by a factor 3. Intensity of membrane protein expressed alone was set to 1. Using this method we showed that using a 1:1 TMD:Sol plasmid ratio increases the signal by a factor 1.9 (in theory a 2 fold increase is expected). When the TMD:Sol plasmid ratio is 3:1, the signal increased by a factor 2.8, suggesting a 1.8:1 TMD:Sol protein ratio. This ≅2 protein ratio is now reported in the revised manuscript."
     }
   }
 }

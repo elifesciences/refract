@@ -71,7 +71,38 @@
         "paragraph_396",
         "paragraph_402",
         "sub-article",
-        "sub-article"
+        "heading_419",
+        "paragraph_420",
+        "paragraph_422",
+        "paragraph_424",
+        "paragraph_425",
+        "paragraph_426",
+        "paragraph_427",
+        "paragraph_428",
+        "paragraph_429",
+        "paragraph_430",
+        "paragraph_431",
+        "paragraph_433",
+        "paragraph_434",
+        "paragraph_435",
+        "sub-article",
+        "heading_437",
+        "paragraph_438",
+        "paragraph_440",
+        "paragraph_441",
+        "paragraph_443",
+        "paragraph_446",
+        "paragraph_448",
+        "paragraph_449",
+        "paragraph_451",
+        "paragraph_452",
+        "paragraph_455",
+        "paragraph_457",
+        "paragraph_459",
+        "paragraph_460",
+        "paragraph_462",
+        "paragraph_463",
+        "paragraph_465"
       ]
     },
     "figures": {
@@ -467,7 +498,7 @@
     "paragraph_2": {
       "type": "paragraph",
       "id": "paragraph_2",
-      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited.10.7554/eLife.00747.001"
+      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited."
     },
     "annotation_3": {
       "type": "link",
@@ -498,7 +529,7 @@
     "paragraph_5": {
       "type": "paragraph",
       "id": "paragraph_5",
-      "content": "DOI: http://dx.doi.org/10.7554/eLife.00747.00110.7554/eLife.00747.002"
+      "content": "DOI: http://dx.doi.org/10.7554/eLife.00747.001"
     },
     "annotation_6": {
       "type": "strong",
@@ -6890,6 +6921,376 @@
       "level": 1,
       "content": "Article Commentary",
       "nodes": []
+    },
+    "heading_419": {
+      "type": "heading",
+      "id": "heading_419",
+      "level": 2,
+      "content": "Decision letter",
+      "nodes": []
+    },
+    "paragraph_420": {
+      "type": "paragraph",
+      "id": "paragraph_420",
+      "content": "eLife posts the editorial decision letter and author response on a selection of the published articles (subject to the approval of the authors). An edited version of the letter sent to the authors after peer review is shown, indicating the substantive concerns or comments; minor concerns are not usually shown. Reviewers have the opportunity to discuss the decision before the letter is sent (see review process). Similarly, the author response typically shows only responses to the major concerns raised by the reviewers."
+    },
+    "annotation_421": {
+      "type": "link",
+      "id": "annotation_421",
+      "path": [
+        "paragraph_420",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        398,
+        412
+      ],
+      "url": "http://www.elifesciences.org/the-journal/review-process"
+    },
+    "paragraph_422": {
+      "type": "paragraph",
+      "id": "paragraph_422",
+      "content": "Thank you for sending your work entitled “Evolutionary dynamics of cancer in response to targeted combination therapy” for consideration at eLife. Your article has been favorably evaluated by a Senior editor and 4 reviewers, one of whom is a member of our Board of Reviewing Editors."
+    },
+    "annotation_423": {
+      "type": "emphasis",
+      "id": "annotation_423",
+      "path": [
+        "paragraph_422",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        140,
+        145
+      ]
+    },
+    "paragraph_424": {
+      "type": "paragraph",
+      "id": "paragraph_424",
+      "content": "The following individuals responsible for the peer review of your submission want to reveal their identity: Carl Bergstrom (Reviewing editor) and Rustom Antia (peer reviewer)."
+    },
+    "paragraph_425": {
+      "type": "paragraph",
+      "id": "paragraph_425",
+      "content": "The Reviewing editor and the other reviewers discussed their comments before we reached this decision, and the Reviewing editor has assembled the following comments to help you prepare a revised submission."
+    },
+    "paragraph_426": {
+      "type": "paragraph",
+      "id": "paragraph_426",
+      "content": "The reviewers all found the paper to be an important contribution based on elegant modeling work. They raised the following points for consideration:"
+    },
+    "paragraph_427": {
+      "type": "paragraph",
+      "id": "paragraph_427",
+      "content": "1) The authors state that the models explored in the context of previous studies are not applicable to describe solid tumors. It would help the reader if it were then explained in what way the new model differs from the old ones, and how its design helps to handle solid tumors. To this end, it would be helpful to discuss how the spatial structure of the tumor makes for non-homogenous growth and death rates and so on, and the limitations of the branching process model for dealing with these complexities."
+    },
+    "paragraph_428": {
+      "type": "paragraph",
+      "id": "paragraph_428",
+      "content": "2) The authors should consider moving supplementary figure 3 into the main text. One referee feels that this would greatly enhance the impact of the paper by making the result immediately and intuitively clear."
+    },
+    "paragraph_429": {
+      "type": "paragraph",
+      "id": "paragraph_429",
+      "content": "3) The clinical dataset used to generate the birth and death rates is from BRAF mutant melanoma. What is the evidence that the results can be extrapolated to all cancers?"
+    },
+    "paragraph_430": {
+      "type": "paragraph",
+      "id": "paragraph_430",
+      "content": "4) The authors should comment on whether/how their modeling studies apply to the recent reports of long-term responses (cures?) with single agent immunotherapy (CTLA-4, PD1, CD19-CARs)."
+    },
+    "paragraph_431": {
+      "type": "paragraph",
+      "id": "paragraph_431",
+      "content": "5) The authors make the assumption that the time between cell doublings is 7 days based on a single reference (Cell production rates in human tissues and tumours and their significance. Part II: clinical data. European journal of surgical oncology: the journal of the European Society of Surgical Oncology and the British Association of Surgical Oncology; doi: 10.1053/ejso.1999.0907). This is a difficult measurement to make and could be inaccurate. How would the predictions from the model change if this time were much different?"
+    },
+    "annotation_432": {
+      "type": "link",
+      "id": "annotation_432",
+      "path": [
+        "paragraph_431",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        361,
+        383
+      ],
+      "url": "http://dx.doi.org/10.1053/ejso.1999.0907"
+    },
+    "paragraph_433": {
+      "type": "paragraph",
+      "id": "paragraph_433",
+      "content": "6) Near the end of the manuscript the authors make the point that the probability of cure with one or two drugs is greatly increased in tumors where the only cells that contribute to relapse are rare cancer stem cells. This is a logical and important distinction but seems to be quickly dismissed as not relevant clinically, with the possible exception of CML. Since the cancer stem cell question remains murky, this deserves more comment."
+    },
+    "paragraph_434": {
+      "type": "paragraph",
+      "id": "paragraph_434",
+      "content": "7) All of the calculations are based on tumor cell number (for obvious reasons) but tumor size (on CT scan) is used by clinicians. We encourage the authors to include both measurements on relevant figures, perhaps in the form of a conversion scale, to make it easier for clinicians to appreciate the clinical relevance of the modeling predictions."
+    },
+    "paragraph_435": {
+      "type": "paragraph",
+      "id": "paragraph_435",
+      "content": "8) The authors may wish to consider the presentation of the mathematical results, which currently are spread among several different parts of the manuscript and supplementary information. Given that eLife doesn't impose constraints on length, we wonder whether it would be possible to better structure the manuscript so that the reader does not have to flip between so many different sections to follow the story. This is not to say that the separation is without merit–the main story is well told with the mathematical details set elsewhere. But it seems worth at least considering whether the supplementary information could be consolidated."
+    },
+    "annotation_436": {
+      "type": "emphasis",
+      "id": "annotation_436",
+      "path": [
+        "paragraph_435",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        199,
+        204
+      ]
+    },
+    "heading_437": {
+      "type": "heading",
+      "id": "heading_437",
+      "level": 2,
+      "content": "Author response",
+      "nodes": []
+    },
+    "paragraph_438": {
+      "type": "paragraph",
+      "id": "paragraph_438",
+      "content": "1) The authors state that the models explored in the context of previous studies are not applicable to describe solid tumors. It would help the reader if it were then explained in what way the new model differs from the old ones, and how its design helps to handle solid tumors. To this end, it would be helpful to discuss how the spatial structure of the tumor makes for non-homogenous growth and death rates and so on, and the limitations of the branching process model for dealing with these complexities."
+    },
+    "annotation_439": {
+      "type": "emphasis",
+      "id": "annotation_439",
+      "path": [
+        "paragraph_438",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        507
+      ]
+    },
+    "paragraph_440": {
+      "type": "paragraph",
+      "id": "paragraph_440",
+      "content": "We were referring to previous clinical studies that report the success of chemotherapeutic agents in leukemias and combination treatments in HIV, not to theoretical models that predict the success of these therapies. Our point is simply that the success of combination-targeted therapies in solid tumors cannot be inferred from successes in treating leukemias. Our primary advances with regard to previous branching-process models are in the development and incorporation of new mathematical techniques yielding exact closed-form results, and our use of new clinical data to obtain parameter values applicable to solid tumors. We clarified the explanation on how our model differs from previous ones and noted the limitations of our model to deal with non-homogeneous growth."
+    },
+    "paragraph_441": {
+      "type": "paragraph",
+      "id": "paragraph_441",
+      "content": "2) The authors should consider moving supplementary figure 3 into the main text. One referee feels that this would greatly enhance the impact of the paper by making the result immediately and intuitively clear."
+    },
+    "annotation_442": {
+      "type": "emphasis",
+      "id": "annotation_442",
+      "path": [
+        "paragraph_441",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        209
+      ]
+    },
+    "paragraph_443": {
+      "type": "paragraph",
+      "id": "paragraph_443",
+      "content": "We agree with the referees and we have now made this Figure 3 within the main text. The figure compares the formula for the probability that treatment will eradicate a lesion (equation 1) with simulation results, so we refer to it when discussing that formula."
+    },
+    "figure_reference_444": {
+      "type": "figure_reference",
+      "id": "figure_reference_444",
+      "path": [
+        "paragraph_443",
+        "content"
+      ],
+      "target": "image_fig3",
+      "range": [
+        53,
+        61
+      ]
+    },
+    "cross_reference_445": {
+      "type": "cross_reference",
+      "id": "cross_reference_445",
+      "path": [
+        "paragraph_443",
+        "content"
+      ],
+      "target": "formula_equ4",
+      "range": [
+        176,
+        186
+      ]
+    },
+    "paragraph_446": {
+      "type": "paragraph",
+      "id": "paragraph_446",
+      "content": "3) The clinical dataset used to generate the birth and death rates is from BRAF mutant melanoma. What is the evidence that the results can be extrapolated to all cancers?"
+    },
+    "annotation_447": {
+      "type": "emphasis",
+      "id": "annotation_447",
+      "path": [
+        "paragraph_446",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        169
+      ]
+    },
+    "paragraph_448": {
+      "type": "paragraph",
+      "id": "paragraph_448",
+      "content": "While the typical parameter values we use are from the melanoma dataset, our analytical results can accommodate parameter values from any other type of cancer, once they become available. Furthermore, our results are qualitatively robust across a wide range of birth and death rates (Supplementary File 3). The parameters with the strongest effect on the success of combination treatment–apart from the number of cross-resistance mutations–are lesion size and point mutation rate. Thus we expect combination treatment to be more effective in cancers with small fractions of tumor stem cells (resulting in a small effective population size) and less effective in cancers with increased point mutation rates."
+    },
+    "paragraph_449": {
+      "type": "paragraph",
+      "id": "paragraph_449",
+      "content": "4) The authors should comment on whether/how their modeling studies apply to the recent reports of long-term responses (cures?) with single agent immunotherapy (CTLA-4, PD1, CD19-CARs)."
+    },
+    "annotation_450": {
+      "type": "emphasis",
+      "id": "annotation_450",
+      "path": [
+        "paragraph_449",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        184
+      ]
+    },
+    "paragraph_451": {
+      "type": "paragraph",
+      "id": "paragraph_451",
+      "content": "Our results are not readily applicable to therapies that rely on the immune destruction of tumors, because immune cells can replicate and evolve, unlike small molecule compounds. We have added a discussion pertaining to this issue."
+    },
+    "paragraph_452": {
+      "type": "paragraph",
+      "id": "paragraph_452",
+      "content": "5) The authors make the assumption that the time between cell doublings is 7 days based on a single reference (Cell production rates in human tissues and tumours and their significance. Part II: clinical data. European journal of surgical oncology: the journal of the European Society of Surgical Oncology and the British Association of Surgical Oncology; doi: 10.1053/ejso.1999.0907). This is a difficult measurement to make and could be inaccurate. How would the predictions from the model change if this time were much different?"
+    },
+    "annotation_453": {
+      "type": "link",
+      "id": "annotation_453",
+      "path": [
+        "paragraph_452",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        361,
+        383
+      ],
+      "url": "http://dx.doi.org/10.1053/ejso.1999.0907"
+    },
+    "annotation_454": {
+      "type": "emphasis",
+      "id": "annotation_454",
+      "path": [
+        "paragraph_452",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        531
+      ]
+    },
+    "paragraph_455": {
+      "type": "paragraph",
+      "id": "paragraph_455",
+      "content": "As we mention in the main text, we use doubling time of 7 days as a typical value, but find that our conclusions hold for doubling times ranging from 1 to 14 days as well (Supplementary File 3)."
+    },
+    "figure_reference_456": {
+      "type": "figure_reference",
+      "id": "figure_reference_456",
+      "path": [
+        "paragraph_455",
+        "content"
+      ],
+      "target": "supplement_SD4_data",
+      "range": [
+        172,
+        192
+      ]
+    },
+    "paragraph_457": {
+      "type": "paragraph",
+      "id": "paragraph_457",
+      "content": "6) Near the end of the manuscript the authors make the point that the probability of cure with one or two drugs is greatly increased in tumors where the only cells that contribute to relapse are rare cancer stem cells. This is a logical and important distinction but seems to be quickly dismissed as not relevant clinically, with the possible exception of CML. Since the cancer stem cell question remains murky, this deserves more comment."
+    },
+    "annotation_458": {
+      "type": "emphasis",
+      "id": "annotation_458",
+      "path": [
+        "paragraph_457",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        438
+      ]
+    },
+    "paragraph_459": {
+      "type": "paragraph",
+      "id": "paragraph_459",
+      "content": "We agree with the reviewers that the issue of cancer stem cells has important clinical implications for the success of single and combination therapies. We have added a discussion of these points to the manuscript."
+    },
+    "paragraph_460": {
+      "type": "paragraph",
+      "id": "paragraph_460",
+      "content": "7) All of the calculations are based on tumor cell number (for obvious reasons) but tumor size (on CT scan) is used by clinicians. We encourage the authors to include both measurements on relevant figures, perhaps in the form of a conversion scale, to make it easier for clinicians to appreciate the clinical relevance of the modeling predictions."
+    },
+    "annotation_461": {
+      "type": "emphasis",
+      "id": "annotation_461",
+      "path": [
+        "paragraph_460",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        346
+      ]
+    },
+    "paragraph_462": {
+      "type": "paragraph",
+      "id": "paragraph_462",
+      "content": "We have now added tumor diameter (in addition to cell number) to all relevant figures."
+    },
+    "paragraph_463": {
+      "type": "paragraph",
+      "id": "paragraph_463",
+      "content": "8) The authors may wish to consider the presentation of the mathematical results, which currently are spread among several different parts of the manuscript and supplementary information. Given that eLife doesn't impose constraints on length, we wonder whether it would be possible to better structure the manuscript so that the reader does not have to flip between so many different sections to follow the story. This is not to say that the separation is without merit–the main story is well told with the mathematical details set elsewhere. But it seems worth at least considering whether the supplementary information could be consolidated."
+    },
+    "annotation_464": {
+      "type": "emphasis",
+      "id": "annotation_464",
+      "path": [
+        "paragraph_463",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        642
+      ]
+    },
+    "paragraph_465": {
+      "type": "paragraph",
+      "id": "paragraph_465",
+      "content": "To simplify the presentation of the mathematical results, as suggested by the reviewers, we have moved the mathematical results from the Methods section to the Results section in the main text. We have also consolidated the supplementary information into a more linear structure."
     }
   }
 }

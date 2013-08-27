@@ -41,7 +41,21 @@
         "heading_s4-7",
         "paragraph_98",
         "sub-article",
-        "sub-article"
+        "heading_104",
+        "paragraph_105",
+        "paragraph_107",
+        "paragraph_109",
+        "paragraph_110",
+        "paragraph_111",
+        "paragraph_113",
+        "paragraph_114",
+        "sub-article",
+        "heading_115",
+        "paragraph_116",
+        "paragraph_118",
+        "paragraph_124",
+        "paragraph_125",
+        "paragraph_127"
       ]
     },
     "figures": {
@@ -241,7 +255,7 @@
     "paragraph_2": {
       "type": "paragraph",
       "id": "paragraph_2",
-      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited.10.7554/eLife.00471.001"
+      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited."
     },
     "annotation_3": {
       "type": "link",
@@ -272,7 +286,7 @@
     "paragraph_5": {
       "type": "paragraph",
       "id": "paragraph_5",
-      "content": "DOI: http://dx.doi.org/10.7554/eLife.00471.00110.7554/eLife.00471.002"
+      "content": "DOI: http://dx.doi.org/10.7554/eLife.00471.001"
     },
     "annotation_6": {
       "type": "strong",
@@ -2036,6 +2050,266 @@
       "level": 1,
       "content": "Article Commentary",
       "nodes": []
+    },
+    "heading_104": {
+      "type": "heading",
+      "id": "heading_104",
+      "level": 2,
+      "content": "Decision letter",
+      "nodes": []
+    },
+    "paragraph_105": {
+      "type": "paragraph",
+      "id": "paragraph_105",
+      "content": "eLife posts the editorial decision letter and author response on a selection of the published articles (subject to the approval of the authors). An edited version of the letter sent to the authors after peer review is shown, indicating the substantive concerns or comments; minor concerns are not usually shown. Reviewers have the opportunity to discuss the decision before the letter is sent (see review process). Similarly, the author response typically shows only responses to the major concerns raised by the reviewers."
+    },
+    "annotation_106": {
+      "type": "link",
+      "id": "annotation_106",
+      "path": [
+        "paragraph_105",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        398,
+        412
+      ],
+      "url": "http://www.elifesciences.org/the-journal/review-process"
+    },
+    "paragraph_107": {
+      "type": "paragraph",
+      "id": "paragraph_107",
+      "content": "Thank you for choosing to send your work entitled “RNA-programmed genome editing in human cells” for consideration at eLife. Your article has been evaluated by a Senior editor, Detlef Weigel, who also acted as Reviewing editor and reviewer, and two outside reviewers, Dana Carroll and David Segal."
+    },
+    "annotation_108": {
+      "type": "emphasis",
+      "id": "annotation_108",
+      "path": [
+        "paragraph_107",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        118,
+        123
+      ]
+    },
+    "paragraph_109": {
+      "type": "paragraph",
+      "id": "paragraph_109",
+      "content": "The Reviewing editor and the other reviewers discussed their comments before we reached this decision, and the Reviewing editor has assembled the following comments to help you prepare a revised submission."
+    },
+    "paragraph_110": {
+      "type": "paragraph",
+      "id": "paragraph_110",
+      "content": "This excellent paper demonstrates the capability of a method based on the bacterial CRISPR-Cas system to introduce targeted, mutagenic double-strand breaks into human chromosomal DNA. This system could become a powerful alternative to protein-based targeting reagents, because it is based on simple Watson-Crick recognition and no protein design is required. To put this into perspective, the first proof-of concept study with zinc finger nucleases (ZFNs) in human cells targeted plasmid, not chromosomal DNA."
+    },
+    "paragraph_111": {
+      "type": "paragraph",
+      "id": "paragraph_111",
+      "content": "Jinek and colleagues reported earlier this year that a CRISPR/Cas-based two-component system could be engineered for inducing double-strand breaks (DSBs) in vitro, by linking the Cas protein to a nuclease, and by encoding tracrRNA and crRNA functions on a single RNA molecule. In the present study, Jinek and colleagues advance this work by showing that Cas and guide RNAs expressed in mammalian cells can target an endogenous locus to induce DSBs. In addition, they improve on the guide RNA. Given the ease with which this system is programmed, it is not unlikely that even if its efficiency is lower than that of competing systems, it will come to supplant ZFNs and TALE Nucleases (TALENs). As such, the methods and results described in this manuscript will likely have a transformative impact in the field of genome engineering for human and many other species with complex genomes. We would be happy to publish this work once a few points have been clarified."
+    },
+    "annotation_112": {
+      "type": "emphasis",
+      "id": "annotation_112",
+      "path": [
+        "paragraph_111",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        154,
+        162
+      ]
+    },
+    "paragraph_113": {
+      "type": "paragraph",
+      "id": "paragraph_113",
+      "content": "1. A few of the mutated targets must be sequenced (from cloned PCR products), just to demonstrate that the expected types of NHEJ mutations are present."
+    },
+    "paragraph_114": {
+      "type": "paragraph",
+      "id": "paragraph_114",
+      "content": "2. The authors mention that off-target effects are an important concern for genome engineering methods. We would like to encourage the authors to look at least at the top loci with sequence similarity to the targeting site and perform the Surveyor assay on these, similar to what was done by Meng et al. (Nature Biotechnology 2008), unless this unduly delays publication.10.7554/eLife.00471.009"
+    },
+    "heading_115": {
+      "type": "heading",
+      "id": "heading_115",
+      "level": 2,
+      "content": "Author response",
+      "nodes": []
+    },
+    "paragraph_116": {
+      "type": "paragraph",
+      "id": "paragraph_116",
+      "content": "1. A few of the mutated targets must be sequenced (from cloned PCR products), just to demonstrate that the expected types of NHEJ mutations are present."
+    },
+    "annotation_117": {
+      "type": "emphasis",
+      "id": "annotation_117",
+      "path": [
+        "paragraph_116",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        151
+      ]
+    },
+    "paragraph_118": {
+      "type": "paragraph",
+      "id": "paragraph_118",
+      "content": "We agree that sequencing data will be useful for determining the nature and range of NHEJ reactions that are induced by Cas9:sgRNA. However, we note that the Surveyor assay is a well-established stand-alone method of detecting the presence of mutations introduced by NHEJ events as a consequence of double-stranded DNA breaks. For example, in a study that demonstrates improvements on the ZFN architecture for increased efficiency of gene editing, Miller et al. (An improved zinc-finger nuclease architecture for highly specific genome editing, Nature Biotechnology; PMID 17603475) used solely the Surveyor assay to monitor genome modification. In a study showing improvements on methods to increase efficiency of genome editing, Doyon et al. (Transient cold shock enhances zinc-finger nuclease–mediated gene disruption, Nature Methods; PMID 20436476) use only the Surveyor assay to show that subjecting cells to transient hypothermia can increase efficiencies of ZFN-induced gene disruption. A recent study by Miller et al. (A TALE nuclease architecture for efficient genome editing, Nature Biotechnology; PMID 21179091), which was the first to demonstrate the use of TALENs for genome editing, relied solely on the Surveyor assay to demonstrate both NHEJ and homologous recombination at the CCR5 genomic locus, which comprised the majority of the article."
+    },
+    "annotation_119": {
+      "type": "emphasis",
+      "id": "annotation_119",
+      "path": [
+        "paragraph_118",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        545,
+        565
+      ]
+    },
+    "annotation_120": {
+      "type": "link",
+      "id": "annotation_120",
+      "path": [
+        "paragraph_118",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        567,
+        580
+      ],
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/17603475"
+    },
+    "annotation_121": {
+      "type": "emphasis",
+      "id": "annotation_121",
+      "path": [
+        "paragraph_118",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        821,
+        835
+      ]
+    },
+    "annotation_122": {
+      "type": "emphasis",
+      "id": "annotation_122",
+      "path": [
+        "paragraph_118",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1085,
+        1105
+      ]
+    },
+    "annotation_123": {
+      "type": "link",
+      "id": "annotation_123",
+      "path": [
+        "paragraph_118",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1107,
+        1120
+      ],
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/21179091"
+    },
+    "paragraph_124": {
+      "type": "paragraph",
+      "id": "paragraph_124",
+      "content": "We also point out that cloning and sequencing PCR products to demonstrate genome modification would require analyses of ∼100 clones to obtain 6–8 modified alleles at best. This type of analysis will not provide statistically meaningful data. We think that this analysis should be performed using deep-sequencing methods to provide much larger data sets for multiple Cas9:sgRNA-targeted loci. This will be better performed as part of a larger study that provides in-depth analysis subsequent to the publication of this initial discovery."
+    },
+    "paragraph_125": {
+      "type": "paragraph",
+      "id": "paragraph_125",
+      "content": "2. The authors mention that off-target effects are an important concern for genome engineering methods. We would like to encourage the authors to look at least at the top loci with sequence similarity to the targeting site and perform the Surveyor assay on these, similar to what was done by Meng et al. (Nature Biotechnology 2008), unless this unduly delays publication."
+    },
+    "annotation_126": {
+      "type": "emphasis",
+      "id": "annotation_126",
+      "path": [
+        "paragraph_125",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        370
+      ]
+    },
+    "paragraph_127": {
+      "type": "paragraph",
+      "id": "paragraph_127",
+      "content": "We agree that assessing off-target effects is an important future goal, but we think that this is more appropriate for a separate, larger-scale study using deep-sequencing to evaluate off-target effects at many loci. It is clear from our previous results that target recognition in vitro requires at least 16 base pairs, including the PAM (Jinek et al. (2012) Science, PMID 22745249). We also have a manuscript currently in review at another journal showing that, in bacteria, there are no detectable off-target effects for Cas9:sgRNA-mediated gene silencing. Whether this holds true for the much larger human genome will need to be thoroughly investigated, but the results to date are encouraging."
+    },
+    "annotation_128": {
+      "type": "emphasis",
+      "id": "annotation_128",
+      "path": [
+        "paragraph_127",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        279,
+        287
+      ]
+    },
+    "annotation_129": {
+      "type": "emphasis",
+      "id": "annotation_129",
+      "path": [
+        "paragraph_127",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        360,
+        367
+      ]
+    },
+    "annotation_130": {
+      "type": "link",
+      "id": "annotation_130",
+      "path": [
+        "paragraph_127",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        369,
+        382
+      ],
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/22745249"
+    },
+    "annotation_131": {
+      "type": "emphasis",
+      "id": "annotation_131",
+      "path": [
+        "paragraph_127",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        487,
+        489
+      ]
     }
   }
 }

@@ -111,7 +111,28 @@
         "heading_s4-10",
         "paragraph_960",
         "sub-article",
-        "sub-article"
+        "heading_968",
+        "paragraph_969",
+        "paragraph_971",
+        "paragraph_973",
+        "paragraph_974",
+        "paragraph_975",
+        "paragraph_977",
+        "sub-article",
+        "heading_980",
+        "paragraph_981",
+        "paragraph_985",
+        "paragraph_989",
+        "paragraph_994",
+        "paragraph_996",
+        "paragraph_998",
+        "paragraph_1004",
+        "paragraph_1006",
+        "paragraph_1028",
+        "paragraph_1030",
+        "paragraph_1035",
+        "paragraph_1041",
+        "paragraph_1044"
       ]
     },
     "figures": {
@@ -380,7 +401,7 @@
     "paragraph_2": {
       "type": "paragraph",
       "id": "paragraph_2",
-      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited.10.7554/eLife.00334.001"
+      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited."
     },
     "annotation_3": {
       "type": "link",
@@ -411,7 +432,7 @@
     "paragraph_5": {
       "type": "paragraph",
       "id": "paragraph_5",
-      "content": "DOI: http://dx.doi.org/10.7554/eLife.00334.00110.7554/eLife.00334.002"
+      "content": "DOI: http://dx.doi.org/10.7554/eLife.00334.001"
     },
     "annotation_6": {
       "type": "strong",
@@ -15046,6 +15067,848 @@
       "level": 1,
       "content": "Article Commentary",
       "nodes": []
+    },
+    "heading_968": {
+      "type": "heading",
+      "id": "heading_968",
+      "level": 2,
+      "content": "Decision letter",
+      "nodes": []
+    },
+    "paragraph_969": {
+      "type": "paragraph",
+      "id": "paragraph_969",
+      "content": "eLife posts the editorial decision letter and author response on a selection of the published articles (subject to the approval of the authors). An edited version of the letter sent to the authors after peer review is shown, indicating the substantive concerns or comments; minor concerns are not usually shown. Reviewers have the opportunity to discuss the decision before the letter is sent (see review process). Similarly, the author response typically shows only responses to the major concerns raised by the reviewers."
+    },
+    "annotation_970": {
+      "type": "link",
+      "id": "annotation_970",
+      "path": [
+        "paragraph_969",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        398,
+        412
+      ],
+      "url": "http://www.elifesciences.org/the-journal/review-process"
+    },
+    "paragraph_971": {
+      "type": "paragraph",
+      "id": "paragraph_971",
+      "content": "Thank you for choosing to send your work entitled “Sequence-Dependent Base-Pair Stepping Dynamics in XPD Helicase Unwinding” for consideration at eLife. Your article has been evaluated by a Senior editor and 3 reviewers, one of whom, Leemor Joshua-Tor, is a member of our Board of Reviewing Editors."
+    },
+    "annotation_972": {
+      "type": "emphasis",
+      "id": "annotation_972",
+      "path": [
+        "paragraph_971",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        146,
+        151
+      ]
+    },
+    "paragraph_973": {
+      "type": "paragraph",
+      "id": "paragraph_973",
+      "content": "The Reviewing editor and the other reviewers discussed their comments before we reached this decision, and the Reviewing editor has assembled the following comments based on the reviewers' reports."
+    },
+    "paragraph_974": {
+      "type": "paragraph",
+      "id": "paragraph_974",
+      "content": "The reviewers were impressed with the technical achievements described. An accurate step size has been determined directly for only a handful of motors, and so the high-resolution measurements described in this paper for this important helicase are impressive. The evidence for single base-step forward unwinding is convincing."
+    },
+    "paragraph_975": {
+      "type": "paragraph",
+      "id": "paragraph_975",
+      "content": "1) The reviewers do, however, have some concerns about the complex behavior consisting of the other step sizes: –1, and especially the +/–5bp, which are unique to this helicase. The suggestion that this is due to DNA release from a secondary site on the helicase has not been substantiated, nor has a satisfying biological explanation been provided. Figure 4E does not clearly show that the probability of taking 5bp steps depends on ATP concentration, as required by the modeling. In addition, it is interesting that the 5bp steps is smaller than the minimal nucleic acid binding site of this class of helicases, which is 6–7 bases. Perhaps a spring-loaded mechanism, such as that suggested by Appleby et al (JMB 2011), should be considered."
+    },
+    "figure_reference_976": {
+      "type": "figure_reference",
+      "id": "figure_reference_976",
+      "path": [
+        "paragraph_975",
+        "content"
+      ],
+      "target": "image_fig4",
+      "range": [
+        350,
+        359
+      ]
+    },
+    "paragraph_977": {
+      "type": "paragraph",
+      "id": "paragraph_977",
+      "content": "2) Of most concern with regard to modeling the complex stepping behavior is that the model contains eight fitting parameters. Such a large number of parameters could fit almost any small data set. In addition, the analyzed data in Figure 6 are rather scattered and many fits appear to be poor. What are the reduced chi-square values for these fits? More stringent tests for this model are called for. For example, can the model predict kinetic traces such as those in Figure 1D, which shows five rounds of repetitive unwinding bursts?"
+    },
+    "figure_reference_978": {
+      "type": "figure_reference",
+      "id": "figure_reference_978",
+      "path": [
+        "paragraph_977",
+        "content"
+      ],
+      "target": "image_fig6",
+      "range": [
+        231,
+        239
+      ]
+    },
+    "figure_reference_979": {
+      "type": "figure_reference",
+      "id": "figure_reference_979",
+      "path": [
+        "paragraph_977",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        468,
+        477
+      ]
+    },
+    "heading_980": {
+      "type": "heading",
+      "id": "heading_980",
+      "level": 2,
+      "content": "Author response",
+      "nodes": []
+    },
+    "paragraph_981": {
+      "type": "paragraph",
+      "id": "paragraph_981",
+      "content": "1) The reviewers do, however, have some concerns about the complex behavior consisting of the other step sizes: –1, and especially the +/–5bp, which are unique to this helicase. The suggestion that this is due to DNA release from a secondary site on the helicase has not been substantiated, nor has a satisfying biological explanation been provided. Figure 4E2013-04-26 does not clearly show that the probability of taking 5bp steps depends on ATP concentration, as required by the modeling. In addition, it is interesting that the 5bp steps is smaller than the minimal nucleic acid binding site of this class of helicases, which is 6–7 bases. Perhaps a spring-loaded mechanism, such as that suggested by Appleby et al (JMB 2011), should be considered."
+    },
+    "annotation_982": {
+      "type": "emphasis",
+      "id": "annotation_982",
+      "path": [
+        "paragraph_981",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        349
+      ]
+    },
+    "annotation_983": {
+      "type": "emphasis",
+      "id": "annotation_983",
+      "path": [
+        "paragraph_981",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        350,
+        359
+      ]
+    },
+    "annotation_984": {
+      "type": "emphasis",
+      "id": "annotation_984",
+      "path": [
+        "paragraph_981",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        370,
+        751
+      ]
+    },
+    "paragraph_985": {
+      "type": "paragraph",
+      "id": "paragraph_985",
+      "content": "As correctly stated by the reviewers, a typical SF2 helicase contains a bipartite nucleic acid binding site that accommodates up to 8 nucleotides (or base pairs) of DNA or RNA. In addition to this canonical nucleic acid binding site, XPD and related FeS-containing helicases feature additional contacts with the translocating strand. Biochemical and structural analyses previously published by us and others (Kuper et al., 2012; Pugh et al., 2012) indicate that the translocating strand passes from the canonical binding site through the opening formed by the two auxiliary domains (Arch and FeS), and is guided by the residues of HD1 and FeS domains forming a secondary DNA binding site to the wedge structure on the back of the FeS domain. This secondary DNA binding site should accommodate approximately 5 nt of the translocating strand. This site is important for (i) enabling and controlling 5’-3’ translocation and force generation by XPD, (ii) for positioning the ss-dsDNA junction near the strand separating wedge, and (iii) for damage verification by XPD (Mathieu et al. Curr. Biol. 2013). If the translocating strand were to dissociate from the secondary binding site, the 5 nt occluded by this site would re-anneal with the complementary strand, resulting in a 5-bp back step, as observed in our data. To re-initiate unwinding, the point of duplex separation has to reengage the wedge structure necessitating reopening of the 5 bp. In our data, a 5-bp forward step is always observed following a 5-bp backward step and is never detected on its own, consistent with this structural model."
+    },
+    "citation_reference_986": {
+      "type": "citation_reference",
+      "id": "citation_reference_986",
+      "path": [
+        "paragraph_985",
+        "content"
+      ],
+      "target": "article_citation_bib37",
+      "range": [
+        409,
+        427
+      ]
+    },
+    "citation_reference_987": {
+      "type": "citation_reference",
+      "id": "citation_reference_987",
+      "path": [
+        "paragraph_985",
+        "content"
+      ],
+      "target": "article_citation_bib59",
+      "range": [
+        429,
+        446
+      ]
+    },
+    "annotation_988": {
+      "type": "emphasis",
+      "id": "annotation_988",
+      "path": [
+        "paragraph_985",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1080,
+        1091
+      ]
+    },
+    "paragraph_989": {
+      "type": "paragraph",
+      "id": "paragraph_989",
+      "content": "The 5-bp back and forward steps illustrate the importance of the secondary binding site in controlling XPD helicase activity: it separates the motor core from the wedge structure that splits the duplex. Unwinding occurs only when the translocating strand resides within this secondary DNA binding site. This not only allows control of the unwinding rate (Kuper et al., 2012; Pugh et al., 2012), but also stalls the helicase at bulky UV-induced damage site, thereby triggering nucleotide excision repair (Mathieu et al. PNAS, 2010; Mathieu et al. Curr. Biol. 2013)."
+    },
+    "citation_reference_990": {
+      "type": "citation_reference",
+      "id": "citation_reference_990",
+      "path": [
+        "paragraph_989",
+        "content"
+      ],
+      "target": "article_citation_bib37",
+      "range": [
+        355,
+        373
+      ]
+    },
+    "citation_reference_991": {
+      "type": "citation_reference",
+      "id": "citation_reference_991",
+      "path": [
+        "paragraph_989",
+        "content"
+      ],
+      "target": "article_citation_bib59",
+      "range": [
+        375,
+        392
+      ]
+    },
+    "annotation_992": {
+      "type": "emphasis",
+      "id": "annotation_992",
+      "path": [
+        "paragraph_989",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        519,
+        523
+      ]
+    },
+    "annotation_993": {
+      "type": "emphasis",
+      "id": "annotation_993",
+      "path": [
+        "paragraph_989",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        546,
+        557
+      ]
+    },
+    "paragraph_994": {
+      "type": "paragraph",
+      "id": "paragraph_994",
+      "content": "While we cannot rule out all alternative models and ternary complex structures will be required for further validation, the proposed mechanism provides the most reasonable explanation of our observations. In contrast, the spring-loaded mechanism suggested by the reviewers appears far less plausible. In this mechanism, one would expect multiple unwinding steps reflecting “loading of the spring” accompanied by sequestering of the unwound DNA, followed by release of this DNA, which would be observed as a large forward step. It is difficult to imagine how such a model could explain how 5-bp backsteps are always followed by 5-bp forward steps, while also accounting for 1-bp forward and backward steps. Moreover, a spring-loaded mechanism would require several hidden kinetic steps to occur per observed step, resulting in a non-exponential dwell time distribution (see, for example, Myong et al. Nature 2005). This is inconsistent with our data; the dwell times for forward 5-bp steps are exponentially distributed, indicative of a single kinetic event."
+    },
+    "annotation_995": {
+      "type": "emphasis",
+      "id": "annotation_995",
+      "path": [
+        "paragraph_994",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        900,
+        906
+      ]
+    },
+    "paragraph_996": {
+      "type": "paragraph",
+      "id": "paragraph_996",
+      "content": "In our revised manuscript, we have provided a more extensive discussion of these points. In addition, we have included a new Figure 4–figure supplement 2 showing that the dwell times for –5-bp backsteps are exponentially distributed."
+    },
+    "figure_reference_997": {
+      "type": "figure_reference",
+      "id": "figure_reference_997",
+      "path": [
+        "paragraph_996",
+        "content"
+      ],
+      "target": "image_fig4s2",
+      "range": [
+        125,
+        153
+      ]
+    },
+    "paragraph_998": {
+      "type": "paragraph",
+      "id": "paragraph_998",
+      "content": "2) Of most concern with regard to modeling the complex stepping behavior is that the model contains eight fitting parameters. Such a large number of parameters could fit almost any small data set. In addition, the analyzed data in Figure 62013-04-26 are rather scattered and many fits appear to be poor. What are the reduced chi-square values for these fits? More stringent tests for this model are called for. For example, can the model predict kinetic traces such as those in Figure 1D2013-04-26, which shows five rounds of repetitive unwinding bursts?"
+    },
+    "annotation_999": {
+      "type": "emphasis",
+      "id": "annotation_999",
+      "path": [
+        "paragraph_998",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        230
+      ]
+    },
+    "annotation_1000": {
+      "type": "emphasis",
+      "id": "annotation_1000",
+      "path": [
+        "paragraph_998",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        231,
+        239
+      ]
+    },
+    "annotation_1001": {
+      "type": "emphasis",
+      "id": "annotation_1001",
+      "path": [
+        "paragraph_998",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        250,
+        477
+      ]
+    },
+    "annotation_1002": {
+      "type": "emphasis",
+      "id": "annotation_1002",
+      "path": [
+        "paragraph_998",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        478,
+        487
+      ]
+    },
+    "annotation_1003": {
+      "type": "emphasis",
+      "id": "annotation_1003",
+      "path": [
+        "paragraph_998",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        497,
+        553
+      ]
+    },
+    "paragraph_1004": {
+      "type": "paragraph",
+      "id": "paragraph_1004",
+      "content": "Our study design allows a wealth of information to be extracted from a relatively “small” dataset because individual steps are resolved. Each step contains information on directionality, step size, dwell time, and sequence. When multiplied by the several thousand steps detected (see Table 1) over varying ATP concentrations, the dataset can in fact provide strict constraints on a multi-parameter model."
+    },
+    "figure_reference_1005": {
+      "type": "figure_reference",
+      "id": "figure_reference_1005",
+      "path": [
+        "paragraph_1004",
+        "content"
+      ],
+      "target": "table_tbl1",
+      "range": [
+        284,
+        291
+      ]
+    },
+    "paragraph_1006": {
+      "type": "paragraph",
+      "id": "paragraph_1006",
+      "content": "Despite the apparent high number of fitting parameters, it is important to realize that these were in fact precisely determined by our data. To illustrate this point consider that our measurements yielded four independent quantities measured as a function of ATP (plotted in Figure 4E–F): the probabilities for (i) 1-bp and (ii) 5-bp backsteps, the dwell times for (iii) 1-bp steps, and (iv) 5-bp backsteps. If these quantities had been fitted individually, a minimum of seven independent kinetic parameters would have been required to capture their dependence on ATP—two for each quantity, minus one for the 5-bp backstep dwell time that did not depend on ATP—rather than the six used in our model (see Table 2). (For instance, the dwell time for 1-bp steps would be fit to a Michaelis-Menten equation, yielding two parameters, KM and kcat, etc) Similarly, the forward and backward rates (and the related backstepping probability, plotted in Figure 6A–I) were measured as a function of sequence. According to the model of Betterton and Julicher (Phys. Rev. E., 2005), a minimum of two additional parameters, f and Uint (see Table 2), are required to capture the dependence on Popen."
+    },
+    "figure_reference_1007": {
+      "type": "figure_reference",
+      "id": "figure_reference_1007",
+      "path": [
+        "paragraph_1006",
+        "content"
+      ],
+      "target": "image_fig4",
+      "range": [
+        275,
+        286
+      ]
+    },
+    "annotation_1008": {
+      "type": "emphasis",
+      "id": "annotation_1008",
+      "path": [
+        "paragraph_1006",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        471,
+        476
+      ]
+    },
+    "annotation_1009": {
+      "type": "emphasis",
+      "id": "annotation_1009",
+      "path": [
+        "paragraph_1006",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        677,
+        680
+      ]
+    },
+    "figure_reference_1010": {
+      "type": "figure_reference",
+      "id": "figure_reference_1010",
+      "path": [
+        "paragraph_1006",
+        "content"
+      ],
+      "target": "table_tbl2",
+      "range": [
+        704,
+        711
+      ]
+    },
+    "annotation_1011": {
+      "type": "emphasis",
+      "id": "annotation_1011",
+      "path": [
+        "paragraph_1006",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        829,
+        830
+      ]
+    },
+    "annotation_1012": {
+      "type": "emphasis",
+      "id": "annotation_1012",
+      "path": [
+        "paragraph_1006",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        830,
+        831
+      ]
+    },
+    "annotation_1013": {
+      "type": "subscript",
+      "id": "annotation_1013",
+      "path": [
+        "paragraph_1006",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        830,
+        831
+      ]
+    },
+    "annotation_1014": {
+      "type": "emphasis",
+      "id": "annotation_1014",
+      "path": [
+        "paragraph_1006",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        836,
+        837
+      ]
+    },
+    "annotation_1015": {
+      "type": "emphasis",
+      "id": "annotation_1015",
+      "path": [
+        "paragraph_1006",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        837,
+        840
+      ]
+    },
+    "annotation_1016": {
+      "type": "subscript",
+      "id": "annotation_1016",
+      "path": [
+        "paragraph_1006",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        837,
+        840
+      ]
+    },
+    "figure_reference_1017": {
+      "type": "figure_reference",
+      "id": "figure_reference_1017",
+      "path": [
+        "paragraph_1006",
+        "content"
+      ],
+      "target": "image_fig6",
+      "range": [
+        943,
+        954
+      ]
+    },
+    "annotation_1018": {
+      "type": "emphasis",
+      "id": "annotation_1018",
+      "path": [
+        "paragraph_1006",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1047,
+        1059
+      ]
+    },
+    "annotation_1019": {
+      "type": "emphasis",
+      "id": "annotation_1019",
+      "path": [
+        "paragraph_1006",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1082,
+        1085
+      ]
+    },
+    "annotation_1020": {
+      "type": "emphasis",
+      "id": "annotation_1020",
+      "path": [
+        "paragraph_1006",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1109,
+        1110
+      ]
+    },
+    "annotation_1021": {
+      "type": "emphasis",
+      "id": "annotation_1021",
+      "path": [
+        "paragraph_1006",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1115,
+        1116
+      ]
+    },
+    "annotation_1022": {
+      "type": "emphasis",
+      "id": "annotation_1022",
+      "path": [
+        "paragraph_1006",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1116,
+        1119
+      ]
+    },
+    "annotation_1023": {
+      "type": "subscript",
+      "id": "annotation_1023",
+      "path": [
+        "paragraph_1006",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1116,
+        1119
+      ]
+    },
+    "figure_reference_1024": {
+      "type": "figure_reference",
+      "id": "figure_reference_1024",
+      "path": [
+        "paragraph_1006",
+        "content"
+      ],
+      "target": "table_tbl2",
+      "range": [
+        1125,
+        1132
+      ]
+    },
+    "annotation_1025": {
+      "type": "emphasis",
+      "id": "annotation_1025",
+      "path": [
+        "paragraph_1006",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1177,
+        1178
+      ]
+    },
+    "annotation_1026": {
+      "type": "emphasis",
+      "id": "annotation_1026",
+      "path": [
+        "paragraph_1006",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1178,
+        1182
+      ]
+    },
+    "annotation_1027": {
+      "type": "subscript",
+      "id": "annotation_1027",
+      "path": [
+        "paragraph_1006",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1178,
+        1182
+      ]
+    },
+    "paragraph_1028": {
+      "type": "paragraph",
+      "id": "paragraph_1028",
+      "content": "Rather than fit each quantity independently with a larger total set of parameters, we felt it was more instructive to propose a minimal model that would globally fit all datasets simultaneously. The global model parameters are in fact more strictly constrained than those of independent fits to the same set of plots."
+    },
+    "annotation_1029": {
+      "type": "emphasis",
+      "id": "annotation_1029",
+      "path": [
+        "paragraph_1028",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        153,
+        161
+      ]
+    },
+    "paragraph_1030": {
+      "type": "paragraph",
+      "id": "paragraph_1030",
+      "content": "In our revised manuscript, we have expanded a discussion of our fitting strategy in the Materials and methods. In addition, we have provided chi-squared values for all global fits in the figure captions. We also provide a fit to an alternate strictly passive unwinding model (i.e. with Uint = 0) with smaller numbers of parameters to show that the current model provides a more optimal fit (Figure 6–figure supplement 1)."
+    },
+    "annotation_1031": {
+      "type": "emphasis",
+      "id": "annotation_1031",
+      "path": [
+        "paragraph_1030",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        286,
+        287
+      ]
+    },
+    "annotation_1032": {
+      "type": "emphasis",
+      "id": "annotation_1032",
+      "path": [
+        "paragraph_1030",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        287,
+        290
+      ]
+    },
+    "annotation_1033": {
+      "type": "subscript",
+      "id": "annotation_1033",
+      "path": [
+        "paragraph_1030",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        287,
+        290
+      ]
+    },
+    "figure_reference_1034": {
+      "type": "figure_reference",
+      "id": "figure_reference_1034",
+      "path": [
+        "paragraph_1030",
+        "content"
+      ],
+      "target": "image_fig6s1",
+      "range": [
+        391,
+        419
+      ]
+    },
+    "paragraph_1035": {
+      "type": "paragraph",
+      "id": "paragraph_1035",
+      "content": "The reviewers also raised a specific point about the ATP dependence of the 5-bp backstep probability (Figure 4E). We agree that the dependence is quite weak, as mentioned in the manuscript text. One of the parameters in the global fit (C≡koff/k+) produces this ATP dependence with non-zero value. The chi-squared value is minimized for C > 0 although its dependence on C is weak (chi-squared values changed from 3.5 to 3.6 when varying C over a finite range), and the fits do not constrain the value of C very much. As described in the text (and see Table 2) we lump this parameter into an effective binding rate constantkoneff=kon/(1+koff/k+), which is more accurately constrained by the fits. The difference in the parameter values listed in Table 2 with C > 0 or with C = 0 is minimal, and this parameter is not essential to our model."
+    },
+    "figure_reference_1036": {
+      "type": "figure_reference",
+      "id": "figure_reference_1036",
+      "path": [
+        "paragraph_1035",
+        "content"
+      ],
+      "target": "image_fig4",
+      "range": [
+        102,
+        111
+      ]
+    },
+    "formula_1037": {
+      "type": "formula",
+      "id": "formula_1037"
+    },
+    "annotation_1038": {
+      "type": "inline_formula",
+      "id": "annotation_1038",
+      "target": "formula_1037",
+      "source": "paragraph_1035",
+      "key": "content",
+      "pos": [
+        236,
+        0
+      ]
+    },
+    "formula_1039": {
+      "type": "formula",
+      "id": "formula_1039"
+    },
+    "annotation_1040": {
+      "type": "inline_formula",
+      "id": "annotation_1040",
+      "target": "formula_1039",
+      "source": "paragraph_1035",
+      "key": "content",
+      "pos": [
+        621,
+        0
+      ]
+    },
+    "paragraph_1041": {
+      "type": "paragraph",
+      "id": "paragraph_1041",
+      "content": "We have re-fitted our data to reflect changes to the data plots. The new fits are plotted in Figure 4E–F and 6A–I, and the fit parameter values (which only changed slightly) are listed in Table 2."
+    },
+    "figure_reference_1042": {
+      "type": "figure_reference",
+      "id": "figure_reference_1042",
+      "path": [
+        "paragraph_1041",
+        "content"
+      ],
+      "target": "image_fig4",
+      "range": [
+        93,
+        113
+      ]
+    },
+    "figure_reference_1043": {
+      "type": "figure_reference",
+      "id": "figure_reference_1043",
+      "path": [
+        "paragraph_1041",
+        "content"
+      ],
+      "target": "table_tbl2",
+      "range": [
+        188,
+        195
+      ]
+    },
+    "paragraph_1044": {
+      "type": "paragraph",
+      "id": "paragraph_1044",
+      "content": "As suggested by the reviewers, we also performed stochastic simulations based on our model to demonstrate that they reproduce observed features in the data. This is shown in the new Figure 7–figure supplements 2 & 3, and discussed within the text. It should be noted that additional parameters would be required to incorporate XPD backsliding (and dissociation) observed at the end of the unwinding bursts. Therefore, simulations based on our model as currently constructed will not reproduce repetitive unwinding bursts. They will, however, generate individual bursts with the correct stepping dwell times at each position."
+    },
+    "figure_reference_1045": {
+      "type": "figure_reference",
+      "id": "figure_reference_1045",
+      "path": [
+        "paragraph_1044",
+        "content"
+      ],
+      "target": "image_fig7s2",
+      "range": [
+        182,
+        215
+      ]
+    },
+    "annotation_1046": {
+      "type": "emphasis",
+      "id": "annotation_1046",
+      "path": [
+        "paragraph_1044",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        479,
+        482
+      ]
     }
   }
 }

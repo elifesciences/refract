@@ -121,7 +121,32 @@
         "heading_s4-10",
         "paragraph_750",
         "sub-article",
-        "sub-article"
+        "heading_757",
+        "paragraph_758",
+        "paragraph_760",
+        "paragraph_762",
+        "paragraph_763",
+        "paragraph_764",
+        "paragraph_765",
+        "paragraph_766",
+        "paragraph_767",
+        "paragraph_770",
+        "paragraph_773",
+        "paragraph_775",
+        "paragraph_776",
+        "paragraph_780",
+        "sub-article",
+        "heading_781",
+        "paragraph_782",
+        "paragraph_786",
+        "paragraph_790",
+        "paragraph_791",
+        "paragraph_794",
+        "paragraph_796",
+        "paragraph_797",
+        "paragraph_802",
+        "paragraph_803",
+        "paragraph_805"
       ]
     },
     "figures": {
@@ -369,7 +394,7 @@
     "paragraph_2": {
       "type": "paragraph",
       "id": "paragraph_2",
-      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited.10.7554/eLife.00668.001"
+      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited."
     },
     "annotation_3": {
       "type": "link",
@@ -400,7 +425,7 @@
     "paragraph_5": {
       "type": "paragraph",
       "id": "paragraph_5",
-      "content": "DOI: http://dx.doi.org/10.7554/eLife.00668.00110.7554/eLife.00668.002"
+      "content": "DOI: http://dx.doi.org/10.7554/eLife.00668.001"
     },
     "annotation_6": {
       "type": "strong",
@@ -11633,6 +11658,448 @@
       "level": 1,
       "content": "Article Commentary",
       "nodes": []
+    },
+    "heading_757": {
+      "type": "heading",
+      "id": "heading_757",
+      "level": 2,
+      "content": "Decision letter",
+      "nodes": []
+    },
+    "paragraph_758": {
+      "type": "paragraph",
+      "id": "paragraph_758",
+      "content": "eLife posts the editorial decision letter and author response on a selection of the published articles (subject to the approval of the authors). An edited version of the letter sent to the authors after peer review is shown, indicating the substantive concerns or comments; minor concerns are not usually shown. Reviewers have the opportunity to discuss the decision before the letter is sent (see review process). Similarly, the author response typically shows only responses to the major concerns raised by the reviewers."
+    },
+    "annotation_759": {
+      "type": "link",
+      "id": "annotation_759",
+      "path": [
+        "paragraph_758",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        398,
+        412
+      ],
+      "url": "http://www.elifesciences.org/the-journal/review-process"
+    },
+    "paragraph_760": {
+      "type": "paragraph",
+      "id": "paragraph_760",
+      "content": "Thank you for sending your work entitled “The autoregulation of DNA transposons in higher eukaryotes: insights from the human mariner element Hsmar1” for consideration at eLife. Your article has been favorably evaluated by a Senior editor and 2 reviewers, one of whom is a member of our Board of Reviewing Editors."
+    },
+    "annotation_761": {
+      "type": "emphasis",
+      "id": "annotation_761",
+      "path": [
+        "paragraph_760",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        171,
+        176
+      ]
+    },
+    "paragraph_762": {
+      "type": "paragraph",
+      "id": "paragraph_762",
+      "content": "The Reviewing editor and the other reviewer discussed their comments before we reached this decision, and the Reviewing editor has assembled the following comments to help you prepare a revised submission."
+    },
+    "paragraph_763": {
+      "type": "paragraph",
+      "id": "paragraph_763",
+      "content": "The fundamental problem at hand is how a transposable element manages to co-exist with its host without its intrinsic tendency for proliferation eventually rendering the host (and thus also the transposon) extinct. As the authors point out, a solution to this problem is known for certain prokaryotic transposons, but the elucidated mechanism does not apply to eukaryotes (because it requires cis-acting transposase). In the case of eukaryotic transposons, there have been only sporadic proposed models, which have not been analyzed or assessed either experimentally or by quantitative modeling (which, in every case is dependent on information regarding the basic biochemistry of the transposition reaction)."
+    },
+    "paragraph_764": {
+      "type": "paragraph",
+      "id": "paragraph_764",
+      "content": "The present paper suggests an entirely new model for regulation of eukaryotic transposons, motivated by biochemical findings, with direct implications for the model from theoretical simulations in combination with both in vitro and in vivo analysis of transposition. Numerous extensions of the model, including features relating to the presence/accumulation/roles of non-autonomous elements, are also considered."
+    },
+    "paragraph_765": {
+      "type": "paragraph",
+      "id": "paragraph_765",
+      "content": "The proposed model is very interesting and very sensible, not only a priori in a qualitative way but also quantitatively, as illustrated by modeling. Furthermore, taken together, the presented observations provide very strong support for the validity of the model. The experimental observations are important and compelling, particularly the in vitro findings relating the responses to variations in transposase and transposon end concentrations, and the in vivo verification of several key predictions. No such study has ever been performed for any transposon, even in the prokaryotic cases, and the results presented here should be of broad interest to both the evolutionary biology community and the transposition mechanism community."
+    },
+    "paragraph_766": {
+      "type": "paragraph",
+      "id": "paragraph_766",
+      "content": "Major comments:"
+    },
+    "paragraph_767": {
+      "type": "paragraph",
+      "id": "paragraph_767",
+      "content": "1) Figure 1 and related text: We think the reader might appreciate an explanation of why the kinetic schemes shown in Figures 1A, G, and H result in duplication of the transposon. If we understand correctly, the idea is that the excision of the transposon occurs after the transposon has replicated. The site from which it was excised is repaired by homologous recombination using the other chromosome as a template, regenerating the transposon at the excision site, and the excised transposon goes on to integrate somewhere else. Depending upon whether it integrates before or after the replication fork, or fails to integrate at all, the number of transposons in the genome can increase by different amounts or decrease."
+    },
+    "figure_reference_768": {
+      "type": "figure_reference",
+      "id": "figure_reference_768",
+      "path": [
+        "paragraph_767",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        3,
+        11
+      ]
+    },
+    "figure_reference_769": {
+      "type": "figure_reference",
+      "id": "figure_reference_769",
+      "path": [
+        "paragraph_767",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        118,
+        138
+      ]
+    },
+    "paragraph_770": {
+      "type": "paragraph",
+      "id": "paragraph_770",
+      "content": "In any case, it would certainly be helpful if the authors were to explain their thinking here, and to clarify the relationships between the kinetic schemes in Figure 1 and the discussion in Figure 3GH."
+    },
+    "figure_reference_771": {
+      "type": "figure_reference",
+      "id": "figure_reference_771",
+      "path": [
+        "paragraph_770",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        159,
+        167
+      ]
+    },
+    "figure_reference_772": {
+      "type": "figure_reference",
+      "id": "figure_reference_772",
+      "path": [
+        "paragraph_770",
+        "content"
+      ],
+      "target": "image_fig3",
+      "range": [
+        190,
+        200
+      ]
+    },
+    "paragraph_773": {
+      "type": "paragraph",
+      "id": "paragraph_773",
+      "content": "2) Figure 7 and related text: we stumbled over this section. The writing makes it seem as though a previously-proposed dimerization end-occlusion model also accounts for stable transposon levels."
+    },
+    "figure_reference_774": {
+      "type": "figure_reference",
+      "id": "figure_reference_774",
+      "path": [
+        "paragraph_773",
+        "content"
+      ],
+      "target": "image_fig7",
+      "range": [
+        3,
+        11
+      ]
+    },
+    "paragraph_775": {
+      "type": "paragraph",
+      "id": "paragraph_775",
+      "content": "Assuming we have understood correctly, we think the situation is as follows: the first paragraph discusses a case with a secondary binding site. It is likely that this site was proposed to have the effect of repressing transposition. The important point, which is implicit but should be stated explicitly, is that this feature does not in any way prevent the accumulation over time, which is the problem at hand here – it simply slows things down, regardless of whether that is in the current mechanism or the S-PD mechanism. That is, you still need the current mechanism (and the S-PD mechanism doesn’t work) if this feature is present."
+    },
+    "paragraph_776": {
+      "type": "paragraph",
+      "id": "paragraph_776",
+      "content": "The second paragraph addresses the DEO model for Tn5 and mariner. Again, the writing does not make clear what the authors wish to say. The case of Tn5 is not relevant here because it involves a cis-acting transposase. But the case of mariner obviously is relevant. Here there are two points. First, the DEO model is fine, but the biochemistry presented in this paper for mariner suggests that it is not what is going on. This point should be made explicitly. Second, in principle, an element with a different biochemistry might use this mechanism; but, if so, the modeling suggests that there is a longer lag time before the effect kicks in. The authors are perhaps trying to be sure to be generous to the previous considerations. But they need to say (a) DEO can’t be true for mariner because the biochemistry says it isn’t and (b) it could potentially be true for some other element but with a disadvantage. Are there further candidate elements that might work in such a way?"
+    },
+    "annotation_777": {
+      "type": "emphasis",
+      "id": "annotation_777",
+      "path": [
+        "paragraph_776",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        51,
+        52
+      ]
+    },
+    "annotation_778": {
+      "type": "emphasis",
+      "id": "annotation_778",
+      "path": [
+        "paragraph_776",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        149,
+        150
+      ]
+    },
+    "annotation_779": {
+      "type": "emphasis",
+      "id": "annotation_779",
+      "path": [
+        "paragraph_776",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        499,
+        508
+      ]
+    },
+    "paragraph_780": {
+      "type": "paragraph",
+      "id": "paragraph_780",
+      "content": "3) This general class of mechanism is formally analogous to the “prozone effect”, which is the reason why complexes formed between a bivalent antibody and a bivalent antigen tend to be dimeric when either antibody or antigen is in excess, and highly polymeric when they are balanced. This mechanism pops up again and again in protein regulation. See, for example Bray E, Lay S, PNAS 1997.10.7554/eLife.00668.018"
+    },
+    "heading_781": {
+      "type": "heading",
+      "id": "heading_781",
+      "level": 2,
+      "content": "Author response",
+      "nodes": []
+    },
+    "paragraph_782": {
+      "type": "paragraph",
+      "id": "paragraph_782",
+      "content": "1) Figure 1 and related text: We think the reader might appreciate an explanation of why the kinetic schemes shown in Figures 1A, G, and H result in duplication of the transposon. If we understand correctly, the idea is that the excision of the transposon occurs after the transposon has replicated. The site from which it was excised is repaired by homologous recombination using the other chromosome as a template, regenerating the transposon at the excision site, and the excised transposon goes on to integrate somewhere else. Depending upon whether it integrates before or after the replication fork, or fails to integrate at all, the number of transposons in the genome can increase by different amounts or decrease."
+    },
+    "figure_reference_783": {
+      "type": "figure_reference",
+      "id": "figure_reference_783",
+      "path": [
+        "paragraph_782",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        3,
+        11
+      ]
+    },
+    "figure_reference_784": {
+      "type": "figure_reference",
+      "id": "figure_reference_784",
+      "path": [
+        "paragraph_782",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        118,
+        138
+      ]
+    },
+    "annotation_785": {
+      "type": "emphasis",
+      "id": "annotation_785",
+      "path": [
+        "paragraph_782",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        721
+      ]
+    },
+    "paragraph_786": {
+      "type": "paragraph",
+      "id": "paragraph_786",
+      "content": "In any case, it would certainly be helpful if the authors were to explain their thinking here, and to clarify the relationships between the kinetic schemes in Figure 1 and the discussion in Figure 3GH."
+    },
+    "figure_reference_787": {
+      "type": "figure_reference",
+      "id": "figure_reference_787",
+      "path": [
+        "paragraph_786",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        159,
+        167
+      ]
+    },
+    "figure_reference_788": {
+      "type": "figure_reference",
+      "id": "figure_reference_788",
+      "path": [
+        "paragraph_786",
+        "content"
+      ],
+      "target": "image_fig3",
+      "range": [
+        190,
+        200
+      ]
+    },
+    "annotation_789": {
+      "type": "emphasis",
+      "id": "annotation_789",
+      "path": [
+        "paragraph_786",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        200
+      ]
+    },
+    "paragraph_790": {
+      "type": "paragraph",
+      "id": "paragraph_790",
+      "content": "Agreed: we have now restructured the first two paragraphs of the Results section. The issues of replication and repair are now covered at the end of the first paragraph."
+    },
+    "paragraph_791": {
+      "type": "paragraph",
+      "id": "paragraph_791",
+      "content": "2) Figure 7 and related text: we stumbled over this section. The writing makes it seem as though a previously-proposed dimerization end-occlusion model also accounts for stable transposon levels."
+    },
+    "figure_reference_792": {
+      "type": "figure_reference",
+      "id": "figure_reference_792",
+      "path": [
+        "paragraph_791",
+        "content"
+      ],
+      "target": "image_fig7",
+      "range": [
+        3,
+        11
+      ]
+    },
+    "annotation_793": {
+      "type": "emphasis",
+      "id": "annotation_793",
+      "path": [
+        "paragraph_791",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        194
+      ]
+    },
+    "paragraph_794": {
+      "type": "paragraph",
+      "id": "paragraph_794",
+      "content": "Assuming we have understood correctly, we think the situation is as follows: the first paragraph discusses a case with a secondary binding site. It is likely that this site was proposed to have the effect of repressing transposition. The important point, which is implicit but should be stated explicitly, is that this feature does not in any way prevent the accumulation over time, which is the problem at hand here – it simply slows things down, regardless of whether that is in the current mechanism or the S-PD mechanism. That is, you still need the current mechanism (and the S-PD mechanism doesn’t work) if this feature is present."
+    },
+    "annotation_795": {
+      "type": "emphasis",
+      "id": "annotation_795",
+      "path": [
+        "paragraph_794",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        636
+      ]
+    },
+    "paragraph_796": {
+      "type": "paragraph",
+      "id": "paragraph_796",
+      "content": "Agreed: the referees have understood correctly. We have substantially rewritten the first paragraph of this section as two new paragraphs, which make the suggested changes."
+    },
+    "paragraph_797": {
+      "type": "paragraph",
+      "id": "paragraph_797",
+      "content": "The second paragraph addresses the DEO model for Tn5 and mariner. Again, the writing does not make clear what the authors wish to say. The case of Tn5 is not relevant here because it involves a cis-acting transposase. But the case of mariner obviously is relevant. Here there are two points. First, the DEO model is fine, but the biochemistry presented in this paper for mariner suggests that it is not what is going on. This point should be made explicitly. Second, in principle, an element with a different biochemistry might use this mechanism; but, if so, the modeling suggests that there is a longer lag time before the effect kicks in. The authors are perhaps trying to be sure to be generous to the previous considerations. But they need to say (a) DEO can’t be true for mariner because the biochemistry says it isn’t and (b) it could potentially be true for some other element but with a disadvantage. Are there further candidate elements that might work in such a way?"
+    },
+    "annotation_798": {
+      "type": "emphasis",
+      "id": "annotation_798",
+      "path": [
+        "paragraph_797",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        51
+      ]
+    },
+    "annotation_799": {
+      "type": "emphasis",
+      "id": "annotation_799",
+      "path": [
+        "paragraph_797",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        53,
+        149
+      ]
+    },
+    "annotation_800": {
+      "type": "emphasis",
+      "id": "annotation_800",
+      "path": [
+        "paragraph_797",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        151,
+        498
+      ]
+    },
+    "annotation_801": {
+      "type": "emphasis",
+      "id": "annotation_801",
+      "path": [
+        "paragraph_797",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        509,
+        977
+      ]
+    },
+    "paragraph_802": {
+      "type": "paragraph",
+      "id": "paragraph_802",
+      "content": "Yes, thank you. We always like to try to be as generous as possible. However, we have now rewritten and restructured the last two paragraphs of the results to make the explicit statements suggested by the referees."
+    },
+    "paragraph_803": {
+      "type": "paragraph",
+      "id": "paragraph_803",
+      "content": "3) This general class of mechanism is formally analogous to the “prozone effect”, which is the reason why complexes formed between a bivalent antibody and a bivalent antigen tend to be dimeric when either antibody or antigen is in excess, and highly polymeric when they are balanced. This mechanism pops up again and again in protein regulation. See, for example Bray E, Lay S, PNAS 1997."
+    },
+    "annotation_804": {
+      "type": "emphasis",
+      "id": "annotation_804",
+      "path": [
+        "paragraph_803",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        387
+      ]
+    },
+    "paragraph_805": {
+      "type": "paragraph",
+      "id": "paragraph_805",
+      "content": "Thank you for highlighting this excellent example of the less-is-more effect. We were familiar with it from the Ouchterlony double diffusion experiments of our youth. However, we had quite overlooked its connection to our current work. In response we have deleted the last sentence of the Introduction and added a sentence to the end of the first paragraph of the Discussion, in which we cite the Bray and Lay paper."
     }
   }
 }

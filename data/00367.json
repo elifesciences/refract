@@ -125,7 +125,32 @@
         "heading_s4-15",
         "paragraph_601",
         "sub-article",
-        "sub-article"
+        "heading_638",
+        "paragraph_639",
+        "paragraph_641",
+        "paragraph_643",
+        "paragraph_644",
+        "paragraph_645",
+        "paragraph_646",
+        "paragraph_647",
+        "paragraph_649",
+        "paragraph_651",
+        "paragraph_653",
+        "sub-article",
+        "heading_655",
+        "paragraph_656",
+        "paragraph_658",
+        "paragraph_659",
+        "paragraph_660",
+        "paragraph_663",
+        "paragraph_668",
+        "paragraph_671",
+        "paragraph_679",
+        "paragraph_683",
+        "paragraph_686",
+        "paragraph_690",
+        "paragraph_693",
+        "paragraph_694"
       ]
     },
     "figures": {
@@ -367,7 +392,7 @@
     "paragraph_3": {
       "type": "paragraph",
       "id": "paragraph_3",
-      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited.10.7554/eLife.00367.001"
+      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited."
     },
     "annotation_4": {
       "type": "link",
@@ -411,7 +436,7 @@
     "paragraph_7": {
       "type": "paragraph",
       "id": "paragraph_7",
-      "content": "DOI: http://dx.doi.org/10.7554/eLife.00367.00110.7554/eLife.00367.002"
+      "content": "DOI: http://dx.doi.org/10.7554/eLife.00367.001"
     },
     "annotation_8": {
       "type": "strong",
@@ -10869,6 +10894,552 @@
       "level": 1,
       "content": "Article Commentary",
       "nodes": []
+    },
+    "heading_638": {
+      "type": "heading",
+      "id": "heading_638",
+      "level": 2,
+      "content": "Decision letter",
+      "nodes": []
+    },
+    "paragraph_639": {
+      "type": "paragraph",
+      "id": "paragraph_639",
+      "content": "eLife posts the editorial decision letter and author response on a selection of the published articles (subject to the approval of the authors). An edited version of the letter sent to the authors after peer review is shown, indicating the substantive concerns or comments; minor concerns are not usually shown. Reviewers have the opportunity to discuss the decision before the letter is sent (see review process). Similarly, the author response typically shows only responses to the major concerns raised by the reviewers."
+    },
+    "annotation_640": {
+      "type": "link",
+      "id": "annotation_640",
+      "path": [
+        "paragraph_639",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        398,
+        412
+      ],
+      "url": "http://www.elifesciences.org/the-journal/review-process"
+    },
+    "paragraph_641": {
+      "type": "paragraph",
+      "id": "paragraph_641",
+      "content": "Thank you for choosing to send your work entitled “Improved use of a public good selects for the evolution of undifferentiated multicellularity” for consideration at eLife. Your article has been favorably evaluated by a Senior editor and 2 reviewers, one of whom is a member of our Board of Reviewing Editors."
+    },
+    "annotation_642": {
+      "type": "emphasis",
+      "id": "annotation_642",
+      "path": [
+        "paragraph_641",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        166,
+        171
+      ]
+    },
+    "paragraph_643": {
+      "type": "paragraph",
+      "id": "paragraph_643",
+      "content": "The Reviewing editor and the other reviewer discussed their comments before we reached this decision, and the Reviewing editor has assembled the following comments to help you prepare a revised submission."
+    },
+    "paragraph_644": {
+      "type": "paragraph",
+      "id": "paragraph_644",
+      "content": "In this paper the authors have set out to test the hypothesis that multicellularity can emerge in otherwise single-celled microbes by selection for improved growth in low-sucrose environments. Sucrose utilization in budding yeast is unusual as it must be hydrolyzed extracellularly by invertase, resulting in glucose and fructose, which can then be imported into the cell. In low sucrose conditions, cells can't grow when they exist as single cells as hydrolyzed glucose and fructose is lost through diffusion. However, the authors have previously shown that if cells are engineered to clump together they can grow in this condition. This is presumably because the local concentration of the products of sucrose hydrolysis (glucose and fructose) is sufficiently high for cells to grow when they clump but not when they are present as individual cells. In this paper the authors have performed a long-term selection in which wild type, non-clumpy cells were propagated by serial dilution in an environment containing low sucrose. They find that this condition does indeed result in selection for clumpy cells. In addition, most of the clones that they analyze have increased expression of the invertase gene (SUC2) and, surprisingly, increased expression of a large number of hexose transporter genes. The authors used a mutator strain and thus mutants with increased fitness have acquired a large number of mutations. To identify causative alleles the authors performed bulk segregant analysis, which allowed them to identify the likely alleles that confer increased fitness. They prove that a fitness increase is attributable to some of these mutations by engineering strains containing only these mutations in addition to reverting acquired mutations in the evolved strains. They speculate that clumping of unicellular organisms may have led to the development of multicellularity."
+    },
+    "paragraph_645": {
+      "type": "paragraph",
+      "id": "paragraph_645",
+      "content": "This is an excellent dataset that should definitively be published in a major journal. In fact, the experiments, as well as the analysis and the presentation, are mostly very clear. Still, there are some minor comments that need attention in a revised version."
+    },
+    "paragraph_646": {
+      "type": "paragraph",
+      "id": "paragraph_646",
+      "content": "1) There is little discussion about the general implications of the findings. Hence, the reader is left with the impression that it would have been rather easy to evolve the first steps to multicellularity, but would ask him or herself why it took such a long time until the first multicellular organisms emerged. Maybe the system studied is actually an oversimplification that has only an indirect implication for the evolution of multicellularity. We are of course aware that any such discussion would be rather speculative, but it might nonetheless be worthwhile to address at least some of the pertinent issues."
+    },
+    "paragraph_647": {
+      "type": "paragraph",
+      "id": "paragraph_647",
+      "content": "2) Regrettably, the authors have neglected to include an essential control: a population of cells propagated in parallel in a non-sucrose environment. Ideally, this would be a low glucose/fructose environment using identical methods. Using long term-selections it is very easy to select for clumping cells either intentionally (Ratcliff et al 2012) or unintentionally (Lang et al., 2011). As the authors set out to demonstrate that it is a benefit of sharing secreted invertase that drives selection for clumpiness, we would have expected this simple control. Alternatively, the same selection using a cytoplasmically expressed invertase and a MAL11 overexpression allele would also serve as a negative control. This would provide the proof that the observed outcome is unique to the sucrose selection. Nevertheless, we do not consider the lack of this control as a fatal flaw as the authors present multiple post hoc analyses to demonstrate that the fitness increase is unique to a low sucrose environment. The most compelling being the demonstration that the evolved clones have no fitness difference (or slightly reduced fitness) compared with wild type in a low glucose/fructose environment."
+    },
+    "annotation_648": {
+      "type": "emphasis",
+      "id": "annotation_648",
+      "path": [
+        "paragraph_647",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        644,
+        649
+      ]
+    },
+    "paragraph_649": {
+      "type": "paragraph",
+      "id": "paragraph_649",
+      "content": "3) The authors use of bulk segregant analysis to identify beneficial mutations and engineering to recreate strains is impressive. However, some simple tetrad dissection would enable the authors to make more definitive statements about the effect of ace2 mutations on clumpiness and Rgt1 pathway mutations' HXT expression (assayed using qPCR). In addition they could test whether the Ubr1 mutations segregate with any of the phenotypes. Segregation analysis of SUC2 expression in a cross would test whether it is always associated with clumpiness."
+    },
+    "annotation_650": {
+      "type": "emphasis",
+      "id": "annotation_650",
+      "path": [
+        "paragraph_649",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        460,
+        464
+      ]
+    },
+    "paragraph_651": {
+      "type": "paragraph",
+      "id": "paragraph_651",
+      "content": "4) The fact that the “recreated” strains are less fit than the evolved clones suggests that something is being missed. One obvious explanation is copy number variation. Studies from the Rosenzweig, Botstein, and Sherlock labs have shown that long-term propagation of yeast strains in nutrient poor environments using chemostats results in selection for transporter amplifications. As the low sucrose environment is also a nutrient poor one, we would expect amplification alleles to be beneficial. However, the authors' data do not allow testing for this as they have performed RNASeq analysis of clones. Were any individual clones sequenced that can be analyzed for copy number variation? The authors could also check in the bulk segregant sequencing data for evidence of copy number variation at the SUC2 locus or any of the HXT loci that appear to be massively increased in expression."
+    },
+    "annotation_652": {
+      "type": "emphasis",
+      "id": "annotation_652",
+      "path": [
+        "paragraph_651",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        801,
+        805
+      ]
+    },
+    "paragraph_653": {
+      "type": "paragraph",
+      "id": "paragraph_653",
+      "content": "5) Many wild S. cerevisiae strains are clumpy and loss of clumpiness is likely a lab-adapted trait. The authors should make it clear that loss and gain of clumpiness is likely to have occurred many times in yeast populations and provide other explanations for why clumpiness in yeast cells might be recurrently selected."
+    },
+    "annotation_654": {
+      "type": "emphasis",
+      "id": "annotation_654",
+      "path": [
+        "paragraph_653",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        13,
+        26
+      ]
+    },
+    "heading_655": {
+      "type": "heading",
+      "id": "heading_655",
+      "level": 2,
+      "content": "Author response",
+      "nodes": []
+    },
+    "paragraph_656": {
+      "type": "paragraph",
+      "id": "paragraph_656",
+      "content": "1) There is little discussion about the general implications of the findings. Hence, the reader is left with the impression that it would have been rather easy to evolve the first steps to multicellularity, but would ask him or herself why it took such a long time until the first multicellular organisms emerged. Maybe the system studied is actually an oversimplification that has only an indirect implication for the evolution of multicellularity. We are of course aware that any such discussion would be rather speculative, but it might nonetheless be worthwhile to address at least some of the pertinent issues."
+    },
+    "annotation_657": {
+      "type": "emphasis",
+      "id": "annotation_657",
+      "path": [
+        "paragraph_656",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        614
+      ]
+    },
+    "paragraph_658": {
+      "type": "paragraph",
+      "id": "paragraph_658",
+      "content": "We added the following as the last paragraph of the Discussion section:"
+    },
+    "paragraph_659": {
+      "type": "paragraph",
+      "id": "paragraph_659",
+      "content": "“If undifferentiated multicellularity is so easy to evolve in eukaryotes, then why did it take so long for fossils of differentiated multicellular organisms to appear in the fossil record? Indeed, there is suggestive evidence of undifferentiated eukaryotic multicellularity 2 billion years ago (El Albani et al. 2010), but the radiation of more complex multicellularity is not seen for over a billion years later. This disparity has received a large amount of attention in paleontology, particularly in the context of the seemingly rapid radiation of the animals at the base of the Cambrian. Possible explanations for this “Cambrian explosion” include novel selective forces due to the environmental changes that occurred shortly before the Cambrian or the possibility that evolutionary arms races among a few early species drove the radiation (Marshall 2006; Peters and Gaines 2012). Alternatively, the evolution of differentiated multicellularity may have been slow and gradual and we simply lack the fossil evidence. Whatever the case, it is interesting to ask why the first differentiation might have arisen. From our data, we speculate that the effectiveness of clumping as a strategy could be improved if a limited number of cells increase their enzyme secretion. Such a simple division of labor may have been the precursor to complex multicellularity in the lineages that lead to animals and other complex multicellular species.”"
+    },
+    "paragraph_660": {
+      "type": "paragraph",
+      "id": "paragraph_660",
+      "content": "2) Regrettably, the authors have neglected to include an essential control: a population of cells propagated in parallel in a non-sucrose environment. Ideally, this would be a low glucose/fructose environment using identical methods. Using long term-selections it is very easy to select for clumping cells either intentionally (Ratcliff et al 2012) or unintentionally (Lang et al., 2011). As the authors set out to demonstrate that it is a benefit of sharing secreted invertase that drives selection for clumpiness, we would have expected this simple control. Alternatively, the same selection using a cytoplasmically expressed invertase and a MAL11 overexpression allele would also serve as a negative control. This would provide the proof that the observed outcome is unique to the sucrose selection. Nevertheless, we do not consider the lack of this control as a fatal flaw as the authors present multiple post hoc analyses to demonstrate that the fitness increase is unique to a low sucrose environment. The most compelling being the demonstration that the evolved clones have no fitness difference (or slightly reduced fitness) compared with wild type in a low glucose/fructose environment."
+    },
+    "annotation_661": {
+      "type": "emphasis",
+      "id": "annotation_661",
+      "path": [
+        "paragraph_660",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        643
+      ]
+    },
+    "annotation_662": {
+      "type": "emphasis",
+      "id": "annotation_662",
+      "path": [
+        "paragraph_660",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        650,
+        1194
+      ]
+    },
+    "paragraph_663": {
+      "type": "paragraph",
+      "id": "paragraph_663",
+      "content": "We are frequently asked this question and the simplest answer would indeed be to be able to state that we had done the experiment suggested by the reviewer and found no multicellularity in strains evolved on low monosaccharide concentrations. There are three strong lines of evidence that argue that the evolution of multicellularity was a specific response to low sucrose concentrations: (1) the failure of the evolved clones to show increased fitness on low monosaccharide concentrations; (2) the fitness advantage of engineered clumpy strains in sucrose and not in low monosaccharide; (3) the failure to select for the mutations that cause multicellularity (ace2 in Recreated 2 and mck1, irc8, and gin8) on low monosaccharide concentrations when we analyze the effect of individual mutations as they segregate in a cross between the ancestral and evolved strains."
+    },
+    "annotation_664": {
+      "type": "emphasis",
+      "id": "annotation_664",
+      "path": [
+        "paragraph_663",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        661,
+        665
+      ]
+    },
+    "annotation_665": {
+      "type": "emphasis",
+      "id": "annotation_665",
+      "path": [
+        "paragraph_663",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        685,
+        689
+      ]
+    },
+    "annotation_666": {
+      "type": "emphasis",
+      "id": "annotation_666",
+      "path": [
+        "paragraph_663",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        691,
+        695
+      ]
+    },
+    "annotation_667": {
+      "type": "emphasis",
+      "id": "annotation_667",
+      "path": [
+        "paragraph_663",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        701,
+        705
+      ]
+    },
+    "paragraph_668": {
+      "type": "paragraph",
+      "id": "paragraph_668",
+      "content": "3) The authors use of bulk segregant analysis to identify beneficial mutations and engineering to recreate strains is impressive. However, some simple tetrad dissection would enable the authors to make more definitive statements about the effect of ace2 mutations on clumpiness and Rgt1 pathway mutations' HXT expression (assayed using qPCR). In addition they could test whether the Ubr1 mutations segregate with any of the phenotypes. Segregation analysis of SUC2 expression in a cross would test whether it is always associated with clumpiness."
+    },
+    "annotation_669": {
+      "type": "emphasis",
+      "id": "annotation_669",
+      "path": [
+        "paragraph_668",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        459
+      ]
+    },
+    "annotation_670": {
+      "type": "emphasis",
+      "id": "annotation_670",
+      "path": [
+        "paragraph_668",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        465,
+        545
+      ]
+    },
+    "paragraph_671": {
+      "type": "paragraph",
+      "id": "paragraph_671",
+      "content": "We made 9 allelic combinations of strain Recreated2 and tested them for clumpiness, HXT4 expression, and SUC2 expression using qPCR. We concluded that the ACE2 mutation caused clumpiness and the MTH1 mutation caused increase in HXT4 expression (as the reviewers suspected). The SUC2 expression was more complex and we were not able to make any conclusions from these data. The UBR1 mutation did not seem to influence any of the phenotypes. These additional experiments are detailed in the Results and the Materials and methods sections. The data from the experiment is in Figure 8–figure supplement 1."
+    },
+    "annotation_672": {
+      "type": "emphasis",
+      "id": "annotation_672",
+      "path": [
+        "paragraph_671",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        84,
+        88
+      ]
+    },
+    "annotation_673": {
+      "type": "emphasis",
+      "id": "annotation_673",
+      "path": [
+        "paragraph_671",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        105,
+        109
+      ]
+    },
+    "annotation_674": {
+      "type": "emphasis",
+      "id": "annotation_674",
+      "path": [
+        "paragraph_671",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        155,
+        159
+      ]
+    },
+    "annotation_675": {
+      "type": "emphasis",
+      "id": "annotation_675",
+      "path": [
+        "paragraph_671",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        195,
+        199
+      ]
+    },
+    "annotation_676": {
+      "type": "emphasis",
+      "id": "annotation_676",
+      "path": [
+        "paragraph_671",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        228,
+        232
+      ]
+    },
+    "annotation_677": {
+      "type": "emphasis",
+      "id": "annotation_677",
+      "path": [
+        "paragraph_671",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        278,
+        282
+      ]
+    },
+    "annotation_678": {
+      "type": "emphasis",
+      "id": "annotation_678",
+      "path": [
+        "paragraph_671",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        377,
+        381
+      ]
+    },
+    "paragraph_679": {
+      "type": "paragraph",
+      "id": "paragraph_679",
+      "content": "4) The fact that the “recreated” strains are less fit than the evolved clones suggests that something is being missed. One obvious explanation is copy number variation. Studies from the Rosenzweig, Botstein, and Sherlock labs have shown that long-term propagation of yeast strains in nutrient poor environments using chemostats results in selection for transporter amplifications. As the low sucrose environment is also a nutrient poor one, we would expect amplification alleles to be beneficial. However, the authors' data do not allow testing for this as they have performed RNASeq analysis of clones. Were any individual clones sequenced that can be analyzed for copy number variation? The authors could also check in the bulk segregant sequencing data for evidence of copy number variation at the SUC2 locus or any of the HXT loci that appear to be massively increased in expression."
+    },
+    "annotation_680": {
+      "type": "emphasis",
+      "id": "annotation_680",
+      "path": [
+        "paragraph_679",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        645
+      ]
+    },
+    "annotation_681": {
+      "type": "emphasis",
+      "id": "annotation_681",
+      "path": [
+        "paragraph_679",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        650,
+        800
+      ]
+    },
+    "annotation_682": {
+      "type": "emphasis",
+      "id": "annotation_682",
+      "path": [
+        "paragraph_679",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        806,
+        886
+      ]
+    },
+    "paragraph_683": {
+      "type": "paragraph",
+      "id": "paragraph_683",
+      "content": "We had looked for evidence of copy number variation across all genomes and found a noncausal major duplication event, but we failed to explain this as clearly as we should have done. At the reviewers' suggestion, we looked more carefully at read depth, particularly for amplification of the hexose transporters and SUC2. We found one case of amplification at these loci: the HXT6/HXT7 locus was duplicated in EvoClone7C. This amplification was also present in the backcrossed strain, indicating that it may have been causal. We now have the following paragraph in the Results section describing the three total events we found:"
+    },
+    "annotation_684": {
+      "type": "emphasis",
+      "id": "annotation_684",
+      "path": [
+        "paragraph_683",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        315,
+        319
+      ]
+    },
+    "annotation_685": {
+      "type": "emphasis",
+      "id": "annotation_685",
+      "path": [
+        "paragraph_683",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        375,
+        384
+      ]
+    },
+    "paragraph_686": {
+      "type": "paragraph",
+      "id": "paragraph_686",
+      "content": "“We analyzed read depth across all evolved clones and saw three major duplication or deletion events: (1) Chromosome 3 in EvoClone10 was duplicated in the region between 152 and 172 kb from the left end of the chromosome. This doubling of read depth was reduced to a 50% increase in the segregated pool, indicating that the duplication was not causal. (2) The number of P-Type ATPases at the ENO1/2/5 locus was reduced from 3 to 2 in EvoClone6 and EvoClone10. This reduction was also present in the backcrossed strain, indicating that it may have been causal. (3) The number of hexose transporter gene repeats at the HXT6/7 locus increased from two in the ancestral strain to three in EvoClone7C. This amplification was also present in the backcrossed strain, indicating that it also may have been causal. Amplification of the HXT6/7 locus has been found in other experimental evolutions (Brown et al. 1998; Gresham et al. 2008; Kao and Sherlock 2008).”"
+    },
+    "annotation_687": {
+      "type": "emphasis",
+      "id": "annotation_687",
+      "path": [
+        "paragraph_686",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        392,
+        400
+      ]
+    },
+    "annotation_688": {
+      "type": "emphasis",
+      "id": "annotation_688",
+      "path": [
+        "paragraph_686",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        617,
+        623
+      ]
+    },
+    "annotation_689": {
+      "type": "emphasis",
+      "id": "annotation_689",
+      "path": [
+        "paragraph_686",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        827,
+        833
+      ]
+    },
+    "paragraph_690": {
+      "type": "paragraph",
+      "id": "paragraph_690",
+      "content": "5) Many wild S. cerevisiae strains are clumpy and loss of clumpiness is likely a lab-adapted trait. The authors should make it clear that loss and gain of clumpiness is likely to have occurred many times in yeast populations and provide other explanations for why clumpiness in yeast cells might be recurrently selected."
+    },
+    "annotation_691": {
+      "type": "emphasis",
+      "id": "annotation_691",
+      "path": [
+        "paragraph_690",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        12
+      ]
+    },
+    "annotation_692": {
+      "type": "emphasis",
+      "id": "annotation_692",
+      "path": [
+        "paragraph_690",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        27,
+        319
+      ]
+    },
+    "paragraph_693": {
+      "type": "paragraph",
+      "id": "paragraph_693",
+      "content": "We agree and we have added the following text to the discussion:"
+    },
+    "paragraph_694": {
+      "type": "paragraph",
+      "id": "paragraph_694",
+      "content": "“Although lab strains of yeast were selected to be unicellular during their domestication (Mortimer and Johnston 1986), the level of clumpiness varies in wild isolates of yeast, and undifferentiated multicellularity may have been recurrently selected for its advantage in harvesting nutrients or for protection from stress (Smukalla et al. 2008).”"
     }
   }
 }

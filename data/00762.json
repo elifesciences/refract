@@ -83,7 +83,45 @@
         "heading_s4-12",
         "paragraph_231",
         "sub-article",
-        "sub-article"
+        "heading_242",
+        "paragraph_243",
+        "paragraph_245",
+        "paragraph_247",
+        "paragraph_248",
+        "paragraph_249",
+        "paragraph_250",
+        "paragraph_251",
+        "paragraph_252",
+        "paragraph_253",
+        "paragraph_254",
+        "paragraph_256",
+        "paragraph_258",
+        "sub-article",
+        "heading_259",
+        "paragraph_260",
+        "paragraph_262",
+        "paragraph_264",
+        "paragraph_267",
+        "paragraph_269",
+        "paragraph_272",
+        "paragraph_274",
+        "paragraph_278",
+        "paragraph_281",
+        "paragraph_284",
+        "paragraph_287",
+        "paragraph_290",
+        "paragraph_292",
+        "paragraph_296",
+        "paragraph_298",
+        "paragraph_300",
+        "paragraph_301",
+        "paragraph_303",
+        "paragraph_305",
+        "paragraph_307",
+        "paragraph_309",
+        "paragraph_311",
+        "paragraph_313",
+        "paragraph_315"
       ]
     },
     "figures": {
@@ -312,7 +350,7 @@
     "paragraph_2": {
       "type": "paragraph",
       "id": "paragraph_2",
-      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited.10.7554/eLife.00762.001"
+      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited."
     },
     "annotation_3": {
       "type": "link",
@@ -343,7 +381,7 @@
     "paragraph_5": {
       "type": "paragraph",
       "id": "paragraph_5",
-      "content": "DOI: http://dx.doi.org/10.7554/eLife.00762.00110.7554/eLife.00762.002"
+      "content": "DOI: http://dx.doi.org/10.7554/eLife.00762.001"
     },
     "annotation_6": {
       "type": "strong",
@@ -5179,6 +5217,682 @@
       "level": 1,
       "content": "Article Commentary",
       "nodes": []
+    },
+    "heading_242": {
+      "type": "heading",
+      "id": "heading_242",
+      "level": 2,
+      "content": "Decision letter",
+      "nodes": []
+    },
+    "paragraph_243": {
+      "type": "paragraph",
+      "id": "paragraph_243",
+      "content": "eLife posts the editorial decision letter and author response on a selection of the published articles (subject to the approval of the authors). An edited version of the letter sent to the authors after peer review is shown, indicating the substantive concerns or comments; minor concerns are not usually shown. Reviewers have the opportunity to discuss the decision before the letter is sent (see review process). Similarly, the author response typically shows only responses to the major concerns raised by the reviewers."
+    },
+    "annotation_244": {
+      "type": "link",
+      "id": "annotation_244",
+      "path": [
+        "paragraph_243",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        398,
+        412
+      ],
+      "url": "http://elife.elifesciences.org/review-process"
+    },
+    "paragraph_245": {
+      "type": "paragraph",
+      "id": "paragraph_245",
+      "content": "Thank you for sending your work entitled “A pseudogene lncRNA at the interface of inflammation and anti-inflammatory therapeutics” for consideration at eLife. Your article has been favorably evaluated by a Senior editor, Detlef Weigel, and 3 reviewers, one of whom is a member of our Board of Reviewing Editors."
+    },
+    "annotation_246": {
+      "type": "emphasis",
+      "id": "annotation_246",
+      "path": [
+        "paragraph_245",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        152,
+        157
+      ]
+    },
+    "paragraph_247": {
+      "type": "paragraph",
+      "id": "paragraph_247",
+      "content": "The Reviewing editor and the other reviewers discussed their comments before we reached this decision, and the Reviewing editor has assembled the following comments to help you prepare a revised submission."
+    },
+    "paragraph_248": {
+      "type": "paragraph",
+      "id": "paragraph_248",
+      "content": "The manuscript is timely in its subject matter and clearly written: a better understanding of the biological roles for lncRNAs is clearly critical, since only a small fraction of ncRNAs in general have had their biological roles identified."
+    },
+    "paragraph_249": {
+      "type": "paragraph",
+      "id": "paragraph_249",
+      "content": "While several of the authors’ observations are well supported by the data presented, there are several issues that should be addressed in order to assist the reader to better understand some of the conclusions reached."
+    },
+    "paragraph_250": {
+      "type": "paragraph",
+      "id": "paragraph_250",
+      "content": "1) RNAseq analyses:"
+    },
+    "paragraph_251": {
+      "type": "paragraph",
+      "id": "paragraph_251",
+      "content": "a. It is surprising that ∼20 million reads per time point are sufficiently deep to accurately detect relatively small changes in expression, when many of these changes are occurring at very low expression levels. It would be useful to have a table that provides the number of reads and RPKMs that are associated with the four classes of RefSeq RNAs cited in the first section of the manuscript (pri-miRNAs, RNAse P etc., pseudogenes and lncRNAs)."
+    },
+    "paragraph_252": {
+      "type": "paragraph",
+      "id": "paragraph_252",
+      "content": "b. It would also be helpful to readers to understand what range of nucleotide coverages were being obtained for each annotated member whose expression level changes were being cited as significant (e.g., 90% of annotation or 10% of the annotation)."
+    },
+    "paragraph_253": {
+      "type": "paragraph",
+      "id": "paragraph_253",
+      "content": "c. Why were twofold changes used as a threshold for analyses performed on transcripts or gene elements? Since two biological replicates were used, why not use some statistic like IDR to have a principled way to select thresholds and to filter data sets for inconsistent RPKM values? Finally, why set a threshold of lower expression at RPKM>1?"
+    },
+    "paragraph_254": {
+      "type": "paragraph",
+      "id": "paragraph_254",
+      "content": "2) It is quite striking that the profile of the 6 hr time point is significantly different from the other two time points (Figure 1B–E). It would be helpful if the authors were to comment on possible reasons why all classes of ncRNAs reported (annotated and novel) react in this fashion, and whether this difference the decreases from time 0 and increase to 24 hr time points were gradual. From these data it appears as if there is a global resetting of the expression state form time point 0 to 6 hr. Is there any evidence for changes from genome-wide epigenetic profiles that can be correlated with the expression results at the genomic locations cited?"
+    },
+    "figure_reference_255": {
+      "type": "figure_reference",
+      "id": "figure_reference_255",
+      "path": [
+        "paragraph_254",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        123,
+        134
+      ]
+    },
+    "paragraph_256": {
+      "type": "paragraph",
+      "id": "paragraph_256",
+      "content": "3) The localization of Lethe and Pbrm1 to chromatin is very interesting. However, the use of RT-PCR (Figure 2E) as an evaluation of the RIP results is potentially problematic since only relatively short stretches of the mRNAs are assayed in this readout. Thus, there are two potential issues using this approach. First, unless the full length of the Lethe 697 nt transcript was targeted by RT-PCR, then it might well be that it was a sub-portion of this region or another transcript that includes the detected Lethe RNA that was detected. Second, depending upon the turnover rate of a primary transcript it would not be unusual to see evidence of the primary Lethe transcript present in the chromatin enriched fraction. The absence of Cox2 Divergent and GP96 Convergent in the chromatin localization is again interesting, but this does not address the question of whether a newly synthesized primary Lethe transcript is being detected and the functioning portion of the Lethe RNA is the smaller signal detected in the nucleus. If the authors have additional evidence that it is the processed version of Lethe that is associated with chromatin, then it would be useful to indicate this."
+    },
+    "figure_reference_257": {
+      "type": "figure_reference",
+      "id": "figure_reference_257",
+      "path": [
+        "paragraph_256",
+        "content"
+      ],
+      "target": "image_fig2",
+      "range": [
+        101,
+        110
+      ]
+    },
+    "paragraph_258": {
+      "type": "paragraph",
+      "id": "paragraph_258",
+      "content": "4) The conclusion that Lethe is a “unique” pseudogene lncRNA that is induced by both inflammatory and anti-inflammatory therapeutic is an over-interpretation of the results presented.10.7554/eLife.00762.013"
+    },
+    "heading_259": {
+      "type": "heading",
+      "id": "heading_259",
+      "level": 2,
+      "content": "Author response",
+      "nodes": []
+    },
+    "paragraph_260": {
+      "type": "paragraph",
+      "id": "paragraph_260",
+      "content": "1) RNAseq analyses:"
+    },
+    "annotation_261": {
+      "type": "emphasis",
+      "id": "annotation_261",
+      "path": [
+        "paragraph_260",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        18
+      ]
+    },
+    "paragraph_262": {
+      "type": "paragraph",
+      "id": "paragraph_262",
+      "content": "a. It is surprising that ∼20 million reads per time point are sufficiently deep to accurately detect relatively small changes in expression, when many of these changes are occurring at very low expression levels. It would be useful to have a table that provides the number of reads and RPKMs that are associated with the four classes of RefSeq RNAs cited in the first section of the manuscript (pri-miRNAs, RNAse P etc., pseudogenes and lncRNAs)."
+    },
+    "annotation_263": {
+      "type": "emphasis",
+      "id": "annotation_263",
+      "path": [
+        "paragraph_262",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        445
+      ]
+    },
+    "paragraph_264": {
+      "type": "paragraph",
+      "id": "paragraph_264",
+      "content": "We thank the reviewers for their suggestion and we have (1) made a table of sequencing depth of each sample as Supplementary file 1A; (2) made tables in Supplementary file 1B–E that provide the number of mapped reads, RPKMs, and nucleotide coverage for the four classes of genes showing in Figure 1B, 1C, 1D, and 1E. We agree that the depth of RNA-seq can potentially limit the sensitivity of detecting differential gene expression; hence we carried out extensive qRT-PCR analyses for the transcripts studied in this manuscript."
+    },
+    "figure_reference_265": {
+      "type": "figure_reference",
+      "id": "figure_reference_265",
+      "path": [
+        "paragraph_264",
+        "content"
+      ],
+      "target": "supplement_SD1_data",
+      "range": [
+        153,
+        176
+      ]
+    },
+    "figure_reference_266": {
+      "type": "figure_reference",
+      "id": "figure_reference_266",
+      "path": [
+        "paragraph_264",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        290,
+        315
+      ]
+    },
+    "paragraph_267": {
+      "type": "paragraph",
+      "id": "paragraph_267",
+      "content": "b. It would also be helpful to readers to understand what range of nucleotide coverages were being obtained for each annotated member whose expression level changes were being cited as significant (e.g., 90% of annotation or 10% of the annotation)."
+    },
+    "annotation_268": {
+      "type": "emphasis",
+      "id": "annotation_268",
+      "path": [
+        "paragraph_267",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        247
+      ]
+    },
+    "paragraph_269": {
+      "type": "paragraph",
+      "id": "paragraph_269",
+      "content": "As the reviewers suggested, we have added a column to the tables in Supplementary file 1B, C, and E, which indicate the degree of coverage. The degree of coverage of each gene was calculated by the number of bases that were covered by 1 or more reads in any of the four samples divided by the total length of that gene. Over 97.3% of all the significant genes showing in Figure 1B, 1C, and 1E have degree coverage > 0.5, which indicates a majority of our significant genes have reasonable coverage by mapped reads. Readers can now also filter our data for their own desired coverage threshold."
+    },
+    "figure_reference_270": {
+      "type": "figure_reference",
+      "id": "figure_reference_270",
+      "path": [
+        "paragraph_269",
+        "content"
+      ],
+      "target": "supplement_SD1_data",
+      "range": [
+        68,
+        99
+      ]
+    },
+    "figure_reference_271": {
+      "type": "figure_reference",
+      "id": "figure_reference_271",
+      "path": [
+        "paragraph_269",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        371,
+        392
+      ]
+    },
+    "paragraph_272": {
+      "type": "paragraph",
+      "id": "paragraph_272",
+      "content": "c. Why were twofold changes used as a threshold for analyses performed on transcripts or gene elements? Since two biological replicates were used, why not use some statistic like IDR to have a principled way to select thresholds and to filter data sets for inconsistent RPKM values? Finally, why set a threshold of lower expression at RPKM>1?"
+    },
+    "annotation_273": {
+      "type": "emphasis",
+      "id": "annotation_273",
+      "path": [
+        "paragraph_272",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        341
+      ]
+    },
+    "paragraph_274": {
+      "type": "paragraph",
+      "id": "paragraph_274",
+      "content": "We used two-fold cut off as a simple heuristic to estimate the number of differentially expressed genes. We agree that a principled method with statistical backing is preferable. Hence, we performed SAMseq, a nonparametric method for estimating significance in RNA-seq data (Li and Tibshirani 2011) and discovered 3690 significant transcripts with FDR < 0.05. The heatmap of these significant transcripts is shown in Figure 1—figure supplement 1. We now report the log2 RPKM data in Supplementary file 1F, allowing readers to readily download the statistically significant set of transcripts. Transcripts with RPKM = 1 approximately equals to one copy per-cell, and therefore has been widely used as a cutoff."
+    },
+    "citation_reference_275": {
+      "type": "citation_reference",
+      "id": "citation_reference_275",
+      "path": [
+        "paragraph_274",
+        "content"
+      ],
+      "target": "article_citation_bib29",
+      "range": [
+        275,
+        297
+      ]
+    },
+    "figure_reference_276": {
+      "type": "figure_reference",
+      "id": "figure_reference_276",
+      "path": [
+        "paragraph_274",
+        "content"
+      ],
+      "target": "image_fig1s1",
+      "range": [
+        417,
+        445
+      ]
+    },
+    "figure_reference_277": {
+      "type": "figure_reference",
+      "id": "figure_reference_277",
+      "path": [
+        "paragraph_274",
+        "content"
+      ],
+      "target": "supplement_SD1_data",
+      "range": [
+        483,
+        504
+      ]
+    },
+    "paragraph_278": {
+      "type": "paragraph",
+      "id": "paragraph_278",
+      "content": "2) It is quite striking that the profile of the 6 hr time point is significantly different from the other two time points (Figure 1B–E). It would be helpful if the authors were to comment on possible reasons why all classes of ncRNAs reported (annotated and novel) react in this fashion, and whether this difference the decreases from time 0 and increase to 24 hr time points were gradual. From these data it appears as if there is a global resetting of the expression state form time point 0 to 6 hr. Is there any evidence for changes from genome-wide epigenetic profiles that can be correlated with the expression results at the genomic locations cited?"
+    },
+    "figure_reference_279": {
+      "type": "figure_reference",
+      "id": "figure_reference_279",
+      "path": [
+        "paragraph_278",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        123,
+        134
+      ]
+    },
+    "annotation_280": {
+      "type": "emphasis",
+      "id": "annotation_280",
+      "path": [
+        "paragraph_278",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        654
+      ]
+    },
+    "paragraph_281": {
+      "type": "paragraph",
+      "id": "paragraph_281",
+      "content": "TNFα is known to induce NF-κB activity in an oscillatory fashion. This is due to the fact that NF-κB induces the transcription of its own inhibitor IkB, which titrates NF-κB out of the nucleus until further signaling induces IkB degradation, allowing NF-κB to bind target genes again (Hoffmann, Levchenko et al. 2002). Between 1.5 and 6 hrs, one can often catch the difference between a peak and a trough, although the actual periodicity is shorter. We have previously observed this oscillatory gene expression pattern by microarrays [Figure 6 in (Kawahara, Michishita et al. 2009); Figure 4 of (Kawahara, Rapicavoli et al. 2011)]. Thus RNA-seq showed an expected pattern of NF-κB dependent gene expression and notably the dynamic range by RNA-seq is greater than previously observed with microarrays. We have previously shown oscillatory patterns of RelA and Sirt6 occupancy at NF-κB target genes (Kawahara, Rapicavoli et al. 2011). We apologize that this point was not clear and we have revised the text to explain the change at the 6 hr time point."
+    },
+    "citation_reference_282": {
+      "type": "citation_reference",
+      "id": "citation_reference_282",
+      "path": [
+        "paragraph_281",
+        "content"
+      ],
+      "target": "article_citation_bib23",
+      "range": [
+        596,
+        628
+      ]
+    },
+    "citation_reference_283": {
+      "type": "citation_reference",
+      "id": "citation_reference_283",
+      "path": [
+        "paragraph_281",
+        "content"
+      ],
+      "target": "article_citation_bib23",
+      "range": [
+        899,
+        931
+      ]
+    },
+    "paragraph_284": {
+      "type": "paragraph",
+      "id": "paragraph_284",
+      "content": "3) The localization of Lethe and Pbrm1 to chromatin is very interesting. However, the use of RT-PCR (Figure 2E) as an evaluation of the RIP results is potentially problematic since only relatively short stretches of the mRNAs are assayed in this readout. Thus, there are two potential issues using this approach. First, unless the full length of the Lethe 697 nt transcript was targeted by RT-PCR, then it might well be that it was a sub-portion of this region or another transcript that includes the detected Lethe RNA that was detected."
+    },
+    "figure_reference_285": {
+      "type": "figure_reference",
+      "id": "figure_reference_285",
+      "path": [
+        "paragraph_284",
+        "content"
+      ],
+      "target": "image_fig2",
+      "range": [
+        101,
+        110
+      ]
+    },
+    "annotation_286": {
+      "type": "emphasis",
+      "id": "annotation_286",
+      "path": [
+        "paragraph_284",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        537
+      ]
+    },
+    "paragraph_287": {
+      "type": "paragraph",
+      "id": "paragraph_287",
+      "content": "We agree with the caveat that this experiment only provides evidence that the specific tested region of Lethe is interacting with chromatin, and we have amended the text accordingly. To our knowledge, RNA immunoprecipitation is routinely read out by qRT-PCR (e.g., (Hung, Wang et al. 2011); (Kretz, Siprashvili et al. 2013)). Many investigators shear or digest the RNA to a small fragment in order to map the site of interaction between protein and RNA. The detection of Lethe poses additional challenges because Lethe is a pseudogene transcript. Only small portions of Lethe sequence uniquely distinguish Lethe from the Rps15a and pseudogene family members (Figure 3A). We tested many primer sets to distinguish Lethe from family members, and also distinguish RNA from contaminating DNA. The primers we chose were the ones that performed the best. The alternative to RT-PCR, such as Northern blot analysis or tiling array analysis hybridization, would have far worse cross hybridization problems than targeted, gene-specific qRT-PCR."
+    },
+    "citation_reference_288": {
+      "type": "citation_reference",
+      "id": "citation_reference_288",
+      "path": [
+        "paragraph_287",
+        "content"
+      ],
+      "target": "article_citation_bib20",
+      "range": [
+        266,
+        288
+      ]
+    },
+    "figure_reference_289": {
+      "type": "figure_reference",
+      "id": "figure_reference_289",
+      "path": [
+        "paragraph_287",
+        "content"
+      ],
+      "target": "image_fig3",
+      "range": [
+        659,
+        668
+      ]
+    },
+    "paragraph_290": {
+      "type": "paragraph",
+      "id": "paragraph_290",
+      "content": "Second, depending upon the turnover rate of a primary transcript it would not be unusual to see evidence of the primary Lethe transcript present in the chromatin enriched fraction. The absence of Cox2 Divergent and GP96 Convergent in the chromatin localization is again interesting, but this does not address the question of whether a newly synthesized primary Lethe transcript is being detected and the functioning portion of the Lethe RNA is the smaller, signal detected in the nucleus. If the authors have additional evidence that it is the processed version of Lethe that is associated with chromatin, then it would be useful to indicate this."
+    },
+    "annotation_291": {
+      "type": "emphasis",
+      "id": "annotation_291",
+      "path": [
+        "paragraph_290",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        646
+      ]
+    },
+    "paragraph_292": {
+      "type": "paragraph",
+      "id": "paragraph_292",
+      "content": "We agree that nascent primary transcripts are tethered to chromatin, and hence the chromatin enrichment signal of each RNA should be compared against other transcripts for relative enrichment. As the reviewers observed, Lethe showed 5 to 10 fold higher chromatin association in cellular fractionation and histone H3 RIP than five other lncRNAs tested at the same time (Figure 2D, 2E). Two lncRNAs, Cox2 Divergent and GP96 Convergent, showed undetectable signal on H3 RIP; these transcripts were localized to the cytoplasm instead. The chromatin association signal for Lethe is also significantly greater than that of GAPDH (Figure 2D,E), a far more abundant transcript with presumably more copies of primary transcripts. To further address this point, we repeated the chromatin fractionation experiment and analyzed for polyadenylated transcripts in each fraction. The additional requirement of polyadenylation should presumably bias against nascent transcripts, and select for processed, full-length transcripts. Polyadenylated Lethe RNA is still preferentially associated with chromatin compared to two control mRNAs (revised Figure 2—figure supplement 1), indicating that full length Lethe is associated with chromatin."
+    },
+    "figure_reference_293": {
+      "type": "figure_reference",
+      "id": "figure_reference_293",
+      "path": [
+        "paragraph_292",
+        "content"
+      ],
+      "target": "image_fig2",
+      "range": [
+        369,
+        382
+      ]
+    },
+    "figure_reference_294": {
+      "type": "figure_reference",
+      "id": "figure_reference_294",
+      "path": [
+        "paragraph_292",
+        "content"
+      ],
+      "target": "image_fig2",
+      "range": [
+        624,
+        635
+      ]
+    },
+    "figure_reference_295": {
+      "type": "figure_reference",
+      "id": "figure_reference_295",
+      "path": [
+        "paragraph_292",
+        "content"
+      ],
+      "target": "image_fig2s1",
+      "range": [
+        1128,
+        1156
+      ]
+    },
+    "paragraph_296": {
+      "type": "paragraph",
+      "id": "paragraph_296",
+      "content": "Nonetheless, the current data do not distinguish whether the functional pool of Lethe is on chromatin, in nucleoplasm, or both. When Lethe is fused to a SV40 polyadenylation signal (which will efficiently cause primary transcript processing and polyadenylation), Lethe expression inhibited NF-κB -dependent gene expression in a dose-dependent manner (Figure 4B), suggesting that chromatin tethering as a primary transcript is not strictly required. We have added these considerations to the Discussion."
+    },
+    "figure_reference_297": {
+      "type": "figure_reference",
+      "id": "figure_reference_297",
+      "path": [
+        "paragraph_296",
+        "content"
+      ],
+      "target": "image_fig4",
+      "range": [
+        351,
+        360
+      ]
+    },
+    "paragraph_298": {
+      "type": "paragraph",
+      "id": "paragraph_298",
+      "content": "4) The conclusion that Lethe is a “unique” pseudogene lncRNA that is induced by both inflammatory and anti-inflammatory therapeutic is an over-interpretation of the results presented."
+    },
+    "annotation_299": {
+      "type": "emphasis",
+      "id": "annotation_299",
+      "path": [
+        "paragraph_298",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        182
+      ]
+    },
+    "paragraph_300": {
+      "type": "paragraph",
+      "id": "paragraph_300",
+      "content": "We agree with the assessment and have removed the word “unique”. Certainly other pseudogene lncRNAs may be proven to have similar functions in the future."
+    },
+    "paragraph_301": {
+      "type": "paragraph",
+      "id": "paragraph_301",
+      "content": "References"
+    },
+    "annotation_302": {
+      "type": "strong",
+      "id": "annotation_302",
+      "path": [
+        "paragraph_301",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        10
+      ]
+    },
+    "paragraph_303": {
+      "type": "paragraph",
+      "id": "paragraph_303",
+      "content": "Hoffmann A, Levchenko A, et al. (2002). The IkappaB-NF-kappaB signaling module: temporal control and selective gene activation. Science 298(5596): 1241-1245. doi:10.1126/science.1071914 298/5596/1241."
+    },
+    "annotation_304": {
+      "type": "emphasis",
+      "id": "annotation_304",
+      "path": [
+        "paragraph_303",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        128,
+        135
+      ]
+    },
+    "paragraph_305": {
+      "type": "paragraph",
+      "id": "paragraph_305",
+      "content": "Hung T, Wang Y, et al. (2011). Extensive and coordinated transcription of noncoding RNAs within cell-cycle promoters. Nat Genet 43(7): 621-629. doi:10.1038/ng.848."
+    },
+    "annotation_306": {
+      "type": "emphasis",
+      "id": "annotation_306",
+      "path": [
+        "paragraph_305",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        118,
+        127
+      ]
+    },
+    "paragraph_307": {
+      "type": "paragraph",
+      "id": "paragraph_307",
+      "content": "Kawahara TL, Michishita E, et al. (2009). SIRT6 links histone H3 lysine 9 deacetylation to NF-kappaB-dependent gene expression and organismal life span. Cell 136(1): 62-74."
+    },
+    "annotation_308": {
+      "type": "emphasis",
+      "id": "annotation_308",
+      "path": [
+        "paragraph_307",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        153,
+        157
+      ]
+    },
+    "paragraph_309": {
+      "type": "paragraph",
+      "id": "paragraph_309",
+      "content": "Kawahara TL, Rapicavoli NA, et al. (2011). Dynamic chromatin localization of sirt6 shapes stress- and aging-related transcriptional networks. PLoS Genet 7(6): e1002153. doi:10.1371/journal.pgen.1002153."
+    },
+    "annotation_310": {
+      "type": "emphasis",
+      "id": "annotation_310",
+      "path": [
+        "paragraph_309",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        142,
+        152
+      ]
+    },
+    "paragraph_311": {
+      "type": "paragraph",
+      "id": "paragraph_311",
+      "content": "Kong L, Zhang Y, et al. (2007). CPC: assess the protein-coding potential of transcripts using sequence features and support vector machine. Nucleic Acids Res 35: W345-349. doi:10.1093/nar/gkm391."
+    },
+    "annotation_312": {
+      "type": "emphasis",
+      "id": "annotation_312",
+      "path": [
+        "paragraph_311",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        140,
+        157
+      ]
+    },
+    "paragraph_313": {
+      "type": "paragraph",
+      "id": "paragraph_313",
+      "content": "Kretz M, Siprashvili Z, et al. (2013). Control of somatic tissue differentiation by the long non-coding RNA TINCR. Nature 493(7431): 231-235. doi:10.1038/nature11661."
+    },
+    "annotation_314": {
+      "type": "emphasis",
+      "id": "annotation_314",
+      "path": [
+        "paragraph_313",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        115,
+        121
+      ]
+    },
+    "paragraph_315": {
+      "type": "paragraph",
+      "id": "paragraph_315",
+      "content": "Li J and Tibshirani R (2011). Finding consistent patterns: A nonparametric approach for identifying differential expression in RNA-Seq data. Stat Methods Med Res. doi:0962280211428386."
+    },
+    "annotation_316": {
+      "type": "emphasis",
+      "id": "annotation_316",
+      "path": [
+        "paragraph_315",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        141,
+        161
+      ]
     }
   }
 }

@@ -68,7 +68,19 @@
         "heading_s4-7",
         "paragraph_807",
         "sub-article",
-        "sub-article"
+        "heading_815",
+        "paragraph_816",
+        "paragraph_818",
+        "paragraph_820",
+        "paragraph_821",
+        "paragraph_822",
+        "sub-article",
+        "heading_823",
+        "paragraph_824",
+        "paragraph_826",
+        "paragraph_835",
+        "paragraph_865",
+        "paragraph_867"
       ]
     },
     "figures": {
@@ -86,7 +98,8 @@
         "image_fig6s1",
         "image_fig7",
         "image_fig7s1",
-        "image_fig8"
+        "image_fig8",
+        "image_fig9"
       ]
     },
     "citations": {
@@ -260,7 +273,7 @@
     "paragraph_2": {
       "type": "paragraph",
       "id": "paragraph_2",
-      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited.10.7554/eLife.00757.001"
+      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited."
     },
     "annotation_3": {
       "type": "link",
@@ -356,7 +369,7 @@
     "paragraph_10": {
       "type": "paragraph",
       "id": "paragraph_10",
-      "content": "DOI: http://dx.doi.org/10.7554/eLife.00757.00110.7554/eLife.00757.002"
+      "content": "DOI: http://dx.doi.org/10.7554/eLife.00757.001"
     },
     "annotation_11": {
       "type": "strong",
@@ -12667,6 +12680,618 @@
       "level": 1,
       "content": "Article Commentary",
       "nodes": []
+    },
+    "heading_815": {
+      "type": "heading",
+      "id": "heading_815",
+      "level": 2,
+      "content": "Decision letter",
+      "nodes": []
+    },
+    "paragraph_816": {
+      "type": "paragraph",
+      "id": "paragraph_816",
+      "content": "eLife posts the editorial decision letter and author response on a selection of the published articles (subject to the approval of the authors). An edited version of the letter sent to the authors after peer review is shown, indicating the substantive concerns or comments; minor concerns are not usually shown. Reviewers have the opportunity to discuss the decision before the letter is sent (see review process). Similarly, the author response typically shows only responses to the major concerns raised by the reviewers."
+    },
+    "annotation_817": {
+      "type": "link",
+      "id": "annotation_817",
+      "path": [
+        "paragraph_816",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        398,
+        412
+      ],
+      "url": "http://www.elifesciences.org/the-journal/review-process"
+    },
+    "paragraph_818": {
+      "type": "paragraph",
+      "id": "paragraph_818",
+      "content": "Thank you for sending your work entitled “EBI2-mediated bridging channel positioning supports splenic dendritic cell homeostasis and particulate antigen capture” for consideration at eLife. Your article has been favorably evaluated by a Senior editor and 2 reviewers, one of whom is a member of our Board of Reviewing Editors."
+    },
+    "annotation_819": {
+      "type": "emphasis",
+      "id": "annotation_819",
+      "path": [
+        "paragraph_818",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        183,
+        188
+      ]
+    },
+    "paragraph_820": {
+      "type": "paragraph",
+      "id": "paragraph_820",
+      "content": "The following individuals responsible for the peer review of your submission want to reveal their identity: Michel Nussenzweig (Reviewing editor)."
+    },
+    "paragraph_821": {
+      "type": "paragraph",
+      "id": "paragraph_821",
+      "content": "The Reviewing editor and the other reviewer discussed their comments before we reached this decision, and the Reviewing editor has assembled the following comments to help you prepare a revised submission."
+    },
+    "paragraph_822": {
+      "type": "paragraph",
+      "id": "paragraph_822",
+      "content": "Our major concern was that while the positioning and survival phenotypes are extremely clear, the analysis of the immune response presented in Figure 7 seems rather limited, especially given the outstanding track record of the Cyster lab in analyzing B cell responses. The main issue is that these experiments rely exclusively on proliferation of transferred monoclonal cells. We would like to see some evidence that EBI2 expression in DCs affects antibody production/GC formation/affinity maturation in a polyclonal response. Perhaps using CD11c-DTR mixed chimeras could provide such a system?10.7554/eLife.00757.016"
+    },
+    "heading_823": {
+      "type": "heading",
+      "id": "heading_823",
+      "level": 2,
+      "content": "Author response",
+      "nodes": []
+    },
+    "paragraph_824": {
+      "type": "paragraph",
+      "id": "paragraph_824",
+      "content": "Our major concern was that while the positioning and survival phenotypes are extremely clear, the analysis of the immune response presented in Figure 7 seems rather limited, especially given the outstanding track record of the Cyster lab in analyzing B cell responses. The main issue is that these experiments rely exclusively on proliferation of transferred monoclonal cells. We would like to see some evidence that EBI2 expression in DCs affects antibody production/GC formation/affinity maturation in a polyclonal response. Perhaps using CD11c-DTR mixed chimeras could provide such a system?"
+    },
+    "annotation_825": {
+      "type": "emphasis",
+      "id": "annotation_825",
+      "path": [
+        "paragraph_824",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        593
+      ]
+    },
+    "paragraph_826": {
+      "type": "paragraph",
+      "id": "paragraph_826",
+      "content": "We thank the reviewers for their careful assessment of our study. In connection with this concern, we have added data to the figure 7 supplement (Figure 7–figure supplement 1) showing the OTII T cell response in DT-treated Ebi2-/-:CD11c-DTR mixed BM chimeras, supporting the conclusion that the reduced wild-type T cell response is due to the role of EBI2 in CD11c+ cells, most likely DCs. We have also added data to figure 7 panels D and E showing that the wild-type GC B cell response in the Hy10 B cell transfer system is reduced in Ebi2-/- hosts."
+    },
+    "annotation_827": {
+      "type": "emphasis",
+      "id": "annotation_827",
+      "path": [
+        "paragraph_826",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        223,
+        227
+      ]
+    },
+    "annotation_828": {
+      "type": "emphasis",
+      "id": "annotation_828",
+      "path": [
+        "paragraph_826",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        227,
+        230
+      ]
+    },
+    "annotation_829": {
+      "type": "superscript",
+      "id": "annotation_829",
+      "path": [
+        "paragraph_826",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        227,
+        230
+      ]
+    },
+    "annotation_830": {
+      "type": "emphasis",
+      "id": "annotation_830",
+      "path": [
+        "paragraph_826",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        230,
+        240
+      ]
+    },
+    "annotation_831": {
+      "type": "superscript",
+      "id": "annotation_831",
+      "path": [
+        "paragraph_826",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        364,
+        365
+      ]
+    },
+    "annotation_832": {
+      "type": "emphasis",
+      "id": "annotation_832",
+      "path": [
+        "paragraph_826",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        536,
+        540
+      ]
+    },
+    "annotation_833": {
+      "type": "emphasis",
+      "id": "annotation_833",
+      "path": [
+        "paragraph_826",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        540,
+        543
+      ]
+    },
+    "annotation_834": {
+      "type": "superscript",
+      "id": "annotation_834",
+      "path": [
+        "paragraph_826",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        540,
+        543
+      ]
+    },
+    "paragraph_835": {
+      "type": "paragraph",
+      "id": "paragraph_835",
+      "content": "We did attempt an experiment of the type suggested by the reviewers, where CD11c- DTR:EBI2 KO (or WT) mixed BM chimeras were treated with DT (at days -1, 1 and 3), immunized with SRBC (d0) and then analyzed for the frequency of polyclonal plasma cells and GC cells at day 5. However, we found that this approach was problematic as the DT treatment caused almost complete ablation of plasma cells and GC B cells derived from the CD11c-DTR BM (Author response image 1A). This effect is consistent with past and very recent findings that CD11c-DTR (and CD11c-YFP) is expressed in plasmablasts and GC B cells (Hebel et al., 2006 Eur J Immunol 36, 2912; Racine et al., 2008 J Immunol 181, 1375; Baumjohann et al., 2013 Immunity 38, 596). While this approach did not allow us to examine the impact of selective EBI2-deficiency in DCs on WT B-lineage cells, the experiment did allow assessment of the response of EBI2- deficient B cells in mice that lack EBI2 on CD11c+ DCs while retaining EBI2 on approximately half of all non-CD11c expressing cells (such as helper T cells). This analysis showed the plasma cell response was reduced 3-fold and the GC response about 2.5-fold compared to the response in control CD11c-DTR:WT mixed BM chimeras (Author response image 1B). This reduction was greater than observed for EBI2- deficient B cells in SRBC immunized Ebi2-/-:WT mixed BM chimeras, where the plasma cell response was reduced only 25% and the GC response was not reduced (Author response image 1C). The greater defect in the DT treated Ebi2-/-:CD11c-DTR chimeras is consistent with a role for EBI2+ DC in supporting events necessary for the polyclonal anti-SRBC plasma cell and GC responses."
+    },
+    "annotation_836": {
+      "type": "superscript",
+      "id": "annotation_836",
+      "path": [
+        "paragraph_835",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        961,
+        962
+      ]
+    },
+    "annotation_837": {
+      "type": "superscript",
+      "id": "annotation_837",
+      "path": [
+        "paragraph_835",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1356,
+        1359
+      ]
+    },
+    "annotation_838": {
+      "type": "superscript",
+      "id": "annotation_838",
+      "path": [
+        "paragraph_835",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1539,
+        1542
+      ]
+    },
+    "annotation_839": {
+      "type": "superscript",
+      "id": "annotation_839",
+      "path": [
+        "paragraph_835",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1596,
+        1597
+      ]
+    },
+    "image_fig9": {
+      "type": "image",
+      "id": "image_fig9",
+      "label": "Author response image 1",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00757/svg/elife00757f009.svg",
+      "caption": "paragraph_image_fig9",
+      "graphic_id": "elife00757f009",
+      "format": "image"
+    },
+    "paragraph_image_fig9": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig9",
+      "content": "(A, B) Mixed (1:1) CD11cDTR (CD45.1+) and Ebi2-/- or Ebi2+/+ (CD45.1ʱCD45.2+) BM chimeric mice were immunized with SRBCs and flow cytometric analysis of B cell responses performed five days later. DT was administrated day -1, day 1, and day 3 after immunization. (A) Left panel shows a representative example of the CD45.1 and CD45.2 staining profile of total splenocytes. Right panels show representative flow cytometric pattern of gated CD45.1+CD45.2+ cells and CD45.1+ for plasma cells (defined as B220lowCD138+) and germinal center cells (defined as  GL7+Fas+). (B) Representative flow cytometric pattern of gated CD45.1+CD45.2+ Ebi2+/+ (upper) or Ebi2-/- (lower) cells. Mean (±SE) frequency of plasma cells and germinal center B cells are indicated next to each gate (n=3 mice). (C) Mixed Ebi2+/+ (CD45.1+) and Ebi2-/- (CD45.1+CD45.2+) BM chimeric mice were immunized with SRBCs and flow cytometric analysis was performed on B cell responses five days after immunization. Mean (±SE) frequency of plasma cells and germinal center B cells (GL7+B220+) are indicated next to each gate (n=4 mice, representative of 3 experiments)."
+    },
+    "annotation_840": {
+      "type": "strong",
+      "id": "annotation_840",
+      "path": [
+        "paragraph_image_fig9",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        6
+      ]
+    },
+    "annotation_841": {
+      "type": "superscript",
+      "id": "annotation_841",
+      "path": [
+        "paragraph_image_fig9",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        35,
+        36
+      ]
+    },
+    "annotation_842": {
+      "type": "superscript",
+      "id": "annotation_842",
+      "path": [
+        "paragraph_image_fig9",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        46,
+        49
+      ]
+    },
+    "annotation_843": {
+      "type": "superscript",
+      "id": "annotation_843",
+      "path": [
+        "paragraph_image_fig9",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        57,
+        60
+      ]
+    },
+    "annotation_844": {
+      "type": "superscript",
+      "id": "annotation_844",
+      "path": [
+        "paragraph_image_fig9",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        75,
+        76
+      ]
+    },
+    "annotation_845": {
+      "type": "strong",
+      "id": "annotation_845",
+      "path": [
+        "paragraph_image_fig9",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        263,
+        266
+      ]
+    },
+    "annotation_846": {
+      "type": "superscript",
+      "id": "annotation_846",
+      "path": [
+        "paragraph_image_fig9",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        445,
+        446
+      ]
+    },
+    "annotation_847": {
+      "type": "superscript",
+      "id": "annotation_847",
+      "path": [
+        "paragraph_image_fig9",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        452,
+        453
+      ]
+    },
+    "annotation_848": {
+      "type": "superscript",
+      "id": "annotation_848",
+      "path": [
+        "paragraph_image_fig9",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        470,
+        471
+      ]
+    },
+    "annotation_849": {
+      "type": "superscript",
+      "id": "annotation_849",
+      "path": [
+        "paragraph_image_fig9",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        505,
+        508
+      ]
+    },
+    "annotation_850": {
+      "type": "superscript",
+      "id": "annotation_850",
+      "path": [
+        "paragraph_image_fig9",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        513,
+        514
+      ]
+    },
+    "annotation_851": {
+      "type": "superscript",
+      "id": "annotation_851",
+      "path": [
+        "paragraph_image_fig9",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        558,
+        559
+      ]
+    },
+    "annotation_852": {
+      "type": "superscript",
+      "id": "annotation_852",
+      "path": [
+        "paragraph_image_fig9",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        562,
+        563
+      ]
+    },
+    "annotation_853": {
+      "type": "strong",
+      "id": "annotation_853",
+      "path": [
+        "paragraph_image_fig9",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        566,
+        569
+      ]
+    },
+    "annotation_854": {
+      "type": "superscript",
+      "id": "annotation_854",
+      "path": [
+        "paragraph_image_fig9",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        624,
+        625
+      ]
+    },
+    "annotation_855": {
+      "type": "superscript",
+      "id": "annotation_855",
+      "path": [
+        "paragraph_image_fig9",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        631,
+        632
+      ]
+    },
+    "annotation_856": {
+      "type": "superscript",
+      "id": "annotation_856",
+      "path": [
+        "paragraph_image_fig9",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        637,
+        640
+      ]
+    },
+    "annotation_857": {
+      "type": "superscript",
+      "id": "annotation_857",
+      "path": [
+        "paragraph_image_fig9",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        656,
+        659
+      ]
+    },
+    "annotation_858": {
+      "type": "strong",
+      "id": "annotation_858",
+      "path": [
+        "paragraph_image_fig9",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        784,
+        787
+      ]
+    },
+    "annotation_859": {
+      "type": "superscript",
+      "id": "annotation_859",
+      "path": [
+        "paragraph_image_fig9",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        798,
+        801
+      ]
+    },
+    "annotation_860": {
+      "type": "superscript",
+      "id": "annotation_860",
+      "path": [
+        "paragraph_image_fig9",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        820,
+        823
+      ]
+    },
+    "annotation_861": {
+      "type": "superscript",
+      "id": "annotation_861",
+      "path": [
+        "paragraph_image_fig9",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        831,
+        832
+      ]
+    },
+    "annotation_862": {
+      "type": "superscript",
+      "id": "annotation_862",
+      "path": [
+        "paragraph_image_fig9",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        838,
+        839
+      ]
+    },
+    "annotation_863": {
+      "type": "superscript",
+      "id": "annotation_863",
+      "path": [
+        "paragraph_image_fig9",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1046,
+        1047
+      ]
+    },
+    "annotation_864": {
+      "type": "superscript",
+      "id": "annotation_864",
+      "path": [
+        "paragraph_image_fig9",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1051,
+        1052
+      ]
+    },
+    "paragraph_865": {
+      "type": "paragraph",
+      "id": "paragraph_865",
+      "content": "However, given the complexity of interpreting this experiment, we felt that these data would distract from the clarity of the experiments using transgenic B cell transfers and we have therefore not included them in the manuscript. Also in relation to this point, we now cite the recent report of Gatto et al., (Nat. Immunol. 2013, advanced online), that includes data showing the endogenous GC response to SRBC is reduced in mice conditionally deficient for EBI2 in CD11c-Cre expressing cells. Since EBI2 is minimally expressed in GC B cells, their data are most consistent with the reduced polyclonal GC B cell response being due to an EBI2 requirement in CD11c+ DCs."
+    },
+    "annotation_866": {
+      "type": "superscript",
+      "id": "annotation_866",
+      "path": [
+        "paragraph_865",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        662,
+        663
+      ]
+    },
+    "paragraph_867": {
+      "type": "paragraph",
+      "id": "paragraph_867",
+      "content": "Given that many recent studies of B cell biology take advantage of Ig-transgenic (or knockin equivalent) mice for their entire analysis, we do not feel that our use of the approach as one part of the present study is out of line with currently accepted practice in the field. It will be valuable in the future to perform studies with mouse models that allow more selective ablation of DCs, such as the recently developed Zbtb46-DTR mice, but such studies would take many months to perform. We hope that the reviewers will agree that further addressing this concern, while valuable in the longer term, is not essential in the context of the current submission."
     }
   }
 }

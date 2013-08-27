@@ -97,7 +97,64 @@
         "paragraph_954",
         "paragraph_958",
         "sub-article",
-        "sub-article"
+        "heading_963",
+        "paragraph_964",
+        "paragraph_966",
+        "paragraph_968",
+        "paragraph_969",
+        "paragraph_970",
+        "paragraph_971",
+        "paragraph_972",
+        "paragraph_973",
+        "paragraph_974",
+        "paragraph_975",
+        "paragraph_976",
+        "paragraph_977",
+        "paragraph_978",
+        "paragraph_979",
+        "paragraph_980",
+        "paragraph_981",
+        "paragraph_982",
+        "paragraph_983",
+        "paragraph_984",
+        "paragraph_985",
+        "paragraph_986",
+        "paragraph_987",
+        "paragraph_988",
+        "paragraph_989",
+        "paragraph_990",
+        "paragraph_991",
+        "sub-article",
+        "heading_992",
+        "paragraph_993",
+        "paragraph_995",
+        "paragraph_996",
+        "paragraph_998",
+        "paragraph_999",
+        "paragraph_1001",
+        "paragraph_1002",
+        "paragraph_1004",
+        "paragraph_1005",
+        "paragraph_1007",
+        "paragraph_1008",
+        "paragraph_1010",
+        "paragraph_1012",
+        "paragraph_1014",
+        "paragraph_1018",
+        "paragraph_1020",
+        "paragraph_1021",
+        "paragraph_1023",
+        "paragraph_1024",
+        "paragraph_1026",
+        "paragraph_1027",
+        "paragraph_1029",
+        "paragraph_1030",
+        "paragraph_1032",
+        "paragraph_1034",
+        "paragraph_1036",
+        "paragraph_1038",
+        "paragraph_1045",
+        "paragraph_1047"
       ]
     },
     "figures": {
@@ -335,7 +392,7 @@
     "paragraph_2": {
       "type": "paragraph",
       "id": "paragraph_2",
-      "content": "This is an open-access article, free of all copyright, and may be freely reproduced, distributed, transmitted, modified, built upon, or otherwise used by anyone for any lawful purpose. The work is made available under the Creative Commons CC0 public domain dedication.10.7554/eLife.00311.001"
+      "content": "This is an open-access article, free of all copyright, and may be freely reproduced, distributed, transmitted, modified, built upon, or otherwise used by anyone for any lawful purpose. The work is made available under the Creative Commons CC0 public domain dedication."
     },
     "annotation_3": {
       "type": "link",
@@ -405,7 +462,7 @@
     "paragraph_8": {
       "type": "paragraph",
       "id": "paragraph_8",
-      "content": "DOI: http://dx.doi.org/10.7554/eLife.00311.00110.7554/eLife.00311.002"
+      "content": "DOI: http://dx.doi.org/10.7554/eLife.00311.001"
     },
     "annotation_9": {
       "type": "strong",
@@ -13461,7 +13518,7 @@
       "citation_url": [],
       "format": "other",
       "editors": [],
-      "comment": "BUSTER, version 2.8.0. Retrieved from about:home"
+      "comment": "undefined[object Object]"
     },
     "article_citation_bib10": {
       "type": "article_citation",
@@ -15121,6 +15178,661 @@
       "level": 1,
       "content": "Article Commentary",
       "nodes": []
+    },
+    "heading_963": {
+      "type": "heading",
+      "id": "heading_963",
+      "level": 2,
+      "content": "Decision letter",
+      "nodes": []
+    },
+    "paragraph_964": {
+      "type": "paragraph",
+      "id": "paragraph_964",
+      "content": "eLife posts the editorial decision letter and author response on a selection of the published articles (subject to the approval of the authors). An edited version of the letter sent to the authors after peer review is shown, indicating the substantive concerns or comments; minor concerns are not usually shown. Reviewers have the opportunity to discuss the decision before the letter is sent (see review process). Similarly, the author response typically shows only responses to the major concerns raised by the reviewers."
+    },
+    "annotation_965": {
+      "type": "link",
+      "id": "annotation_965",
+      "path": [
+        "paragraph_964",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        398,
+        412
+      ],
+      "url": "http://www.elifesciences.org/the-journal/review-process"
+    },
+    "paragraph_966": {
+      "type": "paragraph",
+      "id": "paragraph_966",
+      "content": "Thank you for choosing to send your work entitled “Modelling dynamics in protein crystal structures by ensemble refinement” for consideration at eLife. Your article has been evaluated by a Senior Editor and 3 reviewers, one of whom is a member of our Board of Reviewing Editors. The following individuals responsible for the peer review of your submission want to reveal their identity: Phil Evans."
+    },
+    "annotation_967": {
+      "type": "emphasis",
+      "id": "annotation_967",
+      "path": [
+        "paragraph_966",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        145,
+        150
+      ]
+    },
+    "paragraph_968": {
+      "type": "paragraph",
+      "id": "paragraph_968",
+      "content": "We are pleased to report that the review of the paper has been favorable, and we invite you to revise the paper by taking into consideration the points made below."
+    },
+    "paragraph_969": {
+      "type": "paragraph",
+      "id": "paragraph_969",
+      "content": "General assessment: This paper describes a greatly improved version of time-averaging ensemble refinement that was originally developed by Gros et al., 1990. Subsequent works suggested that over-fitting may occur and it was recognized that the choice of B-factor model is very important for the success of time-average multi-conformer refinement. The current work now dramatically improves the situation by using a B-factor model that is derived from the TLS description of the single conformer isotropic B-factors. The initial implementation was requiring the dynamics simulation to model not only the local atomic fluctuations but also the effect of large-scale lattice vibrations and crystal packing defects. Taking out the large-scale effects (by modeling them with a TLS parameterization) has been crucial, and the authors show convincingly that there is no longer a problem with over-fitting. More importantly, they show that the dynamic behavior implied by the simulation correlates with other physical evidence and provides biologically relevant insights into protein function."
+    },
+    "paragraph_970": {
+      "type": "paragraph",
+      "id": "paragraph_970",
+      "content": "The new improved time-averaging method has then been tested on a set of crystal structures. Significant improvements in Rfree are reported. Specific examples illustrate the power of the method to identify sidechain motion and solvent features. Since the new improved time-averaging refinement method is now more robust than the earlier implementations, it could become a routine tool for the final refinement of macromolecular crystal structures. As such, it will then raise awareness that crystal structures are not static, but rather represent time and spatial averages. In fact, in the examples there are some surprises, of internal regions that show more flexibility than would be expected, and this is likely to have functional consequences. Thus exploring dynamics by this method may indeed produce important biological insights, at least in some cases."
+    },
+    "paragraph_971": {
+      "type": "paragraph",
+      "id": "paragraph_971",
+      "content": "Highlights:"
+    },
+    "paragraph_972": {
+      "type": "paragraph",
+      "id": "paragraph_972",
+      "content": "* separation of global domain disorder from local fluctuation"
+    },
+    "paragraph_973": {
+      "type": "paragraph",
+      "id": "paragraph_973",
+      "content": "* validation by comparison for a case with highly accurate MAD phases"
+    },
+    "paragraph_974": {
+      "type": "paragraph",
+      "id": "paragraph_974",
+      "content": "* agreement with NMR relaxation studies for two cases"
+    },
+    "paragraph_975": {
+      "type": "paragraph",
+      "id": "paragraph_975",
+      "content": "* discovery of flexible interior residues for some proteins"
+    },
+    "paragraph_976": {
+      "type": "paragraph",
+      "id": "paragraph_976",
+      "content": "Points to consider in the revisions:"
+    },
+    "paragraph_977": {
+      "type": "paragraph",
+      "id": "paragraph_977",
+      "content": "1. The final description of the structure as an ensemble does involve many more (non-independent) parameters than a single description, and particularly needs in essence more parameters to describe poorly ordered regions, which are the least well determined from the data. This has always been the worry about ensemble methods. The approach described here is conservative and controlled, but nevertheless is open to this criticism. It would nice to have an explicit discussion on this point."
+    },
+    "paragraph_978": {
+      "type": "paragraph",
+      "id": "paragraph_978",
+      "content": "2. In the opinion of the authors, is this a method and structure description that should be generally used? In relation to point 1, what are the dangers if the method is used by people who are less careful than the present authors?"
+    },
+    "paragraph_979": {
+      "type": "paragraph",
+      "id": "paragraph_979",
+      "content": "3. It is stated that restricting “the number of structures modeled … thereby prevents over-fitting of the data”. It should be mentioned here that the 1990 work required a long relaxation time (up to 40ps) to model all the motion including that now modeled by TLS, but that the new implementation uses much smaller relaxation times (usually less than 1ps), and thus many fewer structures contribute to the running average."
+    },
+    "paragraph_980": {
+      "type": "paragraph",
+      "id": "paragraph_980",
+      "content": "4. A number of test cases are examined for the physical and biological relevance of the dynamics. It is probably not coincidental that the most interesting cases are biased towards the ones with higher resolution data. Although interesting features are seen with resolutions as low as 2.6 Angstrom, it might be worth pointing out that, because of the correlation between resolution and the number of structures that can be allowed in the ensemble average (Figure 1D), there is more potential for observing interesting features at higher resolution."
+    },
+    "paragraph_981": {
+      "type": "paragraph",
+      "id": "paragraph_981",
+      "content": "5. The discussion implies that statistics can be drawn from averaging results from several blocks each containing about 250 structures. That makes sense, since Figure 2C presents averages from more than 1,000 structures. However, a later section implies that only one acquisition period is selected for analysis. The apparent contradiction should be clarified. On this point, is there objective evidence that choosing a time block with the lowest R(work) really gives the best model? As Ian Tickle has shown, R-factors are subject to statistical error. It should not be difficult to analyze the data from the mannose-binding protein (1YTT) to see whether time blocks with low R(work) actually show the highest correlation to maps computed with experimental phases."
+    },
+    "paragraph_982": {
+      "type": "paragraph",
+      "id": "paragraph_982",
+      "content": "6. Figures 1C and 1D show a very clear trend, which the authors do not seem to comment on. The number of observations per parameter scales as 1/d(min)^3, and it seems reasonable to expect that the optimal number of structures in the ensemble average would scale in the same way because the number of parameters can be increased in line with the number of observations. Indeed, the data in Figure 1D would not fit badly to a curve described by something like 600/d(min)^3. In order for a proportional number of structures to be consulted during the ensemble averaging process, the relaxation time should also scale proportional to 1/d(min)^3, which is roughly what is seen in Figure 1C. So it looks like a very good guess of an optimal relaxation time and optimal number of structures to average could be made from just knowing the resolution."
+    },
+    "paragraph_983": {
+      "type": "paragraph",
+      "id": "paragraph_983",
+      "content": "7. Cross-validation (R_free) was used to determine the optimum relaxation time tau_x (which determines the size of the ensemble), as well as p_TLS, T_bath, and w_xray. The optimum values of tau_x are shown in Figure 1c. However, the optimum values of the other adjustable parameters should be shown as well for all cases to get a sense for the variation of these parameters for different systems."
+    },
+    "paragraph_984": {
+      "type": "paragraph",
+      "id": "paragraph_984",
+      "content": "8. Some representation (e.g., 2D contour plots) of the variation of R_free with adjustable parameters should be provided for one case (e.g., for the case with the largest improvement, 1UOY)."
+    },
+    "paragraph_985": {
+      "type": "paragraph",
+      "id": "paragraph_985",
+      "content": "9. Figure 2 (1UOY): interesting case, but why is the improvement (∼ 5% in Rfree) so good compared to some of the other cases? Can this be explained?"
+    },
+    "paragraph_986": {
+      "type": "paragraph",
+      "id": "paragraph_986",
+      "content": "10. For 1YTT, the improvement for the map correlation coefficient 0.895 (single conformer) to 0.903 (ensemble), and the corresponding improvement in R_free (0.014) seems small but the structures and maps (Figure 3C, D) show significant local improvements. This should be made clearer in the text, i.e., the seemingly small improvements in overall quality indicators may allow for significant local improvements. Perhaps a real space correlation plot could provide a further illustration of the improvement upon multi-conformer refinement."
+    },
+    "paragraph_987": {
+      "type": "paragraph",
+      "id": "paragraph_987",
+      "content": "11. “Similar to Brunger, the R_free and w_xray correlated with stereochemical quality… ”. This statement is unclear. R_free is not always correlated with w_xray. The weaker w_xray, the tighter geometry one would expect but with increasing R_free. Perhaps the correlation between R_free and model quality could be shown for the ensemble refinements performed?"
+    },
+    "paragraph_988": {
+      "type": "paragraph",
+      "id": "paragraph_988",
+      "content": "12. Figures 7D and 8, the proline isomerase cyclophilin A, CypA. Please provide a plot with the ensemble variability (rmsd), NMR relaxation parameters (Figure 2 in Eisenmesser et al, Science, 2002), and the ADP as a function of residue. Such a plot would be an independent validation of the method by comparison to solution data, and it would also illustrate that the method goes beyond single conformer individual ADP refinement."
+    },
+    "paragraph_989": {
+      "type": "paragraph",
+      "id": "paragraph_989",
+      "content": "13. Similar for case shown in Figure 9 (2PC0), detailed comparison with NMR data (if they are readily available) and comparison to single conformer ADP refinement."
+    },
+    "paragraph_990": {
+      "type": "paragraph",
+      "id": "paragraph_990",
+      "content": "14. Equation 5 is the likelihood function for acentric reflections, not centric reflections. Also in equations 5–7, the notation implies that the calculated structure factors are the instantaneous ones, whereas they should be the rolling averages."
+    },
+    "paragraph_991": {
+      "type": "paragraph",
+      "id": "paragraph_991",
+      "content": "15. In equation 4, the bulk solvent mask excludes the explicit water molecules, i.e., the explicit water molecules are considered part of the model, correct?10.7554/eLife.00311.029"
+    },
+    "heading_992": {
+      "type": "heading",
+      "id": "heading_992",
+      "level": 2,
+      "content": "Author response",
+      "nodes": []
+    },
+    "paragraph_993": {
+      "type": "paragraph",
+      "id": "paragraph_993",
+      "content": "1. The final description of the structure as an ensemble does involve many more (non-independent) parameters than a single description, and particularly needs in essence more parameters to describe poorly ordered regions, which are the least well determined from the data. This has always been the worry about ensemble methods. The approach described here is conservative and controlled, but nevertheless is open to this criticism. It would nice to have an explicit discussion on this point."
+    },
+    "annotation_994": {
+      "type": "emphasis",
+      "id": "annotation_994",
+      "path": [
+        "paragraph_993",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        490
+      ]
+    },
+    "paragraph_995": {
+      "type": "paragraph",
+      "id": "paragraph_995",
+      "content": "We discuss that the number of independent parameters in the ensemble model is ill defined. However, the Rfree improvement and the very high local correlations between independent runs indicate that ensemble refinement yields reliable models."
+    },
+    "paragraph_996": {
+      "type": "paragraph",
+      "id": "paragraph_996",
+      "content": "2. In the opinion of the authors, is this a method and structure description that should be generally used? In relation to point 1, what are the dangers if the method is used by people who are less careful than the present authors?"
+    },
+    "annotation_997": {
+      "type": "emphasis",
+      "id": "annotation_997",
+      "path": [
+        "paragraph_996",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        230
+      ]
+    },
+    "paragraph_998": {
+      "type": "paragraph",
+      "id": "paragraph_998",
+      "content": "We show that the method markedly improves Rfree for a range of datasets with upper resolution limits from 1.5 to 2.6 Å resolution. It is rather difficult for us to judge what the dangers might be when used by people who are not careful. We will provide our protocols with the release of the method in the Phenix package. We find two measures very informative: the improvement in Rfree and the local correlation between independent runs. For regions with low local correlation (as for highly disordered regions), detailed structural interpretations are not valid."
+    },
+    "paragraph_999": {
+      "type": "paragraph",
+      "id": "paragraph_999",
+      "content": "3. It is stated that restricting “the number of structures modeled … thereby prevents over-fitting of the data”. It should be mentioned here that the 1990 work required a long relaxation time (up to 40ps) to model all the motion including that now modeled by TLS, but that the new implementation uses much smaller relaxation times (usually less than 1ps), and thus many fewer structures contribute to the running average."
+    },
+    "annotation_1000": {
+      "type": "emphasis",
+      "id": "annotation_1000",
+      "path": [
+        "paragraph_999",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        420
+      ]
+    },
+    "paragraph_1001": {
+      "type": "paragraph",
+      "id": "paragraph_1001",
+      "content": "We have included the differences between the original and current work."
+    },
+    "paragraph_1002": {
+      "type": "paragraph",
+      "id": "paragraph_1002",
+      "content": "4. A number of test cases are examined for the physical and biological relevance of the dynamics. It is probably not coincidental that the most interesting cases are biased towards the ones with higher resolution data. Although interesting features are seen with resolutions as low as 2.6 Angstrom, it might be worth pointing out that, because of the correlation between resolution and the number of structures that can be allowed in the ensemble average (Figure 1D), there is more potential for observing interesting features at higher resolution."
+    },
+    "annotation_1003": {
+      "type": "emphasis",
+      "id": "annotation_1003",
+      "path": [
+        "paragraph_1002",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        547
+      ]
+    },
+    "paragraph_1004": {
+      "type": "paragraph",
+      "id": "paragraph_1004",
+      "content": "We implicitly addressed this issue by discussing the very high local correlations observed at high resolution versus the lower local correlation observed at lower resolution, and for highly disordered loops."
+    },
+    "paragraph_1005": {
+      "type": "paragraph",
+      "id": "paragraph_1005",
+      "content": "5. The discussion implies that statistics can be drawn from averaging results from several blocks each containing about 250 structures. That makes sense, since Figure 2C presents averages from more than 1,000 structures. However, a later section implies that only one acquisition period is selected for analysis. The apparent contradiction should be clarified. On this point, is there objective evidence that choosing a time block with the lowest R(work) really gives the best model? As Ian Tickle has shown, R-factors are subject to statistical error. It should not be difficult to analyze the data from the mannose-binding protein (1YTT) to see whether time blocks with low R(work) actually show the highest correlation to maps computed with experimental phases."
+    },
+    "annotation_1006": {
+      "type": "emphasis",
+      "id": "annotation_1006",
+      "path": [
+        "paragraph_1005",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        763
+      ]
+    },
+    "paragraph_1007": {
+      "type": "paragraph",
+      "id": "paragraph_1007",
+      "content": "The apparent contradiction was removed. For the 1YTT dataset we show a strong correlation between the R values of the selected block and the overall map correlation coefficient (see Figure 11)."
+    },
+    "paragraph_1008": {
+      "type": "paragraph",
+      "id": "paragraph_1008",
+      "content": "6. Figures 1C and 1D show a very clear trend, which the authors do not seem to comment on. The number of observations per parameter scales as 1/d(min)^3, and it seems reasonable to expect that the optimal number of structures in the ensemble average would scale in the same way because the number of parameters can be increased in line with the number of observations. Indeed, the data in Figure 1D would not fit badly to a curve described by something like 600/d(min)^3. In order for a proportional number of structures to be consulted during the ensemble averaging process, the relaxation time should also scale proportional to 1/d(min)^3, which is roughly what is seen in Figure 1C. So it looks like a very good guess of an optimal relaxation time and optimal number of structures to average could be made from just knowing the resolution."
+    },
+    "annotation_1009": {
+      "type": "emphasis",
+      "id": "annotation_1009",
+      "path": [
+        "paragraph_1008",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        841
+      ]
+    },
+    "paragraph_1010": {
+      "type": "paragraph",
+      "id": "paragraph_1010",
+      "content": "We agree that there is a trend between resolution and the relaxation time (τx). However, at this moment, given the limited number of datasets, we refrain from suggesting fixed limits in the parameterization of the relaxation time and currently still advise testing multiple parameters for optimum results. Future work may lead to a more deterministic parameterization."
+    },
+    "annotation_1011": {
+      "type": "subscript",
+      "id": "annotation_1011",
+      "path": [
+        "paragraph_1010",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        76,
+        77
+      ]
+    },
+    "paragraph_1012": {
+      "type": "paragraph",
+      "id": "paragraph_1012",
+      "content": "7. Cross-validation (R_free) was used to determine the optimum relaxation time tau_x (which determines the size of the ensemble), as well as p_TLS, T_bath, and w_xray. The optimum values of tau_x are shown in Figure 1c. However, the optimum values of the other adjustable parameters should be shown as well for all cases to get a sense for the variation of these parameters for different systems."
+    },
+    "annotation_1013": {
+      "type": "emphasis",
+      "id": "annotation_1013",
+      "path": [
+        "paragraph_1012",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        395
+      ]
+    },
+    "paragraph_1014": {
+      "type": "paragraph",
+      "id": "paragraph_1014",
+      "content": "As requested this information is now included in Figure 1. We note in the main text that pTLS and Tbath do not correlate with resolution, whereas τx tends to correlate with resolution."
+    },
+    "annotation_1015": {
+      "type": "subscript",
+      "id": "annotation_1015",
+      "path": [
+        "paragraph_1014",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        90,
+        93
+      ]
+    },
+    "annotation_1016": {
+      "type": "subscript",
+      "id": "annotation_1016",
+      "path": [
+        "paragraph_1014",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        99,
+        103
+      ]
+    },
+    "annotation_1017": {
+      "type": "subscript",
+      "id": "annotation_1017",
+      "path": [
+        "paragraph_1014",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        147,
+        148
+      ]
+    },
+    "paragraph_1018": {
+      "type": "paragraph",
+      "id": "paragraph_1018",
+      "content": "8. Some representation (e.g., 2D contour plots) of the variation of R_free with adjustable parameters should be provided for one case (e.g., for the case with the largest improvement, 1UOY)."
+    },
+    "annotation_1019": {
+      "type": "emphasis",
+      "id": "annotation_1019",
+      "path": [
+        "paragraph_1018",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        189
+      ]
+    },
+    "paragraph_1020": {
+      "type": "paragraph",
+      "id": "paragraph_1020",
+      "content": "These have now been provided."
+    },
+    "paragraph_1021": {
+      "type": "paragraph",
+      "id": "paragraph_1021",
+      "content": "9. Figure 2 (1UOY): interesting case, but why is the improvement (∼ 5% in Rfree) so good compared to some of the other cases? Can this be explained?"
+    },
+    "annotation_1022": {
+      "type": "emphasis",
+      "id": "annotation_1022",
+      "path": [
+        "paragraph_1021",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        147
+      ]
+    },
+    "paragraph_1023": {
+      "type": "paragraph",
+      "id": "paragraph_1023",
+      "content": "1UOY exhibits a large degree of anisotropic and anharmonic side chain motion that may explain the magnitude of observed improvements. We have added a comment to the text accordingly."
+    },
+    "paragraph_1024": {
+      "type": "paragraph",
+      "id": "paragraph_1024",
+      "content": "10. For 1YTT, the improvement for the map correlation coefficient 0.895 (single conformer) to 0.903 (ensemble), and the corresponding improvement in R_free (0.014) seems small but the structures and maps (Figure 3C, D) show significant local improvements. This should be made clearer in the text, i.e., the seemingly small improvements in overall quality indicators may allow for significant local improvements. Perhaps a real space correlation plot could provide a further illustration of the improvement upon multi-conformer refinement."
+    },
+    "annotation_1025": {
+      "type": "emphasis",
+      "id": "annotation_1025",
+      "path": [
+        "paragraph_1024",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        537
+      ]
+    },
+    "paragraph_1026": {
+      "type": "paragraph",
+      "id": "paragraph_1026",
+      "content": "We have amended the text as suggested. Figure 3 shows the real-space correlation plot of the ensemble model versus the experimentally phased map."
+    },
+    "paragraph_1027": {
+      "type": "paragraph",
+      "id": "paragraph_1027",
+      "content": "11. “Similar to Brunger, the R_free and w_xray correlated with stereochemical quality… ”. This statement is unclear. R_free is not always correlated with w_xray. The weaker w_xray, the tighter geometry one would expect but with increasing R_free. Perhaps the correlation between R_free and model quality could be shown for the ensemble refinements performed?"
+    },
+    "annotation_1028": {
+      "type": "emphasis",
+      "id": "annotation_1028",
+      "path": [
+        "paragraph_1027",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        357
+      ]
+    },
+    "paragraph_1029": {
+      "type": "paragraph",
+      "id": "paragraph_1029",
+      "content": "A figure has been added pointing out the relationship between best R_free versus w_xray and stereochemistry."
+    },
+    "paragraph_1030": {
+      "type": "paragraph",
+      "id": "paragraph_1030",
+      "content": "12. Figures 7D and 8, the proline isomerase cyclophilin A, CypA. Please provide a plot with the ensemble variability (rmsd), NMR relaxation parameters (Figure 2 in Eisenmesser et al, Science, 2002), and the ADP as a function of residue. Such a plot would be an independent validation of the method by comparison to solution data, and it would also illustrate that the method goes beyond single conformer individual ADP refinement."
+    },
+    "annotation_1031": {
+      "type": "emphasis",
+      "id": "annotation_1031",
+      "path": [
+        "paragraph_1030",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        429
+      ]
+    },
+    "paragraph_1032": {
+      "type": "paragraph",
+      "id": "paragraph_1032",
+      "content": "13. Similar for case shown in Figure 9 (2PC0), detailed comparison with NMR data (if they are readily available) and comparison to single conformer ADP refinement."
+    },
+    "annotation_1033": {
+      "type": "emphasis",
+      "id": "annotation_1033",
+      "path": [
+        "paragraph_1032",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        162
+      ]
+    },
+    "paragraph_1034": {
+      "type": "paragraph",
+      "id": "paragraph_1034",
+      "content": "Re 12&13, in the 2002 manuscript by Eisenmesser et al. the NMR relaxation data is not tabulated. Unfortunately neither proteins are listed in the BMRB database (http://www.bmrb.wisc.edu/search/query_grid/kinetic_grid.html)."
+    },
+    "annotation_1035": {
+      "type": "link",
+      "id": "annotation_1035",
+      "path": [
+        "paragraph_1034",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        161,
+        221
+      ],
+      "url": "http://www.bmrb.wisc.edu/search/query_grid/kinetic_grid.html"
+    },
+    "paragraph_1036": {
+      "type": "paragraph",
+      "id": "paragraph_1036",
+      "content": "14. Equation 5 is the likelihood function for acentric reflections, not centric reflections. Also in equations 5–7, the notation implies that the calculated structure factors are the instantaneous ones, whereas they should be the rolling averages."
+    },
+    "annotation_1037": {
+      "type": "emphasis",
+      "id": "annotation_1037",
+      "path": [
+        "paragraph_1036",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        246
+      ]
+    },
+    "paragraph_1038": {
+      "type": "paragraph",
+      "id": "paragraph_1038",
+      "content": "The text has been corrected; the equation shown exemplifies the general case of acentric reflections. We define Fmodel as a function of rolling averages <Fcalc> and <Fmask>; see equation 2. This choice simplifies the nomenclature when describing map coefficients."
+    },
+    "annotation_1039": {
+      "type": "strong",
+      "id": "annotation_1039",
+      "path": [
+        "paragraph_1038",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        112,
+        113
+      ]
+    },
+    "annotation_1040": {
+      "type": "subscript",
+      "id": "annotation_1040",
+      "path": [
+        "paragraph_1038",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        113,
+        118
+      ]
+    },
+    "annotation_1041": {
+      "type": "strong",
+      "id": "annotation_1041",
+      "path": [
+        "paragraph_1038",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        154,
+        155
+      ]
+    },
+    "annotation_1042": {
+      "type": "subscript",
+      "id": "annotation_1042",
+      "path": [
+        "paragraph_1038",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        155,
+        159
+      ]
+    },
+    "annotation_1043": {
+      "type": "strong",
+      "id": "annotation_1043",
+      "path": [
+        "paragraph_1038",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        166,
+        167
+      ]
+    },
+    "annotation_1044": {
+      "type": "subscript",
+      "id": "annotation_1044",
+      "path": [
+        "paragraph_1038",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        167,
+        171
+      ]
+    },
+    "paragraph_1045": {
+      "type": "paragraph",
+      "id": "paragraph_1045",
+      "content": "15. In equation 4, the bulk solvent mask excludes the explicit water molecules, i.e., the explicit water molecules are considered part of the model, correct?"
+    },
+    "annotation_1046": {
+      "type": "emphasis",
+      "id": "annotation_1046",
+      "path": [
+        "paragraph_1045",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        156
+      ]
+    },
+    "paragraph_1047": {
+      "type": "paragraph",
+      "id": "paragraph_1047",
+      "content": "This is correct. We now state this explicitly."
     }
   }
 }

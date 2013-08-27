@@ -71,7 +71,18 @@
         "heading_s4-7",
         "paragraph_256",
         "sub-article",
-        "sub-article"
+        "heading_267",
+        "paragraph_268",
+        "paragraph_270",
+        "paragraph_273",
+        "paragraph_274",
+        "paragraph_275",
+        "paragraph_276",
+        "paragraph_277",
+        "paragraph_278",
+        "sub-article",
+        "heading_279",
+        "paragraph_280"
       ]
     },
     "figures": {
@@ -249,7 +260,7 @@
     "paragraph_2": {
       "type": "paragraph",
       "id": "paragraph_2",
-      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited.10.7554/eLife.00173.001"
+      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited."
     },
     "annotation_3": {
       "type": "link",
@@ -280,7 +291,7 @@
     "paragraph_5": {
       "type": "paragraph",
       "id": "paragraph_5",
-      "content": "DOI: http://dx.doi.org/10.7554/eLife.00173.00110.7554/eLife.00173.002"
+      "content": "DOI: http://dx.doi.org/10.7554/eLife.00173.001"
     },
     "annotation_6": {
       "type": "strong",
@@ -5185,6 +5196,131 @@
       "level": 1,
       "content": "Article Commentary",
       "nodes": []
+    },
+    "heading_267": {
+      "type": "heading",
+      "id": "heading_267",
+      "level": 2,
+      "content": "Decision letter",
+      "nodes": []
+    },
+    "paragraph_268": {
+      "type": "paragraph",
+      "id": "paragraph_268",
+      "content": "eLife posts the editorial decision letter and author response on a selection of the published articles (subject to the approval of the authors). An edited version of the letter sent to the authors after peer review is shown, indicating the substantive concerns or comments; minor concerns are not usually shown. Reviewers have the opportunity to discuss the decision before the letter is sent (see review process). Similarly, the author response typically shows only responses to the major concerns raised by the reviewers."
+    },
+    "annotation_269": {
+      "type": "link",
+      "id": "annotation_269",
+      "path": [
+        "paragraph_268",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        398,
+        412
+      ],
+      "url": "http://www.elifesciences.org/the-journal/review-process"
+    },
+    "paragraph_270": {
+      "type": "paragraph",
+      "id": "paragraph_270",
+      "content": "Thank you for choosing to send your work entitled “Membrane immersion allows rhomboid proteases to achieve specificity by reading transmembrane segment dynamics” for consideration at eLife. Your article has been evaluated by a Senior Editor and 2 reviewers, one of whom is a member of eLife's Board of Reviewing Editors (Christopher T Walsh)."
+    },
+    "annotation_271": {
+      "type": "emphasis",
+      "id": "annotation_271",
+      "path": [
+        "paragraph_270",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        183,
+        188
+      ]
+    },
+    "annotation_272": {
+      "type": "emphasis",
+      "id": "annotation_272",
+      "path": [
+        "paragraph_270",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        285,
+        290
+      ]
+    },
+    "paragraph_273": {
+      "type": "paragraph",
+      "id": "paragraph_273",
+      "content": "The Reviewing Editor and the other reviewer discussed their comments before we reached this decision, and the Reviewing Editor has assembled the following comments based on the reviewers' reports."
+    },
+    "paragraph_274": {
+      "type": "paragraph",
+      "id": "paragraph_274",
+      "content": "There are no substantive issues other than the request for further discussion of the turn propensity algorithm noted below. The manuscript by Moin and Urban evaluates the basis of specificity of the transmembrane proteases of the rhomboid family, and comes to the conclusion that protein/peptide substrates, with helical regions that can undergo cleavage, have intrinsically destabilized helical regions that can sample unfolded conformations and partition from the membrane phase into the active site of the rhomboid protease."
+    },
+    "paragraph_275": {
+      "type": "paragraph",
+      "id": "paragraph_275",
+      "content": "Key findings include: cleavage site specificity is shifted in detergent micelles vs proteoliposomes (the membrane directs the position of cleavage and restricts substrate specificity); and the membrane confers site-specificity by restricting gate dynamics; transmembrane dynamics, not sequence binding, position substrate in active site (in fact increasing TM dynamics converts non-substrate into substrate for rhomboid protease). The bottom line is that the membrane provides rhomboid proteases with the ability to identify substrates based primarily on their intrinsic TM dynamics."
+    },
+    "paragraph_276": {
+      "type": "paragraph",
+      "id": "paragraph_276",
+      "content": "The argument for selectivity then is less about how a peptide substrate fits into the protease active site but rather dynamic sampling of an unfolded conformation that can partition into the enzyme. Clear cut results on change of cleavage sites, on different amounts of helices by CD, on distinct states between micelles and proteoliposomes and form helix-breaking proline mutations support the conclusion for this class of TM proteases."
+    },
+    "paragraph_277": {
+      "type": "paragraph",
+      "id": "paragraph_277",
+      "content": "The authors argue that a “turn propensity scale” is predictive. It would be helpful to have expanded discussion of that algorithm."
+    },
+    "paragraph_278": {
+      "type": "paragraph",
+      "id": "paragraph_278",
+      "content": "Overall the manuscript is well written; the findings are intriguing and have broad scientific interest.10.7554/eLife.00173.018"
+    },
+    "heading_279": {
+      "type": "heading",
+      "id": "heading_279",
+      "level": 2,
+      "content": "Author response",
+      "nodes": []
+    },
+    "paragraph_280": {
+      "type": "paragraph",
+      "id": "paragraph_280",
+      "content": "As requested, we have expanded our discussion of the predictive nature of the turn propensity scale (4th paragraph of the revised Discussion and a dedicated section in the Materials & Methods). This is an exciting topic for further study, and we have been careful to present a balanced description. On the one hand, we describe how we calculated the values (in the Materials & Methods) and point out, as noted by the Reviewers, that with such a high correlation it is likely to have predictive value as a tool for finding new rhomboid protease substrates. On the other hand, we caution that our correlation is based on a difference calculated between two substrates that are identical except at only 1 or 2 positions. As such, the relative changes in ‘turn propensity’ are highly controlled. A challenge described by the ‘turn propensity’ authors is that the propensity of the same residue differs when it is placed in transmembrane segments of different length, of differing sequence context, and depending on precisely where the residue is placed. As such, using the ‘turn propensity’ scale as an absolute value to predict rhomboid substrates from natural transmembrane sequences could prove to be challenging. Nevertheless, experimental refinement of the scale with rhomboid proteases directly is likely to improve its predictive accuracy even further."
+    },
+    "annotation_281": {
+      "type": "emphasis",
+      "id": "annotation_281",
+      "path": [
+        "paragraph_280",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        740,
+        747
+      ]
+    },
+    "annotation_282": {
+      "type": "emphasis",
+      "id": "annotation_282",
+      "path": [
+        "paragraph_280",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1099,
+        1107
+      ]
     }
   }
 }

@@ -80,7 +80,33 @@
         "heading_s4-15",
         "paragraph_390",
         "sub-article",
-        "sub-article"
+        "heading_410",
+        "paragraph_411",
+        "paragraph_413",
+        "paragraph_416",
+        "paragraph_417",
+        "paragraph_418",
+        "paragraph_419",
+        "paragraph_420",
+        "paragraph_421",
+        "paragraph_422",
+        "paragraph_423",
+        "paragraph_424",
+        "paragraph_426",
+        "sub-article",
+        "heading_427",
+        "paragraph_428",
+        "paragraph_430",
+        "paragraph_431",
+        "paragraph_433",
+        "paragraph_435",
+        "paragraph_436",
+        "paragraph_438",
+        "paragraph_440",
+        "paragraph_441",
+        "paragraph_444",
+        "paragraph_447",
+        "paragraph_449"
       ]
     },
     "figures": {
@@ -104,7 +130,10 @@
         "image_fig4s2",
         "image_fig4s3",
         "image_fig4s4",
-        "supplement_SD1_data"
+        "supplement_SD1_data",
+        "table_tbl1",
+        "image_fig5",
+        "image_fig6"
       ]
     },
     "citations": {
@@ -579,7 +608,7 @@
     "paragraph_3": {
       "type": "paragraph",
       "id": "paragraph_3",
-      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited.10.7554/eLife.00675.001"
+      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited."
     },
     "annotation_4": {
       "type": "link",
@@ -610,7 +639,7 @@
     "paragraph_6": {
       "type": "paragraph",
       "id": "paragraph_6",
-      "content": "DOI: http://dx.doi.org/10.7554/eLife.00675.00110.7554/eLife.00675.002"
+      "content": "DOI: http://dx.doi.org/10.7554/eLife.00675.001"
     },
     "annotation_7": {
       "type": "strong",
@@ -8532,6 +8561,356 @@
       "level": 1,
       "content": "Article Commentary",
       "nodes": []
+    },
+    "heading_410": {
+      "type": "heading",
+      "id": "heading_410",
+      "level": 2,
+      "content": "Decision letter",
+      "nodes": []
+    },
+    "paragraph_411": {
+      "type": "paragraph",
+      "id": "paragraph_411",
+      "content": "eLife posts the editorial decision letter and author response on a selection of the published articles (subject to the approval of the authors). An edited version of the letter sent to the authors after peer review is shown, indicating the substantive concerns or comments; minor concerns are not usually shown. Reviewers have the opportunity to discuss the decision before the letter is sent (see review process). Similarly, the author response typically shows only responses to the major concerns raised by the reviewers."
+    },
+    "annotation_412": {
+      "type": "link",
+      "id": "annotation_412",
+      "path": [
+        "paragraph_411",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        398,
+        412
+      ],
+      "url": "http://www.elifesciences.org/the-journal/review-process"
+    },
+    "paragraph_413": {
+      "type": "paragraph",
+      "id": "paragraph_413",
+      "content": "Thank you for sending your work entitled “Temporal transcriptional response to ethylene gas drives growth hormone cross-regulation in Arabidopsis” for consideration at eLife. Your article has been favorably reviewed by Detlef Weigel (eLife Deputy Editor) and an outside peer reviewer. Both discussed their comments and the following reflects their combined assessment of your work."
+    },
+    "annotation_414": {
+      "type": "emphasis",
+      "id": "annotation_414",
+      "path": [
+        "paragraph_413",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        168,
+        173
+      ]
+    },
+    "annotation_415": {
+      "type": "emphasis",
+      "id": "annotation_415",
+      "path": [
+        "paragraph_413",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        234,
+        239
+      ]
+    },
+    "paragraph_416": {
+      "type": "paragraph",
+      "id": "paragraph_416",
+      "content": "The manuscript by Chang et al. greatly advances our understanding of how the effects of the plant hormone ethylene are mediated at the molecular level. The authors present a coordinated analysis of transcriptional changes and genome-wide binding of the key transcription factor EIN3 (which accumulates upon ethylene treatment and which is both necessary and sufficient for most ethylene responses) during a time course after addition of ethylene. There are very few reports in the literature tracking genome-wide transcription factor binding after a stimulus, and the integration with gene expression measurements greatly increases the inferences that can be drawn from the genome-wide DNA binding studies. This tour de force will set a new bar for the analysis of transcription factor networks."
+    },
+    "paragraph_417": {
+      "type": "paragraph",
+      "id": "paragraph_417",
+      "content": "Using ChIP-Seq and RNA-Seq, the authors analyzed young Arabidopsis seedlings for EIN3 binding and transcriptional modulation after addition of ethylene. Important findings are that there are several discrete waves of transcriptional responses; that a negative feedback loop represses ethylene receptor expression; and that much of the previously known cross-talk between hormone pathways involves EIN3 binding to genes regulated by several hormones. The interaction with other hormone pathways is nicely demonstrated with the knockout of a small family of closely related EIN3 targets, which reproduces aspects of phenotypes seen in mutants deficient in the response to another hormone, auxin."
+    },
+    "paragraph_418": {
+      "type": "paragraph",
+      "id": "paragraph_418",
+      "content": "The authors also introduce a clever shortcut for understanding the regulatory logic of the later waves of ethylene triggered gene expression. They first nominate candidates for transcription factors that themselves are transcriptionally responsive to EIN3 and that mediate these later responses. The authors then use microarrays to identify sequences that 12 such candidate factors can bind to in vitro. These motifs are then confirmed to be overrepresented in the promoters of the late EIN3 targets."
+    },
+    "paragraph_419": {
+      "type": "paragraph",
+      "id": "paragraph_419",
+      "content": "The only major criticism is that the authors should think a bit harder about their nomenclature. It seems that “targets” refer to any genomic sequence that is bound by EIN3 (or any gene that is within a certain distance from an EIN3 binding site). More commonly, “target” is reserved for bona fide repressed or activated genes. For example, the sentence “many EIN3 targets were not transcriptionally ethylene-regulated (EIN3-NR) (67%), while a subset of the EIN3 targets was transcriptionally ethylene-regulated” should be rephrased as “only about 30% of EIN3 binding sites were associated with transcriptional changes; at least two third were not”."
+    },
+    "paragraph_420": {
+      "type": "paragraph",
+      "id": "paragraph_420",
+      "content": "Minor comments:"
+    },
+    "paragraph_421": {
+      "type": "paragraph",
+      "id": "paragraph_421",
+      "content": "1) The first wave of transcriptional regulation does not look very much like a set of coordinated genes. There are many genes that appear to move in the opposite fashion at different time points. This would appear to go beyond the “noise” that the authors use to describe it. Either this should be cleaned up in the sense that the genes that are most coordinated are kept and the others are removed, or the authors need to better explain their rationale for keeping this cluster."
+    },
+    "paragraph_422": {
+      "type": "paragraph",
+      "id": "paragraph_422",
+      "content": "2) Results: over-representation of DNA binding motifs for the 12 candidate factors in EIN3 targets: we suspect it matters which wave is examined; please comment."
+    },
+    "paragraph_423": {
+      "type": "paragraph",
+      "id": "paragraph_423",
+      "content": "3) Results: is the binding of EIN3 to promoters of HLS paralogs associated with overall sequence conservation of the promoters?"
+    },
+    "paragraph_424": {
+      "type": "paragraph",
+      "id": "paragraph_424",
+      "content": "4) In addition, it would be nice to know if transcript levels of the other family members decreased in an ein3-1 eil1-1 double mutant background."
+    },
+    "annotation_425": {
+      "type": "emphasis",
+      "id": "annotation_425",
+      "path": [
+        "paragraph_424",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        106,
+        119
+      ]
+    },
+    "paragraph_426": {
+      "type": "paragraph",
+      "id": "paragraph_426",
+      "content": "5) Similarly, one would want to know if other auxin related functions like root gravitropism or bud emergence were impaired in the quadruple mutant and if any of its phenotypes could be rescued by exogenous addition of auxin and/or ethylene.10.7554/eLife.00675.022"
+    },
+    "heading_427": {
+      "type": "heading",
+      "id": "heading_427",
+      "level": 2,
+      "content": "Author response",
+      "nodes": []
+    },
+    "paragraph_428": {
+      "type": "paragraph",
+      "id": "paragraph_428",
+      "content": "The only major criticism is that the authors should think a bit harder about their nomenclature. It seems that “targets” refer to any genomic sequence that is bound by EIN3 (or any gene that is within a certain distance from an EIN3 binding site). More commonly, “target” is reserved for bona fide repressed or activated genes. For example, the sentence “many EIN3 targets were not transcriptionally ethylene-regulated (EIN3-NR) (67%), while a subset of the EIN3 targets was transcriptionally ethylene-regulated” should be rephrased as “only about 30% of EIN3 binding sites were associated with transcriptional changes; at least two third were not”."
+    },
+    "annotation_429": {
+      "type": "emphasis",
+      "id": "annotation_429",
+      "path": [
+        "paragraph_428",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        648
+      ]
+    },
+    "paragraph_430": {
+      "type": "paragraph",
+      "id": "paragraph_430",
+      "content": "We have modified our nomenclature to reflect the commonly used meaning of “target”. Putative EIN3 targets identified by ChIP-Seq are now referred to as “EIN3 candidate targets”. The subset of EIN3 candidate targets that are ethylene-regulated are referred to as “EIN3 targets”."
+    },
+    "paragraph_431": {
+      "type": "paragraph",
+      "id": "paragraph_431",
+      "content": "Minor comments:"
+    },
+    "annotation_432": {
+      "type": "emphasis",
+      "id": "annotation_432",
+      "path": [
+        "paragraph_431",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        14
+      ]
+    },
+    "paragraph_433": {
+      "type": "paragraph",
+      "id": "paragraph_433",
+      "content": "1) The first wave of transcriptional regulation does not look very much like a set of coordinated genes. There are many genes that appear to move in the opposite fashion at different time points. This would appear to go beyond the “noise” that the authors use to describe it. Either this should be cleaned up in the sense that the genes that are most coordinated are kept and the others are removed, or the authors need to better explain their rationale for keeping this cluster."
+    },
+    "annotation_434": {
+      "type": "emphasis",
+      "id": "annotation_434",
+      "path": [
+        "paragraph_433",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        478
+      ]
+    },
+    "paragraph_435": {
+      "type": "paragraph",
+      "id": "paragraph_435",
+      "content": "Although genes in the first wave have lower expression levels and higher noise, EIN3 is still significantly associated with genes in this wave (p<0.001, permutation test). The gene labels in the expression matrix were permuted 1000 times while the TF-gene interaction table remained as the original. None of the 1000 permutations resulted in EIN3 associated with the first wave bifurcation, reassuring that the enrichment of EIN3 with the first path is strong."
+    },
+    "paragraph_436": {
+      "type": "paragraph",
+      "id": "paragraph_436",
+      "content": "It is likely that if these genes were not part of a coordinated set of genes (p<0.001, hypergeometric test), EIN3 regulation (p<10-10, pathway hypergeometric test) would not be associated with this set of genes."
+    },
+    "annotation_437": {
+      "type": "superscript",
+      "id": "annotation_437",
+      "path": [
+        "paragraph_436",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        130,
+        133
+      ]
+    },
+    "paragraph_438": {
+      "type": "paragraph",
+      "id": "paragraph_438",
+      "content": "2) Results: over-representation of DNA binding motifs for the 12 candidate factors in EIN3 targets: we suspect it matters which wave is examined; please comment."
+    },
+    "annotation_439": {
+      "type": "emphasis",
+      "id": "annotation_439",
+      "path": [
+        "paragraph_438",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        160
+      ]
+    },
+    "paragraph_440": {
+      "type": "paragraph",
+      "id": "paragraph_440",
+      "content": "Three of the twelve candidate factors are in two of the waves of transcription that are regulated by EIN3. The nine others occur in other waves of transcription. Note that the two genes that are repressed by ethylene do not contain over-representation of DNA binding motifs in the promoters of ethylene response genes. It is unknown why the DNA binding motif of At3g24120 is not over-represented in ethylene response genes. Further experimentation (ChIP-Seq with antibodies generated to these transcriptions factors) is required to understand these results."
+    },
+    "table_tbl1": {
+      "type": "table",
+      "id": "table_tbl1",
+      "content": "<table><thead><tr><th>AtID</th><th>Gene Name</th><th>p-value</th><th>Wave of EIN3 enrichment</th><th>Ethylene Induced (+) or Repressed(-)</th><th>Average log2 RPKM at 4hrs vs. 0hrs ethylene</th><th>Average log2 EIN3 RPKM at 4hrs vs. 0hrs ethylene</th></tr></thead><tbody><tr><td>AT1G30650</td><td>WRKY14</td><td>2.76E-44</td><td>N/A</td><td>+</td><td>0.14</td><td>3.14</td></tr><tr><td>AT1G09530</td><td>PIF3</td><td>1.29E-41</td><td>Wave 4</td><td>+</td><td>0.70</td><td>2.01</td></tr><tr><td>AT5G39610</td><td>NAC6</td><td>1.07E-34</td><td>Wave 3</td><td>+</td><td>1.66</td><td>2.68</td></tr><tr><td>AT4G01720</td><td>WRKY47</td><td>3.16E-18</td><td>N/A</td><td>+</td><td>0.26</td><td>1.71</td></tr><tr><td>AT4G17500</td><td>AT-ERF1</td><td>6.58E-12</td><td>N/A</td><td>+</td><td>0.65</td><td>1.54</td></tr><tr><td>AT5G47230</td><td>ERF5</td><td>4.55E-11</td><td>N/A</td><td>+</td><td>0.53</td><td>2.42</td></tr><tr><td>AT3G14230</td><td>RAP2.2</td><td>3.33E-06</td><td>N/A</td><td>+</td><td>0.79</td><td>2.29</td></tr><tr><td>AT1G43160</td><td>RAP2.6</td><td>1.32E-03</td><td>Wave 3</td><td>+</td><td>1.48</td><td>2.68</td></tr><tr><td>AT3G60530</td><td>GATA4</td><td>2.86E-03</td><td>N/A</td><td>+</td><td>0.66</td><td>1.64</td></tr><tr><td>AT1G10480</td><td>ZFP5</td><td>1.00E+00</td><td>N/A</td><td>-</td><td>-0.76</td><td>2.79</td></tr><tr><td>AT3G24120</td><td></td><td>1.00E+00</td><td>N/A</td><td>+</td><td>0.50</td><td>1.84</td></tr><tr><td>AT3G60390</td><td>HAT3</td><td>1.00E+00</td><td>N/A</td><td>-</td><td>-0.64</td><td>1.61</td></tr></tbody></table>",
+      "footers": []
+    },
+    "image_fig5": {
+      "type": "image",
+      "id": "image_fig5",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00675/svg/elife00675f005.svg",
+      "graphic_id": "elife00675f005",
+      "format": "image"
+    },
+    "paragraph_441": {
+      "type": "paragraph",
+      "id": "paragraph_441",
+      "content": "4) In addition, it would be nice to know if transcript levels of the other family members decreased in an ein3-1 eil1-1 double mutant background."
+    },
+    "annotation_442": {
+      "type": "emphasis",
+      "id": "annotation_442",
+      "path": [
+        "paragraph_441",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        105
+      ]
+    },
+    "annotation_443": {
+      "type": "emphasis",
+      "id": "annotation_443",
+      "path": [
+        "paragraph_441",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        120,
+        144
+      ]
+    },
+    "paragraph_444": {
+      "type": "paragraph",
+      "id": "paragraph_444",
+      "content": "In general expression of HLH1/2/3 are low (RPKM < 5, and qPCR) in etiolated seedlings (Author response image 2); the differences in transcript levels in the ein3-1 eil1-1 mutant background with the wildtype Col-0 cannot be quantified. We know from earlier studies (Lehman et al, Cell 1996) that HLS1 expression is somewhat restricted and constitutive in many tissues. It is possible the homologs of HLS1 play specific and unique roles in other cell types/tissues."
+    },
+    "figure_reference_445": {
+      "type": "figure_reference",
+      "id": "figure_reference_445",
+      "path": [
+        "paragraph_444",
+        "content"
+      ],
+      "target": "image_fig6",
+      "range": [
+        87,
+        110
+      ]
+    },
+    "annotation_446": {
+      "type": "emphasis",
+      "id": "annotation_446",
+      "path": [
+        "paragraph_444",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        157,
+        170
+      ]
+    },
+    "image_fig6": {
+      "type": "image",
+      "id": "image_fig6",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00675/svg/elife00675f006.svg",
+      "graphic_id": "elife00675f006",
+      "format": "image"
+    },
+    "paragraph_447": {
+      "type": "paragraph",
+      "id": "paragraph_447",
+      "content": "5) Similarly, one would want to know if other auxin related functions like root gravitropism or bud emergence were impaired in the quadruple mutant and if any of its phenotypes could be rescued by exogenous addition of auxin and/or ethylene."
+    },
+    "annotation_448": {
+      "type": "emphasis",
+      "id": "annotation_448",
+      "path": [
+        "paragraph_447",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        240
+      ]
+    },
+    "paragraph_449": {
+      "type": "paragraph",
+      "id": "paragraph_449",
+      "content": "We did not specifically observe and/or quantify root gravitropism phenotypes in the quadruple mutant. We observed an increased number of rosette leaves in the quadruple mutant (n=21), in comparison to wild-type plants (n=12). This phenotype suggests an enhanced not impaired axillary bud emergence, which is expected because auxin inhibits axillary bud emergence in wildtype plants. Concurrent mutations in HLS1 and its homologs resulted in various floral phenotypes. Mutants flowered earlier (2 weeks long day/3 weeks short day) in comparison to the wild type (4 weeks long day/8 weeks short day). Additionally, the quadruple mutant plants lacked apical dominance, producing numerous inflorescences that were sterile. The increased number of rosette leaves and the early flowering phenotype indicate that the quadruple mutants have an accelerated development rate than that of wild type. Interestingly, we found that ARF2 protein accumulates in the quadruple mutant. arf2 mutants were reported to have increased leaf longevity (Lim et al. 2010, J Exp Botany), and as mentioned previously, it appears the quadruple mutant exhibits the converse phenotype, accelerated development. However, the regulatory logic of ARF2 as a repressor of the auxin response is not simple, if it were, the HLS/HLH quadruple mutant resulting in an increase of ARF2 would therefore result in enhanced repression of the auxin response. However, using Biomaps, genes up-regulated in the quadruple mutant were significantly enriched for “response to auxin” function (unpublished observation). Finally, it is currently not possible to apply exogenous auxin with the expectation of proper delivery of the hormone and complementation of the many phenotypes observed. Regarding ethylene, the quadruple mutant is partially insensitive to ethylene and thus cannot be rescued by the hormone."
+    },
+    "annotation_450": {
+      "type": "emphasis",
+      "id": "annotation_450",
+      "path": [
+        "paragraph_449",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        968,
+        972
+      ]
     }
   }
 }

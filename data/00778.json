@@ -66,7 +66,28 @@
         "heading_s4-6",
         "paragraph_332",
         "sub-article",
-        "sub-article"
+        "heading_374",
+        "paragraph_375",
+        "paragraph_377",
+        "paragraph_379",
+        "paragraph_380",
+        "paragraph_381",
+        "paragraph_382",
+        "paragraph_385",
+        "paragraph_386",
+        "sub-article",
+        "heading_387",
+        "paragraph_388",
+        "paragraph_392",
+        "paragraph_394",
+        "paragraph_396",
+        "paragraph_406",
+        "paragraph_408",
+        "paragraph_409",
+        "paragraph_411",
+        "paragraph_412",
+        "paragraph_414",
+        "paragraph_417"
       ]
     },
     "figures": {
@@ -293,7 +314,7 @@
     "paragraph_2": {
       "type": "paragraph",
       "id": "paragraph_2",
-      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited.10.7554/eLife.00778.001"
+      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited."
     },
     "annotation_3": {
       "type": "link",
@@ -324,7 +345,7 @@
     "paragraph_5": {
       "type": "paragraph",
       "id": "paragraph_5",
-      "content": "DOI: http://dx.doi.org/10.7554/eLife.00778.00110.7554/eLife.00778.002"
+      "content": "DOI: http://dx.doi.org/10.7554/eLife.00778.001"
     },
     "annotation_6": {
       "type": "strong",
@@ -6289,6 +6310,428 @@
       "level": 1,
       "content": "Article Commentary",
       "nodes": []
+    },
+    "heading_374": {
+      "type": "heading",
+      "id": "heading_374",
+      "level": 2,
+      "content": "Decision letter",
+      "nodes": []
+    },
+    "paragraph_375": {
+      "type": "paragraph",
+      "id": "paragraph_375",
+      "content": "eLife posts the editorial decision letter and author response on a selection of the published articles (subject to the approval of the authors). An edited version of the letter sent to the authors after peer review is shown, indicating the substantive concerns or comments; minor concerns are not usually shown. Reviewers have the opportunity to discuss the decision before the letter is sent (see review process). Similarly, the author response typically shows only responses to the major concerns raised by the reviewers."
+    },
+    "annotation_376": {
+      "type": "link",
+      "id": "annotation_376",
+      "path": [
+        "paragraph_375",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        398,
+        412
+      ],
+      "url": "http://www.elifesciences.org/the-journal/review-process"
+    },
+    "paragraph_377": {
+      "type": "paragraph",
+      "id": "paragraph_377",
+      "content": "Thank you for sending your work entitled “Direct single molecule measurement of TCR triggering by agonist pMHC in living primary T cells” for consideration at eLife. Your article has been favorably evaluated by a Senior editor, Detlef Weigel, and 3 reviewers, one of whom is a member of our Board of Reviewing Editors."
+    },
+    "annotation_378": {
+      "type": "emphasis",
+      "id": "annotation_378",
+      "path": [
+        "paragraph_377",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        159,
+        164
+      ]
+    },
+    "paragraph_379": {
+      "type": "paragraph",
+      "id": "paragraph_379",
+      "content": "The Reviewing editor and the other reviewers discussed their comments before we reached this decision, and the Reviewing editor has assembled the following comments to help you prepare a revised submission."
+    },
+    "paragraph_380": {
+      "type": "paragraph",
+      "id": "paragraph_380",
+      "content": "Overall, this is an outstanding study, one that has made a number of technical breakthroughs and emerges with interesting results. The authors examine the interactions between pMHC and TCR, at a single molecule level, which provides a direct measurement on the association times of this complex. They also examine how the pMHC-TCR complex recruits ZAP70, which is a direct measure of triggering and the initiation of signal transduction. This is a very nicely executed two color, single molecule experiment. There are several interesting findings: 1) the TCR-pMHC act as discrete entities and do not appear to aggregate; 2) the association times differ 10-fold for two different peptide agonists, revealing distinct information encoded by off-rates; 3) the dissociation rates are much slower than was previously reported by a live cell FRET measurement (the new data are more direct and believable, and the information will be important for the field); 4) Virtually all pMHC-TCR complexes become immobilized and hook onto the actin cytoskeleton; and 5) each pMHC-TCR recruits several ZAP70 molecules and these complexes also are extremely long lived."
+    },
+    "paragraph_381": {
+      "type": "paragraph",
+      "id": "paragraph_381",
+      "content": "Major comments:"
+    },
+    "paragraph_382": {
+      "type": "paragraph",
+      "id": "paragraph_382",
+      "content": "1) This manuscript follows others (Huppa et al., 2010; Huang et al., 2010) that have tried to address this problem and come away with interesting insights. The current study takes a unique approach using low intensity light for longer time periods, which selects against short-term interactions to track TCR-PMHC interactions and comes up with some contradictions with the published work. These differences to the previously published results are puzzling and need to be discussed."
+    },
+    "citation_reference_383": {
+      "type": "citation_reference",
+      "id": "citation_reference_383",
+      "path": [
+        "paragraph_382",
+        "content"
+      ],
+      "target": "article_citation_bib18",
+      "range": [
+        35,
+        53
+      ]
+    },
+    "citation_reference_384": {
+      "type": "citation_reference",
+      "id": "citation_reference_384",
+      "path": [
+        "paragraph_382",
+        "content"
+      ],
+      "target": "article_citation_bib17",
+      "range": [
+        55,
+        73
+      ]
+    },
+    "paragraph_385": {
+      "type": "paragraph",
+      "id": "paragraph_385",
+      "content": "2) There is not much of a difference between 24 and 37 degrees. This is surprising and should be discussed."
+    },
+    "paragraph_386": {
+      "type": "paragraph",
+      "id": "paragraph_386",
+      "content": "3) The Introduction could be improved for a general audience. Currently it reads like a longer version of the Abstract (or a shorter version of the Results). This section would be a good place to set up the main issues of the paper, e.g., why off-rates are important and what attempts have been made to measure this in the past. Also a few small points – are all pMHC-TCR-Zap70 complexes attached to actin or is there evidence of them being formed, diffusion, and then joining onto the actin treadmill? Can one detect variability or successive recruitment of Zap70? It is stated that there is an average of 6 but we are wondering if one could extract additional information at the single molecule level of clear variability (particularly for two different pMHC) or accumulation of Zap70 over time.10.7554/eLife.00778.017"
+    },
+    "heading_387": {
+      "type": "heading",
+      "id": "heading_387",
+      "level": 2,
+      "content": "Author response",
+      "nodes": []
+    },
+    "paragraph_388": {
+      "type": "paragraph",
+      "id": "paragraph_388",
+      "content": "1) This manuscript follows others (Huppa et al., 2010; Huang et al., 2010) that have tried to address this problem and come away with interesting insights. The current study takes a unique approach using low intensity light for longer time periods, which selects against short-term interactions to track TCR-PMHC interactions and comes up with some contradictions with the published work. These differences to the previously published results are puzzling and need to be discussed."
+    },
+    "citation_reference_389": {
+      "type": "citation_reference",
+      "id": "citation_reference_389",
+      "path": [
+        "paragraph_388",
+        "content"
+      ],
+      "target": "article_citation_bib18",
+      "range": [
+        35,
+        53
+      ]
+    },
+    "citation_reference_390": {
+      "type": "citation_reference",
+      "id": "citation_reference_390",
+      "path": [
+        "paragraph_388",
+        "content"
+      ],
+      "target": "article_citation_bib17",
+      "range": [
+        55,
+        73
+      ]
+    },
+    "annotation_391": {
+      "type": "emphasis",
+      "id": "annotation_391",
+      "path": [
+        "paragraph_388",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        480
+      ]
+    },
+    "paragraph_392": {
+      "type": "paragraph",
+      "id": "paragraph_392",
+      "content": "The differing results with respect to in situ pMHC:TCR kinetics observed by tracking in our experiments and by smFRET in the Huppa et al., 2010 paper are indeed puzzling. Several key points regarding this issue are contained in the original manuscript. We highlight these below and have made additional clarifications in the text (e.g., paragraph 1 in “Single molecule agonist pMHC:TCR binding kinetics”)."
+    },
+    "citation_reference_393": {
+      "type": "citation_reference",
+      "id": "citation_reference_393",
+      "path": [
+        "paragraph_392",
+        "content"
+      ],
+      "target": "article_citation_bib18",
+      "range": [
+        125,
+        143
+      ]
+    },
+    "paragraph_394": {
+      "type": "paragraph",
+      "id": "paragraph_394",
+      "content": "The variable exposure times used in our experiments allow observations to be directed at different time scales. Thus although much of the data presented was acquired under conditions that do indeed select against short-term interactions, we have also done the corresponding high-speed measurements (see, for example, the single molecule trace in Figure 1C). The fast pMHC:TCR kinetics reported in Huppa et al., are still an order of magnitude slower than our fastest time resolution (17.5 ms); such fast events are not likely to be missed in these tracking experiments using the fast exposure times."
+    },
+    "figure_reference_395": {
+      "type": "figure_reference",
+      "id": "figure_reference_395",
+      "path": [
+        "paragraph_394",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        346,
+        355
+      ]
+    },
+    "paragraph_396": {
+      "type": "paragraph",
+      "id": "paragraph_396",
+      "content": "We devote several analyses in the manuscript towards possible differences in what is measured by tracking vs. smFRET. Specifically, we consider (and rule out) serial rebinding of a single pMHC to multiple TCR in a TCR cluster (“Stochastic reaction-diffusion simulations”). In the Discussion (paragraphs 3 and 4) we suggest structural flexibility within the pMHC:TCR complex could explain the differing observations, particularly since the fast kinetics are only observed when the pMHC:TCR complexes are under strain. This could easily obliterate a smFRET signal even without the complex fully disengaging (Majumdar et al., 2007). Such flexibility is supported by recent structural analyses of pMHC:TCR (Adams et al., 2011; Hawse et al., 2012; Reboul et al., 2012). Therefore, with the information at hand, we suggest this is the most likely explanation. It is important to note that our measurements agree with solution SPR measurements (Corse et al. 2010 & ; Newell et al. 2011) and with in vivo requirements for negative selection (Williams et al., 1999; Palmer & Naeher, 2009) for two different TCR. We do not analyze measurements made with a different pMHC:TCR combination (Huang et al., 2010) in detail because they are not directly comparable."
+    },
+    "citation_reference_397": {
+      "type": "citation_reference",
+      "id": "citation_reference_397",
+      "path": [
+        "paragraph_396",
+        "content"
+      ],
+      "target": "article_citation_bib25",
+      "range": [
+        606,
+        627
+      ]
+    },
+    "citation_reference_398": {
+      "type": "citation_reference",
+      "id": "citation_reference_398",
+      "path": [
+        "paragraph_396",
+        "content"
+      ],
+      "target": "article_citation_bib1",
+      "range": [
+        703,
+        721
+      ]
+    },
+    "citation_reference_399": {
+      "type": "citation_reference",
+      "id": "citation_reference_399",
+      "path": [
+        "paragraph_396",
+        "content"
+      ],
+      "target": "article_citation_bib16",
+      "range": [
+        723,
+        741
+      ]
+    },
+    "citation_reference_400": {
+      "type": "citation_reference",
+      "id": "citation_reference_400",
+      "path": [
+        "paragraph_396",
+        "content"
+      ],
+      "target": "article_citation_bib34",
+      "range": [
+        743,
+        762
+      ]
+    },
+    "citation_reference_401": {
+      "type": "citation_reference",
+      "id": "citation_reference_401",
+      "path": [
+        "paragraph_396",
+        "content"
+      ],
+      "target": "article_citation_bib7",
+      "range": [
+        938,
+        955
+      ]
+    },
+    "citation_reference_402": {
+      "type": "citation_reference",
+      "id": "citation_reference_402",
+      "path": [
+        "paragraph_396",
+        "content"
+      ],
+      "target": "article_citation_bib29",
+      "range": [
+        960,
+        978
+      ]
+    },
+    "citation_reference_403": {
+      "type": "citation_reference",
+      "id": "citation_reference_403",
+      "path": [
+        "paragraph_396",
+        "content"
+      ],
+      "target": "article_citation_bib44",
+      "range": [
+        1034,
+        1055
+      ]
+    },
+    "citation_reference_404": {
+      "type": "citation_reference",
+      "id": "citation_reference_404",
+      "path": [
+        "paragraph_396",
+        "content"
+      ],
+      "target": "article_citation_bib31",
+      "range": [
+        1057,
+        1078
+      ]
+    },
+    "citation_reference_405": {
+      "type": "citation_reference",
+      "id": "citation_reference_405",
+      "path": [
+        "paragraph_396",
+        "content"
+      ],
+      "target": "article_citation_bib17",
+      "range": [
+        1178,
+        1196
+      ]
+    },
+    "paragraph_406": {
+      "type": "paragraph",
+      "id": "paragraph_406",
+      "content": "2) There is not much of a difference between 24 and 37 degrees. This is surprising and should be discussed."
+    },
+    "annotation_407": {
+      "type": "emphasis",
+      "id": "annotation_407",
+      "path": [
+        "paragraph_406",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        106
+      ]
+    },
+    "paragraph_408": {
+      "type": "paragraph",
+      "id": "paragraph_408",
+      "content": "There is only a modest difference between dwell times measured at 24 and 37°C. The difference is more pronounced for the MCC-AND interaction, 54 s vs 81 s at 24 and 37°C, respectively. We observe a slight temperature effect in the 5c.c7 system; however, the intrinsic experimental error in comparing the dwell time distributions at 24 and 37°C is higher for shorter interactions. The effect is also easier to see for the MCC-AND interaction because there are more MCC-AND complexes per T cell (data not shown). It is also possible that changes in cellular behavior in response to temperature could also affect these measurements in ways that are not observed in solution measurements with purified components. At 24°C T cells have a smaller surface area on the supported membrane than at 37°C, are slower to land, and also have decreased lamellipodial motion. These factors could affect the environment of the pMHC:TCR interaction in unpredictable ways and perhaps could compensate for the direct temperature effect on molecular interactions."
+    },
+    "paragraph_409": {
+      "type": "paragraph",
+      "id": "paragraph_409",
+      "content": "3) The Introduction could be improved for a general audience. Currently it reads like a longer version of the Abstract (or a shorter version of the Results). This section would be a good place to set up the main issues of the paper, e.g., why off-rates are important and what attempts have been made to measure this in the past."
+    },
+    "annotation_410": {
+      "type": "emphasis",
+      "id": "annotation_410",
+      "path": [
+        "paragraph_409",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        327
+      ]
+    },
+    "paragraph_411": {
+      "type": "paragraph",
+      "id": "paragraph_411",
+      "content": "We have expanded and clarified the Introduction to better introduce the importance of quantitative single molecule measurements (e.g., of kinetic off-rate, stoichiometry, etc.) to the understanding of TCR signaling mechanisms."
+    },
+    "paragraph_412": {
+      "type": "paragraph",
+      "id": "paragraph_412",
+      "content": "Also a few small points – are all pMHC-TCR-Zap70 complexes attached to actin or is there evidence of them being formed, diffusion, and then joining onto the actin treadmill? Can one detect variability or successive recruitment of Zap70? It is stated that there is an average of 6 but we are wondering if one could extract additional information at the single molecule level of clear variability (particularly for two different pMHC) or accumulation of Zap70 over time."
+    },
+    "annotation_413": {
+      "type": "emphasis",
+      "id": "annotation_413",
+      "path": [
+        "paragraph_412",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        467
+      ]
+    },
+    "paragraph_414": {
+      "type": "paragraph",
+      "id": "paragraph_414",
+      "content": "All observed pMHC:TCR:ZAP70 complexes are transported radially towards the geometric cell center (Videos 1, 2, and 3; Figure 3A) of the 2-dimensional cell-supported membrane interface. We do not observe evidence for pMHC:TCR:ZAP70 random diffusion prior to radial transport on these timescales – such sequential events could occur on faster timescales."
+    },
+    "figure_reference_415": {
+      "type": "figure_reference",
+      "id": "figure_reference_415",
+      "path": [
+        "paragraph_414",
+        "content"
+      ],
+      "target": "video_video1",
+      "range": [
+        98,
+        116
+      ]
+    },
+    "figure_reference_416": {
+      "type": "figure_reference",
+      "id": "figure_reference_416",
+      "path": [
+        "paragraph_414",
+        "content"
+      ],
+      "target": "image_fig3",
+      "range": [
+        118,
+        127
+      ]
+    },
+    "paragraph_417": {
+      "type": "paragraph",
+      "id": "paragraph_417",
+      "content": "Clear variability does exist in the number of ZAP70-EGFP per pMHC:TCR complex. This is most clearly shown in Figure 3D, where the intensity distribution of ZAP70-EGFP puncta is symmetric and unimodal with an average of 2.9 ZAP70-EGFP/puncta. The distribution of ZAP70-EGFP intensities (from single ZAP70 molecules up to ∼10) implies that time-dependent ZAP70-EGFP accumulation must occur, but we have not definitively observed accumulation of ZAP70-EGFP over time in one intensity trace. The observation of single molecule ZAP70-EGFP accumulation in a single intensity trace (i.e., several consecutive step intensity increases) is technically challenging due to the convolution of several time-dependent processes: MCC-Atto647N bleaching, ZAP70-EGFP bleaching, pMHC:TCR unbinding, ZAP70-ITAM binding, and ZAP70-ITAM unbinding. We do, however, make the bulk observation that the brightest ZAP70-EGFP features are observed at later time points. The text has been clarified accordingly (“TCR triggering monitored by ZAP70 recruitment”)."
+    },
+    "figure_reference_418": {
+      "type": "figure_reference",
+      "id": "figure_reference_418",
+      "path": [
+        "paragraph_417",
+        "content"
+      ],
+      "target": "image_fig3",
+      "range": [
+        109,
+        118
+      ]
     }
   }
 }

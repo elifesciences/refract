@@ -56,7 +56,40 @@
         "paragraph_147",
         "paragraph_148",
         "sub-article",
-        "sub-article"
+        "heading_151",
+        "paragraph_152",
+        "paragraph_154",
+        "paragraph_156",
+        "paragraph_157",
+        "paragraph_158",
+        "paragraph_159",
+        "paragraph_161",
+        "paragraph_162",
+        "paragraph_163",
+        "paragraph_164",
+        "paragraph_165",
+        "sub-article",
+        "heading_168",
+        "paragraph_169",
+        "paragraph_171",
+        "paragraph_172",
+        "paragraph_173",
+        "paragraph_174",
+        "paragraph_175",
+        "paragraph_176",
+        "paragraph_177",
+        "paragraph_180",
+        "paragraph_182",
+        "paragraph_185",
+        "paragraph_188",
+        "paragraph_190",
+        "paragraph_191",
+        "paragraph_192",
+        "paragraph_194",
+        "paragraph_195",
+        "paragraph_197",
+        "paragraph_198",
+        "paragraph_201"
       ]
     },
     "figures": {
@@ -418,7 +451,7 @@
     "paragraph_2": {
       "type": "paragraph",
       "id": "paragraph_2",
-      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited.10.7554/eLife.00458.001"
+      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited."
     },
     "annotation_3": {
       "type": "link",
@@ -449,7 +482,7 @@
     "paragraph_5": {
       "type": "paragraph",
       "id": "paragraph_5",
-      "content": "DOI: http://dx.doi.org/10.7554/eLife.00458.00110.7554/eLife.00458.002"
+      "content": "DOI: http://dx.doi.org/10.7554/eLife.00458.001"
     },
     "annotation_6": {
       "type": "strong",
@@ -3027,7 +3060,7 @@
       "citation_url": [],
       "format": "journal",
       "editors": [],
-      "supplement": "Suppl 1"
+      "supplement": "undefined[object Object]"
     },
     "article_citation_bib19": {
       "type": "article_citation",
@@ -3269,7 +3302,7 @@
       "citation_url": [],
       "format": "web",
       "editors": [],
-      "comment": "R Foundation for Statistical Computing. "
+      "comment": "undefined[object Object]"
     },
     "article_citation_bib27": {
       "type": "article_citation",
@@ -3469,6 +3502,425 @@
       "level": 1,
       "content": "Article Commentary",
       "nodes": []
+    },
+    "heading_151": {
+      "type": "heading",
+      "id": "heading_151",
+      "level": 2,
+      "content": "Decision letter",
+      "nodes": []
+    },
+    "paragraph_152": {
+      "type": "paragraph",
+      "id": "paragraph_152",
+      "content": "eLife posts the editorial decision letter and author response on a selection of the published articles (subject to the approval of the authors). An edited version of the letter sent to the authors after peer review is shown, indicating the substantive concerns or comments; minor concerns are not usually shown. Reviewers have the opportunity to discuss the decision before the letter is sent (see review process). Similarly, the author response typically shows only responses to the major concerns raised by the reviewers."
+    },
+    "annotation_153": {
+      "type": "link",
+      "id": "annotation_153",
+      "path": [
+        "paragraph_152",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        398,
+        412
+      ],
+      "url": "http://www.elifesciences.org/the-journal/review-process"
+    },
+    "paragraph_154": {
+      "type": "paragraph",
+      "id": "paragraph_154",
+      "content": "Thank you for choosing to send your work entitled “Cohabiting family members share microbiota with one another and with their dogs” for consideration at eLife. Your article has been evaluated by a Senior editor, Detlef Weigel, who also acted as Reviewing editor, and two outside reviewers."
+    },
+    "annotation_155": {
+      "type": "emphasis",
+      "id": "annotation_155",
+      "path": [
+        "paragraph_154",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        153,
+        158
+      ]
+    },
+    "paragraph_156": {
+      "type": "paragraph",
+      "id": "paragraph_156",
+      "content": "The Reviewing editor and the other reviewers discussed their comments before we reached this decision, and the Reviewing editor has assembled the following comments to help you prepare a revised submission."
+    },
+    "paragraph_157": {
+      "type": "paragraph",
+      "id": "paragraph_157",
+      "content": "Song and colleagues present a fascinating, albeit descriptive, 16S rDNA-based survey of human co-habitation, spanning 60 families with children, dogs, both, or neither. As expected, they appear to find that individuals living together have increased similarity in their associated microbial communities, with a markedly stronger effect on skin microbiota, compared to oral or gut microbiotae. An important advance over earlier work is that dog owners may “swap” microbes with their pets, again most clearly shown for skin microbiota. There are, however, three major concerns:"
+    },
+    "paragraph_158": {
+      "type": "paragraph",
+      "id": "paragraph_158",
+      "content": "1. The first one relates to the statistical methods used. Rather than pairwise comparisons, the authors need to apply a general linear mixed model that includes as many covariates as possible, such as collection dates, family size, geographic origin, urban/rural sites, presence of other pets, sequencing runs, and so on."
+    },
+    "paragraph_159": {
+      "type": "paragraph",
+      "id": "paragraph_159",
+      "content": "2. The second major concern is that although the authors suggest potential reasons for the apparent sharing of microbiota between dogs and their owners (see “Mechanistic considerations”), they do not explicitly test the hypothesis that the transfer of rare taxa drives these trends. For example, the authors might filter out taxa that are more commonly found in the dog microbiota, or found at much lower abundance in humans, and then test if that significantly changes the observed trends. Another approach might be to use weighted metrics instead (e.g., Figure 1), as unweighted data can be greatly influenced by rare but novel taxa."
+    },
+    "figure_reference_160": {
+      "type": "figure_reference",
+      "id": "figure_reference_160",
+      "path": [
+        "paragraph_159",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        556,
+        564
+      ]
+    },
+    "paragraph_161": {
+      "type": "paragraph",
+      "id": "paragraph_161",
+      "content": "3. Third, based on the hypothesis that “more microbes are shared between individuals who share a greater number of potential microbial sources”, one expects to see an analysis based on the number of human individuals in the household, since other humans are sources, too. This has been relevant for the hygiene hypothesis (more children in a family corresponds with lower incidence of hay fever in later children). Thus, did the number of people in the household explain any of the variance in these analyses? And do later-birth order children host more diverse microbiotae? Also, what can you say about children with dogs versus children without dogs (i.e., not just adults or household members) – are there positive effects of dog ownership?"
+    },
+    "paragraph_162": {
+      "type": "paragraph",
+      "id": "paragraph_162",
+      "content": "Some extra analysis is also required for the following points:"
+    },
+    "paragraph_163": {
+      "type": "paragraph",
+      "id": "paragraph_163",
+      "content": "A. It is stated that skin microbiota does not change with age as much as stool microbiota, based on a comparison of individuals of different ages. Later on it is stated that skin microbiota tends to reflect environmental microbiota, in agreement with the hypothesis that humans pick up microbes from their dogs. So one interpretation of the absence of a strong age effect is that the skin is more dominated by the environment than the stool microbiota."
+    },
+    "paragraph_164": {
+      "type": "paragraph",
+      "id": "paragraph_164",
+      "content": "B. Are the taxa shared by dog owning adults actually found on dogs? Are the exact same taxa picked up (at the OTU level)? Also, were there effects of the other pets or were the sample sizes simply too small?"
+    },
+    "paragraph_165": {
+      "type": "paragraph",
+      "id": "paragraph_165",
+      "content": "C. Finally, Bruce Levin and colleagues asked similar questions based on E. coli strains isolated from household members and their pets in the 1980s – it would be a shame to omit a comparison to these earlier findings. Please take a look at PMID:6376625, for instance."
+    },
+    "annotation_166": {
+      "type": "link",
+      "id": "annotation_166",
+      "path": [
+        "paragraph_165",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        12,
+        38
+      ],
+      "url": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2129322/"
+    },
+    "annotation_167": {
+      "type": "emphasis",
+      "id": "annotation_167",
+      "path": [
+        "paragraph_165",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        72,
+        79
+      ]
+    },
+    "heading_168": {
+      "type": "heading",
+      "id": "heading_168",
+      "level": 2,
+      "content": "Author response",
+      "nodes": []
+    },
+    "paragraph_169": {
+      "type": "paragraph",
+      "id": "paragraph_169",
+      "content": "1) The first one relates to the statistical methods used. Rather than pairwise comparisons, the authors need to apply a general linear mixed model that includes as many covariates as possible, such as collection dates, family size, geographic origin, urban/rural sites, presence of other pets, sequencing runs, and so on."
+    },
+    "annotation_170": {
+      "type": "emphasis",
+      "id": "annotation_170",
+      "path": [
+        "paragraph_169",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        320
+      ]
+    },
+    "paragraph_171": {
+      "type": "paragraph",
+      "id": "paragraph_171",
+      "content": "We thank the reviewers for this important suggestion. We have addressed this point as follows:"
+    },
+    "paragraph_172": {
+      "type": "paragraph",
+      "id": "paragraph_172",
+      "content": "We have applied a linear mixed model and we have added the results of this, as well as additional analyses, to our paper. We are happy to report that these analyses further support all of our main conclusions. A brief summary of the results is included below."
+    },
+    "paragraph_173": {
+      "type": "paragraph",
+      "id": "paragraph_173",
+      "content": "Note: Because none of our response variables were expected to follow a particular alternative distribution, such as a binomial or poisson distribution, we used a linear mixed model instead of a generalized linear mixed model. Response variables that were not normally distributed approached normality after transformation and the transformed values were used in the linear models."
+    },
+    "paragraph_174": {
+      "type": "paragraph",
+      "id": "paragraph_174",
+      "content": "A permutational multivariate analysis of variance (PERMANOVA) identified family membership as having a significant effect on community similarity (unweighted UniFrac distance), further supporting our conclusion that communities are more similar between family members than across families."
+    },
+    "paragraph_175": {
+      "type": "paragraph",
+      "id": "paragraph_175",
+      "content": "Age, sex, pet ownership, and cohabitation of children were modeled to explain community similarity using a permutational distance-based linear model approach. This analysis identified age as an important factor for all of the body sites. Once age was controlled for (i.e., the analysis was run on the adult age group separately), dog ownership was the only factor that explained community similarity for the forehead and palms, while none of the factors explained fecal or oral community similarity."
+    },
+    "paragraph_176": {
+      "type": "paragraph",
+      "id": "paragraph_176",
+      "content": "To determine the effect of pet ownership, sex, and child cohabitation on the bacterial diversity of body sites, we used a linear mixed model with family membership, age group, family size, sequencing lane, and primer plate as random factors. Additional factors were not included due to missing data. We expected differences between sequencing lanes and plates because sample collection and processing were performed sequentially, such that blocks of families, as well as samples from our elderly subjects, were run on the same lane and plate, and we now know that family membership and age both affect patterns of community similarity. This analysis supported our conclusion that dog ownership has an effect on the diversity of skin (forehead and palms), such that not having dogs is associated with lower diversity. Consistent with previous studies, sex was also found to have an effect such that females tend to have a higher bacterial diversity on their palms than males."
+    },
+    "paragraph_177": {
+      "type": "paragraph",
+      "id": "paragraph_177",
+      "content": "2) The second major concern is that although the authors suggest potential reasons for the apparent sharing of microbiota between dogs and their owners (see “Mechanistic considerations”), they do not explicitly test the hypothesis that the transfer of rare taxa drives these trends. For example, the authors might filter out taxa that are more commonly found in the dog microbiota, or found at much lower abundance in humans, and then test if that significantly changes the observed trends. Another approach might be to use weighted metrics instead (e.g., Figure 1), as unweighted data can be greatly influenced by rare but novel taxa."
+    },
+    "figure_reference_178": {
+      "type": "figure_reference",
+      "id": "figure_reference_178",
+      "path": [
+        "paragraph_177",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        556,
+        564
+      ]
+    },
+    "annotation_179": {
+      "type": "emphasis",
+      "id": "annotation_179",
+      "path": [
+        "paragraph_177",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        634
+      ]
+    },
+    "paragraph_180": {
+      "type": "paragraph",
+      "id": "paragraph_180",
+      "content": "We have added an analysis of the effect of dog ownership on the weighted UniFrac measure of dissimilarity, the results of which are now appended to Table 5. Briefly, while the effect of dogs on the unweighted UniFrac distance between participants is significant, it is not for the weighted measure, which indicates that rare rather than abundant taxa are driving these patterns."
+    },
+    "figure_reference_181": {
+      "type": "figure_reference",
+      "id": "figure_reference_181",
+      "path": [
+        "paragraph_180",
+        "content"
+      ],
+      "target": "table_tbl5",
+      "range": [
+        148,
+        155
+      ]
+    },
+    "paragraph_182": {
+      "type": "paragraph",
+      "id": "paragraph_182",
+      "content": "3) Third, based on the hypothesis that “more microbes are shared between individuals who share a greater number of potential microbial sources”, one expects to see an analysis based on the number of human individuals in the household, since other humans are sources, too. This has been relevant for the hygiene hypothesis (more children in a family corresponds with lower incidence of hay fever in later children). Thus, did the number of people in the household explain any of the variance in these analyses? And do later-birth order children host more diverse microbiotae? Also, what can you say about children with dogs versus children without dogs (i.e., not just adults or household members) – are there positive effects of dog ownership?"
+    },
+    "annotation_183": {
+      "type": "emphasis",
+      "id": "annotation_183",
+      "path": [
+        "paragraph_182",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        585
+      ]
+    },
+    "annotation_184": {
+      "type": "emphasis",
+      "id": "annotation_184",
+      "path": [
+        "paragraph_182",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        590,
+        742
+      ]
+    },
+    "paragraph_185": {
+      "type": "paragraph",
+      "id": "paragraph_185",
+      "content": "Our linear mixed model showed that family size only explains a very small proportion of the variability in PD across the body sites (Table 2). A distance-based linear model also testing the effect of family size has now been added to the analyses, the results of which are shown in Table 5."
+    },
+    "figure_reference_186": {
+      "type": "figure_reference",
+      "id": "figure_reference_186",
+      "path": [
+        "paragraph_185",
+        "content"
+      ],
+      "target": "table_tbl2",
+      "range": [
+        133,
+        140
+      ]
+    },
+    "figure_reference_187": {
+      "type": "figure_reference",
+      "id": "figure_reference_187",
+      "path": [
+        "paragraph_185",
+        "content"
+      ],
+      "target": "table_tbl5",
+      "range": [
+        282,
+        289
+      ]
+    },
+    "paragraph_188": {
+      "type": "paragraph",
+      "id": "paragraph_188",
+      "content": "In response to the question of whether older children host more diverse microbiota, a figure showing scatterplots of PD against age has been added (Figure 3)."
+    },
+    "figure_reference_189": {
+      "type": "figure_reference",
+      "id": "figure_reference_189",
+      "path": [
+        "paragraph_188",
+        "content"
+      ],
+      "target": "image_fig3",
+      "range": [
+        148,
+        156
+      ]
+    },
+    "paragraph_190": {
+      "type": "paragraph",
+      "id": "paragraph_190",
+      "content": "The PD of children with dogs was compared with that of children without dogs. Because infants and very young children have been shown to have very different communities from older children, children under the age of 3 years were excluded from this analysis. An effect of owning dogs was not detected, but this is likely due to the low sample size. Of the 20 children aged 3–18 years, only three had dogs and two of these three were from the same family. Therefore these results are not included in the manuscript."
+    },
+    "paragraph_191": {
+      "type": "paragraph",
+      "id": "paragraph_191",
+      "content": "Some extra analysis is also required for the following points:"
+    },
+    "paragraph_192": {
+      "type": "paragraph",
+      "id": "paragraph_192",
+      "content": "A) It is stated that skin microbiota does not change with age as much as stool microbiota, based on a comparison of individuals of different ages. Later on it is stated that skin microbiota tends to reflect environmental microbiota, in agreement with the hypothesis that humans pick up microbes from their dogs. So one interpretation of the absence of a strong age effect is that the skin is more dominated by the environment than the stool microbiota."
+    },
+    "annotation_193": {
+      "type": "emphasis",
+      "id": "annotation_193",
+      "path": [
+        "paragraph_192",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        451
+      ]
+    },
+    "paragraph_194": {
+      "type": "paragraph",
+      "id": "paragraph_194",
+      "content": "We have added this observation to the new specific section on age effects."
+    },
+    "paragraph_195": {
+      "type": "paragraph",
+      "id": "paragraph_195",
+      "content": "B) Are the taxa shared by dog owning adults actually found on dogs? Are the exact same taxa picked up (at the OTU level)? Also, were there effects of the other pets or were the sample sizes simply too small?"
+    },
+    "annotation_196": {
+      "type": "emphasis",
+      "id": "annotation_196",
+      "path": [
+        "paragraph_195",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        206
+      ]
+    },
+    "paragraph_197": {
+      "type": "paragraph",
+      "id": "paragraph_197",
+      "content": "Yes, taxa shared by dog-owners were also found on dogs, as we had already noted. There were several cat owners, but cats were not sampled. Therefore, we could not determine whether there were taxa that were shared among cat-owners. However, cats did not have a significant effect on PD or community similarity among cat-owners. The sample size was small for other pets."
+    },
+    "paragraph_198": {
+      "type": "paragraph",
+      "id": "paragraph_198",
+      "content": "C) Finally, Bruce Levin and colleagues asked similar questions based on E. coli strains isolated from household members and their pets in the 1980s – it would be a shame to omit a comparison to these earlier findings. Please take a look at PMID:6376625, for instance."
+    },
+    "annotation_199": {
+      "type": "link",
+      "id": "annotation_199",
+      "path": [
+        "paragraph_198",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        12,
+        38
+      ],
+      "url": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2129322/"
+    },
+    "annotation_200": {
+      "type": "emphasis",
+      "id": "annotation_200",
+      "path": [
+        "paragraph_198",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        266
+      ]
+    },
+    "paragraph_201": {
+      "type": "paragraph",
+      "id": "paragraph_201",
+      "content": "We thank the reviewer for pointing out this pioneering work in which fecal E. coli isolates were compared among parents, children, dogs and cats (28 individual hosts) composing five families (Caugant et al. 1984). It found that isolate types were more likely to be shared within than between families. It also describes one family in which two isolate types were common to both human and non-human family members. We now reference these earlier findings."
+    },
+    "citation_reference_202": {
+      "type": "citation_reference",
+      "id": "citation_reference_202",
+      "path": [
+        "paragraph_201",
+        "content"
+      ],
+      "target": "article_citation_bib6",
+      "range": [
+        192,
+        211
+      ]
     }
   }
 }

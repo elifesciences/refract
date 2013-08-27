@@ -65,7 +65,29 @@
         "paragraph_457",
         "formula_equ2",
         "sub-article",
-        "sub-article"
+        "heading_467",
+        "paragraph_468",
+        "paragraph_470",
+        "paragraph_472",
+        "paragraph_473",
+        "paragraph_474",
+        "paragraph_475",
+        "paragraph_476",
+        "paragraph_478",
+        "paragraph_479",
+        "sub-article",
+        "heading_480",
+        "paragraph_481",
+        "paragraph_484",
+        "paragraph_485",
+        "paragraph_487",
+        "paragraph_489",
+        "paragraph_490",
+        "paragraph_491",
+        "paragraph_493",
+        "paragraph_494",
+        "paragraph_495",
+        "paragraph_496"
       ]
     },
     "figures": {
@@ -285,7 +307,7 @@
     "paragraph_2": {
       "type": "paragraph",
       "id": "paragraph_2",
-      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited.10.7554/eLife.00278.001"
+      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited."
     },
     "annotation_3": {
       "type": "link",
@@ -316,7 +338,7 @@
     "paragraph_5": {
       "type": "paragraph",
       "id": "paragraph_5",
-      "content": "DOI: http://dx.doi.org/10.7554/eLife.00278.00110.7554/eLife.00278.002"
+      "content": "DOI: http://dx.doi.org/10.7554/eLife.00278.001"
     },
     "annotation_6": {
       "type": "strong",
@@ -6866,7 +6888,7 @@
           "last-name": "Mechali"
         }
       ],
-      "comment": "p"
+      "comment": "undefined[object Object][object Object]"
     },
     "article_citation_bib12": {
       "type": "article_citation",
@@ -8225,6 +8247,225 @@
       "level": 1,
       "content": "Article Commentary",
       "nodes": []
+    },
+    "heading_467": {
+      "type": "heading",
+      "id": "heading_467",
+      "level": 2,
+      "content": "Decision letter",
+      "nodes": []
+    },
+    "paragraph_468": {
+      "type": "paragraph",
+      "id": "paragraph_468",
+      "content": "eLife posts the editorial decision letter and author response on a selection of the published articles (subject to the approval of the authors). An edited version of the letter sent to the authors after peer review is shown, indicating the substantive concerns or comments; minor concerns are not usually shown. Reviewers have the opportunity to discuss the decision before the letter is sent (see review process). Similarly, the author response typically shows only responses to the major concerns raised by the reviewers."
+    },
+    "annotation_469": {
+      "type": "link",
+      "id": "annotation_469",
+      "path": [
+        "paragraph_468",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        398,
+        412
+      ],
+      "url": "http://www.elifesciences.org/the-journal/review-process"
+    },
+    "paragraph_470": {
+      "type": "paragraph",
+      "id": "paragraph_470",
+      "content": "Thank you for choosing to send your work entitled “Stepwise Assembly of the Human Replicative Polymerase Holoenzyme” for consideration at eLife. Your article has been reviewed in depth by a Senior editor (John Kuriyan) and 2 other reviewers. The Senior editor and the other reviewers discussed their critiques and the Senior editor has assembled the following questions and suggestions based on the online discussion."
+    },
+    "annotation_471": {
+      "type": "emphasis",
+      "id": "annotation_471",
+      "path": [
+        "paragraph_470",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        138,
+        143
+      ]
+    },
+    "paragraph_472": {
+      "type": "paragraph",
+      "id": "paragraph_472",
+      "content": "In this paper Benkovic and colleagues analyze the interaction between the DNA polymerase clamp, PCNA, the clamp loader (RFC), and primer-template DNA. The manuscript describes a series of carefully designed and closely argued FRET experiments that seek to dissect the detailed conformational steps in the loading and unloading of human PCNA by human RFC. The advance reported in this paper concerns the role of the RFC complex in unloading PCNA from DNA after it has been loaded."
+    },
+    "paragraph_473": {
+      "type": "paragraph",
+      "id": "paragraph_473",
+      "content": "As the authors point out, it is well understood that PCNA does not readily load on to DNA on its own, and that once loaded it is very stable on DNA because it forms a closed ring. It is also appreciated, from previous work, that clamp loaders can unload clamps from DNA, in the reverse of the reaction that puts them on to DNA, which helps recycling clamps from Okazaki fragments."
+    },
+    "paragraph_474": {
+      "type": "paragraph",
+      "id": "paragraph_474",
+      "content": "Hedglin et al. now present a kinetic analysis of human RFC focused on both the clamp loading and unloading phases of the reaction. The authors delineate distinct ATP binding and ATP hydrolysis steps in the loading reaction, and show that PCNA transiently released from RFC following ATP hydrolysis can be recaptured by RFC in the first step of an unloading reaction. At one level, this is not surprising, and reflects what would be predicted by micro-reversibility of an overall equilibrium process. Nevertheless, the major conclusion, which is that RFC does not dissociate after loading PCNA and can unload the clamp from DNA, runs counter to the prevailing view and therefore increases interest in the paper. The authors suggest that RFC efficiently loads and unloads clamps at primed DNA within a single binding encounter with the primer-template junction. This has major biological implications as it would lower the efficiency of clamp loading during DNA replication, when the required loading rate is ∼1 clamp/second. The problem would be acute if there were any lag between clamp loading and polymerase arrival. Thus, the conclusions of this study need to be carefully validated because they have the potential to change our understanding of a fundamental aspect of this important step in DNA replication."
+    },
+    "paragraph_475": {
+      "type": "paragraph",
+      "id": "paragraph_475",
+      "content": "There are two major concerns about the generality of the conclusions drawn from the experiments reported in this paper, both of which have to do with the nature of the DNA construct used. The experiments are well performed, and the reasoning behind the experiments is well explained, but the experiments all rely on a particular DNA construct, shown in Figure 1. This construct is designed to block PCNA sliding off the DNA in two ways. First, streptavidin is bound to a biotin tag on one end. Second, a single-stranded overhang is present at the other end, which also provides a block for PCNA sliding. The two major concerns are as follows:"
+    },
+    "paragraph_476": {
+      "type": "paragraph",
+      "id": "paragraph_476",
+      "content": "1) Various clamp loaders, such as E. coli γ complex, as well as human and yeast RFC are known to bind single stranded DNA with high affinity. Does the 5' ssDNA flap shift the equilibrium towards clamp unloading by providing a binding site for RFC and enabling it to remain close to loaded PCNA? If there were no such extra binding sites for RFC (no ssDNA in the substrate or the presence of RPA), would there be any significant clamp unloading in a single cycle?"
+    },
+    "annotation_477": {
+      "type": "emphasis",
+      "id": "annotation_477",
+      "path": [
+        "paragraph_476",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        34,
+        41
+      ]
+    },
+    "paragraph_478": {
+      "type": "paragraph",
+      "id": "paragraph_478",
+      "content": "2) From a large body of previously published work we know that polymerases and clamp loaders compete for the same binding sites on the clamp, and so it is not surprising that the arrival of the polymerase (Polδ is used in the experiments reported here) prevents RFC from unloading PCNA. But, in the context of the experiments described here, there is difficulty in understanding how Polδ accesses the same face of the PCNA clamp as does RFC, if a transient association between RFC and PCNA is being maintained. There is a concern that the distance between the RFC loading site and the biotin-avidin block used in this study overly restricts the degree to which the released PCNA can truly dissociate from RFC. Is RFC moving away from the double-helical region and being held by the single-stranded DNA, as discussed in point 1, above? If so, would such an interaction be physiologically relevant?"
+    },
+    "paragraph_479": {
+      "type": "paragraph",
+      "id": "paragraph_479",
+      "content": "In light of these two concerns, the paper would be greatly strengthened if the authors explored (A) the effect of removing the single-stranded overhang or the addition of single-stranded DNA binding protein, e.g., RPA and (B) the effect of longer spacings between the P/T junction and the biotin-avidin block to properly define the extent of dissociation that is needed for Polδ to intervene, and the effect of PCNA diffusion away from the loading site on the kinetics of re-binding to RFC in the unloading process. In the absence of experiments on variants of the DNA construct used, there would be lingering questions about whether the results are an artifact of RFC and PCNA being trapped by a DNA construct that differs in important ways from the structure of a replication fork. We recognize that certain aspects of the DNA construct, such as the flap, may not easily be changed, but if these concerns cannot be overcome then the findings could be open to alternative interpretations.10.7554/eLife.00278.026"
+    },
+    "heading_480": {
+      "type": "heading",
+      "id": "heading_480",
+      "level": 2,
+      "content": "Author response",
+      "nodes": []
+    },
+    "paragraph_481": {
+      "type": "paragraph",
+      "id": "paragraph_481",
+      "content": "1) Various clamp loaders, such as E. coli γ complex, as well as human and yeast RFC are known to bind single stranded DNA with high affinity. Does the 5' ssDNA flap shift the equilibrium towards clamp unloading by providing a binding site for RFC and enabling it to remain close to loaded PCNA? If there were no such extra binding sites for RFC (no ssDNA in the substrate or the presence of RPA), would there be any significant clamp unloading in a single cycle?"
+    },
+    "annotation_482": {
+      "type": "emphasis",
+      "id": "annotation_482",
+      "path": [
+        "paragraph_481",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        33
+      ]
+    },
+    "annotation_483": {
+      "type": "emphasis",
+      "id": "annotation_483",
+      "path": [
+        "paragraph_481",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        42,
+        461
+      ]
+    },
+    "paragraph_484": {
+      "type": "paragraph",
+      "id": "paragraph_484",
+      "content": "We removed the 17 nt single-stranded DNA flap from the Cy3-P/T DNA substrate and did not observe any effect on dissociation of Cy5-PCNA from Cy3-P/T DNA or formation of the polδ holoenzyme (Figure 4–figure supplement 4 and Tables 1 and 2). More details and further discussion has been added to the main text. This rules out the possibility that the flap traps RFC on the DNA and favors clamp unloading by keeping RFC in close proximity to the P/T junction upon loading PCNA."
+    },
+    "paragraph_485": {
+      "type": "paragraph",
+      "id": "paragraph_485",
+      "content": "2) From a large body of previously published work we know that polymerases and clamp loaders compete for the same binding sites on the clamp, and so it is not surprising that the arrival of the polymerase (Polδ is used in the experiments reported here) prevents RFC from unloading PCNA. But, in the context of the experiments described here, there is difficulty in understanding how Polδ accesses the same face of the PCNA clamp as does RFC, if a transient association between RFC and PCNA is being maintained. There is a concern that the distance between the RFC loading site and the biotin-avidin block used in this study overly restricts the degree to which the released PCNA can truly dissociate from RFC. Is RFC moving away from the double-helical region and being held by the single-stranded DNA, as discussed in point 1, above? If so, would such an interaction be physiologically relevant?"
+    },
+    "annotation_486": {
+      "type": "emphasis",
+      "id": "annotation_486",
+      "path": [
+        "paragraph_485",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        895
+      ]
+    },
+    "paragraph_487": {
+      "type": "paragraph",
+      "id": "paragraph_487",
+      "content": "Our apologies if we were unclear in the description of our model. Our model does not propose that RFC and PCNA remain engaged at the P/T junction while both are bound to a given DNA. The results presented in Figure 4–figure supplement 7, along with previously published reports, demonstrates that upon hydrolysis of ATP and closure of the clamp ring, RFC releases PCNA onto DNA. Due to the minimal double-stranded region of the P/T junction (30 bp) and the Neutravidin block within the Cy3-P/T DNA substrate, loaded PCNA can slide at most 20 base pairs away from the P/T junction to allow an incoming polymerase to bind to its C-terminal face. We believe this best represents the situation in vivo where PCNA is loaded onto ∼30 nt RNA-DNA hybrid primers that are blocked on both sides by RPA that restricts loaded PCNA to the P/T junction."
+    },
+    "annotation_488": {
+      "type": "emphasis",
+      "id": "annotation_488",
+      "path": [
+        "paragraph_487",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        690,
+        697
+      ]
+    },
+    "paragraph_489": {
+      "type": "paragraph",
+      "id": "paragraph_489",
+      "content": "The experiments performed on the Cy3-P/T DNA substrate lacking the single-stranded DNA flap (Figure 4–figure supplement 4 and Table 2) demonstrate that human RFC does not retreat to the single-stranded flap upon loading PCNA onto the Cy3-P/T DNA substrate. Rather, the results from these studies suggest that RFC remains at or near P/T junction by anchoring to the adjacent single-stranded DNA of the template strand. Please see the main text for more details and further discussion. In the experiments presented in Figure 4–figure supplement 8 and Table 2, we limited the double-stranded region of the P/T junction to the DNA footprint of the “notched screw cap” conformation of the human RFC•ATP•PCNA complex (25 bp) and did not observe any effect on the amount of polδ holoenzyme formed. Please see the main text for more details and further discussion."
+    },
+    "paragraph_490": {
+      "type": "paragraph",
+      "id": "paragraph_490",
+      "content": "This suggests that, in addition to the closed PCNA ring sliding away from the P/T junction, DNA-bound RFC also retracts towards the P/T junction upon closure and release of PCNA onto DNA. Together, this allows sufficient room for an incoming polymerase to bind to the C-terminal face of PCNA and access the 3' end of the primer strand to form the holoenzyme. This is in agreement with recent structural studies from T4 bacteriophage that showed that hydrolysis of ATP within one subunit of the T4 clamp loader gp44/62 causes the open gp45 sliding clamp to close around DNA, and the clamp loader spiral to partially collapse and retract towards the P/T junction."
+    },
+    "paragraph_491": {
+      "type": "paragraph",
+      "id": "paragraph_491",
+      "content": "In the absence of experiments on variants of the DNA construct used, there would be lingering questions about whether the results are an artifact of RFC and PCNA being trapped by a DNA construct that differs in important ways from the structure of a replication fork."
+    },
+    "annotation_492": {
+      "type": "emphasis",
+      "id": "annotation_492",
+      "path": [
+        "paragraph_491",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        266
+      ]
+    },
+    "paragraph_493": {
+      "type": "paragraph",
+      "id": "paragraph_493",
+      "content": "The two major findings of our studies were as follows:"
+    },
+    "paragraph_494": {
+      "type": "paragraph",
+      "id": "paragraph_494",
+      "content": "1) In the absence of a DNA polymerase, the two opposing activities of RFC, clamp loading and unloading, occur within the same binding encounter with a given DNA. Specifically, RFC loads a stoichiometric amount of PCNA onto a P/T junction and then dissociates into solution, taking all loaded PCNA along with it."
+    },
+    "paragraph_495": {
+      "type": "paragraph",
+      "id": "paragraph_495",
+      "content": "2) Polδ passively captures DNA-bound PCNA and physically occludes it from the unloading activity of RFC in order to form the replicative polymerase holoenzyme. RFC subsequently dissociates, leaving behind the holoenzyme consisting of only PCNA and polδ."
+    },
+    "paragraph_496": {
+      "type": "paragraph",
+      "id": "paragraph_496",
+      "content": "These findings were both independently supported by experiments performed on three different DNA constructs (please see Table 2 for reference), strongly suggesting that these results are not an artifact of the DNA construct."
     }
   }
 }

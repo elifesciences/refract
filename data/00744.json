@@ -59,7 +59,45 @@
         "heading_s4-6",
         "paragraph_440",
         "sub-article",
-        "sub-article"
+        "heading_453",
+        "paragraph_454",
+        "paragraph_456",
+        "paragraph_458",
+        "paragraph_459",
+        "paragraph_460",
+        "paragraph_461",
+        "paragraph_463",
+        "paragraph_467",
+        "paragraph_469",
+        "paragraph_470",
+        "paragraph_472",
+        "paragraph_473",
+        "paragraph_475",
+        "sub-article",
+        "heading_478",
+        "paragraph_479",
+        "paragraph_481",
+        "paragraph_482",
+        "paragraph_485",
+        "paragraph_487",
+        "paragraph_491",
+        "paragraph_493",
+        "paragraph_501",
+        "paragraph_503",
+        "paragraph_507",
+        "paragraph_508",
+        "paragraph_510",
+        "paragraph_511",
+        "paragraph_513",
+        "paragraph_519",
+        "paragraph_523",
+        "paragraph_526",
+        "paragraph_529",
+        "paragraph_531",
+        "paragraph_534",
+        "paragraph_538",
+        "paragraph_539",
+        "paragraph_543"
       ]
     },
     "figures": {
@@ -90,7 +128,9 @@
         "image_fig6s4",
         "image_fig7",
         "image_fig7s1",
-        "image_fig8"
+        "image_fig8",
+        "image_fig9",
+        "image_fig10"
       ]
     },
     "citations": {
@@ -342,7 +382,7 @@
     "paragraph_2": {
       "type": "paragraph",
       "id": "paragraph_2",
-      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited.10.7554/eLife.00744.001"
+      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited."
     },
     "annotation_3": {
       "type": "link",
@@ -412,7 +452,7 @@
     "paragraph_8": {
       "type": "paragraph",
       "id": "paragraph_8",
-      "content": "DOI: http://dx.doi.org/10.7554/eLife.00744.00110.7554/eLife.00744.002"
+      "content": "DOI: http://dx.doi.org/10.7554/eLife.00744.001"
     },
     "annotation_9": {
       "type": "strong",
@@ -6380,7 +6420,7 @@
           "last-name": "Harris"
         }
       ],
-      "italic": "Chlamydomonas"
+      "italic": "undefined[object Object]"
     },
     "annotation_445": {
       "type": "emphasis",
@@ -8124,6 +8164,931 @@
       "level": 1,
       "content": "Article Commentary",
       "nodes": []
+    },
+    "heading_453": {
+      "type": "heading",
+      "id": "heading_453",
+      "level": 2,
+      "content": "Decision letter",
+      "nodes": []
+    },
+    "paragraph_454": {
+      "type": "paragraph",
+      "id": "paragraph_454",
+      "content": "eLife posts the editorial decision letter and author response on a selection of the published articles (subject to the approval of the authors). An edited version of the letter sent to the authors after peer review is shown, indicating the substantive concerns or comments; minor concerns are not usually shown. Reviewers have the opportunity to discuss the decision before the letter is sent (see review process). Similarly, the author response typically shows only responses to the major concerns raised by the reviewers."
+    },
+    "annotation_455": {
+      "type": "link",
+      "id": "annotation_455",
+      "path": [
+        "paragraph_454",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        398,
+        412
+      ],
+      "url": "http://www.elifesciences.org/the-journal/review-process"
+    },
+    "paragraph_456": {
+      "type": "paragraph",
+      "id": "paragraph_456",
+      "content": "Thank you for sending your work entitled “Intraflagellar Transport Drives Flagellar Surface Motility” for consideration at eLife. Your article has been favorably evaluated by a Senior editor and 3 reviewers, one of whom is a member of our Board of Reviewing Editors."
+    },
+    "annotation_457": {
+      "type": "emphasis",
+      "id": "annotation_457",
+      "path": [
+        "paragraph_456",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        123,
+        128
+      ]
+    },
+    "paragraph_458": {
+      "type": "paragraph",
+      "id": "paragraph_458",
+      "content": "The following individuals responsible for the peer review of your submission want to reveal their identity: Suzanne Pfeffer (Reviewing editor), and William Hancock and Robert Bloodgood (peer reviewers)."
+    },
+    "paragraph_459": {
+      "type": "paragraph",
+      "id": "paragraph_459",
+      "content": "The Reviewing editor and the other reviewers discussed their comments before we reached this decision, and the Reviewing editor has assembled the following comments to help you prepare a revised submission. All the comments can likely be addressed by clarification rather than any further experimental work."
+    },
+    "paragraph_460": {
+      "type": "paragraph",
+      "id": "paragraph_460",
+      "content": "1) Please clarify the viscosity measurement. This measurement is important because it implies that there are 16–24 pN viscous drag loads on the train-glycoprotein complexes, which is a significant insight. The observation is that when trapped beads attached to moving trains stall and then release, the bead is pulled back to the center of the trap relatively slowly (if it was simply a bead in solution, the bead drag forces are such that it would return within 1ms presumably). From the exponential fit and known trap stiffness they calculate the drag coefficient. One question is, what is the mode of failure? Is it motors detaching from the microtubules or could it be glycoprotein detaching from the train? (It seems that the simultaneous imaging says that the fluorescent train comes back with the bead, but we were not able to find this.) If the train is moving back, then the assumption is that the motors don't interact with the filament at all, but dynein has been shown to backstep and it's hard to rule out other motor-microtubule interactions, so the observed viscosity may not be just from the membrane. A possible experiment would be to step or oscillate a bead bound to transmembrane glycoprotein (but not train) and pull out viscosity that way."
+    },
+    "paragraph_461": {
+      "type": "paragraph",
+      "id": "paragraph_461",
+      "content": "2) The diagram of the cell body in Figure 3 was really helpful for orienting the transport directions. Can such a diagram be added to the other figures as well to orient the reader?"
+    },
+    "figure_reference_462": {
+      "type": "figure_reference",
+      "id": "figure_reference_462",
+      "path": [
+        "paragraph_461",
+        "content"
+      ],
+      "target": "image_fig3",
+      "range": [
+        35,
+        43
+      ]
+    },
+    "paragraph_463": {
+      "type": "paragraph",
+      "id": "paragraph_463",
+      "content": "3) It is quite difficult to see the pausing in Figure 2A/B. In the figure supplement there are some clearer examples, but the yellow highlighting in 2a makes it quite difficult to make out the pauses. The pausing is abundantly clear and quite convincing in Video 2. If the trains of interest were tracked and their position highlighted in a side-by-side Figure in 2a or possibly overlaid, that might help the reader see the paused trains. Figure 2C is difficult to understand. The odd coloring of the background is distracting, the red and blue arrows in the right panel are too small to see, and it's not described well. Perhaps thresholding to clean it up would help."
+    },
+    "figure_reference_464": {
+      "type": "figure_reference",
+      "id": "figure_reference_464",
+      "path": [
+        "paragraph_463",
+        "content"
+      ],
+      "target": "image_fig2",
+      "range": [
+        47,
+        58
+      ]
+    },
+    "figure_reference_465": {
+      "type": "figure_reference",
+      "id": "figure_reference_465",
+      "path": [
+        "paragraph_463",
+        "content"
+      ],
+      "target": "video_video2",
+      "range": [
+        257,
+        264
+      ]
+    },
+    "figure_reference_466": {
+      "type": "figure_reference",
+      "id": "figure_reference_466",
+      "path": [
+        "paragraph_463",
+        "content"
+      ],
+      "target": "image_fig2",
+      "range": [
+        439,
+        448
+      ]
+    },
+    "paragraph_467": {
+      "type": "paragraph",
+      "id": "paragraph_467",
+      "content": "4) For Figure 2–figure supplement 2B, specify this is magnitude of FFT (if this is correct). Figure 2–figure supplement 5 was very informative. Can it be moved to the main text. Also, the i) and ii) notations on the kymograph aren't referenced in the legend or the adjacent cartoon, where they apply."
+    },
+    "figure_reference_468": {
+      "type": "figure_reference",
+      "id": "figure_reference_468",
+      "path": [
+        "paragraph_467",
+        "content"
+      ],
+      "target": "image_fig2s2",
+      "range": [
+        7,
+        36
+      ]
+    },
+    "paragraph_469": {
+      "type": "paragraph",
+      "id": "paragraph_469",
+      "content": "5) “The data indicate that multiple motors attached to an IFT train may not be able to reach their maximum stall force”: this statement is not well supported by the data."
+    },
+    "paragraph_470": {
+      "type": "paragraph",
+      "id": "paragraph_470",
+      "content": "6) Figure 5B is confusing. The bead seems to move anterograde and then retrograde and then escape, but just before escape it seems to be settling to its original position. Is the position actually the QPD signal and not the real position in those cases around +/- 200 nm because that is the extent of the linear range of the QPD? Please clarify."
+    },
+    "figure_reference_471": {
+      "type": "figure_reference",
+      "id": "figure_reference_471",
+      "path": [
+        "paragraph_470",
+        "content"
+      ],
+      "target": "image_fig5",
+      "range": [
+        3,
+        12
+      ]
+    },
+    "paragraph_472": {
+      "type": "paragraph",
+      "id": "paragraph_472",
+      "content": "It is interesting that for wt the gliding speed is independent of temperature (22 vs 37) – shouldn’t motor speed vary with temperature?"
+    },
+    "paragraph_473": {
+      "type": "paragraph",
+      "id": "paragraph_473",
+      "content": "7) Video 1: why does the level of red fluorescence appear to vary so much from one microsphere to another in the field of view?"
+    },
+    "figure_reference_474": {
+      "type": "figure_reference",
+      "id": "figure_reference_474",
+      "path": [
+        "paragraph_473",
+        "content"
+      ],
+      "target": "video_video1",
+      "range": [
+        3,
+        10
+      ]
+    },
+    "paragraph_475": {
+      "type": "paragraph",
+      "id": "paragraph_475",
+      "content": "8) The caption to Figure 5 gives the incorrect impression that the typical method of reversal of the direction of gliding motility of a Chlamydomonas involves the lifting of one flagellum off the substrate. While this can be sometimes observed, the vast majority of cases of reversals of direction are accomplished while both flagellar remain rigid and in contact with the substrate (albeit to different degrees)."
+    },
+    "figure_reference_476": {
+      "type": "figure_reference",
+      "id": "figure_reference_476",
+      "path": [
+        "paragraph_475",
+        "content"
+      ],
+      "target": "image_fig5",
+      "range": [
+        18,
+        26
+      ]
+    },
+    "annotation_477": {
+      "type": "emphasis",
+      "id": "annotation_477",
+      "path": [
+        "paragraph_475",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        136,
+        149
+      ]
+    },
+    "heading_478": {
+      "type": "heading",
+      "id": "heading_478",
+      "level": 2,
+      "content": "Author response",
+      "nodes": []
+    },
+    "paragraph_479": {
+      "type": "paragraph",
+      "id": "paragraph_479",
+      "content": "1) Please clarify the viscosity measurement. This measurement is important because it implies that there are 16–24 pN viscous drag loads on the train-glycoprotein complexes, which is a significant insight. The observation is that when trapped beads attached to moving trains stall and then release, the bead is pulled back to the center of the trap relatively slowly (if it was simply a bead in solution, the bead drag forces are such that it would return within 1ms presumably). From the exponential fit and known trap stiffness they calculate the drag coefficient. One question is, what is the mode of failure? Is it motors detaching from the microtubules or could it be glycoprotein detaching from the train? (It seems that the simultaneous imaging says that the fluorescent train comes back with the bead, but we were not able to find this.) If the train is moving back, then the assumption is that the motors don’t interact with the filament at all, but dynein has been shown to backstep and it’s hard to rule out other motor-microtubule interactions, so the observed viscosity may not be just from the membrane. A possible experiment would be to step or oscillate a bead bound to transmembrane glycoprotein (but not train) and pull out viscosity that way."
+    },
+    "annotation_480": {
+      "type": "emphasis",
+      "id": "annotation_480",
+      "path": [
+        "paragraph_479",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        1260
+      ]
+    },
+    "paragraph_481": {
+      "type": "paragraph",
+      "id": "paragraph_481",
+      "content": "If dynein steps backward during the recoiling of the bead, we would expect to observe backward steps and the velocity of the bead to be similar to that of dynein. However, the average velocity of the bead is 20 µm/s (an order of magnitude faster than that of dynein 1b) and there are no backward steps detectable, which rule out the possibility of dynein backtracking."
+    },
+    "paragraph_482": {
+      "type": "paragraph",
+      "id": "paragraph_482",
+      "content": "To rule out the possibility that our optical trapping measures glycoprotein rupture forces from IFT trains, we performed simultaneous optical trapping of the bead and fluorescence tracking of IFT trains. Figure 6B shows that IFT train underneath the bead (red dashed curve) recoils with the IFT train. Figure 6–figure supplement 1B and C also show that the bead makes multiple runs and recoils back to the trap center as an IFT train remains underneath the trapped bead, before the bead escapes the trap. The data indicate that we can measure the force production of the same IFT train multiple runs without rupturing the glycoprotein/bead linkage."
+    },
+    "figure_reference_483": {
+      "type": "figure_reference",
+      "id": "figure_reference_483",
+      "path": [
+        "paragraph_482",
+        "content"
+      ],
+      "target": "image_fig6",
+      "range": [
+        204,
+        213
+      ]
+    },
+    "figure_reference_484": {
+      "type": "figure_reference",
+      "id": "figure_reference_484",
+      "path": [
+        "paragraph_482",
+        "content"
+      ],
+      "target": "image_fig6s1",
+      "range": [
+        302,
+        337
+      ]
+    },
+    "paragraph_485": {
+      "type": "paragraph",
+      "id": "paragraph_485",
+      "content": "We performed the experiment the reviewers suggested. We oscillated a bead on a flagellar membrane surface in a square wave pattern and measured the recoiling time of the bead. The average viscous drag coefficient was 8.4 ± 4.2 pN.s/µm, similar to the drag that beads experience when they interact with IFT trains (8.0 ± 2.8 pN.s/μm). We added a short discussion about these results in the main text and showed the results in Figure 7–figure supplement 1."
+    },
+    "figure_reference_486": {
+      "type": "figure_reference",
+      "id": "figure_reference_486",
+      "path": [
+        "paragraph_485",
+        "content"
+      ],
+      "target": "image_fig7s1",
+      "range": [
+        425,
+        453
+      ]
+    },
+    "paragraph_487": {
+      "type": "paragraph",
+      "id": "paragraph_487",
+      "content": "2) The diagram of the cell body in Figure 32013-04-30 was really helpful for orienting the transport directions. Can such a diagram be added to the other figures as well to orient the reader?"
+    },
+    "annotation_488": {
+      "type": "emphasis",
+      "id": "annotation_488",
+      "path": [
+        "paragraph_487",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        34
+      ]
+    },
+    "annotation_489": {
+      "type": "emphasis",
+      "id": "annotation_489",
+      "path": [
+        "paragraph_487",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        35,
+        43
+      ]
+    },
+    "annotation_490": {
+      "type": "emphasis",
+      "id": "annotation_490",
+      "path": [
+        "paragraph_487",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        54,
+        190
+      ]
+    },
+    "paragraph_491": {
+      "type": "paragraph",
+      "id": "paragraph_491",
+      "content": "We have added a diagram of a Chlamydomonas cell adhered to surface with both of its flagella to kymographs to other figures."
+    },
+    "annotation_492": {
+      "type": "emphasis",
+      "id": "annotation_492",
+      "path": [
+        "paragraph_491",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        29,
+        42
+      ]
+    },
+    "paragraph_493": {
+      "type": "paragraph",
+      "id": "paragraph_493",
+      "content": "3) It is quite difficult to see the pausing in Figure 2A/B2013-04-30. In the figure supplement there are some clearer examples, but the yellow highlighting in 2a makes it quite difficult to make out the pauses. The pausing is abundantly clear and quite convincing in Video 22013-04-30. If the trains of interest were tracked and their position highlighted in a side-by-side Figure in 2a or possibly overlaid, that might help the reader see the paused trains. Figure 2C2013-04-30 is difficult to understand. The odd coloring of the background is distracting, the red and blue arrows in the right panel are too small to see, and it’s not described well. Perhaps thresholding to clean it up would help."
+    },
+    "annotation_494": {
+      "type": "emphasis",
+      "id": "annotation_494",
+      "path": [
+        "paragraph_493",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        46
+      ]
+    },
+    "annotation_495": {
+      "type": "emphasis",
+      "id": "annotation_495",
+      "path": [
+        "paragraph_493",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        47,
+        58
+      ]
+    },
+    "annotation_496": {
+      "type": "emphasis",
+      "id": "annotation_496",
+      "path": [
+        "paragraph_493",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        68,
+        266
+      ]
+    },
+    "annotation_497": {
+      "type": "emphasis",
+      "id": "annotation_497",
+      "path": [
+        "paragraph_493",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        267,
+        274
+      ]
+    },
+    "annotation_498": {
+      "type": "emphasis",
+      "id": "annotation_498",
+      "path": [
+        "paragraph_493",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        284,
+        458
+      ]
+    },
+    "annotation_499": {
+      "type": "emphasis",
+      "id": "annotation_499",
+      "path": [
+        "paragraph_493",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        459,
+        468
+      ]
+    },
+    "annotation_500": {
+      "type": "emphasis",
+      "id": "annotation_500",
+      "path": [
+        "paragraph_493",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        479,
+        698
+      ]
+    },
+    "paragraph_501": {
+      "type": "paragraph",
+      "id": "paragraph_501",
+      "content": "We thank the reviewers for their suggestions. In the revised manuscript, we included diagrams next to kymographs to highlight the paused IFT trains and gliding motility. Coloring in Figure 2C is removed, which makes red and blue arrows easier to see. Arrows are made bigger and extra description for these arrows are added in the figure legend."
+    },
+    "figure_reference_502": {
+      "type": "figure_reference",
+      "id": "figure_reference_502",
+      "path": [
+        "paragraph_501",
+        "content"
+      ],
+      "target": "image_fig2",
+      "range": [
+        182,
+        191
+      ]
+    },
+    "paragraph_503": {
+      "type": "paragraph",
+      "id": "paragraph_503",
+      "content": "4) For Figure 2–figure supplement 2B2013-04-30, specify this is magnitude of FFT (if this is correct)."
+    },
+    "annotation_504": {
+      "type": "emphasis",
+      "id": "annotation_504",
+      "path": [
+        "paragraph_503",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        6
+      ]
+    },
+    "annotation_505": {
+      "type": "emphasis",
+      "id": "annotation_505",
+      "path": [
+        "paragraph_503",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        7,
+        36
+      ]
+    },
+    "annotation_506": {
+      "type": "emphasis",
+      "id": "annotation_506",
+      "path": [
+        "paragraph_503",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        46,
+        101
+      ]
+    },
+    "paragraph_507": {
+      "type": "paragraph",
+      "id": "paragraph_507",
+      "content": "Yes. We specified the intensity as the magnitude of FFT in the figure legend."
+    },
+    "paragraph_508": {
+      "type": "paragraph",
+      "id": "paragraph_508",
+      "content": "Figure 2–figure supplement 5 was very informative. Can it be moved to the main text. Also, the i) and ii) notations on the kymograph aren’t referenced in the legend or the adjacent cartoon, where they apply."
+    },
+    "annotation_509": {
+      "type": "emphasis",
+      "id": "annotation_509",
+      "path": [
+        "paragraph_508",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        206
+      ]
+    },
+    "paragraph_510": {
+      "type": "paragraph",
+      "id": "paragraph_510",
+      "content": "We moved the figure to the main text and referred to the notations (shown in C) in D and the figure legend."
+    },
+    "paragraph_511": {
+      "type": "paragraph",
+      "id": "paragraph_511",
+      "content": "5) “The data indicate that multiple motors attached to an IFT train may not be able to reach their maximum stall force”: this statement is not well supported by the data."
+    },
+    "annotation_512": {
+      "type": "emphasis",
+      "id": "annotation_512",
+      "path": [
+        "paragraph_511",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        169
+      ]
+    },
+    "paragraph_513": {
+      "type": "paragraph",
+      "id": "paragraph_513",
+      "content": "This is one of the debated issues in multiple motors field. We clarified this statement by indicating the origin of discussion in the main text as follows: “Previous studies showed that multiple motors produce larger forces, move with higher velocities under load and carry cargos further than a single kinesin or dynein motor (Mallik et al., 2005; Vershinin et al., 2007). It remains controversial whether motor stall forces are additive at low motor copy numbers (Vershinin et al., 2007) or whether multiple motors tend to transport their cargo using only one load-bearing motor at a time (Jamison et al., 2010). Our data show that the average forces exerted on IFT trains well exceed the force-generation capability of a single motor. [We did not observe a significant difference between the force values of stall and release events. The data indicate that multiple motors attached to an IFT train may not be able to reach their maximum stall force, defined as the stall force of a single motor multiplied by the number of bound motors (Shubeita et al., 2008).]”"
+    },
+    "citation_reference_514": {
+      "type": "citation_reference",
+      "id": "citation_reference_514",
+      "path": [
+        "paragraph_513",
+        "content"
+      ],
+      "target": "article_citation_bib37",
+      "range": [
+        328,
+        347
+      ]
+    },
+    "citation_reference_515": {
+      "type": "citation_reference",
+      "id": "citation_reference_515",
+      "path": [
+        "paragraph_513",
+        "content"
+      ],
+      "target": "article_citation_bib50",
+      "range": [
+        349,
+        371
+      ]
+    },
+    "citation_reference_516": {
+      "type": "citation_reference",
+      "id": "citation_reference_516",
+      "path": [
+        "paragraph_513",
+        "content"
+      ],
+      "target": "article_citation_bib50",
+      "range": [
+        466,
+        488
+      ]
+    },
+    "citation_reference_517": {
+      "type": "citation_reference",
+      "id": "citation_reference_517",
+      "path": [
+        "paragraph_513",
+        "content"
+      ],
+      "target": "article_citation_bib28",
+      "range": [
+        592,
+        612
+      ]
+    },
+    "citation_reference_518": {
+      "type": "citation_reference",
+      "id": "citation_reference_518",
+      "path": [
+        "paragraph_513",
+        "content"
+      ],
+      "target": "article_citation_bib48",
+      "range": [
+        1040,
+        1061
+      ]
+    },
+    "paragraph_519": {
+      "type": "paragraph",
+      "id": "paragraph_519",
+      "content": "6) Figure 5B2013-04-30 is confusing. The bead seems to move anterograde and then retrograde and then escape, but just before escape it seems to be settling to its original position. Is the position actually the QPD signal and not the real position in those cases around +/- 200 nm because that is the extent of the linear range of the QPD? Please clarify."
+    },
+    "annotation_520": {
+      "type": "emphasis",
+      "id": "annotation_520",
+      "path": [
+        "paragraph_519",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        2
+      ]
+    },
+    "annotation_521": {
+      "type": "emphasis",
+      "id": "annotation_521",
+      "path": [
+        "paragraph_519",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        3,
+        12
+      ]
+    },
+    "annotation_522": {
+      "type": "emphasis",
+      "id": "annotation_522",
+      "path": [
+        "paragraph_519",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        23,
+        354
+      ]
+    },
+    "paragraph_523": {
+      "type": "paragraph",
+      "id": "paragraph_523",
+      "content": "We chose this example in which the bead exceeded the linear range of the position sensitive detector (PSD) and escaped the trap. Additional examples with the beads stall/release within the linear range of PSD are provided in the Figure 6–figure supplement 1. In those cases, the movements of IFT trains are within 100 nm and can barely be observed in the fluorescence channel. The reviewers are right. The linear range of the PSD is roughly ±150 nm. As the bead moves further away from the trap center, the position calculated from the PSD signal decreases. To make this point clear, we are attaching a typical PSD response as a function of true distance between the bead and the trap center (Author response image 1, below)."
+    },
+    "figure_reference_524": {
+      "type": "figure_reference",
+      "id": "figure_reference_524",
+      "path": [
+        "paragraph_523",
+        "content"
+      ],
+      "target": "image_fig6s1",
+      "range": [
+        229,
+        257
+      ]
+    },
+    "figure_reference_525": {
+      "type": "figure_reference",
+      "id": "figure_reference_525",
+      "path": [
+        "paragraph_523",
+        "content"
+      ],
+      "target": "image_fig9",
+      "range": [
+        693,
+        716
+      ]
+    },
+    "image_fig9": {
+      "type": "image",
+      "id": "image_fig9",
+      "label": "Author response image 1",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00744/svg/elife00744f009.svg",
+      "caption": "paragraph_image_fig9",
+      "graphic_id": "elife00744f009",
+      "format": "image"
+    },
+    "paragraph_image_fig9": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig9",
+      "content": "PSD response curve as a function of bead-trap separation. The linear range of the PSD is ±150 nm. PSD signal decreases as the bead separation exceeds 200–300 nm."
+    },
+    "paragraph_526": {
+      "type": "paragraph",
+      "id": "paragraph_526",
+      "content": "We also show the rest of the bead movement trace, which shows the reduction in QPD signal, when the bead moves towards the extent of the linear range of the PSD (Author response image 2, below)."
+    },
+    "figure_reference_527": {
+      "type": "figure_reference",
+      "id": "figure_reference_527",
+      "path": [
+        "paragraph_526",
+        "content"
+      ],
+      "target": "image_fig10",
+      "range": [
+        162,
+        185
+      ]
+    },
+    "image_fig10": {
+      "type": "image",
+      "id": "image_fig10",
+      "label": "Author response image 2",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00744/svg/elife00744f010.svg",
+      "caption": "paragraph_image_fig10",
+      "graphic_id": "elife00744f010",
+      "format": "image"
+    },
+    "paragraph_image_fig10": {
+      "type": "paragraph",
+      "id": "paragraph_image_fig10",
+      "content": "Simultaneous tracking of IFT27-GFP and bead motility. At t = 3 s, the microscope stage was moved to bring the flagellum underneath the trapped bead. An IFT train stalls at the trap position (t = 5–8 s) and stays adhered to the bead until the bead escapes the trap (t = 10 s). PSD signal shows a plateau and then decreases as the bead moves further away from the trap center, as shown in Author response image 1."
+    },
+    "figure_reference_528": {
+      "type": "figure_reference",
+      "id": "figure_reference_528",
+      "path": [
+        "paragraph_image_fig10",
+        "content"
+      ],
+      "target": "image_fig9",
+      "range": [
+        387,
+        410
+      ]
+    },
+    "paragraph_529": {
+      "type": "paragraph",
+      "id": "paragraph_529",
+      "content": "It is interesting that for wt the gliding speed is independent of temperature (22 vs 37) – shouldn’t motor speed vary with temperature?"
+    },
+    "annotation_530": {
+      "type": "emphasis",
+      "id": "annotation_530",
+      "path": [
+        "paragraph_529",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        134
+      ]
+    },
+    "paragraph_531": {
+      "type": "paragraph",
+      "id": "paragraph_531",
+      "content": "In vitro motility assays showed that the velocity of conventional kinesin motors increase significantly when the temperature is shifted from 22°C to 37°C in accordance with the Arrhenius rate law, but the force generation remain largely constant within a wide range of temperatures (e.g., Kawaguchi et al., BBRC, 2001). However, temperature dependence of Chlamydomonas dynein-1b and kinesin-2 velocity has not been explored in vitro. Most relevant studies were performed in in live Chlamydomonas cells, which showed that IFT speed does not vary between 22°C and 32°C (Lomini et al., JCB 2001). It remains unclear whether the speed of IFT motors is independent of temperature, or the gliding speed is limited by the net force production on paused IFT trains, which is temperature independent."
+    },
+    "annotation_532": {
+      "type": "emphasis",
+      "id": "annotation_532",
+      "path": [
+        "paragraph_531",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        355,
+        368
+      ]
+    },
+    "annotation_533": {
+      "type": "emphasis",
+      "id": "annotation_533",
+      "path": [
+        "paragraph_531",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        482,
+        495
+      ]
+    },
+    "paragraph_534": {
+      "type": "paragraph",
+      "id": "paragraph_534",
+      "content": "7) Video 12013-04-30: why does the level of red fluorescence appear to vary so much from one microsphere to another in the field of view?"
+    },
+    "annotation_535": {
+      "type": "emphasis",
+      "id": "annotation_535",
+      "path": [
+        "paragraph_534",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        2
+      ]
+    },
+    "annotation_536": {
+      "type": "emphasis",
+      "id": "annotation_536",
+      "path": [
+        "paragraph_534",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        3,
+        10
+      ]
+    },
+    "annotation_537": {
+      "type": "emphasis",
+      "id": "annotation_537",
+      "path": [
+        "paragraph_534",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        20,
+        136
+      ]
+    },
+    "paragraph_538": {
+      "type": "paragraph",
+      "id": "paragraph_538",
+      "content": "First, small fraction of the 200 nm beads forms aggregates, and those aggregates tend to attach to the glass surface. These unusually bright beads were not included in the analysis of the data. Second, the sample is illuminated with TIRF, in which the illumination intensity decays exponentially by the z position of the object. The beads positioned on top of the flagella appear dimmer than the ones nonspecifically adhered to the glass surface."
+    },
+    "paragraph_539": {
+      "type": "paragraph",
+      "id": "paragraph_539",
+      "content": "8) The caption to Figure 52013-04-30 gives the incorrect impression that the typical method of reversal of the direction of gliding motility of a Chlamydomonas involves the lifting of one flagellum off the substrate. While this can be sometimes observed, the vast majority of cases of reversals of direction are accomplished while both flagellar remain rigid and in contact with the substrate (albeit to different degrees)."
+    },
+    "annotation_540": {
+      "type": "emphasis",
+      "id": "annotation_540",
+      "path": [
+        "paragraph_539",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        17
+      ]
+    },
+    "annotation_541": {
+      "type": "emphasis",
+      "id": "annotation_541",
+      "path": [
+        "paragraph_539",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        18,
+        26
+      ]
+    },
+    "annotation_542": {
+      "type": "emphasis",
+      "id": "annotation_542",
+      "path": [
+        "paragraph_539",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        37,
+        422
+      ]
+    },
+    "paragraph_543": {
+      "type": "paragraph",
+      "id": "paragraph_543",
+      "content": "We actually observed 60% of the time the cell lifted one flagellum to glide toward the other direction. We reckon that there can be several reasons why our observations are different from the previously published results. First, we use TIRF illumination, which is highly sensitive to the distance to the surface compared to brightfield imaging. Second, in certain cases, the cell only needs to lift a part of its flagellum to release the surface-attached IFT trains. We categorize these events as the cell lifts its flagellum to reverse gliding direction. We are not sure how these events were classified in previous studies. Third, different cell strains seem to have different tendency to lift their flagella. For example, pf18 strain tends to lift one of its flagella during gliding less frequently. In our experiments, we used IFT27-GFP strain, which is different from the strains that are previously used for this experiment."
+    },
+    "annotation_544": {
+      "type": "emphasis",
+      "id": "annotation_544",
+      "path": [
+        "paragraph_543",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        725,
+        729
+      ]
     }
   }
 }

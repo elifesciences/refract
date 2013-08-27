@@ -87,7 +87,20 @@
         "paragraph_232",
         "paragraph_233",
         "sub-article",
-        "sub-article"
+        "heading_237",
+        "paragraph_238",
+        "paragraph_240",
+        "paragraph_242",
+        "paragraph_243",
+        "paragraph_244",
+        "paragraph_245",
+        "paragraph_246",
+        "sub-article",
+        "heading_247",
+        "paragraph_248",
+        "paragraph_250",
+        "paragraph_251",
+        "paragraph_253"
       ]
     },
     "figures": {
@@ -336,7 +349,7 @@
     "paragraph_2": {
       "type": "paragraph",
       "id": "paragraph_2",
-      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited.10.7554/eLife.00699.001"
+      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited."
     },
     "annotation_3": {
       "type": "link",
@@ -367,7 +380,7 @@
     "paragraph_5": {
       "type": "paragraph",
       "id": "paragraph_5",
-      "content": "DOI: http://dx.doi.org/10.7554/eLife.00699.00110.7554/eLife.00699.002"
+      "content": "DOI: http://dx.doi.org/10.7554/eLife.00699.001"
     },
     "annotation_6": {
       "type": "strong",
@@ -4490,7 +4503,7 @@
       "citation_url": [],
       "format": "journal",
       "editors": [],
-      "comment": "[Epub ahead of print]"
+      "comment": "undefined[object Object]"
     },
     "article_citation_bib47": {
       "type": "article_citation",
@@ -5032,6 +5045,167 @@
       "level": 1,
       "content": "Article Commentary",
       "nodes": []
+    },
+    "heading_237": {
+      "type": "heading",
+      "id": "heading_237",
+      "level": 2,
+      "content": "Decision letter",
+      "nodes": []
+    },
+    "paragraph_238": {
+      "type": "paragraph",
+      "id": "paragraph_238",
+      "content": "eLife posts the editorial decision letter and author response on a selection of the published articles (subject to the approval of the authors). An edited version of the letter sent to the authors after peer review is shown, indicating the substantive concerns or comments; minor concerns are not usually shown. Reviewers have the opportunity to discuss the decision before the letter is sent (see review process). Similarly, the author response typically shows only responses to the major concerns raised by the reviewers."
+    },
+    "annotation_239": {
+      "type": "link",
+      "id": "annotation_239",
+      "path": [
+        "paragraph_238",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        398,
+        412
+      ],
+      "url": "http://www.elifesciences.org/the-journal/review-process"
+    },
+    "paragraph_240": {
+      "type": "paragraph",
+      "id": "paragraph_240",
+      "content": "Thank you for sending your work entitled “Segregation of complex acoustic scenes based on temporal coherence” for consideration at eLife. Your article has been favorably evaluated by a Senior editor and 3 reviewers, one of whom is a member of our Board of Reviewing Editors, and one of whom, Mitchell Steinschneider, wants to reveal his identity."
+    },
+    "annotation_241": {
+      "type": "emphasis",
+      "id": "annotation_241",
+      "path": [
+        "paragraph_240",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        131,
+        136
+      ]
+    },
+    "paragraph_242": {
+      "type": "paragraph",
+      "id": "paragraph_242",
+      "content": "The Reviewing editor and the other reviewers discussed their comments before we reached this decision, and the Reviewing editor has assembled the following comments to help you prepare a revised submission."
+    },
+    "paragraph_243": {
+      "type": "paragraph",
+      "id": "paragraph_243",
+      "content": "This is a well-written psychoacoustical study demonstrating that subjects are able to “hear out” a sequence of tones embedded in a complex acoustic environment of randomly presented tones. In contrast to other studies of this kind, there are no protective spectral regions where the background tones are omitted. The authors demonstrate that after initial training, most subjects are able to segregate the foreground sound pattern (one sound source) from the background sound source. Studies were appropriately performed with adequate controls. Indeed, it is remarkable that segregation of the foreground tone sequence still occurs despite introduction of interleaved bursts of white noise between the foreground tones. The duration of the white noise could extend up to 500 ms. These findings are clearly beyond the segregation capacities of core auditory cortex and the authors rightfully suggest non-classical auditory cortical processing stations as being the most likely generators of this percept. Further, the authors concisely provide modeling data and evidence that the temporal coherence model is the most appropriate model for explaining how this foreground/background segregation develops."
+    },
+    "paragraph_244": {
+      "type": "paragraph",
+      "id": "paragraph_244",
+      "content": "While the psychoacoustic results are interesting, the reviewers were disappointed by the integration between data and modeling."
+    },
+    "paragraph_245": {
+      "type": "paragraph",
+      "id": "paragraph_245",
+      "content": "1) First, the motivation for each modification of stimulus parameters should be explained more clearly. What would their model predict for the manipulation?"
+    },
+    "paragraph_246": {
+      "type": "paragraph",
+      "id": "paragraph_246",
+      "content": "2) Second, it is unclear why the model simulations are not shown for all experimental manipulations, but only for number of tones and frequency components. It would be nice to see what the model predicts for the ramped SFG.10.7554/eLife.00699.009"
+    },
+    "heading_247": {
+      "type": "heading",
+      "id": "heading_247",
+      "level": 2,
+      "content": "Author response",
+      "nodes": []
+    },
+    "paragraph_248": {
+      "type": "paragraph",
+      "id": "paragraph_248",
+      "content": "1) First, the motivation for each modification of stimulus parameters should be explained more clearly. What would their model predict for the manipulation?"
+    },
+    "annotation_249": {
+      "type": "emphasis",
+      "id": "annotation_249",
+      "path": [
+        "paragraph_248",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        155
+      ]
+    },
+    "paragraph_250": {
+      "type": "paragraph",
+      "id": "paragraph_250",
+      "content": "We agree with this comment and we have restructured the manuscript to better integrate the psychophysics and the modeling, and to provide a clear motivation for the simulation parameters for each experiment. See the Results section for a better description of the modeling, starting “The temporal coherence model is based on the idea that a perceptual “stream” emerges when a group of (frequency) channels are coherently activated against the backdrop of other uncorrelated channels (Shamma et al, 2010).”"
+    },
+    "paragraph_251": {
+      "type": "paragraph",
+      "id": "paragraph_251",
+      "content": "2) Second, it is unclear why the model simulations are not shown for all experimental manipulations, but only for number of tones and frequency components. It would be nice to see what the model predicts for the ramped SFG."
+    },
+    "annotation_252": {
+      "type": "emphasis",
+      "id": "annotation_252",
+      "path": [
+        "paragraph_251",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        222
+      ]
+    },
+    "paragraph_253": {
+      "type": "paragraph",
+      "id": "paragraph_253",
+      "content": "In addition to the modeling of the first (“basic SFG”) experiment (Figure 3), we have now performed and included simulations for the remaining experiments (new Figure 3–figure supplement 1) demonstrating results qualitatively similar to those in Figure 3."
+    },
+    "figure_reference_254": {
+      "type": "figure_reference",
+      "id": "figure_reference_254",
+      "path": [
+        "paragraph_253",
+        "content"
+      ],
+      "target": "image_fig3",
+      "range": [
+        67,
+        75
+      ]
+    },
+    "figure_reference_255": {
+      "type": "figure_reference",
+      "id": "figure_reference_255",
+      "path": [
+        "paragraph_253",
+        "content"
+      ],
+      "target": "image_fig3s1",
+      "range": [
+        160,
+        188
+      ]
+    },
+    "figure_reference_256": {
+      "type": "figure_reference",
+      "id": "figure_reference_256",
+      "path": [
+        "paragraph_253",
+        "content"
+      ],
+      "target": "image_fig3",
+      "range": [
+        246,
+        254
+      ]
     }
   }
 }

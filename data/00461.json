@@ -43,7 +43,39 @@
         "heading_s4-4",
         "paragraph_143",
         "sub-article",
-        "sub-article"
+        "heading_151",
+        "paragraph_152",
+        "paragraph_154",
+        "paragraph_156",
+        "paragraph_157",
+        "paragraph_158",
+        "paragraph_159",
+        "paragraph_160",
+        "paragraph_161",
+        "paragraph_162",
+        "paragraph_163",
+        "paragraph_164",
+        "paragraph_165",
+        "paragraph_166",
+        "paragraph_167",
+        "paragraph_168",
+        "sub-article",
+        "heading_169",
+        "paragraph_170",
+        "paragraph_172",
+        "paragraph_173",
+        "paragraph_174",
+        "paragraph_176",
+        "paragraph_178",
+        "paragraph_179",
+        "paragraph_181",
+        "paragraph_183",
+        "paragraph_185",
+        "paragraph_186",
+        "paragraph_188",
+        "paragraph_190",
+        "paragraph_191",
+        "paragraph_193"
       ]
     },
     "figures": {
@@ -223,7 +255,7 @@
     "paragraph_2": {
       "type": "paragraph",
       "id": "paragraph_2",
-      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited.10.7554/eLife.00461.001"
+      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited."
     },
     "annotation_3": {
       "type": "link",
@@ -254,7 +286,7 @@
     "paragraph_5": {
       "type": "paragraph",
       "id": "paragraph_5",
-      "content": "DOI: http://dx.doi.org/10.7554/eLife.00461.00110.7554/eLife.00461.002"
+      "content": "DOI: http://dx.doi.org/10.7554/eLife.00461.001"
     },
     "annotation_6": {
       "type": "strong",
@@ -3193,6 +3225,315 @@
       "level": 1,
       "content": "Article Commentary",
       "nodes": []
+    },
+    "heading_151": {
+      "type": "heading",
+      "id": "heading_151",
+      "level": 2,
+      "content": "Decision letter",
+      "nodes": []
+    },
+    "paragraph_152": {
+      "type": "paragraph",
+      "id": "paragraph_152",
+      "content": "eLife posts the editorial decision letter and author response on a selection of the published articles (subject to the approval of the authors). An edited version of the letter sent to the authors after peer review is shown, indicating the substantive concerns or comments; minor concerns are not usually shown. Reviewers have the opportunity to discuss the decision before the letter is sent (see review process). Similarly, the author response typically shows only responses to the major concerns raised by the reviewers."
+    },
+    "annotation_153": {
+      "type": "link",
+      "id": "annotation_153",
+      "path": [
+        "paragraph_152",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        398,
+        412
+      ],
+      "url": "http://www.elifesciences.org/the-journal/review-process"
+    },
+    "paragraph_154": {
+      "type": "paragraph",
+      "id": "paragraph_154",
+      "content": "Thank you for choosing to send your work entitled “Ribosome structures to near-atomic resolution from thirty thousand cryo-EM particles” for consideration at eLife. Your article has been evaluated by a Senior editor and 3 reviewers, one of whom is a member of our Board of Reviewing Editors."
+    },
+    "annotation_155": {
+      "type": "emphasis",
+      "id": "annotation_155",
+      "path": [
+        "paragraph_154",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        158,
+        163
+      ]
+    },
+    "paragraph_156": {
+      "type": "paragraph",
+      "id": "paragraph_156",
+      "content": "The following individuals responsible for the peer review of your submission want to reveal their identity: Werner Kühlbrandt (Reviewing editor); Niko Grigorieff (peer reviewer). The Reviewing editor and the other reviewers discussed their comments, and the Reviewing editor has assembled the following summary to help you prepare a revised submission."
+    },
+    "paragraph_157": {
+      "type": "paragraph",
+      "id": "paragraph_157",
+      "content": "Bai et al report the cryo-EM structure of the yeast 80S ribosome at close to 4 Å resolution, determined from images recorded with the new direct electron detection Falcon camera. An essential modification of the camera readout that is not yet commercially available enabled the recording of dose-fractionation movies. By aligning and averaging individual subframes from these movies, the authors were able to overcome the effects of beam-induced specimen movement, which has been the most serious limitation in high-resolution data acquisition by cryo-EM until now. Remarkably, movies of 35,000 particles or less recorded in a single session were sufficient to achieve this impressive result."
+    },
+    "paragraph_158": {
+      "type": "paragraph",
+      "id": "paragraph_158",
+      "content": "Similar cameras have been developed by Gatan and the Direct Electron company. The high detective quantum efficiency of these innovative devices makes them far superior to the widely used scintillator-based CCD cameras and even to film, which has been the medium of choice for high-resolution cryo-EM data recording. The new direct electron detection cameras are set to revolutionize cryo-EM, and the present study is the first to take advantage of their full power to determine the structure of an important macromolecular complex at high resolution."
+    },
+    "paragraph_159": {
+      "type": "paragraph",
+      "id": "paragraph_159",
+      "content": "An important factor contributing to this success is new software. Scheres' powerful Bayesian approach already proved in the RELION program to excel in the job of sorting projections from heterogeneous samples. This frame-by-frame particle alignment had already been studied by Brilot et al (2012) and Campbell et al. (2012) but with limited improvement in resolution. Scheres and coworkers prove the superiority of their statistical framework over more traditional methods, bringing the resolution of single-particle methods into a new territory. The paper requires only minor modifications, as below."
+    },
+    "paragraph_160": {
+      "type": "paragraph",
+      "id": "paragraph_160",
+      "content": "1. The concept of a “probabilistic prior” will be unfamiliar to most readers and requires a brief explanation. How were the widths of the priors for the statistical movie processing chosen? Did the authors perform some kind of optimization, maybe by observing improvements in the gold-standard FSC? How did the authors take into account the observation that the beam-induced movement per dose unit is larger at the beginning of an exposure and smaller towards the end?"
+    },
+    "paragraph_161": {
+      "type": "paragraph",
+      "id": "paragraph_161",
+      "content": "2. Comments on image processing:"
+    },
+    "paragraph_162": {
+      "type": "paragraph",
+      "id": "paragraph_162",
+      "content": "* What was the beam tilt in the centre of the illuminated area, and how was it measured or estimated? How much beam tilt would be acceptable at 4 Å resolution? Can you exclude that the resolution was limited by beam tilt?"
+    },
+    "paragraph_163": {
+      "type": "paragraph",
+      "id": "paragraph_163",
+      "content": "* Please provide details on the classification (window size, number of classes, regularization factor, how many cycles?)."
+    },
+    "paragraph_164": {
+      "type": "paragraph",
+      "id": "paragraph_164",
+      "content": "* Code for this novel alignment procedure should be provided."
+    },
+    "paragraph_165": {
+      "type": "paragraph",
+      "id": "paragraph_165",
+      "content": "* It would be desirable, and a great asset for the community, if the data would be deposited as a benchmark that allowed the testing of other algorithms. EMDB now allows for such depositions."
+    },
+    "paragraph_166": {
+      "type": "paragraph",
+      "id": "paragraph_166",
+      "content": "3. Comments on figures:"
+    },
+    "paragraph_167": {
+      "type": "paragraph",
+      "id": "paragraph_167",
+      "content": "* Figure 1: The red and green dots reinforce the (false) notion that the particle moves by this amount. The underlying vector with exaggerated length is okay."
+    },
+    "paragraph_168": {
+      "type": "paragraph",
+      "id": "paragraph_168",
+      "content": "* Figure 2G: there should be a panel 2G (or a separate figure) showing complete density maps of the 80S ribosome for the three modes of frame integration. Many readers are familiar with the appearance of the ribosome in various reconstructions and reproduction of the full maps would provide a good qualitative appreciation of the results.10.7554/eLife.00461.011"
+    },
+    "heading_169": {
+      "type": "heading",
+      "id": "heading_169",
+      "level": 2,
+      "content": "Author response",
+      "nodes": []
+    },
+    "paragraph_170": {
+      "type": "paragraph",
+      "id": "paragraph_170",
+      "content": "1. The concept of a “probabilistic prior” will be unfamiliar to most readers and requires a brief explanation. How were the widths of the priors for the statistical movie processing chosen? Did the authors perform some kind of optimization, maybe by observing improvements in the gold-standard FSC? How did the authors take into account the observation that the beam-induced movement per dose unit is larger at the beginning of an exposure and smaller towards the end?"
+    },
+    "annotation_171": {
+      "type": "emphasis",
+      "id": "annotation_171",
+      "path": [
+        "paragraph_170",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        467
+      ]
+    },
+    "paragraph_172": {
+      "type": "paragraph",
+      "id": "paragraph_172",
+      "content": "We added the following sentence to clarify the role of the prior: “This prior down-weights orientations for the movie frames in a continuous manner according to their distance from the orientation determined for the 16-frame averages.”"
+    },
+    "paragraph_173": {
+      "type": "paragraph",
+      "id": "paragraph_173",
+      "content": "We did not do any optimization on the width of the prior, but rather used the information gained from the 4-frame average refinements. However, one could indeed use the gold-standard FSC curve to find a suitable width. More elegantly, in future work these widths could be estimated from the data themselves. We also did not account for different movements per dose-unit, although this could also be done. To reflect all this, we added the following text to the Materials and methods: “We note that in this case we used the observed translations and rotations of the 4-frame average refinements to choose the widths of our priors. Alternatively, one may optimize these values based on their effects on the gold-standard FSC curve. Although not pursued in this study, the Bayesian approach also provides a convenient framework to estimate these widths from the data themselves. In addition, as the field gains a better understanding of beam-induced movements, more detailed priors (e.g. with widths that depend on the accumulated dose for each frame) may easily be incorporated.”"
+    },
+    "paragraph_174": {
+      "type": "paragraph",
+      "id": "paragraph_174",
+      "content": "2. Comments on image processing:"
+    },
+    "annotation_175": {
+      "type": "emphasis",
+      "id": "annotation_175",
+      "path": [
+        "paragraph_174",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        31
+      ]
+    },
+    "paragraph_176": {
+      "type": "paragraph",
+      "id": "paragraph_176",
+      "content": "* What was the beam tilt in the centre of the illuminated area, and how was it measured or estimated? How much beam tilt would be acceptable at 4 Å resolution? Can you exclude that the resolution was limited by beam tilt?"
+    },
+    "annotation_177": {
+      "type": "emphasis",
+      "id": "annotation_177",
+      "path": [
+        "paragraph_176",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        220
+      ]
+    },
+    "paragraph_178": {
+      "type": "paragraph",
+      "id": "paragraph_178",
+      "content": "We did not measure beam-tilt, and cannot exclude that the resolution is limited by beam-tilt. To make this explicit, we modified the following sentence: “The small area that was imaged relative to the area that was illuminated resulted in a beam-tilt that was much smaller than the one expected from the relatively large C2 aperture that we used, but we cannot exclude that our final resolution was limited by beam-tilt.”"
+    },
+    "paragraph_179": {
+      "type": "paragraph",
+      "id": "paragraph_179",
+      "content": "* Code for this novel alignment procedure should be provided."
+    },
+    "annotation_180": {
+      "type": "emphasis",
+      "id": "annotation_180",
+      "path": [
+        "paragraph_179",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        60
+      ]
+    },
+    "paragraph_181": {
+      "type": "paragraph",
+      "id": "paragraph_181",
+      "content": "All our code is open-source. The 1.2 release of RELION is being prepared at the moment, but is already available for beta-testing upon request. The following sentence was added to the Materials and methods: “This open-source program may be downloaded from http://www2.mrc-lmb.cam.ac.uk/relion; the movie-processing procedures described here are available in version 1.2.”"
+    },
+    "annotation_182": {
+      "type": "link",
+      "id": "annotation_182",
+      "path": [
+        "paragraph_181",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        256,
+        292
+      ],
+      "url": "http://www2.mrc-lmb.cam.ac.uk/relion"
+    },
+    "paragraph_183": {
+      "type": "paragraph",
+      "id": "paragraph_183",
+      "content": "* It would be desirable, and a great asset for the community, if the data would be deposited as a benchmark that allowed the testing of other algorithms. EMDB now allows for such depositions."
+    },
+    "annotation_184": {
+      "type": "emphasis",
+      "id": "annotation_184",
+      "path": [
+        "paragraph_183",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        190
+      ]
+    },
+    "paragraph_185": {
+      "type": "paragraph",
+      "id": "paragraph_185",
+      "content": "This is a good idea. We have contacted EMDB about the possibility of hosting our 80S data set. Comprising ∼260Gb, data volume could be an issue."
+    },
+    "paragraph_186": {
+      "type": "paragraph",
+      "id": "paragraph_186",
+      "content": "3. Comments on figures:"
+    },
+    "annotation_187": {
+      "type": "emphasis",
+      "id": "annotation_187",
+      "path": [
+        "paragraph_186",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        22
+      ]
+    },
+    "paragraph_188": {
+      "type": "paragraph",
+      "id": "paragraph_188",
+      "content": "* Figure 1: The red and green dots reinforce the (false) notion that the particle moves by this amount. The underlying vector with exaggerated length is okay."
+    },
+    "annotation_189": {
+      "type": "emphasis",
+      "id": "annotation_189",
+      "path": [
+        "paragraph_188",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        157
+      ]
+    },
+    "paragraph_190": {
+      "type": "paragraph",
+      "id": "paragraph_190",
+      "content": "We modified the legend as follows: “The relative position of the average from the first four frames is shown in green, the relative position of the last four frames in red. The differences between these relative positions are exaggerated 25 times for improved clarity.”"
+    },
+    "paragraph_191": {
+      "type": "paragraph",
+      "id": "paragraph_191",
+      "content": "* Figure 2G: there should be a panel 2G (or a separate figure) showing complete density maps of the 80S ribosome for the three modes of frame integration. Many readers are familiar with the appearance of the ribosome in various reconstructions and reproduction of the full maps would provide a good qualitative appreciation of the results."
+    },
+    "annotation_192": {
+      "type": "emphasis",
+      "id": "annotation_192",
+      "path": [
+        "paragraph_191",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        338
+      ]
+    },
+    "paragraph_193": {
+      "type": "paragraph",
+      "id": "paragraph_193",
+      "content": "In our opinion, it is hard to appreciate the improvement in density at 5–4 Å resolution in the large views of complete ribosomes. Still, we understand that these views may be useful to cryo-EM ribosome experts as an overall quality check. Therefore, we have included the requested views as a Figure supplement to Figure 2."
     }
   }
 }

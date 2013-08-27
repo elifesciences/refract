@@ -112,7 +112,36 @@
         "paragraph_719",
         "formula_equ16",
         "sub-article",
-        "sub-article"
+        "heading_722",
+        "paragraph_723",
+        "paragraph_725",
+        "paragraph_727",
+        "paragraph_728",
+        "paragraph_729",
+        "paragraph_733",
+        "paragraph_736",
+        "paragraph_739",
+        "sub-article",
+        "heading_740",
+        "paragraph_741",
+        "paragraph_745",
+        "paragraph_747",
+        "paragraph_749",
+        "paragraph_751",
+        "paragraph_754",
+        "paragraph_756",
+        "paragraph_758",
+        "paragraph_760",
+        "paragraph_762",
+        "paragraph_766",
+        "paragraph_768",
+        "paragraph_770",
+        "paragraph_771",
+        "paragraph_774",
+        "paragraph_778",
+        "paragraph_782",
+        "paragraph_784",
+        "paragraph_786"
       ]
     },
     "figures": {
@@ -333,7 +362,7 @@
     "paragraph_2": {
       "type": "paragraph",
       "id": "paragraph_2",
-      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited.10.7554/eLife.00632.001"
+      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited."
     },
     "annotation_3": {
       "type": "link",
@@ -364,7 +393,7 @@
     "paragraph_5": {
       "type": "paragraph",
       "id": "paragraph_5",
-      "content": "DOI: http://dx.doi.org/10.7554/eLife.00632.00110.7554/eLife.00632.002"
+      "content": "DOI: http://dx.doi.org/10.7554/eLife.00632.001"
     },
     "annotation_6": {
       "type": "strong",
@@ -7462,7 +7491,7 @@
       "citation_url": [],
       "format": "journal",
       "editors": [],
-      "supplement": "suppl 1"
+      "supplement": "undefined[object Object]"
     },
     "article_citation_bib14": {
       "type": "article_citation",
@@ -9328,6 +9357,650 @@
       "level": 1,
       "content": "Article Commentary",
       "nodes": []
+    },
+    "heading_722": {
+      "type": "heading",
+      "id": "heading_722",
+      "level": 2,
+      "content": "Decision letter",
+      "nodes": []
+    },
+    "paragraph_723": {
+      "type": "paragraph",
+      "id": "paragraph_723",
+      "content": "eLife posts the editorial decision letter and author response on a selection of the published articles (subject to the approval of the authors). An edited version of the letter sent to the authors after peer review is shown, indicating the substantive concerns or comments; minor concerns are not usually shown. Reviewers have the opportunity to discuss the decision before the letter is sent (see review process). Similarly, the author response typically shows only responses to the major concerns raised by the reviewers."
+    },
+    "annotation_724": {
+      "type": "link",
+      "id": "annotation_724",
+      "path": [
+        "paragraph_723",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        398,
+        412
+      ],
+      "url": "http://www.elifesciences.org/the-journal/review-process"
+    },
+    "paragraph_725": {
+      "type": "paragraph",
+      "id": "paragraph_725",
+      "content": "Thank you for sending your work entitled “Viral genome structures are optimal for capsid assembly” for consideration at eLife. Your article has been favorably evaluated by a Senior editor and 2 reviewers, one of whom is a member of our Board of Reviewing Editors."
+    },
+    "annotation_726": {
+      "type": "emphasis",
+      "id": "annotation_726",
+      "path": [
+        "paragraph_725",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        120,
+        125
+      ]
+    },
+    "paragraph_727": {
+      "type": "paragraph",
+      "id": "paragraph_727",
+      "content": "The Reviewing editor and the other reviewer discussed their comments before we reached this decision, and the Reviewing editor has assembled the following comments to help you prepare a revised submission."
+    },
+    "paragraph_728": {
+      "type": "paragraph",
+      "id": "paragraph_728",
+      "content": "While both reviewers agree that the study is of very high interest, there is a need to provide further clarification and justification for the treatment of electrostatic screening in the model and its consequences on the robustness of the overall conclusions. The manuscript is clearly and cleanly written, logical, beautifully carried out, and of significance for the understanding of viral assembly and function. The authors first show dynamical assembly of capsids around NAs occurs optimally for parameters that thermodynamically optimize assembly. This allows for more controlled thermodynamic simulations that disentangle the role of charge, excluded volume, and tertiary structure have in the assembly process. Significantly, the authors find that assembled capsids spontaneously overcharge in the absence of eternal fields or influences. In all, one finds no flaws with the manuscript, either stylistically or in terms of the science. The study adds significantly to the field of virus biophysics. However, because the simulations are based on a simplified model of viral capsid assembly, there could be serious concerns about all the approximations that are made. Some clarification by the authors would be welcome to further strengthen the study."
+    },
+    "paragraph_729": {
+      "type": "paragraph",
+      "id": "paragraph_729",
+      "content": "1) Part of the appeal of the study is the simplicity of the underlying model, which confers great clarity to the analysis and the description of the results. The nicest and most impressive results are probably summarized in Figure 4. However, upon more scrutiny, one does also start to worry about the significance of the approximations that are being made, and how much confidence one has in the robustness of the conclusions. For example, it would be nice to convey visually how the viruses differ in Figure 4. The match between computations and length of genome is nice, but it is not clear what is the underlying basis for the agreement. Is the size of the base-paired length packed merely reflecting the accessible volume inside the capsid? The model is simple enough that one should be able to summarize what are the principal differences between the different viruses shown in Figure 4 (size of full capsid, charge of the arms, etc.)."
+    },
+    "figure_reference_730": {
+      "type": "figure_reference",
+      "id": "figure_reference_730",
+      "path": [
+        "paragraph_729",
+        "content"
+      ],
+      "target": "image_fig4",
+      "range": [
+        224,
+        232
+      ]
+    },
+    "figure_reference_731": {
+      "type": "figure_reference",
+      "id": "figure_reference_731",
+      "path": [
+        "paragraph_729",
+        "content"
+      ],
+      "target": "image_fig4",
+      "range": [
+        503,
+        511
+      ]
+    },
+    "figure_reference_732": {
+      "type": "figure_reference",
+      "id": "figure_reference_732",
+      "path": [
+        "paragraph_729",
+        "content"
+      ],
+      "target": "image_fig4",
+      "range": [
+        884,
+        892
+      ]
+    },
+    "paragraph_733": {
+      "type": "paragraph",
+      "id": "paragraph_733",
+      "content": "2) Much is made of the observation that the viruses are overcharged, that isi.e., the ratio between the negative (nucleic acid) over the positive (protein arms) charges is larger than 1. Essentially, this means that the assembled capsid with its packed nucleic acid chain is overall negative. The text is emphatic: “our simulations show that ‘overcharged’ capsids are favored thermodynamically and kinetically, even in the absence of cellular factors or other external effects.” But while one does not dispute the outcome of the simulations, it is disappointing that no simple argument is provided nor sketched to explain why this is so (a back-of-the-envelope type of explanation). This would add much clarification on the underlying reasons for this outcome of the model. More importantly, it isn't clear that the charge ratio predicted by the model is correct or even reasonable. For instance, what about the likely presence of magnesium ions, which would presumably cancel out the charge of the excess of negative charges? The ionic screening model used here is Debye-Huckel and the model does not incorporate the possible effect of divalent binding. Furthermore, is it experimentally known that these capsids are negatively charged? This ought to be detectable through electrophoretic mobility measurements (zeta potential). A figure supplement provides a comparison of a calculation with explicit ions presented as a validation of the Debye-Huckel approximation (Figure 3–figure supplement 3). Not much detail is offered about this test; presumably this is for a 1:1 electrolyte in a primitive model representation of ionic solution (continuum dielectric solvent and hard-sphere ions), but no ion radii are given so it is hard to see how realistic this model is. And again, what about these divalent ions binding to the DNA?"
+    },
+    "annotation_734": {
+      "type": "emphasis",
+      "id": "annotation_734",
+      "path": [
+        "paragraph_733",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        622,
+        625
+      ]
+    },
+    "figure_reference_735": {
+      "type": "figure_reference",
+      "id": "figure_reference_735",
+      "path": [
+        "paragraph_733",
+        "content"
+      ],
+      "target": "image_fig3s3",
+      "range": [
+        1469,
+        1497
+      ]
+    },
+    "paragraph_736": {
+      "type": "paragraph",
+      "id": "paragraph_736",
+      "content": "3) Additional cause for concern about the treatment of ionic screening arise from Figure 2–figure supplement 2, which shows the residual excess chemical potential for adding one segment to the nucleic acid chain when it is in bulk solution (red line) or when it is in a capsid (blue line). What is noteworthy here is that the residual excess chemical potential is positive for both cases. Normally, insertion of one charged particle in a continuum solvent with an electrolyte is a negative number because the interaction of the charged particle with the surroundings, which comprises solvent and mobile counterions, is favorable. This excess free energy to add one chain segment in solution would probably be negative, even within the context of Debye-Huckel. We believe that the numbers in Figure 2–figure supplement 2 are positive because this interaction between the segment of the salt solution is not included in the present model. The latter probably only treats the Debye-Huckel screening of the interactions of the charged segment with other segments (which is positive and unfavorable) but the self-energy is neglected. Please confirm."
+    },
+    "figure_reference_737": {
+      "type": "figure_reference",
+      "id": "figure_reference_737",
+      "path": [
+        "paragraph_736",
+        "content"
+      ],
+      "target": "image_fig2s2",
+      "range": [
+        82,
+        110
+      ]
+    },
+    "figure_reference_738": {
+      "type": "figure_reference",
+      "id": "figure_reference_738",
+      "path": [
+        "paragraph_736",
+        "content"
+      ],
+      "target": "image_fig2s2",
+      "range": [
+        791,
+        819
+      ]
+    },
+    "paragraph_739": {
+      "type": "paragraph",
+      "id": "paragraph_739",
+      "content": "If this is so, the problem is that the favorable self-energy is probably much reduced once the segment is inserted inside the capsid because there is much less room to have counterions in the densely packed capsid. To take an analogy, this is a bit like an implicit solvent that changes the bare Coulomb's law q1*q1/r12 to q1*q2/(eps*r12), but which ignores the Born self-energy of the charges. Ignoring the self-term amounts to assume that it cancels out. This is okay if the environment is assumed to remain roughly the same. Is there enough free space left inside the capsid for the implicit solvent to account for the same Debye-Huckel treatment as in the bulk solution? What is the total volume of the interior of the capsid? What is the total fraction of volume occupied by the nucleic acid? How much free space is left for ionic solution (needed to justify the Debye-Huckel screening treatment)? Please clarify this issue and explain why the implicit treatment of counterions is sufficiently accurate here.10.7554/eLife.00632.024"
+    },
+    "heading_740": {
+      "type": "heading",
+      "id": "heading_740",
+      "level": 2,
+      "content": "Author response",
+      "nodes": []
+    },
+    "paragraph_741": {
+      "type": "paragraph",
+      "id": "paragraph_741",
+      "content": "1) Part of the appeal of the study is the simplicity of the underlying model, which confers great clarity to the analysis and the description of the results. The nicest and most impressive results are probably summarized in Figure 4. However, upon more scrutiny, one does also start to worry about the significance of the approximations that are being made, and how much confidence one has in the robustness of the conclusions. For example, it would be nice to convey visually how the viruses differ in Figure 4."
+    },
+    "figure_reference_742": {
+      "type": "figure_reference",
+      "id": "figure_reference_742",
+      "path": [
+        "paragraph_741",
+        "content"
+      ],
+      "target": "image_fig4",
+      "range": [
+        224,
+        232
+      ]
+    },
+    "figure_reference_743": {
+      "type": "figure_reference",
+      "id": "figure_reference_743",
+      "path": [
+        "paragraph_741",
+        "content"
+      ],
+      "target": "image_fig4",
+      "range": [
+        503,
+        511
+      ]
+    },
+    "annotation_744": {
+      "type": "emphasis",
+      "id": "annotation_744",
+      "path": [
+        "paragraph_741",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        511
+      ]
+    },
+    "paragraph_745": {
+      "type": "paragraph",
+      "id": "paragraph_745",
+      "content": "We have modified the text (under “Predictions for specific viral capsid structures”) to direct the reader to Figure 1D where visualizations of the models are presented. We have only included images of one T=1 capsid and one T=3 capsid because the complex interior of the capsids makes it difficult to visually resolve factors other than capsid volume."
+    },
+    "figure_reference_746": {
+      "type": "figure_reference",
+      "id": "figure_reference_746",
+      "path": [
+        "paragraph_745",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        109,
+        118
+      ]
+    },
+    "paragraph_747": {
+      "type": "paragraph",
+      "id": "paragraph_747",
+      "content": "The match between computations and length of genome is nice, but it is not clear what is the underlying basis for the agreement. Is the size of the base-paired length packed merely reflecting the accessible volume inside the capsid?"
+    },
+    "annotation_748": {
+      "type": "emphasis",
+      "id": "annotation_748",
+      "path": [
+        "paragraph_747",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        231
+      ]
+    },
+    "paragraph_749": {
+      "type": "paragraph",
+      "id": "paragraph_749",
+      "content": "As described later in the answer to point 3, the volume of the capsid is only one of several factors; we find that there is still a significant amount of free volume within the capsid when at the optimal packaging length. In order to further clarify how the structural features of the capsid lead to observed packaging, we have presented additional data as Figure 4–figure supplement 2. Please see the response to point 3 below for additional details."
+    },
+    "figure_reference_750": {
+      "type": "figure_reference",
+      "id": "figure_reference_750",
+      "path": [
+        "paragraph_749",
+        "content"
+      ],
+      "target": "image_fig4s2",
+      "range": [
+        357,
+        385
+      ]
+    },
+    "paragraph_751": {
+      "type": "paragraph",
+      "id": "paragraph_751",
+      "content": "The model is simple enough that one should be able to summarize what are the principal differences between the different viruses shown in Figure 4 (size of full capsid, charge of the arms, etc.)."
+    },
+    "figure_reference_752": {
+      "type": "figure_reference",
+      "id": "figure_reference_752",
+      "path": [
+        "paragraph_751",
+        "content"
+      ],
+      "target": "image_fig4",
+      "range": [
+        138,
+        146
+      ]
+    },
+    "annotation_753": {
+      "type": "emphasis",
+      "id": "annotation_753",
+      "path": [
+        "paragraph_751",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        194
+      ]
+    },
+    "paragraph_754": {
+      "type": "paragraph",
+      "id": "paragraph_754",
+      "content": "The differences between the capsid structures were summarized in a supplementary file. To better draw attention to this table, we have moved it to the main text (now Table 1). We have also added additional information (“Genome Length, Model Optimal Length, and Occupied Volume Fraction”)."
+    },
+    "figure_reference_755": {
+      "type": "figure_reference",
+      "id": "figure_reference_755",
+      "path": [
+        "paragraph_754",
+        "content"
+      ],
+      "target": "table_tbl1",
+      "range": [
+        166,
+        173
+      ]
+    },
+    "paragraph_756": {
+      "type": "paragraph",
+      "id": "paragraph_756",
+      "content": "2) Much is made of the observation that the viruses are overcharged, i.e., the ratio between the negative (nucleic acid) over the positive (protein arms) charges is larger than 1. Essentially, this means that the assembled capsid with its packed nucleic acid chain is overall negative. The text is emphatic: “our simulations show that ‘overcharged’ capsids are favored thermodynamically and kinetically, even in the absence of cellular factors or other external effects.” But while one does not dispute the outcome of the simulations, it is disappointing that no simple argument is provided nor sketched to explain why this is so (a back-of-the-envelope type of explanation). This would add much clarification on the underlying reasons for this outcome of the model."
+    },
+    "annotation_757": {
+      "type": "emphasis",
+      "id": "annotation_757",
+      "path": [
+        "paragraph_756",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        765
+      ]
+    },
+    "paragraph_758": {
+      "type": "paragraph",
+      "id": "paragraph_758",
+      "content": "The simulations show that overcharging is a consequence of two factors – the electrostatic screening and geometry. Namely, it is geometrically not possible for every charge on the encapsulated NA to approach within a Debye length of an opposite charge on the capsid. It is primarily the presence of these charges not able to interact with capsid charges that lead to overcharging. Earlier models were not able to capture this because the locations of charges were smeared by the assumption of spherical symmetry. Based on the reviewers’ question, we have modified the beginning of the Discussion to more clearly explain the origins of overcharging. We also present a new figure (Figure 5) to clarify this observation: if one accounts only for the NA charges that directly interact with capsid charges the system appears slightly undercharged (as predicted by the earlier continuum models with an assumption of spherical symmetry). The overcharging arises due to the presence of NA, which forms a path from capsid charge to capsid charge."
+    },
+    "figure_reference_759": {
+      "type": "figure_reference",
+      "id": "figure_reference_759",
+      "path": [
+        "paragraph_758",
+        "content"
+      ],
+      "target": "image_fig5",
+      "range": [
+        679,
+        687
+      ]
+    },
+    "paragraph_760": {
+      "type": "paragraph",
+      "id": "paragraph_760",
+      "content": "More importantly, it isn’t clear that the charge ratio predicted by the model is correct or even reasonable. For instance, what about the likely presence of magnesium ions, which would presumably cancel out the charge of the excess of negative charges? The ionic screening model used here is Debye-Huckel and the model does not incorporate the possible effect of divalent binding. […] And again, what about these divalent ions binding to the DNA?"
+    },
+    "annotation_761": {
+      "type": "emphasis",
+      "id": "annotation_761",
+      "path": [
+        "paragraph_760",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        445
+      ]
+    },
+    "paragraph_762": {
+      "type": "paragraph",
+      "id": "paragraph_762",
+      "content": "Figure 3D and Figure 3–figure supplement 2 have been modified to include multiple sets of additional explicit ion simulations. The first set contains divalent cations as part of the salt solution. The second set of simulations includes divalent cations that are irreversibly bound to the NA (to represent specifically bound Mg2+ ions). These simulations indicate only a small effect due to divalent cations at physiological concentrations."
+    },
+    "figure_reference_763": {
+      "type": "figure_reference",
+      "id": "figure_reference_763",
+      "path": [
+        "paragraph_762",
+        "content"
+      ],
+      "target": "image_fig3",
+      "range": [
+        0,
+        9
+      ]
+    },
+    "figure_reference_764": {
+      "type": "figure_reference",
+      "id": "figure_reference_764",
+      "path": [
+        "paragraph_762",
+        "content"
+      ],
+      "target": "image_fig3s2",
+      "range": [
+        14,
+        42
+      ]
+    },
+    "annotation_765": {
+      "type": "superscript",
+      "id": "annotation_765",
+      "path": [
+        "paragraph_762",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        326,
+        328
+      ]
+    },
+    "paragraph_766": {
+      "type": "paragraph",
+      "id": "paragraph_766",
+      "content": "Furthermore, is it experimentally known that these capsids are negatively charged? This ought to be detectable through electrophoretic mobility measurements (zeta potential)."
+    },
+    "annotation_767": {
+      "type": "emphasis",
+      "id": "annotation_767",
+      "path": [
+        "paragraph_766",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        173
+      ]
+    },
+    "paragraph_768": {
+      "type": "paragraph",
+      "id": "paragraph_768",
+      "content": "The genome lengths of viruses assembled in vivo are known to high precision, as are the structures for the capsids we have considered. Based on these results it is incontrovertible that the genome length exceeds the positive capsid ARM charge. Given the complexity of the cellular environment, it could be argued that other multivalent cationic biomolecules might be present in these capsids. However, in vitro experiments mentioned in the text (e.g., Self-assembly of viral capsid protein and RNA molecules of different sizes: Requirement for a specific high protein/RNA mass ratio, J. Virol., 86(6):3318–3326, 2012; RNA encapsidation by SV40-derived nanoparticles follows a rapid two-state mechanism. J. Am. Chem. Soc., 134(21):8823–8830, 2012) have clearly shown that capsids spontaneously assemble into overcharged states under conditions in which the ionic composition is carefully controlled. Most notably, Cadena-Nava et al (J. Virol., 86(6):3318–3326, 2012) performed competition experiments, which showed that CCMV capsid proteins preferentially assemble around genomic length RNA rather than shorter fragments."
+    },
+    "annotation_769": {
+      "type": "emphasis",
+      "id": "annotation_769",
+      "path": [
+        "paragraph_768",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        402,
+        410
+      ]
+    },
+    "paragraph_770": {
+      "type": "paragraph",
+      "id": "paragraph_770",
+      "content": "Zeta potential measurements do in fact show that capsids are negatively charged. However, these measurements do not evaluate overcharging of the capsid interior; rather, they are sensitive to the charge on the capsid exterior, which is separated by at least 5 nm from the interior. The capsid exterior is negatively charged because of acidic residues found there. (Since these negative charges on the capsid exterior are separated by at least 5 nm from the capsid interior, they have negligible effect on the thermodynamics of genome encapsulation. Therefore, we did not include them in our model.)"
+    },
+    "paragraph_771": {
+      "type": "paragraph",
+      "id": "paragraph_771",
+      "content": "A figure supplement provides a comparison of a calculation with explicit ions presented as a validation of the Debye-Huckel approximation (Figure 3–figure supplement 3). Not much detail is offered about this test; presumably this is for a 1:1 electrolyte in a primitive model representation of ionic solution (continuum dielectric solvent and hard-sphere ions), but no ion radii are given so it is hard to see how realistic this model is."
+    },
+    "figure_reference_772": {
+      "type": "figure_reference",
+      "id": "figure_reference_772",
+      "path": [
+        "paragraph_771",
+        "content"
+      ],
+      "target": "image_fig3s3",
+      "range": [
+        139,
+        167
+      ]
+    },
+    "annotation_773": {
+      "type": "emphasis",
+      "id": "annotation_773",
+      "path": [
+        "paragraph_771",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        437
+      ]
+    },
+    "paragraph_774": {
+      "type": "paragraph",
+      "id": "paragraph_774",
+      "content": "We now completely describe the explicit ion (primitive model) simulations in the Methods section “Electrostatic interactions among polymer, ARM, and ion beads”. Furthermore, to fully understand the effect of excluded volume on our results, we have performed additional explicit ion simulations at various ion radii. The predicted dependence of optimal length on the ion radius is now shown in Figure 3–figure supplement 2. These simulations show that the optimal length predicted by the Debye-Huckel model is within 10% of that predicted by the primitive model with an ion radius of 0.125 nm (roughly the radius for Na+ and Cl- ions in the CHARMM force field) at physiological salt concentration. We appreciate the reviewers for inspiring us to consider this further, and we have re-performed all the necessary explicit ion simulations using this realistic ion size, rather than the larger size (0.25 nm) we had used originally."
+    },
+    "figure_reference_775": {
+      "type": "figure_reference",
+      "id": "figure_reference_775",
+      "path": [
+        "paragraph_774",
+        "content"
+      ],
+      "target": "image_fig3s2",
+      "range": [
+        393,
+        421
+      ]
+    },
+    "annotation_776": {
+      "type": "superscript",
+      "id": "annotation_776",
+      "path": [
+        "paragraph_774",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        618,
+        619
+      ]
+    },
+    "annotation_777": {
+      "type": "superscript",
+      "id": "annotation_777",
+      "path": [
+        "paragraph_774",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        626,
+        627
+      ]
+    },
+    "paragraph_778": {
+      "type": "paragraph",
+      "id": "paragraph_778",
+      "content": "3) Additional cause for concern about the treatment of ionic screening arise from Figure 2–figure supplement 2, which shows the residual excess chemical potential for adding one segment to the nucleic acid chain when it is in bulk solution (red line) or when it is in a capsid (blue line). What is noteworthy here is that the residual excess chemical potential is positive for both cases. Normally, insertion of one charged particle in a continuum solvent with an electrolyte is a negative number because the interaction of the charged particle with the surroundings, which comprises solvent and mobile counterions, is favorable. This excess free energy to add one chain segment in solution would probably be negative, even within the context of Debye-Huckel. We believe that the numbers in Figure 2–figure supplement 2 are positive because this interaction between the segment of the salt solution is not included in the present model. The latter probably only treats the Debye-Huckel screening of the interactions of the charged segment with other segments (which is positive and unfavorable) but the self-energy is neglected. Please confirm."
+    },
+    "figure_reference_779": {
+      "type": "figure_reference",
+      "id": "figure_reference_779",
+      "path": [
+        "paragraph_778",
+        "content"
+      ],
+      "target": "image_fig2s2",
+      "range": [
+        82,
+        110
+      ]
+    },
+    "figure_reference_780": {
+      "type": "figure_reference",
+      "id": "figure_reference_780",
+      "path": [
+        "paragraph_778",
+        "content"
+      ],
+      "target": "image_fig2s2",
+      "range": [
+        791,
+        819
+      ]
+    },
+    "annotation_781": {
+      "type": "emphasis",
+      "id": "annotation_781",
+      "path": [
+        "paragraph_778",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        1143
+      ]
+    },
+    "paragraph_782": {
+      "type": "paragraph",
+      "id": "paragraph_782",
+      "content": "If this is so, the problem is that the favorable self-energy is probably much reduced once the segment is inserted inside the capsid because there is much less room to have counterions in the densely packed capsid. To take an analogy, this is a bit like an implicit solvent that changes the bare Coulomb’s law q1*q1/r12 to q1*q2/(eps*r12), but which ignores the Born self-energy of the charges. Ignoring the self-term amounts to assume that it cancels out. This is okay if the environment is assumed to remain roughly the same. Is there enough free space left inside the capsid for the implicit solvent to account for the same Debye-Huckel treatment as in the bulk solution? What is the total volume of the interior of the capsid? What is the total fraction of volume occupied by the nucleic acid? How much free space is left for ionic solution (needed to justify the Debye-Huckel screening treatment)? Please clarify this issue and explain why the implicit treatment of counterions is sufficiently accurate here."
+    },
+    "annotation_783": {
+      "type": "emphasis",
+      "id": "annotation_783",
+      "path": [
+        "paragraph_782",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        1012
+      ]
+    },
+    "paragraph_784": {
+      "type": "paragraph",
+      "id": "paragraph_784",
+      "content": "The excess chemical potential calculations were indeed performed using the Debye-Huckel model. We chose this model for these calculations because we had already found that simulations with the Debye-Huckel agree reasonably with those using the primitive model (e.g., Figure 3D). The purpose of the chemical potential computations was to confirm the results of the calculations in which optimal length was estimated by rendering part of the capsid permeable to the encapsulated polymer. (While the thermodynamic justification for these latter calculations is straightforward, it is a somewhat novel approach to calculating the optimal length and thus worth testing by independent calculations.) We now clearly state that the excess chemical potential simulations were performed using the Debye-Huckel model in the Methods section “Equilibrium encapsidation”."
+    },
+    "figure_reference_785": {
+      "type": "figure_reference",
+      "id": "figure_reference_785",
+      "path": [
+        "paragraph_784",
+        "content"
+      ],
+      "target": "image_fig3",
+      "range": [
+        267,
+        276
+      ]
+    },
+    "paragraph_786": {
+      "type": "paragraph",
+      "id": "paragraph_786",
+      "content": "There is a significant amount of free space for counterions within capsids (both within our model and in actual capsids with single-stranded genomes). The most densely packed systems that we simulated are the T=1 biological capsids, which contain relatively long ARMs within a small capsid volume. For these models the fraction of free volume within the capsid is between 0.7–0.8. For the T=3 biological capsid models and for the simple capsid with ARM charge = +5, the free volume fraction is >0.9. These numbers indeed explain why the Debye- Huckel treatment is a reasonable starting point for modeling this system. We were remiss in not providing this justification for our model in the original manuscript; we now provide it in Table 1 and in the text of the Methods section."
+    },
+    "annotation_787": {
+      "type": "emphasis",
+      "id": "annotation_787",
+      "path": [
+        "paragraph_786",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        331,
+        342
+      ]
+    },
+    "figure_reference_788": {
+      "type": "figure_reference",
+      "id": "figure_reference_788",
+      "path": [
+        "paragraph_786",
+        "content"
+      ],
+      "target": "table_tbl1",
+      "range": [
+        732,
+        739
+      ]
     }
   }
 }

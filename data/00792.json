@@ -101,7 +101,19 @@
         "paragraph_558",
         "paragraph_565",
         "sub-article",
-        "sub-article"
+        "heading_591",
+        "paragraph_592",
+        "paragraph_594",
+        "paragraph_597",
+        "paragraph_598",
+        "paragraph_599",
+        "paragraph_602",
+        "paragraph_603",
+        "sub-article",
+        "heading_604",
+        "paragraph_605",
+        "paragraph_607",
+        "paragraph_609"
       ]
     },
     "figures": {
@@ -526,7 +538,7 @@
     "paragraph_3": {
       "type": "paragraph",
       "id": "paragraph_3",
-      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited.10.7554/eLife.00792.001"
+      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited."
     },
     "annotation_4": {
       "type": "link",
@@ -622,7 +634,7 @@
     "paragraph_11": {
       "type": "paragraph",
       "id": "paragraph_11",
-      "content": "DOI: http://dx.doi.org/10.7554/eLife.00792.00110.7554/eLife.00792.002"
+      "content": "DOI: http://dx.doi.org/10.7554/eLife.00792.001"
     },
     "annotation_12": {
       "type": "strong",
@@ -10328,7 +10340,7 @@
       "citation_url": [],
       "format": "journal",
       "editors": [],
-      "supplement": "Suppl 4"
+      "supplement": "undefined[object Object]"
     },
     "article_citation_bib71": {
       "type": "article_citation",
@@ -10761,6 +10773,175 @@
       "level": 1,
       "content": "Article Commentary",
       "nodes": []
+    },
+    "heading_591": {
+      "type": "heading",
+      "id": "heading_591",
+      "level": 2,
+      "content": "Decision letter",
+      "nodes": []
+    },
+    "paragraph_592": {
+      "type": "paragraph",
+      "id": "paragraph_592",
+      "content": "eLife posts the editorial decision letter and author response on a selection of the published articles (subject to the approval of the authors). An edited version of the letter sent to the authors after peer review is shown, indicating the substantive concerns or comments; minor concerns are not usually shown. Reviewers have the opportunity to discuss the decision before the letter is sent (see review process). Similarly, the author response typically shows only responses to the major concerns raised by the reviewers."
+    },
+    "annotation_593": {
+      "type": "link",
+      "id": "annotation_593",
+      "path": [
+        "paragraph_592",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        398,
+        412
+      ],
+      "url": "http://elife.elifesciences.org/review-process"
+    },
+    "paragraph_594": {
+      "type": "paragraph",
+      "id": "paragraph_594",
+      "content": "Thank you for sending your work entitled “In situ structural analysis of the Yersinia enterocolitica injectisome” for consideration at eLife. Your article has been favorably evaluated by a Senior editor, a Reviewing editor, and 2 reviewers."
+    },
+    "annotation_595": {
+      "type": "emphasis",
+      "id": "annotation_595",
+      "path": [
+        "paragraph_594",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        77,
+        100
+      ]
+    },
+    "annotation_596": {
+      "type": "emphasis",
+      "id": "annotation_596",
+      "path": [
+        "paragraph_594",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        135,
+        140
+      ]
+    },
+    "paragraph_597": {
+      "type": "paragraph",
+      "id": "paragraph_597",
+      "content": "The Reviewing editor and the two reviewers discussed their comments before we reached this decision, and the Reviewing editor has assembled the following comments to help you prepare a revised submission."
+    },
+    "paragraph_598": {
+      "type": "paragraph",
+      "id": "paragraph_598",
+      "content": "In general, the reviewers are very positive about the interesting and unexpected results reported in your manuscript. In particular, the possibility to compare in vitro with in situ results was seen as very interesting. There was only one major technical concern that should be addressed."
+    },
+    "paragraph_599": {
+      "type": "paragraph",
+      "id": "paragraph_599",
+      "content": "The methods do not rule out that over-alignment has lead to artifacts in the sub-tomogram averaging structures. The risk of this is high for highly-symmetrized sub-tomogram averaging structures. The figures in some cases show disconnected and inverted densities, which can result from such artifacts. This is a particular concern for the YscC structure in liposomes (Figure 6B) but also for other panels. Further, the substantial differences in structure dependent on the mask used in Figure 2B could also hint at this possibility. The authors should rule out this possibility by preferably:"
+    },
+    "figure_reference_600": {
+      "type": "figure_reference",
+      "id": "figure_reference_600",
+      "path": [
+        "paragraph_599",
+        "content"
+      ],
+      "target": "image_fig6",
+      "range": [
+        367,
+        376
+      ]
+    },
+    "figure_reference_601": {
+      "type": "figure_reference",
+      "id": "figure_reference_601",
+      "path": [
+        "paragraph_599",
+        "content"
+      ],
+      "target": "image_fig2",
+      "range": [
+        485,
+        494
+      ]
+    },
+    "paragraph_602": {
+      "type": "paragraph",
+      "id": "paragraph_602",
+      "content": "1) aligning two halves of each dataset completely independently (from the start), and comparing the two halves to calculate resolution and to identify reliable features;"
+    },
+    "paragraph_603": {
+      "type": "paragraph",
+      "id": "paragraph_603",
+      "content": "2) Or, if not, then make sure that low-pass filters are applied at each iteration such that zero information is passed beyond resolutions that are significantly below the final resolution obtained. The position of YscV can be interpreted only after these tests.10.7554/eLife.00792.018"
+    },
+    "heading_604": {
+      "type": "heading",
+      "id": "heading_604",
+      "level": 2,
+      "content": "Author response",
+      "nodes": []
+    },
+    "paragraph_605": {
+      "type": "paragraph",
+      "id": "paragraph_605",
+      "content": "We are aware of the significant risk of overfitting in the alignment of noisy data to a reference. As you point out, classical sub-tomogram averaging may produce such overfitting, while the “gold standard” procedure reduces this risk by splitting the dataset into two sub-sets and processes these completely independently. Unfortunately, applying this algorithm to sub-volume averaging is challenging if only a low number of sub-volume “particles” is available. We have now re-processed our injectisome sub-volumes, following the “gold standard” strategy with our “Dynamo” software. This resulted in a more conservative resolution estimate of 4 nm for our final injectisome structure. We now describe this “gold standard” processing approach in an additional section within the Materials and methods section and a panel in Figure 2—figure supplement 1D, and we have updated the manuscript accordingly."
+    },
+    "figure_reference_606": {
+      "type": "figure_reference",
+      "id": "figure_reference_606",
+      "path": [
+        "paragraph_605",
+        "content"
+      ],
+      "target": "image_fig2s1",
+      "range": [
+        823,
+        852
+      ]
+    },
+    "paragraph_607": {
+      "type": "paragraph",
+      "id": "paragraph_607",
+      "content": "The new, more reliable processing, however, did not affect our findings or the interpretation of the results: the positions of the rings in the injectisome structure, including the putative YscV ring, remained as before, and significant variations in the injectisome lengths after classification and averaging are observed as previously described. These dimensions are also supported by intermembrane distances measured at individual single injectisomes that we also show in Figure 2E."
+    },
+    "figure_reference_608": {
+      "type": "figure_reference",
+      "id": "figure_reference_608",
+      "path": [
+        "paragraph_607",
+        "content"
+      ],
+      "target": "image_fig2",
+      "range": [
+        475,
+        484
+      ]
+    },
+    "paragraph_609": {
+      "type": "paragraph",
+      "id": "paragraph_609",
+      "content": "As for the YscC structure, due to the small number of particles we could not achieve a reliable convergence with only half of the particles. The average from all available YscC sub-volumes, however, shows similar dimensions as the individual YscC sub-volumes showed before averaging, which leads us to believe that the sub-volume averaging reports a valid average structure within the specified resolution limits. To provide a reliable estimate of this resolution, we now used the more conservative threshold for the resolution (FSC=0.5), reporting a resolution of 3 nm. We have updated Figure 6 and the manuscript accordingly."
+    },
+    "figure_reference_610": {
+      "type": "figure_reference",
+      "id": "figure_reference_610",
+      "path": [
+        "paragraph_609",
+        "content"
+      ],
+      "target": "image_fig6",
+      "range": [
+        587,
+        595
+      ]
     }
   }
 }

@@ -65,7 +65,19 @@
         "heading_s4-5",
         "paragraph_244",
         "sub-article",
-        "sub-article"
+        "heading_256",
+        "paragraph_257",
+        "paragraph_259",
+        "paragraph_262",
+        "paragraph_263",
+        "paragraph_264",
+        "sub-article",
+        "heading_265",
+        "paragraph_266",
+        "paragraph_268",
+        "paragraph_271",
+        "paragraph_272",
+        "paragraph_273"
       ]
     },
     "figures": {
@@ -255,7 +267,7 @@
     "paragraph_3": {
       "type": "paragraph",
       "id": "paragraph_3",
-      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited.10.7554/eLife.00290.001"
+      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited."
     },
     "annotation_4": {
       "type": "link",
@@ -312,7 +324,7 @@
     "paragraph_8": {
       "type": "paragraph",
       "id": "paragraph_8",
-      "content": "DOI: http://dx.doi.org/10.7554/eLife.00290.00110.7554/eLife.00290.002"
+      "content": "DOI: http://dx.doi.org/10.7554/eLife.00290.001"
     },
     "annotation_9": {
       "type": "strong",
@@ -4782,6 +4794,149 @@
       "level": 1,
       "content": "Article Commentary",
       "nodes": []
+    },
+    "heading_256": {
+      "type": "heading",
+      "id": "heading_256",
+      "level": 2,
+      "content": "Decision letter",
+      "nodes": []
+    },
+    "paragraph_257": {
+      "type": "paragraph",
+      "id": "paragraph_257",
+      "content": "eLife posts the editorial decision letter and author response on a selection of the published articles (subject to the approval of the authors). An edited version of the letter sent to the authors after peer review is shown, indicating the substantive concerns or comments; minor concerns are not usually shown. Reviewers have the opportunity to discuss the decision before the letter is sent (see review process). Similarly, the author response typically shows only responses to the major concerns raised by the reviewers."
+    },
+    "annotation_258": {
+      "type": "link",
+      "id": "annotation_258",
+      "path": [
+        "paragraph_257",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        398,
+        412
+      ],
+      "url": "http://www.elifesciences.org/the-journal/review-process"
+    },
+    "paragraph_259": {
+      "type": "paragraph",
+      "id": "paragraph_259",
+      "content": "Thank you for choosing to send your work entitled “Mitotic spindle scaling during Xenopus development by kif2a and importin α” for consideration at eLife. Your article has been evaluated by a Senior editor (Detlef Weigel) and 2 reviewers, one of whom is a member of our Board of Reviewing Editors."
+    },
+    "annotation_260": {
+      "type": "emphasis",
+      "id": "annotation_260",
+      "path": [
+        "paragraph_259",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        82,
+        89
+      ]
+    },
+    "annotation_261": {
+      "type": "emphasis",
+      "id": "annotation_261",
+      "path": [
+        "paragraph_259",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        148,
+        153
+      ]
+    },
+    "paragraph_262": {
+      "type": "paragraph",
+      "id": "paragraph_262",
+      "content": "The Reviewing editor and the other reviewers discussed their comments before we reached this decision, and the Reviewing editor has assembled the following comments based on the reviewers' reports."
+    },
+    "paragraph_263": {
+      "type": "paragraph",
+      "id": "paragraph_263",
+      "content": "Your manuscript has been read and reviewed by two experts, who agree that your work is of general interest as scaling of cellular structures is a topic of foremost importance in modern cell biology. Both reviewers make the point that the first part of the paper (extract systems and the implications for changes in the spindle throughout development) is profound and very important, while the data presented in the second part (kif2a and importin α are responsible for the difference between spindle length) are not strong enough to provide extensive, mechanistic insights. However, we do believe that your work is worth publishing but for resubmission you would have to improve the second part as proposed below."
+    },
+    "paragraph_264": {
+      "type": "paragraph",
+      "id": "paragraph_264",
+      "content": "A major claim in the paper is that at stage 8, spindle size is reduced upon release of an inhibitory interaction between the kinesin kif2a and importin α. This occurs through redistribution of importin α from the cytoplasm to a membrane fraction. This point needs to be shown in a more direct and quantitative manner. We would ask you to measure the cytoplasmic levels of active importin α, data that can be collected either with (1) FCS, (2) FRET (sensors described in Sun et al., 2007, PNAS), or (3) quantitative pull downs. We suggest this because we expect that the reagents already exist in your lab, based on previous papers you have published.10.7554/eLife.00290.022"
+    },
+    "heading_265": {
+      "type": "heading",
+      "id": "heading_265",
+      "level": 2,
+      "content": "Author response",
+      "nodes": []
+    },
+    "paragraph_266": {
+      "type": "paragraph",
+      "id": "paragraph_266",
+      "content": "A major claim in the paper is that at stage 8, spindle size is reduced upon release of an inhibitory interaction between the kinesin kif2a and importin α. This occurs through redistribution of importin α from the cytoplasm to a membrane fraction. This point needs to be shown in a more direct and quantitative manner. We would ask you to measure the cytoplasmic levels of active importin α, data that can be collected either with (1) FCS, (2) FRET (sensors described in Sun et al., 2007, PNAS), or (3) quantitative pull downs. We suggest this because we expect that the reagents already exist in your lab, based on previous papers you have published."
+    },
+    "annotation_267": {
+      "type": "emphasis",
+      "id": "annotation_267",
+      "path": [
+        "paragraph_266",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        649
+      ]
+    },
+    "paragraph_268": {
+      "type": "paragraph",
+      "id": "paragraph_268",
+      "content": "We have addressed the concern with a quantitative pull down experiment. Tagged recombinant kif2a was added to stage 3 or stage 8 extracts and then retrieved, revealing the amount of active importin α in the each extract that is free to bind kif2a, using a kif2a NLS mutant as control (Figure 6C). We found that in stage 3 extracts importin α could bind kif2a while in stage 8 extracts approximately ten-fold less importin α interacted with the added kif2a (quantified in Figure 6D)."
+    },
+    "figure_reference_269": {
+      "type": "figure_reference",
+      "id": "figure_reference_269",
+      "path": [
+        "paragraph_268",
+        "content"
+      ],
+      "target": "image_fig6",
+      "range": [
+        285,
+        294
+      ]
+    },
+    "figure_reference_270": {
+      "type": "figure_reference",
+      "id": "figure_reference_270",
+      "path": [
+        "paragraph_268",
+        "content"
+      ],
+      "target": "image_fig6",
+      "range": [
+        471,
+        480
+      ]
+    },
+    "paragraph_271": {
+      "type": "paragraph",
+      "id": "paragraph_271",
+      "content": "In addition, we attempted to further quantify the kif2a-importin α by other approaches suggested by the reviewers. FCS experiments were performed upon addition of fluorescently labeled kif2a motor domain to either stage 3 or stage 8 extract at low concentrations. Fluorescence intensity was measured at 500 frames/sec and processed as by the PACI method developed by Needleman et al. (Biophysics J. 2009). Correlation curves indicated slower diffusion of kif2a motor domain in stage 3 compared to stage 8 extracts, indicating the interaction with other proteins and consistent with the formation of importin α-containing complexes. However, curve fits to this data were underdetermined for some parameters and therefore, despite qualitatively supporting our pulldown results, we feel the data are not strong enough to warrant addition to the manuscript."
+    },
+    "paragraph_272": {
+      "type": "paragraph",
+      "id": "paragraph_272",
+      "content": "Experiments utilizing FRET or other methods that require a fluorescently labeled version of importin α would require addition or overexpression of importin α and therefore perturbation of its levels. Given the small changes in importin α partitioning that affected spindle size, we were unable to interpret data from the system perturbed in this way since any additional importin α protein is expected to affect its steady state distribution."
+    },
+    "paragraph_273": {
+      "type": "paragraph",
+      "id": "paragraph_273",
+      "content": "Overall, the addition of the quantitative pulldown data strongly supports our model that partitioning of importin α out of the cytoplasm can decrease its interaction with kif2a, leading to a change in spindle size."
     }
   }
 }

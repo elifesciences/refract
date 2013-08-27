@@ -64,7 +64,22 @@
         "formula_eqn4",
         "paragraph_357",
         "sub-article",
-        "sub-article"
+        "heading_366",
+        "paragraph_367",
+        "paragraph_369",
+        "paragraph_372",
+        "paragraph_374",
+        "paragraph_375",
+        "sub-article",
+        "heading_376",
+        "paragraph_377",
+        "paragraph_379",
+        "paragraph_380",
+        "paragraph_381",
+        "paragraph_383",
+        "paragraph_384",
+        "paragraph_386",
+        "paragraph_389"
       ]
     },
     "figures": {
@@ -272,7 +287,7 @@
     "paragraph_2": {
       "type": "paragraph",
       "id": "paragraph_2",
-      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited.10.7554/eLife.00067.001"
+      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited."
     },
     "annotation_3": {
       "type": "link",
@@ -316,7 +331,7 @@
     "paragraph_6": {
       "type": "paragraph",
       "id": "paragraph_6",
-      "content": "DOI: http://dx.doi.org/10.7554/eLife.00067.00110.7554/eLife.00067.002"
+      "content": "DOI: http://dx.doi.org/10.7554/eLife.00067.001"
     },
     "annotation_7": {
       "type": "strong",
@@ -6216,6 +6231,229 @@
       "level": 1,
       "content": "Article Commentary",
       "nodes": []
+    },
+    "heading_366": {
+      "type": "heading",
+      "id": "heading_366",
+      "level": 2,
+      "content": "Decision letter",
+      "nodes": []
+    },
+    "paragraph_367": {
+      "type": "paragraph",
+      "id": "paragraph_367",
+      "content": "eLife posts the editorial decision letter and author response on a selection of the published articles (subject to the approval of the authors). An edited version of the letter sent to the authors after peer review is shown, indicating the substantive concerns or comments; minor concerns are not usually shown. Reviewers have the opportunity to discuss the decision before the letter is sent (see review process). Similarly, the author response typically shows only responses to the major concerns raised by the reviewers."
+    },
+    "annotation_368": {
+      "type": "link",
+      "id": "annotation_368",
+      "path": [
+        "paragraph_367",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        398,
+        412
+      ],
+      "url": "http://www.elifesciences.org/the-journal/review-process"
+    },
+    "paragraph_369": {
+      "type": "paragraph",
+      "id": "paragraph_369",
+      "content": "Thank you for choosing to send your work entitled “RecA filament sliding on DNA facilitates Homology search” for consideration at eLife. Your article has been evaluated by a Senior Editor and two reviewers, one of whom is a member of eLife's Board of Reviewing Editors. We are pleased to invite you to submit a revised manuscript, which addresses the comments from the reviewers."
+    },
+    "annotation_370": {
+      "type": "emphasis",
+      "id": "annotation_370",
+      "path": [
+        "paragraph_369",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        130,
+        135
+      ]
+    },
+    "annotation_371": {
+      "type": "emphasis",
+      "id": "annotation_371",
+      "path": [
+        "paragraph_369",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        234,
+        241
+      ]
+    },
+    "paragraph_372": {
+      "type": "paragraph",
+      "id": "paragraph_372",
+      "content": "Both reviewers find your work of significant interest and high quality. The results represent a significant advance of the current understanding of homology search during recombination and are suitable for publication in eLife. The following two major comments need to be addressed during revision:"
+    },
+    "annotation_373": {
+      "type": "emphasis",
+      "id": "annotation_373",
+      "path": [
+        "paragraph_372",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        221,
+        226
+      ]
+    },
+    "paragraph_374": {
+      "type": "paragraph",
+      "id": "paragraph_374",
+      "content": "1) All data interpretation and analysis are based on the notion that the RecA-ssDNA filament and the duplex DNA act as two stiff, coaxial rods, and that all relative motion involves linear displacement (sliding) of these two rods relative to one another. This interpretation ignores the possibility of off-axis motion (swinging or other fluctuations), which may be relevant to homology search. While the reviewers find the evidence for sliding, especially data shown in Figures 2 and 3, strong, they think that potential contributions from the off-axis motion, and how they may affect data interpretations and simulations, should be discussed. The authors should discuss this effect in the revised manuscript and, if necessary, provide additional data or analysis to support their arguments. The assay shown in Figure 4 may help assess off-axis motion. In this assay, one expects ∼50% of the binding events to occur in the correct orientation that permits recognition of HS1/HS2, and the remaining 50% to occur with the duplex DNA in the incorrect orientation, which may not lead to recognition of HS1/HS2. A statistical analysis of the fractions may provide clues for whether reorientation or off-axis motion between the duplex DNA and RecA-ssDNA filament occurs. The authors may also find a modification of the Figure 4 assay helpful, namely change the sequence of the HS2 site, such that it would be complementary to a sequence on the opposing strand of the incoming duplex, and then test whether recognition still occurs for both HS1 and HS2 sites or only one of them in a single binding event."
+    },
+    "paragraph_375": {
+      "type": "paragraph",
+      "id": "paragraph_375",
+      "content": "2. The authors suggest that the transitions between the HS1 and HS2 sites observed in Figure 4 are due to sliding. Indeed, the scenario that the unwound ssDNA first detach from the HS1 site, re-anneal with the complementary strand, slide along the RecA filament and then bind to the HS2 site is a highly likely one. However, give the relatively short distance between the HS1 and HS2 sites (5 nucleotides in between), is it possible that the ssDNA segment can transition between the two homology sites through a different mechanism? The authors should discuss whether the 5-nucleotide distance is sufficiently long to conclude that transitions between the two sites are due to sliding, and if necessary, provide additional evidence.10.7554/eLife.00067.019"
+    },
+    "heading_376": {
+      "type": "heading",
+      "id": "heading_376",
+      "level": 2,
+      "content": "Author response",
+      "nodes": []
+    },
+    "paragraph_377": {
+      "type": "paragraph",
+      "id": "paragraph_377",
+      "content": "1) All data interpretation and analysis are based on the notion that the RecA-ssDNA filament and the duplex DNA act as two stiff, coaxial rods, and that all relative motion involves linear displacement (sliding) of these two rods relative to one another. This interpretation ignores the possibility of off-axis motion (swinging or other fluctuations), which may be relevant to homology search. While the reviewers find the evidence for sliding, especially data shown in Figures 2 and 3, strong, they think that potential contributions from the off-axis motion, and how they may affect data interpretations and simulations, should be discussed. The authors should discuss this effect in the revised manuscript and, if necessary, provide additional data or analysis to support their arguments. The assay shown in Figure 4 may help assess off-axis motion. In this assay, one expects ∼50% of the binding events to occur in the correct orientation that permits recognition of HS1/HS2, and the remaining 50% to occur with the duplex DNA in the incorrect orientation, which may not lead to recognition of HS1/HS2. A statistical analysis of the fractions may provide clues for whether reorientation or off-axis motion between the duplex DNA and RecA-ssDNA filament occurs. The authors may also find a modification of the Figure 4 assay helpful, namely change the sequence of the HS2 site, such that it would be complementary to a sequence on the opposing strand of the incoming duplex, and then test whether recognition still occurs for both HS1 and HS2 sites or only one of them in a single binding event."
+    },
+    "annotation_378": {
+      "type": "emphasis",
+      "id": "annotation_378",
+      "path": [
+        "paragraph_377",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        1597
+      ]
+    },
+    "paragraph_379": {
+      "type": "paragraph",
+      "id": "paragraph_379",
+      "content": "This is a good point. The angle between dsDNA and the RecA filament may indeed change during the sliding process and we may call such angle changes as ‘off-axis motion’. We indeed cannot rule out such off-axis motion as one of the sources for the observed FRET fluctuations but our controls including the DNA length dependence (Figure 2) suggest that the ‘on-axis motion’ is the dominant source. Nevertheless, contributions from any ‘off-axis motion’, if significant, could affect the apparent diffusion coefficient that we estimate based on our modeling that considers only the on-axis motion. We added the following sentence to the Discussion to acknowledge the possibility of ‘off-axis motion’:"
+    },
+    "paragraph_380": {
+      "type": "paragraph",
+      "id": "paragraph_380",
+      "content": "“We cannot rule out the possibility that changes in angle between the dsDNA and the RecA filament (off-axis motions) might affect the observed FRET changes. Incorporating such effects of off-axis motions into the model would increase the time scale of linear sliding, but the effect will be small because control experiments such as the DNA length dependence (Figure 2C) showed that on-axis motion is the dominant source of FRET fluctuations.”"
+    },
+    "paragraph_381": {
+      "type": "paragraph",
+      "id": "paragraph_381",
+      "content": "We wanted to address the possibility of an extreme ‘off-axis motion’ where the dsDNA may undergo a 180 degrees change in orientation, that is, the dsDNA may flip its orientation during homology search. Although this is very unlikely in vivo considering the presence of kilobase long filaments and DNA in the cell, previous single molecule FRET measurements reported the flipping of protein orientation on DNA without full dissociation (Abbondanzieri et al., 2008). Therefore, we performed control experiments to test the possibility that short dsDNA may flip its orientation while remaining bound to the RecA filament. We used the ssDNA substrate that contains two 8 nt homology sites embedded in poly(dT) – the same DNA we used to demonstrate the existence of two stable positions that are interchanging only infrequently (Figure 4–Figure Supplement 2). If you use a dsDNA with the 8 nt homology but with the donor attached at the opposite end of the duplex DNA, we observe rapid fluctuations over a broad range of FRET values (new Figure 4–Figure Supplement 4A, B), identical to what’s observed if the ssDNA is made only of poly(dT) (new Figure 4–Figure Supplement 4C, D). The rapid fluctuations indicate the lack of homology recognition. This is likely because when the dsDNA binds to the RecA filament with the wrong orientation, it cannot flip its orientation to find the homology sites (HS1 and HS2). If flipping can occur while the dsDNA is bound to the RecA filament we would have observed stable low FRET states that can transit to the rapidly fluctuating phase and back. For this construct, when the dsDNA binds to the filament in the correct orientation, where the unlabeled homologous end is in close proximity to the acceptor, FRET stays low and these events were not included in the histogram shown in Figure 4–Figure Supplement 4B. We have revised the manuscript to formally discuss the possibility of flipping in the Discussion section:"
+    },
+    "annotation_382": {
+      "type": "emphasis",
+      "id": "annotation_382",
+      "path": [
+        "paragraph_381",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        233,
+        240
+      ]
+    },
+    "paragraph_383": {
+      "type": "paragraph",
+      "id": "paragraph_383",
+      "content": "“Although our experimental scheme cannot probe for small and dynamic off-axis motions between the RecA filament and dsDNA, we can at least rule out the extreme possibility of ‘dsDNA flipping’ in which case the dsDNA may undergo a 180 degree change in orientation while remaining bound to the RecA filament (Figure 4–Figure Supplement 4).”"
+    },
+    "paragraph_384": {
+      "type": "paragraph",
+      "id": "paragraph_384",
+      "content": "2. The authors suggest that the transitions between the HS1 and HS2 sites observed in Figure 4 are due to sliding. Indeed, the scenario that the unwound ssDNA first detach from the HS1 site, re-anneal with the complementary strand, slide along the RecA filament and then bind to the HS2 site is a highly likely one. However, give the relatively short distance between the HS1 and HS2 sites (5 nucleotides in between), is it possible that the ssDNA segment can transition between the two homology sites through a different mechanism? The authors should discuss whether the 5-nucleotide distance is sufficiently long to conclude that transitions between the two sites are due to sliding, and if necessary, provide additional evidence."
+    },
+    "annotation_385": {
+      "type": "emphasis",
+      "id": "annotation_385",
+      "path": [
+        "paragraph_384",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        731
+      ]
+    },
+    "paragraph_386": {
+      "type": "paragraph",
+      "id": "paragraph_386",
+      "content": "Although the gap between the homologous sites is 5 nt, the distance that the dsDNA has to transverse between the two sites is (5+Lh) nt where Lh is the size of the homology. Therefore, even for the smallest Lh of 6 nt that gave homology recognition, the distance that the dsDNA has to travel is 11 nt or about 50 angstroms (11*3.4*1.5) because RecA filaments are stretched by about 1.5 fold compared to B-form DNA. We cannot think of mechanisms other than sliding that can cause rapid movement over such length scales. We added a sentence to the Results section to address this point:"
+    },
+    "annotation_387": {
+      "type": "subscript",
+      "id": "annotation_387",
+      "path": [
+        "paragraph_386",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        130,
+        131
+      ]
+    },
+    "annotation_388": {
+      "type": "subscript",
+      "id": "annotation_388",
+      "path": [
+        "paragraph_386",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        143,
+        144
+      ]
+    },
+    "paragraph_389": {
+      "type": "paragraph",
+      "id": "paragraph_389",
+      "content": "“Although the gap between HS1 and HS2 is 5 nt, it is noteworthy that the total distance traversed by dsDNA to exhibit complete basepairing is (Lh+5)nt. Thus, for the smallest Lh of 6 nt, this translates to a distance of ∼ 50 Ǻ (11nt * 3.4 Ǻ * 1.5). Given the rapid movements of the dsDNA between adjacent homology sites and the fact that both the dsDNA and RecA filament are stiff at the length scales of our experiments, we cannot think of mechanisms other than sliding to explain the observed transitions.”"
+    },
+    "annotation_390": {
+      "type": "subscript",
+      "id": "annotation_390",
+      "path": [
+        "paragraph_389",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        144,
+        145
+      ]
+    },
+    "annotation_391": {
+      "type": "subscript",
+      "id": "annotation_391",
+      "path": [
+        "paragraph_389",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        176,
+        177
+      ]
     }
   }
 }

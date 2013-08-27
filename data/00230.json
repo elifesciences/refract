@@ -116,7 +116,35 @@
         "paragraph_683",
         "paragraph_710",
         "sub-article",
-        "sub-article"
+        "heading_747",
+        "paragraph_748",
+        "paragraph_750",
+        "paragraph_752",
+        "paragraph_753",
+        "paragraph_754",
+        "paragraph_756",
+        "paragraph_757",
+        "paragraph_758",
+        "paragraph_759",
+        "paragraph_761",
+        "paragraph_762",
+        "sub-article",
+        "heading_763",
+        "paragraph_764",
+        "paragraph_766",
+        "paragraph_767",
+        "paragraph_769",
+        "paragraph_770",
+        "paragraph_771",
+        "paragraph_773",
+        "paragraph_775",
+        "paragraph_776",
+        "paragraph_777",
+        "paragraph_781",
+        "paragraph_783",
+        "paragraph_789",
+        "paragraph_792",
+        "paragraph_794"
       ]
     },
     "figures": {
@@ -359,7 +387,7 @@
     "paragraph_2": {
       "type": "paragraph",
       "id": "paragraph_2",
-      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited.10.7554/eLife.00230.001"
+      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited."
     },
     "annotation_3": {
       "type": "link",
@@ -390,7 +418,7 @@
     "paragraph_5": {
       "type": "paragraph",
       "id": "paragraph_5",
-      "content": "DOI: http://dx.doi.org/10.7554/eLife.00230.00110.7554/eLife.00230.002"
+      "content": "DOI: http://dx.doi.org/10.7554/eLife.00230.001"
     },
     "annotation_6": {
       "type": "strong",
@@ -10417,7 +10445,7 @@
       "citation_url": [],
       "format": "book",
       "editors": [],
-      "comment": "Edited by Guthrie C and Fink GR"
+      "comment": "undefined[object Object]"
     },
     "article_citation_bib45": {
       "type": "article_citation",
@@ -10760,6 +10788,424 @@
       "level": 1,
       "content": "Article Commentary",
       "nodes": []
+    },
+    "heading_747": {
+      "type": "heading",
+      "id": "heading_747",
+      "level": 2,
+      "content": "Decision Letter",
+      "nodes": []
+    },
+    "paragraph_748": {
+      "type": "paragraph",
+      "id": "paragraph_748",
+      "content": "eLife posts the editorial decision letter and author response on a selection of the published articles (subject to the approval of the authors). An edited version of the letter sent to the authors after peer review is shown, indicating the substantive concerns or comments; minor concerns are not usually shown. Reviewers have the opportunity to discuss the decision before the letter is sent (see review process). Similarly, the author response typically shows only responses to the major concerns raised by the reviewers."
+    },
+    "annotation_749": {
+      "type": "link",
+      "id": "annotation_749",
+      "path": [
+        "paragraph_748",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        398,
+        412
+      ],
+      "url": "http://www.elifesciences.org/the-journal/review-process"
+    },
+    "paragraph_750": {
+      "type": "paragraph",
+      "id": "paragraph_750",
+      "content": "Thank you for choosing to send your work entitled “Cooperation leads to partner intermixing in microbial communities” for consideration at eLife. Your article has been evaluated by a Senior Editor and 3 reviewers, one of whom is a member of our Board of Reviewing Editors."
+    },
+    "annotation_751": {
+      "type": "emphasis",
+      "id": "annotation_751",
+      "path": [
+        "paragraph_750",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        139,
+        144
+      ]
+    },
+    "paragraph_752": {
+      "type": "paragraph",
+      "id": "paragraph_752",
+      "content": "The Reviewing Editor and the other reviewers discussed their comments before we reached this decision, and the Reviewing Editor has assembled the following comments based on the reviewers’ reports."
+    },
+    "paragraph_753": {
+      "type": "paragraph",
+      "id": "paragraph_753",
+      "content": "The study deals with a very interesting mixture of experimental, theoretical, and simulation approaches to arrive at basic rules of spatial patterning between obligatory cooperative partners in single-celled systems. The studies are based on a previously developed system of two yeast strains that can enter cooperative interactions. The present paper deals with the development of a spatial patterning model in conjunction with a series of experiments that use different starting conditions to infer the stability of the observed patterns. The results of these experiments are then compared with the respective simulation results to validate the theoretical approach. This in turn is taken to infer further, more complex interactions in multi-partner systems. An additional experimental validation comes from the use of two bacterial species that interact on biochemically very different principles."
+    },
+    "paragraph_754": {
+      "type": "paragraph",
+      "id": "paragraph_754",
+      "content": "The referees agree that the paper is very interesting, technically sound, and the whole work rests on a very rich database. The main research question addressed is certainly significant, and the authors elegantly investigate it by using a combination of experimental and theoretical approaches. There are no severe methodological problems that need to be addressed. However, there are some concerns about the generality of the findings. The current version reads in places as if general rules were derived; but, strictly speaking, they are only tested for systems with obligate cooperation. Also, the possibility of antagonistic interactions is not addressed at all. Still, it appears that the paper is a very strong starting point for future work into extended directions. Hence, we will by happy to offer publication in eLife, provided the following points are addressed in a revised version."
+    },
+    "annotation_755": {
+      "type": "emphasis",
+      "id": "annotation_755",
+      "path": [
+        "paragraph_754",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        822,
+        827
+      ]
+    },
+    "paragraph_756": {
+      "type": "paragraph",
+      "id": "paragraph_756",
+      "content": "A) The authors should be very explicit about the limitations of their current study, as well as the strengths. This could be presented in an extended discussion."
+    },
+    "paragraph_757": {
+      "type": "paragraph",
+      "id": "paragraph_757",
+      "content": "B) One of the reviewers suggests additional experiments in this context, but after further discussions, we consider them to be optional:"
+    },
+    "paragraph_758": {
+      "type": "paragraph",
+      "id": "paragraph_758",
+      "content": "“The authors investigate a very special case of cooperation, namely an obligate interaction. Both their synthetic yeast system and the Desulfovibrio–Methanococcus interaction represent a case of an obligate interaction: that is, none of the two partners can grow without the respective other. In this light, the finding that cooperative interactions mix more than other ecological interactions seems much less surprising. It may simply be the consequence of the properties that were previously built into the system by the experimenter (i.e., the obligate mutual dependency) rather than a pattern that generally emerges in cooperative interactions (which are not necessarily obligate in nature). Figure 3B and Figure 2–figure supplement 3B seems to support the interpretation that the partner intermixing observed by the authors is limited to obligatory cooperation."
+    },
+    "paragraph_759": {
+      "type": "paragraph",
+      "id": "paragraph_759",
+      "content": "Another very prominent example of cooperation in a microbial community is the cooperative production of biofilms (e.g., Rainey & Rainey 2003 Nature). Here we would also see spatial patterns in a biofilm, but I doubt that one would find the enhanced population mixing (given that two biofilm-formers were differentially labeled) as shown by the authors."
+    },
+    "annotation_760": {
+      "type": "emphasis",
+      "id": "annotation_760",
+      "path": [
+        "paragraph_759",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        141,
+        147
+      ]
+    },
+    "paragraph_761": {
+      "type": "paragraph",
+      "id": "paragraph_761",
+      "content": "A way to manipulate the degree of mutual dependency experimentally would be to add lysine and/or adenine to the medium that is used to grow the yeast strains (as has been done to mimic the commensalism). My expectations for such an experiment would be that with more ‘public goods’ added, the less tight the interaction gets and the less pronounced the population mixing will be. Such an outcome would further support the interpretation that the conclusions drawn do not apply to cooperative interactions within microbial communities in general, but be rather limited to obligate cooperative interactions.”"
+    },
+    "paragraph_762": {
+      "type": "paragraph",
+      "id": "paragraph_762",
+      "content": "Please respond to this comment either by doing the experiment or by clearly discussing these points in the manuscript.10.7554/eLife.00230.031"
+    },
+    "heading_763": {
+      "type": "heading",
+      "id": "heading_763",
+      "level": 2,
+      "content": "Author Response",
+      "nodes": []
+    },
+    "paragraph_764": {
+      "type": "paragraph",
+      "id": "paragraph_764",
+      "content": "The current version reads in places as if general rules were derived; but, strictly speaking, they are only tested for systems with obligate cooperation. Also, the possibility of antagonistic interactions is not addressed at all."
+    },
+    "annotation_765": {
+      "type": "emphasis",
+      "id": "annotation_765",
+      "path": [
+        "paragraph_764",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        229
+      ]
+    },
+    "paragraph_766": {
+      "type": "paragraph",
+      "id": "paragraph_766",
+      "content": "When we originally wrote “general rules,” we meant general rules on patterning driven by the fitness effects of ecological interactions. We have modified “general rules” to “ecological patterning.” We have also eliminated the usage of “rules.” We tested facultative cooperation in the fitness model, and, unfortunately, experiments will require a significant body of work. Antagonistic interactions were tested in the fitness model (Figure 1 and Figure 1–figure supplement 2). We have added a discussion about antagonistic interactions."
+    },
+    "paragraph_767": {
+      "type": "paragraph",
+      "id": "paragraph_767",
+      "content": "A) The authors should be very explicit about the limitations of their current study, as well as the strengths. This could be presented in an extended discussion."
+    },
+    "annotation_768": {
+      "type": "emphasis",
+      "id": "annotation_768",
+      "path": [
+        "paragraph_767",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        160
+      ]
+    },
+    "paragraph_769": {
+      "type": "paragraph",
+      "id": "paragraph_769",
+      "content": "We are not sure whether the “limitations” refer to the lack of experimental data for interactions, such as facultative cooperation, or the existence of other patterning forces that can cause deviations from the ecological patterning rules."
+    },
+    "paragraph_770": {
+      "type": "paragraph",
+      "id": "paragraph_770",
+      "content": "The former point is discussed below. We do not believe that the latter can be regarded as limitations of our study. There are different forces that shape patterns of communities, one of which is the fitness effects of ecological interactions between populations. We show that if such fitness effects are responsible for community patterns, strong cooperation is the only type of interaction that leads to population intermixing. To make an analogy, species coexistence is not considered a limitation of the competitive exclusion principle. There are other forces that make species not compete for exactly the same resources, and the competitive exclusion principle provides a framework of expectations that allows us to recognize and study those forces. We do agree that the original discussions on forces that cause deviations from the ecological patterning expectations could benefit from being more explicit and organized. Thus, we have expanded and reorganized discussion into three subsections."
+    },
+    "paragraph_771": {
+      "type": "paragraph",
+      "id": "paragraph_771",
+      "content": "B) One of the reviewers suggests additional experiments in this context, but after further discussions, we consider them to be optional:"
+    },
+    "annotation_772": {
+      "type": "emphasis",
+      "id": "annotation_772",
+      "path": [
+        "paragraph_771",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        135
+      ]
+    },
+    "paragraph_773": {
+      "type": "paragraph",
+      "id": "paragraph_773",
+      "content": "“The authors investigate a very special case of cooperation, namely an obligate interaction. Both their synthetic yeast system and the Desulfovibrio–Methanococcus interaction represent a case of an obligate interaction: that is, none of the two partners can grow without the respective other. In this light, the finding that cooperative interactions mix more than other ecological interactions seems much less surprising. It may simply be the consequence of the properties that were previously built into the system by the experimenter (i.e., the obligate mutual dependency) rather than a pattern that generally emerges in cooperative interactions (which are not necessarily obligate in nature). Figure 3B and Figure 2–figure supplement 3B seems to support the interpretation that the partner intermixing observed by the authors is limited to obligatory cooperation."
+    },
+    "annotation_774": {
+      "type": "emphasis",
+      "id": "annotation_774",
+      "path": [
+        "paragraph_773",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        865
+      ]
+    },
+    "paragraph_775": {
+      "type": "paragraph",
+      "id": "paragraph_775",
+      "content": "The reviewer is correct in pointing out that all our experiments were performed on obligatory cooperative systems. We only considered facultative cooperation in Figure 3B, where we showed that the larger the fitness benefits are compared to the basal fitnesses of the two partners, the more quickly intermixing index increases as a function of community height. To make this point more explicit, we have added to the main text:"
+    },
+    "paragraph_776": {
+      "type": "paragraph",
+      "id": "paragraph_776",
+      "content": "“Using the fitness model, we found that in facultative cooperation, small fitness benefits generated less intermixing than large fitness benefits (Figure 3B). This result is intuitive: patterns of facultative cooperation should resemble those of obligatory cooperation (or competition) when benefits to both partners are large (or small) compared to the basal fitnesses of cooperative partners. In facultative cooperation with smaller fitness benefits, intermixing would be apparent if communities could grow to greater heights. Further experiments are required to test these predictions.”"
+    },
+    "paragraph_777": {
+      "type": "paragraph",
+      "id": "paragraph_777",
+      "content": "In Figure 2–figure supplement 3B, we showed that excessive benefits diminish the degree of intermixing. Excessive benefits are unrelated to whether cooperation is facultative or not. For example, if A completely depends on B for a metabolite, B can still supply this metabolite in excess."
+    },
+    "annotation_778": {
+      "type": "strong",
+      "id": "annotation_778",
+      "path": [
+        "paragraph_777",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        199,
+        200
+      ]
+    },
+    "annotation_779": {
+      "type": "strong",
+      "id": "annotation_779",
+      "path": [
+        "paragraph_777",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        223,
+        224
+      ]
+    },
+    "annotation_780": {
+      "type": "strong",
+      "id": "annotation_780",
+      "path": [
+        "paragraph_777",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        243,
+        244
+      ]
+    },
+    "paragraph_781": {
+      "type": "paragraph",
+      "id": "paragraph_781",
+      "content": "Another very prominent example of cooperation in a microbial community is the cooperative production of biofilms (e.g., Rainey & Rainey 2003 Nature). Here we would also see spatial patterns in a biofilm, but I doubt that one would find the enhanced population mixing (given that two biofilm-formers were differentially labeled) as shown by the authors."
+    },
+    "annotation_782": {
+      "type": "emphasis",
+      "id": "annotation_782",
+      "path": [
+        "paragraph_781",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        351
+      ]
+    },
+    "paragraph_783": {
+      "type": "paragraph",
+      "id": "paragraph_783",
+      "content": "The cooperative production of biofilm (Rainey & Rainey, 2003) relied on cooperation among cells of the same population. This type of intra-population cooperation is different from the inter-population cooperation A[↑ ↑]B described here, in which the benefit produced by A is different from that produced by B. We have now made this point more explicit in the main text:"
+    },
+    "annotation_784": {
+      "type": "emphasis",
+      "id": "annotation_784",
+      "path": [
+        "paragraph_783",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        103,
+        107
+      ]
+    },
+    "annotation_785": {
+      "type": "strong",
+      "id": "annotation_785",
+      "path": [
+        "paragraph_783",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        213,
+        215
+      ]
+    },
+    "annotation_786": {
+      "type": "strong",
+      "id": "annotation_786",
+      "path": [
+        "paragraph_783",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        218,
+        220
+      ]
+    },
+    "annotation_787": {
+      "type": "strong",
+      "id": "annotation_787",
+      "path": [
+        "paragraph_783",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        270,
+        271
+      ]
+    },
+    "annotation_788": {
+      "type": "strong",
+      "id": "annotation_788",
+      "path": [
+        "paragraph_783",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        307,
+        308
+      ]
+    },
+    "paragraph_789": {
+      "type": "paragraph",
+      "id": "paragraph_789",
+      "content": "“…, while inter-population cooperation based on the exchange of distinct benefits would be [↑ ↑].”"
+    },
+    "annotation_790": {
+      "type": "strong",
+      "id": "annotation_790",
+      "path": [
+        "paragraph_789",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        91,
+        92
+      ]
+    },
+    "annotation_791": {
+      "type": "strong",
+      "id": "annotation_791",
+      "path": [
+        "paragraph_789",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        95,
+        96
+      ]
+    },
+    "paragraph_792": {
+      "type": "paragraph",
+      "id": "paragraph_792",
+      "content": "A way to manipulate the degree of mutual dependency experimentally would be to add lysine and/or adenine to the medium that is used to grow the yeast strains (as has been done to mimic the commensalism). My expectations for such an experiment would be that with more ‘public goods’ added, the less tight the interaction gets and the less pronounced the population mixing will be. Such an outcome would further support the interpretation that the conclusions drawn do not apply to cooperative interactions within microbial communities in general, but be rather limited to obligate cooperative interactions.”"
+    },
+    "annotation_793": {
+      "type": "emphasis",
+      "id": "annotation_793",
+      "path": [
+        "paragraph_792",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        605
+      ]
+    },
+    "paragraph_794": {
+      "type": "paragraph",
+      "id": "paragraph_794",
+      "content": "We have considered the experimental scheme proposed by the reviewer. However, we realized that if we supplement adenine and lysine to the agarose, the cells would simply exhaust the supplements first (competition) and then the interaction would switch to obligatory cooperation in addition to competition for other shared resources. One could argue that a steady supply of a very low concentration of adenine and lysine would create a facultative cooperative system, but there is no easy way of evenly supplying all cells in the community. In addition, any flow system would also wash out some of the released metabolites. To create bona fide facultative cooperation, we would need to either screen for natural microbes for facultative cooperation or create reduction-of-function (rather than loss-of-function) alleles in enzymes mediating adenine and lysine biosynthesis, and ideally these mutations should also be non-revertible. This would call for two genetic screens for appropriate mutations, which is beyond the scope of our study. Our fitness model predicts that in facultative cooperation, if for both partners the fitness benefits are large compared to the basal fitness, intermixing will increase rapidly as a function of community height (Figure 3B)."
+    },
+    "annotation_795": {
+      "type": "emphasis",
+      "id": "annotation_795",
+      "path": [
+        "paragraph_794",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        633,
+        642
+      ]
     }
   }
 }

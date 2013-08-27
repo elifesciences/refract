@@ -47,7 +47,26 @@
         "paragraph_157",
         "paragraph_163",
         "sub-article",
-        "sub-article"
+        "heading_178",
+        "paragraph_179",
+        "paragraph_181",
+        "paragraph_184",
+        "paragraph_185",
+        "paragraph_187",
+        "paragraph_188",
+        "sub-article",
+        "heading_192",
+        "paragraph_193",
+        "paragraph_195",
+        "paragraph_197",
+        "paragraph_198",
+        "paragraph_199",
+        "paragraph_201",
+        "paragraph_202",
+        "paragraph_204",
+        "paragraph_208",
+        "paragraph_209",
+        "paragraph_210"
       ]
     },
     "figures": {
@@ -59,7 +78,11 @@
         "image_fig3",
         "image_fig4",
         "image_fig5",
-        "supplement_SD1_data"
+        "supplement_SD1_data",
+        "image_fig6",
+        "image_fig7",
+        "image_fig8",
+        "image_fig9"
       ]
     },
     "citations": {
@@ -293,7 +316,7 @@
     "paragraph_2": {
       "type": "paragraph",
       "id": "paragraph_2",
-      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited.10.7554/eLife.00078.001"
+      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited."
     },
     "annotation_3": {
       "type": "link",
@@ -350,7 +373,7 @@
     "paragraph_7": {
       "type": "paragraph",
       "id": "paragraph_7",
-      "content": "DOI: http://dx.doi.org/10.7554/eLife.00078.00110.7554/eLife.00078.002"
+      "content": "DOI: http://dx.doi.org/10.7554/eLife.00078.001"
     },
     "annotation_8": {
       "type": "strong",
@@ -3862,6 +3885,329 @@
       "level": 1,
       "content": "Article Commentary",
       "nodes": []
+    },
+    "heading_178": {
+      "type": "heading",
+      "id": "heading_178",
+      "level": 2,
+      "content": "Decision letter",
+      "nodes": []
+    },
+    "paragraph_179": {
+      "type": "paragraph",
+      "id": "paragraph_179",
+      "content": "eLife posts the editorial decision letter and author response on a selection of the published articles (subject to the approval of the authors). An edited version of the letter sent to the authors after peer review is shown, indicating the substantive concerns or comments; minor concerns are not usually shown. Reviewers have the opportunity to discuss the decision before the letter is sent (see review process). Similarly, the author response typically shows only responses to the major concerns raised by the reviewers."
+    },
+    "annotation_180": {
+      "type": "link",
+      "id": "annotation_180",
+      "path": [
+        "paragraph_179",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        398,
+        412
+      ],
+      "url": "http://www.elifesciences.org/the-journal/review-process"
+    },
+    "paragraph_181": {
+      "type": "paragraph",
+      "id": "paragraph_181",
+      "content": "Thank you for choosing to send your work entitled \"Chromatin is an ancient innovation conserved between Archaea and Eukarya\" for consideration at eLife. Your article has been evaluated by a Senior Editor and 3 reviewers, one of whom is a member of eLife's Board of Reviewing Editors. The following individuals responsible for the peer review of your submission want to reveal their identity: Danny Reinberg (Reviewing Editor)."
+    },
+    "annotation_182": {
+      "type": "emphasis",
+      "id": "annotation_182",
+      "path": [
+        "paragraph_181",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        146,
+        151
+      ]
+    },
+    "annotation_183": {
+      "type": "emphasis",
+      "id": "annotation_183",
+      "path": [
+        "paragraph_181",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        248,
+        255
+      ]
+    },
+    "paragraph_184": {
+      "type": "paragraph",
+      "id": "paragraph_184",
+      "content": "The Reviewing Editor and the other reviewers discussed their comments before we reached this decision, and the Reviewing Editor has assembled the following comments based on the reviewers' reports. Our goal is to provide the essential revision requirements as a single set of instructions, so that you have a clear view of the revisions that are necessary for us to publish your work."
+    },
+    "paragraph_185": {
+      "type": "paragraph",
+      "id": "paragraph_185",
+      "content": "General assessment and substantive concerns to be addressed during revision:"
+    },
+    "annotation_186": {
+      "type": "strong",
+      "id": "annotation_186",
+      "path": [
+        "paragraph_185",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        76
+      ]
+    },
+    "paragraph_187": {
+      "type": "paragraph",
+      "id": "paragraph_187",
+      "content": "1) The reviewers’ assessment is that the paper may contribute an important finding; however, this study lacks a critical control, which is the MNase digestion of naked DNA. MNase preferentially cleaves AT-rich DNA and the promoter regions are often AT-rich. A control MNase digestion of deproteinized genomic DNA followed by isolation of 50-60 bp length DNA for genome-wide sequencing analysis should be included. The requirement for this control MNase digestion is well documented in Chung et al. (2010) PLOS ONE 5(12): e15754 and is a pre-requisite for publication."
+    },
+    "paragraph_188": {
+      "type": "paragraph",
+      "id": "paragraph_188",
+      "content": "2) In addition, can the authors show a time course experiment where MNase digestion of H. volcanii genomic DNA results in multiples of 50-60 bp repetitive units? If the authors were to reconstitute chromatin in vitro using a naked plasmid and recombinant H. volcanii histone, how many DNA base pairs would be protected on average? Since this DNA was subject to deep sequencing, what was the actual length distribution of the DNA that was analyzed? This is important since it has not been described for this species. Of course, any other experiment demonstrating the actual size of H. volcanii nucleosomal DNA would be perfectly acceptable."
+    },
+    "annotation_189": {
+      "type": "emphasis",
+      "id": "annotation_189",
+      "path": [
+        "paragraph_188",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        87,
+        98
+      ]
+    },
+    "annotation_190": {
+      "type": "emphasis",
+      "id": "annotation_190",
+      "path": [
+        "paragraph_188",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        255,
+        266
+      ]
+    },
+    "annotation_191": {
+      "type": "emphasis",
+      "id": "annotation_191",
+      "path": [
+        "paragraph_188",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        581,
+        592
+      ]
+    },
+    "heading_192": {
+      "type": "heading",
+      "id": "heading_192",
+      "level": 2,
+      "content": "Author response",
+      "nodes": []
+    },
+    "paragraph_193": {
+      "type": "paragraph",
+      "id": "paragraph_193",
+      "content": "1) The reviewers’ assessment is that the paper may contribute an important finding; however, this study lacks a critical control, which is the MNase digestion of naked DNA. MNase preferentially cleaves AT-rich DNA and the promoter regions are often AT-rich. A control MNase digestion of deproteinized genomic DNA followed by isolation of 50-60 bp length DNA for genome-wide sequencing analysis should be included. The requirement for this control MNase digestion is well documented in Chung et al. (2010) PLOS ONE 5(12): e15754 and is a pre-requisite for publication."
+    },
+    "annotation_194": {
+      "type": "emphasis",
+      "id": "annotation_194",
+      "path": [
+        "paragraph_193",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        566
+      ]
+    },
+    "paragraph_195": {
+      "type": "paragraph",
+      "id": "paragraph_195",
+      "content": "In addition to the crosslinked and undigested control that we provided, we agree that the MNase digestion of deproteinized (“naked”) genomic DNA is a key control. Accordingly, we prepared Haloferax volcanii genomic DNA as described by Chung et al. (2010) and subjected this MNased material to high-throughput sequencing. The result shows no bias in this sample (details below)."
+    },
+    "annotation_196": {
+      "type": "emphasis",
+      "id": "annotation_196",
+      "path": [
+        "paragraph_195",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        188,
+        206
+      ]
+    },
+    "paragraph_197": {
+      "type": "paragraph",
+      "id": "paragraph_197",
+      "content": "We prepared deproteinized genomic DNA, digested it with MNase and size-selected the region of digested “naked” DNA fragments in the range of 50-60bp by gel excision, as described in Chung et al. (2010). This is exhibited in the gel images below. "
+    },
+    "image_fig6": {
+      "type": "image",
+      "id": "image_fig6",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00078/svg/elife00078f006.svg",
+      "graphic_id": "elife00078f006",
+      "format": "image"
+    },
+    "paragraph_198": {
+      "type": "paragraph",
+      "id": "paragraph_198",
+      "content": "Next, we show the size selection of “naked” DNA in the range of 50-60bp by gel excision. "
+    },
+    "image_fig7": {
+      "type": "image",
+      "id": "image_fig7",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00078/svg/elife00078f007.svg",
+      "graphic_id": "elife00078f007",
+      "format": "image"
+    },
+    "paragraph_199": {
+      "type": "paragraph",
+      "id": "paragraph_199",
+      "content": "The MNase-digested deproteinized DNA was aligned to the Hfx. volcanii genome and the profile of sequence coverage was compared to the existing nucleosome sequence coverage profile. We found that these control reads had no correlation with the nucleosome reads (Pearson’s correlation coefficient (r) = 0.071), demonstrating that the “naked” DNA control sample was not sufficient to identify nucleosome occupancy, as expected. This also indicates that the nucleosome sequence data was free from significant MNase bias. Below, we have included a screenshot displaying a representative region of genome where the nucleosome occupancy track (blue arrow) exhibits nucleosomal fragments as a trend that is significantly different from the “naked” DNA track (red arrow). "
+    },
+    "annotation_200": {
+      "type": "emphasis",
+      "id": "annotation_200",
+      "path": [
+        "paragraph_199",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        56,
+        69
+      ]
+    },
+    "image_fig8": {
+      "type": "image",
+      "id": "image_fig8",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00078/svg/elife00078f008.svg",
+      "graphic_id": "elife00078f008",
+      "format": "image"
+    },
+    "paragraph_201": {
+      "type": "paragraph",
+      "id": "paragraph_201",
+      "content": "We have updated the manuscript to include the detail of the sample preparation and analysis, highlighting the lack of correlation between the “naked” DNA control and the nucleosomal sequence data."
+    },
+    "paragraph_202": {
+      "type": "paragraph",
+      "id": "paragraph_202",
+      "content": "2) In addition, can the authors show a time course experiment where MNase digestion of H. volcanii genomic DNA results in multiples of 50-60 bp repetitive units? If the authors were to reconstitute chromatin in vitro using a naked plasmid and recombinant H. volcanii histone, how many DNA base pairs would be protected on average? Since this DNA was subject to deep sequencing, what was the actual length distribution of the DNA that was analyzed? This is important since it has not been described for this species. Of course, any other experiment demonstrating the actual size of H. volcanii nucleosomal DNA would be perfectly acceptable."
+    },
+    "annotation_203": {
+      "type": "emphasis",
+      "id": "annotation_203",
+      "path": [
+        "paragraph_202",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        638
+      ]
+    },
+    "paragraph_204": {
+      "type": "paragraph",
+      "id": "paragraph_204",
+      "content": "We prepared Hfx. volcanii nucleosomal DNA as described in the manuscript, and separated the genomic material on a 3% agarose gel (new Figure 1a). This titration demonstrates the rapid digestion of high molecular weight DNA into clearly distinguishable mono- and dinucleosomes, with increased concentrations of MNase primarily digesting the material into mononucleosomal DNA. This pattern is quite similar to the digest first published by Reeve and colleagues for recombinant archaeal histone B from Methanothermus fervidus [Pereira SL, Grayling RA, Lurz R, & Reeve JN (1997) Archaeal nucleosomes. Proceedings of the National Academy of Sciences of the United States of America 94(23):12633-12637]."
+    },
+    "annotation_205": {
+      "type": "emphasis",
+      "id": "annotation_205",
+      "path": [
+        "paragraph_204",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        12,
+        25
+      ]
+    },
+    "annotation_206": {
+      "type": "emphasis",
+      "id": "annotation_206",
+      "path": [
+        "paragraph_204",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        499,
+        522
+      ]
+    },
+    "annotation_207": {
+      "type": "emphasis",
+      "id": "annotation_207",
+      "path": [
+        "paragraph_204",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        597,
+        676
+      ]
+    },
+    "paragraph_208": {
+      "type": "paragraph",
+      "id": "paragraph_208",
+      "content": "In addition, the length distribution of the nucleosomal DNA fragments that were subject to deep sequencing was determined using an Agilent Bioanalyzer High Sensitivity chip and is described in the Methods section."
+    },
+    "paragraph_209": {
+      "type": "paragraph",
+      "id": "paragraph_209",
+      "content": "The requested time-course experiment of MNase-digested nucleosomal fragments at multiples of 50-60bp is exhibited in new Figure 1a."
+    },
+    "paragraph_210": {
+      "type": "paragraph",
+      "id": "paragraph_210",
+      "content": "We’ve also included the Bioanalyzer electropherogram below to show that the mean fragment size of the sequenced mononucleosomal DNA fragments is 59bp for Hfx. Volcanii."
+    },
+    "annotation_211": {
+      "type": "emphasis",
+      "id": "annotation_211",
+      "path": [
+        "paragraph_210",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        154,
+        167
+      ]
+    },
+    "image_fig9": {
+      "type": "image",
+      "id": "image_fig9",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00078/svg/elife00078f009.svg",
+      "graphic_id": "elife00078f009",
+      "format": "image"
     }
   }
 }

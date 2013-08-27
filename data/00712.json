@@ -76,7 +76,22 @@
         "heading_s4-13",
         "paragraph_407",
         "sub-article",
-        "sub-article"
+        "heading_448",
+        "paragraph_449",
+        "paragraph_451",
+        "paragraph_454",
+        "paragraph_455",
+        "paragraph_456",
+        "paragraph_458",
+        "paragraph_460",
+        "paragraph_461",
+        "paragraph_462",
+        "sub-article",
+        "heading_463",
+        "paragraph_464",
+        "paragraph_466",
+        "paragraph_467",
+        "paragraph_469"
       ]
     },
     "figures": {
@@ -396,7 +411,7 @@
     "paragraph_3": {
       "type": "paragraph",
       "id": "paragraph_3",
-      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited.10.7554/eLife.00712.001"
+      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited."
     },
     "annotation_4": {
       "type": "link",
@@ -518,7 +533,7 @@
     "paragraph_13": {
       "type": "paragraph",
       "id": "paragraph_13",
-      "content": "DOI: http://dx.doi.org/10.7554/eLife.00712.00110.7554/eLife.00712.002"
+      "content": "DOI: http://dx.doi.org/10.7554/eLife.00712.001"
     },
     "annotation_14": {
       "type": "strong",
@@ -7843,6 +7858,216 @@
       "level": 1,
       "content": "Article Commentary",
       "nodes": []
+    },
+    "heading_448": {
+      "type": "heading",
+      "id": "heading_448",
+      "level": 2,
+      "content": "Decision letter",
+      "nodes": []
+    },
+    "paragraph_449": {
+      "type": "paragraph",
+      "id": "paragraph_449",
+      "content": "eLife posts the editorial decision letter and author response on a selection of the published articles (subject to the approval of the authors). An edited version of the letter sent to the authors after peer review is shown, indicating the substantive concerns or comments; minor concerns are not usually shown. Reviewers have the opportunity to discuss the decision before the letter is sent (see review process). Similarly, the author response typically shows only responses to the major concerns raised by the reviewers."
+    },
+    "annotation_450": {
+      "type": "link",
+      "id": "annotation_450",
+      "path": [
+        "paragraph_449",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        398,
+        412
+      ],
+      "url": "http://elife.elifesciences.org/review-process"
+    },
+    "paragraph_451": {
+      "type": "paragraph",
+      "id": "paragraph_451",
+      "content": "Thank you for sending your work entitled “Therapeutic targets in Trypanosoma brucei revealed by hypothemycin-based chemoproteomics and RNAi” for consideration at eLife. Your article has been favorably evaluated by a Senior editor and 3 reviewers, one of whom is a member of our Board of Reviewing Editors."
+    },
+    "annotation_452": {
+      "type": "emphasis",
+      "id": "annotation_452",
+      "path": [
+        "paragraph_451",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        65,
+        83
+      ]
+    },
+    "annotation_453": {
+      "type": "emphasis",
+      "id": "annotation_453",
+      "path": [
+        "paragraph_451",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        162,
+        167
+      ]
+    },
+    "paragraph_454": {
+      "type": "paragraph",
+      "id": "paragraph_454",
+      "content": "The following individuals responsible for the peer review of your submission want to reveal their identity: Jon Clardy (Reviewing editor), Nathanael Gray (peer reviewer), and Barbara Burleigh (peer reviewer)."
+    },
+    "paragraph_455": {
+      "type": "paragraph",
+      "id": "paragraph_455",
+      "content": "The Reviewing editor and the other reviewers discussed their comments before we reached this decision, and the Reviewing editor has assembled the following comments to help you prepare a revised submission."
+    },
+    "paragraph_456": {
+      "type": "paragraph",
+      "id": "paragraph_456",
+      "content": "This paper identifies a trypanosome kinase, TbCLK1, as a therapeutic target for African trypanosomiasis, a protozoal infection with severely limited treatment options. The authors used a virtuosic combination of phenotypic assays, organic chemistry, several flavors of proteomics, and RNAi knockdowns in their identification."
+    },
+    "annotation_457": {
+      "type": "emphasis",
+      "id": "annotation_457",
+      "path": [
+        "paragraph_456",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        44,
+        46
+      ]
+    },
+    "paragraph_458": {
+      "type": "paragraph",
+      "id": "paragraph_458",
+      "content": "The project began by exploring whether kinase inhibitors, which have become useful therapeutic agents for several human diseases, could play a similar role in treating trypanosomal infections. Trypanosomes and their human hosts have many kinases, and to focus their search the authors selected hypothemycin, a small molecule produced by some fungi, that was known to target a small subset of human kinases, and found that it killed trypanosomes in both cell culture and in vivo (mouse) assays. They then synthesized an affinity reagent and through proteomic analysis identified eleven potential targets, all of which were kinases with the signature motif characteristic of hypothemycin-sensitive kinases. More detailed analyses identified one of the kinases, TbCLK1, as the therapeutically relevant target, and this conclusion was underscored with RNAi analyses."
+    },
+    "annotation_459": {
+      "type": "emphasis",
+      "id": "annotation_459",
+      "path": [
+        "paragraph_458",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        759,
+        761
+      ]
+    },
+    "paragraph_460": {
+      "type": "paragraph",
+      "id": "paragraph_460",
+      "content": "All of the reviewers agreed that the manuscript described the identification of a potentially significant target and were in favor of publication. They also noted that the manuscript describes an unusually thorough set of experiments in a commendably frank manner. Their study will appeal to both the community interested in addressing protozoal diseases like trypanosomiasis as well as the much larger community of researchers seeking to discover useful therapeutic agents. There were two general issues that the reviewers felt could be improved."
+    },
+    "paragraph_461": {
+      "type": "paragraph",
+      "id": "paragraph_461",
+      "content": "1) The authors note in several places that the critical issue in their overall approach is likely to be specificity – the ability to find small molecules that selectively lead to parasite death. The lack of sufficient specificity is, for example, why the authors note that hypothemycin is not a drug candidate. It would be useful to consolidate and expand upon this notion in the Introduction so that the reader is aware of it from the beginning. For example, the Abstract states that “Protein kinases are attractive therapeutic…”, and changing “are” to “could be” would set up such a discussion. The authors do address this in the beginning of the Discussion section, but it might be more effective to move this into the Introduction."
+    },
+    "paragraph_462": {
+      "type": "paragraph",
+      "id": "paragraph_462",
+      "content": "2) The thoroughness of the approach makes it difficult for the majority of readers that are unfamiliar with this sort of analysis to follow the logic of the overall research plan. A road map of phenotypic screen of a mammalian kinase inhibitor -> target ID by chemical proteomics in gel -> chemical proteomics using ITRAQ -> RNAi screen of candidate targets -> target engagement studies -> reconfirmation with recombinant enzymes, possibly as a figure, would help. It would serve both as an aid for readers and a handy guide for repurposing other kinase inhibitors for infectious disease applications. The current manuscript seems to follow the historical course of the research, which creates a meandering narrative.10.7554/eLife.00712.010"
+    },
+    "heading_463": {
+      "type": "heading",
+      "id": "heading_463",
+      "level": 2,
+      "content": "Author response",
+      "nodes": []
+    },
+    "paragraph_464": {
+      "type": "paragraph",
+      "id": "paragraph_464",
+      "content": "1) The authors note in several places that the critical issue in their overall approach is likely to be specificity – the ability to find small molecules that selectively lead to parasite death. The lack of sufficient specificity is, for example, why the authors note that hypothemycin is not a drug candidate. It would be useful to consolidate and expand upon this notion in the Introduction so that the reader is aware of it from the beginning. For example, the Abstract states that “Protein kinases are attractive therapeutic…”, and changing “are” to “could be” would set up such a discussion. The authors do address this in the beginning of the Discussion section, but it might be more effective to move this into the Introduction."
+    },
+    "annotation_465": {
+      "type": "emphasis",
+      "id": "annotation_465",
+      "path": [
+        "paragraph_464",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        734
+      ]
+    },
+    "paragraph_466": {
+      "type": "paragraph",
+      "id": "paragraph_466",
+      "content": "These are good suggestions. We have changed the Abstract to indicate that protein kinases are “potentially attractive” therapeutic targets. In addition, we have expanded the introductory paragraph on kinases to include a brief discussion on the challenges associated with developing selective kinase inhibitors and choosing specific kinases to pursue as therapeutic targets."
+    },
+    "paragraph_467": {
+      "type": "paragraph",
+      "id": "paragraph_467",
+      "content": "2) The thoroughness of the approach makes it difficult for the majority of readers that are unfamiliar with this sort of analysis to follow the logic of the overall research plan. A road map of phenotypic screen of a mammalian kinase inhibitor -> target ID by chemical proteomics in gel -> chemical proteomics using ITRAQ -> RNAi screen of candidate targets -> target engagement studies -> reconfirmation with recombinant enzymes, possibly as a figure, would help. It would serve both as an aid for readers and a handy guide for repurposing other kinase inhibitors for infectious disease applications. The current manuscript seems to follow the historical course of the research, which creates a meandering narrative."
+    },
+    "annotation_468": {
+      "type": "emphasis",
+      "id": "annotation_468",
+      "path": [
+        "paragraph_467",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        716
+      ]
+    },
+    "paragraph_469": {
+      "type": "paragraph",
+      "id": "paragraph_469",
+      "content": "Although hypothemycin’s effects in the mouse infection model are likely complicated by its interaction with host kinases, we chose to focus on trypanosome targets due to the dramatic effects on the free bloodstream form parasites in culture. We have changed the text to clarify our rationale for pursuing trypanosome targets. As mentioned in the main text, hypothemycin and derivatives have been previously used in mice (Tanaka et al., 1999; Barluenga et al., 2010) and in humans (Kumar et al., 2011). We are unaware of any hemolytic activity of hypothemycin or its derivatives."
+    },
+    "citation_reference_470": {
+      "type": "citation_reference",
+      "id": "citation_reference_470",
+      "path": [
+        "paragraph_469",
+        "content"
+      ],
+      "target": "article_citation_bib41",
+      "range": [
+        421,
+        440
+      ]
+    },
+    "citation_reference_471": {
+      "type": "citation_reference",
+      "id": "citation_reference_471",
+      "path": [
+        "paragraph_469",
+        "content"
+      ],
+      "target": "article_citation_bib4",
+      "range": [
+        442,
+        464
+      ]
+    },
+    "citation_reference_472": {
+      "type": "citation_reference",
+      "id": "citation_reference_472",
+      "path": [
+        "paragraph_469",
+        "content"
+      ],
+      "target": "article_citation_bib16",
+      "range": [
+        481,
+        499
+      ]
     }
   }
 }

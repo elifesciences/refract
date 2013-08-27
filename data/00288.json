@@ -112,7 +112,45 @@
         "paragraph_505",
         "paragraph_506",
         "sub-article",
-        "sub-article"
+        "heading_510",
+        "paragraph_511",
+        "paragraph_513",
+        "paragraph_515",
+        "paragraph_516",
+        "paragraph_517",
+        "paragraph_518",
+        "paragraph_519",
+        "paragraph_520",
+        "paragraph_521",
+        "paragraph_522",
+        "sub-article",
+        "heading_523",
+        "paragraph_524",
+        "paragraph_526",
+        "paragraph_528",
+        "paragraph_529",
+        "paragraph_530",
+        "paragraph_532",
+        "paragraph_533",
+        "paragraph_534",
+        "paragraph_535",
+        "paragraph_537",
+        "paragraph_538",
+        "paragraph_540",
+        "paragraph_541",
+        "paragraph_542",
+        "paragraph_543",
+        "paragraph_545",
+        "paragraph_546",
+        "paragraph_547",
+        "paragraph_549",
+        "paragraph_550",
+        "paragraph_552",
+        "paragraph_554",
+        "paragraph_555",
+        "paragraph_558",
+        "paragraph_561",
+        "paragraph_564"
       ]
     },
     "figures": {
@@ -489,7 +527,7 @@
     "paragraph_2": {
       "type": "paragraph",
       "id": "paragraph_2",
-      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited.10.7554/eLife.00288.001"
+      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited."
     },
     "annotation_3": {
       "type": "link",
@@ -520,7 +558,7 @@
     "paragraph_5": {
       "type": "paragraph",
       "id": "paragraph_5",
-      "content": "DOI: http://dx.doi.org/10.7554/eLife.00288.00110.7554/eLife.00288.002"
+      "content": "DOI: http://dx.doi.org/10.7554/eLife.00288.001"
     },
     "annotation_6": {
       "type": "strong",
@@ -8752,6 +8790,448 @@
       "level": 1,
       "content": "Article Commentary",
       "nodes": []
+    },
+    "heading_510": {
+      "type": "heading",
+      "id": "heading_510",
+      "level": 2,
+      "content": "Decision letter",
+      "nodes": []
+    },
+    "paragraph_511": {
+      "type": "paragraph",
+      "id": "paragraph_511",
+      "content": "eLife posts the editorial decision letter and author response on a selection of the published articles (subject to the approval of the authors). An edited version of the letter sent to the authors after peer review is shown, indicating the substantive concerns or comments; minor concerns are not usually shown. Reviewers have the opportunity to discuss the decision before the letter is sent (see review process). Similarly, the author response typically shows only responses to the major concerns raised by the reviewers."
+    },
+    "annotation_512": {
+      "type": "link",
+      "id": "annotation_512",
+      "path": [
+        "paragraph_511",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        398,
+        412
+      ],
+      "url": "http://www.elifesciences.org/the-journal/review-process"
+    },
+    "paragraph_513": {
+      "type": "paragraph",
+      "id": "paragraph_513",
+      "content": "Thank you for sending your work entitled “Rapid Localized Spread and Immunologic Containment Define Herpes Simplex Virus-2 Reactivation in the Human Genital Tract” for consideration at eLife. Your article has been evaluated by a Senior editor and three reviewers, one of whom is a member of our Board of Reviewing Editors."
+    },
+    "annotation_514": {
+      "type": "emphasis",
+      "id": "annotation_514",
+      "path": [
+        "paragraph_513",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        185,
+        190
+      ]
+    },
+    "paragraph_515": {
+      "type": "paragraph",
+      "id": "paragraph_515",
+      "content": "The editors and the reviewers discussed their comments before we reached this decision, and the editors have assembled the following comments to help you prepare a revised submission."
+    },
+    "paragraph_516": {
+      "type": "paragraph",
+      "id": "paragraph_516",
+      "content": "1) The paper lacks a proper sensitivity analysis that correlates parameter variability to outcomes of interest. This really needs to be performed to make the results complete. While the parametrization is robust and identifiability does not seem to be a major issue in this case, a sensitivity analysis could give additional insight in the dynamics of infection."
+    },
+    "paragraph_517": {
+      "type": "paragraph",
+      "id": "paragraph_517",
+      "content": "In the manuscript, two very concise statements are given on the topic from which one understands that sensitivity analysis is only used to identify the range of parameter values by progressively modifying one at a time the values of parameters and keeping all other fixed (to which value?) until the fitting score exceeds a quality threshold. However, a multi-dimensional parameter space exploration is more suited to understand the relationships between input and model's output and can allow the identification of critical dynamics of the system (see, for example, Marino et al., JTB, 2008)."
+    },
+    "paragraph_518": {
+      "type": "paragraph",
+      "id": "paragraph_518",
+      "content": "2) What does the model suggest are likely drivers of variability between patients?"
+    },
+    "paragraph_519": {
+      "type": "paragraph",
+      "id": "paragraph_519",
+      "content": "3) How sensitive is the model to seeding frequency or location?"
+    },
+    "paragraph_520": {
+      "type": "paragraph",
+      "id": "paragraph_520",
+      "content": "4) What is the impact of the starting distribution of immune cells on the dynamics or success of lesions?"
+    },
+    "paragraph_521": {
+      "type": "paragraph",
+      "id": "paragraph_521",
+      "content": "5) What is the main driver of the size of the lesions?"
+    },
+    "paragraph_522": {
+      "type": "paragraph",
+      "id": "paragraph_522",
+      "content": "6) Please discuss the likely implications of the work for transmission and how it is related to the presence or absence of lesions.10.7554/eLife.00288.043"
+    },
+    "heading_523": {
+      "type": "heading",
+      "id": "heading_523",
+      "level": 2,
+      "content": "Author response",
+      "nodes": []
+    },
+    "paragraph_524": {
+      "type": "paragraph",
+      "id": "paragraph_524",
+      "content": "1) The paper lacks a proper sensitivity analysis that correlates parameter variability to outcomes of interest. This really needs to be performed to make the results complete. While the parametrization is robust and identifiability does not seem to be a major issue in this case, a sensitivity analysis could give additional insight in the dynamics of infection."
+    },
+    "annotation_525": {
+      "type": "emphasis",
+      "id": "annotation_525",
+      "path": [
+        "paragraph_524",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        361
+      ]
+    },
+    "paragraph_526": {
+      "type": "paragraph",
+      "id": "paragraph_526",
+      "content": "In the manuscript, two very concise statements are given on the topic from which one understands that sensitivity analysis is only used to identify the range of parameter values by progressively modifying one at a time the values of parameters and keeping all other fixed (to which value?) until the fitting score exceeds a quality threshold. However, a multi-dimensional parameter space exploration is more suited to understand the relationships between input and model's output and can allow the identification of critical dynamics of the system (see, for example, Marino et al., JTB, 2008)."
+    },
+    "annotation_527": {
+      "type": "emphasis",
+      "id": "annotation_527",
+      "path": [
+        "paragraph_526",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        592
+      ]
+    },
+    "paragraph_528": {
+      "type": "paragraph",
+      "id": "paragraph_528",
+      "content": "We agree that a multi-dimensional parameter space search is a highly informative method to interrogate the true dynamics of the model and to characterize which parameters may drive key model outcomes. In the revised version, we include such an analysis. We performed Monte Carlo simulations in which parameter values were drawn randomly from probability distribution functions. Akaike information criteria and partial rank correlation coefficients were employed to correlate model inputs with outcomes that were selected based on clinical and biologic relevance. The Marino article was extremely helpful in guiding this analysis and is added as a reference (Marino, 2008)."
+    },
+    "paragraph_529": {
+      "type": "paragraph",
+      "id": "paragraph_529",
+      "content": "We performed two sets of analyses: first, we examined the effect of parameter variability on two short-term model outcomes: duration and peak viral production of 500 simulated episodes; second, a global sensitivity analysis was performed to examine more long-term shedding outcomes measured in 500 10-year simulations. Selected long-term outcomes included shedding rate and episode rate."
+    },
+    "paragraph_530": {
+      "type": "paragraph",
+      "id": "paragraph_530",
+      "content": "2) What does the model suggest are likely drivers of variability between patients?"
+    },
+    "annotation_531": {
+      "type": "emphasis",
+      "id": "annotation_531",
+      "path": [
+        "paragraph_530",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        81
+      ]
+    },
+    "paragraph_532": {
+      "type": "paragraph",
+      "id": "paragraph_532",
+      "content": "Using the global sensitivity analysis, we explored possible drivers of inter-personal variability. First, we explored the short-term effects of model parameter values on shedding episode characteristics. As in our past models, CD8+ T-cell density at the initial reactivation site was the critical driver of peak episode viral load and duration of the episode (Schiffer et al., 2011; Schiffer et al., 2011). However, the fact that this value was not completely predictive highlights the importance of stochastic effects on short-term viral trends in our spatial model. Increased viral replication rate in epidermal cells modestly enhanced episode duration and viral production, while increased viral infectivity modestly prolonged episode duration. These results are summarized in the Results section and Table 3, and their biologic significance is reviewed in an updated Discussion."
+    },
+    "paragraph_533": {
+      "type": "paragraph",
+      "id": "paragraph_533",
+      "content": "Predictors of long-term shedding variability between patients are also summarized in Table 3, as well as a new section at the end of the Results. In the 500 10-year Monte Carlo simulations, no single model parameter pertaining to mucosal biology was completely predictive of shedding rate or episode rate. Surprisingly, higher CD8+ T-cell expansion rates correlated with higher shedding rate, while lower epidermal production rate of HSV-2, perhaps mediated by increased force of innate immunity, also correlated with higher shedding rate."
+    },
+    "paragraph_534": {
+      "type": "paragraph",
+      "id": "paragraph_534",
+      "content": "These counterintuitive findings can be explained in terms of the model's complex spatial predator-prey dynamics between immune cells and productively infected cells. Under simulated conditions favoring lower capacity for short-term viral production in mucosa (lower viral replication rate in epidermal cells or higher CD8+ replication rate), a higher proportion of simulated episodes were rapidly contained in less than a day: these episodes typically involved <10 infected cells and were cleared in <24 hr, prior to the need for T-cell reconstitution. As a result of this general pattern, CD8+ T-cells replenished less frequently and the typical duration between episodes of >24 hr increased. Due to more prolonged phases of CD8+ T-cell decay, the average CD8+ T-cell density at the onset of severe episodes was lower. Therefore, under conditions of sustained lower viral replication rate in epidermal cells and/or higher CD8+ replication rate, while simulated episodes of <1 day were more common, episodes of >10 days were also more common: parameter conditions that seemingly would promote less shedding in fact predicted slightly higher overall shedding rates. This more prolonged decay phase of CD8+ T-cells between episodes may be considered a form of T-cell exhaustion."
+    },
+    "paragraph_535": {
+      "type": "paragraph",
+      "id": "paragraph_535",
+      "content": "Lower viral replication rate in epidermal cells and higher CD8+ replication rate also correlated with higher measured episode rate. This finding may represent an artifact of overlapping shedding episode initiations within different spatial regions. In fact, neither of these parameters has any effect on the rate of shedding episode initiation within mucosa: shedding episode initiation rate is determined only by the rate of release of HSV-2 from neurons as well as viral infectivity. Rather, under these low replication conditions, episodes may be less likely to initiate when another episode is already ongoing. Therefore, a higher number of episode initiations are detected rather than being masked by an ongoing reactivation. These predictions highlight the incredible complexity of virus host interplay within mucosa when spatial features of pathogenesis are considered."
+    },
+    "annotation_536": {
+      "type": "emphasis",
+      "id": "annotation_536",
+      "path": [
+        "paragraph_535",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        333,
+        343
+      ]
+    },
+    "paragraph_537": {
+      "type": "paragraph",
+      "id": "paragraph_537",
+      "content": "While these findings are intriguing, in a revised version of the Discussion, we highlight that the global sensitivity analyses are exploratory in nature. First, feasible probability density functions for many of the model's parameters can only be estimated. In addition, it is unknown whether our model's parameters are independent or collinear. For instance, some investigators believe that CD8+ T-cells are vital for controlling the kinetics of HSV-2 release within ganglia (Khanna, 2003). Therefore, viral release rate from neurons and CD8+ expansion rate in periphery may be co-dependent. There is no available data to support or refute this idea. We therefore emphasize that sensitivity analysis results are hypothesis generating and raise several fruitful avenues for future research."
+    },
+    "paragraph_538": {
+      "type": "paragraph",
+      "id": "paragraph_538",
+      "content": "3) How sensitive is the model to seeding frequency or location?"
+    },
+    "annotation_539": {
+      "type": "emphasis",
+      "id": "annotation_539",
+      "path": [
+        "paragraph_538",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        62
+      ]
+    },
+    "paragraph_540": {
+      "type": "paragraph",
+      "id": "paragraph_540",
+      "content": "The global sensitivity analysis also demonstrated that quantitative shedding rate and episode rate correlate with average number of HSV-2 DNA genomic copies released into the genital tract from neurons per day. Regarding spatial seeding, we now include analyses that demonstrate that if viral release was heterogeneously disseminated across the genital tract, but was limited to <10% of selected model regions, then model fit started to break down with over representation of short duration episodes with low peak copy numbers. If viral release from neurons was allowed in a higher percentage of micro-regions, but was limited to one geographic sector of the genital tract, then model fit was less robust as well. We conclude based on these analyses, as well as data in Figure 2a, which shows brief HSV-2 reactivations in spatially distinct regions, that HSV release from neurons is likely to consist of highly frequent and widely spatially dispersed release of small amounts of viral genomes. This viral strategy allows regions with low CD8+ densities and high viral growth potential to be periodically seeded, promoting larger outbreaks."
+    },
+    "paragraph_541": {
+      "type": "paragraph",
+      "id": "paragraph_541",
+      "content": "In separate analyses, we identified that similar shedding characteristics occur whether the virus is dripped continually or pulsed into single regions on a daily or weekly basis, provided that the total number of viruses per day is the same. This finding is in keeping with findings from a prior publication from our group (Schiffer et al., 2011)."
+    },
+    "paragraph_542": {
+      "type": "paragraph",
+      "id": "paragraph_542",
+      "content": "The above findings are represented with Figure 6 & Figure 6–figure supplements 1 & 2, which highlight in detail the effect of changes in seeding frequency and location on episode dynamics."
+    },
+    "paragraph_543": {
+      "type": "paragraph",
+      "id": "paragraph_543",
+      "content": "4) What is the impact of the starting distribution of immune cells on the dynamics or success of lesions?"
+    },
+    "annotation_544": {
+      "type": "emphasis",
+      "id": "annotation_544",
+      "path": [
+        "paragraph_543",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        104
+      ]
+    },
+    "paragraph_545": {
+      "type": "paragraph",
+      "id": "paragraph_545",
+      "content": "As discussed above, we now include a global sensitivity analysis in which the effect of parameter variability on a single episode is assessed. For each of these 500 episodes, the spatial array of CD8+ T-cell densities was allowed to develop naturally, the model simulation was started at a random time, and the episode was initiated stochastically in one of the 300 regions. For each episode, the CD8+ T-cell density in the initiating region was evaluated as a possible exposure variable for episode duration and peak copy number. Moreover, parameter values of viral replication and immune response were chosen randomly from the probability density functions described above."
+    },
+    "paragraph_546": {
+      "type": "paragraph",
+      "id": "paragraph_546",
+      "content": "We identified that CD8+ T-cell density in the initial area and surrounding areas was more predictive of episode severity than model parameter variability."
+    },
+    "paragraph_547": {
+      "type": "paragraph",
+      "id": "paragraph_547",
+      "content": "5) What is the main driver of the size of the lesions?"
+    },
+    "annotation_548": {
+      "type": "emphasis",
+      "id": "annotation_548",
+      "path": [
+        "paragraph_547",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        53
+      ]
+    },
+    "paragraph_549": {
+      "type": "paragraph",
+      "id": "paragraph_549",
+      "content": "When considered in aggregate, the above analyses suggest that spatial immune density at the precise site of a genital reactivation has the most immediate predictive effect on shedding episode severity and lesion size, while a complex intersection of immune and virologic parameters in the model are likely to dictate long-term shedding patterns over months and years."
+    },
+    "paragraph_550": {
+      "type": "paragraph",
+      "id": "paragraph_550",
+      "content": "6) Please discuss the likely implications of the work for transmission and how it is related to the presence or absence of lesions."
+    },
+    "annotation_551": {
+      "type": "emphasis",
+      "id": "annotation_551",
+      "path": [
+        "paragraph_550",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        130
+      ]
+    },
+    "paragraph_552": {
+      "type": "paragraph",
+      "id": "paragraph_552",
+      "content": "We include a paragraph in the Discussion with our thoughts on how this work is relevant to HSV-2 transmission dynamics. Coital transmission can occur when shedding is either symptomatic or asymptomatic. In model simulations, seeding of adjacent regions can occur when the viral load in a single region is ∼106 HSV DNA copies, which corresponds with a number of killed cells that is too low to become visible to the human eye. This explains why episodes with reasonably high viral loads and prolonged duration, but no visible lesions, are quite common. We conclude that the phenomenon of secondary seeding is important for prolonging both symptomatic and asymptomatic episodes, and is therefore likely to enhance transmission under both circumstances."
+    },
+    "annotation_553": {
+      "type": "superscript",
+      "id": "annotation_553",
+      "path": [
+        "paragraph_552",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        308,
+        309
+      ]
+    },
+    "paragraph_554": {
+      "type": "paragraph",
+      "id": "paragraph_554",
+      "content": "References"
+    },
+    "paragraph_555": {
+      "type": "paragraph",
+      "id": "paragraph_555",
+      "content": "1. Marino S, Hogue IB, Ray CJ, Kirschner DE. 2008. A methodology for performing global uncertainty and sensitivity analysis in systems biology. J Theor Biol 254:178–96."
+    },
+    "annotation_556": {
+      "type": "emphasis",
+      "id": "annotation_556",
+      "path": [
+        "paragraph_555",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        144,
+        156
+      ]
+    },
+    "annotation_557": {
+      "type": "strong",
+      "id": "annotation_557",
+      "path": [
+        "paragraph_555",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        157,
+        160
+      ]
+    },
+    "paragraph_558": {
+      "type": "paragraph",
+      "id": "paragraph_558",
+      "content": "2. Schiffer JT, Abu-Raddad L, Mark K, Zhu J, Selke S, et al. 2009. Frequent Release of Low Amounts of Herpes Simplex Virus From Neurons: Results of a Mathematical Model. Science Translational Medicine 1:1–9."
+    },
+    "annotation_559": {
+      "type": "emphasis",
+      "id": "annotation_559",
+      "path": [
+        "paragraph_558",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        170,
+        200
+      ]
+    },
+    "annotation_560": {
+      "type": "strong",
+      "id": "annotation_560",
+      "path": [
+        "paragraph_558",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        201,
+        202
+      ]
+    },
+    "paragraph_561": {
+      "type": "paragraph",
+      "id": "paragraph_561",
+      "content": "3. Schiffer JT, Abu-Raddad L, Mark KE, Zhu J, Selke S, et al. 2010. Mucosal host immune response predicts the severity and duration of herpes simplex virus-2 genital tract shedding episodes. Proc Natl Acad Sci USA 107:18973–8."
+    },
+    "annotation_562": {
+      "type": "emphasis",
+      "id": "annotation_562",
+      "path": [
+        "paragraph_561",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        191,
+        213
+      ]
+    },
+    "annotation_563": {
+      "type": "strong",
+      "id": "annotation_563",
+      "path": [
+        "paragraph_561",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        214,
+        217
+      ]
+    },
+    "paragraph_564": {
+      "type": "paragraph",
+      "id": "paragraph_564",
+      "content": "4. Khanna KM, Bonneau RH, Kinchington PR, Hendricks RL. 2003. Herpes simplex virus-specific memory CD8+ T cells are selectively activated and retained in latently infected sensory ganglia. Immunity 18:593–603."
+    },
+    "annotation_565": {
+      "type": "emphasis",
+      "id": "annotation_565",
+      "path": [
+        "paragraph_564",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        189,
+        197
+      ]
+    },
+    "annotation_566": {
+      "type": "strong",
+      "id": "annotation_566",
+      "path": [
+        "paragraph_564",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        198,
+        200
+      ]
     }
   }
 }

@@ -82,7 +82,53 @@
         "paragraph_265",
         "paragraph_266",
         "sub-article",
-        "sub-article"
+        "heading_280",
+        "paragraph_281",
+        "paragraph_283",
+        "paragraph_285",
+        "paragraph_286",
+        "paragraph_287",
+        "paragraph_288",
+        "paragraph_289",
+        "paragraph_291",
+        "paragraph_292",
+        "paragraph_293",
+        "paragraph_294",
+        "paragraph_298",
+        "paragraph_300",
+        "paragraph_301",
+        "paragraph_304",
+        "sub-article",
+        "heading_305",
+        "paragraph_306",
+        "paragraph_308",
+        "paragraph_310",
+        "paragraph_311",
+        "paragraph_313",
+        "formula_equ6",
+        "paragraph_314",
+        "paragraph_318",
+        "paragraph_321",
+        "paragraph_324",
+        "paragraph_330",
+        "paragraph_332",
+        "paragraph_333",
+        "paragraph_335",
+        "paragraph_336",
+        "paragraph_338",
+        "paragraph_339",
+        "paragraph_344",
+        "paragraph_348",
+        "paragraph_351",
+        "paragraph_354",
+        "paragraph_356",
+        "paragraph_360",
+        "paragraph_365",
+        "paragraph_373",
+        "paragraph_375",
+        "paragraph_376",
+        "paragraph_378",
+        "paragraph_381"
       ]
     },
     "figures": {
@@ -413,7 +459,7 @@
     "paragraph_2": {
       "type": "paragraph",
       "id": "paragraph_2",
-      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited.10.7554/eLife.00299.001"
+      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited."
     },
     "annotation_3": {
       "type": "link",
@@ -444,7 +490,7 @@
     "paragraph_5": {
       "type": "paragraph",
       "id": "paragraph_5",
-      "content": "DOI: http://dx.doi.org/10.7554/eLife.00299.00110.7554/eLife.00299.002"
+      "content": "DOI: http://dx.doi.org/10.7554/eLife.00299.001"
     },
     "annotation_6": {
       "type": "strong",
@@ -5228,6 +5274,997 @@
       "level": 1,
       "content": "Article Commentary",
       "nodes": []
+    },
+    "heading_280": {
+      "type": "heading",
+      "id": "heading_280",
+      "level": 2,
+      "content": "Decision letter",
+      "nodes": []
+    },
+    "paragraph_281": {
+      "type": "paragraph",
+      "id": "paragraph_281",
+      "content": "eLife posts the editorial decision letter and author response on a selection of the published articles (subject to the approval of the authors). An edited version of the letter sent to the authors after peer review is shown, indicating the substantive concerns or comments; minor concerns are not usually shown. Reviewers have the opportunity to discuss the decision before the letter is sent (see review process). Similarly, the author response typically shows only responses to the major concerns raised by the reviewers."
+    },
+    "annotation_282": {
+      "type": "link",
+      "id": "annotation_282",
+      "path": [
+        "paragraph_281",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        398,
+        412
+      ],
+      "url": "http://www.elifesciences.org/the-journal/review-process"
+    },
+    "paragraph_283": {
+      "type": "paragraph",
+      "id": "paragraph_283",
+      "content": "Thank you for choosing to send your work entitled “Integrative genomic analysis of the human immune response to influenza vaccination” for consideration at eLife. Your article has been evaluated by a Senior editor and 2 reviewers, one of whom, Manolis Dermitzakis, is a member of our Board of Reviewing Editors."
+    },
+    "annotation_284": {
+      "type": "emphasis",
+      "id": "annotation_284",
+      "path": [
+        "paragraph_283",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        156,
+        161
+      ]
+    },
+    "paragraph_285": {
+      "type": "paragraph",
+      "id": "paragraph_285",
+      "content": "The Reviewing editor and the other reviewer discussed their comments before we reached this decision, and the Reviewing editor has assembled the following comments based on the reviewers' reports."
+    },
+    "paragraph_286": {
+      "type": "paragraph",
+      "id": "paragraph_286",
+      "content": "The manuscript describes a project that aims to integrate genetic, gene expression, and vaccination data, together with immunological traits. The design is innovative and promises interesting discoveries, some of which are described in the submission. Some key concerns were raised that need to be addressed before a final decision can be made:"
+    },
+    "paragraph_287": {
+      "type": "paragraph",
+      "id": "paragraph_287",
+      "content": "1) The eQTL discovery was performed in a cohort comprised of males only and the replication was performed in a cohort comprised of females only. What was the purpose of this design? The authors do not address the issue that discovery and replication are confounded by sex."
+    },
+    "paragraph_288": {
+      "type": "paragraph",
+      "id": "paragraph_288",
+      "content": "2) We suspect that an interaction term in the models would actually be more efficient in detecting genetic effects modified by the time point after vaccination. Why was this not used (instead a simple comparison among time points was made)?"
+    },
+    "paragraph_289": {
+      "type": "paragraph",
+      "id": "paragraph_289",
+      "content": "3) The fact that there is enrichment in the QQ plots on Figure 6A does not provide evidence about causality of SNPs to vaccine response but simply of correlation among the two effects. More complex models need to be implemented to show causality."
+    },
+    "figure_reference_290": {
+      "type": "figure_reference",
+      "id": "figure_reference_290",
+      "path": [
+        "paragraph_289",
+        "content"
+      ],
+      "target": "image_fig6",
+      "range": [
+        56,
+        65
+      ]
+    },
+    "paragraph_291": {
+      "type": "paragraph",
+      "id": "paragraph_291",
+      "content": "4) The study design used two different array versions: Illumina HT-12v3 and HT-12v4. The authors should describe how they combined data from these arrays, particularly for transcripts where the probe sequence differs between versions."
+    },
+    "paragraph_292": {
+      "type": "paragraph",
+      "id": "paragraph_292",
+      "content": "5) The expression data processing should be described in more detail to make it clear how normalization, and so on, was performed given the different time points, array versions, and discovery/replication cohorts."
+    },
+    "paragraph_293": {
+      "type": "paragraph",
+      "id": "paragraph_293",
+      "content": "6) The authors mention that the person effect within their model would account for differences in cell populations among individuals, given that these are stable within individuals during the sampling timeframe. No data or references are provided to support this claim. Immune cell relative proportions can change rapidly."
+    },
+    "paragraph_294": {
+      "type": "paragraph",
+      "id": "paragraph_294",
+      "content": "7) The authors use the delta r2 metric to identify eQTLs that differ between time points or in response to the vaccination. It seems that the authors could have performed the analysis using the delta of transcription(time point x)−transcription(baseline) as a trait. This normalizes to each individual's starting point. Furthermore, a difference of r2 between time points can have multiple causes (as the authors point out). It seems to us that what they are most concerned with is cases where the effect size (beta) of a given eQTL differs between time points, or where the actual response (transcription time point x−transcription baseline) differs between individuals. The authors reasoning behind these choices should be made clearer."
+    },
+    "annotation_295": {
+      "type": "superscript",
+      "id": "annotation_295",
+      "path": [
+        "paragraph_294",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        30,
+        31
+      ]
+    },
+    "annotation_296": {
+      "type": "superscript",
+      "id": "annotation_296",
+      "path": [
+        "paragraph_294",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        350,
+        351
+      ]
+    },
+    "annotation_297": {
+      "type": "emphasis",
+      "id": "annotation_297",
+      "path": [
+        "paragraph_294",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        562,
+        564
+      ]
+    },
+    "paragraph_298": {
+      "type": "paragraph",
+      "id": "paragraph_298",
+      "content": "8) For the trans-eQTL analysis, the authors consider as genome-wide significant any SNP-transcript pair with p<5×10-8. Indeed for a GWAS of common variation, this may be appropriate for a single trait, but the authors should account for testing nearly 10K transcripts."
+    },
+    "annotation_299": {
+      "type": "superscript",
+      "id": "annotation_299",
+      "path": [
+        "paragraph_298",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        115,
+        117
+      ]
+    },
+    "paragraph_300": {
+      "type": "paragraph",
+      "id": "paragraph_300",
+      "content": "[After resubmission, the editors also asked for the following comments to be addressed prior to acceptance.]"
+    },
+    "paragraph_301": {
+      "type": "paragraph",
+      "id": "paragraph_301",
+      "content": "A) The revision is not satisfactory for point 7, above, on the delta r2. The case is still not convincing because only 146 of the 541 cases were validated. It is not clear why the difference in r2 is necessarily interpreted as a significant change when only 30% of the cases are validated."
+    },
+    "annotation_302": {
+      "type": "superscript",
+      "id": "annotation_302",
+      "path": [
+        "paragraph_301",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        70,
+        71
+      ]
+    },
+    "annotation_303": {
+      "type": "superscript",
+      "id": "annotation_303",
+      "path": [
+        "paragraph_301",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        195,
+        196
+      ]
+    },
+    "paragraph_304": {
+      "type": "paragraph",
+      "id": "paragraph_304",
+      "content": "B) The modelling as previously discussed in point 3 is somewhat weak and causality is not as well demonstrated, as the authors want to claim. The fact that the association with the residuals is lower than with the original values is not direct but indirect evidence that there are casual relationships. Also, how were the “random” SNPs chosen? Establishing a relevant null is important here. Also, direct causal models would help in establishing the relationships rather than the indirect approach the authors use.10.7554/eLife.00299.015"
+    },
+    "heading_305": {
+      "type": "heading",
+      "id": "heading_305",
+      "level": 2,
+      "content": "Author response",
+      "nodes": []
+    },
+    "paragraph_306": {
+      "type": "paragraph",
+      "id": "paragraph_306",
+      "content": "1) The eQTL discovery was performed in a cohort comprised of males only and the replication was performed in a cohort comprised of females only. What was the purpose of this design? The authors do not address the issue that discovery and replication are confounded by sex."
+    },
+    "annotation_307": {
+      "type": "emphasis",
+      "id": "annotation_307",
+      "path": [
+        "paragraph_306",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        271
+      ]
+    },
+    "paragraph_308": {
+      "type": "paragraph",
+      "id": "paragraph_308",
+      "content": "Many loci show sex-specific effects at the level of gene expression. The study design for the discovery cohort, therefore, sought to minimize the effects of suspected variables, such as previous vaccine exposure, ethnicity, age, and sex. The follow-up study was designed to fill the resulting gap in information about responses to the seasonal influenza vaccine in women. We agree that the consequence of this feature of the data is confounding of potential sex-specific effects with other technical variables in the trials. However, it should not result in confounding with other biologically important variation, particularly in the validation of eQTLs. The literature is inconsistent with respect to terminology, but we prefer to make the distinction between the terms “validation” and “replication” (Igl et. al Hum Hered 2009; 67: 66-68)."
+    },
+    "annotation_309": {
+      "type": "link",
+      "id": "annotation_309",
+      "path": [
+        "paragraph_308",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        804,
+        814
+      ],
+      "url": "http://dx.doi.org/10.1159/000164400"
+    },
+    "paragraph_310": {
+      "type": "paragraph",
+      "id": "paragraph_310",
+      "content": "Validation involves a confirmation attempt on a sample from a different population, where systematic variability (in this case, the gender difference that was noted by the reviewers) would be expected in addition to random variability. If a genetic association can be validated, it shows greater generalizability than a replicated association, in which the confirmation sample is drawn from the same population as the discovery sample. We agree that future studies should include both men and women as a way to identify potential sex-specific differences in transcriptional response to vaccine. Additional trials will also be required to assess the effects of age, other risk-increasing clinical variables, such as compromised immunity, and ethnic/racial origins."
+    },
+    "paragraph_311": {
+      "type": "paragraph",
+      "id": "paragraph_311",
+      "content": "2) We suspect that an interaction term in the models would actually be more efficient in detecting genetic effects modified by the time point after vaccination. Why was this not used (instead a simple comparison among time points was made)?"
+    },
+    "annotation_312": {
+      "type": "emphasis",
+      "id": "annotation_312",
+      "path": [
+        "paragraph_311",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        239
+      ]
+    },
+    "paragraph_313": {
+      "type": "paragraph",
+      "id": "paragraph_313",
+      "content": "We agree with the reviewers and did attempt to investigate this. The model we employed for the analysis is as follows:"
+    },
+    "formula_equ6": {
+      "type": "formula",
+      "id": "formula_equ6",
+      "content": "<mml:mrow><mml:msub><mml:mi mathvariant=bold-italic>Y</mml:mi><mml:mrow><mml:mi mathvariant=bold-italic>i</mml:mi><mml:mo>,</mml:mo><mml:mi mathvariant=bold-italic>j</mml:mi></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:msub><mml:mi mathvariant=bold-italic>D</mml:mi><mml:mi mathvariant=bold-italic>i</mml:mi></mml:msub><mml:mo>+</mml:mo><mml:mi mathvariant=bold-italic>β</mml:mi><mml:msub><mml:mi mathvariant=bold-italic>g</mml:mi><mml:mi mathvariant=bold-italic>j</mml:mi></mml:msub><mml:mo>+</mml:mo><mml:msub><mml:mi mathvariant=bold-italic>β</mml:mi><mml:mi mathvariant=bold-italic>i</mml:mi></mml:msub><mml:msub><mml:mi mathvariant=bold-italic>g</mml:mi><mml:mi mathvariant=bold-italic>j</mml:mi></mml:msub><mml:mo>+</mml:mo><mml:msub><mml:mi mathvariant=bold-italic>P</mml:mi><mml:mi mathvariant=bold-italic>j</mml:mi></mml:msub><mml:mo>+</mml:mo><mml:msub><mml:mi mathvariant=bold-italic>e</mml:mi><mml:mrow><mml:mi mathvariant=bold-italic>i</mml:mi><mml:mo>,</mml:mo><mml:mi mathvariant=bold-italic>j</mml:mi></mml:mrow></mml:msub></mml:mrow>",
+      "format": "mathml"
+    },
+    "paragraph_314": {
+      "type": "paragraph",
+      "id": "paragraph_314",
+      "content": "This model includes interaction terms (βigj) for the change in the coefficient for the additive effect of genotype by day. In the loci showing significant transcriptional response to the vaccine, we found that the main effect of genotype was far stronger than these interaction effects. The sign of the additive effect does not change across the days, but the magnitude tends to increase after vaccination. We therefore speculate that our sample size does not provide sufficient power to exploit the interaction terms. Future larger studies may allow more precise estimates of the time × gene interaction and allow identification of additional vaccine response loci beyond those detected here."
+    },
+    "annotation_315": {
+      "type": "subscript",
+      "id": "annotation_315",
+      "path": [
+        "paragraph_314",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        40,
+        41
+      ]
+    },
+    "annotation_316": {
+      "type": "emphasis",
+      "id": "annotation_316",
+      "path": [
+        "paragraph_314",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        41,
+        42
+      ]
+    },
+    "annotation_317": {
+      "type": "subscript",
+      "id": "annotation_317",
+      "path": [
+        "paragraph_314",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        42,
+        43
+      ]
+    },
+    "paragraph_318": {
+      "type": "paragraph",
+      "id": "paragraph_318",
+      "content": "3) The fact that there is enrichment in the QQ plots on Figure 6A does not provide evidence about causality of SNPs to vaccine response but simply of correlation among the two effects. More complex models need to be implemented to show causality."
+    },
+    "figure_reference_319": {
+      "type": "figure_reference",
+      "id": "figure_reference_319",
+      "path": [
+        "paragraph_318",
+        "content"
+      ],
+      "target": "image_fig6",
+      "range": [
+        56,
+        65
+      ]
+    },
+    "annotation_320": {
+      "type": "emphasis",
+      "id": "annotation_320",
+      "path": [
+        "paragraph_318",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        245
+      ]
+    },
+    "paragraph_321": {
+      "type": "paragraph",
+      "id": "paragraph_321",
+      "content": "We agree with the reviewers that the enrichment shown in the QQ plots does not provide evidence of causality. As noted, the results do support the possibility that the selected markers are enriched for true associations to the humoral immune response to influenza vaccine. We have revised the manuscript to clarify this point and have separated Figure 6A from Figure 6B to help reinforce the difference in interpretation."
+    },
+    "figure_reference_322": {
+      "type": "figure_reference",
+      "id": "figure_reference_322",
+      "path": [
+        "paragraph_321",
+        "content"
+      ],
+      "target": "image_fig6",
+      "range": [
+        345,
+        354
+      ]
+    },
+    "figure_reference_323": {
+      "type": "figure_reference",
+      "id": "figure_reference_323",
+      "path": [
+        "paragraph_321",
+        "content"
+      ],
+      "target": "image_fig6",
+      "range": [
+        360,
+        369
+      ]
+    },
+    "paragraph_324": {
+      "type": "paragraph",
+      "id": "paragraph_324",
+      "content": "A potential causal relationship between the genes identified and the antibody response is supported by the conditional independence analysis shown in Figure 7 (formerly Figure 6B). For this analysis, we first computed the R2 between SNP (genotype at SNPs that were validated eQTL and where gene expression was associated with the magnitude of the antibody response) and antibody response using an additive model. We then performed a regression analysis predicting antibody response from gene expression and we used the residuals from that analysis to perform another association analysis. We observed that the association between SNP and antibody, as measured by non-zero R2 values, disappeared after accounting for gene expression. This reduction in R2 was not observed in randomly-sampled sets of SNPs. The preceding data showed that the SNPs used are eQTL and that gene expression changes (e.g., day 1 post-vaccine) precede the change in antibody titers (day 28). Taken together, these observations support the interpretation that the predictive information in the genotype for the change in antibody titer is mediated by gene expression. This analysis supports a causal role for these genes in the change in antibody titer."
+    },
+    "figure_reference_325": {
+      "type": "figure_reference",
+      "id": "figure_reference_325",
+      "path": [
+        "paragraph_324",
+        "content"
+      ],
+      "target": "image_fig7",
+      "range": [
+        150,
+        158
+      ]
+    },
+    "figure_reference_326": {
+      "type": "figure_reference",
+      "id": "figure_reference_326",
+      "path": [
+        "paragraph_324",
+        "content"
+      ],
+      "target": "image_fig6",
+      "range": [
+        169,
+        178
+      ]
+    },
+    "annotation_327": {
+      "type": "superscript",
+      "id": "annotation_327",
+      "path": [
+        "paragraph_324",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        223,
+        224
+      ]
+    },
+    "annotation_328": {
+      "type": "superscript",
+      "id": "annotation_328",
+      "path": [
+        "paragraph_324",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        673,
+        674
+      ]
+    },
+    "annotation_329": {
+      "type": "superscript",
+      "id": "annotation_329",
+      "path": [
+        "paragraph_324",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        752,
+        753
+      ]
+    },
+    "paragraph_330": {
+      "type": "paragraph",
+      "id": "paragraph_330",
+      "content": "4) The study design used two different array versions: Illumina HT-12v3 and HT-12v4. The authors should describe how they combined data from these arrays, particularly for transcripts where the probe sequence differs between versions."
+    },
+    "annotation_331": {
+      "type": "emphasis",
+      "id": "annotation_331",
+      "path": [
+        "paragraph_330",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        233
+      ]
+    },
+    "paragraph_332": {
+      "type": "paragraph",
+      "id": "paragraph_332",
+      "content": "The sub-heading “Expression data processing and quality control” in the Materials and methods section has been re-written to more clearly explain how the expression microarray data were processed. In summary, for the initial part of the study (the eQTL component), the two cohorts were analyzed independently. Because of the difference in array versions, unique reporter identifiers (Illumina ProbeIDs and sequence-based nuIDs) were used to ensure that the same set of reporters was being analyzed in each of the cohorts. The two resulting expression data sets, which included data from the same set of 9,809 reporters, were then combined for the integrative genomic analysis component of the study."
+    },
+    "paragraph_333": {
+      "type": "paragraph",
+      "id": "paragraph_333",
+      "content": "5) The expression data processing should be described in more detail to make it clear how normalization, and so on, was performed given the different time points, array versions, and discovery/replication cohorts."
+    },
+    "annotation_334": {
+      "type": "emphasis",
+      "id": "annotation_334",
+      "path": [
+        "paragraph_333",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        212
+      ]
+    },
+    "paragraph_335": {
+      "type": "paragraph",
+      "id": "paragraph_335",
+      "content": "The sub-heading “Expression data processing and quality control” in the Materials and methods section has been re-written to more clearly explain how the expression microarray data were processed. The data for all individuals and all time points for a particular cohort were processed together. In the eQTL components of the analysis, the two cohorts were analyzed independently. Background adjustment, variance stabilization transformation, and normalization (VST-RSN) were carried out using identical parameters for each cohort. When the two data sets were combined for the integrative genomic analysis component, an additional quantile normalization was performed to adjust for batch effects between cohorts."
+    },
+    "paragraph_336": {
+      "type": "paragraph",
+      "id": "paragraph_336",
+      "content": "6) The authors mention that the person effect within their model would account for differences in cell populations among individuals, given that these are stable within individuals during the sampling timeframe. No data or references are provided to support this claim. Immune cell relative proportions can change rapidly."
+    },
+    "annotation_337": {
+      "type": "emphasis",
+      "id": "annotation_337",
+      "path": [
+        "paragraph_336",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        321
+      ]
+    },
+    "paragraph_338": {
+      "type": "paragraph",
+      "id": "paragraph_338",
+      "content": "We agree with the reviewers. Our model has a random-effect term to account for the fact that individuals were serially sampled. This person effect could account for systematic variation that was stable within an individual over the duration of the study (days 0–14), but would not account for changes in cell composition following vaccine administration. The corresponding paragraph in the manuscript has been corrected to reflect this."
+    },
+    "paragraph_339": {
+      "type": "paragraph",
+      "id": "paragraph_339",
+      "content": "7) The authors use the delta r2 metric to identify eQTLs that differ between time points or in response to the vaccination. It seems that the authors could have performed the analysis using the delta of transcription(time point x)−transcription(baseline) as a trait. This normalizes to each individual’s starting point. Furthermore, a difference of r2 between time points can have multiple causes (as the authors point out). It seems to us that what they are most concerned with is cases where the effect size (beta) of a given eQTL differs between time points, or where the actual response (transcription time point x−transcription baseline) differs between individuals. The authors reasoning behind these choices should be made clearer."
+    },
+    "annotation_340": {
+      "type": "superscript",
+      "id": "annotation_340",
+      "path": [
+        "paragraph_339",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        30,
+        31
+      ]
+    },
+    "annotation_341": {
+      "type": "superscript",
+      "id": "annotation_341",
+      "path": [
+        "paragraph_339",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        350,
+        351
+      ]
+    },
+    "annotation_342": {
+      "type": "emphasis",
+      "id": "annotation_342",
+      "path": [
+        "paragraph_339",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        561
+      ]
+    },
+    "annotation_343": {
+      "type": "emphasis",
+      "id": "annotation_343",
+      "path": [
+        "paragraph_339",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        565,
+        737
+      ]
+    },
+    "paragraph_344": {
+      "type": "paragraph",
+      "id": "paragraph_344",
+      "content": "We attempted analyses with an approach similar to that proposed by the reviewers in the course of our work, but found that the approach that was ultimately chosen to explore the day differences was the most powerful. Specifically, utilizing a pairwise comparison (difference) between time points as the substrate for the eQTL analysis would lead to an increase in the technical variance of the phenotype, as the sum of two independent (technical) errors has twice the variance of an individual measurement. We agree with the reviewer that our interest is in investigating the source of changes in R2 explained on each day, and we analyzed this change in R2 to show that (a) in principle, R2 for the explanatory power of the genotype increases in the days after vaccination, and (b) this change is due to an increase in the magnitude of the additive effect, and not in a change in the dispersion of the errors across days."
+    },
+    "annotation_345": {
+      "type": "superscript",
+      "id": "annotation_345",
+      "path": [
+        "paragraph_344",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        598,
+        599
+      ]
+    },
+    "annotation_346": {
+      "type": "superscript",
+      "id": "annotation_346",
+      "path": [
+        "paragraph_344",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        655,
+        656
+      ]
+    },
+    "annotation_347": {
+      "type": "superscript",
+      "id": "annotation_347",
+      "path": [
+        "paragraph_344",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        689,
+        690
+      ]
+    },
+    "paragraph_348": {
+      "type": "paragraph",
+      "id": "paragraph_348",
+      "content": "8) For the trans-eQTL analysis, the authors consider as genome-wide significant any SNP-transcript pair with p<5×10-8. Indeed for a GWAS of common variation, this may be appropriate for a single trait, but the authors should account for testing nearly 10K transcripts."
+    },
+    "annotation_349": {
+      "type": "superscript",
+      "id": "annotation_349",
+      "path": [
+        "paragraph_348",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        115,
+        117
+      ]
+    },
+    "annotation_350": {
+      "type": "emphasis",
+      "id": "annotation_350",
+      "path": [
+        "paragraph_348",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        267
+      ]
+    },
+    "paragraph_351": {
+      "type": "paragraph",
+      "id": "paragraph_351",
+      "content": "In this study we performed only cis-eQTL analysis within an interval of 1 Mb centered on the reporter sequence. Positive associations in this analysis are most likely to result from direct allele-specific effects on transcription rate or transcript stability. A p-value threshold of 5 x 10-8 would, therefore, be conservative based on either number of SNPs or LD structure around the transcript. Future studies with much larger sample sizes might allow a full trans-eQTL analysis in which one would seek to identify genetic variants at other loci that indirectly affect transcript abundance measures. We have removed the term “genome-wide significance”, in reference to the p-value, from the relevant section of the Results."
+    },
+    "annotation_352": {
+      "type": "emphasis",
+      "id": "annotation_352",
+      "path": [
+        "paragraph_351",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        32,
+        35
+      ]
+    },
+    "annotation_353": {
+      "type": "superscript",
+      "id": "annotation_353",
+      "path": [
+        "paragraph_351",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        289,
+        291
+      ]
+    },
+    "paragraph_354": {
+      "type": "paragraph",
+      "id": "paragraph_354",
+      "content": "[After resubmission, the editors also asked for the following comments to be addressed prior to acceptance.]"
+    },
+    "annotation_355": {
+      "type": "emphasis",
+      "id": "annotation_355",
+      "path": [
+        "paragraph_354",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        107
+      ]
+    },
+    "paragraph_356": {
+      "type": "paragraph",
+      "id": "paragraph_356",
+      "content": "A) The revision is not satisfactory for point 7, above, on the delta r2. The case is still not convincing because only 146 of the 541 cases were validated. It is not clear why the difference in r2 is necessarily interpreted as a significant change when only 30% of the cases are validated."
+    },
+    "annotation_357": {
+      "type": "superscript",
+      "id": "annotation_357",
+      "path": [
+        "paragraph_356",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        70,
+        71
+      ]
+    },
+    "annotation_358": {
+      "type": "superscript",
+      "id": "annotation_358",
+      "path": [
+        "paragraph_356",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        195,
+        196
+      ]
+    },
+    "annotation_359": {
+      "type": "emphasis",
+      "id": "annotation_359",
+      "path": [
+        "paragraph_356",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        288
+      ]
+    },
+    "paragraph_360": {
+      "type": "paragraph",
+      "id": "paragraph_360",
+      "content": "We chose to highlight the observed phenomenon of a change in the magnitude of the genetic effect after the experimental stimulus (delta-Rg2) because it is evident from our data (as exemplified by the NECAB2 locus in Figure 2A) and it is a general property of the observed eQTLs (Figure 2B). Importantly, this observation could not be made by cross-sectional study designs such as genome-wide association studies or single-time-point eQTL analyses."
+    },
+    "annotation_361": {
+      "type": "superscript",
+      "id": "annotation_361",
+      "path": [
+        "paragraph_360",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        138,
+        139
+      ]
+    },
+    "annotation_362": {
+      "type": "emphasis",
+      "id": "annotation_362",
+      "path": [
+        "paragraph_360",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        200,
+        206
+      ]
+    },
+    "figure_reference_363": {
+      "type": "figure_reference",
+      "id": "figure_reference_363",
+      "path": [
+        "paragraph_360",
+        "content"
+      ],
+      "target": "image_fig2",
+      "range": [
+        216,
+        225
+      ]
+    },
+    "figure_reference_364": {
+      "type": "figure_reference",
+      "id": "figure_reference_364",
+      "path": [
+        "paragraph_360",
+        "content"
+      ],
+      "target": "image_fig2",
+      "range": [
+        279,
+        288
+      ]
+    },
+    "paragraph_365": {
+      "type": "paragraph",
+      "id": "paragraph_365",
+      "content": "The Reviewing editor has raised concern about the validation of the delta-Rg2 property in the two cohorts. We agree that the metric is not well defined in terms of the type I error, and that we should avoid the term ‘validation’ in this setting. The manuscript has been modified to reflect this change. However, our data shows that the delta-Rg2 is a stable property of SNP-transcript pairs in both cohorts. To more objectively illustrate this, we evaluated the Spearman's rank correlation of the delta-Rg2 between the two cohorts using all SNP-transcript pairs (Cor = 0.25, p < 2x10-16). This information has been added to the manuscript. To select a conservative set of candidate loci based on this phenomenon, we chose to impose a stringent intersection rule, requiring a threshold of the top 1% of the delta-Rg2 distribution in both cohorts, in addition to evidence of a strong cis- acting eQTL (genotype effect p < 5 × 10-8) in both cohorts. The manuscript was modified to clarify that the 146 SNP-transcript pairs that were selected for further analysis comprise the set that passed this strict intersection rule."
+    },
+    "annotation_366": {
+      "type": "superscript",
+      "id": "annotation_366",
+      "path": [
+        "paragraph_365",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        76,
+        77
+      ]
+    },
+    "annotation_367": {
+      "type": "superscript",
+      "id": "annotation_367",
+      "path": [
+        "paragraph_365",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        344,
+        345
+      ]
+    },
+    "annotation_368": {
+      "type": "superscript",
+      "id": "annotation_368",
+      "path": [
+        "paragraph_365",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        505,
+        506
+      ]
+    },
+    "annotation_369": {
+      "type": "superscript",
+      "id": "annotation_369",
+      "path": [
+        "paragraph_365",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        583,
+        586
+      ]
+    },
+    "annotation_370": {
+      "type": "superscript",
+      "id": "annotation_370",
+      "path": [
+        "paragraph_365",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        814,
+        815
+      ]
+    },
+    "annotation_371": {
+      "type": "emphasis",
+      "id": "annotation_371",
+      "path": [
+        "paragraph_365",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        882,
+        885
+      ]
+    },
+    "annotation_372": {
+      "type": "superscript",
+      "id": "annotation_372",
+      "path": [
+        "paragraph_365",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        926,
+        928
+      ]
+    },
+    "paragraph_373": {
+      "type": "paragraph",
+      "id": "paragraph_373",
+      "content": "B) The modelling as previously discussed in point 3 is somewhat weak and causality is not as well demonstrated, as the authors want to claim. The fact that the association with the residuals is lower than with the original values is not direct but indirect evidence that there are casual relationships. Also, how were the “random” SNPs chosen? Establishing a relevant null is important here. Also, direct causal models would help in establishing the relationships rather than the indirect approach the authors use."
+    },
+    "annotation_374": {
+      "type": "emphasis",
+      "id": "annotation_374",
+      "path": [
+        "paragraph_373",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        513
+      ]
+    },
+    "paragraph_375": {
+      "type": "paragraph",
+      "id": "paragraph_375",
+      "content": "We agree with the Reviewing editor and, as stated above, spent considerable time reconsidering our approach to the evaluation of causal versus alternative association model comparisons."
+    },
+    "paragraph_376": {
+      "type": "paragraph",
+      "id": "paragraph_376",
+      "content": "Our work considered three distinct types of associations in the vaccine response data: genotype to expression (eQTL), expression to antibody response and genotype to antibody response. An important advantage of experimental designs such as ours is the opportunity to consider relationships between these distinct types of association. To respond to the reviewing editor's questions and to more formally evaluate alternative models, we have now adapted the approach recently published by Eric Schadt and colleagues (Millstein et al., 2009), which provides a statistical testing framework for so-called causal versus reactive model analyses. This work is related to ideas and methods developed by Judea Pearl and others, but more specifically applied to the context of eQTL data. Under this approach, a formal statistical hypothesis test is developed for evaluating three possible scenarios, referred to as independent, causal and reactive models."
+    },
+    "citation_reference_377": {
+      "type": "citation_reference",
+      "id": "citation_reference_377",
+      "path": [
+        "paragraph_376",
+        "content"
+      ],
+      "target": "article_citation_bib16",
+      "range": [
+        515,
+        537
+      ]
+    },
+    "paragraph_378": {
+      "type": "paragraph",
+      "id": "paragraph_378",
+      "content": "This concept is now depicted in Figure 7A and described in the text of our paper. This formulation incorporates the three pairs of associations considered in our study: locus-to-expression, expression-to-trait, and locus-to-trait, together with a more explicit analysis of conditional independence between two of these variables given the third, such as the association (and change in association) between locus and trait conditional on gene expression, which is the focus of the causal model. Two separate p-values are generated, considering both the causal and reactive scenarios against the null model of independence. Details of our approach are described in the Methods section of the paper and the results of the analyses are presented in Figure 7B and described in the text. In keeping with the Reviewing editor's comments, and in an attempt to more globally evaluate the trend observed in our data, we performed a large-scale simulation under a null model that used permutation to sever the connection between eQTL and expression-to-trait associations. In each permutation, we selected a set of candidate SNP-transcript pairs that passed eQTL and expression-to-permuted-phenotype association. We examined the causal versus reactive p-value distributions for these simulation-based results. In no instance did we observe the trend towards the causal versus the reactive model that was observed in our data."
+    },
+    "figure_reference_379": {
+      "type": "figure_reference",
+      "id": "figure_reference_379",
+      "path": [
+        "paragraph_378",
+        "content"
+      ],
+      "target": "image_fig7",
+      "range": [
+        32,
+        41
+      ]
+    },
+    "figure_reference_380": {
+      "type": "figure_reference",
+      "id": "figure_reference_380",
+      "path": [
+        "paragraph_378",
+        "content"
+      ],
+      "target": "image_fig7",
+      "range": [
+        745,
+        754
+      ]
+    },
+    "paragraph_381": {
+      "type": "paragraph",
+      "id": "paragraph_381",
+      "content": "Finally, we performed a power analysis to examine the sample size that would be required to establish statistical significance under this methodology when effect sizes and errors are consistent with our data. These analyses suggest that a sample size of 200 – which corresponds to the combined sample size of our two cohorts – has 50–60% power to detect deviations from the independence model if they are present (Figure 7C). This result suggests that our sample size, while giving us some opportunity to discriminate these alternatives, is still too small, and that a sample size at least twice as large would be needed for more clarity."
+    },
+    "figure_reference_382": {
+      "type": "figure_reference",
+      "id": "figure_reference_382",
+      "path": [
+        "paragraph_381",
+        "content"
+      ],
+      "target": "image_fig7",
+      "range": [
+        414,
+        423
+      ]
     }
   }
 }

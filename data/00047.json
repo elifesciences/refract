@@ -64,7 +64,24 @@
         "heading_s4-10",
         "paragraph_552",
         "sub-article",
-        "sub-article"
+        "heading_591",
+        "paragraph_592",
+        "paragraph_594",
+        "paragraph_596",
+        "paragraph_597",
+        "paragraph_598",
+        "paragraph_599",
+        "sub-article",
+        "heading_600",
+        "paragraph_601",
+        "paragraph_603",
+        "paragraph_608",
+        "paragraph_609",
+        "paragraph_611",
+        "paragraph_612",
+        "paragraph_614",
+        "paragraph_615",
+        "paragraph_617"
       ]
     },
     "figures": {
@@ -296,7 +313,7 @@
     "paragraph_2": {
       "type": "paragraph",
       "id": "paragraph_2",
-      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited.10.7554/eLife.00047.001"
+      "content": "This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited."
     },
     "annotation_3": {
       "type": "link",
@@ -327,7 +344,7 @@
     "paragraph_5": {
       "type": "paragraph",
       "id": "paragraph_5",
-      "content": "DOI: http://dx.doi.org/10.7554/eLife.00047.00110.7554/eLife.00047.002"
+      "content": "DOI: http://dx.doi.org/10.7554/eLife.00047.001"
     },
     "annotation_6": {
       "type": "strong",
@@ -9829,6 +9846,226 @@
       "level": 1,
       "content": "Article Commentary",
       "nodes": []
+    },
+    "heading_591": {
+      "type": "heading",
+      "id": "heading_591",
+      "level": 2,
+      "content": "Decision letter",
+      "nodes": []
+    },
+    "paragraph_592": {
+      "type": "paragraph",
+      "id": "paragraph_592",
+      "content": "eLife posts the editorial decision letter and author response on a selection of the published articles (subject to the approval of the authors). An edited version of the letter sent to the authors after peer review is shown, indicating the substantive concerns or comments; minor concerns are not usually shown. Reviewers have the opportunity to discuss the decision before the letter is sent (see review process). Similarly, the author response typically shows only responses to the major concerns raised by the reviewers."
+    },
+    "annotation_593": {
+      "type": "link",
+      "id": "annotation_593",
+      "path": [
+        "paragraph_592",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        398,
+        412
+      ],
+      "url": "http://www.elifesciences.org/the-journal/review-process"
+    },
+    "paragraph_594": {
+      "type": "paragraph",
+      "id": "paragraph_594",
+      "content": "Thank you for choosing to send your work entitled \"DNA-PK is a DNA sensor for IRF-3-dependent innate immunity\" for consideration at eLife. Your article has been evaluated by a Senior Editor and 2 reviewers, 1 of whom is on the board of reviewing editors."
+    },
+    "annotation_595": {
+      "type": "emphasis",
+      "id": "annotation_595",
+      "path": [
+        "paragraph_594",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        132,
+        137
+      ]
+    },
+    "paragraph_596": {
+      "type": "paragraph",
+      "id": "paragraph_596",
+      "content": "The Reviewing Editor and the other reviewer discussed their comments before we reached this decision, and the Reviewing Editor has assembled the following comments based on the reviewers' reports. While the reviewers found your work to be potentially interesting, there are some significant technical concerns. Specifically, more than one MEF line needs to be used to avoid MEF specific artifacts, and complementation experiments need to be performed to rule out contribution of cell transformation status and other possible effects specific to the MEF lines used. In addition, the mechanism of kinase activity independent effect of DNA-PK needs to be clarified – if it does function as a scaffolding protein, there should be some evidence provided to substantiate this hypothesis. The full comments follow:"
+    },
+    "paragraph_597": {
+      "type": "paragraph",
+      "id": "paragraph_597",
+      "content": "1) Studies that are based on MEFs can sometimes be misleading due to MEF heterogeneity. Different preps of MEFs are not identical in their gene expression and behavior, and therefore it is critically important A) to test more than one preparation of MEFs to confirm all the key results and B) to perform complementation experiments by re-introducing the gene of interest, in this case DNA-PK, Ku70 and Ku80. It may be technically difficult to transfect DNA-PK because if its size, but Ku70 and Ku80 can be transfected to test recovery of the response to DNA and the virus. These experiments are particularly important because some of the innate immune responses to DNA are not present in transformed cells. Since transformed MEFs were used in this study, and the degree of transformation may be greater in the knockouts, it is important to perform careful complementation studies."
+    },
+    "paragraph_598": {
+      "type": "paragraph",
+      "id": "paragraph_598",
+      "content": "2) It is also surprising that the catalytic activity of DNA-PK is not required for the anti-viral response. The authors suggest that DNA-PK may function as a scaffold for signaling complex assembly. However, no evidence is provided here."
+    },
+    "paragraph_599": {
+      "type": "paragraph",
+      "id": "paragraph_599",
+      "content": "3) Finally, DNA-PK deficiency appears to affect some but not all DNA induced genes. Full gene expression analysis using microarray comparing WT and DNA-PK deficient cells would be very informative. In addition, comparison of gene expression in unstimulated WT and DNA-PK deficient MEFs (which would be part of a control for a microarray study) would help to address the issue of MEF heterogeneity and transformative state.10.7554/eLife.00047.012"
+    },
+    "heading_600": {
+      "type": "heading",
+      "id": "heading_600",
+      "level": 2,
+      "content": "Author response",
+      "nodes": []
+    },
+    "paragraph_601": {
+      "type": "paragraph",
+      "id": "paragraph_601",
+      "content": "1) Studies that are based on MEFs can sometimes be misleading due to MEF heterogeneity. Different preps of MEFs are not identical in their gene expression and behavior, and therefore it is critically important A) to test more than one preparation of MEFs to confirm all the key results and B) to perform complementation experiments by re-introducing the gene of interest, in this case DNA-PK, Ku70 and Ku80. It may be technically difficult to transfect DNA-PK because if its size, but Ku70 and Ku80 can be transfected to test recovery of the response to DNA and the virus. These experiments are particularly important because some of the innate immune responses to DNA are not present in transformed cells."
+    },
+    "annotation_602": {
+      "type": "emphasis",
+      "id": "annotation_602",
+      "path": [
+        "paragraph_601",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        705
+      ]
+    },
+    "paragraph_603": {
+      "type": "paragraph",
+      "id": "paragraph_603",
+      "content": "The importance of using non-transformed (primary) cells was recognised and our study design reflected this. We stated in our submission that primary DNA-PKcs -/- cells were used. With the exception of Figure 2D, all data for DNA-PKcs -/- cells were from primary (passage 1) cells. In addition, we obtained DNA-PKcs -/- cells from 2 different external laboratories, as well as making our own primary cells multiple times. All these cells gave the same phenotype. So these data cannot be attributed either to “cell specific artifacts” or due to a “transformed status”."
+    },
+    "annotation_604": {
+      "type": "emphasis",
+      "id": "annotation_604",
+      "path": [
+        "paragraph_603",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        141,
+        148
+      ]
+    },
+    "annotation_605": {
+      "type": "superscript",
+      "id": "annotation_605",
+      "path": [
+        "paragraph_603",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        158,
+        161
+      ]
+    },
+    "annotation_606": {
+      "type": "superscript",
+      "id": "annotation_606",
+      "path": [
+        "paragraph_603",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        234,
+        237
+      ]
+    },
+    "annotation_607": {
+      "type": "superscript",
+      "id": "annotation_607",
+      "path": [
+        "paragraph_603",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        315,
+        318
+      ]
+    },
+    "paragraph_608": {
+      "type": "paragraph",
+      "id": "paragraph_608",
+      "content": "In addition, the experiments were performed with 4 different mutant cells types with defects in DNA-PK components. These all gave the same defect in DNA-sensing to IRF3. So there is close to zero chance that these observations are due to second site mutations. The signalling defect observed is also highly specific and not general. The mutant cells do not activate IRF3 in response to DNA, but they do respond normally to DNA to activate NF-kB, normally to RNA stimulation, normally to LPS, and normally to RNA virus infection. The suggestion that the defect observed in DNA sensing leading to an IRF3 dependent innate immunity might be due to a general signalling defect is refuted by the data submitted."
+    },
+    "paragraph_609": {
+      "type": "paragraph",
+      "id": "paragraph_609",
+      "content": "Since transformed MEFs were used in this study, and the degree of transformation may be greater in the knockouts, it is important to perform careful complementation studies."
+    },
+    "annotation_610": {
+      "type": "emphasis",
+      "id": "annotation_610",
+      "path": [
+        "paragraph_609",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        172
+      ]
+    },
+    "paragraph_611": {
+      "type": "paragraph",
+      "id": "paragraph_611",
+      "content": "The great majority of data used primary (not transformed) cells, and the signalling defect is highly specific rather than general. Therefore, the basis for doing a complementation experiment is lacking. Nevertheless we have done a Ku80 complementation experiment as requested and show that this restores DNA sensing to IRF3 (Figure 2). This is now mentioned in the text. We have also made explicit that the MEFs were from multiple labs including our own and that primary means passage 1."
+    },
+    "paragraph_612": {
+      "type": "paragraph",
+      "id": "paragraph_612",
+      "content": "2) It is also surprising that the catalytic activity of DNA-PK is not required for the anti-viral response. The authors suggest that DNA-PK may function as a scaffold for signaling complex assembly. However, no evidence is provided here."
+    },
+    "annotation_613": {
+      "type": "emphasis",
+      "id": "annotation_613",
+      "path": [
+        "paragraph_612",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        236
+      ]
+    },
+    "paragraph_614": {
+      "type": "paragraph",
+      "id": "paragraph_614",
+      "content": "To address this we have created a cell line (based on HEK293 cells) in which STING is expressed inducibly upon addition of doxycycline. HEK293 cells are defective in responding to DNA and this is shown to be overcome by inducible expression of STING (Figure 5E). Using this inducible cell line we show that STING interacts with Ku, and when the pathway is activated by transfection of DNA, the interaction with STING is lost (Figure 5F). This provides additional insight into how DNA-PK components engage the STING / TBK1 / IRF3 pathway, but the full elucidation of how this works is outside the scope of this paper."
+    },
+    "paragraph_615": {
+      "type": "paragraph",
+      "id": "paragraph_615",
+      "content": "3) Finally, DNA-PK deficiency appears to affect some but not all DNA induced genes. Full gene expression analysis using microarray comparing WT and DNA-PK deficient cells would be very informative. In addition, comparison of gene expression in unstimulated WT and DNA-PK deficient MEFs (which would be part of a control for a microarray study) would help to address the issue of MEF heterogeneity and transformative state."
+    },
+    "annotation_616": {
+      "type": "emphasis",
+      "id": "annotation_616",
+      "path": [
+        "paragraph_615",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        421
+      ]
+    },
+    "paragraph_617": {
+      "type": "paragraph",
+      "id": "paragraph_617",
+      "content": "Data showing the readout of several inflammatory mediators is presented in this paper. Since DNA-PK is required for IRF3 but not NF-kB activation (as we show), it is evident that some, but not all, DNA-induced genes will be affected, and these are predictable based on the requirement of genes for these different transcription factors. Therefore, we believe that a microarray experiment is unnecessary for this manuscript reporting this novel DNA sensor and showing its in vivo importance."
     }
   }
 }

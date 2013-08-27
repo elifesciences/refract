@@ -44,6 +44,15 @@ app.configure(function () {
 });
 
 
+
+// Convenience for allowing CORS on routes - GET only
+app.all('*', function (req, res, next) {
+  res.header('Access-Control-Allow-Origin', '*'); 
+  res.header('Access-Control-Allow-Methods', 'GET, OPTIONS'); 
+  res.header('Access-Control-Allow-Headers', 'Content-Type');
+  next();
+});
+
 // List available documents
 // -------------
 
@@ -64,7 +73,6 @@ app.get('/documents/:document', function(req, res) {
     res.jsonp(doc);
   });
 });
-
 
 // Update document
 // -------------
@@ -111,6 +119,28 @@ app.delete('/documents/:document',
       res.jsonp({"status": "deleted"});
     });
   });
+
+
+// Temporary solution to expose a valid library interface + documents
+// -------------
+
+
+
+
+// The generated library
+app.get('/index.json', function(req, res) {
+  var json = JSON.parse(fs.readFileSync(__dirname+ '/data/lens_library.json', 'utf-8'));
+  res.json(json);
+});
+
+
+// For each document
+app.get('/:document.json', function(req, res) {
+  var docId = req.params.document;
+  // var json = fs.readFileSync()
+  var json = JSON.parse(fs.readFileSync(__dirname+ '/data/'+docId+'.json', 'utf-8'));
+  res.json(json);
+});
 
 
 // Errors

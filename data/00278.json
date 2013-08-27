@@ -175,7 +175,6 @@
       "accepted_on": "2013-02-19",
       "published_on": "2013-04-02",
       "journal": "eLife",
-      "article_type": "",
       "keywords": [
         "DNA polymerase holoenzyme assembly",
         "clamp loading",
@@ -189,10 +188,9 @@
       "subjects": [
         "Biochemistry"
       ],
-      "pdf_link": "",
-      "xml_link": "",
-      "json_link": "",
-      "doi": ""
+      "xml_link": "https://s3.amazonaws.com/elife-cdn/elife-articles/00278/elife00278.xml",
+      "json_link": "https://s3.amazonaws.com/elife-cdn/elife-articles/00278/00278.json",
+      "doi": "http://dx.doi.org/10.7554/eLife.00278"
     },
     "person_author_2569": {
       "type": "person",
@@ -201,7 +199,6 @@
       "last-name": "Hedglin",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article",
       "email": "email:cor1",
       "funding": [
@@ -215,9 +212,7 @@
       "last-name": "Perumal",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Acquisition of data, Drafting or revising the article, Contributed unpublished essential data or reagents",
-      "email": "",
       "funding": []
     },
     "person_author_2571": {
@@ -227,9 +222,7 @@
       "last-name": "Hu",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Drafting or revising the article, Contributed unpublished essential data or reagents",
-      "email": "",
       "funding": []
     },
     "person_author_2401": {
@@ -239,7 +232,6 @@
       "last-name": "Benkovic",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Analysis and interpretation of data, Drafting or revising the article",
       "email": "email:cor2",
       "funding": [
@@ -251,9 +243,7 @@
       "id": "institution_aff1",
       "name": "The Pennsylvania State University",
       "city": "University Park",
-      "country": "United States",
-      "email": "",
-      "image": ""
+      "country": "United States"
     },
     "person_1": {
       "type": "person",
@@ -262,9 +252,6 @@
       "last-name": "Kuriyan",
       "role": "editor",
       "affiliations": [],
-      "image": "",
-      "contribution": "",
-      "email": "",
       "funding": []
     },
     "info:review": {
@@ -279,13 +266,11 @@
     "email_cor1": {
       "type": "email",
       "id": "email_cor1",
-      "node": "",
       "email": "muh218@psu.edu"
     },
     "email_cor2": {
       "type": "email",
       "id": "email_cor2",
-      "node": "",
       "email": "sjb1@psu.edu"
     },
     "info:copyright": {
@@ -453,8 +438,7 @@
     },
     "paragraph_17": {
       "type": "paragraph",
-      "id": "paragraph_17",
-      "content": ""
+      "id": "paragraph_17"
     },
     "heading_s1": {
       "type": "heading",
@@ -1109,19 +1093,12 @@
       "type": "image",
       "id": "image_fig1",
       "label": "Figure 1.",
-      "url": "",
-      "object_id": "F1",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00278/svg/elife00278f001.svg",
       "title": "RFC-mediated loading of PCNA onto DNA.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00278.003",
       "caption": "paragraph_image_fig1",
-      "graphic_id": "elife00278f001"
+      "graphic_id": "elife00278f001",
+      "format": "image"
     },
     "paragraph_image_fig1": {
       "type": "paragraph",
@@ -1236,19 +1213,12 @@
       "type": "image",
       "id": "image_fig1s1",
       "label": "Figure 1—figure supplement 1.",
-      "url": "",
-      "object_id": "F2",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00278/svg/elife00278fs001.svg",
       "title": "SDS–PAGE analysis of recombinant human proteins used in this study.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig1"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00278.004",
       "caption": "paragraph_image_fig1s1",
-      "graphic_id": "elife00278fs001"
+      "graphic_id": "elife00278fs001",
+      "format": "image"
     },
     "paragraph_image_fig1s1": {
       "type": "paragraph",
@@ -1285,19 +1255,12 @@
       "type": "image",
       "id": "image_fig1s2",
       "label": "Figure 1—figure supplement 2.",
-      "url": "",
-      "object_id": "F3",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00278/svg/elife00278fs002.svg",
       "title": "Activities of labeled PCNA mutants in stimulating human RFC ATPase activity.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig1"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00278.005",
       "caption": "paragraph_image_fig1s2",
-      "graphic_id": "elife00278fs002"
+      "graphic_id": "elife00278fs002",
+      "format": "image"
     },
     "paragraph_image_fig1s2": {
       "type": "paragraph",
@@ -1309,11 +1272,9 @@
       "id": "table_tbl1",
       "label": "Table 1.",
       "content": "<table><thead><tr><td>Substrate</td><td>Template</td><td>Primer</td><td>Flap</td></tr></thead><tbody><tr><td>Cy3-P/T DNA</td><td>CGG ACT GCA CGT GCC GCG TGG GCA TTC GTC GCG CAG GCT CAG CGT CCA TCG CGA GAC CAG /3Bio/</td><td>/5Cy3/CTG GTC TCG CGA TGG ACG CTG AGC CTG CGC</td><td>CGT GGT GGT AGG TGA GGG CGG CAC GTG CAG TCC G</td></tr><tr><td>Cy3-P/T DNA-no flap</td><td>CGG ACT GCA CGT GCC GCG TGG GCA TTC GTC GCG CAG GCT CAG CGT CCA TCG CGA GAC CAG /3Bio/</td><td>/5Cy3/CTG GTC TCG CGA TGG ACG CTG AGC CTG CGC</td><td>GCG GCA CGT GCA GTC CG</td></tr><tr><td>Cy3-P/T DNA-25 bp</td><td>CGG ACT GCA CGT GCC GCG TGG GCA TTC GTC GCG CAG GCT CAG CGT CCA TCG CGA G/3Bio/</td><td>/5Cy3/CT CGC GAT GGA CGC TGA GCC TGC GC</td><td>CGT GGT GGT AGG TGA GGG CGG CAC GTG CAG TCC G</td></tr></tbody></table>",
-      "title": "",
       "footers": [],
       "doi": "http://dx.doi.org/10.7554/eLife.00278.006",
-      "caption": "paragraph_table_tbl1",
-      "format": ""
+      "caption": "paragraph_table_tbl1"
     },
     "paragraph_table_tbl1": {
       "type": "paragraph",
@@ -1324,19 +1285,12 @@
       "type": "image",
       "id": "image_fig2",
       "label": "Figure 2.",
-      "url": "",
-      "object_id": "F4",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00278/svg/elife00278f002.svg",
       "title": "RFC loads PCNA with rates independent of RFC concentration.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00278.007",
       "caption": "paragraph_image_fig2",
-      "graphic_id": "elife00278f002"
+      "graphic_id": "elife00278f002",
+      "format": "image"
     },
     "paragraph_image_fig2": {
       "type": "paragraph",
@@ -1464,19 +1418,12 @@
       "type": "image",
       "id": "image_fig2s1",
       "label": "Figure 2—figure supplement 1.",
-      "url": "",
-      "object_id": "F5",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00278/svg/elife00278fs003.svg",
       "title": "RFC loads PCNA with rates independent of RFC concentration.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig2"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00278.008",
       "caption": "paragraph_image_fig2s1",
-      "graphic_id": "elife00278fs003"
+      "graphic_id": "elife00278fs003",
+      "format": "image"
     },
     "paragraph_image_fig2s1": {
       "type": "paragraph",
@@ -1552,19 +1499,12 @@
       "type": "image",
       "id": "image_fig2s2",
       "label": "Figure 2—figure supplement 2.",
-      "url": "",
-      "object_id": "F6",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00278/svg/elife00278fs004.svg",
       "title": "RFC-catalyzed loading of PCNA is dependent upon ATP.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig2"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00278.009",
       "caption": "paragraph_image_fig2s2",
-      "graphic_id": "elife00278fs004"
+      "graphic_id": "elife00278fs004",
+      "format": "image"
     },
     "paragraph_image_fig2s2": {
       "type": "paragraph",
@@ -2707,19 +2647,12 @@
       "type": "image",
       "id": "image_fig3",
       "label": "Figure 3.",
-      "url": "",
-      "object_id": "F7",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00278/svg/elife00278f003.svg",
       "title": "Monitoring a single binding encounter between PCNA and P/T DNA.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00278.010",
       "caption": "paragraph_image_fig3",
-      "graphic_id": "elife00278f003"
+      "graphic_id": "elife00278f003",
+      "format": "image"
     },
     "paragraph_image_fig3": {
       "type": "paragraph",
@@ -3052,19 +2985,12 @@
       "type": "image",
       "id": "image_fig4",
       "label": "Figure 4.",
-      "url": "",
-      "object_id": "F8",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00278/svg/elife00278f004.svg",
       "title": "polδ inhibits RFC-catalyzed unloading of PCNA to form the holoenzyme.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00278.011",
       "caption": "paragraph_image_fig4",
-      "graphic_id": "elife00278f004"
+      "graphic_id": "elife00278f004",
+      "format": "image"
     },
     "paragraph_image_fig4": {
       "type": "paragraph",
@@ -3231,19 +3157,12 @@
       "type": "image",
       "id": "image_fig4s1",
       "label": "Figure 4—figure supplement 1.",
-      "url": "",
-      "object_id": "F9",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00278/svg/elife00278fs005.svg",
       "title": "Unlabeled PCNA serves as a passive trap.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig4"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00278.012",
       "caption": "paragraph_image_fig4s1",
-      "graphic_id": "elife00278fs005"
+      "graphic_id": "elife00278fs005",
+      "format": "image"
     },
     "paragraph_image_fig4s1": {
       "type": "paragraph",
@@ -3332,19 +3251,12 @@
       "type": "image",
       "id": "image_fig4s2",
       "label": "Figure 4—figure supplement 2.",
-      "url": "",
-      "object_id": "F10",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00278/svg/elife00278fs006.svg",
       "title": "Unloading of PCNA by RFC is dependent upon ATP.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig4"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00278.013",
       "caption": "paragraph_image_fig4s2",
-      "graphic_id": "elife00278fs006"
+      "graphic_id": "elife00278fs006",
+      "format": "image"
     },
     "paragraph_image_fig4s2": {
       "type": "paragraph",
@@ -3459,19 +3371,12 @@
       "type": "image",
       "id": "image_fig4s3",
       "label": "Figure 4—figure supplement 3.",
-      "url": "",
-      "object_id": "F11",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00278/svg/elife00278fs007.svg",
       "title": "All PCNA loaded onto P/T DNA dissociates with RFC.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig4"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00278.014",
       "caption": "paragraph_image_fig4s3",
-      "graphic_id": "elife00278fs007"
+      "graphic_id": "elife00278fs007",
+      "format": "image"
     },
     "paragraph_image_fig4s3": {
       "type": "paragraph",
@@ -3534,19 +3439,12 @@
       "type": "image",
       "id": "image_fig4s4",
       "label": "Figure 4—figure supplement 4.",
-      "url": "",
-      "object_id": "F12",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00278/svg/elife00278fs008.svg",
       "title": "The single-stranded DNA flap has no effect on the dissociation of RFC or PCNA from Cy3-P/T DNA.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig4"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00278.015",
       "caption": "paragraph_image_fig4s4",
-      "graphic_id": "elife00278fs008"
+      "graphic_id": "elife00278fs008",
+      "format": "image"
     },
     "paragraph_image_fig4s4": {
       "type": "paragraph",
@@ -3791,19 +3689,12 @@
       "type": "image",
       "id": "image_fig4s5",
       "label": "Figure 4—figure supplement 5.",
-      "url": "",
-      "object_id": "F13",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00278/svg/elife00278fs009.svg",
       "title": "polδ captures a stoichiometric amount of loaded PCNA from DNA-bound RFC to form the holoenzyme.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig4"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00278.016",
       "caption": "paragraph_image_fig4s5",
-      "graphic_id": "elife00278fs009"
+      "graphic_id": "elife00278fs009",
+      "format": "image"
     },
     "paragraph_image_fig4s5": {
       "type": "paragraph",
@@ -3879,19 +3770,12 @@
       "type": "image",
       "id": "image_fig4s6",
       "label": "Figure 4—figure supplement 6.",
-      "url": "",
-      "object_id": "F14",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00278/svg/elife00278fs010.svg",
       "title": "polδ passively captures loaded PCNA from DNA-bound RFC to form the holoenzyme and RFC dissociates from P/T DNA independently of polδ and PCNA.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig4"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00278.017",
       "caption": "paragraph_image_fig4s6",
-      "graphic_id": "elife00278fs010"
+      "graphic_id": "elife00278fs010",
+      "format": "image"
     },
     "paragraph_image_fig4s6": {
       "type": "paragraph",
@@ -3993,19 +3877,12 @@
       "type": "image",
       "id": "image_fig4s7",
       "label": "Figure 4—figure supplement 7.",
-      "url": "",
-      "object_id": "F15",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00278/svg/elife00278fs011.svg",
       "title": "RFC releases PCNA onto P/T DNA.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig4"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00278.018",
       "caption": "paragraph_image_fig4s7",
-      "graphic_id": "elife00278fs011"
+      "graphic_id": "elife00278fs011",
+      "format": "image"
     },
     "paragraph_image_fig4s7": {
       "type": "paragraph",
@@ -4094,19 +3971,12 @@
       "type": "image",
       "id": "image_fig4s8",
       "label": "Figure 4—figure supplement 8.",
-      "url": "",
-      "object_id": "F16",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00278/svg/elife00278fs012.svg",
       "title": "Removing 5 bp from the double-stranded region of the P/T junction has no effect on RFC-catalyzed unloading of PCNA from Cy3-P/T DNA or formation of the polδ holoenzyme.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig4"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00278.019",
       "caption": "paragraph_image_fig4s8",
-      "graphic_id": "elife00278fs012"
+      "graphic_id": "elife00278fs012",
+      "format": "image"
     },
     "paragraph_image_fig4s8": {
       "type": "paragraph",
@@ -4326,11 +4196,9 @@
       "id": "table_tbl2",
       "label": "Table 2.",
       "content": "<table><thead><tr><td></td><td><em>k</em><sub>dec,2</sub></td><td><em>k</em><sub>dec,3</sub></td></tr><tr><td>Substrate</td><td>Rate constant, s<sup>−1</sup></td><td>% A<sub>T</sub></td><td>Rate constant, s<sup>−1</sup></td><td>% A<sub>T</sub></td></tr></thead><tbody><tr><td>Cy3-P/T DNA</td><td>0.40 ± 0.083</td><td>83 ± 1.1</td><td>0.039 + 0.012</td><td>17 ± 1.1</td></tr><tr><td>Cy3-P/T DNA-No Flap</td><td>0.40 ± 0.068</td><td>84 ± 1.5</td><td>0.031 + 0.0093</td><td>16 ± 1.5</td></tr><tr><td>Cy3-P/T DNA-25 bp</td><td>0.23 ± 0.0080</td><td>83 ± 0.90</td><td>0.023 ± 0.0029</td><td>17 ± 0.90</td></tr></tbody></table>",
-      "title": "",
       "footers": [],
       "doi": "http://dx.doi.org/10.7554/eLife.00278.020",
-      "caption": "paragraph_table_tbl2",
-      "format": ""
+      "caption": "paragraph_table_tbl2"
     },
     "paragraph_table_tbl2": {
       "type": "paragraph",
@@ -4342,11 +4210,9 @@
       "id": "table_tbl3",
       "label": "Table 3.",
       "content": "<table><thead><tr><td></td><td></td><td><em>k</em><sub>1</sub></td><td><em>k</em><sub>2</sub></td><td></td></tr><tr><td>Substrate</td><td>polδ</td><td>Rate constant, s<sup>−1</sup></td><td>% A<sub>T</sub></td><td>Rate constant, s<sup>−1</sup></td><td>% A<sub>T</sub></td><td>A<sub>T,Reload</sub>/A<sub>T,Unload</sub></td></tr></thead><tbody><tr><td>Cy3-P/T DNA</td><td>−</td><td>0.45 ± 0.080</td><td>86 ± 2.1</td><td>0.040 ± 0.0093</td><td>14 ± 2.1</td><td>0.51 ± 0.055</td></tr><tr><td></td><td>+</td><td>0.48 + 0.065</td><td>80 ± 2.2</td><td>0.042 ± 0.010</td><td>20 ± 2.2</td><td>1.0 ± 0.0063</td></tr><tr><td>Cy3-P/T DNA-No Flap</td><td>−</td><td>0.48 ± 0.026</td><td>91 ± 1.4</td><td>0.081 ± 0.018</td><td>9.0 ± 1.4</td><td>0.51 ± 0.028</td></tr><tr><td></td><td>+</td><td>0.52 ± 0.053</td><td>83 ± 1.5</td><td>0.037 ± 0.0013</td><td>17 ± 1.5</td><td>0.99 ± 0.060</td></tr><tr><td>Cy3-P/T DNA-25 bp</td><td>−</td><td>0.25 ± 0.038</td><td>85 ± 0.64</td><td>0.040 ± 0.00084</td><td>15 ± 0.64</td><td>0.51 ± 0.046</td></tr><tr><td></td><td>+</td><td>0.27 ± 0.012</td><td>70 ± 0.49</td><td>0.026 ± 0.0017</td><td>30 ± 0.49</td><td>1.0 ± 0.051</td></tr></tbody></table>",
-      "title": "",
       "footers": [],
       "doi": "http://dx.doi.org/10.7554/eLife.00278.021",
-      "caption": "paragraph_table_tbl3",
-      "format": ""
+      "caption": "paragraph_table_tbl3"
     },
     "paragraph_table_tbl3": {
       "type": "paragraph",
@@ -4700,19 +4566,12 @@
       "type": "image",
       "id": "image_fig5",
       "label": "Figure 5.",
-      "url": "",
-      "object_id": "F17",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00278/svg/elife00278f005.svg",
       "title": "Stepwise assembly of the human DNA polymerase holoenzyme.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00278.022",
       "caption": "paragraph_image_fig5",
-      "graphic_id": "elife00278f005"
+      "graphic_id": "elife00278f005",
+      "format": "image"
     },
     "paragraph_image_fig5": {
       "type": "paragraph",
@@ -4723,19 +4582,12 @@
       "type": "image",
       "id": "image_fig5s1",
       "label": "Figure 5—figure supplement 1.",
-      "url": "",
-      "object_id": "F18",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00278/svg/elife00278fs013.svg",
       "title": "The human notched screw cap complex.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig5"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00278.023",
       "caption": "paragraph_image_fig5s1",
-      "graphic_id": "elife00278fs013"
+      "graphic_id": "elife00278fs013",
+      "format": "image"
     },
     "paragraph_image_fig5s1": {
       "type": "paragraph",
@@ -4759,19 +4611,12 @@
       "type": "image",
       "id": "image_fig5s2",
       "label": "Figure 5—figure supplement 2.",
-      "url": "",
-      "object_id": "F19",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00278/svg/elife00278fs014.svg",
       "title": "The clamp loader gp44/62 of T4 bacteriophage retracts towards the P/T junction upon hydrolysis of ATP and closure of the gp45 clamp ring around DNA.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig5"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00278.024",
       "caption": "paragraph_image_fig5s2",
-      "graphic_id": "elife00278fs014"
+      "graphic_id": "elife00278fs014",
+      "format": "image"
     },
     "paragraph_image_fig5s2": {
       "type": "paragraph",
@@ -6496,15 +6341,11 @@
       "type": "formula",
       "id": "formula_equ1",
       "label": "(1)",
-      "content": "<mml:mrow><mml:mtext>y</mml:mtext><mml:mo>=</mml:mo><mml:msub><mml:mtext>A</mml:mtext><mml:mtext>inc</mml:mtext></mml:msub><mml:msup><mml:mtext>e</mml:mtext><mml:mo>∧</mml:mo></mml:msup><mml:mo>(</mml:mo><mml:mo>−</mml:mo><mml:msub><mml:mtext>k</mml:mtext><mml:mtext>inc</mml:mtext></mml:msub><mml:mtext>t</mml:mtext><mml:mo>)</mml:mo><mml:mo>+</mml:mo><mml:msub><mml:mtext>A</mml:mtext><mml:mrow><mml:mtext>dec,</mml:mtext><mml:mn>1</mml:mn></mml:mrow></mml:msub><mml:msup><mml:mtext>e</mml:mtext><mml:mo>∧</mml:mo></mml:msup><mml:mo>(</mml:mo><mml:mo>−</mml:mo><mml:msub><mml:mtext>k</mml:mtext><mml:mrow><mml:mtext>dec,</mml:mtext><mml:mn>1</mml:mn></mml:mrow></mml:msub><mml:mtext>t</mml:mtext><mml:mo>)</mml:mo><mml:mo>+</mml:mo><mml:msup><mml:mtext>c</mml:mtext><mml:mo>′</mml:mo></mml:msup><mml:mo>,</mml:mo><mml:mspace></mml:mspace><mml:mtext>where</mml:mtext><mml:mspace></mml:mspace><mml:msup><mml:mtext>c</mml:mtext><mml:mo>′</mml:mo></mml:msup><mml:mo>=</mml:mo><mml:msub><mml:mtext>y</mml:mtext><mml:mtext>0</mml:mtext></mml:msub><mml:mo>+</mml:mo><mml:msub><mml:mtext>A</mml:mtext><mml:mtext>dead</mml:mtext></mml:msub><mml:mo>+</mml:mo><mml:msub><mml:mtext>A</mml:mtext><mml:mtext>inc</mml:mtext></mml:msub><mml:mo>+</mml:mo><mml:msub><mml:mtext>A</mml:mtext><mml:mrow><mml:mtext>dec,</mml:mtext><mml:mn>1</mml:mn></mml:mrow></mml:msub><mml:mo>,</mml:mo></mml:mrow>",
-      "format": ""
+      "content": "<mml:mrow><mml:mtext>y</mml:mtext><mml:mo>=</mml:mo><mml:msub><mml:mtext>A</mml:mtext><mml:mtext>inc</mml:mtext></mml:msub><mml:msup><mml:mtext>e</mml:mtext><mml:mo>∧</mml:mo></mml:msup><mml:mo>(</mml:mo><mml:mo>−</mml:mo><mml:msub><mml:mtext>k</mml:mtext><mml:mtext>inc</mml:mtext></mml:msub><mml:mtext>t</mml:mtext><mml:mo>)</mml:mo><mml:mo>+</mml:mo><mml:msub><mml:mtext>A</mml:mtext><mml:mrow><mml:mtext>dec,</mml:mtext><mml:mn>1</mml:mn></mml:mrow></mml:msub><mml:msup><mml:mtext>e</mml:mtext><mml:mo>∧</mml:mo></mml:msup><mml:mo>(</mml:mo><mml:mo>−</mml:mo><mml:msub><mml:mtext>k</mml:mtext><mml:mrow><mml:mtext>dec,</mml:mtext><mml:mn>1</mml:mn></mml:mrow></mml:msub><mml:mtext>t</mml:mtext><mml:mo>)</mml:mo><mml:mo>+</mml:mo><mml:msup><mml:mtext>c</mml:mtext><mml:mo>′</mml:mo></mml:msup><mml:mo>,</mml:mo><mml:mspace></mml:mspace><mml:mtext>where</mml:mtext><mml:mspace></mml:mspace><mml:msup><mml:mtext>c</mml:mtext><mml:mo>′</mml:mo></mml:msup><mml:mo>=</mml:mo><mml:msub><mml:mtext>y</mml:mtext><mml:mtext>0</mml:mtext></mml:msub><mml:mo>+</mml:mo><mml:msub><mml:mtext>A</mml:mtext><mml:mtext>dead</mml:mtext></mml:msub><mml:mo>+</mml:mo><mml:msub><mml:mtext>A</mml:mtext><mml:mtext>inc</mml:mtext></mml:msub><mml:mo>+</mml:mo><mml:msub><mml:mtext>A</mml:mtext><mml:mrow><mml:mtext>dec,</mml:mtext><mml:mn>1</mml:mn></mml:mrow></mml:msub><mml:mo>,</mml:mo></mml:mrow>"
     },
     "formula_456": {
       "type": "formula",
       "id": "formula_456",
-      "label": "",
-      "content": "",
-      "format": "",
       "key": "content",
       "source": "paragraph_452",
       "target": "formula_equ1",
@@ -6613,15 +6454,11 @@
       "type": "formula",
       "id": "formula_equ2",
       "label": "(2)",
-      "content": "<mml:mrow><mml:msub><mml:mtext>A</mml:mtext><mml:mtext>dead</mml:mtext></mml:msub><mml:mo>=</mml:mo><mml:msup><mml:mtext>c</mml:mtext><mml:mo>′</mml:mo></mml:msup><mml:mo>−</mml:mo><mml:msub><mml:mtext>y</mml:mtext><mml:mtext>0</mml:mtext></mml:msub><mml:mo>−</mml:mo><mml:msub><mml:mtext>A</mml:mtext><mml:mtext>inc</mml:mtext></mml:msub><mml:mo>−</mml:mo><mml:msub><mml:mtext>A</mml:mtext><mml:mrow><mml:mtext>dec,</mml:mtext><mml:mn>1</mml:mn></mml:mrow></mml:msub><mml:mo>.</mml:mo></mml:mrow>",
-      "format": ""
+      "content": "<mml:mrow><mml:msub><mml:mtext>A</mml:mtext><mml:mtext>dead</mml:mtext></mml:msub><mml:mo>=</mml:mo><mml:msup><mml:mtext>c</mml:mtext><mml:mo>′</mml:mo></mml:msup><mml:mo>−</mml:mo><mml:msub><mml:mtext>y</mml:mtext><mml:mtext>0</mml:mtext></mml:msub><mml:mo>−</mml:mo><mml:msub><mml:mtext>A</mml:mtext><mml:mtext>inc</mml:mtext></mml:msub><mml:mo>−</mml:mo><mml:msub><mml:mtext>A</mml:mtext><mml:mrow><mml:mtext>dec,</mml:mtext><mml:mn>1</mml:mn></mml:mrow></mml:msub><mml:mo>.</mml:mo></mml:mrow>"
     },
     "formula_465": {
       "type": "formula",
       "id": "formula_465",
-      "label": "",
-      "content": "",
-      "format": "",
       "key": "content",
       "source": "paragraph_457",
       "target": "formula_equ2",
@@ -6687,17 +6524,11 @@
       "year": "1985",
       "volume": "14",
       "source": "Annu Rev Biophys Biophys Chem",
-      "issue": "",
       "fpage": "131",
       "lpage": "60",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1146/annurev.bb.14.060185.001023",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib2": {
@@ -6721,17 +6552,11 @@
       "year": "2004",
       "volume": "429",
       "source": "Nature",
-      "issue": "",
       "fpage": "724",
       "lpage": "30",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nature02585",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib3": {
@@ -6747,17 +6572,11 @@
       "year": "2009",
       "volume": "284",
       "source": "J Biol Chem",
-      "issue": "",
       "fpage": "4041",
       "lpage": "5",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1074/jbc.R800062200",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib4": {
@@ -6793,17 +6612,11 @@
       "year": "1997",
       "volume": "272",
       "source": "J Biol Chem",
-      "issue": "",
       "fpage": "18974",
       "lpage": "81",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1074/jbc.272.30.18974",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib5": {
@@ -6839,17 +6652,11 @@
       "year": "1996",
       "volume": "93",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "12896",
       "lpage": "901",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1073/pnas.93.23.12896",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib6": {
@@ -6885,17 +6692,11 @@
       "year": "2001",
       "volume": "183",
       "source": "J Bacteriol",
-      "issue": "",
       "fpage": "2614",
       "lpage": "23",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1128/JB.183.8.2614-2623.2001",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib7": {
@@ -6915,17 +6716,11 @@
       "year": "2010",
       "volume": "37",
       "source": "Mol Cell",
-      "issue": "",
       "fpage": "481",
       "lpage": "91",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.molcel.2010.01.013",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib8": {
@@ -6961,17 +6756,11 @@
       "year": "2012",
       "volume": "40",
       "source": "Nucleic Acids Res",
-      "issue": "",
       "fpage": "6049",
       "lpage": "59",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1093/nar/gks256",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib9": {
@@ -6995,17 +6784,11 @@
       "year": "2000",
       "volume": "275",
       "source": "J Biol Chem",
-      "issue": "",
       "fpage": "14541",
       "lpage": "9",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1074/jbc.275.19.14541",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib10": {
@@ -7037,17 +6820,11 @@
       "year": "1996",
       "volume": "87",
       "source": "Cell",
-      "issue": "",
       "fpage": "297",
       "lpage": "306",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/S0092-8674(00)81347-1",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib11": {
@@ -7068,20 +6845,13 @@
         }
       ],
       "title": "Replication clamps and clamp loaders",
-      "year": "",
-      "volume": "",
       "source": "DNA replication",
-      "issue": "",
       "fpage": "165",
       "lpage": "83",
-      "collab": "",
-      "edition": "",
       "publisher-name": "Cold Spring Harbor Laboratory Press",
       "publisher-loc": "Long Island",
-      "doi": "",
       "citation_url": [],
       "format": "book",
-      "label": "",
       "editors": [
         {
           "given-names": "M",
@@ -7127,17 +6897,11 @@
       "year": "2006",
       "volume": "281",
       "source": "J Biol Chem",
-      "issue": "",
       "fpage": "35531",
       "lpage": "43",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1074/jbc.M606090200",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib13": {
@@ -7165,17 +6929,10 @@
       "year": "1995",
       "volume": "14",
       "source": "EMBO J",
-      "issue": "",
       "fpage": "5745",
       "lpage": "51",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib14": {
@@ -7195,17 +6952,11 @@
       "year": "1996",
       "volume": "35",
       "source": "Biochemistry",
-      "issue": "",
       "fpage": "1084",
       "lpage": "92",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1021/bi9520747",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib15": {
@@ -7233,17 +6984,11 @@
       "year": "2011",
       "volume": "334",
       "source": "Science",
-      "issue": "",
       "fpage": "1675",
       "lpage": "80",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1126/science.1211884",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib16": {
@@ -7275,17 +7020,11 @@
       "year": "2010",
       "volume": "107",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "19736",
       "lpage": "41",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1073/pnas.1014139107",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib17": {
@@ -7305,17 +7044,11 @@
       "year": "1990",
       "volume": "87",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "5672",
       "lpage": "6",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1073/pnas.87.15.5672",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib18": {
@@ -7343,17 +7076,10 @@
       "year": "1991",
       "volume": "266",
       "source": "J Biol Chem",
-      "issue": "",
       "fpage": "594",
       "lpage": "602",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib19": {
@@ -7381,17 +7107,11 @@
       "year": "2000",
       "volume": "275",
       "source": "J Biol Chem",
-      "issue": "",
       "fpage": "34609",
       "lpage": "18",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1074/jbc.M005495200",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib20": {
@@ -7427,17 +7147,11 @@
       "year": "2007",
       "volume": "35",
       "source": "Nucleic Acids Res",
-      "issue": "",
       "fpage": "6904",
       "lpage": "16",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1093/nar/gkm822",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib21": {
@@ -7465,17 +7179,11 @@
       "year": "2003",
       "volume": "12",
       "source": "Protein Sci",
-      "issue": "",
       "fpage": "823",
       "lpage": "31",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1110/ps.0234503",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib22": {
@@ -7511,17 +7219,11 @@
       "year": "2005",
       "volume": "102",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "13795",
       "lpage": "800",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1073/pnas.0506447102",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib23": {
@@ -7557,17 +7259,11 @@
       "year": "2012",
       "volume": "45",
       "source": "Mol Cell",
-      "issue": "",
       "fpage": "75",
       "lpage": "86",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.molcel.2011.11.010",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib24": {
@@ -7591,17 +7287,11 @@
       "year": "2006",
       "volume": "23",
       "source": "Mol Cell",
-      "issue": "",
       "fpage": "723",
       "lpage": "32",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.molcel.2006.07.007",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib25": {
@@ -7621,17 +7311,10 @@
       "year": "1989",
       "volume": "264",
       "source": "J Biol Chem",
-      "issue": "",
       "fpage": "13856",
       "lpage": "64",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib26": {
@@ -7663,17 +7346,11 @@
       "year": "1997",
       "volume": "272",
       "source": "J Biol Chem",
-      "issue": "",
       "fpage": "1769",
       "lpage": "76",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1074/jbc.272.3.1769",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib27": {
@@ -7689,17 +7366,11 @@
       "year": "1988",
       "volume": "156",
       "source": "Methods Enzymol",
-      "issue": "",
       "fpage": "116",
       "lpage": "9",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/0076-6879(88)56014-7",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib28": {
@@ -7735,17 +7406,11 @@
       "year": "2010",
       "volume": "30",
       "source": "Mol Cell Biol",
-      "issue": "",
       "fpage": "4828",
       "lpage": "39",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1128/MCB.00285-10",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib29": {
@@ -7781,17 +7446,11 @@
       "year": "2010",
       "volume": "29",
       "source": "EMBO J",
-      "issue": "",
       "fpage": "2611",
       "lpage": "22",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/emboj.2010.128",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib30": {
@@ -7827,17 +7486,11 @@
       "year": "2011",
       "volume": "286",
       "source": "J Biol Chem",
-      "issue": "",
       "fpage": "42704",
       "lpage": "14",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1074/jbc.M111.268169",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib31": {
@@ -7865,17 +7518,11 @@
       "year": "2012",
       "volume": "110",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "99",
       "lpage": "104",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1073/pnas.1212748110",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib32": {
@@ -7903,17 +7550,11 @@
       "year": "1995",
       "volume": "34",
       "source": "Biochemistry",
-      "issue": "",
       "fpage": "5003",
       "lpage": "10",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1021/bi00015a011",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib33": {
@@ -7941,17 +7582,11 @@
       "year": "1998",
       "volume": "273",
       "source": "J Biol Chem",
-      "issue": "",
       "fpage": "31992",
       "lpage": "9",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1074/jbc.273.48.31992",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib34": {
@@ -7975,17 +7610,11 @@
       "year": "2012",
       "volume": "13",
       "source": "Nat Rev Mol Cell Biol",
-      "issue": "",
       "fpage": "141",
       "lpage": "52",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nrm3289",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib35": {
@@ -8021,17 +7650,11 @@
       "year": "1998",
       "volume": "275",
       "source": "J Mol Biol",
-      "issue": "",
       "fpage": "123",
       "lpage": "32",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1006/jmbi.1997.1435",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib36": {
@@ -8051,17 +7674,11 @@
       "year": "2004",
       "volume": "23",
       "source": "EMBO J",
-      "issue": "",
       "fpage": "1360",
       "lpage": "71",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/sj.emboj.7600130",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib37": {
@@ -8081,17 +7698,11 @@
       "year": "1999",
       "volume": "96",
       "source": "Cell",
-      "issue": "",
       "fpage": "575",
       "lpage": "85",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/S0092-8674(00)80661-3",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib38": {
@@ -8127,17 +7738,11 @@
       "year": "2000",
       "volume": "97",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "14127",
       "lpage": "32",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1073/pnas.97.26.14127",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib39": {
@@ -8173,17 +7778,11 @@
       "year": "2009",
       "volume": "137",
       "source": "Cell",
-      "issue": "",
       "fpage": "659",
       "lpage": "71",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.cell.2009.03.044",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib40": {
@@ -8215,17 +7814,11 @@
       "year": "2004",
       "volume": "279",
       "source": "J Biol Chem",
-      "issue": "",
       "fpage": "4386",
       "lpage": "93",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1074/jbc.M310430200",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib41": {
@@ -8249,17 +7842,11 @@
       "year": "1998",
       "volume": "37",
       "source": "Biochemistry",
-      "issue": "",
       "fpage": "1819",
       "lpage": "27",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1021/bi972526a",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib42": {
@@ -8283,17 +7870,10 @@
       "year": "1994",
       "volume": "13",
       "source": "EMBO J",
-      "issue": "",
       "fpage": "5330",
       "lpage": "7",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib43": {
@@ -8329,17 +7909,11 @@
       "year": "2008",
       "volume": "283",
       "source": "J Biol Chem",
-      "issue": "",
       "fpage": "9071",
       "lpage": "9",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1074/jbc.M709835200",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib44": {
@@ -8363,17 +7937,11 @@
       "year": "2003",
       "volume": "326",
       "source": "J Mol Biol",
-      "issue": "",
       "fpage": "435",
       "lpage": "51",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/S0022-2836(02)01330-X",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib45": {
@@ -8393,17 +7961,11 @@
       "year": "1990",
       "volume": "87",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "1023",
       "lpage": "7",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1073/pnas.87.3.1023",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib46": {
@@ -8423,17 +7985,10 @@
       "year": "1991",
       "volume": "266",
       "source": "J Biol Chem",
-      "issue": "",
       "fpage": "1950",
       "lpage": "60",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib47": {
@@ -8465,17 +8020,11 @@
       "year": "1997",
       "volume": "272",
       "source": "J Biol Chem",
-      "issue": "",
       "fpage": "10058",
       "lpage": "64",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1074/jbc.272.15.10058",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib48": {
@@ -8499,17 +8048,11 @@
       "year": "2000",
       "volume": "275",
       "source": "J Biol Chem",
-      "issue": "",
       "fpage": "1421",
       "lpage": "32",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1074/jbc.275.2.1421",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib49": {
@@ -8545,17 +8088,11 @@
       "year": "1996",
       "volume": "1",
       "source": "Genes Cells",
-      "issue": "",
       "fpage": "101",
       "lpage": "13",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1046/j.1365-2443.1996.07007.x",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib50": {
@@ -8575,17 +8112,11 @@
       "year": "2012",
       "volume": "62",
       "source": "Subcell Biochem",
-      "issue": "",
       "fpage": "259",
       "lpage": "79",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1007/978-94-007-4572-8_14",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib51": {
@@ -8613,17 +8144,11 @@
       "year": "1999",
       "volume": "18",
       "source": "EMBO J",
-      "issue": "",
       "fpage": "6189",
       "lpage": "99",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1093/emboj/18.21.6189",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib52": {
@@ -8655,17 +8180,11 @@
       "year": "1999",
       "volume": "96",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "1869",
       "lpage": "74",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1073/pnas.96.5.1869",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib53": {
@@ -8693,17 +8212,11 @@
       "year": "2006",
       "volume": "103",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "2546",
       "lpage": "51",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1073/pnas.0511263103",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "sub-article": {

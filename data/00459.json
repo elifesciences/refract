@@ -146,7 +146,6 @@
       "accepted_on": "2013-03-13",
       "published_on": "2013-04-16",
       "journal": "elife",
-      "article_type": "",
       "keywords": [
         "endocytosis",
         "membrane traffic",
@@ -160,10 +159,9 @@
       "subjects": [
         "Cell biology"
       ],
-      "pdf_link": "",
-      "xml_link": "",
-      "json_link": "",
-      "doi": ""
+      "xml_link": "https://s3.amazonaws.com/elife-cdn/elife-articles/00459/elife00459.xml",
+      "json_link": "https://s3.amazonaws.com/elife-cdn/elife-articles/00459/00459.json",
+      "doi": "http://dx.doi.org/10.7554/eLife.00459"
     },
     "person_author_3534": {
       "type": "person",
@@ -172,9 +170,7 @@
       "last-name": "Zhao",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Acquisition of data, Analysis and interpretation of data",
-      "email": "",
       "funding": []
     },
     "person_author_3535": {
@@ -184,9 +180,7 @@
       "last-name": "MacGurn",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article",
-      "email": "",
       "funding": [
         "funding_par_1"
       ]
@@ -198,9 +192,7 @@
       "last-name": "Liu",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Generated strains and reagents for the genetic array, Carried out the genetic array experiments, Analysis and interpretation of data",
-      "email": "",
       "funding": []
     },
     "person_author_2368": {
@@ -210,7 +202,6 @@
       "last-name": "Emr",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Analysis and interpretation of data, Drafting or revising the article",
       "email": "email_cor1",
       "funding": [
@@ -222,9 +213,7 @@
       "id": "institution_aff1",
       "name": "Cornell University",
       "city": "Ithaca",
-      "country": "United States",
-      "email": "",
-      "image": ""
+      "country": "United States"
     },
     "person_1": {
       "type": "person",
@@ -233,9 +222,6 @@
       "last-name": "Deshaies",
       "role": "editor",
       "affiliations": [],
-      "image": "",
-      "contribution": "",
-      "email": "",
       "funding": []
     },
     "info:review": {
@@ -250,7 +236,6 @@
     "email_cor1": {
       "type": "email",
       "id": "email_cor1",
-      "node": "",
       "email": "sde26@cornell.edu"
     },
     "info:copyright": {
@@ -392,7 +377,6 @@
       "type": "funding",
       "id": "funding_par_2",
       "institution": "Cornell University Research Grant",
-      "accession": "",
       "person": "person_author_2368",
       "given-names": "Scott",
       "last-name": "Emr"
@@ -408,8 +392,7 @@
     },
     "paragraph_15": {
       "type": "paragraph",
-      "id": "paragraph_15",
-      "content": ""
+      "id": "paragraph_15"
     },
     "heading_s1": {
       "type": "heading",
@@ -812,19 +795,12 @@
       "type": "image",
       "id": "image_fig1",
       "label": "Figure 1.",
-      "url": "",
-      "object_id": "F1",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00459/svg/elife00459f001.svg",
       "title": "Heat stress triggers endocytic downregulation.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00459.003",
       "caption": "paragraph_image_fig1",
-      "graphic_id": "elife00459f001"
+      "graphic_id": "elife00459f001",
+      "format": "image"
     },
     "paragraph_image_fig1": {
       "type": "paragraph",
@@ -900,19 +876,12 @@
       "type": "image",
       "id": "image_fig1s1",
       "label": "Figure 1—figure supplement 1.",
-      "url": "",
-      "object_id": "F2",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00459/svg/elife00459fs001.svg",
       "title": "Cell surface fluorescence intensity was measured for Mup1-GFP and Can1-GFP following growth at 26°C or following a shift to 38°C for 2 hr.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig1"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00459.004",
       "caption": "paragraph_image_fig1s1",
-      "graphic_id": "elife00459fs001"
+      "graphic_id": "elife00459fs001",
+      "format": "image"
     },
     "paragraph_image_fig1s1": {
       "type": "paragraph",
@@ -923,19 +892,12 @@
       "type": "image",
       "id": "image_fig1s2",
       "label": "Figure 1—figure supplement 2.",
-      "url": "",
-      "object_id": "F3",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00459/svg/elife00459fs002.svg",
       "title": "Mup1-pHluorin was used to quantify surface abundance of Mup1 for a population of yeast cells at 26°C or following a shift to 38°C for 2 hr (bottom panel).",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig1"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00459.005",
       "caption": "paragraph_image_fig1s2",
-      "graphic_id": "elife00459fs002"
+      "graphic_id": "elife00459fs002",
+      "format": "image"
     },
     "paragraph_image_fig1s2": {
       "type": "paragraph",
@@ -946,19 +908,11 @@
       "type": "image",
       "id": "image_fig1s3",
       "label": "Figure 1—figure supplement 3.",
-      "url": "",
-      "object_id": "F4",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00459/svg/elife00459fs003.svg",
       "title": "Stability of affinity-tagged Mup1 and Pma1 was analyzed following temperature shift from 26°C to indicated temperatures.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig1"
-      ],
-      "doi": "",
       "caption": "paragraph_image_fig1s3",
-      "graphic_id": "elife00459fs003"
+      "graphic_id": "elife00459fs003",
+      "format": "image"
     },
     "paragraph_image_fig1s3": {
       "type": "paragraph",
@@ -996,19 +950,11 @@
       "type": "image",
       "id": "image_fig1s4",
       "label": "Figure 1—figure supplement 4.",
-      "url": "",
-      "object_id": "F5",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00459/svg/elife00459fs004.svg",
       "title": "Stability of Lyp1 was analyzed following temperature shift from 26°C to indicated temperatures in the presence or absence of 3% glycerol.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig1"
-      ],
-      "doi": "",
       "caption": "paragraph_image_fig1s4",
-      "graphic_id": "elife00459fs004"
+      "graphic_id": "elife00459fs004",
+      "format": "image"
     },
     "paragraph_image_fig1s4": {
       "type": "paragraph",
@@ -1046,19 +992,11 @@
       "type": "image",
       "id": "image_fig1s5",
       "label": "Figure 1—figure supplement 5.",
-      "url": "",
-      "object_id": "F6",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00459/svg/elife00459fs005.svg",
       "title": "Stability of affinity-tagged Aqr1 and Pdr5 was analyzed following temperature shift from 26°C to indicated temperatures.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig1"
-      ],
-      "doi": "",
       "caption": "paragraph_image_fig1s5",
-      "graphic_id": "elife00459fs005"
+      "graphic_id": "elife00459fs005",
+      "format": "image"
     },
     "paragraph_image_fig1s5": {
       "type": "paragraph",
@@ -1096,19 +1034,11 @@
       "type": "image",
       "id": "image_fig1s6",
       "label": "Figure 1—figure supplement 6.",
-      "url": "",
-      "object_id": "F7",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00459/svg/elife00459fs006.svg",
       "title": "Identification of integral PM proteins induced by shifting cells to 40°C.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig1"
-      ],
-      "doi": "",
       "caption": "paragraph_image_fig1s6",
-      "graphic_id": "elife00459fs006"
+      "graphic_id": "elife00459fs006",
+      "format": "image"
     },
     "paragraph_image_fig1s6": {
       "type": "paragraph",
@@ -1146,19 +1076,12 @@
       "type": "image",
       "id": "image_fig1s7",
       "label": "Figure 1—figure supplement 7.",
-      "url": "",
-      "object_id": "F8",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00459/svg/elife00459fs007.svg",
       "title": "Various proteotoxic stresses trigger endocytic downregulation.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig1"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00459.010",
       "caption": "paragraph_image_fig1s7",
-      "graphic_id": "elife00459fs007"
+      "graphic_id": "elife00459fs007",
+      "format": "image"
     },
     "paragraph_image_fig1s7": {
       "type": "paragraph",
@@ -1169,19 +1092,12 @@
       "type": "image",
       "id": "image_fig1s8",
       "label": "Figure 1—figure supplement 8.",
-      "url": "",
-      "object_id": "F9",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00459/svg/elife00459fs008.svg",
       "title": "Analysis of cargo thermostability.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig1"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00459.011",
       "caption": "paragraph_image_fig1s8",
-      "graphic_id": "elife00459fs008"
+      "graphic_id": "elife00459fs008",
+      "format": "image"
     },
     "paragraph_image_fig1s8": {
       "type": "paragraph",
@@ -1192,19 +1108,12 @@
       "type": "image",
       "id": "image_fig1s9",
       "label": "Figure 1—figure supplement 9.",
-      "url": "",
-      "object_id": "F10",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00459/svg/elife00459fs009.svg",
       "title": "Analysis of Lyp1 thermostability in the absence or presence of 3% glycerol.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig1"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00459.012",
       "caption": "paragraph_image_fig1s9",
-      "graphic_id": "elife00459fs009"
+      "graphic_id": "elife00459fs009",
+      "format": "image"
     },
     "paragraph_image_fig1s9": {
       "type": "paragraph",
@@ -1228,19 +1137,11 @@
       "type": "image",
       "id": "image_fig1s10",
       "label": "Figure 1—figure supplement 10.",
-      "url": "",
-      "object_id": "F11",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00459/svg/elife00459fs010.svg",
       "title": "Analysis of the kinetics of Mup1 lysosomal degradation following the addition of methionine at 26°C in the absence or presence of 3% glycerol.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig1"
-      ],
-      "doi": "",
       "caption": "paragraph_image_fig1s10",
-      "graphic_id": "elife00459fs010"
+      "graphic_id": "elife00459fs010",
+      "format": "image"
     },
     "paragraph_image_fig1s10": {
       "type": "paragraph",
@@ -1375,11 +1276,9 @@
       "id": "table_tbl1",
       "label": "Table 1.",
       "content": "<table><thead><tr><td>Cargo</td><td>34°C</td><td>38°C</td><td>40°C</td><td>42°C</td></tr></thead><tbody><tr><td>Lyp1</td><td>160</td><td>50</td><td>25</td><td>–</td></tr><tr><td>Pma1</td><td>Stable</td><td>95</td><td>45</td><td>–</td></tr><tr><td>Mup1</td><td>Stable</td><td>100</td><td>65</td><td>–</td></tr><tr><td>Aqr1</td><td>–</td><td>Stable</td><td>100</td><td>70</td></tr><tr><td>Pdr5</td><td>–</td><td>Stable</td><td>400</td><td>200</td></tr></tbody></table>",
-      "title": "",
       "footers": [],
       "doi": "http://dx.doi.org/10.7554/eLife.00459.014",
-      "caption": "paragraph_table_tbl1",
-      "format": ""
+      "caption": "paragraph_table_tbl1"
     },
     "paragraph_table_tbl1": {
       "type": "paragraph",
@@ -1389,8 +1288,7 @@
     "footer_72": {
       "type": "footer",
       "id": "footer_72",
-      "content": "Kinetic analysis of heat-induced cargo degradation (Figure 1—figure supplements 3 and 4) was used to estimate half-lives of each cargo at each temperature tested. Half-lives are indicated in minutes. ‘–’ indicates half-life not determined.",
-      "label": ""
+      "content": "Kinetic analysis of heat-induced cargo degradation (Figure 1—figure supplements 3 and 4) was used to estimate half-lives of each cargo at each temperature tested. Half-lives are indicated in minutes. ‘–’ indicates half-life not determined."
     },
     "figure_reference_73": {
       "type": "figure_reference",
@@ -1569,19 +1467,12 @@
       "type": "image",
       "id": "image_fig2",
       "label": "Figure 2.",
-      "url": "",
-      "object_id": "F12",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00459/svg/elife00459f002.svg",
       "title": "Rsp5 mediates the heat-induced endocytic response.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00459.015",
       "caption": "paragraph_image_fig2",
-      "graphic_id": "elife00459f002"
+      "graphic_id": "elife00459f002",
+      "format": "image"
     },
     "paragraph_image_fig2": {
       "type": "paragraph",
@@ -1818,19 +1709,12 @@
       "type": "image",
       "id": "image_fig3",
       "label": "Figure 3.",
-      "url": "",
-      "object_id": "F13",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00459/svg/elife00459f003.svg",
       "title": "Rsp5-mediated endocytic clearance protects PM integrity during heat stress.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00459.016",
       "caption": "paragraph_image_fig3",
-      "graphic_id": "elife00459f003"
+      "graphic_id": "elife00459f003",
+      "format": "image"
     },
     "paragraph_image_fig3": {
       "type": "paragraph",
@@ -2209,19 +2093,12 @@
       "type": "image",
       "id": "image_fig4",
       "label": "Figure 4.",
-      "url": "",
-      "object_id": "F14",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00459/svg/elife00459f004.svg",
       "title": "ARTs protect plasma membrane integrity during heat stress.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00459.017",
       "caption": "paragraph_image_fig4",
-      "graphic_id": "elife00459f004"
+      "graphic_id": "elife00459f004",
+      "format": "image"
     },
     "paragraph_image_fig4": {
       "type": "paragraph",
@@ -2427,19 +2304,11 @@
       "type": "image",
       "id": "image_fig4s1",
       "label": "Figure 4—figure supplement 1.",
-      "url": "",
-      "object_id": "F15",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00459/svg/elife00459fs011.svg",
       "title": "Heat-sensitivity analysis of wildtype and art mutant yeast cells.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig4"
-      ],
-      "doi": "",
       "caption": "paragraph_image_fig4s1",
-      "graphic_id": "elife00459fs011"
+      "graphic_id": "elife00459fs011",
+      "format": "image"
     },
     "paragraph_image_fig4s1": {
       "type": "paragraph",
@@ -2490,19 +2359,12 @@
       "type": "image",
       "id": "image_fig4s2",
       "label": "Figure 4—figure supplement 2.",
-      "url": "",
-      "object_id": "F16",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00459/svg/elife00459fs012.svg",
       "title": "Fluorescence distribution of GFP-tagged Art1 (green) was analyzed at 26°C and 38°C in yeast cells expressing the vacuolar marker Vph1-mCherry (red).",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig4"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00459.019",
       "caption": "paragraph_image_fig4s2",
-      "graphic_id": "elife00459fs012"
+      "graphic_id": "elife00459fs012",
+      "format": "image"
     },
     "paragraph_image_fig4s2": {
       "type": "paragraph",
@@ -2513,19 +2375,12 @@
       "type": "image",
       "id": "image_fig4s3",
       "label": "Figure 4—figure supplement 3.",
-      "url": "",
-      "object_id": "F17",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00459/svg/elife00459fs013.svg",
       "title": "Results of a screen to identify multicopy bypass suppressors of the Δart1 ts phenotype.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig4"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00459.020",
       "caption": "paragraph_image_fig4s3",
-      "graphic_id": "elife00459fs013"
+      "graphic_id": "elife00459fs013",
+      "format": "image"
     },
     "paragraph_image_fig4s3": {
       "type": "paragraph",
@@ -2961,19 +2816,12 @@
       "type": "image",
       "id": "image_fig5",
       "label": "Figure 5.",
-      "url": "",
-      "object_id": "F18",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00459/svg/elife00459f005.svg",
       "title": "Cargo accumulation at the PM is toxic during heat stress.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00459.021",
       "caption": "paragraph_image_fig5",
-      "graphic_id": "elife00459f005"
+      "graphic_id": "elife00459f005",
+      "format": "image"
     },
     "paragraph_image_fig5": {
       "type": "paragraph",
@@ -3114,19 +2962,11 @@
       "type": "image",
       "id": "image_fig5s1",
       "label": "Figure 5—figure supplement 1.",
-      "url": "",
-      "object_id": "F19",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00459/svg/elife00459fs014.svg",
       "title": "Heat-sensitivity analysis of wildtype yeast cells expressing titrated levels of Lyp1.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig5"
-      ],
-      "doi": "",
       "caption": "paragraph_image_fig5s1",
-      "graphic_id": "elife00459fs014"
+      "graphic_id": "elife00459fs014",
+      "format": "image"
     },
     "paragraph_image_fig5s1": {
       "type": "paragraph",
@@ -3164,19 +3004,11 @@
       "type": "image",
       "id": "image_fig5s2",
       "label": "Figure 5—figure supplement 2.",
-      "url": "",
-      "object_id": "F20",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00459/svg/elife00459fs015.svg",
       "title": "Stability of wildtype Lyp1 or the K10XR mutant, which cannot be ubiquitinated on its N-terminal cytosolic tail.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig5"
-      ],
-      "doi": "",
       "caption": "paragraph_image_fig5s2",
-      "graphic_id": "elife00459fs015"
+      "graphic_id": "elife00459fs015",
+      "format": "image"
     },
     "paragraph_image_fig5s2": {
       "type": "paragraph",
@@ -3214,19 +3046,11 @@
       "type": "image",
       "id": "image_fig5s3",
       "label": "Figure 5—figure supplement 3.",
-      "url": "",
-      "object_id": "F21",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00459/svg/elife00459fs016.svg",
       "title": "Fluorescence distribution of GFP-tagged wildtype Lyp1 (green, only in cells expressing Vph1-mCherry) or the K10XR mutant (green, only in cells without Vph1-mCherry) was analyzed following growth at 38°C for 2 hr.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig5"
-      ],
-      "doi": "",
       "caption": "paragraph_image_fig5s3",
-      "graphic_id": "elife00459fs016"
+      "graphic_id": "elife00459fs016",
+      "format": "image"
     },
     "paragraph_image_fig5s3": {
       "type": "paragraph",
@@ -3619,19 +3443,12 @@
       "type": "image",
       "id": "image_fig6",
       "label": "Figure 6.",
-      "url": "",
-      "object_id": "F22",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00459/svg/elife00459f006.svg",
       "title": "Systems level coordination of integral membrane protein quality control.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00459.025",
       "caption": "paragraph_image_fig6",
-      "graphic_id": "elife00459f006"
+      "graphic_id": "elife00459f006",
+      "format": "image"
     },
     "paragraph_image_fig6": {
       "type": "paragraph",
@@ -3707,19 +3524,11 @@
       "type": "image",
       "id": "image_fig6s1",
       "label": "Figure 6—figure supplement 1.",
-      "url": "",
-      "object_id": "F23",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00459/svg/elife00459fs017.svg",
       "title": "Heat-sensitivity analysis of wildtype and mutant yeast cells.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig6"
-      ],
-      "doi": "",
       "caption": "paragraph_image_fig6s1",
-      "graphic_id": "elife00459fs017"
+      "graphic_id": "elife00459fs017",
+      "format": "image"
     },
     "paragraph_image_fig6s1": {
       "type": "paragraph",
@@ -3757,19 +3566,12 @@
       "type": "image",
       "id": "image_fig7",
       "label": "Figure 7.",
-      "url": "",
-      "object_id": "F24",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00459/svg/elife00459f007.svg",
       "title": "Cellular mechanisms of integral membrane protein quality control.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00459.027",
       "caption": "paragraph_image_fig7",
-      "graphic_id": "elife00459f007"
+      "graphic_id": "elife00459f007",
+      "format": "image"
     },
     "paragraph_image_fig7": {
       "type": "paragraph",
@@ -4409,17 +4211,11 @@
       "year": "2010",
       "volume": "191",
       "source": "J Cell Biol",
-      "issue": "",
       "fpage": "553",
       "lpage": "70",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1083/jcb.201006012",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib2": {
@@ -4447,17 +4243,11 @@
       "year": "2004",
       "volume": "15",
       "source": "Trends Endocrinol Metab",
-      "issue": "",
       "fpage": "222",
       "lpage": "8",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.tem.2004.05.003",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib3": {
@@ -4481,17 +4271,11 @@
       "year": "2011",
       "volume": "22",
       "source": "Trends Cell Biol",
-      "issue": "",
       "fpage": "22",
       "lpage": "32",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.tcb.2011.09.010",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib4": {
@@ -4519,17 +4303,11 @@
       "year": "2011",
       "volume": "13",
       "source": "Nat Cell Biol",
-      "issue": "",
       "fpage": "1344",
       "lpage": "52",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/ncb2343",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib5": {
@@ -4561,17 +4339,11 @@
       "year": "2011",
       "volume": "22",
       "source": "Mol Biol Cell",
-      "issue": "",
       "fpage": "2384",
       "lpage": "95",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1091/mbc.E11-03-0256",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib6": {
@@ -4595,17 +4367,11 @@
       "year": "2011",
       "volume": "21",
       "source": "Dev Cell",
-      "issue": "",
       "fpage": "77",
       "lpage": "91",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.devcel.2011.05.015",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib7": {
@@ -4633,17 +4399,10 @@
       "year": "1997",
       "volume": "17",
       "source": "Mol Cell Biol",
-      "issue": "",
       "fpage": "6236",
       "lpage": "45",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib8": {
@@ -4679,17 +4438,11 @@
       "year": "2012",
       "volume": "2",
       "source": "G3 (Bethesda)",
-      "issue": "",
       "fpage": "619",
       "lpage": "28",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1534/g3.111.001933",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib9": {
@@ -4705,17 +4458,11 @@
       "year": "2010",
       "volume": "33",
       "source": "Annu Rev Neurosci",
-      "issue": "",
       "fpage": "151",
       "lpage": "72",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1146/annurev-neuro-060909-153122",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib10": {
@@ -4739,17 +4486,11 @@
       "year": "2007",
       "volume": "18",
       "source": "Mol Biol Cell",
-      "issue": "",
       "fpage": "3068",
       "lpage": "80",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1091/mbc.E07-03-0196",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib11": {
@@ -4781,17 +4522,10 @@
       "year": "1999",
       "volume": "19",
       "source": "Mol Cell Biol",
-      "issue": "",
       "fpage": "3588",
       "lpage": "99",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib12": {
@@ -4823,17 +4557,11 @@
       "year": "2008",
       "volume": "135",
       "source": "Cell",
-      "issue": "",
       "fpage": "714",
       "lpage": "25",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.cell.2008.09.025",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib13": {
@@ -4853,17 +4581,11 @@
       "year": "2006",
       "volume": "119",
       "source": "J Cell Sci",
-      "issue": "",
       "fpage": "360",
       "lpage": "9",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1242/jcs.02749",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib14": {
@@ -4887,17 +4609,11 @@
       "year": "2006",
       "volume": "281",
       "source": "J Biol Chem",
-      "issue": "",
       "fpage": "31457",
       "lpage": "66",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1074/jbc.M606643200",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib15": {
@@ -4921,17 +4637,11 @@
       "year": "2012",
       "volume": "81",
       "source": "Annu Rev Biochem",
-      "issue": "",
       "fpage": "231",
       "lpage": "59",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1146/annurev-biochem-060210-093619",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib16": {
@@ -4959,17 +4669,11 @@
       "year": "2011",
       "volume": "147",
       "source": "Cell",
-      "issue": "",
       "fpage": "1104",
       "lpage": "17",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.cell.2011.09.054",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib17": {
@@ -5001,17 +4705,11 @@
       "year": "2001",
       "volume": "3",
       "source": "Nat Cell Biol",
-      "issue": "",
       "fpage": "100",
       "lpage": "5",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/35050509",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib18": {
@@ -5047,17 +4745,11 @@
       "year": "2010",
       "volume": "329",
       "source": "Science",
-      "issue": "",
       "fpage": "805",
       "lpage": "10",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1126/science.1191542",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib19": {
@@ -5077,17 +4769,11 @@
       "year": "2012",
       "volume": "23",
       "source": "Trends Endocrinol Metab",
-      "issue": "",
       "fpage": "216",
       "lpage": "22",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.tem.2012.03.003",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib20": {
@@ -5103,17 +4789,11 @@
       "year": "1995",
       "volume": "134",
       "source": "FEMS Microbiol Lett",
-      "issue": "",
       "fpage": "121",
       "lpage": "7",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1111/j.1574-6968.1995.tb07925.x",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib21": {
@@ -5149,17 +4829,11 @@
       "year": "2011",
       "volume": "41",
       "source": "Mol Cell",
-      "issue": "",
       "fpage": "93",
       "lpage": "106",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.molcel.2010.12.004",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib22": {
@@ -5183,17 +4857,11 @@
       "year": "2010",
       "volume": "56",
       "source": "J Cardiovasc Pharmacol",
-      "issue": "",
       "fpage": "22",
       "lpage": "8",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1097/FJC.0b013e3181daaff9",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib23": {
@@ -5229,17 +4897,11 @@
       "year": "2002",
       "volume": "416",
       "source": "Nature",
-      "issue": "",
       "fpage": "326",
       "lpage": "30",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/416326a",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib24": {
@@ -5267,17 +4929,11 @@
       "year": "2012",
       "volume": "287",
       "source": "J Biol Chem",
-      "issue": "",
       "fpage": "23911",
       "lpage": "22",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1074/jbc.M112.341164",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib25": {
@@ -5297,17 +4953,11 @@
       "year": "2011",
       "volume": "334",
       "source": "Science",
-      "issue": "",
       "fpage": "1081",
       "lpage": "6",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1126/science.1209038",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib26": {
@@ -5327,17 +4977,11 @@
       "year": "2002",
       "volume": "99",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "12853",
       "lpage": "8",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1073/pnas.202115499",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib27": {
@@ -5361,17 +5005,11 @@
       "year": "2011",
       "volume": "286",
       "source": "J Biol Chem",
-      "issue": "",
       "fpage": "29376",
       "lpage": "87",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1074/jbc.M111.233346",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "sub-article": {

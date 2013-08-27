@@ -221,7 +221,6 @@
       "accepted_on": "2012-07-18",
       "published_on": "2012-10-15",
       "journal": "eLife",
-      "article_type": "",
       "keywords": [
         "Salpingoeca rosetta",
         "Algoriphagus",
@@ -234,10 +233,9 @@
       "subjects": [
         "Cell biology"
       ],
-      "pdf_link": "",
-      "xml_link": "",
-      "json_link": "",
-      "doi": ""
+      "xml_link": "https://s3.amazonaws.com/elife-cdn/elife-articles/00013/elife00013.xml",
+      "json_link": "https://s3.amazonaws.com/elife-cdn/elife-articles/00013/00013.json",
+      "doi": "http://dx.doi.org/10.7554/eLife.00013"
     },
     "person_author_1668": {
       "type": "person",
@@ -246,9 +244,7 @@
       "last-name": "Alegado",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article",
-      "email": "",
       "funding": []
     },
     "person_author_1669": {
@@ -258,9 +254,7 @@
       "last-name": "Brown",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article",
-      "email": "",
       "funding": []
     },
     "person_author_1670": {
@@ -270,9 +264,7 @@
       "last-name": "Cao",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Acquisition of data, Analysis and interpretation of data, Drafting or revising the article",
-      "email": "",
       "funding": []
     },
     "person_author_1671": {
@@ -282,9 +274,7 @@
       "last-name": "Dermenjian",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Acquisition of data, Analysis and interpretation of data",
-      "email": "",
       "funding": []
     },
     "person_author_1672": {
@@ -294,9 +284,7 @@
       "last-name": "Zuzow",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Acquisition of data, Analysis and interpretation of data",
-      "email": "",
       "funding": []
     },
     "person_author_1673": {
@@ -306,9 +294,7 @@
       "last-name": "Fairclough",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Acquisition of data, Analysis and interpretation of data",
-      "email": "",
       "funding": []
     },
     "person_author_1060": {
@@ -318,7 +304,6 @@
       "last-name": "Clardy",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Analysis and interpretation of data, Drafting or revising the article",
       "email": "email:cor1",
       "funding": [
@@ -332,7 +317,6 @@
       "last-name": "King",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Analysis and interpretation of data, Drafting or revising the article",
       "email": "email:cor2",
       "funding": [
@@ -345,27 +329,21 @@
       "id": "institution_aff1",
       "name": "University of California, Berkeley",
       "city": "Berkeley",
-      "country": "United States",
-      "email": "",
-      "image": ""
+      "country": "United States"
     },
     "institution_aff2": {
       "type": "institution",
       "id": "institution_aff2",
       "name": "Harvard Medical School",
       "city": "Boston",
-      "country": "United States",
-      "email": "",
-      "image": ""
+      "country": "United States"
     },
     "institution_aff3": {
       "type": "institution",
       "id": "institution_aff3",
       "name": "Stanford University School of Medicine",
       "city": "Stanford",
-      "country": "United States",
-      "email": "",
-      "image": ""
+      "country": "United States"
     },
     "person_1": {
       "type": "person",
@@ -374,9 +352,6 @@
       "last-name": "Greenberg",
       "role": "editor",
       "affiliations": [],
-      "image": "",
-      "contribution": "",
-      "email": "",
       "funding": []
     },
     "info:review": {
@@ -391,13 +366,11 @@
     "email_cor1": {
       "type": "email",
       "id": "email_cor1",
-      "node": "",
       "email": "jon_clardy@hms.harvard.edu"
     },
     "email_cor2": {
       "type": "email",
       "id": "email_cor2",
-      "node": "",
       "email": "nking@berkeley.edu"
     },
     "info:copyright": {
@@ -769,7 +742,6 @@
       "type": "funding",
       "id": "funding_par_1",
       "institution": "Gordon and Betty Moore Foundation Marine Microbiology Initiative",
-      "accession": "",
       "person": "person_author_1274",
       "given-names": "Nicole",
       "last-name": "King"
@@ -779,7 +751,6 @@
       "id": "funding_par_2",
       "institution": "National Institutes of Health",
       "accession": "F32 GM086054",
-      "person": "",
       "given-names": "Rosanna A.",
       "last-name": "Alegado"
     },
@@ -788,7 +759,6 @@
       "id": "funding_par_3",
       "institution": "National Institutes of Health",
       "accession": "F32 GM089018",
-      "person": "",
       "given-names": "Laura W.",
       "last-name": "Brown"
     },
@@ -815,7 +785,6 @@
       "id": "funding_par_6",
       "institution": "National Institutes of Health",
       "accession": "T32 HG00047",
-      "person": "",
       "given-names": "Stephen R.",
       "last-name": "Fairclough"
     },
@@ -830,8 +799,7 @@
     },
     "paragraph_34": {
       "type": "paragraph",
-      "id": "paragraph_34",
-      "content": ""
+      "id": "paragraph_34"
     },
     "heading_35": {
       "type": "heading",
@@ -1186,19 +1154,12 @@
       "type": "image",
       "id": "image_fig1",
       "label": "Figure 1.",
-      "url": "",
-      "object_id": "F1",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00013/svg/elife00013f001.svg",
       "title": "Rosette colony development in S. rosetta is regulated by A. machipongonensis.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00013.003",
       "caption": "paragraph_image_fig1",
-      "graphic_id": "elife00013f001"
+      "graphic_id": "elife00013f001",
+      "format": "image"
     },
     "paragraph_image_fig1": {
       "type": "paragraph",
@@ -1313,19 +1274,12 @@
       "type": "image",
       "id": "image_fig1s1",
       "label": "Figure 1—figure supplement 1.",
-      "url": "",
-      "object_id": "F2",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00013/svg/elife00013fs001.svg",
       "title": "Frequency of rosette colonies in S. rosetta environmental isolate ATCC 50818, RCA with and without A. machipongonensis and a monoxenic line with A. machipongonensis feeder bacteria (Px1).",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig1"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00013.004",
       "caption": "paragraph_image_fig1s1",
-      "graphic_id": "elife00013fs001"
+      "graphic_id": "elife00013fs001",
+      "format": "image"
     },
     "paragraph_image_fig1s1": {
       "type": "paragraph",
@@ -1415,11 +1369,9 @@
       "id": "table_tbl1",
       "label": "Table 1.",
       "content": "<table><thead><tr><td>Species</td><td>16S rDNA accession number</td><td>Reference</td><td>Rosette colonies</td></tr></thead><tbody><tr><td><em>Algoriphagus machipongonensis</em> PR1</td><td>NZ_AAXU00000000</td><td><sup>Alegado et al. (2012)</sup></td><td>+</td></tr><tr><td><em>Algoriphagus alkaliphilus</em> AC-74</td><td>AJ717393</td><td><sup>Tiago et al. (2006)</sup></td><td>+</td></tr><tr><td><em>Algoriphagus boritolerans</em> T-22</td><td>AB197852</td><td><sup>Ahmed et al. (2007)</sup></td><td>+</td></tr><tr><td><em>Algoriphagus mannitolivorans</em> JC2050</td><td>AY264838</td><td><sup>Yi and Chun (2004)</sup></td><td>+</td></tr><tr><td><em>Algoriphagus marincola</em> SW-2</td><td>AY533663</td><td><sup>Yoon et al. (2004)</sup></td><td>+</td></tr><tr><td><em>Algoriphagus ornithinivorans</em> JC2052</td><td>AY264840</td><td><sup>Yi and Chun (2004)</sup></td><td>+</td></tr><tr><td><em>Algoriphagus vanfongensis</em> KMM 6241</td><td>EF392675</td><td><sup>Van Trappen et al. (2004)</sup></td><td>+</td></tr><tr><td><em>Algoriphagus antarcticus</em> LMG 21980</td><td>AJ577141</td><td><sup>Nedashkovskaya et al. (2004)</sup></td><td>+</td></tr><tr><td><em>Algoriphagus aquimarinus</em> LMG 21971</td><td>AJ575264</td><td><sup>Nedashkovskaya et al. (2004)</sup></td><td>+</td></tr><tr><td><em>Algoriphagus chordae</em> LMG 21970</td><td>AJ575265</td><td><sup>Nedashkovskaya et al. (2004)</sup></td><td>+</td></tr><tr><td><em>Algoriphagus halophilus</em> JC2051</td><td>AY264839</td><td><sup>Yi and Chun (2004)</sup></td><td>+</td></tr><tr><td><em>Algoriphagus locisalis</em> MSS-170</td><td>AY835922</td><td><sup>Yoon et al. (2005a)</sup></td><td>+</td></tr><tr><td><em>Algoriphagus ratkowskyi</em> LMG 21435</td><td>AJ608641</td><td><sup>Bowman et al. (2003)</sup></td><td>+</td></tr><tr><td><em>Algoriphagus terrigena</em> DS-44</td><td>DQ178979</td><td><sup>Yoon et al. (2006)</sup></td><td>+</td></tr><tr><td><em>Algoriphagus winogradskyi</em> LMG 21969</td><td>AJ575263</td><td><sup>Nedashkovskaya et al. (2004)</sup></td><td>+</td></tr><tr><td><em>Algoriphagus yeomjeoni</em> MSS-160</td><td>AY699794</td><td><sup>Yoon et al. (2005b)</sup></td><td>+</td></tr><tr><td><em>Agrobacterium tumefaciens</em> C58</td><td>AE007870</td><td><sup>Wood et al. (2001)</sup></td><td>+</td></tr><tr><td><em>Aquiflexum balticum</em> BA160</td><td>AJ744861</td><td><sup>Brettar et al. (2004a)</sup></td><td>−</td></tr><tr><td><em>Bacillus subtilis</em> 168</td><td>AL009126</td><td><sup>Kunst et al. (1997)</sup>; <sup>Burkholder and Giles (1947)</sup>; <sup>Spizizen (1958)</sup></td><td>−</td></tr><tr><td><em>Bacteroides fragilis</em> NCTC9343</td><td>CR626927</td><td><sup>Cerdeno-Tarraga et al. (2005)</sup></td><td>−</td></tr><tr><td><em>Belliella baltica</em> BA134</td><td>AJ564643</td><td><sup>Brettar et al. (2004b)</sup></td><td>−</td></tr><tr><td><em>Caulobacter crescentus</em> CB15</td><td>AE005673</td><td><sup>Nierman et al. (2001)</sup></td><td>−</td></tr><tr><td><em>Croceibacter atlanticus</em> HTCC2559</td><td>NR_029064</td><td><sup>Cho and Giovannoni (2003)</sup></td><td>−</td></tr><tr><td><em>Cyclobacterium marinum</em> LMG 13164</td><td>AJ575266</td><td><sup>Raj and Maloy 1990)</sup></td><td>+</td></tr><tr><td><em>Cytophaga hutchinsonii</em> ATCC 33406</td><td>M58768</td><td><sup>Lewin (1969)</sup></td><td>+</td></tr><tr><td><em>Dyadobacter fermentans</em> DSM 18053</td><td>NR_027533</td><td><sup>Chelius and Triplett (2000)</sup></td><td>+</td></tr><tr><td><em>Echinicola pacifica</em> KMM 6172</td><td>NR_043619</td><td><sup>Nedashkovskaya et al. (2006)</sup></td><td>−</td></tr><tr><td><em>Escherichia coli</em> MG1655</td><td>U00096</td><td><sup>Blattner et al. (1997)</sup></td><td>−</td></tr><tr><td><em>Flavobacteria johnsoniae</em> UW101</td><td>CP000685</td><td><sup>Bernardet et al. (1996)</sup></td><td>−</td></tr><tr><td><em>Flectobacillus major</em> DSM 103</td><td>M62787</td><td><sup>Raj and Maloy (1990)</sup></td><td>+</td></tr><tr><td><em>Listeria monocytogenes</em> 10403S</td><td>CP002002</td><td><sup>Edman et al. (1968)</sup></td><td>−</td></tr><tr><td><em>Magnetospirillum magneticum</em> AMB-1</td><td>AP007255</td><td><sup>Matsunaga et al. (2005)</sup></td><td>−</td></tr><tr><td><em>Microscilla marina</em> ATCC 23134</td><td>M123134</td><td><sup>Garrity (2010)</sup></td><td>−</td></tr><tr><td><em>Oceanostipes pacificus</em> HTCC2170</td><td>CP002157</td><td><sup>Oh et al. (2011)</sup></td><td>−</td></tr><tr><td><em>Robiginitalea biformata</em> HTCC2501</td><td>CP001712</td><td><sup>Cho and Giovannoni (2004)</sup></td><td>−</td></tr><tr><td><em>Salinibacter ruber</em> DSM13855</td><td>CP000159</td><td><sup>Anton et al. (2002)</sup></td><td>−</td></tr><tr><td><em>Sphingomonas wittichii</em> RW1</td><td>CP000699</td><td><sup>Miller et al. (2010)</sup></td><td>−</td></tr><tr><td><em>Vibrio fischeri</em> ES114</td><td>CP000021</td><td><sup>Ruby et al. (2005)</sup></td><td>−</td></tr><tr><td><em>Zobellia galactonovorans</em> Dsij</td><td>NR_025053</td><td><sup>Barbeyron et al. (2001)</sup></td><td>+</td></tr><tr><td><em>Zobellia uliginosa</em> ATCC 14397</td><td>M62799</td><td><sup>Matsuo et al. (2003)</sup></td><td>+</td></tr></tbody></table>",
-      "title": "",
       "footers": [],
       "doi": "http://dx.doi.org/10.7554/eLife.00013.005",
-      "caption": "paragraph_table_tbl1",
-      "format": ""
+      "caption": "paragraph_table_tbl1"
     },
     "paragraph_table_tbl1": {
       "type": "paragraph",
@@ -1429,8 +1381,7 @@
     "footer_tblfn1": {
       "type": "footer",
       "id": "footer_tblfn1",
-      "content": "−: no rosette colonies observed; +: rosette colonies observed.",
-      "label": ""
+      "content": "−: no rosette colonies observed; +: rosette colonies observed."
     },
     "paragraph_77": {
       "type": "paragraph",
@@ -1602,19 +1553,12 @@
       "type": "image",
       "id": "image_fig2",
       "label": "Figure 2.",
-      "url": "",
-      "object_id": "F3",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00013/svg/elife00013f002.svg",
       "title": "Diverse members of the Bacteroidetes phylum induce rosette colony development.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00013.006",
       "caption": "paragraph_image_fig2",
-      "graphic_id": "elife00013f002"
+      "graphic_id": "elife00013f002",
+      "format": "image"
     },
     "paragraph_image_fig2": {
       "type": "paragraph",
@@ -1787,11 +1731,9 @@
       "id": "table_tbl2",
       "label": "Table 2.",
       "content": "<table><thead><tr><td>Treatment</td><td>Rosette colonies</td><td>Interpretation</td></tr></thead><tbody><tr><td>Sea water</td><td>−</td><td></td></tr><tr><td>CM from ATCC50818</td><td>+</td><td>RIF-1 present in environmental isolate ATCC 50818</td></tr><tr><td>CM from RCA</td><td>−</td><td>RIF-1 is absent in RCA lines</td></tr><tr><td>Live <em>A. machipongonensis</em> (cell pellet)</td><td>++</td><td>RIF-1 is produced by <em>A. machipongonensis</em></td></tr><tr><td>Heat killed <em>A. machipongonensis</em> (cell pellet)</td><td>++</td><td>RIF-1 is resistant to heat</td></tr><tr><td><em>A. machipongonensis</em> CM</td><td>+</td><td>RIF-1 is released by live <em>Algoriphagus</em></td></tr><tr><td><em>A. machipongonensis</em> CM, boiled 10 min</td><td>+</td><td>RIF-1 is not labile</td></tr><tr><td><em>A. machipongonensis</em> CM + Proteinase K</td><td>+</td><td>RIF-1 is not a protein</td></tr><tr><td><em>A. machipongonensis</em> CM + DNAse</td><td>+</td><td>RIF-1 is not DNA</td></tr><tr><td><em>A. machipongonensis</em> CM + RNAse</td><td>+</td><td>RIF-1 is not RNA</td></tr><tr><td><em>A. machipongonensis</em> CM, MeOH extract</td><td>+</td><td>RIF-1 is an organic compound</td></tr><tr><td><em>A. machipongonensis</em> cell pellet, MeOH extract</td><td>++</td><td>RIF-1 is present in the <em>Algoriphagus</em> cell envelope</td></tr><tr><td><em>A. machipongonensis</em> cell pellet, Bligh-Dyer extract</td><td>++</td><td>RIF-1 is a lipid</td></tr><tr><td>Sphingomyelin (20 mg mL<sup>−1</sup>)</td><td>−</td><td>Sphingomyelin does not induce rosette colony development</td></tr><tr><td>Monosialoganglioside (20 mg mL<sup>−1</sup>)</td><td>−</td><td>Monosialoganglioside does not induce rosette colony development</td></tr><tr><td>Galactocerebroside (20 mg mL<sup>−1</sup>)</td><td>−</td><td>Galactocerebroside does not induce rosette colony development</td></tr><tr><td>N-palmitoyl-DL-dihydrolacto cerebroside (20 mg mL<sup>−1</sup>)</td><td>−</td><td>N-palmitoyl-DL-dihydrolacto cerebroside does not induce rosette colony development</td></tr></tbody></table>",
-      "title": "",
       "footers": [],
       "doi": "http://dx.doi.org/10.7554/eLife.00013.007",
-      "caption": "paragraph_table_tbl2",
-      "format": ""
+      "caption": "paragraph_table_tbl2"
     },
     "paragraph_table_tbl2": {
       "type": "paragraph",
@@ -1801,8 +1743,7 @@
     "footer_104": {
       "type": "footer",
       "id": "footer_104",
-      "content": "−: no induction; +: low induction; ++: high induction",
-      "label": ""
+      "content": "−: no induction; +: low induction; ++: high induction"
     },
     "paragraph_105": {
       "type": "paragraph",
@@ -2091,19 +2032,12 @@
       "type": "image",
       "id": "image_fig3",
       "label": "Figure 3.",
-      "url": "",
-      "object_id": "F4",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00013/svg/elife00013f003.svg",
       "title": "RIF-1, a sulfonolipid that induces rosette colony development.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00013.008",
       "caption": "paragraph_image_fig3",
-      "graphic_id": "elife00013f003"
+      "graphic_id": "elife00013f003",
+      "format": "image"
     },
     "paragraph_image_fig3": {
       "type": "paragraph",
@@ -2205,19 +2139,12 @@
       "type": "image",
       "id": "image_fig3s1",
       "label": "Figure 3—figure supplement 1.",
-      "url": "",
-      "object_id": "F5",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00013/svg/elife00013fs002.svg",
       "title": "Separation of A. machipongonensis sphingolipids by thin layer chromatography (TLC).",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig3"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00013.009",
       "caption": "paragraph_image_fig3s1",
-      "graphic_id": "elife00013fs002"
+      "graphic_id": "elife00013fs002",
+      "format": "image"
     },
     "paragraph_image_fig3s1": {
       "type": "paragraph",
@@ -2267,19 +2194,12 @@
       "type": "image",
       "id": "image_fig3s2",
       "label": "Figure 3—figure supplement 2.",
-      "url": "",
-      "object_id": "F6",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00013/svg/elife00013fs003.svg",
       "title": "MS/MS analysis of RIF-1.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig3"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00013.010",
       "caption": "paragraph_image_fig3s2",
-      "graphic_id": "elife00013fs003"
+      "graphic_id": "elife00013fs003",
+      "format": "image"
     },
     "paragraph_image_fig3s2": {
       "type": "paragraph",
@@ -2394,19 +2314,12 @@
       "type": "image",
       "id": "image_fig3s3",
       "label": "Figure 3—figure supplement 3.",
-      "url": "",
-      "object_id": "F7",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00013/svg/elife00013fs004.svg",
       "title": "Key two-dimensional (2D) correlations of RIF-1: Observed COSY correlations.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig3"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00013.011",
       "caption": "paragraph_image_fig3s3",
-      "graphic_id": "elife00013fs004"
+      "graphic_id": "elife00013fs004",
+      "format": "image"
     },
     "paragraph_image_fig3s3": {
       "type": "paragraph",
@@ -2443,19 +2356,12 @@
       "type": "image",
       "id": "image_fig3s4",
       "label": "Figure 3—figure supplement 4.",
-      "url": "",
-      "object_id": "F8",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00013/svg/elife00013fs005.svg",
       "title": "Key two-dimensional (2D) correlations of RIF-1: Observed HMBC spin system.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig3"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00013.012",
       "caption": "paragraph_image_fig3s4",
-      "graphic_id": "elife00013fs005"
+      "graphic_id": "elife00013fs005",
+      "format": "image"
     },
     "paragraph_image_fig3s4": {
       "type": "paragraph",
@@ -2492,19 +2398,12 @@
       "type": "image",
       "id": "image_fig3s5",
       "label": "Figure 3—figure supplement 5.",
-      "url": "",
-      "object_id": "F9",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00013/svg/elife00013fs006.svg",
       "title": "Key two-dimensional (2D) correlations of RIF-1: Observed TOCSY spin system.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig3"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00013.013",
       "caption": "paragraph_image_fig3s5",
-      "graphic_id": "elife00013fs006"
+      "graphic_id": "elife00013fs006",
+      "format": "image"
     },
     "paragraph_image_fig3s5": {
       "type": "paragraph",
@@ -2554,19 +2453,12 @@
       "type": "image",
       "id": "image_fig3s6",
       "label": "Figure 3—figure supplement 6.",
-      "url": "",
-      "object_id": "F10",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00013/svg/elife00013fs007.svg",
       "title": "1H NMR spectrum of RIF-1.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig3"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00013.014",
       "caption": "paragraph_image_fig3s6",
-      "graphic_id": "elife00013fs007"
+      "graphic_id": "elife00013fs007",
+      "format": "image"
     },
     "paragraph_image_fig3s6": {
       "type": "paragraph",
@@ -2707,19 +2599,12 @@
       "type": "image",
       "id": "image_fig3s7",
       "label": "Figure 3—figure supplement 7.",
-      "url": "",
-      "object_id": "F11",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00013/svg/elife00013fs008.svg",
       "title": "gHMQC spectrum of RIF-1.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig3"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00013.015",
       "caption": "paragraph_image_fig3s7",
-      "graphic_id": "elife00013fs008"
+      "graphic_id": "elife00013fs008",
+      "format": "image"
     },
     "paragraph_image_fig3s7": {
       "type": "paragraph",
@@ -2899,19 +2784,12 @@
       "type": "image",
       "id": "image_fig3s8",
       "label": "Figure 3—figure supplement 8.",
-      "url": "",
-      "object_id": "F12",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00013/svg/elife00013fs009.svg",
       "title": "gCOSY spectrum of RIF-1.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig3"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00013.016",
       "caption": "paragraph_image_fig3s8",
-      "graphic_id": "elife00013fs009"
+      "graphic_id": "elife00013fs009",
+      "format": "image"
     },
     "paragraph_image_fig3s8": {
       "type": "paragraph",
@@ -2922,19 +2800,12 @@
       "type": "image",
       "id": "image_fig3s9",
       "label": "Figure 3—figure supplement 9.",
-      "url": "",
-      "object_id": "F13",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00013/svg/elife00013fs010.svg",
       "title": "Expanded dqfCOSY spectrum of RIF-1.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig3"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00013.017",
       "caption": "paragraph_image_fig3s9",
-      "graphic_id": "elife00013fs010"
+      "graphic_id": "elife00013fs010",
+      "format": "image"
     },
     "paragraph_image_fig3s9": {
       "type": "paragraph",
@@ -3179,19 +3050,12 @@
       "type": "image",
       "id": "image_fig3s10",
       "label": "Figure 3—figure supplement 10.",
-      "url": "",
-      "object_id": "F14",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00013/svg/elife00013fs011.svg",
       "title": "Expanded dqfCOSY spectra of RIF-1.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig3"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00013.018",
       "caption": "paragraph_image_fig3s10",
-      "graphic_id": "elife00013fs011"
+      "graphic_id": "elife00013fs011",
+      "format": "image"
     },
     "paragraph_image_fig3s10": {
       "type": "paragraph",
@@ -3202,19 +3066,12 @@
       "type": "image",
       "id": "image_fig3s11",
       "label": "Figure 3—figure supplement 11.",
-      "url": "",
-      "object_id": "F15",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00013/svg/elife00013fs012.svg",
       "title": "gHMBC spectrum of RIF-1.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig3"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00013.019",
       "caption": "paragraph_image_fig3s11",
-      "graphic_id": "elife00013fs012"
+      "graphic_id": "elife00013fs012",
+      "format": "image"
     },
     "paragraph_image_fig3s11": {
       "type": "paragraph",
@@ -3303,19 +3160,12 @@
       "type": "image",
       "id": "image_fig3s12",
       "label": "Figure 3—figure supplement 12.",
-      "url": "",
-      "object_id": "F16",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00013/svg/elife00013fs013.svg",
       "title": "Expanded gHMBC spectrum of RIF-1 (δH 0-4.00 ppm/δC 15.0-85.0 ppm).",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig3"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00013.020",
       "caption": "paragraph_image_fig3s12",
-      "graphic_id": "elife00013fs013"
+      "graphic_id": "elife00013fs013",
+      "format": "image"
     },
     "paragraph_image_fig3s12": {
       "type": "paragraph",
@@ -3404,19 +3254,12 @@
       "type": "image",
       "id": "image_fig3s13",
       "label": "Figure 3—figure supplement 13.",
-      "url": "",
-      "object_id": "F17",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00013/svg/elife00013fs014.svg",
       "title": "Expanded gHMBC spectrum of RIF-1 (δH 0.80-1.80 ppm/δC 20.0-40.0 ppm).",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig3"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00013.021",
       "caption": "paragraph_image_fig3s13",
-      "graphic_id": "elife00013fs014"
+      "graphic_id": "elife00013fs014",
+      "format": "image"
     },
     "paragraph_image_fig3s13": {
       "type": "paragraph",
@@ -3505,19 +3348,12 @@
       "type": "image",
       "id": "image_fig3s14",
       "label": "Figure 3—figure supplement 14.",
-      "url": "",
-      "object_id": "F18",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00013/svg/elife00013fs015.svg",
       "title": "TOCSY spectrum of RIF-1.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig3"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00013.022",
       "caption": "paragraph_image_fig3s14",
-      "graphic_id": "elife00013fs015"
+      "graphic_id": "elife00013fs015",
+      "format": "image"
     },
     "paragraph_image_fig3s14": {
       "type": "paragraph",
@@ -3580,19 +3416,12 @@
       "type": "image",
       "id": "image_fig3s15",
       "label": "Figure 3—figure supplement 15.",
-      "url": "",
-      "object_id": "F19",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00013/svg/elife00013fs016.svg",
       "title": "Expanded TOCSY spectrum of RIF-1 (δH 0.50-4.25 ppm/δC 0.50-4.25 ppm).",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig3"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00013.023",
       "caption": "paragraph_image_fig3s15",
-      "graphic_id": "elife00013fs016"
+      "graphic_id": "elife00013fs016",
+      "format": "image"
     },
     "paragraph_image_fig3s15": {
       "type": "paragraph",
@@ -3778,11 +3607,9 @@
       "id": "table_tbl3",
       "label": "Table 3.",
       "content": "<table><thead><tr><td>Position</td><td>δ <sup>1</sup>H (multiplicity, <em>J</em>, #H)</td><td><sup>13</sup>C (δ, ppm)</td></tr></thead><tbody><tr><td>NH</td><td>8.21 (d, <em>J=</em>9.1 Hz, 1H)</td><td></td></tr><tr><td rowspan=2>1</td><td>3.01 (dd, <em>J</em>=14.2, 5.1 Hz, 1H)</td><td rowspan=2>51.87</td></tr><tr><td>2.56 (dd, <em>J</em>=14.3, 3.6 Hz, 1H)</td></tr><tr><td>2</td><td>3.88 (ddd, <em>J</em>=13.0, 8.6, 4.5 Hz, 1H)</td><td>50.89</td></tr><tr><td>3</td><td>3.78 – 3.71 (m, 1H)</td><td>71.51</td></tr><tr><td>OH3</td><td>5.20 (d, <em>J</em>=4.2 Hz, 1H)</td><td></td></tr><tr><td rowspan=2>4</td><td>1.51 – 1.47 (m, 1H)</td><td rowspan=2>41.36</td></tr><tr><td>1.33 – 1.29 (m, 1H)</td></tr><tr><td>5</td><td>3.61 – 3.53 (m, 1H)</td><td>70.20</td></tr><tr><td>OH5</td><td>4.31 (d, <em>J</em>=3.5 Hz, 1H)</td><td></td></tr><tr><td rowspan=2>6</td><td>1.34 – 1.29 (m, 1H)</td><td rowspan=2>37.27</td></tr><tr><td>1.24 – 1.20 (m, 1H)</td></tr><tr><td>7–13</td><td>1.21 – 1.27 (br s, 14H)</td><td>22.5–29.6</td></tr><tr><td>14</td><td>1.16 – 1.11 (m, 2H)</td><td>38.91</td></tr><tr><td>15</td><td>1.52 – 1.47 (m, 1H)</td><td>27.79</td></tr><tr><td>16, 17</td><td>0.84 (d, <em>J</em>=6.6 Hz, 6H)</td><td>22.09</td></tr><tr><td>1′</td><td></td><td>173.23</td></tr><tr><td>2′</td><td>3.80 (dd, <em>J</em>=6.6, 4.2 Hz, 1H)</td><td>71.29</td></tr><tr><td>OH2′</td><td>5.52 (d, <em>J</em>=5.0 Hz, 1H)</td><td></td></tr><tr><td rowspan=2>3′</td><td>1.59 – 1.54 (m, 1H)</td><td rowspan=2>34.85</td></tr><tr><td>1.50 – 1.45 (m, 1H)</td></tr><tr><td>4′?</td><td>1.35 – 1.30 (m, 2H)</td><td>24.99</td></tr><tr><td>5′–11′</td><td>1.21 – 1.27 (br s, 14H)</td><td>22.5–29.6</td></tr><tr><td>12′</td><td>1.16 – 1.11 (m, 2H)</td><td>38.91</td></tr><tr><td>13′</td><td>1.52 – 1.47 (m, 1H)</td><td>27.79</td></tr><tr><td>14′, 15′</td><td>0.84 (d, <em>J</em>=6.6 Hz, 6H)</td><td>22.09</td></tr></tbody></table>",
-      "title": "",
       "footers": [],
       "doi": "http://dx.doi.org/10.7554/eLife.00013.024",
-      "caption": "paragraph_table_tbl3",
-      "format": ""
+      "caption": "paragraph_table_tbl3"
     },
     "paragraph_table_tbl3": {
       "type": "paragraph",
@@ -3793,19 +3620,12 @@
       "type": "image",
       "id": "image_fig4",
       "label": "Figure 4.",
-      "url": "",
-      "object_id": "F20",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00013/svg/elife00013f004.svg",
       "title": "Purified RIF-1 is active at plausible environmental concentrations.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00013.025",
       "caption": "paragraph_image_fig4",
-      "graphic_id": "elife00013f004"
+      "graphic_id": "elife00013f004",
+      "format": "image"
     },
     "paragraph_image_fig4": {
       "type": "paragraph",
@@ -3842,19 +3662,12 @@
       "type": "image",
       "id": "image_fig4s1",
       "label": "Figure 4—figure supplement 1.",
-      "url": "",
-      "object_id": "F21",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00013/svg/elife00013fs017.svg",
       "title": "Detection of purified RIF-1.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig4"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00013.026",
       "caption": "paragraph_image_fig4s1",
-      "graphic_id": "elife00013fs017"
+      "graphic_id": "elife00013fs017",
+      "format": "image"
     },
     "paragraph_image_fig4s1": {
       "type": "paragraph",
@@ -3865,19 +3678,12 @@
       "type": "image",
       "id": "image_fig4s2",
       "label": "Figure 4—figure supplement 2.",
-      "url": "",
-      "object_id": "F22",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00013/svg/elife00013fs018.svg",
       "title": "Detection of RIF-1 in the conditioned medium of A. machipongonensis.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig4"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00013.027",
       "caption": "paragraph_image_fig4s2",
-      "graphic_id": "elife00013fs018"
+      "graphic_id": "elife00013fs018",
+      "format": "image"
     },
     "paragraph_image_fig4s2": {
       "type": "paragraph",
@@ -3901,19 +3707,12 @@
       "type": "image",
       "id": "image_fig4s3",
       "label": "Figure 4—figure supplement 3.",
-      "url": "",
-      "object_id": "F23",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00013/svg/elife00013fs019.svg",
       "title": "Co-injection of concentrated conditioned medium with purified RIF-1.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig4"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00013.028",
       "caption": "paragraph_image_fig4s3",
-      "graphic_id": "elife00013fs019"
+      "graphic_id": "elife00013fs019",
+      "format": "image"
     },
     "paragraph_image_fig4s3": {
       "type": "paragraph",
@@ -6050,17 +5849,12 @@
     },
     "formula_401": {
       "type": "formula",
-      "id": "formula_401",
-      "label": "",
-      "content": "",
-      "format": ""
+      "id": "formula_401"
     },
     "annotation_402": {
       "type": "inline_formula",
       "id": "annotation_402",
-      "path": "",
       "target": "formula_401",
-      "range": "",
       "source": "paragraph_394",
       "key": "content",
       "pos": [
@@ -6407,19 +6201,10 @@
       ],
       "title": "Chemical communication",
       "year": "1992",
-      "volume": "",
-      "source": "",
-      "issue": "",
-      "fpage": "",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
       "publisher-name": "Scientific American Press",
       "publisher-loc": "New York",
-      "doi": "",
       "citation_url": [],
       "format": "book",
-      "label": "",
       "editors": []
     },
     "article_citation_bib2": {
@@ -6443,17 +6228,10 @@
       "year": "2007",
       "volume": "57",
       "source": "Int J Syst Evol Microbiol",
-      "issue": "",
       "fpage": "986",
       "lpage": "992",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib3": {
@@ -6491,19 +6269,9 @@
       ],
       "title": "Algoriphagus machipongonensis sp. nov. co-isolated with a colonial choanoflagellate",
       "year": "2012",
-      "volume": "",
       "source": "Int J Syst Evol Microbiol",
-      "issue": "",
-      "fpage": "",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": [],
       "comment": "[epub ahead of print]"
     },
@@ -6539,14 +6307,8 @@
       "issue": "108 Suppl",
       "fpage": "4666",
       "lpage": "4671",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib5": {
@@ -6582,17 +6344,10 @@
       "year": "2002",
       "volume": "52",
       "source": "Int J Syst Evol Microbiol",
-      "issue": "",
       "fpage": "485",
       "lpage": "491",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib6": {
@@ -6608,17 +6363,10 @@
       "year": "2008",
       "volume": "431",
       "source": "Methods Mol Biol",
-      "issue": "",
       "fpage": "3",
       "lpage": "13",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib7": {
@@ -6632,19 +6380,11 @@
       ],
       "title": "Handbook of microbiological media",
       "year": "2004",
-      "volume": "",
-      "source": "",
-      "issue": "",
       "fpage": "2051",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
       "publisher-name": "CRC",
       "publisher-loc": "Boca Raton",
-      "doi": "",
       "citation_url": [],
       "format": "book",
-      "label": "",
       "editors": [],
       "comment": "p."
     },
@@ -6680,14 +6420,8 @@
       "issue": "Pt 3",
       "fpage": "985",
       "lpage": "997",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib9": {
@@ -6723,17 +6457,10 @@
       "year": "1996",
       "volume": "46",
       "source": "Int J Syst Bacteriol",
-      "issue": "",
       "fpage": "128",
       "lpage": "148",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib10": {
@@ -6785,17 +6512,10 @@
       "year": "1997",
       "volume": "277",
       "source": "Science",
-      "issue": "",
       "fpage": "1453",
       "lpage": "1462",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib11": {
@@ -6815,17 +6535,10 @@
       "year": "1959",
       "volume": "37",
       "source": "Can J Biochem Physiol",
-      "issue": "",
       "fpage": "911",
       "lpage": "917",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib12": {
@@ -6852,14 +6565,8 @@
       "issue": "Pt 5",
       "fpage": "1343",
       "lpage": "1355",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib13": {
@@ -6903,17 +6610,9 @@
       "year": "2009",
       "volume": "5",
       "source": "PLoS Comput Biol",
-      "issue": "",
       "fpage": "e1000392",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib14": {
@@ -6937,17 +6636,10 @@
       "year": "2004a",
       "volume": "54",
       "source": "Int J Syst Evol Microbiol",
-      "issue": "",
       "fpage": "2335",
       "lpage": "2341",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib15": {
@@ -6974,14 +6666,8 @@
       "issue": "Pt 1",
       "fpage": "65",
       "lpage": "70",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib16": {
@@ -7001,17 +6687,10 @@
       "year": "1947",
       "volume": "34",
       "source": "Am J Bot",
-      "issue": "",
       "fpage": "345",
       "lpage": "348",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib17": {
@@ -7035,17 +6714,10 @@
       "year": "1961",
       "volume": "324",
       "source": "Hoppe-Seylers Z Physiol Chem",
-      "issue": "",
       "fpage": "71",
       "lpage": "83",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib18": {
@@ -7065,17 +6737,10 @@
       "year": "1957",
       "volume": "96",
       "source": "Proc Soc Exp Biol Med",
-      "issue": "",
       "fpage": "392",
       "lpage": "394",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib19": {
@@ -7107,17 +6772,10 @@
       "year": "2008",
       "volume": "105",
       "source": "Proc Natl Acad Sci U S A",
-      "issue": "",
       "fpage": "16641",
       "lpage": "16646",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib20": {
@@ -7133,17 +6791,10 @@
       "year": "2000",
       "volume": "17",
       "source": "Mol Biol Evol",
-      "issue": "",
       "fpage": "540",
       "lpage": "552",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib21": {
@@ -7195,17 +6846,10 @@
       "year": "2005",
       "volume": "307",
       "source": "Science",
-      "issue": "",
       "fpage": "1463",
       "lpage": "1465",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": [
         {
           "given-names": "GW",
@@ -7230,17 +6874,10 @@
       "year": "2000",
       "volume": "50",
       "source": "Int J Syst Evol Microbiol",
-      "issue": "",
       "fpage": "751",
       "lpage": "758",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib23": {
@@ -7260,17 +6897,10 @@
       "year": "2003",
       "volume": "26",
       "source": "Syst Appl Microbiol",
-      "issue": "",
       "fpage": "76",
       "lpage": "83",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib24": {
@@ -7293,14 +6923,8 @@
       "issue": "Pt 4",
       "fpage": "1101",
       "lpage": "1106",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib25": {
@@ -7320,17 +6944,10 @@
       "year": "1960",
       "volume": "111",
       "source": "J Exp Med",
-      "issue": "",
       "fpage": "689",
       "lpage": "704",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib26": {
@@ -7370,17 +6987,10 @@
       "year": "2011",
       "volume": "357",
       "source": "Dev Biol",
-      "issue": "",
       "fpage": "73",
       "lpage": "82",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib27": {
@@ -7432,17 +7042,10 @@
       "year": "2006",
       "volume": "72",
       "source": "Appl Environ Microbiol",
-      "issue": "",
       "fpage": "5069",
       "lpage": "5072",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib28": {
@@ -7462,17 +7065,10 @@
       "year": "2011",
       "volume": "10",
       "source": "Cell Host Microbe",
-      "issue": "",
       "fpage": "348",
       "lpage": "358",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib29": {
@@ -7492,17 +7088,10 @@
       "year": "1994",
       "volume": "40",
       "source": "Can J Microbiol",
-      "issue": "",
       "fpage": "132",
       "lpage": "139",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib30": {
@@ -7526,17 +7115,10 @@
       "year": "1968",
       "volume": "96",
       "source": "J Bacteriol",
-      "issue": "",
       "fpage": "352",
       "lpage": "357",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib31": {
@@ -7560,17 +7142,10 @@
       "year": "2010",
       "volume": "20",
       "source": "Curr Biol",
-      "issue": "",
       "fpage": "R875",
       "lpage": "R876",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib32": {
@@ -7586,17 +7161,10 @@
       "year": "1989",
       "volume": "5",
       "source": "Cladistics",
-      "issue": "",
       "fpage": "164",
       "lpage": "166",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib33": {
@@ -7628,17 +7196,10 @@
       "year": "1997",
       "volume": "13",
       "source": "Annu Rev Cell Dev Biol",
-      "issue": "",
       "fpage": "457",
       "lpage": "512",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib34": {
@@ -7654,17 +7215,10 @@
       "year": "2006",
       "volume": "124",
       "source": "Cell",
-      "issue": "",
       "fpage": "699",
       "lpage": "702",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib35": {
@@ -7678,19 +7232,11 @@
       ],
       "title": "Bergey’s manual of systematic bacteriology: Bacteroidetes, spirochetes, tenericutes (mollicutes), acidobacteria, fibrobacteres, fusobacteria, dictyoglomi, gemmatimonadetes, lentisphaerae, verrucomicrobia, chlamydiae, and planctomycetes",
       "year": "2010",
-      "volume": "",
-      "source": "",
-      "issue": "",
       "fpage": "949",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
       "publisher-name": "Springer Verlag",
       "publisher-loc": "New York",
-      "doi": "",
       "citation_url": [],
       "format": "book",
-      "label": "",
       "editors": [],
       "comment": "p."
     },
@@ -7711,17 +7257,10 @@
       "year": "1980",
       "volume": "144",
       "source": "J Bacteriol",
-      "issue": "",
       "fpage": "592",
       "lpage": "602",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib37": {
@@ -7741,17 +7280,10 @@
       "year": "1983",
       "volume": "153",
       "source": "J Bacteriol",
-      "issue": "",
       "fpage": "1238",
       "lpage": "1246",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib38": {
@@ -7771,17 +7303,10 @@
       "year": "1984",
       "volume": "259",
       "source": "J Biol Chem",
-      "issue": "",
       "fpage": "2982",
       "lpage": "2990",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib39": {
@@ -7801,17 +7326,10 @@
       "year": "1988",
       "volume": "150",
       "source": "Arch Microbiol",
-      "issue": "",
       "fpage": "42",
       "lpage": "47",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib40": {
@@ -7835,17 +7353,9 @@
       "year": "2011",
       "volume": "3",
       "source": "Cold Spring Harb Perspect Biol",
-      "issue": "",
-      "fpage": "",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1101/cshperspect.a004762",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": [],
       "comment": "pii: a004762"
     },
@@ -7870,17 +7380,10 @@
       "year": "2001",
       "volume": "40",
       "source": "Biochemistry",
-      "issue": "",
       "fpage": "4893",
       "lpage": "4903",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib42": {
@@ -7920,17 +7423,10 @@
       "year": "2003",
       "volume": "130",
       "source": "Development",
-      "issue": "",
       "fpage": "2443",
       "lpage": "2453",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib43": {
@@ -7946,17 +7442,10 @@
       "year": "1975",
       "volume": "17",
       "source": "J Cell Sci",
-      "issue": "",
       "fpage": "191",
       "lpage": "219",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib44": {
@@ -7984,17 +7473,10 @@
       "year": "1999",
       "volume": "284",
       "source": "Science",
-      "issue": "",
       "fpage": "1313",
       "lpage": "1318",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib45": {
@@ -8014,17 +7496,10 @@
       "year": "2008",
       "volume": "6",
       "source": "Nat Rev Microbiol",
-      "issue": "",
       "fpage": "111",
       "lpage": "120",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib46": {
@@ -8038,19 +7513,9 @@
       ],
       "title": "On the spongiae ciliatae as infusoria flagellata; or observations on the structure, animality, and relationship of Leucosolenia botryoides, Bowerbank.. I, two plates",
       "year": "1867",
-      "volume": "",
       "source": "Memoirs Boston Soc. Of Nat. Hist",
-      "issue": "",
-      "fpage": "",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib47": {
@@ -8078,17 +7543,10 @@
       "year": "1992",
       "volume": "267",
       "source": "J Biol Chem",
-      "issue": "",
       "fpage": "11255",
       "lpage": "11259",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib48": {
@@ -8124,17 +7582,10 @@
       "year": "1995a",
       "volume": "48",
       "source": "J Antibiot",
-      "issue": "",
       "fpage": "929",
       "lpage": "936",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib49": {
@@ -8174,17 +7625,10 @@
       "year": "1995b",
       "volume": "48",
       "source": "J. Antibiot",
-      "issue": "",
       "fpage": "924",
       "lpage": "928",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib50": {
@@ -8204,17 +7648,10 @@
       "year": "1998",
       "volume": "37",
       "source": "Acta Protozoologica",
-      "issue": "",
       "fpage": "23",
       "lpage": "27",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib51": {
@@ -8234,17 +7671,10 @@
       "year": "2001",
       "volume": "2",
       "source": "Nat Rev Genet",
-      "issue": "",
       "fpage": "256",
       "lpage": "267",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib52": {
@@ -8260,17 +7690,10 @@
       "year": "2004",
       "volume": "7",
       "source": "Dev Cell",
-      "issue": "",
       "fpage": "313",
       "lpage": "325",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib53": {
@@ -8290,17 +7713,10 @@
       "year": "2001",
       "volume": "98",
       "source": "Proc Natl Acad Sci U S A",
-      "issue": "",
       "fpage": "15032",
       "lpage": "15037",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib54": {
@@ -8324,17 +7740,10 @@
       "year": "2003",
       "volume": "301",
       "source": "Science",
-      "issue": "",
       "fpage": "361",
       "lpage": "363",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib55": {
@@ -8382,17 +7791,10 @@
       "year": "2008",
       "volume": "451",
       "source": "Nature",
-      "issue": "",
       "fpage": "783",
       "lpage": "788",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib56": {
@@ -8422,19 +7824,9 @@
       ],
       "title": "Starting and maintaining Monosiga brevicollis cultures",
       "year": "2009",
-      "volume": "",
       "source": "Cold Spring Harb Protoc",
-      "issue": "",
-      "fpage": "",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": [],
       "comment": "2009: pdb.prot5148"
     },
@@ -8471,17 +7863,10 @@
       "year": "1995",
       "volume": "51",
       "source": "Tetrahedron",
-      "issue": "",
       "fpage": "10487",
       "lpage": "10490",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib58": {
@@ -8501,17 +7886,10 @@
       "year": "1999",
       "volume": "11",
       "source": "Curr Opin Immunol",
-      "issue": "",
       "fpage": "13",
       "lpage": "18",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib59": {
@@ -8547,17 +7925,10 @@
       "year": "2004",
       "volume": "306",
       "source": "Science",
-      "issue": "",
       "fpage": "1186",
       "lpage": "1188",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib60": {
@@ -8571,19 +7942,11 @@
       ],
       "title": "Effects of forming multicellular colonies or attaching to surfaces on feeding rates of the choanoflagellate Salpingoeca rosetta",
       "year": "2010",
-      "volume": "",
       "source": "Thesis (M.A. in Integrative Biology",
-      "issue": "",
-      "fpage": "",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
       "publisher-name": "University of California",
       "publisher-loc": "Berkeley",
-      "doi": "",
       "citation_url": [],
       "format": "book",
-      "label": "",
       "editors": [
         {
           "given-names": "M",
@@ -8641,17 +8004,10 @@
       "year": "1997",
       "volume": "390",
       "source": "Nature",
-      "issue": "",
       "fpage": "249",
       "lpage": "256",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib62": {
@@ -8667,17 +8023,10 @@
       "year": "1983",
       "volume": "63",
       "source": "J Mar Biol Assoc UK",
-      "issue": "",
       "fpage": "135",
       "lpage": "160",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib63": {
@@ -8697,17 +8046,10 @@
       "year": "2010",
       "volume": "330",
       "source": "Science",
-      "issue": "",
       "fpage": "1768",
       "lpage": "1773",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib64": {
@@ -8723,17 +8065,10 @@
       "year": "1969",
       "volume": "58",
       "source": "J Gen Microbiol",
-      "issue": "",
       "fpage": "189",
       "lpage": "206",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib65": {
@@ -8769,17 +8104,10 @@
       "year": "2005",
       "volume": "12",
       "source": "DNA Res",
-      "issue": "",
       "fpage": "157",
       "lpage": "166",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib66": {
@@ -8811,17 +8139,10 @@
       "year": "2003",
       "volume": "5",
       "source": "Environ Microbiol",
-      "issue": "",
       "fpage": "25",
       "lpage": "35",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib67": {
@@ -8849,17 +8170,9 @@
       "year": "2005",
       "volume": "307",
       "source": "Science",
-      "issue": "",
       "fpage": "1598",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib68": {
@@ -8887,17 +8200,10 @@
       "year": "2005",
       "volume": "122",
       "source": "Cell",
-      "issue": "",
       "fpage": "107",
       "lpage": "118",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib69": {
@@ -8921,17 +8227,10 @@
       "year": "2008",
       "volume": "453",
       "source": "Nature",
-      "issue": "",
       "fpage": "620",
       "lpage": "625",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib70": {
@@ -8947,17 +8246,10 @@
       "year": "1999",
       "volume": "30",
       "source": "Ann Rev Ecol Syst",
-      "issue": "",
       "fpage": "235",
       "lpage": "256",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib71": {
@@ -8977,17 +8269,10 @@
       "year": "2000",
       "volume": "173",
       "source": "Immunol Rev",
-      "issue": "",
       "fpage": "89",
       "lpage": "97",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib72": {
@@ -9022,14 +8307,8 @@
       "issue": "109 Suppl",
       "fpage": "283",
       "lpage": "289",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib73": {
@@ -9065,17 +8344,10 @@
       "year": "2010",
       "volume": "192",
       "source": "J Bacteriol",
-      "issue": "",
       "fpage": "6101",
       "lpage": "6102",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib74": {
@@ -9103,17 +8375,10 @@
       "year": "2005",
       "volume": "64",
       "source": "Dis Aquat Organ",
-      "issue": "",
       "fpage": "201",
       "lpage": "209",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib75": {
@@ -9168,14 +8433,8 @@
       "issue": "Pt 5",
       "fpage": "1757",
       "lpage": "1764",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib76": {
@@ -9227,17 +8486,10 @@
       "year": "2006",
       "volume": "56",
       "source": "Int J Syst Evol Microbiol",
-      "issue": "",
       "fpage": "953",
       "lpage": "958",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib77": {
@@ -9289,17 +8541,10 @@
       "year": "2001",
       "volume": "98",
       "source": "Proc Natl Acad Sci U S A",
-      "issue": "",
       "fpage": "4136",
       "lpage": "4141",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib78": {
@@ -9339,17 +8584,10 @@
       "year": "2011",
       "volume": "193",
       "source": "J Bacteriol",
-      "issue": "",
       "fpage": "303",
       "lpage": "304",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib79": {
@@ -9369,17 +8607,10 @@
       "year": "2001",
       "volume": "7",
       "source": "Anaerobe",
-      "issue": "",
       "fpage": "103",
       "lpage": "112",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib80": {
@@ -9399,17 +8630,10 @@
       "year": "2000",
       "volume": "21",
       "source": "Immunol Today",
-      "issue": "",
       "fpage": "555",
       "lpage": "560",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib81": {
@@ -9429,17 +8653,10 @@
       "year": "1980",
       "volume": "16",
       "source": "J Phycol",
-      "issue": "",
       "fpage": "196",
       "lpage": "201",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib82": {
@@ -9462,14 +8679,8 @@
       "issue": "Pt 2",
       "fpage": "385",
       "lpage": "402",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib83": {
@@ -9489,17 +8700,10 @@
       "year": "1990",
       "volume": "40",
       "source": "Int J Syst Bacteriol",
-      "issue": "",
       "fpage": "337",
       "lpage": "347",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib84": {
@@ -9515,17 +8719,10 @@
       "year": "1995",
       "volume": "92",
       "source": "Proc Natl Acad Sci U S A",
-      "issue": "",
       "fpage": "44",
       "lpage": "49",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib85": {
@@ -9577,17 +8774,10 @@
       "year": "2005",
       "volume": "102",
       "source": "Proc Natl Acad Sci U S A",
-      "issue": "",
       "fpage": "3004",
       "lpage": "3009",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib86": {
@@ -9619,17 +8809,10 @@
       "year": "2008",
       "volume": "25",
       "source": "Mol Biol Evol",
-      "issue": "",
       "fpage": "664",
       "lpage": "672",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib87": {
@@ -9643,19 +8826,10 @@
       ],
       "title": "A manual of the infusoria",
       "year": "1880",
-      "volume": "",
-      "source": "",
-      "issue": "",
-      "fpage": "",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
       "publisher-name": "David Bogue",
       "publisher-loc": "London",
-      "doi": "",
       "citation_url": [],
       "format": "book",
-      "label": "",
       "editors": []
     },
     "article_citation_bib88": {
@@ -9683,17 +8857,10 @@
       "year": "1996",
       "volume": "178",
       "source": "J Bacteriol",
-      "issue": "",
       "fpage": "2897",
       "lpage": "2901",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib89": {
@@ -9713,17 +8880,10 @@
       "year": "2000",
       "volume": "476",
       "source": "FEBS Lett",
-      "issue": "",
       "fpage": "55",
       "lpage": "57",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib90": {
@@ -9739,17 +8899,10 @@
       "year": "1958",
       "volume": "44",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "1072",
       "lpage": "1078",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib91": {
@@ -9793,17 +8946,10 @@
       "year": "1999",
       "volume": "11",
       "source": "Immunity",
-      "issue": "",
       "fpage": "443",
       "lpage": "451",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib92": {
@@ -9823,17 +8969,10 @@
       "year": "2007",
       "volume": "56",
       "source": "Syst Biol",
-      "issue": "",
       "fpage": "564",
       "lpage": "577",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib93": {
@@ -9865,17 +9004,10 @@
       "year": "2006",
       "volume": "29",
       "source": "Syst Appl Microbiol",
-      "issue": "",
       "fpage": "100",
       "lpage": "108",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib94": {
@@ -9906,14 +9038,8 @@
       "issue": "Pt 6",
       "fpage": "1969",
       "lpage": "1973",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib95": {
@@ -9953,17 +9079,10 @@
       "year": "2004",
       "volume": "70",
       "source": "Appl Environ Microbiol",
-      "issue": "",
       "fpage": "1213",
       "lpage": "1221",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib96": {
@@ -9991,17 +9110,10 @@
       "year": "1991",
       "volume": "173",
       "source": "J Bacteriol",
-      "issue": "",
       "fpage": "697",
       "lpage": "703",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib97": {
@@ -10017,17 +9129,10 @@
       "year": "2007",
       "volume": "20",
       "source": "Clin Microbiol Rev",
-      "issue": "",
       "fpage": "593",
       "lpage": "621",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib98": {
@@ -10079,17 +9184,10 @@
       "year": "2001",
       "volume": "294",
       "source": "Science",
-      "issue": "",
       "fpage": "2317",
       "lpage": "2323",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib99": {
@@ -10112,14 +9210,8 @@
       "issue": "Pt 1",
       "fpage": "157",
       "lpage": "162",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib100": {
@@ -10146,14 +9238,8 @@
       "issue": "Pt 5",
       "fpage": "1845",
       "lpage": "1848",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib101": {
@@ -10180,14 +9266,8 @@
       "issue": "Pt 4",
       "fpage": "1635",
       "lpage": "1639",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib102": {
@@ -10222,14 +9302,8 @@
       "issue": "Pt 2",
       "fpage": "865",
       "lpage": "870",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib103": {
@@ -10260,14 +9334,8 @@
       "issue": "Pt 4",
       "fpage": "777",
       "lpage": "780",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib104": {
@@ -10295,17 +9363,10 @@
       "year": "1998",
       "volume": "163",
       "source": "FEMS Microbiol Lett",
-      "issue": "",
       "fpage": "223",
       "lpage": "228",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib105": {
@@ -10325,17 +9386,10 @@
       "year": "2007",
       "volume": "33",
       "source": "J Chem Ecol",
-      "issue": "",
       "fpage": "1795",
       "lpage": "1805",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "sub-article": {

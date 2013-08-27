@@ -117,7 +117,6 @@
       "accepted_on": "2013-01-15",
       "published_on": "2013-02-19",
       "journal": "eLife",
-      "article_type": "",
       "keywords": [
         "Electron Microscopy",
         "Direct electron detectors",
@@ -132,10 +131,9 @@
       "subjects": [
         "Biophysics and structural biology"
       ],
-      "pdf_link": "",
-      "xml_link": "",
-      "json_link": "",
-      "doi": ""
+      "xml_link": "https://s3.amazonaws.com/elife-cdn/elife-articles/00461/elife00461.xml",
+      "json_link": "https://s3.amazonaws.com/elife-cdn/elife-articles/00461/00461.json",
+      "doi": "http://dx.doi.org/10.7554/eLife.00461"
     },
     "person_author_3345": {
       "type": "person",
@@ -144,9 +142,7 @@
       "last-name": "Bai",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Acquisition of data, Analysis and interpretation of data",
-      "email": "",
       "funding": []
     },
     "person_author_3438": {
@@ -156,9 +152,7 @@
       "last-name": "Fernandez",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Analysis and interpretation of data, Contributed unpublished essential data or reagents",
-      "email": "",
       "funding": [
         "funding_par_2",
         "funding_par_3"
@@ -171,9 +165,7 @@
       "last-name": "McMullan",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Acquisition of data",
-      "email": "",
       "funding": []
     },
     "person_author_3361": {
@@ -183,7 +175,6 @@
       "last-name": "Scheres",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Analysis and interpretation of data, Drafting or revising the article",
       "email": "email_cor1",
       "funding": [
@@ -195,9 +186,7 @@
       "id": "institution_aff1",
       "name": "Medical Research Council Laboratory of Molecular Biology",
       "city": "Cambridge",
-      "country": "United Kingdom",
-      "email": "",
-      "image": ""
+      "country": "United Kingdom"
     },
     "person_1": {
       "type": "person",
@@ -206,9 +195,6 @@
       "last-name": "Kühlbrandt",
       "role": "editor",
       "affiliations": [],
-      "image": "",
-      "contribution": "",
-      "email": "",
       "funding": []
     },
     "info:review": {
@@ -223,7 +209,6 @@
     "email_cor1": {
       "type": "email",
       "id": "email_cor1",
-      "node": "",
       "email": "scheres@mrc-lmb.cam.ac.uk"
     },
     "info:copyright": {
@@ -370,7 +355,6 @@
       "type": "funding",
       "id": "funding_par_2",
       "institution": "Wellcome Trust",
-      "accession": "",
       "person": "person_author_3438",
       "given-names": "Israel S",
       "last-name": "Fernandez"
@@ -395,8 +379,7 @@
     },
     "paragraph_16": {
       "type": "paragraph",
-      "id": "paragraph_16",
-      "content": ""
+      "id": "paragraph_16"
     },
     "heading_s1": {
       "type": "heading",
@@ -815,19 +798,12 @@
       "type": "image",
       "id": "image_fig1",
       "label": "Figure 1.",
-      "url": "",
-      "object_id": "F1",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00461/svg/elife00461f001.svg",
       "title": "70S data collected on a back-thinned FEI Falcon detector.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00461.003",
       "caption": "paragraph_image_fig1",
-      "graphic_id": "elife00461f001"
+      "graphic_id": "elife00461f001",
+      "format": "image"
     },
     "paragraph_image_fig1": {
       "type": "paragraph",
@@ -877,19 +853,12 @@
       "type": "image",
       "id": "image_fig1s1",
       "label": "Figure 1—figure supplement 1.",
-      "url": "",
-      "object_id": "F2",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00461/svg/elife00461fs001.svg",
       "title": "Part of a recorded micrograph and reference-free class averages for the 70S and 80S data sets.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig1"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00461.004",
       "caption": "paragraph_image_fig1s1",
-      "graphic_id": "elife00461fs001"
+      "graphic_id": "elife00461fs001",
+      "format": "image"
     },
     "paragraph_image_fig1s1": {
       "type": "paragraph",
@@ -952,19 +921,12 @@
       "type": "image",
       "id": "image_fig2",
       "label": "Figure 2.",
-      "url": "",
-      "object_id": "F3",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00461/svg/elife00461f002.svg",
       "title": "Development of video processing procedures on the 70S data set.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00461.005",
       "caption": "paragraph_image_fig2",
-      "graphic_id": "elife00461f002"
+      "graphic_id": "elife00461f002",
+      "format": "image"
     },
     "paragraph_image_fig2": {
       "type": "paragraph",
@@ -1079,19 +1041,12 @@
       "type": "image",
       "id": "image_fig2s1",
       "label": "Figure 2—figure supplement 1.",
-      "url": "",
-      "object_id": "F4",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00461/svg/elife00461fs002.svg",
       "title": "Overall views of the 70S ribosome reconstructions obtained from 16-frame averaged particles (left), independently refined four-frame averages (middle) and the statistical video processing procedure (right).",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig2"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00461.006",
       "caption": "paragraph_image_fig2s1",
-      "graphic_id": "elife00461fs002"
+      "graphic_id": "elife00461fs002",
+      "format": "image"
     },
     "paragraph_image_fig2s1": {
       "type": "paragraph",
@@ -1351,12 +1306,8 @@
       "type": "video",
       "id": "video_video1",
       "label": "Video 1.",
-      "title": "",
       "caption": "paragraph_video_video1",
-      "content_type": "",
       "url_ogv": "http://static.movie-usa.glencoesoftware.com/ogv/10.7554/elife00461v001.ogv",
-      "url_jpg": "",
-      "url_mp4": "",
       "doi": "http://dx.doi.org/10.7554/eLife.00461.007",
       "url": "http://static.movie-usa.glencoesoftware.com/mp4/10.7554/elife00461v001.mp4",
       "poster": "http://static.movie-usa.glencoesoftware.com/jpg/10.7554/elife00461v001.jpg"
@@ -1370,19 +1321,12 @@
       "type": "image",
       "id": "image_fig3",
       "label": "Figure 3.",
-      "url": "",
-      "object_id": "F5",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00461/svg/elife00461f003.svg",
       "title": "Application of the statistical video processing procedure to an 80S ribosome data set.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00461.008",
       "caption": "paragraph_image_fig3",
-      "graphic_id": "elife00461f003"
+      "graphic_id": "elife00461f003",
+      "format": "image"
     },
     "paragraph_image_fig3": {
       "type": "paragraph",
@@ -1575,12 +1519,8 @@
       "type": "video",
       "id": "video_video2",
       "label": "Video 2.",
-      "title": "",
       "caption": "paragraph_video_video2",
-      "content_type": "",
       "url_ogv": "http://static.movie-usa.glencoesoftware.com/ogv/10.7554/elife00461v002.ogv",
-      "url_jpg": "",
-      "url_mp4": "",
       "doi": "http://dx.doi.org/10.7554/eLife.00461.009",
       "url": "http://static.movie-usa.glencoesoftware.com/mp4/10.7554/elife00461v002.mp4",
       "poster": "http://static.movie-usa.glencoesoftware.com/jpg/10.7554/elife00461v002.jpg"
@@ -2282,17 +2222,11 @@
       "year": "2010",
       "volume": "107",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "19748",
       "lpage": "53",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1073/pnas.1009999107",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib2": {
@@ -2312,17 +2246,11 @@
       "year": "2010",
       "volume": "481",
       "source": "Methods Enzymol",
-      "issue": "",
       "fpage": "371",
       "lpage": "88",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/S0076-6879(10)81015-8",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib3": {
@@ -2358,17 +2286,10 @@
       "year": "2011",
       "volume": "334",
       "source": "Science",
-      "issue": "",
       "fpage": "1524",
       "lpage": "9",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib4": {
@@ -2404,17 +2325,11 @@
       "year": "2012",
       "volume": "177",
       "source": "J Struct Biol",
-      "issue": "",
       "fpage": "630",
       "lpage": "7",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.jsb.2012.02.003",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib5": {
@@ -2450,17 +2365,11 @@
       "year": "2012",
       "volume": "20",
       "source": "Structure",
-      "issue": "",
       "fpage": "1823",
       "lpage": "8",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.str.2012.08.026",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib6": {
@@ -2492,17 +2401,11 @@
       "year": "2010",
       "volume": "466",
       "source": "Nature",
-      "issue": "",
       "fpage": "329",
       "lpage": "33",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nature09206",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib7": {
@@ -2530,17 +2433,11 @@
       "year": "1991",
       "volume": "115",
       "source": "J Cell Biol",
-      "issue": "",
       "fpage": "597",
       "lpage": "605",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1083/jcb.115.3.597",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib8": {
@@ -2556,17 +2453,11 @@
       "year": "1999",
       "volume": "128",
       "source": "J Struct Biol",
-      "issue": "",
       "fpage": "3",
       "lpage": "14",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1006/jsbi.1999.4172",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib9": {
@@ -2582,17 +2473,11 @@
       "year": "2008",
       "volume": "163",
       "source": "J Struct Biol",
-      "issue": "",
       "fpage": "271",
       "lpage": "6",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.jsb.2008.06.001",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib10": {
@@ -2612,17 +2497,11 @@
       "year": "2011",
       "volume": "21",
       "source": "Curr Opin Struct Biol",
-      "issue": "",
       "fpage": "265",
       "lpage": "73",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.sbi.2011.01.008",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib11": {
@@ -2642,17 +2521,11 @@
       "year": "1979",
       "volume": "04",
       "source": "Ultramicroscopy",
-      "issue": "",
       "fpage": "201",
       "lpage": "10",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/S0304-3991(79)90211-0",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib12": {
@@ -2668,17 +2541,11 @@
       "year": "1992",
       "volume": "46",
       "source": "Ultramicroscopy",
-      "issue": "",
       "fpage": "1",
       "lpage": "18",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/0304-3991(92)90003-3",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib13": {
@@ -2694,17 +2561,11 @@
       "year": "1995",
       "volume": "28",
       "source": "Q Rev Biophys",
-      "issue": "",
       "fpage": "171",
       "lpage": "93",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1017/S003358350000305X",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib14": {
@@ -2740,17 +2601,11 @@
       "year": "2011",
       "volume": "413",
       "source": "J Mol Biol",
-      "issue": "",
       "fpage": "1028",
       "lpage": "46",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.jmb.2011.09.008",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib15": {
@@ -2770,17 +2625,11 @@
       "year": "1995",
       "volume": "59",
       "source": "Ultramicroscopy",
-      "issue": "",
       "fpage": "71",
       "lpage": "9",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/0304-3991(95)00019-W",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib16": {
@@ -2808,17 +2657,11 @@
       "year": "2009a",
       "volume": "109",
       "source": "Ultramicroscopy",
-      "issue": "",
       "fpage": "1126",
       "lpage": "43",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.ultramic.2009.04.002",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib17": {
@@ -2846,17 +2689,11 @@
       "year": "2009b",
       "volume": "109",
       "source": "Ultramicroscopy",
-      "issue": "",
       "fpage": "1411",
       "lpage": "6",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.ultramic.2009.07.004",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib18": {
@@ -2892,17 +2729,11 @@
       "year": "2009c",
       "volume": "109",
       "source": "Ultramicroscopy",
-      "issue": "",
       "fpage": "1144",
       "lpage": "7",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.ultramic.2009.05.005",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib19": {
@@ -2922,17 +2753,11 @@
       "year": "2003",
       "volume": "142",
       "source": "J Struct Biol",
-      "issue": "",
       "fpage": "334",
       "lpage": "47",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/S1047-8477(03)00069-8",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib20": {
@@ -2948,17 +2773,11 @@
       "year": "2011",
       "volume": "60",
       "source": "J Electron Microsc",
-      "issue": "",
       "fpage": "S43",
       "lpage": "62",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1093/jmicro/dfr037",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib21": {
@@ -2994,17 +2813,11 @@
       "year": "2004",
       "volume": "25",
       "source": "J Comput Chem",
-      "issue": "",
       "fpage": "1605",
       "lpage": "12",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1002/jcc.20084",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib22": {
@@ -3040,17 +2853,11 @@
       "year": "2003",
       "volume": "512",
       "source": "Nucl Instrum Methods Phys Res A",
-      "issue": "",
       "fpage": "358",
       "lpage": "67",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/S0168-9002(03)01914-4",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib23": {
@@ -3070,17 +2877,10 @@
       "year": "2003",
       "volume": "333",
       "source": "J Mol Biol",
-      "issue": "",
       "fpage": "721",
       "lpage": "45",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib24": {
@@ -3096,17 +2896,11 @@
       "year": "2012a",
       "volume": "415",
       "source": "J Mol Biol",
-      "issue": "",
       "fpage": "406",
       "lpage": "18",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.jmb.2011.11.010",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib25": {
@@ -3122,17 +2916,11 @@
       "year": "2012b",
       "volume": "180",
       "source": "J Struct Biol",
-      "issue": "",
       "fpage": "519",
       "lpage": "30",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.jsb.2012.09.006",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib26": {
@@ -3152,17 +2940,11 @@
       "year": "2012",
       "volume": "9",
       "source": "Nat Methods",
-      "issue": "",
       "fpage": "853",
       "lpage": "4",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nmeth.2115",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib27": {
@@ -3198,17 +2980,11 @@
       "year": "2007",
       "volume": "4",
       "source": "Nat Methods",
-      "issue": "",
       "fpage": "27",
       "lpage": "9",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nmeth992",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib28": {
@@ -3244,17 +3020,11 @@
       "year": "2009",
       "volume": "326",
       "source": "Science",
-      "issue": "",
       "fpage": "1412",
       "lpage": "5",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1126/science.1177662",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib29": {
@@ -3290,17 +3060,11 @@
       "year": "2006",
       "volume": "313",
       "source": "Science",
-      "issue": "",
       "fpage": "1935",
       "lpage": "42",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1126/science.1131127",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib30": {
@@ -3336,17 +3100,11 @@
       "year": "2006",
       "volume": "155",
       "source": "J Struct Biol",
-      "issue": "",
       "fpage": "470",
       "lpage": "81",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.jsb.2006.04.005",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib31": {
@@ -3382,17 +3140,11 @@
       "year": "2007",
       "volume": "157",
       "source": "J Struct Biol",
-      "issue": "",
       "fpage": "38",
       "lpage": "46",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.jsb.2006.05.009",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib32": {
@@ -3428,17 +3180,11 @@
       "year": "2008",
       "volume": "322",
       "source": "Science",
-      "issue": "",
       "fpage": "953",
       "lpage": "56",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1126/science.1164840",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "sub-article": {

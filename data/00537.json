@@ -169,7 +169,6 @@
       "accepted_on": "2013-04-16",
       "published_on": "2013-05-21",
       "journal": "elife",
-      "article_type": "",
       "keywords": [
         "hematopoiesis",
         "inflammation",
@@ -185,10 +184,9 @@
         "Developmental biology and stem cells",
         "Immunology"
       ],
-      "pdf_link": "",
-      "xml_link": "",
-      "json_link": "",
-      "doi": ""
+      "xml_link": "https://s3.amazonaws.com/elife-cdn/elife-articles/00537/elife00537.xml",
+      "json_link": "https://s3.amazonaws.com/elife-cdn/elife-articles/00537/00537.json",
+      "doi": "http://dx.doi.org/10.7554/eLife.00537"
     },
     "person_author_3264": {
       "type": "person",
@@ -197,7 +195,6 @@
       "last-name": "Zhao",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article, Contributed unpublished essential data or reagents",
       "email": "email:cor1",
       "funding": [
@@ -211,9 +208,7 @@
       "last-name": "Rao",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Acquisition of data, Analysis and interpretation of data",
-      "email": "",
       "funding": [
         "funding_par_3"
       ]
@@ -225,9 +220,7 @@
       "last-name": "O’Connell",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Acquisition of data, Analysis and interpretation of data",
-      "email": "",
       "funding": [
         "funding_par_4"
       ]
@@ -239,9 +232,7 @@
       "last-name": "Garcia-Flores",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Acquisition of data",
-      "email": "",
       "funding": []
     },
     "person_author_3691": {
@@ -251,7 +242,6 @@
       "last-name": "Baltimore",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Analysis and interpretation of data, Drafting or revising the article",
       "email": "email:cor2",
       "funding": [
@@ -263,27 +253,21 @@
       "id": "institution_aff1",
       "name": "California Institute of Technology",
       "city": "Pasadena",
-      "country": "United States",
-      "email": "",
-      "image": ""
+      "country": "United States"
     },
     "institution_aff2": {
       "type": "institution",
       "id": "institution_aff2",
       "name": "University of California, Los Angeles",
       "city": "Los Angeles",
-      "country": "United States",
-      "email": "",
-      "image": ""
+      "country": "United States"
     },
     "institution_aff3": {
       "type": "institution",
       "id": "institution_aff3",
       "name": "University of Utah",
       "city": "Salt Lake City",
-      "country": "United States",
-      "email": "",
-      "image": ""
+      "country": "United States"
     },
     "person_1": {
       "type": "person",
@@ -292,9 +276,6 @@
       "last-name": "Morrison",
       "role": "editor",
       "affiliations": [],
-      "image": "",
-      "contribution": "",
-      "email": "",
       "funding": []
     },
     "info:review": {
@@ -309,13 +290,11 @@
     "email_cor1": {
       "type": "email",
       "id": "email_cor1",
-      "node": "",
       "email": "jzhao@caltech.edu"
     },
     "email_cor2": {
       "type": "email",
       "id": "email_cor2",
-      "node": "",
       "email": "baltimo@caltech.edu"
     },
     "info:copyright": {
@@ -491,8 +470,7 @@
     },
     "paragraph_15": {
       "type": "paragraph",
-      "id": "paragraph_15",
-      "content": ""
+      "id": "paragraph_15"
     },
     "heading_s1": {
       "type": "heading",
@@ -947,19 +925,12 @@
       "type": "image",
       "id": "image_fig1",
       "label": "Figure 1.",
-      "url": "",
-      "object_id": "F1",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00537/svg/elife00537f001.svg",
       "title": "Accelerated HSC decline and myeloproliferation in miR-146a–deficient mice during chronic inflammation.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00537.003",
       "caption": "paragraph_image_fig1",
-      "graphic_id": "elife00537f001"
+      "graphic_id": "elife00537f001",
+      "format": "image"
     },
     "paragraph_image_fig1": {
       "type": "paragraph",
@@ -1698,19 +1669,12 @@
       "type": "image",
       "id": "image_fig1s1",
       "label": "Figure 1—figure supplement 1.",
-      "url": "",
-      "object_id": "F2",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00537/svg/elife00537fs001.svg",
       "title": "HSPC FACS analysis and colony-forming ability in 6-week-old and 4-month-old WT and miR-146a KO mice.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig1"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00537.004",
       "caption": "paragraph_image_fig1s1",
-      "graphic_id": "elife00537fs001"
+      "graphic_id": "elife00537fs001",
+      "format": "image"
     },
     "paragraph_image_fig1s1": {
       "type": "paragraph",
@@ -2554,19 +2518,12 @@
       "type": "image",
       "id": "image_fig2",
       "label": "Figure 2.",
-      "url": "",
-      "object_id": "F3",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00537/svg/elife00537f002.svg",
       "title": "Progressive functional decline of miR-146a-deficient HSCs.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00537.005",
       "caption": "paragraph_image_fig2",
-      "graphic_id": "elife00537f002"
+      "graphic_id": "elife00537f002",
+      "format": "image"
     },
     "paragraph_image_fig2": {
       "type": "paragraph",
@@ -3162,19 +3119,12 @@
       "type": "image",
       "id": "image_fig2s1",
       "label": "Figure 2—figure supplement 1.",
-      "url": "",
-      "object_id": "F4",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00537/svg/elife00537fs002.svg",
       "title": "Functional decline of miR-146a-deficient HSCs.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig2"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00537.006",
       "caption": "paragraph_image_fig2s1",
-      "graphic_id": "elife00537fs002"
+      "graphic_id": "elife00537fs002",
+      "format": "image"
     },
     "paragraph_image_fig2s1": {
       "type": "paragraph",
@@ -3930,19 +3880,12 @@
       "type": "image",
       "id": "image_fig3",
       "label": "Figure 3.",
-      "url": "",
-      "object_id": "F5",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00537/svg/elife00537f003.svg",
       "title": "Hematopoietic-intrinsic and hematopoietic-extrinsic contribution to hematopoietic defects.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00537.007",
       "caption": "paragraph_image_fig3",
-      "graphic_id": "elife00537f003"
+      "graphic_id": "elife00537f003",
+      "format": "image"
     },
     "paragraph_image_fig3": {
       "type": "paragraph",
@@ -4694,19 +4637,12 @@
       "type": "image",
       "id": "image_fig3s1",
       "label": "Figure 3—figure supplement 1.",
-      "url": "",
-      "object_id": "F6",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00537/svg/elife00537fs003.svg",
       "title": "Hematopoietic-intrinsic and hematopoietic-extrinsic contribution to hematopoietic defects.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig3"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00537.008",
       "caption": "paragraph_image_fig3s1",
-      "graphic_id": "elife00537fs003"
+      "graphic_id": "elife00537fs003",
+      "format": "image"
     },
     "paragraph_image_fig3s1": {
       "type": "paragraph",
@@ -5527,19 +5463,12 @@
       "type": "image",
       "id": "image_fig4",
       "label": "Figure 4.",
-      "url": "",
-      "object_id": "F7",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00537/svg/elife00537f004.svg",
       "title": "MiR-146a-deficient lymphocytes contribute to the HSC defect and myeloproliferation.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00537.009",
       "caption": "paragraph_image_fig4",
-      "graphic_id": "elife00537f004"
+      "graphic_id": "elife00537f004",
+      "format": "image"
     },
     "paragraph_image_fig4": {
       "type": "paragraph",
@@ -6121,19 +6050,12 @@
       "type": "image",
       "id": "image_fig5",
       "label": "Figure 5.",
-      "url": "",
-      "object_id": "F8",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00537/svg/elife00537f005.svg",
       "title": "NF-κB regulates HSC homeostasis during chronic inflammation.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00537.010",
       "caption": "paragraph_image_fig5",
-      "graphic_id": "elife00537f005"
+      "graphic_id": "elife00537f005",
+      "format": "image"
     },
     "paragraph_image_fig5": {
       "type": "paragraph",
@@ -6859,19 +6781,12 @@
       "type": "image",
       "id": "image_fig5s1",
       "label": "Figure 5—figure supplement 1.",
-      "url": "",
-      "object_id": "F9",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00537/svg/elife00537fs004.svg",
       "title": "NF-κB activity in HSPCs and peripheral blood of NF-κB-GFP reporter mice.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig5"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00537.011",
       "caption": "paragraph_image_fig5s1",
-      "graphic_id": "elife00537fs004"
+      "graphic_id": "elife00537fs004",
+      "format": "image"
     },
     "paragraph_image_fig5s1": {
       "type": "paragraph",
@@ -7051,19 +6966,12 @@
       "type": "image",
       "id": "image_fig5s2",
       "label": "Figure 5—figure supplement 2.",
-      "url": "",
-      "object_id": "F10",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00537/svg/elife00537fs005.svg",
       "title": "NF-κB regulates HSPC homeostasis during chronic inflammation.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig5"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00537.012",
       "caption": "paragraph_image_fig5s2",
-      "graphic_id": "elife00537fs005"
+      "graphic_id": "elife00537fs005",
+      "format": "image"
     },
     "paragraph_image_fig5s2": {
       "type": "paragraph",
@@ -7956,19 +7864,12 @@
       "type": "image",
       "id": "image_fig6",
       "label": "Figure 6.",
-      "url": "",
-      "object_id": "F11",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00537/svg/elife00537f006.svg",
       "title": "NF-κB-regulated pro-inflammatory cytokine IL-6 is an important driver of HSC depletion and myeloproliferation.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00537.013",
       "caption": "paragraph_image_fig6",
-      "graphic_id": "elife00537f006"
+      "graphic_id": "elife00537f006",
+      "format": "image"
     },
     "paragraph_image_fig6": {
       "type": "paragraph",
@@ -8369,19 +8270,12 @@
       "type": "image",
       "id": "image_fig6s1",
       "label": "Figure 6—figure supplement 1.",
-      "url": "",
-      "object_id": "F12",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00537/svg/elife00537fs006.svg",
       "title": "NF-κB–regulated proinflammatory cytokine IL-6 is an important driver of HSC depletion and myeloproliferation.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig6"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00537.014",
       "caption": "paragraph_image_fig6s1",
-      "graphic_id": "elife00537fs006"
+      "graphic_id": "elife00537fs006",
+      "format": "image"
     },
     "paragraph_image_fig6s1": {
       "type": "paragraph",
@@ -9085,19 +8979,12 @@
       "type": "image",
       "id": "image_fig7",
       "label": "Figure 7.",
-      "url": "",
-      "object_id": "F13",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00537/svg/elife00537f007.svg",
       "title": "Analysis of cellular source and direct cellular target of IL-6.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00537.015",
       "caption": "paragraph_image_fig7",
-      "graphic_id": "elife00537f007"
+      "graphic_id": "elife00537f007",
+      "format": "image"
     },
     "paragraph_image_fig7": {
       "type": "paragraph",
@@ -9619,19 +9506,12 @@
       "type": "image",
       "id": "image_fig8",
       "label": "Figure 8.",
-      "url": "",
-      "object_id": "F14",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00537/svg/elife00537f008.svg",
       "title": "Derepression of TRAF6, a miR-146a target, is responsible for bone marrow failure.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00537.016",
       "caption": "paragraph_image_fig8",
-      "graphic_id": "elife00537f008"
+      "graphic_id": "elife00537f008",
+      "format": "image"
     },
     "paragraph_image_fig8": {
       "type": "paragraph",
@@ -9993,19 +9873,12 @@
       "type": "image",
       "id": "image_fig8s1",
       "label": "Figure 8—figure supplement 1.",
-      "url": "",
-      "object_id": "F15",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00537/svg/elife00537fs007.svg",
       "title": "Gene expression analysis of miR-146a targets in BM HSPCs.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig8"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00537.017",
       "caption": "paragraph_image_fig8s1",
-      "graphic_id": "elife00537fs007"
+      "graphic_id": "elife00537fs007",
+      "format": "image"
     },
     "paragraph_image_fig8s1": {
       "type": "paragraph",
@@ -11087,17 +10960,11 @@
       "year": "2009",
       "volume": "100",
       "source": "Br J Cancer",
-      "issue": "",
       "fpage": "822",
       "lpage": "8",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/sj.bjc.6604935",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib2": {
@@ -11129,17 +10996,11 @@
       "year": "2010",
       "volume": "465",
       "source": "Nature",
-      "issue": "",
       "fpage": "793",
       "lpage": "7",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nature09135",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib3": {
@@ -11155,17 +11016,11 @@
       "year": "2011",
       "volume": "12",
       "source": "Nat Immunol",
-      "issue": "",
       "fpage": "683",
       "lpage": "5",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/ni.2072",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib4": {
@@ -11193,17 +11048,11 @@
       "year": "2010",
       "volume": "22",
       "source": "Curr Opin Immunol",
-      "issue": "",
       "fpage": "500",
       "lpage": "6",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.coi.2010.06.007",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib5": {
@@ -11223,17 +11072,11 @@
       "year": "2012",
       "volume": "246",
       "source": "Immunol Rev",
-      "issue": "",
       "fpage": "205",
       "lpage": "20",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1111/j.1600-065X.2011.01089.x",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib6": {
@@ -11269,17 +11112,11 @@
       "year": "2011",
       "volume": "208",
       "source": "J Exp Med",
-      "issue": "",
       "fpage": "1189",
       "lpage": "201",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1084/jem.20101823",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib7": {
@@ -11307,17 +11144,11 @@
       "year": "1990",
       "volume": "86",
       "source": "J Clin Invest",
-      "issue": "",
       "fpage": "592",
       "lpage": "9",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1172/JCI114749",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib8": {
@@ -11353,17 +11184,11 @@
       "year": "2011",
       "volume": "186",
       "source": "J Immunol",
-      "issue": "",
       "fpage": "5367",
       "lpage": "75",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.4049/jimmunol.1003438",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib9": {
@@ -11399,17 +11224,11 @@
       "year": "2009",
       "volume": "458",
       "source": "Nature",
-      "issue": "",
       "fpage": "904",
       "lpage": "8",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nature07815",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib10": {
@@ -11445,17 +11264,11 @@
       "year": "2012",
       "volume": "1",
       "source": "Cell Rep",
-      "issue": "",
       "fpage": "317",
       "lpage": "24",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.celrep.2012.02.009",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib11": {
@@ -11491,17 +11304,11 @@
       "year": "2012",
       "volume": "246",
       "source": "Immunol Rev",
-      "issue": "",
       "fpage": "272",
       "lpage": "85",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1111/j.1600-065X.2011.01090.x",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib12": {
@@ -11537,17 +11344,11 @@
       "year": "2006",
       "volume": "25",
       "source": "Oncogene",
-      "issue": "",
       "fpage": "6781",
       "lpage": "99",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/sj.onc.1209944",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib13": {
@@ -11583,17 +11384,11 @@
       "year": "2009",
       "volume": "15",
       "source": "Cancer Cell",
-      "issue": "",
       "fpage": "103",
       "lpage": "13",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.ccr.2009.01.001",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib14": {
@@ -11629,17 +11424,11 @@
       "year": "2010",
       "volume": "107",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "14229",
       "lpage": "34",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1073/pnas.0913574107",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib15": {
@@ -11655,17 +11444,11 @@
       "year": "2012",
       "volume": "119",
       "source": "Blood",
-      "issue": "",
       "fpage": "3219",
       "lpage": "25",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1182/blood-2011-11-394775",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib16": {
@@ -11693,17 +11476,11 @@
       "year": "1992",
       "volume": "176",
       "source": "J Exp Med",
-      "issue": "",
       "fpage": "1149",
       "lpage": "63",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1084/jem.176.4.1149",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib17": {
@@ -11727,17 +11504,11 @@
       "year": "2009",
       "volume": "139",
       "source": "Cell",
-      "issue": "",
       "fpage": "693",
       "lpage": "706",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.cell.2009.10.014",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib18": {
@@ -11757,17 +11528,11 @@
       "year": "2011",
       "volume": "11",
       "source": "Nat Rev Immunol",
-      "issue": "",
       "fpage": "685",
       "lpage": "92",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nri3062",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib19": {
@@ -11803,17 +11568,11 @@
       "year": "2011",
       "volume": "29",
       "source": "J Clin Oncol",
-      "issue": "",
       "fpage": "2897",
       "lpage": "903",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1200/JCO.2011.34.8540",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib20": {
@@ -11849,17 +11608,11 @@
       "year": "2000",
       "volume": "289",
       "source": "Science",
-      "issue": "",
       "fpage": "2350",
       "lpage": "4",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1126/science.289.5488.2350",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib21": {
@@ -11887,17 +11640,11 @@
       "year": "2005",
       "volume": "5",
       "source": "Nat Rev Immunol",
-      "issue": "",
       "fpage": "446",
       "lpage": "58",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nri1630",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib22": {
@@ -11933,17 +11680,10 @@
       "year": "2009",
       "volume": "4",
       "source": "PLoS One",
-      "issue": "",
       "fpage": "e7413",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1371/journal.pone.0007413",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "annotation_814": {
@@ -11992,17 +11732,11 @@
       "year": "2010",
       "volume": "142",
       "source": "Cell",
-      "issue": "",
       "fpage": "914",
       "lpage": "29",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.cell.2010.08.012",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib24": {
@@ -12038,17 +11772,10 @@
       "year": "2004",
       "volume": "173",
       "source": "J Immunol",
-      "issue": "",
       "fpage": "1561",
       "lpage": "70",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib25": {
@@ -12076,17 +11803,11 @@
       "year": "2013",
       "volume": "83",
       "source": "Cytometry A",
-      "issue": "",
       "fpage": "27",
       "lpage": "37",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1002/cyto.a.22093",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib26": {
@@ -12122,17 +11843,11 @@
       "year": "2006",
       "volume": "24",
       "source": "Immunity",
-      "issue": "",
       "fpage": "801",
       "lpage": "12",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.immuni.2006.04.008",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib27": {
@@ -12156,17 +11871,11 @@
       "year": "2011",
       "volume": "8",
       "source": "Cell Mol Immunol",
-      "issue": "",
       "fpage": "388",
       "lpage": "403",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/cmi.2011.26",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib28": {
@@ -12186,17 +11895,11 @@
       "year": "2008",
       "volume": "14",
       "source": "Trends Mol Med",
-      "issue": "",
       "fpage": "109",
       "lpage": "19",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.molmed.2007.12.007",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib29": {
@@ -12210,19 +11913,12 @@
       ],
       "title": "MDS: a stem cell disorder–but what exactly is wrong with the primitive hematopoietic cells in this disease?",
       "year": "2008a",
-      "volume": "",
       "source": "Hematology Am Soc Hematol Educ Program",
-      "issue": "",
       "fpage": "43",
       "lpage": "51",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1182/asheducation-2008.1.43",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib30": {
@@ -12238,17 +11934,11 @@
       "year": "2008b",
       "volume": "111",
       "source": "Blood",
-      "issue": "",
       "fpage": "4841",
       "lpage": "51",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1182/blood-2007-08-078139",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib31": {
@@ -12276,17 +11966,11 @@
       "year": "2009",
       "volume": "106",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "7113",
       "lpage": "8",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1073/pnas.0902636106",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib32": {
@@ -12322,17 +12006,11 @@
       "year": "2010",
       "volume": "107",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "14235",
       "lpage": "40",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1073/pnas.1009798107",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib33": {
@@ -12352,17 +12030,11 @@
       "year": "2009",
       "volume": "9",
       "source": "Nat Rev Cancer",
-      "issue": "",
       "fpage": "57",
       "lpage": "63",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nrc2541",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib34": {
@@ -12398,17 +12070,11 @@
       "year": "2011",
       "volume": "20",
       "source": "Cancer Cell",
-      "issue": "",
       "fpage": "661",
       "lpage": "73",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.ccr.2011.10.012",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib35": {
@@ -12428,17 +12094,11 @@
       "year": "2012",
       "volume": "26",
       "source": "Leukemia",
-      "issue": "",
       "fpage": "13",
       "lpage": "22",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/leu.2011.221",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib36": {
@@ -12454,17 +12114,11 @@
       "year": "2011",
       "volume": "12",
       "source": "Nat Immunol",
-      "issue": "",
       "fpage": "709",
       "lpage": "14",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/ni.2055",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib37": {
@@ -12500,17 +12154,11 @@
       "year": "2008",
       "volume": "7",
       "source": "Ageing Res Rev",
-      "issue": "",
       "fpage": "83",
       "lpage": "105",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.arr.2007.09.002",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib38": {
@@ -12530,17 +12178,11 @@
       "year": "2010",
       "volume": "2",
       "source": "Wiley Interdiscip Rev Syst Biol Med",
-      "issue": "",
       "fpage": "640",
       "lpage": "53",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1002/wsbm.86",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib39": {
@@ -12576,17 +12218,11 @@
       "year": "2008",
       "volume": "100",
       "source": "J Natl Cancer Inst",
-      "issue": "",
       "fpage": "1542",
       "lpage": "51",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1093/jnci/djn349",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib40": {
@@ -12622,17 +12258,11 @@
       "year": "2010",
       "volume": "16",
       "source": "Nat Med",
-      "issue": "",
       "fpage": "49",
       "lpage": "58",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nm.2054",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib41": {
@@ -12668,17 +12298,11 @@
       "year": "2012",
       "volume": "209",
       "source": "J Exp Med",
-      "issue": "",
       "fpage": "1655",
       "lpage": "70",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1084/jem.20112218",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib42": {
@@ -12714,17 +12338,11 @@
       "year": "2010",
       "volume": "116",
       "source": "Blood",
-      "issue": "",
       "fpage": "2462",
       "lpage": "71",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1182/blood-2009-12-259630",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib43": {
@@ -12760,17 +12378,11 @@
       "year": "1998",
       "volume": "188",
       "source": "J Exp Med",
-      "issue": "",
       "fpage": "1173",
       "lpage": "84",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1073/pnas.88.23.10638",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib44": {
@@ -12806,17 +12418,11 @@
       "year": "2012",
       "volume": "30",
       "source": "Stem Cells",
-      "issue": "",
       "fpage": "709",
       "lpage": "18",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1002/stem.1050",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib45": {
@@ -12852,17 +12458,11 @@
       "year": "2011",
       "volume": "108",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "9184",
       "lpage": "9",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1073/pnas.1105398108",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "sub-article": {

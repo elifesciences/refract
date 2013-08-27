@@ -97,28 +97,22 @@
         "paragraph_1088",
         "heading_s4-13",
         "paragraph_1089",
-        "paragraph_1094",
-        "paragraph_1096",
-        "paragraph_1098",
-        "paragraph_1100",
-        "paragraph_1102",
-        "paragraph_1104",
-        "paragraph_1106",
+        "list_1093",
         "heading_s4-14",
-        "paragraph_1108",
+        "paragraph_1110",
         "heading_s4-15",
         "heading_s4-15-1",
-        "paragraph_1115",
-        "heading_s4-15-2",
-        "paragraph_1116",
-        "heading_s4-15-3",
         "paragraph_1117",
-        "heading_s4-15-4",
+        "heading_s4-15-2",
         "paragraph_1118",
-        "heading_s4-16",
+        "heading_s4-15-3",
         "paragraph_1119",
+        "heading_s4-15-4",
+        "paragraph_1120",
+        "heading_s4-16",
+        "paragraph_1121",
         "heading_s4-17",
-        "paragraph_1127",
+        "paragraph_1129",
         "sub-article",
         "sub-article"
       ]
@@ -269,7 +263,6 @@
       "accepted_on": "2012-10-18",
       "published_on": "2012-12-18",
       "journal": "eLife",
-      "article_type": "",
       "keywords": [
         "meiosis",
         "cyclin-dependent kinase",
@@ -285,10 +278,9 @@
         "Cell biology",
         "Genes and chromosomes"
       ],
-      "pdf_link": "",
-      "xml_link": "",
-      "json_link": "",
-      "doi": ""
+      "xml_link": "https://s3.amazonaws.com/elife-cdn/elife-articles/00117/elife00117.xml",
+      "json_link": "https://s3.amazonaws.com/elife-cdn/elife-articles/00117/00117.json",
+      "doi": "http://dx.doi.org/10.7554/eLife.00117"
     },
     "person_author_1843": {
       "type": "person",
@@ -297,9 +289,7 @@
       "last-name": "Miller",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article",
-      "email": "",
       "funding": []
     },
     "person_author_1846": {
@@ -309,9 +299,7 @@
       "last-name": "Ünal",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article;",
-      "email": "",
       "funding": [
         "funding_par_3"
       ]
@@ -323,9 +311,7 @@
       "last-name": "Brar",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Acquisition of data, Analysis and interpretation of data, Drafting or revising the article;",
-      "email": "",
       "funding": [
         "funding_par_4"
       ]
@@ -337,7 +323,6 @@
       "last-name": "Amon",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Analysis and interpretation of data, Drafting or revising the article",
       "email": "email_cor1",
       "funding": [
@@ -350,18 +335,14 @@
       "id": "institution_aff1",
       "name": "Massachusetts Institute of Technology",
       "city": "Cambridge",
-      "country": "United States",
-      "email": "",
-      "image": ""
+      "country": "United States"
     },
     "institution_aff2": {
       "type": "institution",
       "id": "institution_aff2",
       "name": "University of California, San Francisco",
       "city": "San Francisco",
-      "country": "United States",
-      "email": "",
-      "image": ""
+      "country": "United States"
     },
     "person_1": {
       "type": "person",
@@ -370,9 +351,6 @@
       "last-name": "Botchan",
       "role": "editor",
       "affiliations": [],
-      "image": "",
-      "contribution": "",
-      "email": "",
       "funding": []
     },
     "info:review": {
@@ -388,15 +366,11 @@
       "type": "institution",
       "id": "institution_2",
       "name": "University of California-Berkeley",
-      "city": "",
-      "country": "United States",
-      "email": "",
-      "image": ""
+      "country": "United States"
     },
     "email_cor1": {
       "type": "email",
       "id": "email_cor1",
-      "node": "",
       "email": "angelika@mit.edu"
     },
     "info:copyright": {
@@ -534,7 +508,6 @@
       "type": "funding",
       "id": "funding_par_1",
       "institution": "Howard Hughes Medical Institute",
-      "accession": "",
       "person": "person_author_1825",
       "given-names": "Angelika",
       "last-name": "Amon"
@@ -552,7 +525,6 @@
       "type": "funding",
       "id": "funding_par_3",
       "institution": "Jane Coffin Childs Memorial Fund",
-      "accession": "",
       "person": "person_author_1846",
       "given-names": "Elçin",
       "last-name": "Ünal"
@@ -561,7 +533,6 @@
       "type": "funding",
       "id": "funding_par_4",
       "institution": "American Cancer Society",
-      "accession": "",
       "person": "person_author_1845",
       "given-names": "Gloria A",
       "last-name": "Brar"
@@ -577,8 +548,7 @@
     },
     "paragraph_17": {
       "type": "paragraph",
-      "id": "paragraph_17",
-      "content": ""
+      "id": "paragraph_17"
     },
     "heading_s1": {
       "type": "heading",
@@ -1407,19 +1377,12 @@
       "type": "image",
       "id": "image_fig1",
       "label": "Figure 1.",
-      "url": "",
-      "object_id": "F1",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00117/svg/elife00117f001.svg",
       "title": "Characterization of premature cyclin expression and corresponding total CDK activity.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00117.003",
       "caption": "paragraph_image_fig1",
-      "graphic_id": "elife00117f001"
+      "graphic_id": "elife00117f001",
+      "format": "image"
     },
     "paragraph_image_fig1": {
       "type": "paragraph",
@@ -2254,19 +2217,12 @@
       "type": "image",
       "id": "image_fig2",
       "label": "Figure 2.",
-      "url": "",
-      "object_id": "F2",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00117/svg/elife00117f002.svg",
       "title": "Premature expression of CLB1 or CLB3 causes sister kinetochore biorientation during prophase I and sister chromatid segregation in meiosis I.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00117.004",
       "caption": "paragraph_image_fig2",
-      "graphic_id": "elife00117f002"
+      "graphic_id": "elife00117f002",
+      "format": "image"
     },
     "paragraph_image_fig2": {
       "type": "paragraph",
@@ -2914,19 +2870,12 @@
       "type": "image",
       "id": "image_fig2s1",
       "label": "Figure 2—figure supplement 1.",
-      "url": "",
-      "object_id": "F3",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00117/svg/elife00117fs001.svg",
       "title": "Spindle pole body separation in CUP-CLB cells.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig2"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00117.005",
       "caption": "paragraph_image_fig2s1",
-      "graphic_id": "elife00117fs001"
+      "graphic_id": "elife00117fs001",
+      "format": "image"
     },
     "paragraph_image_fig2s1": {
       "type": "paragraph",
@@ -3054,19 +3003,12 @@
       "type": "image",
       "id": "image_fig2s2",
       "label": "Figure 2—figure supplement 2.",
-      "url": "",
-      "object_id": "F4",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00117/svg/elife00117fs002.svg",
       "title": "Homolog separation in CUP-CLB4 cells.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig2"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00117.006",
       "caption": "paragraph_image_fig2s2",
-      "graphic_id": "elife00117fs002"
+      "graphic_id": "elife00117fs002",
+      "format": "image"
     },
     "paragraph_image_fig2s2": {
       "type": "paragraph",
@@ -3181,19 +3123,12 @@
       "type": "image",
       "id": "image_fig2s3",
       "label": "Figure 2—figure supplement 3.",
-      "url": "",
-      "object_id": "F5",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00117/svg/elife00117fs003.svg",
       "title": "Chromosome III sister chromatid segregation in CUP-CLB3 cells.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig2"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00117.007",
       "caption": "paragraph_image_fig2s3",
-      "graphic_id": "elife00117fs003"
+      "graphic_id": "elife00117fs003",
+      "format": "image"
     },
     "paragraph_image_fig2s3": {
       "type": "paragraph",
@@ -3360,19 +3295,12 @@
       "type": "image",
       "id": "image_fig2s4",
       "label": "Figure 2—figure supplement 4.",
-      "url": "",
-      "object_id": "F6",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00117/svg/elife00117fs004.svg",
       "title": "Sister chromatid segregation in CUP-CLB3 cells using dual-color marked chromosomes.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig2"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00117.008",
       "caption": "paragraph_image_fig2s4",
-      "graphic_id": "elife00117fs004"
+      "graphic_id": "elife00117fs004",
+      "format": "image"
     },
     "paragraph_image_fig2s4": {
       "type": "paragraph",
@@ -3461,19 +3389,12 @@
       "type": "image",
       "id": "image_fig2s5",
       "label": "Figure 2—figure supplement 5.",
-      "url": "",
-      "object_id": "F7",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00117/svg/elife00117fs005.svg",
       "title": "Recombination in CUP-CLB3 cells.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig2"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00117.009",
       "caption": "paragraph_image_fig2s5",
-      "graphic_id": "elife00117fs005"
+      "graphic_id": "elife00117fs005",
+      "format": "image"
     },
     "paragraph_image_fig2s5": {
       "type": "paragraph",
@@ -3523,19 +3444,12 @@
       "type": "image",
       "id": "image_fig2s6",
       "label": "Figure 2—figure supplement 6.",
-      "url": "",
-      "object_id": "F8",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00117/svg/elife00117fs006.svg",
       "title": "Localization of Rad51 in CUP-CLB3 cells.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig2"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00117.010",
       "caption": "paragraph_image_fig2s6",
-      "graphic_id": "elife00117fs006"
+      "graphic_id": "elife00117fs006",
+      "format": "image"
     },
     "paragraph_image_fig2s6": {
       "type": "paragraph",
@@ -3585,19 +3499,12 @@
       "type": "image",
       "id": "image_fig2s7",
       "label": "Figure 2—figure supplement 7.",
-      "url": "",
-      "object_id": "F9",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00117/svg/elife00117fs007.svg",
       "title": "Localization of Zip1 in CUP-CLB3 cells.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig2"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00117.011",
       "caption": "paragraph_image_fig2s7",
-      "graphic_id": "elife00117fs007"
+      "graphic_id": "elife00117fs007",
+      "format": "image"
     },
     "paragraph_image_fig2s7": {
       "type": "paragraph",
@@ -3647,19 +3554,12 @@
       "type": "image",
       "id": "image_fig2s8",
       "label": "Figure 2—figure supplement 8.",
-      "url": "",
-      "object_id": "F10",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00117/svg/elife00117fs008.svg",
       "title": "Preventing homologous recombination does not affect the phenotypes caused by premature CLB3 expression.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig2"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00117.012",
       "caption": "paragraph_image_fig2s8",
-      "graphic_id": "elife00117fs008"
+      "graphic_id": "elife00117fs008",
+      "format": "image"
     },
     "paragraph_image_fig2s8": {
       "type": "paragraph",
@@ -4689,19 +4589,12 @@
       "type": "image",
       "id": "image_fig3",
       "label": "Figure 3.",
-      "url": "",
-      "object_id": "F11",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00117/svg/elife00117f003.svg",
       "title": "Premature CLB3 expression disrupts monopolin function.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00117.013",
       "caption": "paragraph_image_fig3",
-      "graphic_id": "elife00117f003"
+      "graphic_id": "elife00117f003",
+      "format": "image"
     },
     "paragraph_image_fig3": {
       "type": "paragraph",
@@ -4881,19 +4774,12 @@
       "type": "image",
       "id": "image_fig3s1",
       "label": "Figure 3—figure supplement 1.",
-      "url": "",
-      "object_id": "F12",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00117/svg/elife00117fs009.svg",
       "title": "Monopolin association with kinetochores is disrupted in CUP-CLB3 but not in CUP-CLB4 cells.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig3"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00117.014",
       "caption": "paragraph_image_fig3s1",
-      "graphic_id": "elife00117fs009"
+      "graphic_id": "elife00117fs009",
+      "format": "image"
     },
     "paragraph_image_fig3s1": {
       "type": "paragraph",
@@ -5034,19 +4920,12 @@
       "type": "image",
       "id": "image_fig3s2",
       "label": "Figure 3—figure supplement 2.",
-      "url": "",
-      "object_id": "F13",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00117/svg/elife00117fs010.svg",
       "title": "Premature Clb3 expression does not interfere with Mam1 expression.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig3"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00117.015",
       "caption": "paragraph_image_fig3s2",
-      "graphic_id": "elife00117fs010"
+      "graphic_id": "elife00117fs010",
+      "format": "image"
     },
     "paragraph_image_fig3s2": {
       "type": "paragraph",
@@ -5109,19 +4988,12 @@
       "type": "image",
       "id": "image_fig3s3",
       "label": "Figure 3—figure supplement 3.",
-      "url": "",
-      "object_id": "F14",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00117/svg/elife00117fs011.svg",
       "title": "Lrs4 phosphorylation is not disrupted in CUP-CLB4 cells.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig3"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00117.016",
       "caption": "paragraph_image_fig3s3",
-      "graphic_id": "elife00117fs011"
+      "graphic_id": "elife00117fs011",
+      "format": "image"
     },
     "paragraph_image_fig3s3": {
       "type": "paragraph",
@@ -5274,19 +5146,12 @@
       "type": "image",
       "id": "image_fig4",
       "label": "Figure 4.",
-      "url": "",
-      "object_id": "F15",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00117/svg/elife00117f004.svg",
       "title": "CLB3 misexpression disrupts protection of centromeric cohesin.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00117.017",
       "caption": "paragraph_image_fig4",
-      "graphic_id": "elife00117f004"
+      "graphic_id": "elife00117f004",
+      "format": "image"
     },
     "paragraph_image_fig4": {
       "type": "paragraph",
@@ -5999,19 +5864,12 @@
       "type": "image",
       "id": "image_fig4s1",
       "label": "Figure 4—figure supplement 1.",
-      "url": "",
-      "object_id": "F16",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00117/svg/elife00117fs012.svg",
       "title": "Chromosomal association of Rec8 in CUP-CLB3 cells.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig4"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00117.018",
       "caption": "paragraph_image_fig4s1",
-      "graphic_id": "elife00117fs012"
+      "graphic_id": "elife00117fs012",
+      "format": "image"
     },
     "paragraph_image_fig4s1": {
       "type": "paragraph",
@@ -6061,19 +5919,12 @@
       "type": "image",
       "id": "image_fig4s2",
       "label": "Figure 4—figure supplement 2.",
-      "url": "",
-      "object_id": "F17",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00117/svg/elife00117fs013.svg",
       "title": "Chromosomal association of Pds5 in CUP-CLB3 cells.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig4"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00117.019",
       "caption": "paragraph_image_fig4s2",
-      "graphic_id": "elife00117fs013"
+      "graphic_id": "elife00117fs013",
+      "format": "image"
     },
     "paragraph_image_fig4s2": {
       "type": "paragraph",
@@ -6136,19 +5987,12 @@
       "type": "image",
       "id": "image_fig4s3",
       "label": "Figure 4—figure supplement 3.",
-      "url": "",
-      "object_id": "F18",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00117/svg/elife00117fs014.svg",
       "title": "CUP-CLB3 cells partially bypass the nuclear division delay of mam1∆ cells.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig4"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00117.020",
       "caption": "paragraph_image_fig4s3",
-      "graphic_id": "elife00117fs014"
+      "graphic_id": "elife00117fs014",
+      "format": "image"
     },
     "paragraph_image_fig4s3": {
       "type": "paragraph",
@@ -6276,19 +6120,12 @@
       "type": "image",
       "id": "image_fig4s4",
       "label": "Figure 4—figure supplement 4.",
-      "url": "",
-      "object_id": "F19",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00117/svg/elife00117fs015.svg",
       "title": "Meiotic progression of the cells analyzed for Rec8 cleavage in Figure 4C.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig4"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00117.021",
       "caption": "paragraph_image_fig4s4",
-      "graphic_id": "elife00117fs015"
+      "graphic_id": "elife00117fs015",
+      "format": "image"
     },
     "paragraph_image_fig4s4": {
       "type": "paragraph",
@@ -6416,19 +6253,12 @@
       "type": "image",
       "id": "image_fig4s5",
       "label": "Figure 4—figure supplement 5.",
-      "url": "",
-      "object_id": "F20",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00117/svg/elife00117fs016.svg",
       "title": "Analysis of Rec8 cleavage in cells used for Figure 4D.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig4"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00117.022",
       "caption": "paragraph_image_fig4s5",
-      "graphic_id": "elife00117fs016"
+      "graphic_id": "elife00117fs016",
+      "format": "image"
     },
     "paragraph_image_fig4s5": {
       "type": "paragraph",
@@ -6543,19 +6373,12 @@
       "type": "image",
       "id": "image_fig4s6",
       "label": "Figure 4—figure supplement 6.",
-      "url": "",
-      "object_id": "F21",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00117/svg/elife00117fs017.svg",
       "title": "Meiotic progression of the cells analyzed for Rec8 cleavage in Figure 4D.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig4"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00117.023",
       "caption": "paragraph_image_fig4s6",
-      "graphic_id": "elife00117fs017"
+      "graphic_id": "elife00117fs017",
+      "format": "image"
     },
     "paragraph_image_fig4s6": {
       "type": "paragraph",
@@ -6670,19 +6493,12 @@
       "type": "image",
       "id": "image_fig4s7",
       "label": "Figure 4—figure supplement 7.",
-      "url": "",
-      "object_id": "F22",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00117/svg/elife00117fs018.svg",
       "title": "Chromosomal association of Sgo1 in CUP-CLB3 cells.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig4"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00117.024",
       "caption": "paragraph_image_fig4s7",
-      "graphic_id": "elife00117fs018"
+      "graphic_id": "elife00117fs018",
+      "format": "image"
     },
     "paragraph_image_fig4s7": {
       "type": "paragraph",
@@ -6745,19 +6561,12 @@
       "type": "image",
       "id": "image_fig4s8",
       "label": "Figure 4—figure supplement 8.",
-      "url": "",
-      "object_id": "F23",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00117/svg/elife00117fs019.svg",
       "title": "Localization of Rts1 in CUP-CLB3 cells.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig4"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00117.025",
       "caption": "paragraph_image_fig4s8",
-      "graphic_id": "elife00117fs019"
+      "graphic_id": "elife00117fs019",
+      "format": "image"
     },
     "paragraph_image_fig4s8": {
       "type": "paragraph",
@@ -6820,19 +6629,12 @@
       "type": "image",
       "id": "image_fig4s9",
       "label": "Figure 4—figure supplement 9.",
-      "url": "",
-      "object_id": "F24",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00117/svg/elife00117fs020.svg",
       "title": "Chromosomal association of Spo13 in CUP-CLB3 cells.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig4"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00117.026",
       "caption": "paragraph_image_fig4s9",
-      "graphic_id": "elife00117fs020"
+      "graphic_id": "elife00117fs020",
+      "format": "image"
     },
     "paragraph_image_fig4s9": {
       "type": "paragraph",
@@ -6973,19 +6775,12 @@
       "type": "image",
       "id": "image_fig4s10",
       "label": "Figure 4—figure supplement 10.",
-      "url": "",
-      "object_id": "F25",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00117/svg/elife00117fs021.svg",
       "title": "Rts1 localization in binucleate CUP-CLB3 cells.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig4"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00117.027",
       "caption": "paragraph_image_fig4s10",
-      "graphic_id": "elife00117fs021"
+      "graphic_id": "elife00117fs021",
+      "format": "image"
     },
     "paragraph_image_fig4s10": {
       "type": "paragraph",
@@ -7061,19 +6856,12 @@
       "type": "image",
       "id": "image_fig4s11",
       "label": "Figure 4—figure supplement 11.",
-      "url": "",
-      "object_id": "F26",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00117/svg/elife00117fs022.svg",
       "title": "Analysis of Rts1 localization in Rec8 phosphomimetic mutants.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig4"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00117.028",
       "caption": "paragraph_image_fig4s11",
-      "graphic_id": "elife00117fs022"
+      "graphic_id": "elife00117fs022",
+      "format": "image"
     },
     "paragraph_image_fig4s11": {
       "type": "paragraph",
@@ -8272,19 +8060,12 @@
       "type": "image",
       "id": "image_fig5",
       "label": "Figure 5.",
-      "url": "",
-      "object_id": "F27",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00117/svg/elife00117f005.svg",
       "title": "Transient disruption of microtubule–kinetochore interactions suppresses the chromosome segregation defects in CUP-CLB3 cells.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00117.029",
       "caption": "paragraph_image_fig5",
-      "graphic_id": "elife00117f005"
+      "graphic_id": "elife00117f005",
+      "format": "image"
     },
     "paragraph_image_fig5": {
       "type": "paragraph",
@@ -8893,19 +8674,12 @@
       "type": "image",
       "id": "image_fig5s1",
       "label": "Figure 5—figure supplement 1.",
-      "url": "",
-      "object_id": "F28",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00117/svg/elife00117fs023.svg",
       "title": "Sporulation efficiency of ndc80-1 mutants.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig5"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00117.030",
       "caption": "paragraph_image_fig5s1",
-      "graphic_id": "elife00117fs023"
+      "graphic_id": "elife00117fs023",
+      "format": "image"
     },
     "paragraph_image_fig5s1": {
       "type": "paragraph",
@@ -8942,19 +8716,12 @@
       "type": "image",
       "id": "image_fig5s2",
       "label": "Figure 5—figure supplement 2.",
-      "url": "",
-      "object_id": "F29",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00117/svg/elife00117fs024.svg",
       "title": "Sister kinetochore coorientation in ndc80-1 cells under a continuous inactivation regime at 34°C during a metaphase I arrest.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig5"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00117.031",
       "caption": "paragraph_image_fig5s2",
-      "graphic_id": "elife00117fs024"
+      "graphic_id": "elife00117fs024",
+      "format": "image"
     },
     "paragraph_image_fig5s2": {
       "type": "paragraph",
@@ -9082,19 +8849,12 @@
       "type": "image",
       "id": "image_fig5s3",
       "label": "Figure 5—figure supplement 3.",
-      "url": "",
-      "object_id": "F30",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00117/svg/elife00117fs025.svg",
       "title": "Sister kinetochore coorientation in ndc80-1 cells after transient inactivation regime at 34°C during a metaphase I arrest.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig5"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00117.032",
       "caption": "paragraph_image_fig5s3",
-      "graphic_id": "elife00117fs025"
+      "graphic_id": "elife00117fs025",
+      "format": "image"
     },
     "paragraph_image_fig5s3": {
       "type": "paragraph",
@@ -9274,19 +9034,12 @@
       "type": "image",
       "id": "image_fig5s4",
       "label": "Figure 5—figure supplement 4.",
-      "url": "",
-      "object_id": "F31",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00117/svg/elife00117fs026.svg",
       "title": "Meiosis I chromosome segregation in ndc80-1 cells after a transient inactivation regime at 34°C.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig5"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00117.033",
       "caption": "paragraph_image_fig5s4",
-      "graphic_id": "elife00117fs026"
+      "graphic_id": "elife00117fs026",
+      "format": "image"
     },
     "paragraph_image_fig5s4": {
       "type": "paragraph",
@@ -9466,19 +9219,12 @@
       "type": "image",
       "id": "image_fig5s5",
       "label": "Figure 5—figure supplement 5.",
-      "url": "",
-      "object_id": "F32",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00117/svg/elife00117fs027.svg",
       "title": "Transient disruption of microtubule–kinetochore interactions using dam1-1 allele restores meiosis I chromosome segregation in CUP-CLB3 cells.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig5"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00117.034",
       "caption": "paragraph_image_fig5s5",
-      "graphic_id": "elife00117fs027"
+      "graphic_id": "elife00117fs027",
+      "format": "image"
     },
     "paragraph_image_fig5s5": {
       "type": "paragraph",
@@ -9645,19 +9391,12 @@
       "type": "image",
       "id": "image_fig5s6",
       "label": "Figure 5—figure supplement 6.",
-      "url": "",
-      "object_id": "F33",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00117/svg/elife00117fs028.svg",
       "title": "Transient disruption of microtubule–kinetochore interactions by benomyl treatment restores meiosis I chromosome segregation in CUP-CLB3 cells.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig5"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00117.035",
       "caption": "paragraph_image_fig5s6",
-      "graphic_id": "elife00117fs028"
+      "graphic_id": "elife00117fs028",
+      "format": "image"
     },
     "paragraph_image_fig5s6": {
       "type": "paragraph",
@@ -9798,19 +9537,12 @@
       "type": "image",
       "id": "image_fig5s7",
       "label": "Figure 5—figure supplement 7.",
-      "url": "",
-      "object_id": "F34",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00117/svg/elife00117fs029.svg",
       "title": "Transient disruption of microtubule–kinetochore interactions during S phase/prophase I suppresses CUP-CLB3-induced meiosis I sister chromatid segregation in a spindle assembly checkpoint independent manner.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig5"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00117.036",
       "caption": "paragraph_image_fig5s7",
-      "graphic_id": "elife00117fs029"
+      "graphic_id": "elife00117fs029",
+      "format": "image"
     },
     "paragraph_image_fig5s7": {
       "type": "paragraph",
@@ -10276,19 +10008,12 @@
       "type": "image",
       "id": "image_fig5s8",
       "label": "Figure 5—figure supplement 8.",
-      "url": "",
-      "object_id": "F35",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00117/svg/elife00117fs030.svg",
       "title": "Transient disruption of microtubule–kinetochore interactions during S phase/prophase I restores meiotic chromosome segregation in CUP-CLB3 cells in a spindle assembly checkpoint independent manner.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig5"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00117.037",
       "caption": "paragraph_image_fig5s8",
-      "graphic_id": "elife00117fs030"
+      "graphic_id": "elife00117fs030",
+      "format": "image"
     },
     "paragraph_image_fig5s8": {
       "type": "paragraph",
@@ -10455,19 +10180,12 @@
       "type": "image",
       "id": "image_fig5s9",
       "label": "Figure 5—figure supplement 9.",
-      "url": "",
-      "object_id": "F36",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00117/svg/elife00117fs031.svg",
       "title": "Transient ndc80-1 inactivation does not alter in vitro Cdk1 activity.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig5"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00117.038",
       "caption": "paragraph_image_fig5s9",
-      "graphic_id": "elife00117fs031"
+      "graphic_id": "elife00117fs031",
+      "format": "image"
     },
     "paragraph_image_fig5s9": {
       "type": "paragraph",
@@ -11302,19 +11020,12 @@
       "type": "image",
       "id": "image_fig6",
       "label": "Figure 6.",
-      "url": "",
-      "object_id": "F37",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00117/svg/elife00117f006.svg",
       "title": "Meiosis I sister chromatid segregation correlates with presence of outer kinetochore components.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00117.039",
       "caption": "paragraph_image_fig6",
-      "graphic_id": "elife00117f006"
+      "graphic_id": "elife00117f006",
+      "format": "image"
     },
     "paragraph_image_fig6": {
       "type": "paragraph",
@@ -11572,19 +11283,12 @@
       "type": "image",
       "id": "image_fig6s1",
       "label": "Figure 6—figure supplement 1.",
-      "url": "",
-      "object_id": "F38",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00117/svg/elife00117fs032.svg",
       "title": "Schematic representation of the kinetochore–microtubule interface.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig6"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00117.040",
       "caption": "paragraph_image_fig6s1",
-      "graphic_id": "elife00117fs032"
+      "graphic_id": "elife00117fs032",
+      "format": "image"
     },
     "paragraph_image_fig6s1": {
       "type": "paragraph",
@@ -11595,19 +11299,12 @@
       "type": "image",
       "id": "image_fig6s2",
       "label": "Figure 6—figure supplement 2.",
-      "url": "",
-      "object_id": "F39",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00117/svg/elife00117fs033.svg",
       "title": "Meiotic cluster analysis of kinetochore components.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig6"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00117.041",
       "caption": "paragraph_image_fig6s2",
-      "graphic_id": "elife00117fs033"
+      "graphic_id": "elife00117fs033",
+      "format": "image"
     },
     "paragraph_image_fig6s2": {
       "type": "paragraph",
@@ -11631,19 +11328,12 @@
       "type": "image",
       "id": "image_fig6s3",
       "label": "Figure 6—figure supplement 3.",
-      "url": "",
-      "object_id": "F40",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00117/svg/elife00117fs034.svg",
       "title": "Meiotic expression of DASH complex subunits.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig6"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00117.042",
       "caption": "paragraph_image_fig6s3",
-      "graphic_id": "elife00117fs034"
+      "graphic_id": "elife00117fs034",
+      "format": "image"
     },
     "paragraph_image_fig6s3": {
       "type": "paragraph",
@@ -11680,19 +11370,12 @@
       "type": "image",
       "id": "image_fig6s4",
       "label": "Figure 6—figure supplement 4.",
-      "url": "",
-      "object_id": "F41",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00117/svg/elife00117fs035.svg",
       "title": "Meiotic expression of Ndc80 complex subunits.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig6"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00117.043",
       "caption": "paragraph_image_fig6s4",
-      "graphic_id": "elife00117fs035"
+      "graphic_id": "elife00117fs035",
+      "format": "image"
     },
     "paragraph_image_fig6s4": {
       "type": "paragraph",
@@ -11729,19 +11412,12 @@
       "type": "image",
       "id": "image_fig6s5",
       "label": "Figure 6—figure supplement 5.",
-      "url": "",
-      "object_id": "F42",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00117/svg/elife00117fs036.svg",
       "title": "Meiotic expression of Mif2.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig6"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00117.044",
       "caption": "paragraph_image_fig6s5",
-      "graphic_id": "elife00117fs036"
+      "graphic_id": "elife00117fs036",
+      "format": "image"
     },
     "paragraph_image_fig6s5": {
       "type": "paragraph",
@@ -11778,19 +11454,12 @@
       "type": "image",
       "id": "image_fig6s6",
       "label": "Figure 6—figure supplement 6.",
-      "url": "",
-      "object_id": "F43",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00117/svg/elife00117fs037.svg",
       "title": "Meiotic expression of KNL-1 complex subunits.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig6"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00117.045",
       "caption": "paragraph_image_fig6s6",
-      "graphic_id": "elife00117fs037"
+      "graphic_id": "elife00117fs037",
+      "format": "image"
     },
     "paragraph_image_fig6s6": {
       "type": "paragraph",
@@ -11827,19 +11496,12 @@
       "type": "image",
       "id": "image_fig6s7",
       "label": "Figure 6—figure supplement 7.",
-      "url": "",
-      "object_id": "F44",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00117/svg/elife00117fs038.svg",
       "title": "Meiotic expression of Mis12 complex subunits.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig6"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00117.046",
       "caption": "paragraph_image_fig6s7",
-      "graphic_id": "elife00117fs038"
+      "graphic_id": "elife00117fs038",
+      "format": "image"
     },
     "paragraph_image_fig6s7": {
       "type": "paragraph",
@@ -11876,19 +11538,12 @@
       "type": "image",
       "id": "image_fig6s8",
       "label": "Figure 6—figure supplement 8.",
-      "url": "",
-      "object_id": "F45",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00117/svg/elife00117fs039.svg",
       "title": "Meiotic expression of Ctf19 complex subunits.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig6"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00117.047",
       "caption": "paragraph_image_fig6s8",
-      "graphic_id": "elife00117fs039"
+      "graphic_id": "elife00117fs039",
+      "format": "image"
     },
     "paragraph_image_fig6s8": {
       "type": "paragraph",
@@ -11925,19 +11580,12 @@
       "type": "image",
       "id": "image_fig6s9",
       "label": "Figure 6—figure supplement 9.",
-      "url": "",
-      "object_id": "F46",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00117/svg/elife00117fs040.svg",
       "title": "Meiotic expression of Cbf3 complex subunits.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig6"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00117.048",
       "caption": "paragraph_image_fig6s9",
-      "graphic_id": "elife00117fs040"
+      "graphic_id": "elife00117fs040",
+      "format": "image"
     },
     "paragraph_image_fig6s9": {
       "type": "paragraph",
@@ -11974,19 +11622,12 @@
       "type": "image",
       "id": "image_fig6s10",
       "label": "Figure 6—figure supplement 10.",
-      "url": "",
-      "object_id": "F47",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00117/svg/elife00117fs041.svg",
       "title": "Meiotic expression of Histone subunits.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig6"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00117.049",
       "caption": "paragraph_image_fig6s10",
-      "graphic_id": "elife00117fs041"
+      "graphic_id": "elife00117fs041",
+      "format": "image"
     },
     "paragraph_image_fig6s10": {
       "type": "paragraph",
@@ -12023,19 +11664,12 @@
       "type": "image",
       "id": "image_fig6s11",
       "label": "Figure 6—figure supplement 11.",
-      "url": "",
-      "object_id": "F48",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00117/svg/elife00117fs042.svg",
       "title": "Meiotic expression of Dam1 and Ask1.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig6"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00117.050",
       "caption": "paragraph_image_fig6s11",
-      "graphic_id": "elife00117fs042"
+      "graphic_id": "elife00117fs042",
+      "format": "image"
     },
     "paragraph_image_fig6s11": {
       "type": "paragraph",
@@ -12840,19 +12474,12 @@
       "type": "image",
       "id": "image_fig7",
       "label": "Figure 7.",
-      "url": "",
-      "object_id": "F49",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00117/svg/elife00117f007.svg",
       "title": "Characterization of NDC80 and HSK3 overexpression.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00117.051",
       "caption": "paragraph_image_fig7",
-      "graphic_id": "elife00117f007"
+      "graphic_id": "elife00117f007",
+      "format": "image"
     },
     "paragraph_image_fig7": {
       "type": "paragraph",
@@ -13045,19 +12672,12 @@
       "type": "image",
       "id": "image_fig8",
       "label": "Figure 8.",
-      "url": "",
-      "object_id": "F50",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00117/svg/elife00117f008.svg",
       "title": "Expression of NDC80 and HSK3 in prophase I enhances Clb3-CDK-induced meiosis I sister chromatid segregation.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00117.052",
       "caption": "paragraph_image_fig8",
-      "graphic_id": "elife00117f008"
+      "graphic_id": "elife00117f008",
+      "format": "image"
     },
     "paragraph_image_fig8": {
       "type": "paragraph",
@@ -13575,19 +13195,12 @@
       "type": "image",
       "id": "image_fig9",
       "label": "Figure 9.",
-      "url": "",
-      "object_id": "F51",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00117/svg/elife00117f009.svg",
       "title": "CUP-CLB3 CUP-NDC80 CUP-HSK3-induced meiosis I sister chromatid segregation is independent of the length of the prophase I arrest.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00117.053",
       "caption": "paragraph_image_fig9",
-      "graphic_id": "elife00117f009"
+      "graphic_id": "elife00117f009",
+      "format": "image"
     },
     "paragraph_image_fig9": {
       "type": "paragraph",
@@ -13870,19 +13483,12 @@
       "type": "image",
       "id": "image_fig10",
       "label": "Figure 10.",
-      "url": "",
-      "object_id": "F52",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00117/svg/elife00117f010.svg",
       "title": "Model for temporal regulation of microtubule–kinetochore interactions during meiosis.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00117.054",
       "caption": "paragraph_image_fig10",
-      "graphic_id": "elife00117f010"
+      "graphic_id": "elife00117f010",
+      "format": "image"
     },
     "paragraph_image_fig10": {
       "type": "paragraph",
@@ -15481,7 +15087,7 @@
     "paragraph_1089": {
       "type": "paragraph",
       "id": "paragraph_1089",
-      "content": "400 OD600 units of cells were fixed for 15 min at room temperature in 1% formaldehyde. The formaldehyde was quenched by addition of 125 mM glycine. Samples were processed as previously described (Vader et al., 2011). Before immunoprecipitation, 120th of the sample was removed as the input sample. The antibodies used for immunoprecipitation are described in the ‘Antibody’ section. For ChIP-chip, samples were processed and analyzed as described in Vader et al. (2011). For qPCR analysis, DNA was amplified using SYBR Premix ExTaq Perfect Real Time Kit (Takara Bio Inc. Otsu, Shiga, Japan). PCR reactions were 40 cycles of 95°C, 20 s; 55°C, 30 s; 72°C, 30 s using a Roche LightCycler 480 II (Roche, Basel, Switzerland). The following primers were used (5′–3′):CENV F: CTT GTT TAG TGC AAG CCA CTG TT"
+      "content": "400 OD600 units of cells were fixed for 15 min at room temperature in 1% formaldehyde. The formaldehyde was quenched by addition of 125 mM glycine. Samples were processed as previously described (Vader et al., 2011). Before immunoprecipitation, 120th of the sample was removed as the input sample. The antibodies used for immunoprecipitation are described in the ‘Antibody’ section. For ChIP-chip, samples were processed and analyzed as described in Vader et al. (2011). For qPCR analysis, DNA was amplified using SYBR Premix ExTaq Perfect Real Time Kit (Takara Bio Inc. Otsu, Shiga, Japan). PCR reactions were 40 cycles of 95°C, 20 s; 55°C, 30 s; 72°C, 30 s using a Roche LightCycler 480 II (Roche, Basel, Switzerland). The following primers were used (5′–3′):"
     },
     "annotation_1090": {
       "type": "subscript",
@@ -15522,23 +15128,24 @@
         469
       ]
     },
-    "annotation_1093": {
-      "type": "strong",
-      "id": "annotation_1093",
-      "path": [
-        "paragraph_1089",
-        "content"
-      ],
-      "target": null,
-      "range": [
-        761,
-        768
+    "list_1093": {
+      "type": "list",
+      "id": "list_1093",
+      "items": [
+        "paragraph_1094",
+        "paragraph_1096",
+        "paragraph_1098",
+        "paragraph_1100",
+        "paragraph_1102",
+        "paragraph_1104",
+        "paragraph_1106",
+        "paragraph_1108"
       ]
     },
     "paragraph_1094": {
       "type": "paragraph",
       "id": "paragraph_1094",
-      "content": "CENV R: CCG CAT TTC CTT GAT TTA CTG TC"
+      "content": "CENV F: CTT GTT TAG TGC AAG CCA CTG TT"
     },
     "annotation_1095": {
       "type": "strong",
@@ -15556,7 +15163,7 @@
     "paragraph_1096": {
       "type": "paragraph",
       "id": "paragraph_1096",
-      "content": "c281 F: CAA CGA ACC GTG GGA ACG TTA TAG"
+      "content": "CENV R: CCG CAT TTC CTT GAT TTA CTG TC"
     },
     "annotation_1097": {
       "type": "strong",
@@ -15574,7 +15181,7 @@
     "paragraph_1098": {
       "type": "paragraph",
       "id": "paragraph_1098",
-      "content": "c281 R: GAA ACT TTC CTG GTA CCT TCT GC"
+      "content": "c281 F: CAA CGA ACC GTG GGA ACG TTA TAG"
     },
     "annotation_1099": {
       "type": "strong",
@@ -15592,7 +15199,7 @@
     "paragraph_1100": {
       "type": "paragraph",
       "id": "paragraph_1100",
-      "content": "c194 F: GCT GAA AGC ATG CCA CTG TA"
+      "content": "c281 R: GAA ACT TTC CTG GTA CCT TCT GC"
     },
     "annotation_1101": {
       "type": "strong",
@@ -15610,7 +15217,7 @@
     "paragraph_1102": {
       "type": "paragraph",
       "id": "paragraph_1102",
-      "content": "c194 R: GGT GTT CCT GCT TCG TTG TTA G"
+      "content": "c194 F: GCT GAA AGC ATG CCA CTG TA"
     },
     "annotation_1103": {
       "type": "strong",
@@ -15628,7 +15235,7 @@
     "paragraph_1104": {
       "type": "paragraph",
       "id": "paragraph_1104",
-      "content": "HMR F: ACG ATC CCC GTC CAA GTT ATG"
+      "content": "c194 R: GGT GTT CCT GCT TCG TTG TTA G"
     },
     "annotation_1105": {
       "type": "strong",
@@ -15640,19 +15247,37 @@
       "target": null,
       "range": [
         0,
-        6
+        7
       ]
     },
     "paragraph_1106": {
       "type": "paragraph",
       "id": "paragraph_1106",
-      "content": "HMR R: CTT CAA AGG AGT CTT AAT TTC CCT G"
+      "content": "HMR F: ACG ATC CCC GTC CAA GTT ATG"
     },
     "annotation_1107": {
       "type": "strong",
       "id": "annotation_1107",
       "path": [
         "paragraph_1106",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        6
+      ]
+    },
+    "paragraph_1108": {
+      "type": "paragraph",
+      "id": "paragraph_1108",
+      "content": "HMR R: CTT CAA AGG AGT CTT AAT TTC CCT G"
+    },
+    "annotation_1109": {
+      "type": "strong",
+      "id": "annotation_1109",
+      "path": [
+        "paragraph_1108",
         "content"
       ],
       "target": null,
@@ -15668,16 +15293,16 @@
       "content": "Recombination southern",
       "nodes": []
     },
-    "paragraph_1108": {
+    "paragraph_1110": {
       "type": "paragraph",
-      "id": "paragraph_1108",
+      "id": "paragraph_1110",
       "content": "∼20 OD600 units of cells were harvested and treated with sodium azide (0.1% final concentration). Cells were pelleted and snap frozen in liquid nitrogen. Genomic DNA was extracted as follows: Cells were washed once in TE and spheroplasted with 1/100 volume of beta-mercaptoethanol and 250 μg/ml zymolyase T100 in spheroplasting buffer (1 M sorbitol, 42 mM K2HPO4, 8 mM KH2PO4, 5 mM EDTA) for 30 min at 37°C on a rotating rack. 100 μl preheated (65°C) lysis buffer (1:1 mix of 1 M Tris pH 8 and 0.5 M EDTA, 2.5–3% SDS) was added and mixed by inverting. 15 μl proteinase K (18 ± 4 mg/ml PCR grade solution; Roche, Basel, Switzerland) was added and incubated at 65°C for ∼1.5 hr. Subsequently, 150 μl 5 M potassium acetate was added, mixed by inverting and transferred to 4°C for 10 min. Samples were centrifuged at 4°C for 20 min and 650 μl of supernatant was transferred into a 2 ml tube containing 750 μl 100% ethanol, avoiding as much of the white fluff as possible. Samples were mixed by inverting and left at 4°C for 10 min. Nucleic acid was precipitated at 15,000 rpm for 10 min, 4°C. Samples were subsequently resuspended in TE and treated with RNase A (50 μg/ml; Roche), for 15–20 min at 37°C and kept at 4°C overnight. DNA was extracted with phenol/chloroform/isopropanol and was resuspended in 125 μl TE. XhoI-MluI digested DNA fragments were separated on 0.6% agarose gel in 1× TBE and transferred onto Hybond-XL plus membranes (GE Healthcare Biosciences, Pittsburgh, PA) by alkaline transfer. Southern blotting was performed as previously described (Hunter and Kleckner, 2001)."
     },
-    "annotation_1109": {
+    "annotation_1111": {
       "type": "subscript",
-      "id": "annotation_1109",
+      "id": "annotation_1111",
       "path": [
-        "paragraph_1108",
+        "paragraph_1110",
         "content"
       ],
       "target": null,
@@ -15686,11 +15311,11 @@
         9
       ]
     },
-    "annotation_1110": {
+    "annotation_1112": {
       "type": "subscript",
-      "id": "annotation_1110",
+      "id": "annotation_1112",
       "path": [
-        "paragraph_1108",
+        "paragraph_1110",
         "content"
       ],
       "target": null,
@@ -15699,11 +15324,11 @@
         358
       ]
     },
-    "annotation_1111": {
+    "annotation_1113": {
       "type": "subscript",
-      "id": "annotation_1111",
+      "id": "annotation_1113",
       "path": [
-        "paragraph_1108",
+        "paragraph_1110",
         "content"
       ],
       "target": null,
@@ -15712,11 +15337,11 @@
         362
       ]
     },
-    "annotation_1112": {
+    "annotation_1114": {
       "type": "subscript",
-      "id": "annotation_1112",
+      "id": "annotation_1114",
       "path": [
-        "paragraph_1108",
+        "paragraph_1110",
         "content"
       ],
       "target": null,
@@ -15725,11 +15350,11 @@
         372
       ]
     },
-    "annotation_1113": {
+    "annotation_1115": {
       "type": "subscript",
-      "id": "annotation_1113",
+      "id": "annotation_1115",
       "path": [
-        "paragraph_1108",
+        "paragraph_1110",
         "content"
       ],
       "target": null,
@@ -15738,11 +15363,11 @@
         375
       ]
     },
-    "citation_reference_1114": {
+    "citation_reference_1116": {
       "type": "citation_reference",
-      "id": "citation_reference_1114",
+      "id": "citation_reference_1116",
       "path": [
-        "paragraph_1108",
+        "paragraph_1110",
         "content"
       ],
       "target": "article_citation_bib21",
@@ -15765,9 +15390,9 @@
       "content": "Indirect immunofluorescence",
       "nodes": []
     },
-    "paragraph_1115": {
+    "paragraph_1117": {
       "type": "paragraph",
-      "id": "paragraph_1115",
+      "id": "paragraph_1117",
       "content": "Spindle morphology was determined using a rat anti-tubulin antibody (Serotec, Kidlington, UK) used at a dilution of 1:100, and anti-rat FITC antibodies (Jackson ImmunoResearch Laboratories, Inc. West Grove, PA) used at a dilution of 1:100–200."
     },
     "heading_s4-15-2": {
@@ -15777,9 +15402,9 @@
       "content": "Western blotting",
       "nodes": []
     },
-    "paragraph_1116": {
+    "paragraph_1118": {
       "type": "paragraph",
-      "id": "paragraph_1116",
+      "id": "paragraph_1118",
       "content": "Lrs4-13myc, Rec8-13myc, Ask1-13myc and Mam1-9myc were detected using a mouse anti-myc antibody (Covance, Princeton, NJ) at a 1:500 dilution. Rec8-3HA and Hsk3-3HA were detected using a mouse anti-HA antibody (HA.11; Covance) at a 1:1000 dilution. Hsk3-3V5, Ndc80-3V5 and Dam1-3V5 were detected using a mouse anti-V5 antibody (Invitrogen, Carlsbad, CA) at a 1:2000 dilution. Pgk1 was detected using a mouse anti-Pgk1 antibody (Molecular Probes, Carlsbad, CA) at a 1:10,000 dilution. Clb3 was detected using a rabbit anti-Clb3 antibody (Sc7167; Santa Cruz Biotechnology Inc. Santa Cruz, CA) at a 1:500 dilution. Kar2 was detected using a rabbit anti-Kar2 antibody (kindly provided by Mark Rose) at a 1:200,000 dilution. The secondary antibodies used were a sheep anti-mouse antibody conjugated to horseradish peroxidase (HRP) (GE Healthcare Biosciences, Pittsburgh, PA) at a 1:5000 dilution or a goat anti-rabbit antibody conjugated to HRP (BioRad, Hercules, CA) at a 1:10,000 dilution. Antibodies were detected using the SuperSignal West Pico Chemiluminescent Substrate (Thermo Scientific, Waltham, MA)."
     },
     "heading_s4-15-3": {
@@ -15789,9 +15414,9 @@
       "content": "Chromatin immunoprecipitation",
       "nodes": []
     },
-    "paragraph_1117": {
+    "paragraph_1119": {
       "type": "paragraph",
-      "id": "paragraph_1117",
+      "id": "paragraph_1119",
       "content": "Rec8-3HA was immunoprecipitated using 2–5 μg of rat anti-HA antibody (3F10; Roche, Basel, Switzerland) in combination with 50 μl of 50% slurry Protein G beads (Roche). Rec8-13myc was immunoprecipitated using 2–5 μg of mouse anti-myc antibody (9E11) in combination with 50 μl of 50% slurry Protein G beads (Roche). Sgo1-3V5 and Spo13-3V5 were immunoprecipitated with 40–50 μl of 50% slurry anti-V5 agarose affinity gel (Sigma, St. Louis, MO). Pds5 was immunoprecipitated using 1.3μl of rabbit anti-Pds5 antibody (kindly provided by Vincent Guacci) in combination with 50 μl of 50% slurry Protein A beads (Roche). Phosphorylated Rec8 was immunoprecipitated using 2 μg of rabbit anti-phospho-S179 Rec8 or rabbit anti-phospho-S521 Rec8 in combination with 50 μl of 50% slurry Protein A beads (Roche)."
     },
     "heading_s4-15-4": {
@@ -15801,9 +15426,9 @@
       "content": "Chromosome spreads",
       "nodes": []
     },
-    "paragraph_1118": {
+    "paragraph_1120": {
       "type": "paragraph",
-      "id": "paragraph_1118",
+      "id": "paragraph_1120",
       "content": "Lrs4-13myc, Ndc10-13myc, Sgo1-9myc, Rts1-13myc, Rec8-13myc, Ask1-13myc, and Mam1-9myc were detected using a preabsorbed rabbit anti-myc antibody (Gramsch, Schwabhausen, Germany) at a 1:400 dilution. Ndc10-6HA and Rec8-3HA were detected using either a preabsorbed mouse anti-HA antibody (HA.11; Covance, Princeton, NJ) or a rat anti-HA antibody (3F10; Roche, Basel, Switzerland) at a 1:400 dilution. Ndc80-3V5 was detected using a mouse anti-V5 antibody (Invitrogen, Carlsbad, CA) at a 1:400 dilution. Zip1 was detected using y-300 rabbit antibody (Santa Cruz Biotechnology Inc. Santa Cruz, CA) at a 1:400 dilution. Rad51 was detected using y-180 rabbit IgG (Santa Cruz Biotechnology Inc.) at a 1:400 dilution. Secondary antibodies used were preabsorbed anti-rabbit FITC antibody (Jackson ImmunoResearch Laboratories, Inc. West Grove, PA), preabsorbed anti-rat CY3 antibody (Jackson ImmunoResearch Laboratories, Inc.) or preabsorbed anti-mouse CY3 antibody (Jackson ImmunoResearch Laboratories, Inc.) at a 1:400–1:800 dilution."
     },
     "heading_s4-16": {
@@ -15813,16 +15438,16 @@
       "content": "Cluster analysis and ordered plots for mRNA-seq and ribosome footprinting data",
       "nodes": []
     },
-    "paragraph_1119": {
+    "paragraph_1121": {
       "type": "paragraph",
-      "id": "paragraph_1119",
+      "id": "paragraph_1121",
       "content": "Cluster analysis of the ribosome footprinting data for the kinetochore components listed in Figure 6—figure supplement 1 was performed using Cluster 3.0. Genes were clustered by hierarchical average based on Spearman correlation using mean centered arrays. Clustering data (Figure 6B, Figure 6—figure supplement 2) were visualized using Java Treeview. Note that ribosome footprints are normalized such that the sum of expression across the time course is equivalent for each gene. For plots in Figure 6C,D and Figure 6—figure supplements 3–10, mRNA-seq and ribosome footprinting data were plotted for indicated genes based on the dataset from Brar et al. (2012). The meiotic stages plotted on the x-axis are in the following order: vegetative (gb15 exponential and A14201 exponential), meiotic entry (1, A, B and D), DNA replication (E and F), recombination (G and I), prophase I (3 and 4), metaphase I (5 and 6), anaphase I (7 and 8), metaphase II (9 and 10), anaphase II (11, 12 and 13) and spore formation (15 and 18). The detailed explanation of the above letter and number codes can be found in Brar et al. (2012)."
     },
-    "figure_reference_1120": {
+    "figure_reference_1122": {
       "type": "figure_reference",
-      "id": "figure_reference_1120",
+      "id": "figure_reference_1122",
       "path": [
-        "paragraph_1119",
+        "paragraph_1121",
         "content"
       ],
       "target": "image_fig6s1",
@@ -15831,11 +15456,11 @@
         120
       ]
     },
-    "figure_reference_1121": {
+    "figure_reference_1123": {
       "type": "figure_reference",
-      "id": "figure_reference_1121",
+      "id": "figure_reference_1123",
       "path": [
-        "paragraph_1119",
+        "paragraph_1121",
         "content"
       ],
       "target": "image_fig6",
@@ -15844,11 +15469,11 @@
         283
       ]
     },
-    "figure_reference_1122": {
+    "figure_reference_1124": {
       "type": "figure_reference",
-      "id": "figure_reference_1122",
+      "id": "figure_reference_1124",
       "path": [
-        "paragraph_1119",
+        "paragraph_1121",
         "content"
       ],
       "target": "image_fig6s2",
@@ -15857,11 +15482,11 @@
         313
       ]
     },
-    "figure_reference_1123": {
+    "figure_reference_1125": {
       "type": "figure_reference",
-      "id": "figure_reference_1123",
+      "id": "figure_reference_1125",
       "path": [
-        "paragraph_1119",
+        "paragraph_1121",
         "content"
       ],
       "target": "image_fig6",
@@ -15870,11 +15495,11 @@
         505
       ]
     },
-    "figure_reference_1124": {
+    "figure_reference_1126": {
       "type": "figure_reference",
-      "id": "figure_reference_1124",
+      "id": "figure_reference_1126",
       "path": [
-        "paragraph_1119",
+        "paragraph_1121",
         "content"
       ],
       "target": "image_fig6s3",
@@ -15883,11 +15508,11 @@
         542
       ]
     },
-    "citation_reference_1125": {
+    "citation_reference_1127": {
       "type": "citation_reference",
-      "id": "citation_reference_1125",
+      "id": "citation_reference_1127",
       "path": [
-        "paragraph_1119",
+        "paragraph_1121",
         "content"
       ],
       "target": "article_citation_bib6",
@@ -15896,11 +15521,11 @@
         661
       ]
     },
-    "citation_reference_1126": {
+    "citation_reference_1128": {
       "type": "citation_reference",
-      "id": "citation_reference_1126",
+      "id": "citation_reference_1128",
       "path": [
-        "paragraph_1119",
+        "paragraph_1121",
         "content"
       ],
       "target": "article_citation_bib6",
@@ -15916,16 +15541,16 @@
       "content": "Statistical analysis",
       "nodes": []
     },
-    "paragraph_1127": {
+    "paragraph_1129": {
       "type": "paragraph",
-      "id": "paragraph_1127",
+      "id": "paragraph_1129",
       "content": "Chi-square (χ2) tests were performed using GraphPad Prism 6.0 software with two-tailed P values and 95% confidence intervals. Corresponding degrees of freedom (df), χ2 and P values are shown in the figure legends."
     },
-    "annotation_1128": {
+    "annotation_1130": {
       "type": "superscript",
-      "id": "annotation_1128",
+      "id": "annotation_1130",
       "path": [
-        "paragraph_1127",
+        "paragraph_1129",
         "content"
       ],
       "target": null,
@@ -15934,11 +15559,11 @@
         14
       ]
     },
-    "annotation_1129": {
+    "annotation_1131": {
       "type": "superscript",
-      "id": "annotation_1129",
+      "id": "annotation_1131",
       "path": [
-        "paragraph_1127",
+        "paragraph_1129",
         "content"
       ],
       "target": null,
@@ -15967,12 +15592,12 @@
       "level": 2,
       "content": "Competing Interests",
       "nodes": [
-        "paragraph_1130"
+        "paragraph_1132"
       ]
     },
-    "paragraph_1130": {
+    "paragraph_1132": {
       "type": "paragraph",
-      "id": "paragraph_1130",
+      "id": "paragraph_1132",
       "content": "Competing interestsThe authors have declared that no competing interests exist"
     },
     "info:author_contribution": {
@@ -15991,17 +15616,24 @@
       "type": "supplement",
       "id": "supplement_SD1_data",
       "label": "Supplementary file 1.",
-      "source": "",
-      "title": "",
       "caption": "paragraph_supplement_SD1_data",
-      "content": "",
       "doi": "http://dx.doi.org/10.7554/eLife.00117.055",
-      "graphic_id": "elife00117s001.xlsx"
+      "files": [
+        "file_1133"
+      ]
     },
     "paragraph_supplement_SD1_data": {
       "type": "paragraph",
       "id": "paragraph_supplement_SD1_data",
       "content": "Strains used in this study."
+    },
+    "file_1133": {
+      "type": "file",
+      "id": "file_1133",
+      "name": "XLSX",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00117/suppl/elife00117s001.xlsx",
+      "graphic_id": "elife00117s001.xlsx",
+      "extension": ".xlsx"
     },
     "info:dataset": {
       "type": "heading",
@@ -16042,17 +15674,11 @@
       "year": "2005",
       "volume": "16",
       "source": "Mol Biol Cell",
-      "issue": "",
       "fpage": "2325",
       "lpage": "38",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1091/mbc.E04-11-0996",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib2": {
@@ -16080,17 +15706,11 @@
       "year": "2003",
       "volume": "17",
       "source": "Genes Dev",
-      "issue": "",
       "fpage": "1524",
       "lpage": "39",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1101/gad.1101503",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib3": {
@@ -16126,17 +15746,11 @@
       "year": "2009",
       "volume": "17",
       "source": "Dev Cell",
-      "issue": "",
       "fpage": "355",
       "lpage": "64",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.devcel.2009.08.003",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib4": {
@@ -16164,17 +15778,9 @@
       "year": "2012",
       "volume": "8",
       "source": "PLoS Genet",
-      "issue": "",
       "fpage": "e1002643",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib5": {
@@ -16210,17 +15816,11 @@
       "year": "2006",
       "volume": "441",
       "source": "Nature",
-      "issue": "",
       "fpage": "532",
       "lpage": "6",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nature04794",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib6": {
@@ -16256,17 +15856,11 @@
       "year": "2012",
       "volume": "335",
       "source": "Science",
-      "issue": "",
       "fpage": "552",
       "lpage": "7",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1126/science.1215110",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib7": {
@@ -16302,17 +15896,10 @@
       "year": "2000",
       "volume": "103",
       "source": "Cell",
-      "issue": "",
       "fpage": "387",
       "lpage": "98",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib8": {
@@ -16328,17 +15915,10 @@
       "year": "1981",
       "volume": "112",
       "source": "Anal Biochem",
-      "issue": "",
       "fpage": "195",
       "lpage": "203",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib9": {
@@ -16358,17 +15938,11 @@
       "year": "2008",
       "volume": "133",
       "source": "Cell",
-      "issue": "",
       "fpage": "280",
       "lpage": "91",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.cell.2008.02.032",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib10": {
@@ -16400,17 +15974,10 @@
       "year": "2001",
       "volume": "152",
       "source": "J Cell Biol",
-      "issue": "",
       "fpage": "197",
       "lpage": "212",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib11": {
@@ -16430,17 +15997,10 @@
       "year": "1998",
       "volume": "1",
       "source": "Mol Cell",
-      "issue": "",
       "fpage": "685",
       "lpage": "96",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib12": {
@@ -16476,17 +16036,10 @@
       "year": "1998",
       "volume": "93",
       "source": "Cell",
-      "issue": "",
       "fpage": "1067",
       "lpage": "76",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib13": {
@@ -16522,17 +16075,11 @@
       "year": "2003",
       "volume": "5",
       "source": "Nat Cell Biol",
-      "issue": "",
       "fpage": "480",
       "lpage": "5",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/ncb977",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib14": {
@@ -16560,17 +16107,10 @@
       "year": "1996",
       "volume": "10",
       "source": "Genes Dev",
-      "issue": "",
       "fpage": "3081",
       "lpage": "93",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib15": {
@@ -16606,17 +16146,10 @@
       "year": "1992",
       "volume": "3",
       "source": "Mol Biol Cell",
-      "issue": "",
       "fpage": "805",
       "lpage": "18",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib16": {
@@ -16636,17 +16169,10 @@
       "year": "1993",
       "volume": "13",
       "source": "Mol Cell Biol",
-      "issue": "",
       "fpage": "2113",
       "lpage": "25",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib17": {
@@ -16678,17 +16204,11 @@
       "year": "2010",
       "volume": "107",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "2467",
       "lpage": "72",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1073/pnas.0914073107",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib18": {
@@ -16708,17 +16228,11 @@
       "year": "2001",
       "volume": "2",
       "source": "Nat Rev Genet",
-      "issue": "",
       "fpage": "280",
       "lpage": "91",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/35066065",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib19": {
@@ -16754,17 +16268,11 @@
       "year": "2005",
       "volume": "25",
       "source": "Mol Cell Biol",
-      "issue": "",
       "fpage": "4767",
       "lpage": "81",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1128/MCB.25.11.4767-4781.2005",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib20": {
@@ -16800,17 +16308,11 @@
       "year": "2009",
       "volume": "325",
       "source": "Science",
-      "issue": "",
       "fpage": "1682",
       "lpage": "6",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1126/science.1172867",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib21": {
@@ -16830,17 +16332,10 @@
       "year": "2001",
       "volume": "106",
       "source": "Cell",
-      "issue": "",
       "fpage": "59",
       "lpage": "70",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib22": {
@@ -16872,17 +16367,10 @@
       "year": "1999",
       "volume": "10",
       "source": "Mol Biol Cell",
-      "issue": "",
       "fpage": "2377",
       "lpage": "91",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib23": {
@@ -16914,17 +16402,11 @@
       "year": "2004a",
       "volume": "14",
       "source": "Curr Biol",
-      "issue": "",
       "fpage": "560",
       "lpage": "72",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.cub.2004.03.001",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib24": {
@@ -16960,17 +16442,11 @@
       "year": "2010",
       "volume": "18",
       "source": "Dev Cell",
-      "issue": "",
       "fpage": "397",
       "lpage": "409",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.devcel.2010.01.014",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib25": {
@@ -17006,17 +16482,11 @@
       "year": "2004b",
       "volume": "14",
       "source": "Curr Biol",
-      "issue": "",
       "fpage": "2183",
       "lpage": "96",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.cub.2004.12.020",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib26": {
@@ -17040,17 +16510,11 @@
       "year": "1997",
       "volume": "88",
       "source": "Cell",
-      "issue": "",
       "fpage": "375",
       "lpage": "84",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/S0092-8674(00)81876-0",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib27": {
@@ -17078,17 +16542,10 @@
       "year": "1995",
       "volume": "83",
       "source": "Cell",
-      "issue": "",
       "fpage": "247",
       "lpage": "56",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib28": {
@@ -17108,17 +16565,10 @@
       "year": "1984",
       "volume": "98",
       "source": "J Cell Biol",
-      "issue": "",
       "fpage": "922",
       "lpage": "33",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib29": {
@@ -17142,17 +16592,11 @@
       "year": "2004",
       "volume": "427",
       "source": "Nature",
-      "issue": "",
       "fpage": "510",
       "lpage": "7",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nature02312",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib30": {
@@ -17188,17 +16632,11 @@
       "year": "2006",
       "volume": "441",
       "source": "Nature",
-      "issue": "",
       "fpage": "46",
       "lpage": "52",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nature04663",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib31": {
@@ -17214,17 +16652,10 @@
       "year": "1970",
       "volume": "227",
       "source": "Nature",
-      "issue": "",
       "fpage": "680",
       "lpage": "5",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib32": {
@@ -17244,17 +16675,11 @@
       "year": "2003",
       "volume": "300",
       "source": "Science",
-      "issue": "",
       "fpage": "482",
       "lpage": "6",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1126/science.1081846",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib33": {
@@ -17278,17 +16703,11 @@
       "year": "2004",
       "volume": "14",
       "source": "Curr Biol",
-      "issue": "",
       "fpage": "2168",
       "lpage": "82",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.cub.2004.12.033",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib34": {
@@ -17324,17 +16743,11 @@
       "year": "2008",
       "volume": "10",
       "source": "Nat Cell Biol",
-      "issue": "",
       "fpage": "42",
       "lpage": "52",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/ncb1667",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib35": {
@@ -17370,17 +16783,11 @@
       "year": "1998",
       "volume": "14",
       "source": "Yeast",
-      "issue": "",
       "fpage": "953",
       "lpage": "61",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1002/(SICI)1097-0061(199807)14:10<953::AID-YEA293>3.0.CO;2-U",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib36": {
@@ -17400,17 +16807,11 @@
       "year": "2004",
       "volume": "5",
       "source": "Nat Rev Mol Cell Biol",
-      "issue": "",
       "fpage": "983",
       "lpage": "97",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nrm1526",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib37": {
@@ -17446,17 +16847,11 @@
       "year": "2008",
       "volume": "135",
       "source": "Cell",
-      "issue": "",
       "fpage": "662",
       "lpage": "78",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.cell.2008.10.026",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib38": {
@@ -17480,17 +16875,10 @@
       "year": "1997",
       "volume": "91",
       "source": "Cell",
-      "issue": "",
       "fpage": "35",
       "lpage": "45",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib39": {
@@ -17522,17 +16910,11 @@
       "year": "2007",
       "volume": "128",
       "source": "Cell",
-      "issue": "",
       "fpage": "477",
       "lpage": "90",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.cell.2006.12.040",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib40": {
@@ -17548,17 +16930,11 @@
       "year": "1997",
       "volume": "13",
       "source": "Annu Rev Cell Dev Biol",
-      "issue": "",
       "fpage": "261",
       "lpage": "91",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1146/annurev.cellbio.13.1.261",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib41": {
@@ -17586,17 +16962,10 @@
       "year": "2001",
       "volume": "152",
       "source": "J Cell Biol",
-      "issue": "",
       "fpage": "1255",
       "lpage": "66",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib42": {
@@ -17632,17 +17001,11 @@
       "year": "2006",
       "volume": "126",
       "source": "Cell",
-      "issue": "",
       "fpage": "1049",
       "lpage": "64",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.cell.2006.07.029",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib43": {
@@ -17678,17 +17041,10 @@
       "year": "2003",
       "volume": "4",
       "source": "Dev Cell",
-      "issue": "",
       "fpage": "535",
       "lpage": "48",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib44": {
@@ -17724,17 +17080,11 @@
       "year": "2006",
       "volume": "441",
       "source": "Nature",
-      "issue": "",
       "fpage": "53",
       "lpage": "61",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nature04664",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib45": {
@@ -17770,17 +17120,10 @@
       "year": "2003",
       "volume": "11",
       "source": "Mol Cell",
-      "issue": "",
       "fpage": "571",
       "lpage": "5",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib46": {
@@ -17808,17 +17151,10 @@
       "year": "1995",
       "volume": "92",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "8512",
       "lpage": "6",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib47": {
@@ -17838,17 +17174,11 @@
       "year": "2006",
       "volume": "10",
       "source": "Dev Cell",
-      "issue": "",
       "fpage": "127",
       "lpage": "35",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.devcel.2005.10.018",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib48": {
@@ -17880,17 +17210,11 @@
       "year": "2011",
       "volume": "17",
       "source": "Microsc Microanal",
-      "issue": "",
       "fpage": "431",
       "lpage": "9",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1017/S1431927611000274",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib49": {
@@ -17906,17 +17230,11 @@
       "year": "2010",
       "volume": "29",
       "source": "EMBO J",
-      "issue": "",
       "fpage": "4070",
       "lpage": "82",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/emboj.2010.294",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib50": {
@@ -17952,17 +17270,10 @@
       "year": "2000",
       "volume": "103",
       "source": "Cell",
-      "issue": "",
       "fpage": "1155",
       "lpage": "68",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib51": {
@@ -17986,17 +17297,10 @@
       "year": "1979",
       "volume": "76",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "4350",
       "lpage": "4",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib52": {
@@ -18020,17 +17324,11 @@
       "year": "2010",
       "volume": "467",
       "source": "Nature",
-      "issue": "",
       "fpage": "719",
       "lpage": "23",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nature09390",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib53": {
@@ -18054,17 +17352,11 @@
       "year": "1999",
       "volume": "400",
       "source": "Nature",
-      "issue": "",
       "fpage": "37",
       "lpage": "42",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/21831",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib54": {
@@ -18096,17 +17388,10 @@
       "year": "2000",
       "volume": "103",
       "source": "Cell",
-      "issue": "",
       "fpage": "375",
       "lpage": "86",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib55": {
@@ -18142,17 +17427,11 @@
       "year": "2011",
       "volume": "477",
       "source": "Nature",
-      "issue": "",
       "fpage": "115",
       "lpage": "9",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nature10331",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib56": {
@@ -18172,17 +17451,10 @@
       "year": "2011",
       "volume": "3",
       "source": "Cold Spring Harb Perspect Biol",
-      "issue": "",
       "fpage": "a005553",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1101/cshperspect.a005553",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib57": {
@@ -18218,17 +17490,10 @@
       "year": "1998",
       "volume": "141",
       "source": "J Cell Biol",
-      "issue": "",
       "fpage": "967",
       "lpage": "77",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib58": {
@@ -18260,17 +17525,10 @@
       "year": "1995",
       "volume": "15",
       "source": "Mol Cell Biol",
-      "issue": "",
       "fpage": "6572",
       "lpage": "81",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib59": {
@@ -18290,17 +17548,11 @@
       "year": "2003",
       "volume": "22",
       "source": "EMBO J",
-      "issue": "",
       "fpage": "2284",
       "lpage": "96",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1093/emboj/cdg222",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib60": {
@@ -18332,17 +17584,11 @@
       "year": "2004",
       "volume": "117",
       "source": "J Cell Sci",
-      "issue": "",
       "fpage": "3875",
       "lpage": "86",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1242/jcs.01248",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib61": {
@@ -18362,17 +17608,11 @@
       "year": "2005",
       "volume": "123",
       "source": "Cell",
-      "issue": "",
       "fpage": "397",
       "lpage": "407",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.cell.2005.09.014",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "sub-article": {

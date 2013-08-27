@@ -11,15 +11,14 @@
         "paragraph_10",
         "paragraph_15",
         "paragraph_17",
-        "paragraph_20",
-        "paragraph_21",
-        "paragraph_22",
+        "list_20",
         "paragraph_24",
-        "quote_26",
-        "paragraph_27",
-        "paragraph_28",
+        "paragraph_26",
+        "quote_28",
+        "paragraph_29",
         "paragraph_30",
-        "paragraph_31"
+        "paragraph_32",
+        "paragraph_33"
       ]
     },
     "figures": {
@@ -49,11 +48,8 @@
         "person_author_1031",
         "person_author_1030"
       ],
-      "received_on": "",
-      "accepted_on": "",
       "published_on": "2013-04-30",
       "journal": "elife",
-      "article_type": "",
       "keywords": [
         "scientific publishing",
         "publishing",
@@ -61,10 +57,9 @@
       ],
       "research_organisms": [],
       "subjects": [],
-      "pdf_link": "",
-      "xml_link": "",
-      "json_link": "",
-      "doi": ""
+      "xml_link": "https://s3.amazonaws.com/elife-cdn/elife-articles/00799/elife00799.xml",
+      "json_link": "https://s3.amazonaws.com/elife-cdn/elife-articles/00799/00799.json",
+      "doi": "http://dx.doi.org/10.7554/eLife.00799"
     },
     "annotation_1": {
       "type": "emphasis",
@@ -86,9 +81,6 @@
       "last-name": "Schekman",
       "role": "author",
       "affiliations": [],
-      "image": "",
-      "contribution": "",
-      "email": "",
       "funding": []
     },
     "person_author_1031": {
@@ -98,9 +90,6 @@
       "last-name": "Watt",
       "role": "author",
       "affiliations": [],
-      "image": "",
-      "contribution": "",
-      "email": "",
       "funding": []
     },
     "person_author_1030": {
@@ -110,9 +99,6 @@
       "last-name": "Weigel",
       "role": "author",
       "affiliations": [],
-      "image": "",
-      "contribution": "",
-      "email": "",
       "funding": []
     },
     "info:copyright": {
@@ -293,7 +279,7 @@
     "paragraph_17": {
       "type": "paragraph",
       "id": "paragraph_17",
-      "content": "An important element of the peer review process at eLife is that referees are directed to limit their recommendations to changes that bear directly on the major conclusions of the work. As it states on our web site:We will only request new work, such as experiments, analyses, or data collection, if the data are essential to support the major conclusions."
+      "content": "An important element of the peer review process at eLife is that referees are directed to limit their recommendations to changes that bear directly on the major conclusions of the work. As it states on our web site:"
     },
     "annotation_18": {
       "type": "emphasis",
@@ -322,38 +308,34 @@
       ],
       "url": "http://submit.elifesciences.org/html/elife_reviewer_instructions.html#Writing_the_review"
     },
-    "paragraph_20": {
-      "type": "paragraph",
-      "id": "paragraph_20",
-      "content": "The authors must be able to do any new work in a reasonable time frame. If the conclusions are not adequately supported by the existing data, the submission should be rejected."
+    "list_20": {
+      "type": "list",
+      "id": "list_20",
+      "items": [
+        "paragraph_21",
+        "paragraph_22",
+        "paragraph_23"
+      ]
     },
     "paragraph_21": {
       "type": "paragraph",
       "id": "paragraph_21",
-      "content": "Any requests for new work must fall within the scope of the current submission and the technical expertise of the authors."
+      "content": "We will only request new work, such as experiments, analyses, or data collection, if the data are essential to support the major conclusions."
     },
     "paragraph_22": {
       "type": "paragraph",
       "id": "paragraph_22",
-      "content": "The new approach being taken by eLife really kicks in once all the reviews have been received: the reviewing editor initiates an online consultation session in which each referee can see who the other referees are and what they wrote about the manuscript. Over the course of several days, the referees exchange views on the merits of the work. If the consensus is that the manuscript should be rejected—and about 40% of the manuscripts that have reached this stage to date have been rejected—the reviews are usually conveyed to the authors in full."
+      "content": "The authors must be able to do any new work in a reasonable time frame. If the conclusions are not adequately supported by the existing data, the submission should be rejected."
     },
-    "annotation_23": {
-      "type": "emphasis",
-      "id": "annotation_23",
-      "path": [
-        "paragraph_22",
-        "content"
-      ],
-      "target": null,
-      "range": [
-        32,
-        37
-      ]
+    "paragraph_23": {
+      "type": "paragraph",
+      "id": "paragraph_23",
+      "content": "Any requests for new work must fall within the scope of the current submission and the technical expertise of the authors."
     },
     "paragraph_24": {
       "type": "paragraph",
       "id": "paragraph_24",
-      "content": "If, on the other hand, the consensus is that the manuscript is, in principle, acceptable for publication in eLife, but requires additional experiments or analysis, the referees work with each other to identify the additional studies that are required for acceptance. The reviewing editor then drafts a decision letter that explains these essential revisions; we prefer that these core comments are summarized in at most 1000 words. If it is agreed during the consultation session that some of the referees’ concerns do not affect the validity or overall conclusions of the manuscript, then these concerns are not included in the decision letter. (Such concerns are sometimes conveyed to the authors, but in these cases it is made clear to the authors that it is not essential to address these concerns in the revised manuscript.) All decisions, either favourable or unfavourable, are reviewed and approved by the Editor-in-Chief or one of the two Deputy Editors, plus one other senior editor. The end result is that the authors have a clear directive from the editors—a roadmap that, if navigated successfully, will virtually guarantee acceptance. Although the consultation among the referees adds some time to the decision process, the median time from receiving the full submission to the decision after peer review is currently running at 27 days."
+      "content": "The new approach being taken by eLife really kicks in once all the reviews have been received: the reviewing editor initiates an online consultation session in which each referee can see who the other referees are and what they wrote about the manuscript. Over the course of several days, the referees exchange views on the merits of the work. If the consensus is that the manuscript should be rejected—and about 40% of the manuscripts that have reached this stage to date have been rejected—the reviews are usually conveyed to the authors in full."
     },
     "annotation_25": {
       "type": "emphasis",
@@ -364,30 +346,48 @@
       ],
       "target": null,
       "range": [
+        32,
+        37
+      ]
+    },
+    "paragraph_26": {
+      "type": "paragraph",
+      "id": "paragraph_26",
+      "content": "If, on the other hand, the consensus is that the manuscript is, in principle, acceptable for publication in eLife, but requires additional experiments or analysis, the referees work with each other to identify the additional studies that are required for acceptance. The reviewing editor then drafts a decision letter that explains these essential revisions; we prefer that these core comments are summarized in at most 1000 words. If it is agreed during the consultation session that some of the referees’ concerns do not affect the validity or overall conclusions of the manuscript, then these concerns are not included in the decision letter. (Such concerns are sometimes conveyed to the authors, but in these cases it is made clear to the authors that it is not essential to address these concerns in the revised manuscript.) All decisions, either favourable or unfavourable, are reviewed and approved by the Editor-in-Chief or one of the two Deputy Editors, plus one other senior editor. The end result is that the authors have a clear directive from the editors—a roadmap that, if navigated successfully, will virtually guarantee acceptance. Although the consultation among the referees adds some time to the decision process, the median time from receiving the full submission to the decision after peer review is currently running at 27 days."
+    },
+    "annotation_27": {
+      "type": "emphasis",
+      "id": "annotation_27",
+      "path": [
+        "paragraph_26",
+        "content"
+      ],
+      "target": null,
+      "range": [
         108,
         113
       ]
     },
-    "quote_26": {
+    "quote_28": {
       "type": "quote",
-      "id": "quote_26",
+      "id": "quote_28",
       "content": "The end result is that the authors have a clear directive from the editors—a roadmap that, if navigated successfully, will virtually guarantee acceptance."
     },
-    "paragraph_27": {
+    "paragraph_29": {
       "type": "paragraph",
-      "id": "paragraph_27",
+      "id": "paragraph_29",
       "content": "When the revised manuscript is received, the reviewing editor can usually make an executive decision on whether or not the authors have addressed the major concerns conveyed in the decision letter in a satisfactory manner. This is one of the reasons why the median time from receiving the full submission to acceptance is presently less than 80 days. Finally, subject to approval by the authors, the decision letter after peer review and the author response to this decision letter are included in the HTML version of the article as part of our efforts to make the peer review process more transparent."
     },
-    "paragraph_28": {
+    "paragraph_30": {
       "type": "paragraph",
-      "id": "paragraph_28",
+      "id": "paragraph_30",
       "content": "The responses of referees, authors and editors to this approach have been almost universally enthusiastic. Referees, in particular, have found the consultation session to be engaging and an improvement on the conventional approach in which reviews are cast into an electronic void and the referee often remains oblivious to the fate of the paper, and rarely learns who the other referees were. And, surprisingly perhaps, several authors of papers that were not accepted after initial or full review have told us that, despite their disappointment, they found the whole process of peer review—and, in some cases, rebuttal—to be fair and, in general, fast. It will be clear to readers that the eLife approach to peer review requires a significant commitment to the journal from researchers who already have many calls on their time. The editors are therefore financially remunerated in recognition of the work that they are putting into the journal."
     },
-    "annotation_29": {
+    "annotation_31": {
       "type": "emphasis",
-      "id": "annotation_29",
+      "id": "annotation_31",
       "path": [
-        "paragraph_28",
+        "paragraph_30",
         "content"
       ],
       "target": null,
@@ -396,21 +396,21 @@
         697
       ]
     },
-    "paragraph_30": {
+    "paragraph_32": {
       "type": "paragraph",
-      "id": "paragraph_30",
+      "id": "paragraph_32",
       "content": "As with any new process, some concerns were raised about our consultation stage, particularly the identification of referees to one another. Would a junior investigator feel reluctant to challenge the views of an established expert? Could we assure the confidentiality of the process? And what would happen in the event that a consensus could not be reached? To date, these issues have not presented a problem. Young scholars who have served as referees have not been reluctant to express contrary views, referees have maintained confidentiality (where desired) and, remarkably, a consensus has always been reached (although the relevant senior editor can be called on to make a final decision in the case of deadlock)."
     },
-    "paragraph_31": {
+    "paragraph_33": {
       "type": "paragraph",
-      "id": "paragraph_31",
+      "id": "paragraph_33",
       "content": "As eLife grows, the capacity of our editors and our procedures will be challenged. It is already obvious, however, that our fresh approach to editorial decision making is working well. And with other journals making similar innovations—and here we acknowledge the pioneering work of the British Medical Journal, EMBO Journal and some of the BMC journals in this regard—we are clearly entering a new era of fairer and more efficient peer review.Competing interests:RS receives funding from the Howard Hughes Medical InstituteFW receives funding from the Wellcome TrustDW is employed by the Max Planck Society.Reference"
     },
-    "annotation_32": {
+    "annotation_34": {
       "type": "emphasis",
-      "id": "annotation_32",
+      "id": "annotation_34",
       "path": [
-        "paragraph_31",
+        "paragraph_33",
         "content"
       ],
       "target": null,
@@ -419,11 +419,11 @@
         8
       ]
     },
-    "annotation_33": {
+    "annotation_35": {
       "type": "link",
-      "id": "annotation_33",
+      "id": "annotation_35",
       "path": [
-        "paragraph_31",
+        "paragraph_33",
         "content"
       ],
       "target": null,
@@ -433,11 +433,11 @@
       ],
       "url": "http://www.bmj.com/about-bmj/resources-authors/peer-review-process"
     },
-    "annotation_34": {
+    "annotation_36": {
       "type": "emphasis",
-      "id": "annotation_34",
+      "id": "annotation_36",
       "path": [
-        "paragraph_31",
+        "paragraph_33",
         "content"
       ],
       "target": null,
@@ -446,11 +446,11 @@
         310
       ]
     },
-    "annotation_35": {
+    "annotation_37": {
       "type": "link",
-      "id": "annotation_35",
+      "id": "annotation_37",
       "path": [
-        "paragraph_31",
+        "paragraph_33",
         "content"
       ],
       "target": null,
@@ -460,11 +460,11 @@
       ],
       "url": "http://www.nature.com/emboj/about/process.html#Transparent_Process"
     },
-    "annotation_36": {
+    "annotation_38": {
       "type": "emphasis",
-      "id": "annotation_36",
+      "id": "annotation_38",
       "path": [
-        "paragraph_31",
+        "paragraph_33",
         "content"
       ],
       "target": null,
@@ -473,11 +473,11 @@
         324
       ]
     },
-    "annotation_37": {
+    "annotation_39": {
       "type": "link",
-      "id": "annotation_37",
+      "id": "annotation_39",
       "path": [
-        "paragraph_31",
+        "paragraph_33",
         "content"
       ],
       "target": null,
@@ -508,22 +508,15 @@
       "year": "2012",
       "volume": "1",
       "source": "eLife",
-      "issue": "",
       "fpage": "e00365",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.7554/eLife.00365",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_38": {
+    "annotation_40": {
       "type": "emphasis",
-      "id": "annotation_38",
+      "id": "annotation_40",
       "path": [
         "article_citation_bib1",
         "title"

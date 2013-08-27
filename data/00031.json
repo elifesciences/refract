@@ -121,7 +121,6 @@
       "accepted_on": "2012-09-05",
       "published_on": "2012-10-30",
       "journal": "eLife",
-      "article_type": "",
       "keywords": [
         "motion perception",
         "human psychophysics",
@@ -134,10 +133,9 @@
       "subjects": [
         "Neuroscience"
       ],
-      "pdf_link": "",
-      "xml_link": "",
-      "json_link": "",
-      "doi": ""
+      "xml_link": "https://s3.amazonaws.com/elife-cdn/elife-articles/00031/elife00031.xml",
+      "json_link": "https://s3.amazonaws.com/elife-cdn/elife-articles/00031/00031.json",
+      "doi": "http://dx.doi.org/10.7554/eLife.00031"
     },
     "person_author_1360": {
       "type": "person",
@@ -146,7 +144,6 @@
       "last-name": "Pretto",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article",
       "email": "email:cor1",
       "funding": []
@@ -158,9 +155,7 @@
       "last-name": "Bresciani",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article",
-      "email": "",
       "funding": [
         "funding_par_1"
       ]
@@ -172,9 +167,7 @@
       "last-name": "Rainer",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Analysis and interpretation of data, Drafting or revising the article",
-      "email": "",
       "funding": []
     },
     "person_author_1359": {
@@ -184,7 +177,6 @@
       "last-name": "Bülthoff",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Analysis and interpretation of data, Drafting or revising the article",
       "email": "email:cor2",
       "funding": [
@@ -196,27 +188,21 @@
       "id": "institution_aff1",
       "name": "Max Planck Institute for Biological Cybernetics",
       "city": "Tübingen",
-      "country": "Germany",
-      "email": "",
-      "image": ""
+      "country": "Germany"
     },
     "institution_aff2": {
       "type": "institution",
       "id": "institution_aff2",
       "name": "University Pierre Mendès-France and CNRS",
       "city": "Grenoble",
-      "country": "France",
-      "email": "",
-      "image": ""
+      "country": "France"
     },
     "institution_aff3": {
       "type": "institution",
       "id": "institution_aff3",
       "name": "University of Fribourg",
       "city": "Fribourg",
-      "country": "Switzerland",
-      "email": "",
-      "image": ""
+      "country": "Switzerland"
     },
     "person_1": {
       "type": "person",
@@ -225,9 +211,6 @@
       "last-name": "Culham",
       "role": "editor",
       "affiliations": [],
-      "image": "",
-      "contribution": "",
-      "email": "",
       "funding": []
     },
     "info:review": {
@@ -242,13 +225,11 @@
     "email_cor1": {
       "type": "email",
       "id": "email_cor1",
-      "node": "",
       "email": "paolo.pretto@tuebingen.mpg.de"
     },
     "email_cor2": {
       "type": "email",
       "id": "email_cor2",
-      "node": "",
       "email": "heinrich.buelthoff@tuebingen.mpg.de"
     },
     "info:copyright": {
@@ -386,7 +367,6 @@
       "type": "funding",
       "id": "funding_par_1",
       "institution": "Max Planck Society",
-      "accession": "",
       "person": "person_author_1412",
       "given-names": "Jean-Pierre",
       "last-name": "Bresciani"
@@ -411,8 +391,7 @@
     },
     "paragraph_16": {
       "type": "paragraph",
-      "id": "paragraph_16",
-      "content": ""
+      "id": "paragraph_16"
     },
     "heading_s1": {
       "type": "heading",
@@ -634,19 +613,12 @@
       "type": "image",
       "id": "image_fig1",
       "label": "Figure 1.",
-      "url": "",
-      "object_id": "F1",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00031/svg/elife00031f001.svg",
       "title": "Experimental design and time course of trials.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00031.003",
       "caption": "paragraph_image_fig1",
-      "graphic_id": "elife00031f001"
+      "graphic_id": "elife00031f001",
+      "format": "image"
     },
     "paragraph_image_fig1": {
       "type": "paragraph",
@@ -701,19 +673,12 @@
       "type": "image",
       "id": "image_fig2",
       "label": "Figure 2.",
-      "url": "",
-      "object_id": "F2",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00031/svg/elife00031f002.svg",
       "title": "Visibility conditions.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00031.004",
       "caption": "paragraph_image_fig2",
-      "graphic_id": "elife00031f002"
+      "graphic_id": "elife00031f002",
+      "format": "image"
     },
     "paragraph_image_fig2": {
       "type": "paragraph",
@@ -805,17 +770,12 @@
     },
     "formula_46": {
       "type": "formula",
-      "id": "formula_46",
-      "label": "",
-      "content": "",
-      "format": ""
+      "id": "formula_46"
     },
     "annotation_47": {
       "type": "inline_formula",
       "id": "annotation_47",
-      "path": "",
       "target": "formula_46",
-      "range": "",
       "source": "paragraph_44",
       "key": "content",
       "pos": [
@@ -827,19 +787,12 @@
       "type": "image",
       "id": "image_fig3",
       "label": "Figure 3.",
-      "url": "",
-      "object_id": "F3",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00031/svg/elife00031f003.svg",
       "title": "Opposite effects of distance-dependent and distance-independent contrast reduction. Experiments 1 and 2.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00031.005",
       "caption": "paragraph_image_fig3",
-      "graphic_id": "elife00031f003"
+      "graphic_id": "elife00031f003",
+      "format": "image"
     },
     "paragraph_image_fig3": {
       "type": "paragraph",
@@ -983,17 +936,12 @@
     },
     "formula_59": {
       "type": "formula",
-      "id": "formula_59",
-      "label": "",
-      "content": "",
-      "format": ""
+      "id": "formula_59"
     },
     "annotation_60": {
       "type": "inline_formula",
       "id": "annotation_60",
-      "path": "",
       "target": "formula_59",
-      "range": "",
       "source": "paragraph_57",
       "key": "content",
       "pos": [
@@ -1052,17 +1000,12 @@
     },
     "formula_66": {
       "type": "formula",
-      "id": "formula_66",
-      "label": "",
-      "content": "",
-      "format": ""
+      "id": "formula_66"
     },
     "annotation_67": {
       "type": "inline_formula",
       "id": "annotation_67",
-      "path": "",
       "target": "formula_66",
-      "range": "",
       "source": "paragraph_64",
       "key": "content",
       "pos": [
@@ -1162,17 +1105,12 @@
     },
     "formula_78": {
       "type": "formula",
-      "id": "formula_78",
-      "label": "",
-      "content": "",
-      "format": ""
+      "id": "formula_78"
     },
     "annotation_79": {
       "type": "inline_formula",
       "id": "annotation_79",
-      "path": "",
       "target": "formula_78",
-      "range": "",
       "source": "paragraph_75",
       "key": "content",
       "pos": [
@@ -1182,17 +1120,12 @@
     },
     "formula_80": {
       "type": "formula",
-      "id": "formula_80",
-      "label": "",
-      "content": "",
-      "format": ""
+      "id": "formula_80"
     },
     "annotation_81": {
       "type": "inline_formula",
       "id": "annotation_81",
-      "path": "",
       "target": "formula_80",
-      "range": "",
       "source": "paragraph_75",
       "key": "content",
       "pos": [
@@ -1204,19 +1137,12 @@
       "type": "image",
       "id": "image_fig4",
       "label": "Figure 4.",
-      "url": "",
-      "object_id": "F4",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00031/svg/elife00031f004.svg",
       "title": "Opposite effects of fog and anti-fog. Experiments 3 and 4.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00031.006",
       "caption": "paragraph_image_fig4",
-      "graphic_id": "elife00031f004"
+      "graphic_id": "elife00031f004",
+      "format": "image"
     },
     "paragraph_image_fig4": {
       "type": "paragraph",
@@ -1365,17 +1291,12 @@
     },
     "formula_94": {
       "type": "formula",
-      "id": "formula_94",
-      "label": "",
-      "content": "",
-      "format": ""
+      "id": "formula_94"
     },
     "annotation_95": {
       "type": "inline_formula",
       "id": "annotation_95",
-      "path": "",
       "target": "formula_94",
-      "range": "",
       "source": "paragraph_92",
       "key": "content",
       "pos": [
@@ -1385,17 +1306,12 @@
     },
     "formula_96": {
       "type": "formula",
-      "id": "formula_96",
-      "label": "",
-      "content": "",
-      "format": ""
+      "id": "formula_96"
     },
     "annotation_97": {
       "type": "inline_formula",
       "id": "annotation_97",
-      "path": "",
       "target": "formula_96",
-      "range": "",
       "source": "paragraph_92",
       "key": "content",
       "pos": [
@@ -2382,17 +2298,10 @@
       "year": "2003",
       "volume": "16",
       "source": "Neural Netw",
-      "issue": "",
       "fpage": "933",
       "lpage": "8",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib2": {
@@ -2416,17 +2325,10 @@
       "year": "2008",
       "volume": "18",
       "source": "Cereb Cortex",
-      "issue": "",
       "fpage": "705",
       "lpage": "17",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib3": {
@@ -2446,17 +2348,10 @@
       "year": "1999",
       "volume": "28",
       "source": "Perception",
-      "issue": "",
       "fpage": "33",
       "lpage": "48",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib4": {
@@ -2470,19 +2365,9 @@
       ],
       "title": "SHADERX3: Advanced Rendering with DirectX and OpenGL: Charles River Media",
       "year": "2005",
-      "volume": "",
-      "source": "",
-      "issue": "",
-      "fpage": "",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
       "publisher-loc": "Hingham, MA, USA",
-      "doi": "",
       "citation_url": [],
       "format": "book",
-      "label": "",
       "editors": []
     },
     "article_citation_bib5": {
@@ -2506,17 +2391,9 @@
       "year": "2000",
       "volume": "10",
       "source": "Curr Biol",
-      "issue": "",
       "fpage": "R882",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib6": {
@@ -2544,17 +2421,10 @@
       "year": "2005",
       "volume": "272",
       "source": "Proc Biol Sci",
-      "issue": "",
       "fpage": "2351",
       "lpage": "6",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib7": {
@@ -2582,17 +2452,10 @@
       "year": "2007",
       "volume": "47",
       "source": "Vision Res",
-      "issue": "",
       "fpage": "564",
       "lpage": "8",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib8": {
@@ -2618,19 +2481,11 @@
       ],
       "title": "Dictionary of visual science and related clinical terms",
       "year": "2000",
-      "volume": "",
-      "source": "",
-      "issue": "",
-      "fpage": "",
-      "lpage": "",
-      "collab": "",
       "edition": "5th ed.",
       "publisher-name": "Heinemann",
       "publisher-loc": "Butterworth",
-      "doi": "",
       "citation_url": [],
       "format": "book",
-      "label": "",
       "editors": []
     },
     "article_citation_bib9": {
@@ -2650,17 +2505,10 @@
       "year": "2008",
       "volume": "37",
       "source": "Perception",
-      "issue": "",
       "fpage": "1269",
       "lpage": "75",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib10": {
@@ -2680,17 +2528,10 @@
       "year": "1999",
       "volume": "39",
       "source": "Vision Res",
-      "issue": "",
       "fpage": "2729",
       "lpage": "37",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib11": {
@@ -2708,19 +2549,10 @@
       ],
       "title": "Elastic lidar: theory, practice, and analysis methods",
       "year": "2004",
-      "volume": "",
-      "source": "",
-      "issue": "",
-      "fpage": "",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
       "publisher-name": "John Wiley & Sons",
       "publisher-loc": "Indianapolis, IN, USA",
-      "doi": "",
       "citation_url": [],
       "format": "book",
-      "label": "",
       "editors": []
     },
     "article_citation_bib12": {
@@ -2740,17 +2572,10 @@
       "year": "1997",
       "volume": "387",
       "source": "Nature",
-      "issue": "",
       "fpage": "73",
       "lpage": "6",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib13": {
@@ -2774,17 +2599,10 @@
       "year": "1999",
       "volume": "31",
       "source": "Behav Res Methods Instrum Comput",
-      "issue": "",
       "fpage": "557",
       "lpage": "64",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib14": {
@@ -2804,17 +2622,10 @@
       "year": "1983a",
       "volume": "3",
       "source": "J Neurosci",
-      "issue": "",
       "fpage": "2563",
       "lpage": "86",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib15": {
@@ -2834,17 +2645,10 @@
       "year": "1983b",
       "volume": "49",
       "source": "J Neurophysiol",
-      "issue": "",
       "fpage": "1127",
       "lpage": "47",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib16": {
@@ -2868,17 +2672,10 @@
       "year": "2010",
       "volume": "39",
       "source": "Perception",
-      "issue": "",
       "fpage": "1199",
       "lpage": "215",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib17": {
@@ -2902,17 +2699,10 @@
       "year": "2005",
       "volume": "93",
       "source": "J Neurophysiol",
-      "issue": "",
       "fpage": "1809",
       "lpage": "15",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib18": {
@@ -2944,17 +2734,10 @@
       "year": "1998",
       "volume": "391",
       "source": "Nature",
-      "issue": "",
       "fpage": "580",
       "lpage": "4",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib19": {
@@ -2982,17 +2765,10 @@
       "year": "2009",
       "volume": "33",
       "source": "Computers Graphics",
-      "issue": "",
       "fpage": "139",
       "lpage": "46",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib20": {
@@ -3020,17 +2796,10 @@
       "year": "1999",
       "volume": "2",
       "source": "Nat Neurosci",
-      "issue": "",
       "fpage": "733",
       "lpage": "9",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib21": {
@@ -3050,17 +2819,10 @@
       "year": "1978",
       "volume": "285",
       "source": "J Physiol",
-      "issue": "",
       "fpage": "275",
       "lpage": "98",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib22": {
@@ -3080,17 +2842,10 @@
       "year": "2004",
       "volume": "14",
       "source": "Curr Biol",
-      "issue": "",
       "fpage": "R828",
       "lpage": "31",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib23": {
@@ -3114,17 +2869,9 @@
       "year": "1998",
       "volume": "392",
       "source": "Nature",
-      "issue": "",
       "fpage": "450",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib24": {
@@ -3148,17 +2895,10 @@
       "year": "2002",
       "volume": "22",
       "source": "J Neurosci",
-      "issue": "",
       "fpage": "338",
       "lpage": "49",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib25": {
@@ -3178,17 +2918,10 @@
       "year": "2006",
       "volume": "9",
       "source": "Nat Neurosci",
-      "issue": "",
       "fpage": "578",
       "lpage": "85",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib26": {
@@ -3208,17 +2941,10 @@
       "year": "1992",
       "volume": "32",
       "source": "Vision Res",
-      "issue": "",
       "fpage": "1535",
       "lpage": "49",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib27": {
@@ -3234,17 +2960,10 @@
       "year": "1982",
       "volume": "22",
       "source": "Vision Res",
-      "issue": "",
       "fpage": "377",
       "lpage": "80",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib28": {
@@ -3268,17 +2987,10 @@
       "year": "2006",
       "volume": "46",
       "source": "Vision Res",
-      "issue": "",
       "fpage": "782",
       "lpage": "6",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib29": {
@@ -3298,17 +3010,10 @@
       "year": "1986",
       "volume": "248",
       "source": "J Comp Neurol",
-      "issue": "",
       "fpage": "190",
       "lpage": "222",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib30": {
@@ -3332,17 +3037,10 @@
       "year": "2002",
       "volume": "5",
       "source": "Nat Neurosci",
-      "issue": "",
       "fpage": "598",
       "lpage": "604",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "sub-article": {

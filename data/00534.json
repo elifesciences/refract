@@ -158,7 +158,6 @@
       "accepted_on": "2013-03-09",
       "published_on": "2013-04-16",
       "journal": "elife",
-      "article_type": "",
       "keywords": [
         "Hypermutation",
         "DNA deamination",
@@ -174,10 +173,9 @@
       "subjects": [
         "Genes and chromosomes"
       ],
-      "pdf_link": "",
-      "xml_link": "",
-      "json_link": "",
-      "doi": ""
+      "xml_link": "https://s3.amazonaws.com/elife-cdn/elife-articles/00534/elife00534.xml",
+      "json_link": "https://s3.amazonaws.com/elife-cdn/elife-articles/00534/00534.json",
+      "doi": "http://dx.doi.org/10.7554/eLife.00534"
     },
     "person_author_3693": {
       "type": "person",
@@ -186,9 +184,7 @@
       "last-name": "Taylor",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article",
-      "email": "",
       "funding": []
     },
     "person_author_3746": {
@@ -198,9 +194,7 @@
       "last-name": "Nik-Zainal",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article",
-      "email": "",
       "funding": []
     },
     "person_author_3744": {
@@ -210,9 +204,7 @@
       "last-name": "Wu",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Acquisition of data, Analysis and interpretation of data",
-      "email": "",
       "funding": [
         "funding_par_3"
       ]
@@ -224,9 +216,7 @@
       "last-name": "Stebbings",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Acquisition of data, Analysis and interpretation of data",
-      "email": "",
       "funding": []
     },
     "person_author_3748": {
@@ -236,9 +226,7 @@
       "last-name": "Raine",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Acquisition of data, Analysis and interpretation of data",
-      "email": "",
       "funding": []
     },
     "person_author_3749": {
@@ -248,9 +236,7 @@
       "last-name": "Campbell",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Analysis and interpretation of data",
-      "email": "",
       "funding": []
     },
     "person_author_3745": {
@@ -260,9 +246,7 @@
       "last-name": "Rada",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Analysis and interpretation of data, Drafting or revising the article",
-      "email": "",
       "funding": []
     },
     "person_author_3750": {
@@ -272,9 +256,7 @@
       "last-name": "Stratton",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Analysis and interpretation of data, Drafting or revising the article",
-      "email": "",
       "funding": [
         "funding_par_2"
       ]
@@ -286,7 +268,6 @@
       "last-name": "Neuberger",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Analysis and interpretation of data, Drafting or revising the article",
       "email": "email_cor1",
       "funding": [
@@ -298,18 +279,14 @@
       "id": "institution_aff1",
       "name": "Medical Research Council Laboratory of Molecular Biology",
       "city": "Cambridge",
-      "country": "United Kingdom",
-      "email": "",
-      "image": ""
+      "country": "United Kingdom"
     },
     "institution_aff2": {
       "type": "institution",
       "id": "institution_aff2",
       "name": "Cancer Genome Project, Wellcome Trust Sanger Institute",
       "city": "Cambridge",
-      "country": "United Kingdom",
-      "email": "",
-      "image": ""
+      "country": "United Kingdom"
     },
     "person_1": {
       "type": "person",
@@ -318,9 +295,6 @@
       "last-name": "Stamatoyannopoulos",
       "role": "editor",
       "affiliations": [],
-      "image": "",
-      "contribution": "",
-      "email": "",
       "funding": []
     },
     "info:review": {
@@ -335,7 +309,6 @@
     "email_cor1": {
       "type": "email",
       "id": "email_cor1",
-      "node": "",
       "email": "msn@mrc-lmb.cam.ac.uk"
     },
     "info:copyright": {
@@ -491,7 +464,6 @@
       "type": "funding",
       "id": "funding_par_3",
       "institution": "NIH Ruth L. Kirschstein National Research Service Award",
-      "accession": "",
       "person": "person_author_3744",
       "given-names": "Yee Ling",
       "last-name": "Wu"
@@ -507,8 +479,7 @@
     },
     "paragraph_16": {
       "type": "paragraph",
-      "id": "paragraph_16",
-      "content": ""
+      "id": "paragraph_16"
     },
     "heading_s1": {
       "type": "heading",
@@ -776,19 +747,12 @@
       "type": "image",
       "id": "image_fig1",
       "label": "Figure 1.",
-      "url": "",
-      "object_id": "F1",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00534/svg/elife00534f001.svg",
       "title": "AID/APOBEC-induced kataegis in yeast.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00534.003",
       "caption": "paragraph_image_fig1",
-      "graphic_id": "elife00534f001"
+      "graphic_id": "elife00534f001",
+      "format": "image"
     },
     "paragraph_image_fig1": {
       "type": "paragraph",
@@ -942,19 +906,12 @@
       "type": "image",
       "id": "image_fig1s1",
       "label": "Figure 1—figure supplement 1.",
-      "url": "",
-      "object_id": "F2",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00534/svg/elife00534fs001.svg",
       "title": "Characterisation of AID/APOBEC yeast transformants.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig1"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00534.004",
       "caption": "paragraph_image_fig1s1",
-      "graphic_id": "elife00534fs001"
+      "graphic_id": "elife00534fs001",
+      "format": "image"
     },
     "paragraph_image_fig1s1": {
       "type": "paragraph",
@@ -1182,19 +1139,12 @@
       "type": "image",
       "id": "image_fig2",
       "label": "Figure 2.",
-      "url": "",
-      "object_id": "F3",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00534/svg/elife00534f002.svg",
       "title": "Yeast kataegic clusters are associated with transversions, are reduced by UNG-deficiency and can be triggered by a double strand DNA break.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00534.005",
       "caption": "paragraph_image_fig2",
-      "graphic_id": "elife00534f002"
+      "graphic_id": "elife00534f002",
+      "format": "image"
     },
     "paragraph_image_fig2": {
       "type": "paragraph",
@@ -1452,19 +1402,12 @@
       "type": "image",
       "id": "image_fig2s1",
       "label": "Figure 2—figure supplement 1.",
-      "url": "",
-      "object_id": "F4",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00534/svg/elife00534fs002.svg",
       "title": "Canavanine resistance frequencies of yeast transformants carrying an I-SceI recognition sequence (I-SceIRS).",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig2"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00534.006",
       "caption": "paragraph_image_fig2s1",
-      "graphic_id": "elife00534fs002"
+      "graphic_id": "elife00534fs002",
+      "format": "image"
     },
     "paragraph_image_fig2s1": {
       "type": "paragraph",
@@ -1527,19 +1470,11 @@
       "type": "image",
       "id": "image_fig2s2",
       "label": "Figure 2—figure supplement 2.",
-      "url": "",
-      "object_id": "F5",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00534/svg/elife00534fs003.svg",
       "title": "IMD plots of mutations from CanR (I-SceI+APOBEC3G*) transformants of control or KanMX-ISceIRS cells IMD plots coloured as in Figure 1B.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig2"
-      ],
-      "doi": "",
       "caption": "paragraph_image_fig2s2",
-      "graphic_id": "elife00534fs003"
+      "graphic_id": "elife00534fs003",
+      "format": "image"
     },
     "paragraph_image_fig2s2": {
       "type": "paragraph",
@@ -1617,11 +1552,9 @@
       "id": "table_tbl1",
       "label": "Table 1.",
       "content": "<table><thead><tr><td rowspan=2></td><td>AID*</td><td rowspan=2><em>ung1Δ</em> AID*</td><td rowspan=2><em>rev1Δ</em> AID*</td><td rowspan=2>A3A</td><td rowspan=2>A3B</td><td rowspan=2>A3G*</td></tr><tr><td>Kataegic</td><td>Unclustered</td><td>Total</td></tr></thead><tbody><tr><td>C→T (%)</td><td>46</td><td>87</td><td>76</td><td>99.3</td><td>100</td><td>79</td><td>81</td><td>78</td></tr><tr><td>C→G (%)</td><td>47</td><td>11</td><td>21</td><td>0.2</td><td>0</td><td>17</td><td>16</td><td>20</td></tr><tr><td>C→A (%)</td><td>7</td><td>2</td><td>3</td><td>0.5</td><td>0</td><td>4</td><td>3</td><td>2</td></tr><tr><td>Total</td><td>274</td><td>790</td><td>1064</td><td>2088</td><td>77</td><td>130</td><td>121</td><td>560</td></tr></tbody></table>",
-      "title": "",
       "footers": [],
       "doi": "http://dx.doi.org/10.7554/eLife.00534.008",
-      "caption": "paragraph_table_tbl1",
-      "format": ""
+      "caption": "paragraph_table_tbl1"
     },
     "paragraph_table_tbl1": {
       "type": "paragraph",
@@ -2023,19 +1956,12 @@
       "type": "image",
       "id": "image_fig3",
       "label": "Figure 3.",
-      "url": "",
-      "object_id": "F6",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00534/svg/elife00534f003.svg",
       "title": "Comparison of kataegic mutations in yeast AID/APOBEC transformants with those in breast cancers.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00534.009",
       "caption": "paragraph_image_fig3",
-      "graphic_id": "elife00534f003"
+      "graphic_id": "elife00534f003",
+      "format": "image"
     },
     "paragraph_image_fig3": {
       "type": "paragraph",
@@ -2202,19 +2128,12 @@
       "type": "image",
       "id": "image_fig3s1",
       "label": "Figure 3—figure supplement 1.",
-      "url": "",
-      "object_id": "F7",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00534/svg/elife00534fs004.svg",
       "title": "Mutation context of hyperactive APOBEC3G and AID are identical to the wild type proteins.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig3"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00534.010",
       "caption": "paragraph_image_fig3s1",
-      "graphic_id": "elife00534fs004"
+      "graphic_id": "elife00534fs004",
+      "format": "image"
     },
     "paragraph_image_fig3s1": {
       "type": "paragraph",
@@ -2238,19 +2157,12 @@
       "type": "image",
       "id": "image_fig3s2",
       "label": "Figure 3—figure supplement 2.",
-      "url": "",
-      "object_id": "F8",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00534/svg/elife00534fs005.svg",
       "title": "Analysis of kataegic stretches and mutation distributions of 21 breast cancers.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig3"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00534.011",
       "caption": "paragraph_image_fig3s2",
-      "graphic_id": "elife00534fs005"
+      "graphic_id": "elife00534fs005",
+      "format": "image"
     },
     "paragraph_image_fig3s2": {
       "type": "paragraph",
@@ -2300,19 +2212,12 @@
       "type": "image",
       "id": "image_fig3s3",
       "label": "Figure 3—figure supplement 3.",
-      "url": "",
-      "object_id": "F9",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00534/svg/elife00534fs006.svg",
       "title": "Analysis of kataegic stretches and mutation distributions of 21 breast cancers.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig3"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00534.012",
       "caption": "paragraph_image_fig3s3",
-      "graphic_id": "elife00534fs006"
+      "graphic_id": "elife00534fs006",
+      "format": "image"
     },
     "paragraph_image_fig3s3": {
       "type": "paragraph",
@@ -2362,19 +2267,12 @@
       "type": "image",
       "id": "image_fig3s4",
       "label": "Figure 3—figure supplement 4.",
-      "url": "",
-      "object_id": "F10",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00534/svg/elife00534fs007.svg",
       "title": "Analysis of kataegic stretches and mutation distributions of 21 breast cancers.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig3"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00534.013",
       "caption": "paragraph_image_fig3s4",
-      "graphic_id": "elife00534fs007"
+      "graphic_id": "elife00534fs007",
+      "format": "image"
     },
     "paragraph_image_fig3s4": {
       "type": "paragraph",
@@ -2749,19 +2647,12 @@
       "type": "image",
       "id": "image_fig4",
       "label": "Figure 4.",
-      "url": "",
-      "object_id": "F11",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00534/svg/elife00534f004.svg",
       "title": "DNA damage by APOBEC3 family members and expression in breast cancer cell-lines.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00534.014",
       "caption": "paragraph_image_fig4",
-      "graphic_id": "elife00534f004"
+      "graphic_id": "elife00534f004",
+      "format": "image"
     },
     "paragraph_image_fig4": {
       "type": "paragraph",
@@ -3706,12 +3597,11 @@
       "type": "supplement",
       "id": "supplement_SD1_data",
       "label": "Supplementary file 1.",
-      "source": "",
-      "title": "",
       "caption": "paragraph_supplement_SD1_data",
-      "content": "",
       "doi": "http://dx.doi.org/10.7554/eLife.00534.015",
-      "graphic_id": "elife00534s001.xlsx"
+      "files": [
+        "file_256"
+      ]
     },
     "paragraph_supplement_SD1_data": {
       "type": "paragraph",
@@ -3757,6 +3647,14 @@
         460
       ]
     },
+    "file_256": {
+      "type": "file",
+      "id": "file_256",
+      "name": "XLSX",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00534/suppl/elife00534s001.xlsx",
+      "graphic_id": "elife00534s001.xlsx",
+      "extension": ".xlsx"
+    },
     "article_citation_bib1": {
       "type": "article_citation",
       "id": "article_citation_bib1",
@@ -3774,17 +3672,11 @@
       "year": "2008",
       "volume": "9",
       "source": "Nat Rev Genet",
-      "issue": "",
       "fpage": "204",
       "lpage": "17",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nrg2268",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib2": {
@@ -3820,17 +3712,11 @@
       "year": "2004",
       "volume": "337",
       "source": "J Mol Biol",
-      "issue": "",
       "fpage": "585",
       "lpage": "96",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.jmb.2004.01.046",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib3": {
@@ -3866,17 +3752,11 @@
       "year": "2004",
       "volume": "14",
       "source": "Curr Biol",
-      "issue": "",
       "fpage": "1392",
       "lpage": "6",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.cub.2004.06.057",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib4": {
@@ -3912,17 +3792,11 @@
       "year": "2013",
       "volume": "494",
       "source": "Nature",
-      "issue": "",
       "fpage": "366",
       "lpage": "70",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nature11881",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib5": {
@@ -3958,17 +3832,10 @@
       "year": "2012",
       "volume": "8",
       "source": "PLoS Genet",
-      "issue": "",
       "fpage": "e1003149",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1371/journal.pgen.1003149",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib6": {
@@ -3996,17 +3863,11 @@
       "year": "2006",
       "volume": "13",
       "source": "Nat Struct Mol Biol",
-      "issue": "",
       "fpage": "392",
       "lpage": "9",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nsmb1086",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib7": {
@@ -4038,17 +3899,11 @@
       "year": "1992",
       "volume": "110",
       "source": "Gene",
-      "issue": "",
       "fpage": "119",
       "lpage": "22",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/0378-1119(92)90454-W",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib8": {
@@ -4076,17 +3931,11 @@
       "year": "2007",
       "volume": "94",
       "source": "Adv Immunol",
-      "issue": "",
       "fpage": "37",
       "lpage": "73",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/S0065-2776(06)94002-4",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib9": {
@@ -4118,17 +3967,11 @@
       "year": "2012",
       "volume": "113",
       "source": "Adv Cancer Res",
-      "issue": "",
       "fpage": "167",
       "lpage": "90",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/B978-0-12-394280-7.00005-1",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib10": {
@@ -4160,17 +4003,10 @@
       "year": "2002",
       "volume": "30",
       "source": "Nucleic Acids Res",
-      "issue": "",
       "fpage": "e23",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1093/nar/30.6.e23",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib11": {
@@ -4194,17 +4030,11 @@
       "year": "2002",
       "volume": "10",
       "source": "Mol Cell",
-      "issue": "",
       "fpage": "1247",
       "lpage": "53",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/S1097-2765(02)00742-6",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib12": {
@@ -4224,17 +4054,10 @@
       "year": "1979",
       "volume": "Vol. 28, No. 1",
       "source": "Journal of the Royal Statistical Society. Series C (Applied Statistics)",
-      "issue": "",
       "fpage": "100",
       "lpage": "8",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib13": {
@@ -4258,17 +4081,11 @@
       "year": "1999",
       "volume": "401",
       "source": "Nature",
-      "issue": "",
       "fpage": "397",
       "lpage": "9",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/43932",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib14": {
@@ -4304,17 +4121,11 @@
       "year": "2009",
       "volume": "83",
       "source": "J Virol",
-      "issue": "",
       "fpage": "9474",
       "lpage": "85",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1128/JVI.01089-09",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib15": {
@@ -4350,17 +4161,11 @@
       "year": "2009",
       "volume": "6",
       "source": "Nat Methods",
-      "issue": "",
       "fpage": "291",
       "lpage": "5",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nmeth.1311",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib16": {
@@ -4396,17 +4201,10 @@
       "year": "2012",
       "volume": "7",
       "source": "Biol Direct",
-      "issue": "",
       "fpage": "47",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1186/1745-6150-7-47",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib17": {
@@ -4434,17 +4232,11 @@
       "year": "2011",
       "volume": "12",
       "source": "EMBO Rep",
-      "issue": "",
       "fpage": "444",
       "lpage": "50",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/embor.2011.46",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib18": {
@@ -4464,17 +4256,11 @@
       "year": "2009",
       "volume": "25",
       "source": "Bioinformatics",
-      "issue": "",
       "fpage": "1754",
       "lpage": "60",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1093/bioinformatics/btp324",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib19": {
@@ -4498,17 +4284,11 @@
       "year": "2006",
       "volume": "21",
       "source": "Mol Cell",
-      "issue": "",
       "fpage": "15",
       "lpage": "27",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.molcel.2005.11.015",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib20": {
@@ -4544,17 +4324,11 @@
       "year": "1999",
       "volume": "113",
       "source": "J Invest Dermatol",
-      "issue": "",
       "fpage": "162",
       "lpage": "9",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1046/j.1523-1747.1999.00682.x",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib21": {
@@ -4578,17 +4352,11 @@
       "year": "1996",
       "volume": "382",
       "source": "Nature",
-      "issue": "",
       "fpage": "729",
       "lpage": "31",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/382729a0",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib22": {
@@ -4624,17 +4392,11 @@
       "year": "2012",
       "volume": "149",
       "source": "Cell",
-      "issue": "",
       "fpage": "979",
       "lpage": "93",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.cell.2012.04.024",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib23": {
@@ -4670,17 +4432,11 @@
       "year": "2012",
       "volume": "120",
       "source": "Blood",
-      "issue": "",
       "fpage": "366",
       "lpage": "75",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1182/blood-2012-01-402123",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib24": {
@@ -4696,17 +4452,11 @@
       "year": "2010",
       "volume": "9",
       "source": "DNA Repair",
-      "issue": "",
       "fpage": "1283",
       "lpage": "91",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.dnarep.2010.09.015",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib25": {
@@ -4738,17 +4488,11 @@
       "year": "2010",
       "volume": "48",
       "source": "Mol Immunol",
-      "issue": "",
       "fpage": "164",
       "lpage": "70",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.molimm.2010.08.013",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib26": {
@@ -4784,17 +4528,11 @@
       "year": "2012",
       "volume": "46",
       "source": "Mol Cell",
-      "issue": "",
       "fpage": "424",
       "lpage": "35",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.molcel.2012.03.030",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib27": {
@@ -4818,17 +4556,11 @@
       "year": "2012",
       "volume": "13",
       "source": "Nat Rev Mol Cell Biol",
-      "issue": "",
       "fpage": "141",
       "lpage": "52",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nrm3289",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib28": {
@@ -4860,17 +4592,11 @@
       "year": "2010",
       "volume": "17",
       "source": "Nat Struct Mol Biol",
-      "issue": "",
       "fpage": "222",
       "lpage": "9",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nsmb.1744",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib29": {
@@ -4894,17 +4620,10 @@
       "year": "1995",
       "volume": "140",
       "source": "Genetics",
-      "issue": "",
       "fpage": "965",
       "lpage": "72",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib30": {
@@ -4932,17 +4651,11 @@
       "year": "2008",
       "volume": "320",
       "source": "Science",
-      "issue": "",
       "fpage": "230",
       "lpage": "3",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1126/science.1153201",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib31": {
@@ -4970,22 +4683,16 @@
       "year": "1994",
       "volume": "10",
       "source": "Yeast",
-      "issue": "",
       "fpage": "1793",
       "lpage": "808",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1002/yea.320101310",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_256": {
+    "annotation_257": {
       "type": "emphasis",
-      "id": "annotation_256",
+      "id": "annotation_257",
       "path": [
         "article_citation_bib31",
         "title"
@@ -5021,17 +4728,11 @@
       "year": "2009",
       "volume": "16",
       "source": "Nat Struct Mol Biol",
-      "issue": "",
       "fpage": "769",
       "lpage": "76",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nsmb.1623",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "sub-article": {

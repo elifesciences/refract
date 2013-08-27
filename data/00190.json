@@ -214,7 +214,6 @@
       "accepted_on": "2013-01-25",
       "published_on": "2013-03-05",
       "journal": "eLife",
-      "article_type": "",
       "keywords": [
         "apa-2",
         "apm-2",
@@ -228,10 +227,9 @@
         "Cell biology",
         "Neuroscience"
       ],
-      "pdf_link": "",
-      "xml_link": "",
-      "json_link": "",
-      "doi": ""
+      "xml_link": "https://s3.amazonaws.com/elife-cdn/elife-articles/00190/elife00190.xml",
+      "json_link": "https://s3.amazonaws.com/elife-cdn/elife-articles/00190/00190.json",
+      "doi": "http://dx.doi.org/10.7554/eLife.00190"
     },
     "person_author_1768": {
       "type": "person",
@@ -240,9 +238,7 @@
       "last-name": "Gu",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article",
-      "email": "",
       "funding": []
     },
     "person_author_2090": {
@@ -252,9 +248,7 @@
       "last-name": "Liu",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Acquisition of data, Analysis and interpretation of data",
-      "email": "",
       "funding": []
     },
     "person_author_2091": {
@@ -264,9 +258,7 @@
       "last-name": "Watanabe",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Acquisition of data, Analysis and interpretation of data",
-      "email": "",
       "funding": []
     },
     "person_author_2092": {
@@ -276,9 +268,7 @@
       "last-name": "Sun",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Acquisition of data, Analysis and interpretation of data, Drafting or revising the article",
-      "email": "",
       "funding": []
     },
     "person_author_2093": {
@@ -288,9 +278,7 @@
       "last-name": "Hollopeter",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Drafting or revising the article, Contributed unpublished essential data or reagents",
-      "email": "",
       "funding": []
     },
     "person_author_2094": {
@@ -300,9 +288,7 @@
       "last-name": "Grant",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Analysis and interpretation of data, Drafting or revising the article, Contributed unpublished essential data or reagents",
-      "email": "",
       "funding": [
         "funding_par_2"
       ]
@@ -314,7 +300,6 @@
       "last-name": "Jorgensen",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Analysis and interpretation of data, Drafting or revising the article",
       "email": "email_cor1",
       "funding": [
@@ -326,27 +311,21 @@
       "id": "institution_aff1",
       "name": "Howard Hughes Medical Institute, University of Utah",
       "city": "Salt Lake City",
-      "country": "United States",
-      "email": "",
-      "image": ""
+      "country": "United States"
     },
     "institution_aff2": {
       "type": "institution",
       "id": "institution_aff2",
       "name": "Rutgers University",
       "city": "Piscataway",
-      "country": "United States",
-      "email": "",
-      "image": ""
+      "country": "United States"
     },
     "institution_aff3": {
       "type": "institution",
       "id": "institution_aff3",
       "name": "University of Utah",
       "city": "Salt Lake City",
-      "country": "United States",
-      "email": "",
-      "image": ""
+      "country": "United States"
     },
     "person_1": {
       "type": "person",
@@ -355,9 +334,6 @@
       "last-name": "Davis",
       "role": "editor",
       "affiliations": [],
-      "image": "",
-      "contribution": "",
-      "email": "",
       "funding": []
     },
     "info:review": {
@@ -372,7 +348,6 @@
     "email_cor1": {
       "type": "email",
       "id": "email_cor1",
-      "node": "",
       "email": "jorgensen@biology.utah.edu"
     },
     "info:copyright": {
@@ -574,8 +549,7 @@
     },
     "paragraph_19": {
       "type": "paragraph",
-      "id": "paragraph_19",
-      "content": ""
+      "id": "paragraph_19"
     },
     "heading_s1": {
       "type": "heading",
@@ -1069,19 +1043,12 @@
       "type": "image",
       "id": "image_fig1",
       "label": "Figure 1.",
-      "url": "",
-      "object_id": "F1",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00190/svg/elife00190f001.svg",
       "title": "apa-2 cloning.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00190.003",
       "caption": "paragraph_image_fig1",
-      "graphic_id": "elife00190f001"
+      "graphic_id": "elife00190f001",
+      "format": "image"
     },
     "paragraph_image_fig1": {
       "type": "paragraph",
@@ -1222,19 +1189,12 @@
       "type": "image",
       "id": "image_fig1s1",
       "label": "Figure 1—figure supplement 1.",
-      "url": "",
-      "object_id": "F2",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00190/svg/elife00190fs001.svg",
       "title": "Western blot of α adaptin mutants apa-2(ox422) and apa-2(b1044).",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig1"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00190.004",
       "caption": "paragraph_image_fig1s1",
-      "graphic_id": "elife00190fs001"
+      "graphic_id": "elife00190fs001",
+      "format": "image"
     },
     "paragraph_image_fig1s1": {
       "type": "paragraph",
@@ -1328,19 +1288,12 @@
       "type": "image",
       "id": "image_fig2",
       "label": "Figure 2.",
-      "url": "",
-      "object_id": "F3",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00190/svg/elife00190f002.svg",
       "title": "α-adaptin is expressed ubiquitously.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00190.005",
       "caption": "paragraph_image_fig2",
-      "graphic_id": "elife00190f002"
+      "graphic_id": "elife00190f002",
+      "format": "image"
     },
     "paragraph_image_fig2": {
       "type": "paragraph",
@@ -1616,19 +1569,12 @@
       "type": "image",
       "id": "image_fig3",
       "label": "Figure 3.",
-      "url": "",
-      "object_id": "F4",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00190/svg/elife00190f003.svg",
       "title": "Tissue-specific rescue of α-adaptin mutant.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00190.006",
       "caption": "paragraph_image_fig3",
-      "graphic_id": "elife00190f003"
+      "graphic_id": "elife00190f003",
+      "format": "image"
     },
     "paragraph_image_fig3": {
       "type": "paragraph",
@@ -1951,19 +1897,12 @@
       "type": "image",
       "id": "image_fig3s1",
       "label": "Figure 3—figure supplement 1.",
-      "url": "",
-      "object_id": "F5",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00190/svg/elife00190fs002.svg",
       "title": "Tissue-specific expression of APA-2::GFP.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig3"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00190.007",
       "caption": "paragraph_image_fig3s1",
-      "graphic_id": "elife00190fs002"
+      "graphic_id": "elife00190fs002",
+      "format": "image"
     },
     "paragraph_image_fig3s1": {
       "type": "paragraph",
@@ -2231,19 +2170,12 @@
       "type": "image",
       "id": "image_fig4",
       "label": "Figure 4.",
-      "url": "",
-      "object_id": "F6",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00190/svg/elife00190f004.svg",
       "title": "α- and μ2-adaptin double mutant is synthetic.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00190.008",
       "caption": "paragraph_image_fig4",
-      "graphic_id": "elife00190f004"
+      "graphic_id": "elife00190f004",
+      "format": "image"
     },
     "paragraph_image_fig4": {
       "type": "paragraph",
@@ -2397,19 +2329,12 @@
       "type": "image",
       "id": "image_fig4s1",
       "label": "Figure 4—figure supplement 1.",
-      "url": "",
-      "object_id": "F7",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00190/svg/elife00190fs003.svg",
       "title": "AP2 mutants exhibit slowed postembryonic development.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig4"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00190.009",
       "caption": "paragraph_image_fig4s1",
-      "graphic_id": "elife00190fs003"
+      "graphic_id": "elife00190fs003",
+      "format": "image"
     },
     "paragraph_image_fig4s1": {
       "type": "paragraph",
@@ -2549,19 +2474,12 @@
       "type": "image",
       "id": "image_fig5",
       "label": "Figure 5.",
-      "url": "",
-      "object_id": "F8",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00190/svg/elife00190f005.svg",
       "title": "Endocytosis of α- and μ2-adaptin-dependent cargo.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00190.010",
       "caption": "paragraph_image_fig5",
-      "graphic_id": "elife00190f005"
+      "graphic_id": "elife00190f005",
+      "format": "image"
     },
     "paragraph_image_fig5": {
       "type": "paragraph",
@@ -2897,19 +2815,12 @@
       "type": "image",
       "id": "image_fig5fs1",
       "label": "Figure 5—figure supplement 1.",
-      "url": "",
-      "object_id": "F9",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00190/svg/elife00190fs004.svg",
       "title": "An AP2-independent cargo is not affected by AP2 subunits mutants.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig5"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00190.011",
       "caption": "paragraph_image_fig5fs1",
-      "graphic_id": "elife00190fs004"
+      "graphic_id": "elife00190fs004",
+      "format": "image"
     },
     "paragraph_image_fig5fs1": {
       "type": "paragraph",
@@ -2946,19 +2857,12 @@
       "type": "image",
       "id": "image_fig5s2",
       "label": "Figure 5—figure supplement 2.",
-      "url": "",
-      "object_id": "F10",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00190/svg/elife00190fs005.svg",
       "title": "Quantification of total fluorescence intensity of hTAC in the wild type and AP2 mutants.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig5"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00190.012",
       "caption": "paragraph_image_fig5s2",
-      "graphic_id": "elife00190fs005"
+      "graphic_id": "elife00190fs005",
+      "format": "image"
     },
     "paragraph_image_fig5s2": {
       "type": "paragraph",
@@ -3386,19 +3290,12 @@
       "type": "image",
       "id": "image_fig6",
       "label": "Figure 6.",
-      "url": "",
-      "object_id": "F11",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00190/svg/elife00190f006.svg",
       "title": "AP2 hemicomplexes are partially stable in vivo.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00190.013",
       "caption": "paragraph_image_fig6",
-      "graphic_id": "elife00190f006"
+      "graphic_id": "elife00190f006",
+      "format": "image"
     },
     "paragraph_image_fig6": {
       "type": "paragraph",
@@ -3565,19 +3462,12 @@
       "type": "image",
       "id": "image_fig6s1",
       "label": "Figure 6—figure supplement 1.",
-      "url": "",
-      "object_id": "F12",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00190/svg/elife00190fs006.svg",
       "title": "μ2-adaptin is present in α-adaptin mutants.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig6"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00190.014",
       "caption": "paragraph_image_fig6s1",
-      "graphic_id": "elife00190fs006"
+      "graphic_id": "elife00190fs006",
+      "format": "image"
     },
     "paragraph_image_fig6s1": {
       "type": "paragraph",
@@ -3653,19 +3543,12 @@
       "type": "image",
       "id": "image_fig6s2",
       "label": "Figure 6—figure supplement 2.",
-      "url": "",
-      "object_id": "F13",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00190/svg/elife00190fs007.svg",
       "title": "σ2-adaptin is more unstable in α-adaptin than in μ2-adaptin mutants.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig6"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00190.015",
       "caption": "paragraph_image_fig6s2",
-      "graphic_id": "elife00190fs007"
+      "graphic_id": "elife00190fs007",
+      "format": "image"
     },
     "paragraph_image_fig6s2": {
       "type": "paragraph",
@@ -3742,11 +3625,9 @@
       "id": "table_tbl1",
       "label": "Table 1.",
       "content": "<table><thead><tr><td></td><td><em>wild type</em></td><td><em>apa-2</em></td><td><em>apm-2</em></td></tr></thead><tbody><tr><td>σ2::GFP</td><td>3543 ± 169 (100%)</td><td>389 ± 28 (11%)</td><td>1391 ± 51 (39%)</td></tr><tr><td>β1::GFP</td><td>3881 ± 31 (100%)</td><td>2329 ± 123 (60%)</td><td>1360 ± 62 (35%)</td></tr><tr><td>μ2::GFP</td><td>2783 ± 142 (100%)</td><td>532 ± 73 (19%)</td><td>–</td></tr><tr><td>α::GFP</td><td>3230 ± 132 (100%)</td><td>–</td><td>1296 ± 126 (40%)</td></tr></tbody></table>",
-      "title": "",
       "footers": [],
       "doi": "http://dx.doi.org/10.7554/eLife.00190.016",
-      "caption": "paragraph_table_tbl1",
-      "format": ""
+      "caption": "paragraph_table_tbl1"
     },
     "paragraph_table_tbl1": {
       "type": "paragraph",
@@ -3769,8 +3650,7 @@
     "footer_247": {
       "type": "footer",
       "id": "footer_247",
-      "content": "The data are mean ± SEM of averaged fluorescence, n = 5 worms each. The p value for all pair-wise comparisons (wild type vs mutants or apa-2 vs apm-2) is p<0.0001. Student's t test. Note the beta subunit in C. elegans is shared by both the AP1 and AP2 complexes. Beta levels are reduced in apm-2 mutants compared to apa-2 mutants; however, beta is still present and stable in AP1 complexes in apm-2 mutants. In particular, beta is highly expressed in pharyngeal muscle, which is included in the region of interest.",
-      "label": ""
+      "content": "The data are mean ± SEM of averaged fluorescence, n = 5 worms each. The p value for all pair-wise comparisons (wild type vs mutants or apa-2 vs apm-2) is p<0.0001. Student's t test. Note the beta subunit in C. elegans is shared by both the AP1 and AP2 complexes. Beta levels are reduced in apm-2 mutants compared to apa-2 mutants; however, beta is still present and stable in AP1 complexes in apm-2 mutants. In particular, beta is highly expressed in pharyngeal muscle, which is included in the region of interest."
     },
     "annotation_248": {
       "type": "emphasis",
@@ -4193,19 +4073,12 @@
       "type": "image",
       "id": "image_fig7",
       "label": "Figure 7.",
-      "url": "",
-      "object_id": "F14",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00190/svg/elife00190f007.svg",
       "title": "α-adaptin mutants exhibit weak defects in synaptic vesicle protein localization.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00190.017",
       "caption": "paragraph_image_fig7",
-      "graphic_id": "elife00190f007"
+      "graphic_id": "elife00190f007",
+      "format": "image"
     },
     "paragraph_image_fig7": {
       "type": "paragraph",
@@ -4385,19 +4258,12 @@
       "type": "image",
       "id": "image_fig7s1",
       "label": "Figure 7—figure supplement 1.",
-      "url": "",
-      "object_id": "F15",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00190/svg/elife00190fs008.svg",
       "title": "α-adaptin colocalizes with synaptobrevin at synapses.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig7"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00190.018",
       "caption": "paragraph_image_fig7s1",
-      "graphic_id": "elife00190fs008"
+      "graphic_id": "elife00190fs008",
+      "format": "image"
     },
     "paragraph_image_fig7s1": {
       "type": "paragraph",
@@ -4491,19 +4357,12 @@
       "type": "image",
       "id": "image_fig8",
       "label": "Figure 8.",
-      "url": "",
-      "object_id": "F16",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00190/svg/elife00190f008.svg",
       "title": "Large vesicles accumulate at synapses in AP2 mutants.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00190.019",
       "caption": "paragraph_image_fig8",
-      "graphic_id": "elife00190f008"
+      "graphic_id": "elife00190f008",
+      "format": "image"
     },
     "paragraph_image_fig8": {
       "type": "paragraph",
@@ -4904,19 +4763,12 @@
       "type": "image",
       "id": "image_fig8s1",
       "label": "Figure 8—figure supplement 1.",
-      "url": "",
-      "object_id": "F17",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00190/svg/elife00190fs009.svg",
       "title": "Synaptic vesicles are reduced at GABA synapses in α-adaptin mutants and α-adaptin μ2-adaptin double mutants.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig8"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00190.020",
       "caption": "paragraph_image_fig8s1",
-      "graphic_id": "elife00190fs009"
+      "graphic_id": "elife00190fs009",
+      "format": "image"
     },
     "paragraph_image_fig8s1": {
       "type": "paragraph",
@@ -5018,19 +4870,12 @@
       "type": "image",
       "id": "image_fig8s2",
       "label": "Figure 8—figure supplement 2.",
-      "url": "",
-      "object_id": "F18",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00190/svg/elife00190fs010.svg",
       "title": "Synaptic vesicle diameters are larger in α-adaptin mutants.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig8"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00190.021",
       "caption": "paragraph_image_fig8s2",
-      "graphic_id": "elife00190fs010"
+      "graphic_id": "elife00190fs010",
+      "format": "image"
     },
     "paragraph_image_fig8s2": {
       "type": "paragraph",
@@ -5119,19 +4964,12 @@
       "type": "image",
       "id": "image_fig8s3",
       "label": "Figure 8—figure supplement 3.",
-      "url": "",
-      "object_id": "F19",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00190/svg/elife00190fs011.svg",
       "title": "Large vesicles accumulate in α-adaptin mutants and α-adaptin μ2-adaptin double mutants.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig8"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00190.022",
       "caption": "paragraph_image_fig8s3",
-      "graphic_id": "elife00190fs011"
+      "graphic_id": "elife00190fs011",
+      "format": "image"
     },
     "paragraph_image_fig8s3": {
       "type": "paragraph",
@@ -5220,19 +5058,12 @@
       "type": "image",
       "id": "image_fig8s4",
       "label": "Figure 8—figure supplement 4.",
-      "url": "",
-      "object_id": "F20",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00190/svg/elife00190fs012.svg",
       "title": "In some cases, the large vacuole remains associated with the plasma membrane in α-adaptin μ2-adaptin double mutants.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig8"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00190.023",
       "caption": "paragraph_image_fig8s4",
-      "graphic_id": "elife00190fs012"
+      "graphic_id": "elife00190fs012",
+      "format": "image"
     },
     "paragraph_image_fig8s4": {
       "type": "paragraph",
@@ -5725,19 +5556,12 @@
       "type": "image",
       "id": "image_fig9",
       "label": "Figure 9.",
-      "url": "",
-      "object_id": "F21",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00190/svg/elife00190f009.svg",
       "title": "Synaptic vesicle fusion is reduced in α adaptin mutants.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00190.024",
       "caption": "paragraph_image_fig9",
-      "graphic_id": "elife00190f009"
+      "graphic_id": "elife00190f009",
+      "format": "image"
     },
     "paragraph_image_fig9": {
       "type": "paragraph",
@@ -7977,17 +7801,24 @@
       "type": "supplement",
       "id": "supplement_SD1_data",
       "label": "Supplementary file 1.",
-      "source": "",
-      "title": "",
       "caption": "paragraph_supplement_SD1_data",
-      "content": "",
       "doi": "http://dx.doi.org/10.7554/eLife.00190.025",
-      "graphic_id": "elife00190s001.doc"
+      "files": [
+        "file_572"
+      ]
     },
     "paragraph_supplement_SD1_data": {
       "type": "paragraph",
       "id": "paragraph_supplement_SD1_data",
       "content": "Strains."
+    },
+    "file_572": {
+      "type": "file",
+      "id": "file_572",
+      "name": "DOC",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00190/suppl/elife00190s001.doc",
+      "graphic_id": "elife00190s001.doc",
+      "extension": ".doc"
     },
     "article_citation_bib1": {
       "type": "article_citation",
@@ -8022,17 +7853,10 @@
       "year": "2001",
       "volume": "21",
       "source": "J Neurosci",
-      "issue": "",
       "fpage": "8034",
       "lpage": "42",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib2": {
@@ -8068,17 +7892,9 @@
       "year": "2012",
       "volume": "7",
       "source": "PLoS One",
-      "issue": "",
       "fpage": "e38011",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib3": {
@@ -8110,17 +7926,10 @@
       "year": "2002",
       "volume": "109",
       "source": "Cell",
-      "issue": "",
       "fpage": "523",
       "lpage": "35",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib4": {
@@ -8148,17 +7957,10 @@
       "year": "1998",
       "volume": "280",
       "source": "Science",
-      "issue": "",
       "fpage": "431",
       "lpage": "4",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib5": {
@@ -8178,17 +7980,10 @@
       "year": "2009",
       "volume": "25",
       "source": "Annu Rev Cell Dev Biol",
-      "issue": "",
       "fpage": "133",
       "lpage": "60",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib6": {
@@ -8220,17 +8015,10 @@
       "year": "2007",
       "volume": "18",
       "source": "Mol Biol Cell",
-      "issue": "",
       "fpage": "1887",
       "lpage": "96",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib7": {
@@ -8266,17 +8054,10 @@
       "year": "2008",
       "volume": "57",
       "source": "Neuron",
-      "issue": "",
       "fpage": "353",
       "lpage": "63",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib8": {
@@ -8300,17 +8081,10 @@
       "year": "1999",
       "volume": "19",
       "source": "J Neurosci",
-      "issue": "",
       "fpage": "5847",
       "lpage": "60",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib9": {
@@ -8346,17 +8120,10 @@
       "year": "2001",
       "volume": "291",
       "source": "Science",
-      "issue": "",
       "fpage": "1051",
       "lpage": "5",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib10": {
@@ -8392,17 +8159,10 @@
       "year": "2008",
       "volume": "40",
       "source": "Nat Genet",
-      "issue": "",
       "fpage": "1375",
       "lpage": "83",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib11": {
@@ -8438,17 +8198,10 @@
       "year": "2012",
       "volume": "149",
       "source": "Cell",
-      "issue": "",
       "fpage": "1339",
       "lpage": "52",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib12": {
@@ -8484,17 +8237,10 @@
       "year": "2010",
       "volume": "29",
       "source": "EMBO J",
-      "issue": "",
       "fpage": "1318",
       "lpage": "30",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib13": {
@@ -8514,17 +8260,10 @@
       "year": "1997",
       "volume": "88",
       "source": "Cell",
-      "issue": "",
       "fpage": "767",
       "lpage": "76",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib14": {
@@ -8544,17 +8283,10 @@
       "year": "1999",
       "volume": "10",
       "source": "Mol Biol Cell",
-      "issue": "",
       "fpage": "4311",
       "lpage": "26",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib15": {
@@ -8590,17 +8322,10 @@
       "year": "2008",
       "volume": "183",
       "source": "J Cell Biol",
-      "issue": "",
       "fpage": "881",
       "lpage": "92",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib16": {
@@ -8632,17 +8357,9 @@
       "year": "2007",
       "volume": "5",
       "source": "PLoS Biol.",
-      "issue": "",
       "fpage": "e198",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib17": {
@@ -8674,17 +8391,10 @@
       "year": "1999",
       "volume": "274",
       "source": "J Biol Chem",
-      "issue": "",
       "fpage": "22785",
       "lpage": "94",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib18": {
@@ -8716,17 +8426,10 @@
       "year": "2000",
       "volume": "19",
       "source": "EMBO J",
-      "issue": "",
       "fpage": "6011",
       "lpage": "9",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib19": {
@@ -8746,17 +8449,10 @@
       "year": "1973",
       "volume": "57",
       "source": "J Cell Biol",
-      "issue": "",
       "fpage": "315",
       "lpage": "44",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib20": {
@@ -8788,17 +8484,10 @@
       "year": "2007",
       "volume": "120",
       "source": "J Cell Sci",
-      "issue": "",
       "fpage": "2741",
       "lpage": "51",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib21": {
@@ -8834,17 +8523,10 @@
       "year": "2010",
       "volume": "141",
       "source": "Cell",
-      "issue": "",
       "fpage": "1220",
       "lpage": "9",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib22": {
@@ -8872,17 +8554,10 @@
       "year": "2001",
       "volume": "411",
       "source": "Nature",
-      "issue": "",
       "fpage": "41",
       "lpage": "2",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib23": {
@@ -8902,17 +8577,10 @@
       "year": "1996",
       "volume": "15",
       "source": "EMBO J",
-      "issue": "",
       "fpage": "3633",
       "lpage": "9",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib24": {
@@ -8948,17 +8616,10 @@
       "year": "1995",
       "volume": "378",
       "source": "Nature",
-      "issue": "",
       "fpage": "196",
       "lpage": "9",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib25": {
@@ -8994,17 +8655,10 @@
       "year": "2007",
       "volume": "179",
       "source": "J Cell Biol",
-      "issue": "",
       "fpage": "1497",
       "lpage": "510",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib26": {
@@ -9040,17 +8694,10 @@
       "year": "1998",
       "volume": "21",
       "source": "Neuron",
-      "issue": "",
       "fpage": "111",
       "lpage": "22",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib27": {
@@ -9086,17 +8733,10 @@
       "year": "2007",
       "volume": "104",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "2991",
       "lpage": "6",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib28": {
@@ -9132,17 +8772,10 @@
       "year": "2008",
       "volume": "456",
       "source": "Nature",
-      "issue": "",
       "fpage": "976",
       "lpage": "79",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib29": {
@@ -9162,17 +8795,10 @@
       "year": "2009",
       "volume": "29",
       "source": "J Neurosci",
-      "issue": "",
       "fpage": "3865",
       "lpage": "74",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib30": {
@@ -9208,17 +8834,10 @@
       "year": "2005",
       "volume": "102",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "14871",
       "lpage": "6",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib31": {
@@ -9246,17 +8865,10 @@
       "year": "2007",
       "volume": "27",
       "source": "J Neurosci",
-      "issue": "",
       "fpage": "10404",
       "lpage": "13",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib32": {
@@ -9284,17 +8896,10 @@
       "year": "1990",
       "volume": "265",
       "source": "J Biol Chem",
-      "issue": "",
       "fpage": "16514",
       "lpage": "20",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib33": {
@@ -9318,17 +8923,10 @@
       "year": "2010",
       "volume": "11",
       "source": "Traffic",
-      "issue": "",
       "fpage": "8",
       "lpage": "15",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib34": {
@@ -9348,17 +8946,10 @@
       "year": "1998",
       "volume": "74",
       "source": "Biophys J",
-      "issue": "",
       "fpage": "2862",
       "lpage": "75",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib35": {
@@ -9378,17 +8969,10 @@
       "year": "1990",
       "volume": "29",
       "source": "Biochemistry",
-      "issue": "",
       "fpage": "10791",
       "lpage": "8",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib36": {
@@ -9424,17 +9008,10 @@
       "year": "2011",
       "volume": "147",
       "source": "Cell",
-      "issue": "",
       "fpage": "1118",
       "lpage": "31",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib37": {
@@ -9470,17 +9047,10 @@
       "year": "2004",
       "volume": "279",
       "source": "J Biol Chem",
-      "issue": "",
       "fpage": "46191",
       "lpage": "203",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib38": {
@@ -9516,17 +9086,10 @@
       "year": "2005",
       "volume": "25",
       "source": "Mol Cell Biol",
-      "issue": "",
       "fpage": "9318",
       "lpage": "23",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib39": {
@@ -9554,17 +9117,10 @@
       "year": "2003",
       "volume": "162",
       "source": "J Cell Biol",
-      "issue": "",
       "fpage": "909",
       "lpage": "18",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib40": {
@@ -9600,17 +9156,9 @@
       "year": "2012",
       "volume": "7",
       "source": "PLoS One",
-      "issue": "",
       "fpage": "e40095",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib41": {
@@ -9646,17 +9194,10 @@
       "year": "2004",
       "volume": "167",
       "source": "J Cell Biol",
-      "issue": "",
       "fpage": "293",
       "lpage": "302",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib42": {
@@ -9692,17 +9233,10 @@
       "year": "1999",
       "volume": "10",
       "source": "Mol Biol Cell",
-      "issue": "",
       "fpage": "2343",
       "lpage": "60",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib43": {
@@ -9734,17 +9268,10 @@
       "year": "2000",
       "volume": "19",
       "source": "EMBO J",
-      "issue": "",
       "fpage": "4216",
       "lpage": "27",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib44": {
@@ -9780,17 +9307,10 @@
       "year": "2008",
       "volume": "14",
       "source": "Dev Cell",
-      "issue": "",
       "fpage": "132",
       "lpage": "9",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib45": {
@@ -9814,17 +9334,10 @@
       "year": "2006",
       "volume": "50",
       "source": "Neuron",
-      "issue": "",
       "fpage": "49",
       "lpage": "62",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib46": {
@@ -9860,17 +9373,10 @@
       "year": "2004",
       "volume": "23",
       "source": "EMBO J",
-      "issue": "",
       "fpage": "4371",
       "lpage": "83",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib47": {
@@ -9894,17 +9400,10 @@
       "year": "1999",
       "volume": "2",
       "source": "Nat Neurosci",
-      "issue": "",
       "fpage": "959",
       "lpage": "64",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib48": {
@@ -9920,17 +9419,10 @@
       "year": "2004",
       "volume": "14",
       "source": "Trends Cell Biol",
-      "issue": "",
       "fpage": "167",
       "lpage": "74",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib49": {
@@ -9946,17 +9438,10 @@
       "year": "2006",
       "volume": "63",
       "source": "Cell Mol Life Sci",
-      "issue": "",
       "fpage": "1823",
       "lpage": "32",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib50": {
@@ -9992,17 +9477,10 @@
       "year": "2000",
       "volume": "151",
       "source": "J Cell Biol",
-      "issue": "",
       "fpage": "1345",
       "lpage": "52",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib51": {
@@ -10038,17 +9516,10 @@
       "year": "2009",
       "volume": "106",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "1139",
       "lpage": "44",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib52": {
@@ -10084,17 +9555,10 @@
       "year": "2005",
       "volume": "7",
       "source": "Nat Cell Biol",
-      "issue": "",
       "fpage": "559",
       "lpage": "69",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib53": {
@@ -10130,17 +9594,9 @@
       "year": "2006",
       "volume": "4",
       "source": "PLoS Biol",
-      "issue": "",
       "fpage": "e262",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib54": {
@@ -10168,17 +9624,10 @@
       "year": "2007",
       "volume": "10",
       "source": "Nat Neurosci",
-      "issue": "",
       "fpage": "846",
       "lpage": "53",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib55": {
@@ -10202,17 +9651,10 @@
       "year": "1995",
       "volume": "270",
       "source": "J Biol Chem",
-      "issue": "",
       "fpage": "31083",
       "lpage": "90",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib56": {
@@ -10228,17 +9670,10 @@
       "year": "2003",
       "volume": "163",
       "source": "J Cell Biol",
-      "issue": "",
       "fpage": "203",
       "lpage": "8",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib57": {
@@ -10258,17 +9693,10 @@
       "year": "2009",
       "volume": "37",
       "source": "Biochem Soc Trans",
-      "issue": "",
       "fpage": "1355",
       "lpage": "8",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib58": {
@@ -10304,17 +9732,10 @@
       "year": "2006",
       "volume": "51",
       "source": "Neuron",
-      "issue": "",
       "fpage": "71",
       "lpage": "84",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib59": {
@@ -10342,17 +9763,10 @@
       "year": "1994",
       "volume": "78",
       "source": "Cell",
-      "issue": "",
       "fpage": "751",
       "lpage": "60",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "sub-article": {

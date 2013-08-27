@@ -27,53 +27,54 @@
         "paragraph_61",
         "heading_s2-2",
         "paragraph_69",
+        "paragraph_80",
         "heading_s2-3",
-        "paragraph_84",
-        "paragraph_93",
-        "paragraph_98",
-        "paragraph_117",
+        "paragraph_88",
+        "paragraph_97",
+        "paragraph_102",
         "paragraph_121",
+        "paragraph_125",
         "heading_s2-4",
-        "paragraph_124",
-        "paragraph_145",
+        "paragraph_128",
+        "paragraph_149",
         "heading_s2-5",
-        "paragraph_152",
+        "paragraph_156",
         "heading_s3",
-        "paragraph_166",
-        "paragraph_172",
-        "paragraph_182",
+        "paragraph_170",
+        "paragraph_176",
+        "paragraph_186",
         "heading_s4",
         "heading_s4-1",
-        "paragraph_188",
+        "paragraph_192",
         "heading_s4-2",
-        "paragraph_193",
+        "paragraph_197",
         "heading_s4-3",
-        "paragraph_196",
-        "heading_s4-4",
-        "paragraph_198",
-        "heading_s4-5",
         "paragraph_200",
+        "heading_s4-4",
+        "paragraph_202",
+        "heading_s4-5",
+        "paragraph_204",
         "heading_s4-6",
-        "paragraph_203",
-        "heading_s4-7",
-        "paragraph_205",
-        "heading_s4-7-1",
         "paragraph_207",
+        "heading_s4-7",
         "paragraph_209",
-        "paragraph_210",
-        "heading_s4-7-2",
+        "heading_s4-7-1",
+        "paragraph_211",
+        "paragraph_213",
         "paragraph_214",
+        "heading_s4-7-2",
+        "paragraph_218",
         "formula_equ1",
-        "paragraph_217",
-        "paragraph_220",
+        "paragraph_221",
+        "paragraph_224",
         "formula_equ2",
-        "paragraph_231",
-        "paragraph_233",
+        "paragraph_235",
+        "paragraph_237",
         "formula_equ3",
-        "paragraph_234",
         "paragraph_238",
+        "paragraph_242",
         "formula_equ4",
-        "paragraph_239",
+        "paragraph_243",
         "sub-article",
         "sub-article"
       ]
@@ -87,6 +88,7 @@
         "image_fig1s2",
         "image_fig1s3",
         "video_video1",
+        "video_video2",
         "video_video3",
         "image_fig2",
         "image_fig3",
@@ -168,7 +170,6 @@
       "accepted_on": "2013-06-28",
       "published_on": "2013-08-06",
       "journal": "elife",
-      "article_type": "",
       "keywords": [
         "cilia",
         "IFT",
@@ -183,10 +184,9 @@
       "subjects": [
         "Cell biology"
       ],
-      "pdf_link": "",
-      "xml_link": "",
-      "json_link": "",
-      "doi": ""
+      "xml_link": "https://s3.amazonaws.com/elife-cdn/elife-articles/00654/elife00654.xml",
+      "json_link": "https://s3.amazonaws.com/elife-cdn/elife-articles/00654/00654.json",
+      "doi": "http://dx.doi.org/10.7554/eLife.00654"
     },
     "person_author_4167": {
       "type": "person",
@@ -195,9 +195,7 @@
       "last-name": "Ye",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article",
-      "email": "",
       "funding": []
     },
     "person_author_4168": {
@@ -207,9 +205,7 @@
       "last-name": "Breslow",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article",
-      "email": "",
       "funding": [
         "funding_par_5"
       ]
@@ -221,9 +217,7 @@
       "last-name": "Koslover",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Analysis and interpretation of data, Drafting or revising the article",
-      "email": "",
       "funding": []
     },
     "person_author_4170": {
@@ -233,9 +227,7 @@
       "last-name": "Spakowitz",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Analysis and interpretation of data, Drafting or revising the article",
-      "email": "",
       "funding": []
     },
     "person_author_1148": {
@@ -245,7 +237,6 @@
       "last-name": "Nelson",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Analysis and interpretation of data, Drafting or revising the article",
       "email": "email:cor1",
       "funding": [
@@ -260,7 +251,6 @@
       "last-name": "Nachury",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Analysis and interpretation of data",
       "email": "email:cor2",
       "funding": [
@@ -273,27 +263,21 @@
       "id": "institution_aff1",
       "name": "Stanford University School of Medicine",
       "city": "Stanford",
-      "country": "United States",
-      "email": "",
-      "image": ""
+      "country": "United States"
     },
     "institution_aff2": {
       "type": "institution",
       "id": "institution_aff2",
       "name": "Stanford University",
       "city": "Stanford",
-      "country": "United States",
-      "email": "",
-      "image": ""
+      "country": "United States"
     },
     "institution_aff3": {
       "type": "institution",
       "id": "institution_aff3",
       "name": "Stanford University",
       "city": "Stanford",
-      "country": "United States",
-      "email": "",
-      "image": ""
+      "country": "United States"
     },
     "person_1": {
       "type": "person",
@@ -302,9 +286,6 @@
       "last-name": "Malhotra",
       "role": "editor",
       "affiliations": [],
-      "image": "",
-      "contribution": "",
-      "email": "",
       "funding": []
     },
     "info:review": {
@@ -319,13 +300,11 @@
     "email_cor1": {
       "type": "email",
       "id": "email_cor1",
-      "node": "",
       "email": "wjnelson@stanford.edu"
     },
     "email_cor2": {
       "type": "email",
       "id": "email_cor2",
-      "node": "",
       "email": "nachury@stanford.edu"
     },
     "info:copyright": {
@@ -533,8 +512,7 @@
     },
     "paragraph_18": {
       "type": "paragraph",
-      "id": "paragraph_18",
-      "content": ""
+      "id": "paragraph_18"
     },
     "heading_s1": {
       "type": "heading",
@@ -942,19 +920,12 @@
       "type": "image",
       "id": "image_fig1",
       "label": "Figure 1.",
-      "url": "",
-      "object_id": "F1",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00654/svg/elife00654f001.svg",
       "title": "Real-time imaging of single signaling receptors in cilia of live cells.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00654.003",
       "caption": "paragraph_image_fig1",
-      "graphic_id": "elife00654f001"
+      "graphic_id": "elife00654f001",
+      "format": "image"
     },
     "paragraph_image_fig1": {
       "type": "paragraph",
@@ -1017,19 +988,12 @@
       "type": "image",
       "id": "image_fig1s1",
       "label": "Figure 1—figure supplement 1.",
-      "url": "",
-      "object_id": "F2",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00654/svg/elife00654fs001.svg",
       "title": "Additional kymographs.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig1"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00654.004",
       "caption": "paragraph_image_fig1s1",
-      "graphic_id": "elife00654fs001"
+      "graphic_id": "elife00654fs001",
+      "format": "image"
     },
     "paragraph_image_fig1s1": {
       "type": "paragraph",
@@ -1066,19 +1030,12 @@
       "type": "image",
       "id": "image_fig1s2",
       "label": "Figure 1—figure supplement 2.",
-      "url": "",
-      "object_id": "F3",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00654/svg/elife00654fs002.svg",
       "title": "Additional dual channel kymographs.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig1"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00654.005",
       "caption": "paragraph_image_fig1s2",
-      "graphic_id": "elife00654fs002"
+      "graphic_id": "elife00654fs002",
+      "format": "image"
     },
     "paragraph_image_fig1s2": {
       "type": "paragraph",
@@ -1089,19 +1046,12 @@
       "type": "image",
       "id": "image_fig1s3",
       "label": "Figure 1—figure supplement 3.",
-      "url": "",
-      "object_id": "F4",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00654/svg/elife00654fs003.svg",
       "title": "Half-cilium FRAP.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig1"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00654.006",
       "caption": "paragraph_image_fig1s3",
-      "graphic_id": "elife00654fs003"
+      "graphic_id": "elife00654fs003",
+      "format": "image"
     },
     "paragraph_image_fig1s3": {
       "type": "paragraph",
@@ -1246,22 +1196,34 @@
     "video_video1": {
       "type": "video",
       "id": "video_video1",
-      "label": "Video 2.",
-      "title": "Live cell imaging of a single ciliary SSTR3 molecule.Live cell imaging of a single ciliary Smo molecule.",
+      "label": "Video 1.",
+      "title": "Live cell imaging of a single ciliary SSTR3 molecule.",
       "caption": "paragraph_video_video1",
-      "content_type": "",
-      "url_ogv": "http://static.movie-usa.glencoesoftware.com/ogv/10.7554/elife00654v002.ogv",
-      "url_jpg": "",
-      "url_mp4": "",
-      "doi": "http://dx.doi.org/10.7554/eLife.00654.007http://dx.doi.org/10.7554/eLife.00654.008",
-      "url": "http://static.movie-usa.glencoesoftware.com/mp4/10.7554/elife00654v002.mp4",
-      "poster": "http://static.movie-usa.glencoesoftware.com/jpg/10.7554/elife00654v002.jpg",
-      "graphic_id": "elife00654v002.mov"
+      "url_ogv": "http://static.movie-usa.glencoesoftware.com/ogv/10.7554/elife00654v001.ogv",
+      "doi": "http://dx.doi.org/10.7554/eLife.00654.007",
+      "url": "http://static.movie-usa.glencoesoftware.com/mp4/10.7554/elife00654v001.mp4",
+      "poster": "http://static.movie-usa.glencoesoftware.com/jpg/10.7554/elife00654v001.jpg"
     },
     "paragraph_video_video1": {
       "type": "paragraph",
       "id": "paragraph_video_video1",
       "content": "IMCD3 cells stably expressing AP-SSTR3-GFP (pseudo-colored red) were transfected with BirA-ER to biotinylate AP-SSTR3-GFP. Biotinylated SSTR3 was detected with mSA-Alexa647 (mSA, pseudo-colored green). The tip (T) and the base (B) of the cilium are indicated. Scale bar, 2 μm."
+    },
+    "video_video2": {
+      "type": "video",
+      "id": "video_video2",
+      "label": "Video 2.",
+      "title": "Live cell imaging of a single ciliary Smo molecule.",
+      "caption": "paragraph_video_video2",
+      "url_ogv": "http://static.movie-usa.glencoesoftware.com/ogv/10.7554/elife00654v002.ogv",
+      "doi": "http://dx.doi.org/10.7554/eLife.00654.008",
+      "url": "http://static.movie-usa.glencoesoftware.com/mp4/10.7554/elife00654v002.mp4",
+      "poster": "http://static.movie-usa.glencoesoftware.com/jpg/10.7554/elife00654v002.jpg"
+    },
+    "paragraph_video_video2": {
+      "type": "paragraph",
+      "id": "paragraph_video_video2",
+      "content": "IMCD3 cells stably expressing AP-Smo-YFP (Smo, pseudo-colored red) were transfected with BirA-ER to biotinylate AP-Smo-YFP. Biotinylated Smo was detected with mSA-Alexa647 (mSA, pseudo-colored green). The tip (T) and the base (B) of the cilium are indicated. Scale bar, 2 μm."
     },
     "heading_s2-2": {
       "type": "heading",
@@ -1411,10 +1373,7 @@
       "label": "Video 3.",
       "title": "Representative examples of half-cilium FRAP in different conditions.",
       "caption": "paragraph_video_video3",
-      "content_type": "",
       "url_ogv": "http://static.movie-usa.glencoesoftware.com/ogv/10.7554/elife00654v003.ogv",
-      "url_jpg": "",
-      "url_mp4": "",
       "doi": "http://dx.doi.org/10.7554/eLife.00654.009",
       "url": "http://static.movie-usa.glencoesoftware.com/mp4/10.7554/elife00654v003.mp4",
       "poster": "http://static.movie-usa.glencoesoftware.com/jpg/10.7554/elife00654v003.jpg"
@@ -1424,32 +1383,69 @@
       "id": "paragraph_video_video3",
       "content": "The distal half of the cilia were photobleached and the recovery rate of the SSTR3-GFP fluorescent signal in the bleached region was recorded at 1 s interval. Scale bar, 2 μm."
     },
+    "paragraph_80": {
+      "type": "paragraph",
+      "id": "paragraph_80",
+      "content": "Half-cilium FRAP allowed us to calculate an apparent diffusion coefficient of 0.25 μm2/s for SSTR3, which reflects a mixture of active transport and diffusion (‘Materials and methods’). Importantly, comparing the mobility of SSTR3 in the presence or absence of saturating amounts of mSA showed that our single molecule labeling strategy did not affect SSTR3 mobility (Figure 2A–C). In addition, our tagging and labeling strategy does not disrupt the signaling properties of SSTR3 since AP-SSTR3-GFP underwent agonist-induced endocytosis from the plasma membrane, a common feature of GPCRs upon activation (Figure 2D). These results lead us to conclude that our single molecule imaging reflects the dynamics of functional SSTR3 molecules."
+    },
+    "annotation_81": {
+      "type": "superscript",
+      "id": "annotation_81",
+      "path": [
+        "paragraph_80",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        85,
+        86
+      ]
+    },
+    "figure_reference_82": {
+      "type": "figure_reference",
+      "id": "figure_reference_82",
+      "path": [
+        "paragraph_80",
+        "content"
+      ],
+      "target": "image_fig2",
+      "range": [
+        368,
+        379
+      ]
+    },
+    "figure_reference_83": {
+      "type": "figure_reference",
+      "id": "figure_reference_83",
+      "path": [
+        "paragraph_80",
+        "content"
+      ],
+      "target": "image_fig2",
+      "range": [
+        606,
+        615
+      ]
+    },
     "image_fig2": {
       "type": "image",
       "id": "image_fig2",
       "label": "Figure 2.",
-      "url": "",
-      "object_id": "F5",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00654/svg/elife00654f002.svg",
       "title": "Functionality of the AP-SSTR3-GFP fusion protein.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00654.010",
       "caption": "paragraph_image_fig2",
-      "graphic_id": "elife00654f002"
+      "graphic_id": "elife00654f002",
+      "format": "image"
     },
     "paragraph_image_fig2": {
       "type": "paragraph",
       "id": "paragraph_image_fig2",
       "content": "(A) Saturated labeling of biotinylated AP-SSTR3-GFP (SSTR3-GFP) with 20 nM of mSA-Alexa647 (mSA) for 1 hr. Scale bar, 2 μm. (B) Time series montage represents the mobility of ciliary AP-SSTR3-GFP saturatedly labeled with mSA-Alexa647 after photobleaching. Scale bar, 2 μm. (C) The diffusion coefficients quantified from control cells vs cells with saturated staining of mSA-Alexa647 (mSA). More than 10 cilia were analyzed for each condition. Error bars, SD. p>0.05. (D) Live cell imaging of HEK293T cells expressing AP-SSTR3-GFP. Cells were treated with 10 μM Octreotide or Somatostatin immediately before imaging."
     },
-    "annotation_80": {
+    "annotation_84": {
       "type": "strong",
-      "id": "annotation_80",
+      "id": "annotation_84",
       "path": [
         "paragraph_image_fig2",
         "content"
@@ -1460,9 +1456,9 @@
         2
       ]
     },
-    "annotation_81": {
+    "annotation_85": {
       "type": "strong",
-      "id": "annotation_81",
+      "id": "annotation_85",
       "path": [
         "paragraph_image_fig2",
         "content"
@@ -1473,9 +1469,9 @@
         126
       ]
     },
-    "annotation_82": {
+    "annotation_86": {
       "type": "strong",
-      "id": "annotation_82",
+      "id": "annotation_86",
       "path": [
         "paragraph_image_fig2",
         "content"
@@ -1486,9 +1482,9 @@
         275
       ]
     },
-    "annotation_83": {
+    "annotation_87": {
       "type": "strong",
-      "id": "annotation_83",
+      "id": "annotation_87",
       "path": [
         "paragraph_image_fig2",
         "content"
@@ -1506,16 +1502,16 @@
       "content": "Relative contributions of active transport and diffusion to protein movements inside cilia",
       "nodes": []
     },
-    "paragraph_84": {
+    "paragraph_88": {
       "type": "paragraph",
-      "id": "paragraph_84",
+      "id": "paragraph_88",
       "content": "To determine the proportion of time that SSTR3 and Smo spend undergoing active transport we used a statistical analysis of instant velocities, which overcomes the intrinsic bias in manually selecting processive segments from the single molecules kymographs. The combination of motor-driven velocities and diffusive velocities found in live cells was deconvolved by effectively removing motor-driven transport, thus isolating diffusive events. Since the IFT motors kinesin II and dynein 1b require ATP to power active transport, we depleted ATP using two independent approaches. First, we added antimycin and deoxyglucose to cells to interrupt mitochondrial respiration and anaerobic glycolysis. This treatment reduced cellular ATP levels by 90% (Figure 3C), indicating that some ATP generation system(s) remained (e.g., phosphocreatine). Nevertheless, this treatment inhibited all IFT88 foci movements (Figure 3A). However, the saltatory movements of single SSTR3 molecule in the same cilia were unaffected (Figure 3B, and Figure 3—figure supplement 1)."
     },
-    "figure_reference_85": {
+    "figure_reference_89": {
       "type": "figure_reference",
-      "id": "figure_reference_85",
+      "id": "figure_reference_89",
       "path": [
-        "paragraph_84",
+        "paragraph_88",
         "content"
       ],
       "target": "image_fig3",
@@ -1524,11 +1520,11 @@
         755
       ]
     },
-    "figure_reference_86": {
+    "figure_reference_90": {
       "type": "figure_reference",
-      "id": "figure_reference_86",
+      "id": "figure_reference_90",
       "path": [
-        "paragraph_84",
+        "paragraph_88",
         "content"
       ],
       "target": "image_fig3",
@@ -1537,11 +1533,11 @@
         912
       ]
     },
-    "figure_reference_87": {
+    "figure_reference_91": {
       "type": "figure_reference",
-      "id": "figure_reference_87",
+      "id": "figure_reference_91",
       "path": [
-        "paragraph_84",
+        "paragraph_88",
         "content"
       ],
       "target": "image_fig3",
@@ -1550,11 +1546,11 @@
         1017
       ]
     },
-    "figure_reference_88": {
+    "figure_reference_92": {
       "type": "figure_reference",
-      "id": "figure_reference_88",
+      "id": "figure_reference_92",
       "path": [
-        "paragraph_84",
+        "paragraph_88",
         "content"
       ],
       "target": "image_fig3s1",
@@ -1567,28 +1563,21 @@
       "type": "image",
       "id": "image_fig3",
       "label": "Figure 3.",
-      "url": "",
-      "object_id": "F6",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00654/svg/elife00654f003.svg",
       "title": "Single molecule imaging in ATP-depleted cells reveals the receptor population undergoing active transport in live cells.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00654.011",
       "caption": "paragraph_image_fig3",
-      "graphic_id": "elife00654f003"
+      "graphic_id": "elife00654f003",
+      "format": "image"
     },
     "paragraph_image_fig3": {
       "type": "paragraph",
       "id": "paragraph_image_fig3",
       "content": "(A) Kymographs of GFP-IFT88 foci movements after Antimycin A and 2-deoxyglucose (2DG) treatment. Scale bar, 2 μm. (B) Kymographs of simultaneous live cell imaging of tagRFP.T-IFT88 (IFT88) and single molecule SSTR3 (SSTR3) movement before and after 40 min of Antimycin A and 2DG treatment. Scale bar, 2 μm. (C) ATP levels quantified by luciferin-luciferase bioluminescence assay normalized to the levels in control-treated cells. To deplete intracellular ATP, IMCD3 cells were treated with 20 μM Antimycin + 10 mM 2DG for 40 min. Each treatment was measured in triplicate. (D) Instant velocity distributions of single SSTR3 movements in untreated vs ATP-depleted cells. Statistical analyses show a significant difference between velocity distributions of untreated and ATP-depleted cells for both the anterograde velocities (p=0.03) and retrograde velocities (p=0.03). The live cell data (blue) was fitted to a mixed model combining the ATP-depleted data (green) and an additional Gaussian distribution (red), with the latter found to contribute a fraction of 26.6 +/− 5.9% (anterograde) and 12.8 +/− 3.1% (retrograde). n>1200."
     },
-    "annotation_89": {
+    "annotation_93": {
       "type": "strong",
-      "id": "annotation_89",
+      "id": "annotation_93",
       "path": [
         "paragraph_image_fig3",
         "content"
@@ -1599,9 +1588,9 @@
         2
       ]
     },
-    "annotation_90": {
+    "annotation_94": {
       "type": "strong",
-      "id": "annotation_90",
+      "id": "annotation_94",
       "path": [
         "paragraph_image_fig3",
         "content"
@@ -1612,9 +1601,9 @@
         116
       ]
     },
-    "annotation_91": {
+    "annotation_95": {
       "type": "strong",
-      "id": "annotation_91",
+      "id": "annotation_95",
       "path": [
         "paragraph_image_fig3",
         "content"
@@ -1625,9 +1614,9 @@
         309
       ]
     },
-    "annotation_92": {
+    "annotation_96": {
       "type": "strong",
-      "id": "annotation_92",
+      "id": "annotation_96",
       "path": [
         "paragraph_image_fig3",
         "content"
@@ -1642,35 +1631,28 @@
       "type": "image",
       "id": "image_fig3s1",
       "label": "Figure 3—figure supplement 1.",
-      "url": "",
-      "object_id": "F7",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00654/svg/elife00654fs004.svg",
       "title": "Additional kymographs.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig3"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00654.012",
       "caption": "paragraph_image_fig3s1",
-      "graphic_id": "elife00654fs004"
+      "graphic_id": "elife00654fs004",
+      "format": "image"
     },
     "paragraph_image_fig3s1": {
       "type": "paragraph",
       "id": "paragraph_image_fig3s1",
       "content": "Additional kymographs representing the movement of single mSA-Alexa647 labeled AP-SSTR3-GFP in cells treated with Antimycin A and deoxyglucose. The tip (T) and the base (B) of the cilium are indicated. Scale bars, 2 μm (y), 4 s (x)."
     },
-    "paragraph_93": {
+    "paragraph_97": {
       "type": "paragraph",
-      "id": "paragraph_93",
+      "id": "paragraph_97",
       "content": "To reveal the fraction of SSTR3 molecules undergoing active transport, we conducted a differential analysis of single SSTR3 molecule movements in cilia of control vs antimycin/deoxyglucose-treated cells. Since kinesin II and dynein 1b each move at characteristic velocities (Scholey, 2008), motor-driven movements of single SSTR3 molecules should be enriched in the distribution of instant velocities along the cilium in control cells vs antimycin/deoxyglucose-treated cells (Figure 3D). Differences between distributions were analyzed by performing an effective histogram subtraction (‘Materials and methods’). Anterograde and retrograde velocities were binned separately to create histograms with an optimum bin size that generated an unbiased estimate of the distributions (Scott, 1979). Using nonlinear least-squares regression, the live cell velocity histogram was fitted to a mixed distribution consisting of fraction f of a Gaussian with unknown mean and variance and fraction (1−f) of the antimycin/deoxyglucose-treated cell distribution. This, and two other (‘Materials and methods’), unbiased statistical tests were highly significant for both anterograde and retrograde SSTR3 velocities, and indicated that 27% of anterograde and 13% of retrograde movements of SSTR3 involved active transport (Figure 3D)."
     },
-    "citation_reference_94": {
+    "citation_reference_98": {
       "type": "citation_reference",
-      "id": "citation_reference_94",
+      "id": "citation_reference_98",
       "path": [
-        "paragraph_93",
+        "paragraph_97",
         "content"
       ],
       "target": "article_citation_bib33",
@@ -1679,11 +1661,11 @@
         288
       ]
     },
-    "figure_reference_95": {
+    "figure_reference_99": {
       "type": "figure_reference",
-      "id": "figure_reference_95",
+      "id": "figure_reference_99",
       "path": [
-        "paragraph_93",
+        "paragraph_97",
         "content"
       ],
       "target": "image_fig3",
@@ -1692,11 +1674,11 @@
         485
       ]
     },
-    "citation_reference_96": {
+    "citation_reference_100": {
       "type": "citation_reference",
-      "id": "citation_reference_96",
+      "id": "citation_reference_100",
       "path": [
-        "paragraph_93",
+        "paragraph_97",
         "content"
       ],
       "target": "article_citation_bib35",
@@ -1705,11 +1687,11 @@
         788
       ]
     },
-    "figure_reference_97": {
+    "figure_reference_101": {
       "type": "figure_reference",
-      "id": "figure_reference_97",
+      "id": "figure_reference_101",
       "path": [
-        "paragraph_93",
+        "paragraph_97",
         "content"
       ],
       "target": "image_fig3",
@@ -1718,16 +1700,16 @@
         1314
       ]
     },
-    "paragraph_98": {
+    "paragraph_102": {
       "type": "paragraph",
-      "id": "paragraph_98",
+      "id": "paragraph_102",
       "content": "Second, we used the cholesterol-selective detergent digitonin. which selectively permeabilizes the plasma membrane but leaves the ciliary membrane intact (Breslow et al.). This results in depletion of cytoplasmic ciliary contents including motors and ATP (Figure 4A, top panel). As expected, this treatment reduced the ATP concentration to undetectable levels (Figure 4E, and Figure 4—figure supplement 1). Significantly, IFT foci movements were completely inhibited, while SSTR3 molecules retained their saltatory behavior (Figure 4A, and Figure 4—figure supplement 2A). Again, three unbiased statistical tests found highly significant differences in the distribution of instant velocities between untreated and digitonin-treated cells. Applying the same effective subtraction of instant velocities as done for antimycin/deoxyglucose-treated cells, we found that 22% of anterograde and 24% of retrograde movements of SSTR3 involved active transport (Figure 4B). Importantly, the mean of the Gaussians representing the differences of instant velocities between untreated and digitonin-permeabilized cells aligned closely with the mean velocities of IFT foci movements (Figure 4D). This strongly suggests that the active transport events detected by our statistical subtraction are powered by the IFT motors kinesin II and dynein 1b."
     },
-    "citation_reference_99": {
+    "citation_reference_103": {
       "type": "citation_reference",
-      "id": "citation_reference_99",
+      "id": "citation_reference_103",
       "path": [
-        "paragraph_98",
+        "paragraph_102",
         "content"
       ],
       "target": "article_citation_bib4",
@@ -1736,11 +1718,11 @@
         169
       ]
     },
-    "figure_reference_100": {
+    "figure_reference_104": {
       "type": "figure_reference",
-      "id": "figure_reference_100",
+      "id": "figure_reference_104",
       "path": [
-        "paragraph_98",
+        "paragraph_102",
         "content"
       ],
       "target": "image_fig4",
@@ -1749,11 +1731,11 @@
         265
       ]
     },
-    "figure_reference_101": {
+    "figure_reference_105": {
       "type": "figure_reference",
-      "id": "figure_reference_101",
+      "id": "figure_reference_105",
       "path": [
-        "paragraph_98",
+        "paragraph_102",
         "content"
       ],
       "target": "image_fig4",
@@ -1762,11 +1744,11 @@
         370
       ]
     },
-    "figure_reference_102": {
+    "figure_reference_106": {
       "type": "figure_reference",
-      "id": "figure_reference_102",
+      "id": "figure_reference_106",
       "path": [
-        "paragraph_98",
+        "paragraph_102",
         "content"
       ],
       "target": "image_fig4s1",
@@ -1775,11 +1757,11 @@
         404
       ]
     },
-    "figure_reference_103": {
+    "figure_reference_107": {
       "type": "figure_reference",
-      "id": "figure_reference_103",
+      "id": "figure_reference_107",
       "path": [
-        "paragraph_98",
+        "paragraph_102",
         "content"
       ],
       "target": "image_fig4",
@@ -1788,11 +1770,11 @@
         534
       ]
     },
-    "figure_reference_104": {
+    "figure_reference_108": {
       "type": "figure_reference",
-      "id": "figure_reference_104",
+      "id": "figure_reference_108",
       "path": [
-        "paragraph_98",
+        "paragraph_102",
         "content"
       ],
       "target": "image_fig4s2",
@@ -1801,11 +1783,11 @@
         569
       ]
     },
-    "figure_reference_105": {
+    "figure_reference_109": {
       "type": "figure_reference",
-      "id": "figure_reference_105",
+      "id": "figure_reference_109",
       "path": [
-        "paragraph_98",
+        "paragraph_102",
         "content"
       ],
       "target": "image_fig4",
@@ -1814,11 +1796,11 @@
         960
       ]
     },
-    "figure_reference_106": {
+    "figure_reference_110": {
       "type": "figure_reference",
-      "id": "figure_reference_106",
+      "id": "figure_reference_110",
       "path": [
-        "paragraph_98",
+        "paragraph_102",
         "content"
       ],
       "target": "image_fig4",
@@ -1831,28 +1813,21 @@
       "type": "image",
       "id": "image_fig4",
       "label": "Figure 4.",
-      "url": "",
-      "object_id": "F8",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00654/svg/elife00654f004.svg",
       "title": "Single molecule imaging in digitonin-permeabilized cells reveals the receptor population undergoing active transport in live cells.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00654.013",
       "caption": "paragraph_image_fig4",
-      "graphic_id": "elife00654f004"
+      "graphic_id": "elife00654f004",
+      "format": "image"
     },
     "paragraph_image_fig4": {
       "type": "paragraph",
       "id": "paragraph_image_fig4",
       "content": "(A) Kymographs of simultaneous live cell imaging of TagRFP.T-IFT88 (RFP-IFT88, IFT trains) and single molecule SSTR3 (SSTR3:mSA-A647) movements in digitonin semi-permeabilized cells. The immobilization of ciliary SSTR3 was confirmed by half-cilium FRAP (montage of heat-maps, bottom). Scale bars, 2 μm (y), 5 s (x). (B) Instant velocity distribution of single SSTR3 movements along cilia in untreated and digitonin semi-permeabilized cells. The live cell data (blue) was fitted to a mixed model combining the permeabilized data (green) and an additional Gaussian distribution (red), with the latter found to contribute a fraction of 21.8 +/− 12.6% (anterograde) and 24.3 +/− 5.5% (retrograde). n>1200. (C) Instant velocity distribution of single Smo movements along cilia in untreated and digitonin semi-permeabilized cells. The live cell data (blue) was fitted to a mixed model combining the permeabilized data (green) and an additional Gaussian distribution (red), with the latter found to contribute a fraction of 32.1 +/− 5.9% (anterograde) and 34.1 +/− 1.9% (retrograde). n>1200. (D) Velocity distribution of GFP-IFT88 foci movements measured from kymographs. The mean velocities are shown in the plot. n>290. (E) ATP levels quantified by luciferin-luciferase bioluminescence assay normalized to the levels in control-treated cells. To deplete intracellular ATP, IMCD3 cells were permeabilized with 60 μg/ml digitonin for 7 min. Each treatment was measured in triplicate."
     },
-    "annotation_107": {
+    "annotation_111": {
       "type": "strong",
-      "id": "annotation_107",
+      "id": "annotation_111",
       "path": [
         "paragraph_image_fig4",
         "content"
@@ -1863,9 +1838,9 @@
         2
       ]
     },
-    "annotation_108": {
+    "annotation_112": {
       "type": "strong",
-      "id": "annotation_108",
+      "id": "annotation_112",
       "path": [
         "paragraph_image_fig4",
         "content"
@@ -1876,9 +1851,9 @@
         318
       ]
     },
-    "annotation_109": {
+    "annotation_113": {
       "type": "strong",
-      "id": "annotation_109",
+      "id": "annotation_113",
       "path": [
         "paragraph_image_fig4",
         "content"
@@ -1889,9 +1864,9 @@
         704
       ]
     },
-    "annotation_110": {
+    "annotation_114": {
       "type": "strong",
-      "id": "annotation_110",
+      "id": "annotation_114",
       "path": [
         "paragraph_image_fig4",
         "content"
@@ -1902,9 +1877,9 @@
         1087
       ]
     },
-    "annotation_111": {
+    "annotation_115": {
       "type": "strong",
-      "id": "annotation_111",
+      "id": "annotation_115",
       "path": [
         "paragraph_image_fig4",
         "content"
@@ -1919,19 +1894,12 @@
       "type": "image",
       "id": "image_fig4s1",
       "label": "Figure 4—figure supplement 1.",
-      "url": "",
-      "object_id": "F9",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00654/svg/elife00654fs005.svg",
       "title": "Measurement of ATP levels.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig4"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00654.014",
       "caption": "paragraph_image_fig4s1",
-      "graphic_id": "elife00654fs005"
+      "graphic_id": "elife00654fs005",
+      "format": "image"
     },
     "paragraph_image_fig4s1": {
       "type": "paragraph",
@@ -1942,28 +1910,21 @@
       "type": "image",
       "id": "image_fig4s2",
       "label": "Figure 4—figure supplement 2.",
-      "url": "",
-      "object_id": "F10",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00654/svg/elife00654fs006.svg",
       "title": "Additional kymographs.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig4"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00654.015",
       "caption": "paragraph_image_fig4s2",
-      "graphic_id": "elife00654fs006"
+      "graphic_id": "elife00654fs006",
+      "format": "image"
     },
     "paragraph_image_fig4s2": {
       "type": "paragraph",
       "id": "paragraph_image_fig4s2",
       "content": "Additional kymographs representing the movement of single mSA-Alexa647 labeled AP-SSTR3-GFP (A) and AP-Smo-YFP (B) in cells permeabilized with digitonin. The tip (T) and the base (B) of the cilium are indicated. Scale bars, 2 μm (y), 4 s (x)."
     },
-    "annotation_112": {
+    "annotation_116": {
       "type": "strong",
-      "id": "annotation_112",
+      "id": "annotation_116",
       "path": [
         "paragraph_image_fig4s2",
         "content"
@@ -1974,9 +1935,9 @@
         94
       ]
     },
-    "annotation_113": {
+    "annotation_117": {
       "type": "strong",
-      "id": "annotation_113",
+      "id": "annotation_117",
       "path": [
         "paragraph_image_fig4s2",
         "content"
@@ -1991,28 +1952,21 @@
       "type": "image",
       "id": "image_fig4s3",
       "label": "Figure 4—figure supplement 3.",
-      "url": "",
-      "object_id": "F11",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00654/svg/elife00654fs007.svg",
       "title": "Digitonin permeabilization does not affect the mobility of SSTR3 in cilia.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig4"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00654.016",
       "caption": "paragraph_image_fig4s3",
-      "graphic_id": "elife00654fs007"
+      "graphic_id": "elife00654fs007",
+      "format": "image"
     },
     "paragraph_image_fig4s3": {
       "type": "paragraph",
       "id": "paragraph_image_fig4s3",
       "content": "(A) Averaged fitted curves of SSTR3-GFP half-cilium FRAP in different conditions. (B) The diffusion coefficients quantified from the FRAP recovery curves in (A). More than 10 cilia were analyzed for each condition. Error bars, SEM. p>0.05."
     },
-    "annotation_114": {
+    "annotation_118": {
       "type": "strong",
-      "id": "annotation_114",
+      "id": "annotation_118",
       "path": [
         "paragraph_image_fig4s3",
         "content"
@@ -2023,9 +1977,9 @@
         2
       ]
     },
-    "annotation_115": {
+    "annotation_119": {
       "type": "strong",
-      "id": "annotation_115",
+      "id": "annotation_119",
       "path": [
         "paragraph_image_fig4s3",
         "content"
@@ -2036,9 +1990,9 @@
         84
       ]
     },
-    "annotation_116": {
+    "annotation_120": {
       "type": "strong",
-      "id": "annotation_116",
+      "id": "annotation_120",
       "path": [
         "paragraph_image_fig4s3",
         "content"
@@ -2049,54 +2003,10 @@
         159
       ]
     },
-    "paragraph_117": {
-      "type": "paragraph",
-      "id": "paragraph_117",
-      "content": "While the proportions of active anterograde transport events uncovered by digitonin permeabilization and antimycin/deoxygluocose treatments are very similar, the proportions of active retrograde movements identified by the two treatments were different. A possible interpretation is that dynein 1b retains some ability to operate under load at low ATP levels while kinesin II is fully inactive when ATP levels are reduced 10-fold. Interestingly, FRAP analysis showed that the mobility of SSTR3-GFP was similar in untreated and digitonin-treated cells (Figure 4A, Figure 4—figure supplement 3, and Video 3). This result strongly suggests that the combination of passive diffusion and active transport (by nanotrains, see above) are effective at enabling membrane proteins to explore the ciliary space."
-    },
-    "figure_reference_118": {
-      "type": "figure_reference",
-      "id": "figure_reference_118",
-      "path": [
-        "paragraph_117",
-        "content"
-      ],
-      "target": "image_fig4",
-      "range": [
-        552,
-        561
-      ]
-    },
-    "figure_reference_119": {
-      "type": "figure_reference",
-      "id": "figure_reference_119",
-      "path": [
-        "paragraph_117",
-        "content"
-      ],
-      "target": "image_fig4s3",
-      "range": [
-        563,
-        591
-      ]
-    },
-    "figure_reference_120": {
-      "type": "figure_reference",
-      "id": "figure_reference_120",
-      "path": [
-        "paragraph_117",
-        "content"
-      ],
-      "target": "video_video3",
-      "range": [
-        597,
-        604
-      ]
-    },
     "paragraph_121": {
       "type": "paragraph",
       "id": "paragraph_121",
-      "content": "To assess whether the proportion of time spent by SSTR3 in active transport vs passive diffusion was similar for other proteins, we applied our permeabilization strategy to AP-Smo-YFP expressing cells (Figure 4—figure supplement 2B). Again, the three statistical tests all showed a significant difference in the distribution of instant velocities between untreated and digitonin-treated cells and the Gaussians representing active transport amounted to 34% (anterograde) and 32% (retrograde) of the entire distributions (Figure 4C). While the proportions of time undergoing active transport are slightly greater for Smo than for SSTR3, they indicate that Smo also spends the majority of its time diffusing in the ciliary membrane rather than undergoing directed IFT."
+      "content": "While the proportions of active anterograde transport events uncovered by digitonin permeabilization and antimycin/deoxygluocose treatments are very similar, the proportions of active retrograde movements identified by the two treatments were different. A possible interpretation is that dynein 1b retains some ability to operate under load at low ATP levels while kinesin II is fully inactive when ATP levels are reduced 10-fold. Interestingly, FRAP analysis showed that the mobility of SSTR3-GFP was similar in untreated and digitonin-treated cells (Figure 4A, Figure 4—figure supplement 3, and Video 3). This result strongly suggests that the combination of passive diffusion and active transport (by nanotrains, see above) are effective at enabling membrane proteins to explore the ciliary space."
     },
     "figure_reference_122": {
       "type": "figure_reference",
@@ -2105,10 +2015,10 @@
         "paragraph_121",
         "content"
       ],
-      "target": "image_fig4s2",
+      "target": "image_fig4",
       "range": [
-        202,
-        231
+        552,
+        561
       ]
     },
     "figure_reference_123": {
@@ -2116,6 +2026,50 @@
       "id": "figure_reference_123",
       "path": [
         "paragraph_121",
+        "content"
+      ],
+      "target": "image_fig4s3",
+      "range": [
+        563,
+        591
+      ]
+    },
+    "figure_reference_124": {
+      "type": "figure_reference",
+      "id": "figure_reference_124",
+      "path": [
+        "paragraph_121",
+        "content"
+      ],
+      "target": "video_video3",
+      "range": [
+        597,
+        604
+      ]
+    },
+    "paragraph_125": {
+      "type": "paragraph",
+      "id": "paragraph_125",
+      "content": "To assess whether the proportion of time spent by SSTR3 in active transport vs passive diffusion was similar for other proteins, we applied our permeabilization strategy to AP-Smo-YFP expressing cells (Figure 4—figure supplement 2B). Again, the three statistical tests all showed a significant difference in the distribution of instant velocities between untreated and digitonin-treated cells and the Gaussians representing active transport amounted to 34% (anterograde) and 32% (retrograde) of the entire distributions (Figure 4C). While the proportions of time undergoing active transport are slightly greater for Smo than for SSTR3, they indicate that Smo also spends the majority of its time diffusing in the ciliary membrane rather than undergoing directed IFT."
+    },
+    "figure_reference_126": {
+      "type": "figure_reference",
+      "id": "figure_reference_126",
+      "path": [
+        "paragraph_125",
+        "content"
+      ],
+      "target": "image_fig4s2",
+      "range": [
+        202,
+        231
+      ]
+    },
+    "figure_reference_127": {
+      "type": "figure_reference",
+      "id": "figure_reference_127",
+      "path": [
+        "paragraph_125",
         "content"
       ],
       "target": "image_fig4",
@@ -2131,16 +2085,16 @@
       "content": "Ciliobrevin inhibits IFT foci movements without perturbing active transport of SSTR3",
       "nodes": []
     },
-    "paragraph_124": {
+    "paragraph_128": {
       "type": "paragraph",
-      "id": "paragraph_124",
+      "id": "paragraph_128",
       "content": "An alternative strategy to inhibit active transport is to use ciliobrevin (Figure 5A), which selectively inhibits dynein but not kinesins (Firestone et al., 2012). Treatment of cells with ciliobrevin resulted in the rapid and progressive inhibition of retrograde movement of IFT88 foci (within approximately 2–3 min; Figure 5B), and after 30 min anterograde movements were also inhibited (Figure 5A). Inhibition of anterograde IFT88 movement by ciliobrevin was unexpected since this direction of movement involves kinesin II, which is not targeted by ciliobrevin (Firestone et al., 2012). It is possible that dynein is involved in the delivery of IFT complexes (including kinesin II) from the cytoplasm to the base of the cilium for anterograde transport, and that inhibition of dynein gradually reduces the replenishment of these complexes in the cilium. Ciliobrevin did not affect single SSTR3 molecule movements in the ciliary membrane (Figure 5A, Figure 5—figure supplement 1 and Video 3); moreover, the same statistical tests that had been performed on the data from the digitonin and the antimycin/deoxyglucose treatments (Figure 3D, and Figure 4B,C) failed to uncover a significant difference between the distributions of SSTR3 velocities in control and ciliobrevin-treated cells (Figure 5C). FRAP analysis also showed that the mobility of SSTR3-GFP (Figure 5A, Figure 5—figure supplement 2, and Video 3) was similar in untreated and ciliobrevin-treated cells."
     },
-    "figure_reference_125": {
+    "figure_reference_129": {
       "type": "figure_reference",
-      "id": "figure_reference_125",
+      "id": "figure_reference_129",
       "path": [
-        "paragraph_124",
+        "paragraph_128",
         "content"
       ],
       "target": "image_fig5",
@@ -2149,11 +2103,11 @@
         84
       ]
     },
-    "citation_reference_126": {
+    "citation_reference_130": {
       "type": "citation_reference",
-      "id": "citation_reference_126",
+      "id": "citation_reference_130",
       "path": [
-        "paragraph_124",
+        "paragraph_128",
         "content"
       ],
       "target": "article_citation_bib9",
@@ -2162,11 +2116,11 @@
         161
       ]
     },
-    "figure_reference_127": {
+    "figure_reference_131": {
       "type": "figure_reference",
-      "id": "figure_reference_127",
+      "id": "figure_reference_131",
       "path": [
-        "paragraph_124",
+        "paragraph_128",
         "content"
       ],
       "target": "image_fig5",
@@ -2175,11 +2129,11 @@
         326
       ]
     },
-    "figure_reference_128": {
+    "figure_reference_132": {
       "type": "figure_reference",
-      "id": "figure_reference_128",
+      "id": "figure_reference_132",
       "path": [
-        "paragraph_124",
+        "paragraph_128",
         "content"
       ],
       "target": "image_fig5",
@@ -2188,11 +2142,11 @@
         398
       ]
     },
-    "citation_reference_129": {
+    "citation_reference_133": {
       "type": "citation_reference",
-      "id": "citation_reference_129",
+      "id": "citation_reference_133",
       "path": [
-        "paragraph_124",
+        "paragraph_128",
         "content"
       ],
       "target": "article_citation_bib9",
@@ -2201,11 +2155,11 @@
         586
       ]
     },
-    "figure_reference_130": {
+    "figure_reference_134": {
       "type": "figure_reference",
-      "id": "figure_reference_130",
+      "id": "figure_reference_134",
       "path": [
-        "paragraph_124",
+        "paragraph_128",
         "content"
       ],
       "target": "image_fig5",
@@ -2214,11 +2168,11 @@
         949
       ]
     },
-    "figure_reference_131": {
+    "figure_reference_135": {
       "type": "figure_reference",
-      "id": "figure_reference_131",
+      "id": "figure_reference_135",
       "path": [
-        "paragraph_124",
+        "paragraph_128",
         "content"
       ],
       "target": "image_fig5s1",
@@ -2227,11 +2181,11 @@
         979
       ]
     },
-    "figure_reference_132": {
+    "figure_reference_136": {
       "type": "figure_reference",
-      "id": "figure_reference_132",
+      "id": "figure_reference_136",
       "path": [
-        "paragraph_124",
+        "paragraph_128",
         "content"
       ],
       "target": "video_video3",
@@ -2240,11 +2194,11 @@
         991
       ]
     },
-    "figure_reference_133": {
+    "figure_reference_137": {
       "type": "figure_reference",
-      "id": "figure_reference_133",
+      "id": "figure_reference_137",
       "path": [
-        "paragraph_124",
+        "paragraph_128",
         "content"
       ],
       "target": "image_fig3",
@@ -2253,11 +2207,11 @@
         1138
       ]
     },
-    "figure_reference_134": {
+    "figure_reference_138": {
       "type": "figure_reference",
-      "id": "figure_reference_134",
+      "id": "figure_reference_138",
       "path": [
-        "paragraph_124",
+        "paragraph_128",
         "content"
       ],
       "target": "image_fig4",
@@ -2266,11 +2220,11 @@
         1155
       ]
     },
-    "figure_reference_135": {
+    "figure_reference_139": {
       "type": "figure_reference",
-      "id": "figure_reference_135",
+      "id": "figure_reference_139",
       "path": [
-        "paragraph_124",
+        "paragraph_128",
         "content"
       ],
       "target": "image_fig5",
@@ -2279,11 +2233,11 @@
         1297
       ]
     },
-    "figure_reference_136": {
+    "figure_reference_140": {
       "type": "figure_reference",
-      "id": "figure_reference_136",
+      "id": "figure_reference_140",
       "path": [
-        "paragraph_124",
+        "paragraph_128",
         "content"
       ],
       "target": "image_fig5",
@@ -2292,11 +2246,11 @@
         1367
       ]
     },
-    "figure_reference_137": {
+    "figure_reference_141": {
       "type": "figure_reference",
-      "id": "figure_reference_137",
+      "id": "figure_reference_141",
       "path": [
-        "paragraph_124",
+        "paragraph_128",
         "content"
       ],
       "target": "image_fig5s2",
@@ -2305,11 +2259,11 @@
         1397
       ]
     },
-    "figure_reference_138": {
+    "figure_reference_142": {
       "type": "figure_reference",
-      "id": "figure_reference_138",
+      "id": "figure_reference_142",
       "path": [
-        "paragraph_124",
+        "paragraph_128",
         "content"
       ],
       "target": "video_video3",
@@ -2322,28 +2276,21 @@
       "type": "image",
       "id": "image_fig5",
       "label": "Figure 5.",
-      "url": "",
-      "object_id": "F12",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00654/svg/elife00654f005.svg",
       "title": "Ciliobrevin treatment abolishes IFT train movement but not active transport of SSTR3.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00654.017",
       "caption": "paragraph_image_fig5",
-      "graphic_id": "elife00654f005"
+      "graphic_id": "elife00654f005",
+      "format": "image"
     },
     "paragraph_image_fig5": {
       "type": "paragraph",
       "id": "paragraph_image_fig5",
       "content": "(A) Kymographs of simultaneous live cell imaging of TagRFP.T-IFT88 (RFP-IFT88, IFT complex) and single molecule SSTR3 (SSTR3:mSA-A647) movements in ciliobrevin treated cells (>30 min). The mobility of ciliary SSTR3 was confirmed by half-cilium FRAP (montage of heat-maps, bottom). Scale bars, 2 μm (y), 5 s (x). (B) Early time course of GFP-IFT88 foci movements after ciliobrevin D treatment. The velocity of retrograde tracks (blue dashed line) progressively decreased after 3.5 min, while anterograde foci (red dashed line) movements were unaffected until 5 min and then progressively reduced. (C) Instant velocity distributions of single SSTR3 movements in untreated vs ciliobrevin-treated cells. Statistical analyses show no significant difference (p>0.9) between the distributions of velocities of untreated and ciliobrevin-treated cells. n>1200."
     },
-    "annotation_139": {
+    "annotation_143": {
       "type": "strong",
-      "id": "annotation_139",
+      "id": "annotation_143",
       "path": [
         "paragraph_image_fig5",
         "content"
@@ -2354,9 +2301,9 @@
         2
       ]
     },
-    "annotation_140": {
+    "annotation_144": {
       "type": "strong",
-      "id": "annotation_140",
+      "id": "annotation_144",
       "path": [
         "paragraph_image_fig5",
         "content"
@@ -2367,9 +2314,9 @@
         314
       ]
     },
-    "annotation_141": {
+    "annotation_145": {
       "type": "strong",
-      "id": "annotation_141",
+      "id": "annotation_145",
       "path": [
         "paragraph_image_fig5",
         "content"
@@ -2384,19 +2331,12 @@
       "type": "image",
       "id": "image_fig5s1",
       "label": "Figure 5—figure supplement 1.",
-      "url": "",
-      "object_id": "F13",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00654/svg/elife00654fs008.svg",
       "title": "Additional kymographs.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig5"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00654.018",
       "caption": "paragraph_image_fig5s1",
-      "graphic_id": "elife00654fs008"
+      "graphic_id": "elife00654fs008",
+      "format": "image"
     },
     "paragraph_image_fig5s1": {
       "type": "paragraph",
@@ -2407,28 +2347,21 @@
       "type": "image",
       "id": "image_fig5s2",
       "label": "Figure 5—figure supplement 2.",
-      "url": "",
-      "object_id": "F14",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00654/svg/elife00654fs009.svg",
       "title": "Ciliobrevin treatment does not affect the mobility of SSTR3 in cilia.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig5"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00654.019",
       "caption": "paragraph_image_fig5s2",
-      "graphic_id": "elife00654fs009"
+      "graphic_id": "elife00654fs009",
+      "format": "image"
     },
     "paragraph_image_fig5s2": {
       "type": "paragraph",
       "id": "paragraph_image_fig5s2",
       "content": "(A) Averaged fitted curves of SSTR3-GFP half-cilium FRAP in different conditions. (B) The diffusion coefficients quantified from the FRAP recovery curves in (A). More than 10 cilia were analyzed for each condition. Error bars, SEM. p>0.05."
     },
-    "annotation_142": {
+    "annotation_146": {
       "type": "strong",
-      "id": "annotation_142",
+      "id": "annotation_146",
       "path": [
         "paragraph_image_fig5s2",
         "content"
@@ -2439,9 +2372,9 @@
         2
       ]
     },
-    "annotation_143": {
+    "annotation_147": {
       "type": "strong",
-      "id": "annotation_143",
+      "id": "annotation_147",
       "path": [
         "paragraph_image_fig5s2",
         "content"
@@ -2452,9 +2385,9 @@
         84
       ]
     },
-    "annotation_144": {
+    "annotation_148": {
       "type": "strong",
-      "id": "annotation_144",
+      "id": "annotation_148",
       "path": [
         "paragraph_image_fig5s2",
         "content"
@@ -2465,16 +2398,16 @@
         159
       ]
     },
-    "paragraph_145": {
+    "paragraph_149": {
       "type": "paragraph",
-      "id": "paragraph_145",
+      "id": "paragraph_149",
       "content": "Given prior models of IFT-mediated protein transport (Ou et al., 2005; Huang et al., 2007), it is surprising that ciliobrevin inhibited motor-driven movements of fluorescent IFT88 foci, but not those of single SSTR3 molecules. This raises questions about the relationship between IFT and active transport of SSTR3, especially since directional tracks of single SSTR3 molecules rarely overlapped with movements of large IFT88 foci in control cells (Figure 1D, and Figure 1—figure supplement 2). As noted above, it is possible that the majority of directional SSTR3 movements are mediated by IFT nanotrains that are smaller than the IFT88 foci that we can resolve, and which might be less sensitive to dynein inhibition. Although ciliobrevin has been shown to inhibit dynein in gliding assays (Firestone et al., 2012), it is also possible that it is less potent against dynein under specific loads such as those corresponding to very small IFT nanotrains. Another possibility is that directional SSTR3 movements occurred on other motors (Hao et al., 2011) that are not inhibited by ciliobrevin."
     },
-    "citation_reference_146": {
+    "citation_reference_150": {
       "type": "citation_reference",
-      "id": "citation_reference_146",
+      "id": "citation_reference_150",
       "path": [
-        "paragraph_145",
+        "paragraph_149",
         "content"
       ],
       "target": "article_citation_bib24",
@@ -2483,11 +2416,11 @@
         69
       ]
     },
-    "citation_reference_147": {
+    "citation_reference_151": {
       "type": "citation_reference",
-      "id": "citation_reference_147",
+      "id": "citation_reference_151",
       "path": [
-        "paragraph_145",
+        "paragraph_149",
         "content"
       ],
       "target": "article_citation_bib21",
@@ -2496,11 +2429,11 @@
         89
       ]
     },
-    "figure_reference_148": {
+    "figure_reference_152": {
       "type": "figure_reference",
-      "id": "figure_reference_148",
+      "id": "figure_reference_152",
       "path": [
-        "paragraph_145",
+        "paragraph_149",
         "content"
       ],
       "target": "image_fig1",
@@ -2509,11 +2442,11 @@
         457
       ]
     },
-    "figure_reference_149": {
+    "figure_reference_153": {
       "type": "figure_reference",
-      "id": "figure_reference_149",
+      "id": "figure_reference_153",
       "path": [
-        "paragraph_145",
+        "paragraph_149",
         "content"
       ],
       "target": "image_fig1s2",
@@ -2522,11 +2455,11 @@
         491
       ]
     },
-    "citation_reference_150": {
+    "citation_reference_154": {
       "type": "citation_reference",
-      "id": "citation_reference_150",
+      "id": "citation_reference_154",
       "path": [
-        "paragraph_145",
+        "paragraph_149",
         "content"
       ],
       "target": "article_citation_bib9",
@@ -2535,11 +2468,11 @@
         814
       ]
     },
-    "citation_reference_151": {
+    "citation_reference_155": {
       "type": "citation_reference",
-      "id": "citation_reference_151",
+      "id": "citation_reference_155",
       "path": [
-        "paragraph_145",
+        "paragraph_149",
         "content"
       ],
       "target": "article_citation_bib15",
@@ -2555,16 +2488,16 @@
       "content": "Immobilizing ciliary membrane proteins does not immobilize IFT trains",
       "nodes": []
     },
-    "paragraph_152": {
+    "paragraph_156": {
       "type": "paragraph",
-      "id": "paragraph_152",
+      "id": "paragraph_156",
       "content": "Having found that IFT inhibition by three independent methods failed to affect SSTR3 movements, we hypothesized that the coupling between single SSTR3 molecules and IFT trains is weak and transient. This predicts that the movement of IFT trains is a constitutive process largely independent of binding to cargo such as SSTR3. Since surface-exposed membrane proteins like SSTR3 are glycosylated, multivalent lectins such as wheat germ agglutinin (WGA) will cross-link and immobilize them in the ciliary membrane (Golan et al., 1986). Indeed, addition of WGA completely stopped SSTR3 movements within minutes as measured by single molecule imaging and half-cilium photobleaching (Figure 6A, Figure 6—figure supplements 1 and 2, and Video 3). However, WGA addition had only a small, albeit statistically significant effect on IFT movements (Figure 6B–D, and Video 4). Since WGA binds to nearly all membrane proteins, we can extrapolate these results to conclude that IFT88 movements can be largely uncoupled from binding to ciliary membrane protein cargo."
     },
-    "citation_reference_153": {
+    "citation_reference_157": {
       "type": "citation_reference",
-      "id": "citation_reference_153",
+      "id": "citation_reference_157",
       "path": [
-        "paragraph_152",
+        "paragraph_156",
         "content"
       ],
       "target": "article_citation_bib12",
@@ -2573,11 +2506,11 @@
         530
       ]
     },
-    "figure_reference_154": {
+    "figure_reference_158": {
       "type": "figure_reference",
-      "id": "figure_reference_154",
+      "id": "figure_reference_158",
       "path": [
-        "paragraph_152",
+        "paragraph_156",
         "content"
       ],
       "target": "image_fig6",
@@ -2586,11 +2519,11 @@
         687
       ]
     },
-    "figure_reference_155": {
+    "figure_reference_159": {
       "type": "figure_reference",
-      "id": "figure_reference_155",
+      "id": "figure_reference_159",
       "path": [
-        "paragraph_152",
+        "paragraph_156",
         "content"
       ],
       "target": "image_fig6s1",
@@ -2599,11 +2532,11 @@
         724
       ]
     },
-    "figure_reference_156": {
+    "figure_reference_160": {
       "type": "figure_reference",
-      "id": "figure_reference_156",
+      "id": "figure_reference_160",
       "path": [
-        "paragraph_152",
+        "paragraph_156",
         "content"
       ],
       "target": "video_video3",
@@ -2612,11 +2545,11 @@
         737
       ]
     },
-    "figure_reference_157": {
+    "figure_reference_161": {
       "type": "figure_reference",
-      "id": "figure_reference_157",
+      "id": "figure_reference_161",
       "path": [
-        "paragraph_152",
+        "paragraph_156",
         "content"
       ],
       "target": "image_fig6",
@@ -2625,11 +2558,11 @@
         849
       ]
     },
-    "figure_reference_158": {
+    "figure_reference_162": {
       "type": "figure_reference",
-      "id": "figure_reference_158",
+      "id": "figure_reference_162",
       "path": [
-        "paragraph_152",
+        "paragraph_156",
         "content"
       ],
       "target": "video_video4",
@@ -2642,76 +2575,17 @@
       "type": "image",
       "id": "image_fig6",
       "label": "Figure 6.",
-      "url": "",
-      "object_id": "F15",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00654/svg/elife00654f006.svg",
       "title": "Effect of immobilizing membrane proteins on IFT train movements.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00654.020",
       "caption": "paragraph_image_fig6",
-      "graphic_id": "elife00654f006"
+      "graphic_id": "elife00654f006",
+      "format": "image"
     },
     "paragraph_image_fig6": {
       "type": "paragraph",
       "id": "paragraph_image_fig6",
       "content": "(A) Kymographs of simultaneous live cell imaging of mCherry-IFT88 (IFT complex) and single molecule SSTR3 (SSTR3:mSA-A647) movements in WGA treated cells (>7 min). The immobilization of ciliary SSTR3 was confirmed by half-cilium FRAP (montage of heat-maps, bottom). Scale bars, 2 μm (y), 5 s (x). (B) Representative kymographs of GFP-IFT88 fluorescent foci movements before WGA treatment (left, w/o WGA) and after 10 min of WGA treatment (right, WGA 10 min). The anterograde (red dashed lines) and the retrograde (blue dashed lines) movements are indicated in the bottom panels. Scale bars, 2 μm. (C and D) Bar charts representing the frequency (C) and velocity (D) of GFP-IFT88 fluorescent foci movements before and after 10 min of WGA treatment in IMCD3 cells. While the differences between WGA-treated and control cells are relatively small, with the exception of the frequency of anterograde trains they are statistically significant; N.S.: p>0.05; **p<0.05. (E) Schematics of ciliary membrane protein dynamics. Single molecule imaging reveals that the majority of ciliary SSTR3 (green) undergo free diffusion, which allows them to explore the ciliary surface efficiently. Only a small portion of ciliary SSTR3 (red) movement is related to IFT. The interaction between SSTR3 and IFT appears to be transient and dynamic."
-    },
-    "annotation_159": {
-      "type": "strong",
-      "id": "annotation_159",
-      "path": [
-        "paragraph_image_fig6",
-        "content"
-      ],
-      "target": null,
-      "range": [
-        1,
-        2
-      ]
-    },
-    "annotation_160": {
-      "type": "strong",
-      "id": "annotation_160",
-      "path": [
-        "paragraph_image_fig6",
-        "content"
-      ],
-      "target": null,
-      "range": [
-        298,
-        299
-      ]
-    },
-    "annotation_161": {
-      "type": "strong",
-      "id": "annotation_161",
-      "path": [
-        "paragraph_image_fig6",
-        "content"
-      ],
-      "target": null,
-      "range": [
-        598,
-        599
-      ]
-    },
-    "annotation_162": {
-      "type": "strong",
-      "id": "annotation_162",
-      "path": [
-        "paragraph_image_fig6",
-        "content"
-      ],
-      "target": null,
-      "range": [
-        604,
-        605
-      ]
     },
     "annotation_163": {
       "type": "strong",
@@ -2722,8 +2596,8 @@
       ],
       "target": null,
       "range": [
-        646,
-        647
+        1,
+        2
       ]
     },
     "annotation_164": {
@@ -2735,13 +2609,65 @@
       ],
       "target": null,
       "range": [
-        663,
-        664
+        298,
+        299
       ]
     },
     "annotation_165": {
       "type": "strong",
       "id": "annotation_165",
+      "path": [
+        "paragraph_image_fig6",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        598,
+        599
+      ]
+    },
+    "annotation_166": {
+      "type": "strong",
+      "id": "annotation_166",
+      "path": [
+        "paragraph_image_fig6",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        604,
+        605
+      ]
+    },
+    "annotation_167": {
+      "type": "strong",
+      "id": "annotation_167",
+      "path": [
+        "paragraph_image_fig6",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        646,
+        647
+      ]
+    },
+    "annotation_168": {
+      "type": "strong",
+      "id": "annotation_168",
+      "path": [
+        "paragraph_image_fig6",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        663,
+        664
+      ]
+    },
+    "annotation_169": {
+      "type": "strong",
+      "id": "annotation_169",
       "path": [
         "paragraph_image_fig6",
         "content"
@@ -2756,19 +2682,12 @@
       "type": "image",
       "id": "image_fig6s1",
       "label": "Figure 6—figure supplement 1.",
-      "url": "",
-      "object_id": "F16",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00654/svg/elife00654fs010.svg",
       "title": "Additional kymographs.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig6"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00654.021",
       "caption": "paragraph_image_fig6s1",
-      "graphic_id": "elife00654fs010"
+      "graphic_id": "elife00654fs010",
+      "format": "image"
     },
     "paragraph_image_fig6s1": {
       "type": "paragraph",
@@ -2779,19 +2698,12 @@
       "type": "image",
       "id": "image_fig6s2",
       "label": "Figure 6—figure supplement 2.",
-      "url": "",
-      "object_id": "F17",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00654/svg/elife00654fs011.svg",
       "title": "WGA treatment stops the mobility of SSTR3 in cilia.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig6"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00654.022",
       "caption": "paragraph_image_fig6s2",
-      "graphic_id": "elife00654fs011"
+      "graphic_id": "elife00654fs011",
+      "format": "image"
     },
     "paragraph_image_fig6s2": {
       "type": "paragraph",
@@ -2804,10 +2716,7 @@
       "label": "Video 4.",
       "title": "Live cell imaging of GFP-IFT88 fluorescent foci movement before (−WGA) and after 10 min of WGA treatment (+WGA) in IMCD3 cells.",
       "caption": "paragraph_video_video4",
-      "content_type": "",
       "url_ogv": "http://static.movie-usa.glencoesoftware.com/ogv/10.7554/elife00654v004.ogv",
-      "url_jpg": "",
-      "url_mp4": "",
       "doi": "http://dx.doi.org/10.7554/eLife.00654.023",
       "url": "http://static.movie-usa.glencoesoftware.com/mp4/10.7554/elife00654v004.mp4",
       "poster": "http://static.movie-usa.glencoesoftware.com/jpg/10.7554/elife00654v004.jpg"
@@ -2824,16 +2733,16 @@
       "content": "Discussion",
       "nodes": []
     },
-    "paragraph_166": {
+    "paragraph_170": {
       "type": "paragraph",
-      "id": "paragraph_166",
+      "id": "paragraph_170",
       "content": "By following the movements of single membrane proteins in the primary cilium, we find that previous models of cargo loading onto IFT trains are no longer tenable. While every evidence point to IFT trains assembling at one end of the cilium and then being transported by an IFT motor all the way to the other extremity of the cilium, keeping their state of assembly intact along the way, we find instead that cargo are highly labile components of IFT trains. Our finding that immobilization of membrane proteins (cargoes) only minimally affected IFT train formation and movement suggests that IFT trains assemble spontaneously rather than ‘on demand’ by binding cargo; this is similar in principle to the cargo-independent assembly of clathrin-coated pits (Cocucci et al., 2012). In our model (Figure 6E), IFT trains assemble spontaneously at a given frequency at the base and tip of cilia, forming conveyor belts along the length of the cilium onto which membrane cargo can hop on and off. While this model would at first glance appear to contradict prior findings of PKD2-GFP and OSM9-GFP foci moving processively along cilia (Ou et al., 2005; Huang et al., 2007), it is likely that this is due to differences between ensemble and single molecule imaging. For example, it is possible that each IFT train carries a constant number of cargo molecules but individual cargo molecules continually hop on and off; ensemble imagining would not detect these individual events which we could detect here at the single molecule level. Thus membrane protein transport in cilia may be reminiscent of the slow axonal transport pathway in which most proteins synthesized in the neuronal body move at an apparent slow rate along the axon because they infrequently hop onto motors (Scott et al., 2011)."
     },
-    "citation_reference_167": {
+    "citation_reference_171": {
       "type": "citation_reference",
-      "id": "citation_reference_167",
+      "id": "citation_reference_171",
       "path": [
-        "paragraph_166",
+        "paragraph_170",
         "content"
       ],
       "target": "article_citation_bib5",
@@ -2842,11 +2751,11 @@
         776
       ]
     },
-    "figure_reference_168": {
+    "figure_reference_172": {
       "type": "figure_reference",
-      "id": "figure_reference_168",
+      "id": "figure_reference_172",
       "path": [
-        "paragraph_166",
+        "paragraph_170",
         "content"
       ],
       "target": "image_fig6",
@@ -2855,11 +2764,11 @@
         802
       ]
     },
-    "citation_reference_169": {
+    "citation_reference_173": {
       "type": "citation_reference",
-      "id": "citation_reference_169",
+      "id": "citation_reference_173",
       "path": [
-        "paragraph_166",
+        "paragraph_170",
         "content"
       ],
       "target": "article_citation_bib24",
@@ -2868,11 +2777,11 @@
         1143
       ]
     },
-    "citation_reference_170": {
+    "citation_reference_174": {
       "type": "citation_reference",
-      "id": "citation_reference_170",
+      "id": "citation_reference_174",
       "path": [
-        "paragraph_166",
+        "paragraph_170",
         "content"
       ],
       "target": "article_citation_bib21",
@@ -2881,11 +2790,11 @@
         1163
       ]
     },
-    "citation_reference_171": {
+    "citation_reference_175": {
       "type": "citation_reference",
-      "id": "citation_reference_171",
+      "id": "citation_reference_175",
       "path": [
-        "paragraph_166",
+        "paragraph_170",
         "content"
       ],
       "target": "article_citation_bib34",
@@ -2894,16 +2803,16 @@
         1785
       ]
     },
-    "paragraph_172": {
+    "paragraph_176": {
       "type": "paragraph",
-      "id": "paragraph_172",
+      "id": "paragraph_176",
       "content": "Another interpretation of our data is that proteins undergo advective movements created by the constant movements of large IFT trains up or down the cilium. The influence of fluid motion to particle movements can be measured by the Péclet number Pe = UR/D where U is the speed of fluid motion, R is the radius of the structure and D the diffusion coefficient. If Pe < 1, diffusion outpaces the speeds of fluid motion and the contribution of fluid motion to particle transport are minimal (Goldstein et al., 2008). In the case of the cilium, U is of the order of IFT motor speeds (10−4 cm/s), R is ∼10−5 cm and D is 2 × 10−9 cm2/s for SSTR3 and 10 × 10−9 cm2/s for a typical protein such as tubulin. The calculated values of Pe are thus 0.5 for SSTR3 and 0.1 for tubulin, thereby suggesting that passive advection plays a very minor role in the movement of typical proteins inside cilia. Moreover, the passive advection model is incompatible with our finding that IFT foci movements can be interrupted without affecting active transport of SSTR3 (Figure 5). This experiment suggests that unresolvable IFT nanotrains transport SSTR3 when cells are exposed to ciliobrevin, and that large IFT trains visualized as readily detectable foci of fluorescence may be devoid of cargo and represent recycling IFT complexes. The hypothesis that IFT nanotrains, possibly reduced to single IFT complexes bridging a cargo to a motor, represent the transporting entities is in line with nearly all other example of motor-cargo adaptors (Hirokawa et al., 2009). An alternative hypothesis is that ciliobrevin creates an artificial situation in cilia that forces cargo to utilize IFT nanotrains that are not normally found in cilia. A resolution of these possibilities will require advanced imaging approaches that are capable of detecting single molecules of IFT complexes."
     },
-    "citation_reference_173": {
+    "citation_reference_177": {
       "type": "citation_reference",
-      "id": "citation_reference_173",
+      "id": "citation_reference_177",
       "path": [
-        "paragraph_172",
+        "paragraph_176",
         "content"
       ],
       "target": "article_citation_bib13",
@@ -2912,11 +2821,11 @@
         511
       ]
     },
-    "annotation_174": {
+    "annotation_178": {
       "type": "superscript",
-      "id": "annotation_174",
+      "id": "annotation_178",
       "path": [
-        "paragraph_172",
+        "paragraph_176",
         "content"
       ],
       "target": null,
@@ -2925,11 +2834,11 @@
         584
       ]
     },
-    "annotation_175": {
+    "annotation_179": {
       "type": "superscript",
-      "id": "annotation_175",
+      "id": "annotation_179",
       "path": [
-        "paragraph_172",
+        "paragraph_176",
         "content"
       ],
       "target": null,
@@ -2938,11 +2847,11 @@
         602
       ]
     },
-    "annotation_176": {
+    "annotation_180": {
       "type": "superscript",
-      "id": "annotation_176",
+      "id": "annotation_180",
       "path": [
-        "paragraph_172",
+        "paragraph_176",
         "content"
       ],
       "target": null,
@@ -2951,11 +2860,11 @@
         623
       ]
     },
-    "annotation_177": {
+    "annotation_181": {
       "type": "superscript",
-      "id": "annotation_177",
+      "id": "annotation_181",
       "path": [
-        "paragraph_172",
+        "paragraph_176",
         "content"
       ],
       "target": null,
@@ -2964,11 +2873,11 @@
         627
       ]
     },
-    "annotation_178": {
+    "annotation_182": {
       "type": "superscript",
-      "id": "annotation_178",
+      "id": "annotation_182",
       "path": [
-        "paragraph_172",
+        "paragraph_176",
         "content"
       ],
       "target": null,
@@ -2977,11 +2886,11 @@
         653
       ]
     },
-    "annotation_179": {
+    "annotation_183": {
       "type": "superscript",
-      "id": "annotation_179",
+      "id": "annotation_183",
       "path": [
-        "paragraph_172",
+        "paragraph_176",
         "content"
       ],
       "target": null,
@@ -2990,11 +2899,11 @@
         657
       ]
     },
-    "figure_reference_180": {
+    "figure_reference_184": {
       "type": "figure_reference",
-      "id": "figure_reference_180",
+      "id": "figure_reference_184",
       "path": [
-        "paragraph_172",
+        "paragraph_176",
         "content"
       ],
       "target": "image_fig5",
@@ -3003,11 +2912,11 @@
         1054
       ]
     },
-    "citation_reference_181": {
+    "citation_reference_185": {
       "type": "citation_reference",
-      "id": "citation_reference_181",
+      "id": "citation_reference_185",
       "path": [
-        "paragraph_172",
+        "paragraph_176",
         "content"
       ],
       "target": "article_citation_bib17",
@@ -3016,16 +2925,16 @@
         1541
       ]
     },
-    "paragraph_182": {
+    "paragraph_186": {
       "type": "paragraph",
-      "id": "paragraph_182",
+      "id": "paragraph_186",
       "content": "In summary, our studies indicate that ciliary membrane proteins such as SSTR3 and Smo explore the ciliary space by passive diffusion rather than only by motor-driven, directional transport. Indeed, the diffusion coefficient of SSTR3 (D= 0.25 μm2/s; Figure 5—figure supplement 2B) indicates that a single SSTR3 molecule could diffuse along the length of a 4 μm cilium in less than 40 s, while IFT-mediated transport would complete the same trip in 8 s. Interestingly, the dimensions of a cilium are similar to those of a bacterium in which proteins rapidly explore the cellular space by diffusion in the absence of cytoskeletal motors (Elowitz et al., 1999). The importance of diffusion in exploration of the ciliary space does not rule out other roles for IFT in ciliogenesis, or the possible formation of IFT scaffolds for signaling cascades (Pan and Snell, 2002; Wang et al., 2006). Further studies of other single molecule dynamics under signaling conditions, using techniques introduced here, will be needed to address these possibilities."
     },
-    "annotation_183": {
+    "annotation_187": {
       "type": "superscript",
-      "id": "annotation_183",
+      "id": "annotation_187",
       "path": [
-        "paragraph_182",
+        "paragraph_186",
         "content"
       ],
       "target": null,
@@ -3034,11 +2943,11 @@
         245
       ]
     },
-    "figure_reference_184": {
+    "figure_reference_188": {
       "type": "figure_reference",
-      "id": "figure_reference_184",
+      "id": "figure_reference_188",
       "path": [
-        "paragraph_182",
+        "paragraph_186",
         "content"
       ],
       "target": "image_fig5s2",
@@ -3047,11 +2956,11 @@
         278
       ]
     },
-    "citation_reference_185": {
+    "citation_reference_189": {
       "type": "citation_reference",
-      "id": "citation_reference_185",
+      "id": "citation_reference_189",
       "path": [
-        "paragraph_182",
+        "paragraph_186",
         "content"
       ],
       "target": "article_citation_bib8",
@@ -3060,11 +2969,11 @@
         655
       ]
     },
-    "citation_reference_186": {
+    "citation_reference_190": {
       "type": "citation_reference",
-      "id": "citation_reference_186",
+      "id": "citation_reference_190",
       "path": [
-        "paragraph_182",
+        "paragraph_186",
         "content"
       ],
       "target": "article_citation_bib25",
@@ -3073,11 +2982,11 @@
         863
       ]
     },
-    "citation_reference_187": {
+    "citation_reference_191": {
       "type": "citation_reference",
-      "id": "citation_reference_187",
+      "id": "citation_reference_191",
       "path": [
-        "paragraph_182",
+        "paragraph_186",
         "content"
       ],
       "target": "article_citation_bib36",
@@ -3100,16 +3009,16 @@
       "content": "Constructs",
       "nodes": []
     },
-    "paragraph_188": {
+    "paragraph_192": {
       "type": "paragraph",
-      "id": "paragraph_188",
+      "id": "paragraph_192",
       "content": "Mouse SSTR3-GFP (Berbari et al., 2008) (a gift from Dr Kirk Mykytyn, Ohio State University) was fused at its N-terminal extracellular domain to a 13 amino acid acceptor peptide (AP) for the biotin ligase BirA to create AP-SSTR3-GFP. AP-Smoothened-YFP was provided by Carolyn Ott and and Jennifer Lippincott-Schwartz (NIH). AP-SSTR3-GFP or AP-Smoothened-YFP was inserted into pEF5B/FRT-DEST to establish stable expression in FlpIn cells. pDisplay-BirA-ER (Howarth and Ting, 2008) and the streptavidin constructs, pET21a-Streptavidin-Alive and pET21a-Streptavidin-Dead (Howarth et al., 2006) were provided by Dr Alice Ting (MIT) through Addgene. RFP-pericentrin PACT domain (Gillingham and Munro, 2000) was a gift from Dr Sean Munro (MRC Laboratory of Molecular Biology, Cambridge)."
     },
-    "citation_reference_189": {
+    "citation_reference_193": {
       "type": "citation_reference",
-      "id": "citation_reference_189",
+      "id": "citation_reference_193",
       "path": [
-        "paragraph_188",
+        "paragraph_192",
         "content"
       ],
       "target": "article_citation_bib1",
@@ -3118,11 +3027,11 @@
         37
       ]
     },
-    "citation_reference_190": {
+    "citation_reference_194": {
       "type": "citation_reference",
-      "id": "citation_reference_190",
+      "id": "citation_reference_194",
       "path": [
-        "paragraph_188",
+        "paragraph_192",
         "content"
       ],
       "target": "article_citation_bib19",
@@ -3131,11 +3040,11 @@
         477
       ]
     },
-    "citation_reference_191": {
+    "citation_reference_195": {
       "type": "citation_reference",
-      "id": "citation_reference_191",
+      "id": "citation_reference_195",
       "path": [
-        "paragraph_188",
+        "paragraph_192",
         "content"
       ],
       "target": "article_citation_bib18",
@@ -3144,11 +3053,11 @@
         588
       ]
     },
-    "citation_reference_192": {
+    "citation_reference_196": {
       "type": "citation_reference",
-      "id": "citation_reference_192",
+      "id": "citation_reference_196",
       "path": [
-        "paragraph_188",
+        "paragraph_192",
         "content"
       ],
       "target": "article_citation_bib10",
@@ -3164,16 +3073,16 @@
       "content": "Cell culture, transfection and treatments",
       "nodes": []
     },
-    "paragraph_193": {
+    "paragraph_197": {
       "type": "paragraph",
-      "id": "paragraph_193",
+      "id": "paragraph_197",
       "content": "Mouse inner medullary collecting duct (mIMCD3) cells were maintained in Dulbecco’s modified Eagle medium/F12 (DMEM/F12; Gibco, Grand Island, NY) supplemented with 10% fetal bovine serum (FBS) and 2 mM L-Glutamine at 37°C in 5% CO2. To induce ciliogenesis, cells were cultured in DMEM/F12 supplemented with 0.2% FBS for 24 hr. Lipofectamine 2000 (Invitrogen) was used to transfect plasmids into IMCD3 cells according to the manufacturer’s protocol. To block IFT, cells were either treated with 50 μM ciliobrevin D (a gift from Dr James Chen, Stanford University) for 30 min, or semi-permeabilized with highly purified digitonin purchased from EMD Millipore (Billerica, MA) (#300410). Serum-starved IMCD3 cells on coverslips were first placed on an ice-chilled metal block and washed twice with cold Digitonin Assay Buffer (20 mM Hepes, pH 7.4, 115 mM KOAc, 1 mM MgCl2, 1 mM EGTA). For cell permeabilization, coverslips were incubated for 7 min in cold Digitonin Assay Buffer supplemented with 30 μg/ml digitonin and protease inhibitors (10 μg/ml each of leupeptin, pepstatin A, bestatin, aprotinin, AEBSF, and E-64). After permeabilization, coverslips were washed twice with Digitonin Assay Buffer and processed for subsequent imaging assays. For WGA treatment, cells were incubated with 75 μg/ml WGA for 7 min immediately prior to imaging. To test the signaling response of AP-SSTR3-GFP, HEK293T cells were transfected with AP-SSTR3-GFP and maintained in DMEM supplemented with 10% FBS for 24 hr and them treated with 10 μM Octreotide or Somatostatin (SST) immediately before live cell imaging."
     },
-    "annotation_194": {
+    "annotation_198": {
       "type": "subscript",
-      "id": "annotation_194",
+      "id": "annotation_198",
       "path": [
-        "paragraph_193",
+        "paragraph_197",
         "content"
       ],
       "target": null,
@@ -3182,11 +3091,11 @@
         230
       ]
     },
-    "annotation_195": {
+    "annotation_199": {
       "type": "subscript",
-      "id": "annotation_195",
+      "id": "annotation_199",
       "path": [
-        "paragraph_193",
+        "paragraph_197",
         "content"
       ],
       "target": null,
@@ -3202,16 +3111,16 @@
       "content": "ATP depletion and ATP level measurement",
       "nodes": []
     },
-    "paragraph_196": {
+    "paragraph_200": {
       "type": "paragraph",
-      "id": "paragraph_196",
+      "id": "paragraph_200",
       "content": "The level of intracellular ATP was determined by luciferin-luciferase bioluminescence assay following instructions from ATP determination kit (A22066; Molecular Probes) with homemade buffers. IMCD3 cells stably expressing AP-SSTR3-GFP were seeded on 35-mm dishes. To deplete intracellular ATP, cells were either incubated in PBS with 20 μM Antimycin A and 10 mM 2-deoxyglucose (2DG) for 40 min or permeabilized with two different concentration of digitonin (30 μg/ml and 60 μg/ml). After treatments, cells were washed twice with PBS (for Antimycin-2DG treatment) or Digitonin Assay Buffer (for digitonin treatment) and placed in ice-cold ATP buffer (20 mM Tris, PH7.5, 0.5% Nonidet P-40, 25 mM NaCl, and 2.5 mM EDTA) for 5 min. Cell lysates were then collected and centrifuged at 13,000×g for 15 min at 4°C and protein concentration was measured using Bradford Protein Assay reagent (Bio-Rad, Hercules, CA). For each reaction, 0.5 μg protein was used to measure the ATP level."
     },
-    "annotation_197": {
+    "annotation_201": {
       "type": "emphasis",
-      "id": "annotation_197",
+      "id": "annotation_201",
       "path": [
-        "paragraph_196",
+        "paragraph_200",
         "content"
       ],
       "target": null,
@@ -3227,16 +3136,16 @@
       "content": "Stable cell lines",
       "nodes": []
     },
-    "paragraph_198": {
+    "paragraph_202": {
       "type": "paragraph",
-      "id": "paragraph_198",
+      "id": "paragraph_202",
       "content": "An IMCD3 cell line stably expressing AP-SSTR3-GFP or AP-Smo-YFP was generated using the FlpIn system (Life Technologies, Grand Island, NY) as described previously (Jin et al., 2010). An IMCD3 host cell line containing a single flippase (Flp) recombination target (FRT) site was transfected with pEF5B/FRT-AP-SSTR3-GFP and the Flp recombinase expression plasmid, pOG44. 48 hr after transfection, cells were selected in DMEM/F12 supplemented with 5 μg/ml blasticidin. Single cell clones were isolated and the expression level of AP-SSTR3-GFP or AP-Smo-YFP in cilia was assessed by fluorescence microscopy. We note that AP-Smo-YFP is constitutively localized to cilia in our cell line because it is expressed at a slightly higher level than the endogenous protein."
     },
-    "citation_reference_199": {
+    "citation_reference_203": {
       "type": "citation_reference",
-      "id": "citation_reference_199",
+      "id": "citation_reference_203",
       "path": [
-        "paragraph_198",
+        "paragraph_202",
         "content"
       ],
       "target": "article_citation_bib23",
@@ -3252,16 +3161,16 @@
       "content": "Single molecule labeling of ciliary SSTR3 and Smo",
       "nodes": []
     },
-    "paragraph_200": {
+    "paragraph_204": {
       "type": "paragraph",
-      "id": "paragraph_200",
+      "id": "paragraph_204",
       "content": "Monovalent streptavidin was purified and conjugated to Alexa647 as described previously (Howarth et al., 2006). To singly biotinylate SSTR3 or Smo, IMCD3 cells stably expressing AP-SSTR3-GFP or AP-Smo-YFP were transfected with pDisplay/BirA-ER (BirA-ER is a biotin ligase targeted to the ER lumen) and RFP-Pericentrin PACT domain (a marker of the ciliary base), and maintained in DMEM/F12 supplemented with 0.2% FBS and 10 μM biotin (#BIO200; Avidity) for 24 hr. Excess biotin was removed from cells by washing with PBS. Alternatively, cell surface SSTR3 or Smo can be biotinylated by incubation with 0.3 μM recombinant BirA ligase, 10 μM biotin and 1 mM ATP as described previously (Howarth and Ting, 2008). Cells were then incubated with 50 pM mSA-Alexa647 in phenol red-free DMEM/F12 supplemented with 0.2% FBS and 25 mM HEPES (imaging medium) on a shaker at 20 rpm at room temperature for 1 hr. Next, excess mSA-Alexa647 was removed by washing cells with PBS, and cells were then incubated in imaging medium."
     },
-    "citation_reference_201": {
+    "citation_reference_205": {
       "type": "citation_reference",
-      "id": "citation_reference_201",
+      "id": "citation_reference_205",
       "path": [
-        "paragraph_200",
+        "paragraph_204",
         "content"
       ],
       "target": "article_citation_bib18",
@@ -3270,11 +3179,11 @@
         109
       ]
     },
-    "citation_reference_202": {
+    "citation_reference_206": {
       "type": "citation_reference",
-      "id": "citation_reference_202",
+      "id": "citation_reference_206",
       "path": [
-        "paragraph_200",
+        "paragraph_204",
         "content"
       ],
       "target": "article_citation_bib19",
@@ -3290,16 +3199,16 @@
       "content": "Live cell imaging and FRAP",
       "nodes": []
     },
-    "paragraph_203": {
+    "paragraph_207": {
       "type": "paragraph",
-      "id": "paragraph_203",
+      "id": "paragraph_207",
       "content": "Cells were seeded on 25 mm diameter cover-glass (Electron Microscopy Sciences, Hatfield, PA) 24 hr before transfection. After transfection, cells were serum-starved for 24 hr, and then the medium was replaced with imaging medium and cells were observed with a DeltaVision system (Applied Precision, Issaquah, WA). The DeltaVision system was equipped with a PlanApo 60×/1.40 objective lens (Olympus, Central Valley, PA), a CoolSNAP HQ2 camera (Photometrics, Tucson, AZ) and an EMCCD camera. To image mSA-Alexa647 labeled SSTR3-GFP, excitation light from the solid state illumination module (InsightSSI) was reduced to 10% intensity with a neutral density filter and the Cy5 channel was exposed for 0.4 s. Half-cilium FRAP was performed as described previously (Hu et al., 2010). The GFP fluorescent signal from part of the primary cilium was photobleached with the 488 nm laser from Quantifiable Laser Module (QLM), DeltaVision. The recovery rate of the GFP fluorescent signal in the bleached region was recorded at 1 s interval."
     },
-    "citation_reference_204": {
+    "citation_reference_208": {
       "type": "citation_reference",
-      "id": "citation_reference_204",
+      "id": "citation_reference_208",
       "path": [
-        "paragraph_203",
+        "paragraph_207",
         "content"
       ],
       "target": "article_citation_bib20",
@@ -3315,16 +3224,16 @@
       "content": "Data analysis",
       "nodes": []
     },
-    "paragraph_205": {
+    "paragraph_209": {
       "type": "paragraph",
-      "id": "paragraph_205",
+      "id": "paragraph_209",
       "content": "The mSA-Alexa647 labeled single molecule SSTR3 and Smo were tracked using the SpotTracker plugin in ImageJ (Sage et al., 2005). The ciliary base (labeled by Pericentrin-RFP) was used as a reference point to distinguish between anterograde (particle moving away from the base) and retrograde movement (particle moving toward the base)."
     },
-    "citation_reference_206": {
+    "citation_reference_210": {
       "type": "citation_reference",
-      "id": "citation_reference_206",
+      "id": "citation_reference_210",
       "path": [
-        "paragraph_205",
+        "paragraph_209",
         "content"
       ],
       "target": "article_citation_bib31",
@@ -3340,16 +3249,16 @@
       "content": "Distribution of instantaneous velocities",
       "nodes": []
     },
-    "paragraph_207": {
+    "paragraph_211": {
       "type": "paragraph",
-      "id": "paragraph_207",
+      "id": "paragraph_211",
       "content": "For each protein trajectory within a single cilium, principal component analysis was performed on the set of observed positions as well as the position of the cilium base. The largest principal component was used to define the axis of the cilium. Those trajectories that were essentially stationary, that is, with a variance <0.1 μm2 along the cilium axis, were designated as outliers and were not included in the analysis (a total of 4 trajectories from permeabilized samples)."
     },
-    "annotation_208": {
+    "annotation_212": {
       "type": "superscript",
-      "id": "annotation_208",
+      "id": "annotation_212",
       "path": [
-        "paragraph_207",
+        "paragraph_211",
         "content"
       ],
       "target": null,
@@ -3358,21 +3267,21 @@
         333
       ]
     },
-    "paragraph_209": {
+    "paragraph_213": {
       "type": "paragraph",
-      "id": "paragraph_209",
+      "id": "paragraph_213",
       "content": "Instantaneous velocities were identified as differences between consecutive positions, divided by the time-step of 0.46 s. Each velocity vector was then divided into components lying along and perpendicular to the cilium axis. The distribution of velocities was compared between untreated cells and either digitonin semi-permeabilized cells or ciliobrevin D-treated cells. A two-sample Kolmogorov-Smirnov statistical test was used to determine whether there was a significant difference between these distributions. This test is non-parametric, makes no assumptions about the shape of the underlying distributions, and does not require binning of the data. For velocity components perpendicular to the cilia, no significant difference was found (p>0.9) between either untreated cells and digitonin semi-permeabilized cells, or untreated cells and ciliobrevin D treated cells, as expected. For velocity components along the cilia axis, there was no significant difference between untreated cells and ciliobrevin D treated cells (p>0.05). Meanwhile, there was a significant difference between velocity distributions in untreated and digitonin semi-permeabilized cells for both the anterograde velocities (p=0.0004) and retrograde velocities (p=0.003) along the cilia axis."
     },
-    "paragraph_210": {
+    "paragraph_214": {
       "type": "paragraph",
-      "id": "paragraph_210",
+      "id": "paragraph_214",
       "content": "These differences between distributions were further analyzed by performing an effective histogram subtraction. The anterograde and retrograde velocities were separately binned to create histograms with an optimum bin size designed to generate an unbiased estimate of the distributions (Scott, 1979). Using nonlinear least-squares, the live cell velocity histogram was fitted to a mixed distribution consisting of fraction f of a Gaussian with unknown mean and variance and fraction (1−f) of the permeabilized cell distribution. For anterograde velocities, the fitted fraction in the additional Gaussian was f = 0.22 ± 0.13. The fitted Gaussian had a mean at 0.41 ± 0.14 μm/s and a standard deviation 0.26 ± 0.12 μm/s. An F-test was used to establish that the fitted mixed distribution fitted the live cell anterograde velocity data significantly better compared to the permeabilized cell distribution alone (p=10−5, justifying the three additional degrees of freedom). For retrograde velocities, we fitted a fraction f = 0.24 ± 0.06 in the additional Gaussian, which had a mean at 0.30 ± 0.10 μm/s and a standard deviation 0.28 ± 0.06 μm/s. The F-test statistic established that the mixed distribution yielded a significant improvement in fitting the retrograde velocity data (p=10−5)."
     },
-    "citation_reference_211": {
+    "citation_reference_215": {
       "type": "citation_reference",
-      "id": "citation_reference_211",
+      "id": "citation_reference_215",
       "path": [
-        "paragraph_210",
+        "paragraph_214",
         "content"
       ],
       "target": "article_citation_bib35",
@@ -3381,11 +3290,11 @@
         298
       ]
     },
-    "annotation_212": {
+    "annotation_216": {
       "type": "superscript",
-      "id": "annotation_212",
+      "id": "annotation_216",
       "path": [
-        "paragraph_210",
+        "paragraph_214",
         "content"
       ],
       "target": null,
@@ -3394,11 +3303,11 @@
         915
       ]
     },
-    "annotation_213": {
+    "annotation_217": {
       "type": "superscript",
-      "id": "annotation_213",
+      "id": "annotation_217",
       "path": [
-        "paragraph_210",
+        "paragraph_214",
         "content"
       ],
       "target": null,
@@ -3414,16 +3323,16 @@
       "content": "FRAP data analysis",
       "nodes": []
     },
-    "paragraph_214": {
+    "paragraph_218": {
       "type": "paragraph",
-      "id": "paragraph_214",
+      "id": "paragraph_218",
       "content": "The measured fractional fluorescence intensity in a narrow segment of the cilium as a function of time after photobleaching was fitted to a model of one-dimensional diffusion in a bounded region. The cumulative density of bleached molecules between positions 0 and x at time t is given by,"
     },
-    "annotation_215": {
+    "annotation_219": {
       "type": "emphasis",
-      "id": "annotation_215",
+      "id": "annotation_219",
       "path": [
-        "paragraph_214",
+        "paragraph_218",
         "content"
       ],
       "target": null,
@@ -3432,11 +3341,11 @@
         266
       ]
     },
-    "annotation_216": {
+    "annotation_220": {
       "type": "emphasis",
-      "id": "annotation_216",
+      "id": "annotation_220",
       "path": [
-        "paragraph_214",
+        "paragraph_218",
         "content"
       ],
       "target": null,
@@ -3448,20 +3357,19 @@
     "formula_equ1": {
       "type": "formula",
       "id": "formula_equ1",
-      "label": "",
       "content": "<mml:mrow><mml:mi>H</mml:mi><mml:mrow><mml:mo>(</mml:mo><mml:mi>x</mml:mi><mml:mo>,</mml:mo><mml:mi>t</mml:mi><mml:mo>)</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:mi>x</mml:mi><mml:mi>a</mml:mi></mml:mrow><mml:mi>L</mml:mi></mml:mfrac><mml:mo>+</mml:mo><mml:mstyle><mml:munderover><mml:mo>∑</mml:mo><mml:mrow><mml:mi>n</mml:mi><mml:mo>=</mml:mo><mml:mn>0</mml:mn></mml:mrow><mml:mn>∞</mml:mn></mml:munderover><mml:mrow><mml:mrow><mml:mo>[</mml:mo><mml:mrow><mml:mfrac><mml:mrow><mml:mn>2</mml:mn><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:msup><mml:mi>π</mml:mi><mml:mn>2</mml:mn></mml:msup><mml:msup><mml:mi>n</mml:mi><mml:mn>2</mml:mn></mml:msup></mml:mrow></mml:mfrac><mml:mi>sin</mml:mi><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mfrac><mml:mrow><mml:mi>n</mml:mi><mml:mi>π</mml:mi><mml:mi>a</mml:mi></mml:mrow><mml:mi>L</mml:mi></mml:mfrac></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:mi>sin</mml:mi><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mfrac><mml:mrow><mml:mi>n</mml:mi><mml:mi>π</mml:mi><mml:mi>x</mml:mi></mml:mrow><mml:mi>L</mml:mi></mml:mfrac></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:mi>exp</mml:mi><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mfrac><mml:mrow><mml:mo>−</mml:mo><mml:msup><mml:mi>π</mml:mi><mml:mn>2</mml:mn></mml:msup><mml:mi>D</mml:mi><mml:msup><mml:mi>n</mml:mi><mml:mn>2</mml:mn></mml:msup><mml:mi>t</mml:mi></mml:mrow><mml:mrow><mml:msup><mml:mi>L</mml:mi><mml:mn>2</mml:mn></mml:msup></mml:mrow></mml:mfrac></mml:mrow><mml:mo>)</mml:mo></mml:mrow></mml:mrow><mml:mo>]</mml:mo></mml:mrow><mml:mo>,</mml:mo></mml:mrow></mml:mstyle></mml:mrow>",
-      "format": "mml"
+      "format": "mathml"
     },
-    "paragraph_217": {
+    "paragraph_221": {
       "type": "paragraph",
-      "id": "paragraph_217",
+      "id": "paragraph_221",
       "content": "where the region from 0 to a is bleached, L is the length of the cilium, and D is the diffusion coefficient."
     },
-    "annotation_218": {
+    "annotation_222": {
       "type": "emphasis",
-      "id": "annotation_218",
+      "id": "annotation_222",
       "path": [
-        "paragraph_217",
+        "paragraph_221",
         "content"
       ],
       "target": null,
@@ -3470,11 +3378,11 @@
         43
       ]
     },
-    "annotation_219": {
+    "annotation_223": {
       "type": "emphasis",
-      "id": "annotation_219",
+      "id": "annotation_223",
       "path": [
-        "paragraph_217",
+        "paragraph_221",
         "content"
       ],
       "target": null,
@@ -3483,16 +3391,16 @@
         78
       ]
     },
-    "paragraph_220": {
+    "paragraph_224": {
       "type": "paragraph",
-      "id": "paragraph_220",
+      "id": "paragraph_224",
       "content": "If fb is the fraction of molecules bleached within the bleached region, and fm is the fraction of molecules that are mobile, then the fractional intensity measured between positions a1 and a2 at time t after photobleached is given by"
     },
-    "annotation_221": {
+    "annotation_225": {
       "type": "emphasis",
-      "id": "annotation_221",
+      "id": "annotation_225",
       "path": [
-        "paragraph_220",
+        "paragraph_224",
         "content"
       ],
       "target": null,
@@ -3501,11 +3409,11 @@
         4
       ]
     },
-    "annotation_222": {
+    "annotation_226": {
       "type": "emphasis",
-      "id": "annotation_222",
+      "id": "annotation_226",
       "path": [
-        "paragraph_220",
+        "paragraph_224",
         "content"
       ],
       "target": null,
@@ -3514,11 +3422,11 @@
         5
       ]
     },
-    "annotation_223": {
+    "annotation_227": {
       "type": "subscript",
-      "id": "annotation_223",
+      "id": "annotation_227",
       "path": [
-        "paragraph_220",
+        "paragraph_224",
         "content"
       ],
       "target": null,
@@ -3527,11 +3435,11 @@
         5
       ]
     },
-    "annotation_224": {
+    "annotation_228": {
       "type": "emphasis",
-      "id": "annotation_224",
+      "id": "annotation_228",
       "path": [
-        "paragraph_220",
+        "paragraph_224",
         "content"
       ],
       "target": null,
@@ -3540,11 +3448,11 @@
         77
       ]
     },
-    "annotation_225": {
+    "annotation_229": {
       "type": "emphasis",
-      "id": "annotation_225",
+      "id": "annotation_229",
       "path": [
-        "paragraph_220",
+        "paragraph_224",
         "content"
       ],
       "target": null,
@@ -3553,11 +3461,11 @@
         78
       ]
     },
-    "annotation_226": {
+    "annotation_230": {
       "type": "subscript",
-      "id": "annotation_226",
+      "id": "annotation_230",
       "path": [
-        "paragraph_220",
+        "paragraph_224",
         "content"
       ],
       "target": null,
@@ -3566,11 +3474,11 @@
         78
       ]
     },
-    "annotation_227": {
+    "annotation_231": {
       "type": "emphasis",
-      "id": "annotation_227",
+      "id": "annotation_231",
       "path": [
-        "paragraph_220",
+        "paragraph_224",
         "content"
       ],
       "target": null,
@@ -3579,11 +3487,11 @@
         183
       ]
     },
-    "annotation_228": {
+    "annotation_232": {
       "type": "subscript",
-      "id": "annotation_228",
+      "id": "annotation_232",
       "path": [
-        "paragraph_220",
+        "paragraph_224",
         "content"
       ],
       "target": null,
@@ -3592,11 +3500,11 @@
         184
       ]
     },
-    "annotation_229": {
+    "annotation_233": {
       "type": "emphasis",
-      "id": "annotation_229",
+      "id": "annotation_233",
       "path": [
-        "paragraph_220",
+        "paragraph_224",
         "content"
       ],
       "target": null,
@@ -3605,11 +3513,11 @@
         190
       ]
     },
-    "annotation_230": {
+    "annotation_234": {
       "type": "subscript",
-      "id": "annotation_230",
+      "id": "annotation_234",
       "path": [
-        "paragraph_220",
+        "paragraph_224",
         "content"
       ],
       "target": null,
@@ -3621,20 +3529,19 @@
     "formula_equ2": {
       "type": "formula",
       "id": "formula_equ2",
-      "label": "",
       "content": "<mml:mrow><mml:mi>f</mml:mi><mml:mo> </mml:mo><mml:mo>=</mml:mo><mml:mn>1</mml:mn><mml:mo>−</mml:mo><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mn>1</mml:mn><mml:mo>−</mml:mo><mml:msub><mml:mi>f</mml:mi><mml:mi>m</mml:mi></mml:msub></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:msub><mml:mi>f</mml:mi><mml:mi>b</mml:mi></mml:msub><mml:mo>−</mml:mo><mml:mfrac><mml:mrow><mml:msub><mml:mi>f</mml:mi><mml:mi>b</mml:mi></mml:msub><mml:msub><mml:mi>f</mml:mi><mml:mi>m</mml:mi></mml:msub></mml:mrow><mml:mrow><mml:mn>1</mml:mn><mml:mo>−</mml:mo><mml:msub><mml:mi>f</mml:mi><mml:mi>b</mml:mi></mml:msub><mml:mi>a</mml:mi><mml:mo>/</mml:mo><mml:mi>L</mml:mi></mml:mrow></mml:mfrac><mml:mfrac><mml:mrow><mml:mrow><mml:mo>[</mml:mo><mml:mrow><mml:mi>H</mml:mi><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:msub><mml:mi>a</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mi>,</mml:mi><mml:mi>t</mml:mi></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:mo>−</mml:mo><mml:mi>H</mml:mi><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:msub><mml:mi>a</mml:mi><mml:mn>1</mml:mn></mml:msub><mml:mi>,t</mml:mi></mml:mrow><mml:mo>)</mml:mo></mml:mrow></mml:mrow><mml:mo>]</mml:mo></mml:mrow></mml:mrow><mml:mrow><mml:msub><mml:mi>a</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mo>−</mml:mo><mml:msub><mml:mi>a</mml:mi><mml:mn>1</mml:mn></mml:msub></mml:mrow></mml:mfrac></mml:mrow>",
-      "format": "mml"
+      "format": "mathml"
     },
-    "paragraph_231": {
+    "paragraph_235": {
       "type": "paragraph",
-      "id": "paragraph_231",
+      "id": "paragraph_235",
       "content": "This functional form is used in a least-squares fit for the diffusion coefficient D."
     },
-    "annotation_232": {
+    "annotation_236": {
       "type": "emphasis",
-      "id": "annotation_232",
+      "id": "annotation_236",
       "path": [
-        "paragraph_231",
+        "paragraph_235",
         "content"
       ],
       "target": null,
@@ -3643,28 +3550,27 @@
         83
       ]
     },
-    "paragraph_233": {
+    "paragraph_237": {
       "type": "paragraph",
-      "id": "paragraph_233",
+      "id": "paragraph_237",
       "content": "The fraction bleached is estimated as"
     },
     "formula_equ3": {
       "type": "formula",
       "id": "formula_equ3",
-      "label": "",
       "content": "<mml:mrow><mml:msub><mml:mi>f</mml:mi><mml:mi>b</mml:mi></mml:msub><mml:mo>=</mml:mo><mml:mn>1</mml:mn><mml:mo>−</mml:mo><mml:mi>f</mml:mi><mml:mrow><mml:mo>(</mml:mo><mml:mn>0</mml:mn><mml:mo>)</mml:mo></mml:mrow><mml:mo>/</mml:mo><mml:msub><mml:mi>I</mml:mi><mml:mn>0</mml:mn></mml:msub><mml:mo>,</mml:mo></mml:mrow>",
-      "format": "mml"
+      "format": "mathml"
     },
-    "paragraph_234": {
+    "paragraph_238": {
       "type": "paragraph",
-      "id": "paragraph_234",
+      "id": "paragraph_238",
       "content": "where f(0) is the measured fractional intensity in the bleached region at time 0, and I0 is the intensity in the unbleached region at time 0."
     },
-    "annotation_235": {
+    "annotation_239": {
       "type": "emphasis",
-      "id": "annotation_235",
+      "id": "annotation_239",
       "path": [
-        "paragraph_234",
+        "paragraph_238",
         "content"
       ],
       "target": null,
@@ -3673,11 +3579,11 @@
         7
       ]
     },
-    "annotation_236": {
+    "annotation_240": {
       "type": "emphasis",
-      "id": "annotation_236",
+      "id": "annotation_240",
       "path": [
-        "paragraph_234",
+        "paragraph_238",
         "content"
       ],
       "target": null,
@@ -3686,11 +3592,11 @@
         87
       ]
     },
-    "annotation_237": {
+    "annotation_241": {
       "type": "subscript",
-      "id": "annotation_237",
+      "id": "annotation_241",
       "path": [
-        "paragraph_234",
+        "paragraph_238",
         "content"
       ],
       "target": null,
@@ -3699,28 +3605,27 @@
         88
       ]
     },
-    "paragraph_238": {
+    "paragraph_242": {
       "type": "paragraph",
-      "id": "paragraph_238",
+      "id": "paragraph_242",
       "content": "The fraction mobile is estimated as"
     },
     "formula_equ4": {
       "type": "formula",
       "id": "formula_equ4",
-      "label": "",
       "content": "<mml:mrow><mml:msub><mml:mi>f</mml:mi><mml:mi>m</mml:mi></mml:msub><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:msub><mml:mi>f</mml:mi><mml:mrow><mml:mi>max</mml:mi></mml:mrow></mml:msub><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mn>1</mml:mn><mml:mo>−</mml:mo><mml:msub><mml:mi>f</mml:mi><mml:mi>b</mml:mi></mml:msub><mml:mi>a</mml:mi><mml:mo>/</mml:mo><mml:mi>L</mml:mi></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:mo>−</mml:mo><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mn>1</mml:mn><mml:mo>−</mml:mo><mml:msub><mml:mi>f</mml:mi><mml:mi>b</mml:mi></mml:msub></mml:mrow><mml:mo>)</mml:mo></mml:mrow></mml:mrow><mml:mrow><mml:msub><mml:mi>f</mml:mi><mml:mi>b</mml:mi></mml:msub><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mn>1</mml:mn><mml:mo>−</mml:mo><mml:mi>a</mml:mi><mml:mo>/</mml:mo><mml:mi>L</mml:mi></mml:mrow><mml:mo>)</mml:mo></mml:mrow></mml:mrow></mml:mfrac><mml:mo>,</mml:mo></mml:mrow>",
-      "format": "mml"
+      "format": "mathml"
     },
-    "paragraph_239": {
+    "paragraph_243": {
       "type": "paragraph",
-      "id": "paragraph_239",
+      "id": "paragraph_243",
       "content": "where fmax is the maximal fractional intensity at long times."
     },
-    "annotation_240": {
+    "annotation_244": {
       "type": "emphasis",
-      "id": "annotation_240",
+      "id": "annotation_244",
       "path": [
-        "paragraph_239",
+        "paragraph_243",
         "content"
       ],
       "target": null,
@@ -3729,11 +3634,11 @@
         7
       ]
     },
-    "annotation_241": {
+    "annotation_245": {
       "type": "subscript",
-      "id": "annotation_241",
+      "id": "annotation_245",
       "path": [
-        "paragraph_239",
+        "paragraph_243",
         "content"
       ],
       "target": null,
@@ -3762,19 +3667,19 @@
       "level": 2,
       "content": "Competing Interests",
       "nodes": [
-        "paragraph_242"
+        "paragraph_246"
       ]
     },
-    "paragraph_242": {
+    "paragraph_246": {
       "type": "paragraph",
-      "id": "paragraph_242",
+      "id": "paragraph_246",
       "content": "Competing interestsWJN: Reviewing editor, eLife.The other authors declare that no competing interests exist."
     },
-    "annotation_243": {
+    "annotation_247": {
       "type": "emphasis",
-      "id": "annotation_243",
+      "id": "annotation_247",
       "path": [
-        "paragraph_242",
+        "paragraph_246",
         "content"
       ],
       "target": null,
@@ -3826,17 +3731,11 @@
       "year": "2008",
       "volume": "105",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "4242",
       "lpage": "6",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1073/pnas.0711027105",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib2": {
@@ -3860,17 +3759,11 @@
       "year": "1979",
       "volume": "82",
       "source": "J Cell Biol",
-      "issue": "",
       "fpage": "664",
       "lpage": "74",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1083/jcb.82.3.664",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib3": {
@@ -3890,17 +3783,11 @@
       "year": "1989",
       "volume": "13",
       "source": "Cell Motil Cytoskeleton",
-      "issue": "",
       "fpage": "1",
       "lpage": "8",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1002/cm.970130102",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib4": {
@@ -3930,19 +3817,10 @@
       ],
       "title": "An in vitro assay for entry into cilia reveals unique properties of the soluble diffusion barrier",
       "year": "2013",
-      "volume": "",
       "source": "J Cell Biol",
-      "issue": "",
-      "fpage": "",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1083/jcb.201212024",
       "citation_url": [],
       "format": "other",
-      "label": "",
       "editors": [],
       "comment": "(In Press)"
     },
@@ -3971,17 +3849,11 @@
       "year": "2012",
       "volume": "150",
       "source": "Cell",
-      "issue": "",
       "fpage": "495",
       "lpage": "507",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.cell.2012.05.047",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib6": {
@@ -3995,19 +3867,12 @@
       ],
       "title": "Intraflagellar transport",
       "year": "2008",
-      "volume": "",
       "source": "The Chlamydomonas sourcebook: cell motility and behavior",
-      "issue": "",
       "fpage": "512",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
       "publisher-name": "Academic Press",
       "publisher-loc": "Philadelphia, PA",
-      "doi": "",
       "citation_url": [],
       "format": "book",
-      "label": "",
       "editors": [
         {
           "given-names": "EH",
@@ -4052,17 +3917,11 @@
       "year": "2005",
       "volume": "437",
       "source": "Nature",
-      "issue": "",
       "fpage": "1018",
       "lpage": "21",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nature04117",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib8": {
@@ -4094,22 +3953,15 @@
       "year": "1999",
       "volume": "181",
       "source": "J Bacteriol",
-      "issue": "",
       "fpage": "197",
       "lpage": "203",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_244": {
+    "annotation_248": {
       "type": "emphasis",
-      "id": "annotation_244",
+      "id": "annotation_248",
       "path": [
         "article_citation_bib8",
         "title"
@@ -4153,17 +4005,11 @@
       "year": "2012",
       "volume": "484",
       "source": "Nature",
-      "issue": "",
       "fpage": "125",
       "lpage": "9",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nature10936",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib10": {
@@ -4183,17 +4029,11 @@
       "year": "2000",
       "volume": "1",
       "source": "EMBO Rep",
-      "issue": "",
       "fpage": "524",
       "lpage": "9",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1093/embo-reports/kvd105",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib11": {
@@ -4213,17 +4053,11 @@
       "year": "2010",
       "volume": "11",
       "source": "Nat Rev Genet",
-      "issue": "",
       "fpage": "331",
       "lpage": "44",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nrg2774",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib12": {
@@ -4255,22 +4089,16 @@
       "year": "1986",
       "volume": "103",
       "source": "J Cell Biol",
-      "issue": "",
       "fpage": "819",
       "lpage": "28",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1083/jcb.103.3.819",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_245": {
+    "annotation_249": {
       "type": "emphasis",
-      "id": "annotation_245",
+      "id": "annotation_249",
       "path": [
         "article_citation_bib12",
         "title"
@@ -4302,17 +4130,11 @@
       "year": "2008",
       "volume": "105",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "3663",
       "lpage": "7",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1073/pnas.0707223105",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib14": {
@@ -4348,17 +4170,11 @@
       "year": "1999",
       "volume": "89",
       "source": "Neuroscience",
-      "issue": "",
       "fpage": "909",
       "lpage": "26",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/S0306-4522(98)00354-6",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib15": {
@@ -4386,22 +4202,15 @@
       "year": "2011",
       "volume": "6",
       "source": "PLOS ONE",
-      "issue": "",
       "fpage": "e20995",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1371/journal.pone.0020995",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_246": {
+    "annotation_250": {
       "type": "emphasis",
-      "id": "annotation_246",
+      "id": "annotation_250",
       "path": [
         "article_citation_bib15",
         "title"
@@ -4445,17 +4254,10 @@
       "year": "2005",
       "volume": "1",
       "source": "PLOS Genet",
-      "issue": "",
       "fpage": "e53",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1371/journal.pgen.0010053",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib17": {
@@ -4483,17 +4285,11 @@
       "year": "2009",
       "volume": "10",
       "source": "Nat Rev Mol Cell Biol",
-      "issue": "",
       "fpage": "682",
       "lpage": "96",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nrm2774",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib18": {
@@ -4529,17 +4325,11 @@
       "year": "2006",
       "volume": "3",
       "source": "Nat Methods",
-      "issue": "",
       "fpage": "267",
       "lpage": "73",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nmeth861",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib19": {
@@ -4559,17 +4349,11 @@
       "year": "2008",
       "volume": "3",
       "source": "Nat Protoc",
-      "issue": "",
       "fpage": "534",
       "lpage": "45",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nprot.2008.20",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib20": {
@@ -4605,17 +4389,11 @@
       "year": "2010",
       "volume": "329",
       "source": "Science",
-      "issue": "",
       "fpage": "436",
       "lpage": "9",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1126/science.1191054",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib21": {
@@ -4651,22 +4429,16 @@
       "year": "2007",
       "volume": "179",
       "source": "J Cell Biol",
-      "issue": "",
       "fpage": "501",
       "lpage": "14",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1083/jcb.200704069",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_247": {
+    "annotation_251": {
       "type": "emphasis",
-      "id": "annotation_247",
+      "id": "annotation_251",
       "path": [
         "article_citation_bib21",
         "title"
@@ -4710,17 +4482,11 @@
       "year": "2003",
       "volume": "426",
       "source": "Nature",
-      "issue": "",
       "fpage": "83",
       "lpage": "7",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nature02061",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib23": {
@@ -4756,17 +4522,11 @@
       "year": "2010",
       "volume": "141",
       "source": "Cell",
-      "issue": "",
       "fpage": "1208",
       "lpage": "19",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.cell.2010.05.015",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib24": {
@@ -4794,17 +4554,11 @@
       "year": "2005",
       "volume": "15",
       "source": "Curr Biol",
-      "issue": "",
       "fpage": "R410",
       "lpage": "1",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.cub.2005.05.044",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib25": {
@@ -4824,17 +4578,11 @@
       "year": "2002",
       "volume": "13",
       "source": "Mol Biol Cell",
-      "issue": "",
       "fpage": "1417",
       "lpage": "26",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1091/mbc.01-11-0531",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib26": {
@@ -4858,17 +4606,11 @@
       "year": "2006",
       "volume": "16",
       "source": "Curr Biol",
-      "issue": "",
       "fpage": "450",
       "lpage": "9",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.cub.2006.02.020",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib27": {
@@ -4888,17 +4630,11 @@
       "year": "2008",
       "volume": "85",
       "source": "Curr Top Dev Biol",
-      "issue": "",
       "fpage": "23",
       "lpage": "61",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/S0070-2153(08)00802-8",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib28": {
@@ -4934,17 +4670,11 @@
       "year": "2009",
       "volume": "187",
       "source": "J Cell Biol",
-      "issue": "",
       "fpage": "135",
       "lpage": "48",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1083/jcb.200905103",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib29": {
@@ -4976,17 +4706,11 @@
       "year": "2004",
       "volume": "164",
       "source": "J Cell Biol",
-      "issue": "",
       "fpage": "255",
       "lpage": "66",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1083/jcb.200308132",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib30": {
@@ -5010,17 +4734,11 @@
       "year": "2007",
       "volume": "317",
       "source": "Science",
-      "issue": "",
       "fpage": "372",
       "lpage": "6",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1126/science.1139740",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib31": {
@@ -5052,17 +4770,11 @@
       "year": "2005",
       "volume": "14",
       "source": "IEEE Trans Image Process",
-      "issue": "",
       "fpage": "1372",
       "lpage": "83",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1109/TIP.2005.852787",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib32": {
@@ -5082,17 +4794,11 @@
       "year": "2007",
       "volume": "69",
       "source": "Annu Rev Physiol",
-      "issue": "",
       "fpage": "377",
       "lpage": "400",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1146/annurev.physiol.69.040705.141236",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib33": {
@@ -5108,17 +4814,11 @@
       "year": "2008",
       "volume": "180",
       "source": "J Cell Biol",
-      "issue": "",
       "fpage": "23",
       "lpage": "9",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1083/jcb.200709133",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib34": {
@@ -5146,17 +4846,11 @@
       "year": "2011",
       "volume": "70",
       "source": "Neuron",
-      "issue": "",
       "fpage": "441",
       "lpage": "54",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.neuron.2011.03.022",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib35": {
@@ -5172,17 +4866,11 @@
       "year": "1979",
       "volume": "66",
       "source": "Biometrika",
-      "issue": "",
       "fpage": "605",
       "lpage": "10",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1093/biomet/66.3.605",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib36": {
@@ -5206,17 +4894,11 @@
       "year": "2006",
       "volume": "125",
       "source": "Cell",
-      "issue": "",
       "fpage": "549",
       "lpage": "62",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.cell.2006.02.044",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "sub-article": {

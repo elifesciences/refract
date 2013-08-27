@@ -195,7 +195,6 @@
       "accepted_on": "2013-07-01",
       "published_on": "2013-08-14",
       "journal": "elife",
-      "article_type": "",
       "keywords": [
         "MAVS",
         "innate immunity",
@@ -213,10 +212,9 @@
         "Cell biology",
         "Immunology"
       ],
-      "pdf_link": "",
-      "xml_link": "",
-      "json_link": "",
-      "doi": ""
+      "xml_link": "https://s3.amazonaws.com/elife-cdn/elife-articles/00785/elife00785.xml",
+      "json_link": "https://s3.amazonaws.com/elife-cdn/elife-articles/00785/00785.json",
+      "doi": "http://dx.doi.org/10.7554/eLife.00785"
     },
     "person_author_4834": {
       "type": "person",
@@ -225,9 +223,7 @@
       "last-name": "Liu",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article",
-      "email": "",
       "funding": []
     },
     "person_author_4835": {
@@ -237,9 +233,7 @@
       "last-name": "Chen",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article",
-      "email": "",
       "funding": [
         "funding_par_2"
       ]
@@ -251,9 +245,7 @@
       "last-name": "Cai",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Acquisition of data, Analysis and interpretation of data",
-      "email": "",
       "funding": []
     },
     "person_author_4837": {
@@ -263,9 +255,7 @@
       "last-name": "Wu",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Acquisition of data, Analysis and interpretation of data",
-      "email": "",
       "funding": []
     },
     "person_author_4838": {
@@ -275,9 +265,7 @@
       "last-name": "Chen",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Acquisition of data, Analysis and interpretation of data",
-      "email": "",
       "funding": []
     },
     "person_author_4839": {
@@ -287,9 +275,7 @@
       "last-name": "Wu",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Acquisition of data, Contributed unpublished essential data or reagents",
-      "email": "",
       "funding": []
     },
     "person_author_4840": {
@@ -299,9 +285,7 @@
       "last-name": "Sun",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Analysis and interpretation of data",
-      "email": "",
       "funding": []
     },
     "person_author_1057": {
@@ -311,7 +295,6 @@
       "last-name": "Chen",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Analysis and interpretation of data, Drafting or revising the article",
       "email": "email_cor1",
       "funding": [
@@ -326,18 +309,14 @@
       "id": "institution_aff1",
       "name": "University of Texas Southwestern Medical Center",
       "city": "Dallas",
-      "country": "United States",
-      "email": "",
-      "image": ""
+      "country": "United States"
     },
     "institution_aff2": {
       "type": "institution",
       "id": "institution_aff2",
       "name": "Howard Hughes Medical Institute, University of Texas Southwestern Medical Center",
       "city": "Dallas",
-      "country": "United States",
-      "email": "",
-      "image": ""
+      "country": "United States"
     },
     "person_1": {
       "type": "person",
@@ -346,9 +325,6 @@
       "last-name": "Shao",
       "role": "editor",
       "affiliations": [],
-      "image": "",
-      "contribution": "",
-      "email": "",
       "funding": []
     },
     "info:review": {
@@ -363,7 +339,6 @@
     "email_cor1": {
       "type": "email",
       "id": "email_cor1",
-      "node": "",
       "email": "zhijian.chen@utsouthwestern.edu"
     },
     "info:copyright": {
@@ -528,7 +503,6 @@
       "type": "funding",
       "id": "funding_par_4",
       "institution": "Howard Hughes Medical Institute",
-      "accession": "",
       "person": "person_author_1057",
       "given-names": "Zhijian J",
       "last-name": "Chen"
@@ -553,8 +527,7 @@
     },
     "paragraph_16": {
       "type": "paragraph",
-      "id": "paragraph_16",
-      "content": ""
+      "id": "paragraph_16"
     },
     "heading_s1": {
       "type": "heading",
@@ -1235,19 +1208,12 @@
       "type": "image",
       "id": "image_fig1",
       "label": "Figure 1.",
-      "url": "",
-      "object_id": "F1",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00785/svg/elife00785f001.svg",
       "title": "TRAF2, TRAF5, and TRAF6 are important for IRF3 and IKK activation in vitro.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00785.003",
       "caption": "paragraph_image_fig1",
-      "graphic_id": "elife00785f001"
+      "graphic_id": "elife00785f001",
+      "format": "image"
     },
     "paragraph_image_fig1": {
       "type": "paragraph",
@@ -1648,19 +1614,12 @@
       "type": "image",
       "id": "image_fig1s1",
       "label": "Figure 1—figure supplement 1.",
-      "url": "",
-      "object_id": "F2",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00785/svg/elife00785fs001.svg",
       "title": "TRAF6 and TRAF2/5 are IRF3 activators.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig1"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00785.004",
       "caption": "paragraph_image_fig1s1",
-      "graphic_id": "elife00785fs001"
+      "graphic_id": "elife00785fs001",
+      "format": "image"
     },
     "paragraph_image_fig1s1": {
       "type": "paragraph",
@@ -2719,19 +2678,12 @@
       "type": "image",
       "id": "image_fig2",
       "label": "Figure 2.",
-      "url": "",
-      "object_id": "F3",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00785/svg/elife00785f002.svg",
       "title": "TRAF6 functions redundantly with TRAF2 and TRAF5 to activate IRF3 in cells.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00785.005",
       "caption": "paragraph_image_fig2",
-      "graphic_id": "elife00785f002"
+      "graphic_id": "elife00785f002",
+      "format": "image"
     },
     "paragraph_image_fig2": {
       "type": "paragraph",
@@ -2898,19 +2850,12 @@
       "type": "image",
       "id": "image_fig2s1",
       "label": "Figure 2—figure supplement 1.",
-      "url": "",
-      "object_id": "F4",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00785/svg/elife00785fs002.svg",
       "title": "TRAF2, 5, and 6 function redundantly to activate IRF3 in cells.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig2"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00785.006",
       "caption": "paragraph_image_fig2s1",
-      "graphic_id": "elife00785fs002"
+      "graphic_id": "elife00785fs002",
+      "format": "image"
     },
     "paragraph_image_fig2s1": {
       "type": "paragraph",
@@ -3155,19 +3100,12 @@
       "type": "image",
       "id": "image_fig2s2",
       "label": "Figure 2—figure supplement 2.",
-      "url": "",
-      "object_id": "F5",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00785/svg/elife00785fs003.svg",
       "title": "Multiple E3 ligases function redundantly to activate IRF3 in cells.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig2"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00785.007",
       "caption": "paragraph_image_fig2s2",
-      "graphic_id": "elife00785fs003"
+      "graphic_id": "elife00785fs003",
+      "format": "image"
     },
     "paragraph_image_fig2s2": {
       "type": "paragraph",
@@ -3902,19 +3840,12 @@
       "type": "image",
       "id": "image_fig3",
       "label": "Figure 3.",
-      "url": "",
-      "object_id": "F6",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00785/svg/elife00785f003.svg",
       "title": "LUBAC functions redundantly with TRAF2 to support MAVS signaling.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00785.008",
       "caption": "paragraph_image_fig3",
-      "graphic_id": "elife00785f003"
+      "graphic_id": "elife00785f003",
+      "format": "image"
     },
     "paragraph_image_fig3": {
       "type": "paragraph",
@@ -4120,19 +4051,12 @@
       "type": "image",
       "id": "image_fig3s1",
       "label": "Figure 3—figure supplement 1.",
-      "url": "",
-      "object_id": "F7",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00785/svg/elife00785fs004.svg",
       "title": "LUBAC is largely dispensable for MAVS signaling when it is depleted from wild-type cells.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig3"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00785.009",
       "caption": "paragraph_image_fig3s1",
-      "graphic_id": "elife00785fs004"
+      "graphic_id": "elife00785fs004",
+      "format": "image"
     },
     "paragraph_image_fig3s1": {
       "type": "paragraph",
@@ -4286,19 +4210,12 @@
       "type": "image",
       "id": "image_fig3s2",
       "label": "Figure 3—figure supplement 2.",
-      "url": "",
-      "object_id": "F8",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00785/svg/elife00785fs005.svg",
       "title": "LUBAC is required for MAVS signaling only when the functions of TRAF proteins are compromised.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig3"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00785.010",
       "caption": "paragraph_image_fig3s2",
-      "graphic_id": "elife00785fs005"
+      "graphic_id": "elife00785fs005",
+      "format": "image"
     },
     "paragraph_image_fig3s2": {
       "type": "paragraph",
@@ -4846,19 +4763,12 @@
       "type": "image",
       "id": "image_fig4",
       "label": "Figure 4.",
-      "url": "",
-      "object_id": "F9",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00785/svg/elife00785f004.svg",
       "title": "MAVS recruits multiple TRAF proteins to activate IRF3 upon virus infection.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00785.011",
       "caption": "paragraph_image_fig4",
-      "graphic_id": "elife00785f004"
+      "graphic_id": "elife00785f004",
+      "format": "image"
     },
     "paragraph_image_fig4": {
       "type": "paragraph",
@@ -5064,19 +4974,12 @@
       "type": "image",
       "id": "image_fig4s1",
       "label": "Figure 4—figure supplement 1.",
-      "url": "",
-      "object_id": "F10",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00785/svg/elife00785fs006.svg",
       "title": "MAVS recruits multiple TRAF proteins upon virus infection.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig4"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00785.012",
       "caption": "paragraph_image_fig4s1",
-      "graphic_id": "elife00785fs006"
+      "graphic_id": "elife00785fs006",
+      "format": "image"
     },
     "paragraph_image_fig4s1": {
       "type": "paragraph",
@@ -5412,19 +5315,12 @@
       "type": "image",
       "id": "image_fig4s2",
       "label": "Figure 4—figure supplement 2.",
-      "url": "",
-      "object_id": "F11",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00785/svg/elife00785fs007.svg",
       "title": "MAVS recruits multiple TRAF proteins upon virus infection.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig4"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00785.013",
       "caption": "paragraph_image_fig4s2",
-      "graphic_id": "elife00785fs007"
+      "graphic_id": "elife00785fs007",
+      "format": "image"
     },
     "paragraph_image_fig4s2": {
       "type": "paragraph",
@@ -5998,19 +5894,12 @@
       "type": "image",
       "id": "image_fig5",
       "label": "Figure 5.",
-      "url": "",
-      "object_id": "F12",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00785/svg/elife00785f005.svg",
       "title": "Prion-like polymerization of MAVS is required for IRF3 activation and TRAF6 recruitment.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00785.014",
       "caption": "paragraph_image_fig5",
-      "graphic_id": "elife00785f005"
+      "graphic_id": "elife00785f005",
+      "format": "image"
     },
     "paragraph_image_fig5": {
       "type": "paragraph",
@@ -6164,19 +6053,12 @@
       "type": "image",
       "id": "image_fig5s1",
       "label": "Figure 5—figure supplement 1.",
-      "url": "",
-      "object_id": "F13",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00785/svg/elife00785fs008.svg",
       "title": "Mutations that disrupt MAVS polymerization abolish viral activation of IRF3.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig5"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00785.015",
       "caption": "paragraph_image_fig5s1",
-      "graphic_id": "elife00785fs008"
+      "graphic_id": "elife00785fs008",
+      "format": "image"
     },
     "paragraph_image_fig5s1": {
       "type": "paragraph",
@@ -6420,19 +6302,12 @@
       "type": "image",
       "id": "image_fig6",
       "label": "Figure 6.",
-      "url": "",
-      "object_id": "F14",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00785/svg/elife00785f006.svg",
       "title": "Ubiquitination-dependent assembly of a MAVS signaling complex.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00785.016",
       "caption": "paragraph_image_fig6",
-      "graphic_id": "elife00785f006"
+      "graphic_id": "elife00785f006",
+      "format": "image"
     },
     "paragraph_image_fig6": {
       "type": "paragraph",
@@ -6573,19 +6448,12 @@
       "type": "image",
       "id": "image_fig6s1",
       "label": "Figure 6—figure supplement 1.",
-      "url": "",
-      "object_id": "F15",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00785/svg/elife00785fs009.svg",
       "title": "SILAC experiments to identify ubiquitin-dependent NEMO-signaling complex both in vitro and in cells.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig6"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00785.017",
       "caption": "paragraph_image_fig6s1",
-      "graphic_id": "elife00785fs009"
+      "graphic_id": "elife00785fs009",
+      "format": "image"
     },
     "paragraph_image_fig6s1": {
       "type": "paragraph",
@@ -7291,19 +7159,12 @@
       "type": "image",
       "id": "image_fig7",
       "label": "Figure 7.",
-      "url": "",
-      "object_id": "F16",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00785/svg/elife00785f007.svg",
       "title": "Mutation of NEMO ubiquitination sites does not impair viral induction of interferons.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00785.018",
       "caption": "paragraph_image_fig7",
-      "graphic_id": "elife00785f007"
+      "graphic_id": "elife00785f007",
+      "format": "image"
     },
     "paragraph_image_fig7": {
       "type": "paragraph",
@@ -7574,19 +7435,12 @@
       "type": "image",
       "id": "image_fig8",
       "label": "Figure 8.",
-      "url": "",
-      "object_id": "F17",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00785/svg/elife00785f008.svg",
       "title": "A Model for MAVS-mediated IRF3 and NF-κB activation.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00785.019",
       "caption": "paragraph_image_fig8",
-      "graphic_id": "elife00785f008"
+      "graphic_id": "elife00785f008",
+      "format": "image"
     },
     "paragraph_image_fig8": {
       "type": "paragraph",
@@ -9608,17 +9462,11 @@
       "year": "2004",
       "volume": "14",
       "source": "Curr Biol",
-      "issue": "",
       "fpage": "2217",
       "lpage": "27",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.cub.2004.12.032",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib2": {
@@ -9642,17 +9490,11 @@
       "year": "2006",
       "volume": "124",
       "source": "Cell",
-      "issue": "",
       "fpage": "783",
       "lpage": "801",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.cell.2006.02.015",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib3": {
@@ -9688,17 +9530,11 @@
       "year": "2012",
       "volume": "12",
       "source": "Cell Host Microbe",
-      "issue": "",
       "fpage": "211",
       "lpage": "22",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.chom.2012.06.009",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib4": {
@@ -9734,17 +9570,11 @@
       "year": "2011",
       "volume": "434",
       "source": "Biochem J",
-      "issue": "",
       "fpage": "93",
       "lpage": "104",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1042/BJ20101701",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib5": {
@@ -9764,17 +9594,11 @@
       "year": "2008",
       "volume": "26",
       "source": "Nat Biotechnol",
-      "issue": "",
       "fpage": "1367",
       "lpage": "72",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nbt.1511",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib6": {
@@ -9810,17 +9634,11 @@
       "year": "2011",
       "volume": "10",
       "source": "J Proteome Res",
-      "issue": "",
       "fpage": "1794",
       "lpage": "805",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1021/pr101065j",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib7": {
@@ -9856,17 +9674,11 @@
       "year": "2008",
       "volume": "29",
       "source": "Mol Cell",
-      "issue": "",
       "fpage": "169",
       "lpage": "79",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.molcel.2007.10.032",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib8": {
@@ -9902,17 +9714,11 @@
       "year": "2000",
       "volume": "103",
       "source": "Cell",
-      "issue": "",
       "fpage": "351",
       "lpage": "61",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/S0092-8674(00)00126-4",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib9": {
@@ -9944,17 +9750,11 @@
       "year": "2006",
       "volume": "22",
       "source": "Mol Cell",
-      "issue": "",
       "fpage": "245",
       "lpage": "57",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.molcel.2006.03.026",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib10": {
@@ -9990,17 +9790,11 @@
       "year": "2007",
       "volume": "446",
       "source": "Nature",
-      "issue": "",
       "fpage": "916",
       "lpage": "20",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nature05732",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib11": {
@@ -10020,17 +9814,11 @@
       "year": "2007",
       "volume": "282",
       "source": "J Biol Chem",
-      "issue": "",
       "fpage": "11817",
       "lpage": "26",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1074/jbc.M700017200",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib12": {
@@ -10066,17 +9854,11 @@
       "year": "2009",
       "volume": "36",
       "source": "Mol Cell",
-      "issue": "",
       "fpage": "831",
       "lpage": "44",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.molcel.2009.10.013",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib13": {
@@ -10112,17 +9894,11 @@
       "year": "2006",
       "volume": "439",
       "source": "Nature",
-      "issue": "",
       "fpage": "204",
       "lpage": "7",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nature04369",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib14": {
@@ -10158,17 +9934,11 @@
       "year": "2006",
       "volume": "314",
       "source": "Science",
-      "issue": "",
       "fpage": "994",
       "lpage": "7",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1126/science.1132505",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib15": {
@@ -10204,17 +9974,11 @@
       "year": "2011",
       "volume": "146",
       "source": "Cell",
-      "issue": "",
       "fpage": "448",
       "lpage": "61",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.cell.2011.06.041",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib16": {
@@ -10250,17 +10014,11 @@
       "year": "2011",
       "volume": "41",
       "source": "Mol Cell",
-      "issue": "",
       "fpage": "354",
       "lpage": "65",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.molcel.2010.12.029",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib17": {
@@ -10280,17 +10038,11 @@
       "year": "2008",
       "volume": "455",
       "source": "Nature",
-      "issue": "",
       "fpage": "674",
       "lpage": "8",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nature07317",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib18": {
@@ -10326,17 +10078,11 @@
       "year": "2012",
       "volume": "36",
       "source": "Immunity",
-      "issue": "",
       "fpage": "959",
       "lpage": "73",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.immuni.2012.03.022",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib19": {
@@ -10372,17 +10118,11 @@
       "year": "2008",
       "volume": "28",
       "source": "Mol Cell Biol",
-      "issue": "",
       "fpage": "5014",
       "lpage": "26",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1128/MCB.00640-08",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib20": {
@@ -10418,17 +10158,11 @@
       "year": "2005",
       "volume": "6",
       "source": "Nat Immunol",
-      "issue": "",
       "fpage": "981",
       "lpage": "8",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/ni1243",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib21": {
@@ -10464,17 +10198,10 @@
       "year": "2009",
       "volume": "4",
       "source": "PLOS ONE",
-      "issue": "",
       "fpage": "e5674",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1371/journal.pone.0005674",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib22": {
@@ -10510,17 +10237,11 @@
       "year": "2011",
       "volume": "147",
       "source": "Cell",
-      "issue": "",
       "fpage": "423",
       "lpage": "35",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.cell.2011.09.039",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib23": {
@@ -10556,17 +10277,11 @@
       "year": "2009",
       "volume": "28",
       "source": "EMBO J",
-      "issue": "",
       "fpage": "2885",
       "lpage": "95",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/emboj.2009.241",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib24": {
@@ -10602,17 +10317,11 @@
       "year": "2004",
       "volume": "305",
       "source": "Science",
-      "issue": "",
       "fpage": "1471",
       "lpage": "4",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1126/science.1098231",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib25": {
@@ -10644,17 +10353,11 @@
       "year": "2011",
       "volume": "35",
       "source": "Immunity",
-      "issue": "",
       "fpage": "426",
       "lpage": "40",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.immuni.2011.06.014",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib26": {
@@ -10678,17 +10381,11 @@
       "year": "2009",
       "volume": "33",
       "source": "Mol Cell",
-      "issue": "",
       "fpage": "30",
       "lpage": "42",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.molcel.2008.11.023",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib27": {
@@ -10724,17 +10421,11 @@
       "year": "2011",
       "volume": "147",
       "source": "Cell",
-      "issue": "",
       "fpage": "409",
       "lpage": "22",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.cell.2011.09.023",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib28": {
@@ -10770,17 +10461,11 @@
       "year": "2010",
       "volume": "285",
       "source": "J Biol Chem",
-      "issue": "",
       "fpage": "9470",
       "lpage": "6",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1074/jbc.M109.071043",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib29": {
@@ -10816,17 +10501,11 @@
       "year": "2005",
       "volume": "437",
       "source": "Nature",
-      "issue": "",
       "fpage": "1167",
       "lpage": "72",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nature04193",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib30": {
@@ -10862,17 +10541,11 @@
       "year": "2006",
       "volume": "439",
       "source": "Nature",
-      "issue": "",
       "fpage": "208",
       "lpage": "11",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nature04374",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib31": {
@@ -10908,17 +10581,11 @@
       "year": "2011",
       "volume": "21",
       "source": "Cell Res",
-      "issue": "",
       "fpage": "895",
       "lpage": "910",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/cr.2011.2",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib32": {
@@ -10938,17 +10605,11 @@
       "year": "2007",
       "volume": "27",
       "source": "Immunity",
-      "issue": "",
       "fpage": "370",
       "lpage": "83",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.immuni.2007.08.012",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib33": {
@@ -10984,17 +10645,11 @@
       "year": "2006",
       "volume": "314",
       "source": "Science",
-      "issue": "",
       "fpage": "997",
       "lpage": "1001",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1126/science.1132998",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib34": {
@@ -11014,17 +10669,11 @@
       "year": "2012",
       "volume": "151",
       "source": "Cell",
-      "issue": "",
       "fpage": "807",
       "lpage": "20",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.cell.2012.10.021",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib35": {
@@ -11044,17 +10693,11 @@
       "year": "2007",
       "volume": "26",
       "source": "EMBO J",
-      "issue": "",
       "fpage": "3180",
       "lpage": "90",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/sj.emboj.7601743",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib36": {
@@ -11090,17 +10733,11 @@
       "year": "2006",
       "volume": "25",
       "source": "EMBO J",
-      "issue": "",
       "fpage": "3257",
       "lpage": "63",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/sj.emboj.7601220",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib37": {
@@ -11136,17 +10773,10 @@
       "year": "2006",
       "volume": "177",
       "source": "J Immunol",
-      "issue": "",
       "fpage": "8676",
       "lpage": "83",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib38": {
@@ -11174,17 +10804,11 @@
       "year": "2005",
       "volume": "122",
       "source": "Cell",
-      "issue": "",
       "fpage": "669",
       "lpage": "82",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.cell.2005.08.012",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib39": {
@@ -11204,17 +10828,11 @@
       "year": "2006",
       "volume": "24",
       "source": "Immunity",
-      "issue": "",
       "fpage": "93",
       "lpage": "103",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.immuni.2005.12.003",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib40": {
@@ -11246,17 +10864,11 @@
       "year": "2004",
       "volume": "14",
       "source": "Mol Cell",
-      "issue": "",
       "fpage": "289",
       "lpage": "301",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/S1097-2765(04)00236-9",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib40a": {
@@ -11292,17 +10904,11 @@
       "year": "2006",
       "volume": "24",
       "source": "Immunity",
-      "issue": "",
       "fpage": "633",
       "lpage": "42",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.immuni.2006.04.004",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib41": {
@@ -11338,17 +10944,11 @@
       "year": "2009",
       "volume": "106",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "8653",
       "lpage": "8",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1073/pnas.0900850106",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib42": {
@@ -11384,17 +10984,10 @@
       "year": "2013",
       "volume": "8",
       "source": "PLOS ONE",
-      "issue": "",
       "fpage": "e53578",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1371/journal.pone.0053578",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib43": {
@@ -11414,17 +11007,10 @@
       "year": "2012",
       "volume": "5",
       "source": "Sci Signal",
-      "issue": "",
       "fpage": "ra20",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1126/scisignal.2002521",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib44": {
@@ -11444,17 +11030,10 @@
       "year": "2010",
       "volume": "5",
       "source": "PLOS ONE",
-      "issue": "",
       "fpage": "e9172",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1371/journal.pone.0009172",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib45": {
@@ -11490,17 +11069,11 @@
       "year": "2009",
       "volume": "11",
       "source": "Nat Cell Biol",
-      "issue": "",
       "fpage": "123",
       "lpage": "32",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/ncb1821",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib46": {
@@ -11536,17 +11109,11 @@
       "year": "2009",
       "volume": "284",
       "source": "J Biol Chem",
-      "issue": "",
       "fpage": "21797",
       "lpage": "809",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1074/jbc.M109.018275",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib47": {
@@ -11582,17 +11149,11 @@
       "year": "2001",
       "volume": "412",
       "source": "Nature",
-      "issue": "",
       "fpage": "346",
       "lpage": "51",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/35085597",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib48": {
@@ -11616,17 +11177,10 @@
       "year": "2012",
       "volume": "7",
       "source": "PLOS ONE",
-      "issue": "",
       "fpage": "e43756",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1371/journal.pone.0043756",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib49": {
@@ -11658,17 +11212,11 @@
       "year": "2006",
       "volume": "8",
       "source": "Nat Cell Biol",
-      "issue": "",
       "fpage": "398",
       "lpage": "406",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/ncb1384",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib50": {
@@ -11704,17 +11252,11 @@
       "year": "2005",
       "volume": "19",
       "source": "Mol Cell",
-      "issue": "",
       "fpage": "727",
       "lpage": "40",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.molcel.2005.08.014",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib50a": {
@@ -11742,17 +11284,11 @@
       "year": "2009",
       "volume": "36",
       "source": "Mol Cell",
-      "issue": "",
       "fpage": "302",
       "lpage": "14",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.molcel.2009.10.002",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib51": {
@@ -11772,17 +11308,11 @@
       "year": "2008",
       "volume": "29",
       "source": "Immunity",
-      "issue": "",
       "fpage": "178",
       "lpage": "81",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.immuni.2008.07.009",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib52": {
@@ -11818,17 +11348,11 @@
       "year": "2004",
       "volume": "5",
       "source": "Nat Immunol",
-      "issue": "",
       "fpage": "730",
       "lpage": "7",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/ni1087",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib53": {
@@ -11864,17 +11388,11 @@
       "year": "2010",
       "volume": "141",
       "source": "Cell",
-      "issue": "",
       "fpage": "315",
       "lpage": "30",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.cell.2010.03.029",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib54": {
@@ -11906,17 +11424,11 @@
       "year": "2009",
       "volume": "36",
       "source": "Mol Cell",
-      "issue": "",
       "fpage": "315",
       "lpage": "25",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.molcel.2009.09.037",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib55": {
@@ -11952,17 +11464,11 @@
       "year": "2007",
       "volume": "8",
       "source": "Nat Immunol",
-      "issue": "",
       "fpage": "592",
       "lpage": "600",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/ni1465",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib56": {
@@ -11998,17 +11504,11 @@
       "year": "2008",
       "volume": "29",
       "source": "Immunity",
-      "issue": "",
       "fpage": "538",
       "lpage": "50",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.immuni.2008.09.003",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "sub-article": {

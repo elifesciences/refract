@@ -178,7 +178,6 @@
       "accepted_on": "2013-06-18",
       "published_on": "2013-07-23",
       "journal": "elife",
-      "article_type": "",
       "keywords": [
         "noncoding RNA",
         "NF-κB",
@@ -190,10 +189,9 @@
       "subjects": [
         "Genes and chromosomes"
       ],
-      "pdf_link": "",
-      "xml_link": "",
-      "json_link": "",
-      "doi": ""
+      "xml_link": "https://s3.amazonaws.com/elife-cdn/elife-articles/00762/elife00762.xml",
+      "json_link": "https://s3.amazonaws.com/elife-cdn/elife-articles/00762/00762.json",
+      "doi": "http://dx.doi.org/10.7554/eLife.00762"
     },
     "person_author_4667": {
       "type": "person",
@@ -202,9 +200,7 @@
       "last-name": "Rapicavoli",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article",
-      "email": "",
       "funding": [
         "funding_par_4"
       ]
@@ -216,9 +212,7 @@
       "last-name": "Qu",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Analysis and interpretation of data, Drafting or revising the article",
-      "email": "",
       "funding": []
     },
     "person_author_4669": {
@@ -228,9 +222,7 @@
       "last-name": "Zhang",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Analysis and interpretation of data, Drafting or revising the article",
-      "email": "",
       "funding": []
     },
     "person_author_4670": {
@@ -240,9 +232,7 @@
       "last-name": "Mikhail",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Acquisition of data, Drafting or revising the article",
-      "email": "",
       "funding": []
     },
     "person_author_4671": {
@@ -252,9 +242,7 @@
       "last-name": "Laberge",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Drafting or revising the article, Contributed unpublished essential data or reagents",
-      "email": "",
       "funding": [
         "funding_par_5",
         "funding_par_6"
@@ -267,7 +255,6 @@
       "last-name": "Chang",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Drafting or revising the article",
       "email": "email_cor1",
       "funding": [
@@ -281,18 +268,14 @@
       "id": "institution_aff1",
       "name": "Howard Hughes Medical Institute, Stanford University School of Medicine",
       "city": "Stanford",
-      "country": "United States",
-      "email": "",
-      "image": ""
+      "country": "United States"
     },
     "institution_aff2": {
       "type": "institution",
       "id": "institution_aff2",
       "name": "Buck Institute for Research on Aging",
       "city": "Novato",
-      "country": "United States",
-      "email": "",
-      "image": ""
+      "country": "United States"
     },
     "person_1": {
       "type": "person",
@@ -301,9 +284,6 @@
       "last-name": "Gingeras",
       "role": "editor",
       "affiliations": [],
-      "image": "",
-      "contribution": "",
-      "email": "",
       "funding": []
     },
     "info:review": {
@@ -318,7 +298,6 @@
     "email_cor1": {
       "type": "email",
       "id": "email_cor1",
-      "node": "",
       "email": "howchang@stanford.edu"
     },
     "info:copyright": {
@@ -461,7 +440,6 @@
       "type": "funding",
       "id": "funding_par_1",
       "institution": "Ellison Medical Foundation",
-      "accession": "",
       "person": "person_author_4550",
       "given-names": "Howard Y",
       "last-name": "Chang"
@@ -470,7 +448,6 @@
       "type": "funding",
       "id": "funding_par_2",
       "institution": "Glenn Foundation",
-      "accession": "",
       "person": "person_author_4550",
       "given-names": "Howard Y",
       "last-name": "Chang"
@@ -479,7 +456,6 @@
       "type": "funding",
       "id": "funding_par_3",
       "institution": "Howard Hughes Medical Institute",
-      "accession": "",
       "person": "person_author_4550",
       "given-names": "Howard Y",
       "last-name": "Chang"
@@ -522,8 +498,7 @@
     },
     "paragraph_17": {
       "type": "paragraph",
-      "id": "paragraph_17",
-      "content": ""
+      "id": "paragraph_17"
     },
     "heading_s1": {
       "type": "heading",
@@ -947,19 +922,12 @@
       "type": "image",
       "id": "image_fig1",
       "label": "Figure 1.",
-      "url": "",
-      "object_id": "F1",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00762/svg/elife00762f001.svg",
       "title": "TNFα regulates the transcription of many coding and noncoding genes.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00762.003",
       "caption": "paragraph_image_fig1",
-      "graphic_id": "elife00762f001"
+      "graphic_id": "elife00762f001",
+      "format": "image"
     },
     "paragraph_image_fig1": {
       "type": "paragraph",
@@ -1048,19 +1016,12 @@
       "type": "image",
       "id": "image_fig1s1",
       "label": "Figure 1—Figure supplement 1.",
-      "url": "",
-      "object_id": "F2",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00762/svg/elife00762fs001.svg",
       "title": "Heatmap of RefSeq genes.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig1"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00762.004",
       "caption": "paragraph_image_fig1s1",
-      "graphic_id": "elife00762fs001"
+      "graphic_id": "elife00762fs001",
+      "format": "image"
     },
     "paragraph_image_fig1s1": {
       "type": "paragraph",
@@ -1306,19 +1267,12 @@
       "type": "image",
       "id": "image_fig2",
       "label": "Figure 2.",
-      "url": "",
-      "object_id": "F3",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00762/svg/elife00762f002.svg",
       "title": "LncRNAs distinguish between different stimuli and are regulated by NF-κB.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00762.005",
       "caption": "paragraph_image_fig2",
-      "graphic_id": "elife00762f002"
+      "graphic_id": "elife00762f002",
+      "format": "image"
     },
     "paragraph_image_fig2": {
       "type": "paragraph",
@@ -1446,19 +1400,12 @@
       "type": "image",
       "id": "image_fig2s1",
       "label": "Figure 2—figure supplement 1.",
-      "url": "",
-      "object_id": "F4",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00762/svg/elife00762fs002.svg",
       "title": "(A) Western analysis of RelA protein levels. (B) PolyA+ Lethe is found on the chromatin.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig2"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00762.006",
       "caption": "paragraph_image_fig2s1",
-      "graphic_id": "elife00762fs002"
+      "graphic_id": "elife00762fs002",
+      "format": "image"
     },
     "paragraph_image_fig2s1": {
       "type": "paragraph",
@@ -1720,11 +1667,9 @@
       "id": "table_tbl1",
       "label": "Table 1.",
       "content": "<table><thead><tr><th></th><th>TNFα</th><th>IL-1β</th><th>TLR1</th><th>TLR2</th><th>TLR3</th><th>TLR4</th><th>TLR5</th><th>TLR7</th><th>RelA-dep</th><th>H3-RIP</th></tr></thead><tbody><tr><td>Cox2 Divergent</td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td><td>+</td><td>n.d.</td><td>n.d.</td><td>−</td><td>n.d.</td></tr><tr><td>Gp96 Convergent</td><td>+</td><td>n.d.</td><td>n.d.</td><td>n.d.</td><td>n.d.</td><td>n.d.</td><td>n.d.</td><td>n.d.</td><td>+</td><td>n.d.</td></tr><tr><td>H2-T23/24AS</td><td>+</td><td>n.d.</td><td>n.d.</td><td>n.d.</td><td>+</td><td>n.d.</td><td>n.d.</td><td>n.d.</td><td>−</td><td>−</td></tr><tr><td>HoxA11AS</td><td>−</td><td>−</td><td>−</td><td>−</td><td>+</td><td>−</td><td>−</td><td>−</td><td>−</td><td>−</td></tr><tr><td>Lethe</td><td>+</td><td>+</td><td>−</td><td>−</td><td>−</td><td>−</td><td>−</td><td>−</td><td>+</td><td>+</td></tr><tr><td>Pbrm1 Convergent</td><td>+</td><td>+</td><td>−</td><td>−</td><td>−</td><td>−</td><td>−</td><td>+</td><td>−/+</td><td>+</td></tr><tr><td>Scripture 16,612</td><td>−</td><td>+</td><td>+</td><td>+</td><td>−</td><td>−</td><td>−</td><td>−</td><td>n.d.</td><td>n.t.</td></tr><tr><td>Scripture 60,588</td><td>−</td><td>−</td><td>−</td><td>−</td><td>−</td><td>−</td><td>−</td><td>−</td><td>n.d.</td><td>n.t.</td></tr></tbody></table>",
-      "title": "",
       "footers": [],
       "doi": "http://dx.doi.org/10.7554/eLife.00762.007",
-      "caption": "paragraph_table_tbl1",
-      "format": ""
+      "caption": "paragraph_table_tbl1"
     },
     "paragraph_table_tbl1": {
       "type": "paragraph",
@@ -1734,8 +1679,7 @@
     "footer_106": {
       "type": "footer",
       "id": "footer_106",
-      "content": "These results demonstrate that lncRNAs are regulated by diverse and specific stimuli. Additionally, lncRNAs are directly regulated by NF-κB. Finallyp, the subcellular distribution of TNFα−induced lncRNAs varies by transcript. n.d., not detectable. n.t., not tested.",
-      "label": ""
+      "content": "These results demonstrate that lncRNAs are regulated by diverse and specific stimuli. Additionally, lncRNAs are directly regulated by NF-κB. Finallyp, the subcellular distribution of TNFα−induced lncRNAs varies by transcript. n.d., not detectable. n.t., not tested."
     },
     "heading_s2-5": {
       "type": "heading",
@@ -1805,19 +1749,12 @@
       "type": "image",
       "id": "image_fig3",
       "label": "Figure 3.",
-      "url": "",
-      "object_id": "F5",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00762/svg/elife00762f003.svg",
       "title": "Lethe is a pseudogene lncRNAs that is regulated by NF-κB, Glucocorticoid Receptor and in aging.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00762.008",
       "caption": "paragraph_image_fig3",
-      "graphic_id": "elife00762f003"
+      "graphic_id": "elife00762f003",
+      "format": "image"
     },
     "paragraph_image_fig3": {
       "type": "paragraph",
@@ -1958,19 +1895,12 @@
       "type": "image",
       "id": "image_fig3s1",
       "label": "Figure 3—figure supplement 1.",
-      "url": "",
-      "object_id": "F6",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00762/svg/elife00762fs003.svg",
       "title": "Alignment of Lethe with Rps15a-ps6.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig3"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00762.009",
       "caption": "paragraph_image_fig3s1",
-      "graphic_id": "elife00762fs003"
+      "graphic_id": "elife00762fs003",
+      "format": "image"
     },
     "paragraph_image_fig3s1": {
       "type": "paragraph",
@@ -2204,19 +2134,12 @@
       "type": "image",
       "id": "image_fig4",
       "label": "Figure 4.",
-      "url": "",
-      "object_id": "F7",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00762/svg/elife00762f004.svg",
       "title": "Lethe Binds to RelA and inhibits RelA occupancy of DNA.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00762.010",
       "caption": "paragraph_image_fig4",
-      "graphic_id": "elife00762f004"
+      "graphic_id": "elife00762f004",
+      "format": "image"
     },
     "paragraph_image_fig4": {
       "type": "paragraph",
@@ -3377,12 +3300,11 @@
       "type": "supplement",
       "id": "supplement_SD1_data",
       "label": "Supplementary file 1.",
-      "source": "",
-      "title": "",
       "caption": "paragraph_supplement_SD1_data",
-      "content": "",
       "doi": "http://dx.doi.org/10.7554/eLife.00762.011",
-      "graphic_id": "elife00762s001.xlsx"
+      "files": [
+        "file_241"
+      ]
     },
     "paragraph_supplement_SD1_data": {
       "type": "paragraph",
@@ -3480,6 +3402,14 @@
         702
       ]
     },
+    "file_241": {
+      "type": "file",
+      "id": "file_241",
+      "name": "XLSX",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00762/suppl/elife00762s001.xlsx",
+      "graphic_id": "elife00762s001.xlsx",
+      "extension": ".xlsx"
+    },
     "info:dataset": {
       "type": "heading",
       "id": "info:dataset",
@@ -3527,17 +3457,11 @@
       "year": "2007",
       "volume": "21",
       "source": "Genes Dev",
-      "issue": "",
       "fpage": "3244",
       "lpage": "57",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1101/gad.1588507",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib2": {
@@ -3557,17 +3481,11 @@
       "year": "2012",
       "volume": "246",
       "source": "Immunol Rev",
-      "issue": "",
       "fpage": "205",
       "lpage": "20",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1111/j.1600-065X.2011.01089.x",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib3": {
@@ -3603,17 +3521,11 @@
       "year": "2009",
       "volume": "12",
       "source": "Nat Neurosci",
-      "issue": "",
       "fpage": "1020",
       "lpage": "7",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nn.2371",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib4": {
@@ -3649,17 +3561,11 @@
       "year": "2011",
       "volume": "25",
       "source": "Genes Dev",
-      "issue": "",
       "fpage": "1915",
       "lpage": "27",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1101/gad.17446611",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib5": {
@@ -3695,17 +3601,11 @@
       "year": "2013",
       "volume": "133",
       "source": "J Invest Dermatol",
-      "issue": "",
       "fpage": "394",
       "lpage": "402",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/jid.2012.287",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib6": {
@@ -3741,17 +3641,10 @@
       "year": "2010",
       "volume": "8",
       "source": "PLOS Biol",
-      "issue": "",
       "fpage": "e1000384",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1371/journal.pbio.1000384",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib7": {
@@ -3787,17 +3680,11 @@
       "year": "2008",
       "volume": "18",
       "source": "Genome Res",
-      "issue": "",
       "fpage": "1433",
       "lpage": "45",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1101/gr.078378.108",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib8": {
@@ -3833,17 +3720,11 @@
       "year": "2012",
       "volume": "489",
       "source": "Nature",
-      "issue": "",
       "fpage": "101",
       "lpage": "8",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nature11233",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib10": {
@@ -3875,17 +3756,11 @@
       "year": "2006",
       "volume": "312",
       "source": "Science",
-      "issue": "",
       "fpage": "1653",
       "lpage": "5",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1126/science.1126316",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib11": {
@@ -3905,17 +3780,11 @@
       "year": "2010",
       "volume": "20",
       "source": "Curr Biol",
-      "issue": "",
       "fpage": "R858",
       "lpage": "61",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.cub.2010.08.052",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib9": {
@@ -3926,17 +3795,12 @@
       "year": "2012",
       "volume": "489",
       "source": "Nature",
-      "issue": "",
       "fpage": "57",
       "lpage": "74",
       "collab": "The ENCODE Project Consortium",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nature11247",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib12": {
@@ -3972,17 +3836,11 @@
       "year": "2006",
       "volume": "20",
       "source": "Genes Dev",
-      "issue": "",
       "fpage": "1470",
       "lpage": "84",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1101/gad.1416106",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib13": {
@@ -4018,17 +3876,11 @@
       "year": "2013",
       "volume": "152",
       "source": "Cell",
-      "issue": "",
       "fpage": "743",
       "lpage": "54",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.cell.2013.01.015",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib14": {
@@ -4064,17 +3916,11 @@
       "year": "2011",
       "volume": "29",
       "source": "Nat Biotechnol",
-      "issue": "",
       "fpage": "644",
       "lpage": "52",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nbt.1883",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib15": {
@@ -4110,17 +3956,11 @@
       "year": "2009",
       "volume": "458",
       "source": "Nature",
-      "issue": "",
       "fpage": "223",
       "lpage": "7",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nature07672",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib16": {
@@ -4156,17 +3996,11 @@
       "year": "2011",
       "volume": "477",
       "source": "Nature",
-      "issue": "",
       "fpage": "295",
       "lpage": "300",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nature10398",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib17": {
@@ -4202,17 +4036,11 @@
       "year": "2010",
       "volume": "28",
       "source": "Nat Biotechnol",
-      "issue": "",
       "fpage": "503",
       "lpage": "10",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nbt.1633",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib18": {
@@ -4248,17 +4076,11 @@
       "year": "2011",
       "volume": "145",
       "source": "Cell",
-      "issue": "",
       "fpage": "622",
       "lpage": "34",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.cell.2011.03.042",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib19": {
@@ -4278,17 +4100,11 @@
       "year": "2012",
       "volume": "26",
       "source": "Genes Dev",
-      "issue": "",
       "fpage": "203",
       "lpage": "34",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1101/gad.183434.111",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib20": {
@@ -4324,17 +4140,11 @@
       "year": "2011",
       "volume": "43",
       "source": "Nat Genet",
-      "issue": "",
       "fpage": "621",
       "lpage": "9",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/ng.848",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib21": {
@@ -4366,17 +4176,11 @@
       "year": "2009",
       "volume": "15",
       "source": "RNA",
-      "issue": "",
       "fpage": "1578",
       "lpage": "87",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1261/rna.1657609",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib22": {
@@ -4412,17 +4216,11 @@
       "year": "2012",
       "volume": "149",
       "source": "Cell",
-      "issue": "",
       "fpage": "1622",
       "lpage": "34",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.cell.2012.04.041",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib23": {
@@ -4458,17 +4256,10 @@
       "year": "2011",
       "volume": "7",
       "source": "PLOS Genet",
-      "issue": "",
       "fpage": "e1002153",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1371/journal.pgen.1002153",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib24": {
@@ -4488,17 +4279,11 @@
       "year": "2010",
       "volume": "11",
       "source": "Nat Immunol",
-      "issue": "",
       "fpage": "373",
       "lpage": "84",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/ni.1863",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib25": {
@@ -4530,17 +4315,10 @@
       "year": "2010",
       "volume": "3",
       "source": "Sci Signal",
-      "issue": "",
       "fpage": "ra8",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1126/scisignal.2000568",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib26": {
@@ -4576,17 +4354,11 @@
       "year": "2007",
       "volume": "35",
       "source": "Nucleic Acids Res",
-      "issue": "",
       "fpage": "W345",
       "lpage": "9",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1093/nar/gkm391",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib27": {
@@ -4614,17 +4386,10 @@
       "year": "2009",
       "volume": "10",
       "source": "Genome Biol",
-      "issue": "",
       "fpage": "R25",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1186/gb-2009-10-3-r25",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib28": {
@@ -4660,17 +4425,11 @@
       "year": "2010",
       "volume": "7",
       "source": "Nat Methods",
-      "issue": "",
       "fpage": "709",
       "lpage": "15",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nmeth.1491",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib29": {
@@ -4688,19 +4447,10 @@
       ],
       "title": "Finding consistent patterns: a nonparametric approach for identifying differential expression in RNA-seq data",
       "year": "2011",
-      "volume": "",
       "source": "Stat Methods Med Res",
-      "issue": "",
-      "fpage": "",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1177/0962280211428386",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib30": {
@@ -4736,17 +4486,11 @@
       "year": "2010",
       "volume": "42",
       "source": "Nat Genet",
-      "issue": "",
       "fpage": "1113",
       "lpage": "7",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/ng.710",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib31": {
@@ -4766,17 +4510,11 @@
       "year": "2000",
       "volume": "20",
       "source": "Mol Cell Biol",
-      "issue": "",
       "fpage": "8602",
       "lpage": "12",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1128/MCB.20.22.8602-8612.2000",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib32": {
@@ -4812,17 +4550,11 @@
       "year": "2011",
       "volume": "66",
       "source": "J Gerontol A Biol Sci Med Sci",
-      "issue": "",
       "fpage": "191",
       "lpage": "201",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1093/gerona/glq178",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib33": {
@@ -4858,17 +4590,11 @@
       "year": "2010",
       "volume": "465",
       "source": "Nature",
-      "issue": "",
       "fpage": "1033",
       "lpage": "8",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nature09144",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib34": {
@@ -4908,17 +4634,11 @@
       "year": "2011",
       "volume": "21",
       "source": "Genome Res",
-      "issue": "",
       "fpage": "1404",
       "lpage": "16",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1101/gr.118042.110",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib35": {
@@ -4942,17 +4662,10 @@
       "year": "2010",
       "volume": "10",
       "source": "BMC Dev Biol",
-      "issue": "",
       "fpage": "49",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1186/1471-213X-10-49",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib36": {
@@ -4980,17 +4693,10 @@
       "year": "2011",
       "volume": "6",
       "source": "Neural Dev",
-      "issue": "",
       "fpage": "32",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1186/1749-8104-6-32",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib37": {
@@ -5026,17 +4732,11 @@
       "year": "2006",
       "volume": "16",
       "source": "Genome Res",
-      "issue": "",
       "fpage": "11",
       "lpage": "9",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1101/gr.4200206",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib38": {
@@ -5072,17 +4772,11 @@
       "year": "2007",
       "volume": "129",
       "source": "Cell",
-      "issue": "",
       "fpage": "1311",
       "lpage": "23",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.cell.2007.05.022",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib39": {
@@ -5114,17 +4808,11 @@
       "year": "2011",
       "volume": "146",
       "source": "Cell",
-      "issue": "",
       "fpage": "353",
       "lpage": "8",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.cell.2011.07.014",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib40": {
@@ -5160,17 +4848,11 @@
       "year": "2011",
       "volume": "44",
       "source": "Mol Cell",
-      "issue": "",
       "fpage": "785",
       "lpage": "96",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.molcel.2011.09.026",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib41": {
@@ -5194,17 +4876,10 @@
       "year": "2009",
       "volume": "5",
       "source": "PLOS Genet",
-      "issue": "",
       "fpage": "e1000776",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1371/journal.pgen.1000776",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib42": {
@@ -5240,17 +4915,11 @@
       "year": "2011",
       "volume": "147",
       "source": "Cell",
-      "issue": "",
       "fpage": "344",
       "lpage": "57",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.cell.2011.09.029",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib43": {
@@ -5274,17 +4943,11 @@
       "year": "2009",
       "volume": "25",
       "source": "Bioinformatics",
-      "issue": "",
       "fpage": "1105",
       "lpage": "11",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1093/bioinformatics/btp120",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib44": {
@@ -5320,17 +4983,11 @@
       "year": "2010",
       "volume": "28",
       "source": "Nat Biotechnol",
-      "issue": "",
       "fpage": "511",
       "lpage": "5",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nbt.1621",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib45": {
@@ -5366,17 +5023,11 @@
       "year": "2010",
       "volume": "329",
       "source": "Science",
-      "issue": "",
       "fpage": "689",
       "lpage": "93",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1126/science.1192002",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib46": {
@@ -5396,17 +5047,11 @@
       "year": "2011",
       "volume": "43",
       "source": "Mol Cell",
-      "issue": "",
       "fpage": "904",
       "lpage": "14",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.molcel.2011.08.018",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib47": {
@@ -5442,17 +5087,11 @@
       "year": "2011",
       "volume": "472",
       "source": "Nature",
-      "issue": "",
       "fpage": "120",
       "lpage": "4",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nature09819",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib48": {
@@ -5488,17 +5127,11 @@
       "year": "2005",
       "volume": "309",
       "source": "Science",
-      "issue": "",
       "fpage": "1570",
       "lpage": "3",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1126/science.1115901",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib49": {
@@ -5534,17 +5167,10 @@
       "year": "2008",
       "volume": "9",
       "source": "Genome Biol",
-      "issue": "",
       "fpage": "R137",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1186/gb-2008-9-9-r137",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "sub-article": {

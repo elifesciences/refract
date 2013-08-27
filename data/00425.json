@@ -78,37 +78,47 @@
         "paragraph_304",
         "heading_s4-6-2",
         "paragraph_309",
-        "paragraph_311",
+        "list_310",
         "paragraph_313",
-        "paragraph_316",
-        "paragraph_318",
-        "paragraph_320",
+        "list_314",
+        "paragraph_317",
+        "list_318",
         "paragraph_322",
-        "paragraph_325",
-        "paragraph_327",
-        "paragraph_329",
-        "paragraph_331",
+        "list_323",
+        "paragraph_326",
+        "list_327",
+        "paragraph_330",
+        "list_331",
         "paragraph_334",
-        "paragraph_337",
+        "list_335",
+        "paragraph_339",
+        "list_340",
+        "paragraph_343",
+        "list_344",
+        "paragraph_347",
+        "list_348",
+        "paragraph_351",
+        "paragraph_354",
+        "paragraph_357",
         "heading_s4-7",
         "heading_s4-7-1",
-        "paragraph_339",
-        "paragraph_340",
-        "heading_s4-7-2",
-        "paragraph_344",
-        "heading_s4-7-3",
-        "paragraph_345",
-        "heading_s4-7-4",
-        "paragraph_348",
-        "heading_s4-7-5",
-        "paragraph_352",
-        "heading_s4-7-6",
-        "paragraph_354",
         "paragraph_359",
+        "paragraph_360",
+        "heading_s4-7-2",
+        "paragraph_364",
+        "heading_s4-7-3",
+        "paragraph_365",
+        "heading_s4-7-4",
+        "paragraph_368",
+        "heading_s4-7-5",
+        "paragraph_372",
+        "heading_s4-7-6",
+        "paragraph_374",
+        "paragraph_379",
         "heading_s4-7-7",
-        "paragraph_361",
+        "paragraph_381",
         "heading_s4-7-8",
-        "paragraph_373",
+        "paragraph_393",
         "sub-article",
         "sub-article"
       ]
@@ -266,7 +276,6 @@
       "accepted_on": "2013-04-15",
       "published_on": "2013-05-28",
       "journal": "elife",
-      "article_type": "",
       "keywords": [
         "fMRI",
         "tool use",
@@ -281,10 +290,9 @@
       "subjects": [
         "Neuroscience"
       ],
-      "pdf_link": "",
-      "xml_link": "",
-      "json_link": "",
-      "doi": ""
+      "xml_link": "https://s3.amazonaws.com/elife-cdn/elife-articles/00425/elife00425.xml",
+      "json_link": "https://s3.amazonaws.com/elife-cdn/elife-articles/00425/00425.json",
+      "doi": "http://dx.doi.org/10.7554/eLife.00425"
     },
     "person_author_2880": {
       "type": "person",
@@ -293,7 +301,6 @@
       "last-name": "Gallivan",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article, Contributed unpublished essential data or reagents",
       "email": "email_cor1",
       "funding": [
@@ -308,9 +315,7 @@
       "last-name": "McLean",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Acquisition of data, Contributed unpublished essential data or reagents",
-      "email": "",
       "funding": []
     },
     "person_author_3271": {
@@ -320,9 +325,7 @@
       "last-name": "Valyear",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Analysis and interpretation of data, Drafting or revising the article",
-      "email": "",
       "funding": [
         "funding_par_3"
       ]
@@ -334,9 +337,7 @@
       "last-name": "Culham",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Analysis and interpretation of data, Drafting or revising the article",
-      "email": "",
       "funding": [
         "funding_par_1"
       ]
@@ -346,54 +347,42 @@
       "id": "institution_aff1",
       "name": "Queen’s University",
       "city": "Kingston",
-      "country": "Canada",
-      "email": "",
-      "image": ""
+      "country": "Canada"
     },
     "institution_aff2": {
       "type": "institution",
       "id": "institution_aff2",
       "name": "Queen’s University",
       "city": "Kingston",
-      "country": "Canada",
-      "email": "",
-      "image": ""
+      "country": "Canada"
     },
     "institution_aff3": {
       "type": "institution",
       "id": "institution_aff3",
       "name": "University of Western Ontario",
       "city": "London",
-      "country": "Canada",
-      "email": "",
-      "image": ""
+      "country": "Canada"
     },
     "institution_aff4": {
       "type": "institution",
       "id": "institution_aff4",
       "name": "Brain Imaging Center, University of Missouri",
       "city": "Columbia",
-      "country": "United States",
-      "email": "",
-      "image": ""
+      "country": "United States"
     },
     "institution_aff5": {
       "type": "institution",
       "id": "institution_aff5",
       "name": "University of Western Ontario",
       "city": "London",
-      "country": "Canada",
-      "email": "",
-      "image": ""
+      "country": "Canada"
     },
     "institution_aff6": {
       "type": "institution",
       "id": "institution_aff6",
       "name": "University of Western Ontario",
       "city": "London",
-      "country": "Canada",
-      "email": "",
-      "image": ""
+      "country": "Canada"
     },
     "person_1": {
       "type": "person",
@@ -402,9 +391,6 @@
       "last-name": "Angelaki",
       "role": "editor",
       "affiliations": [],
-      "image": "",
-      "contribution": "",
-      "email": "",
       "funding": []
     },
     "info:review": {
@@ -419,7 +405,6 @@
     "email_cor1": {
       "type": "email",
       "id": "email_cor1",
-      "node": "",
       "email": "jasongallivan@gmail.com"
     },
     "info:copyright": {
@@ -571,7 +556,6 @@
       "type": "funding",
       "id": "funding_par_2",
       "institution": "Banting Fellowship",
-      "accession": "",
       "person": "person_author_2880",
       "given-names": "Jason P",
       "last-name": "Gallivan"
@@ -580,7 +564,6 @@
       "type": "funding",
       "id": "funding_par_3",
       "institution": "Natural Sciences and Engineering Research Council Postdoctral fellowship award",
-      "accession": "",
       "person": "person_author_3271",
       "given-names": "Kenneth F",
       "last-name": "Valyear"
@@ -589,7 +572,6 @@
       "type": "funding",
       "id": "funding_par_4",
       "institution": "Ontario Ministry of Research and Innovation Postdoctral fellowship award",
-      "accession": "",
       "person": "person_author_2880",
       "given-names": "Jason P",
       "last-name": "Gallivan"
@@ -605,8 +587,7 @@
     },
     "paragraph_17": {
       "type": "paragraph",
-      "id": "paragraph_17",
-      "content": ""
+      "id": "paragraph_17"
     },
     "heading_s1": {
       "type": "heading",
@@ -1184,19 +1165,12 @@
       "type": "image",
       "id": "image_fig1",
       "label": "Figure 1.",
-      "url": "",
-      "object_id": "F1",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00425/svg/elife00425f001.svg",
       "title": "Experimental methods and evoked neural activity.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00425.003",
       "caption": "paragraph_image_fig1",
-      "graphic_id": "elife00425f001"
+      "graphic_id": "elife00425f001",
+      "format": "image"
     },
     "paragraph_image_fig1": {
       "type": "paragraph",
@@ -1386,19 +1360,12 @@
       "type": "image",
       "id": "image_fig2",
       "label": "Figure 2.",
-      "url": "",
-      "object_id": "F2",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00425/svg/elife00425f002.svg",
       "title": "Frontoparietal brain areas selected for movement plan decoding.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00425.004",
       "caption": "paragraph_image_fig2",
-      "graphic_id": "elife00425f002"
+      "graphic_id": "elife00425f002",
+      "format": "image"
     },
     "paragraph_image_fig2": {
       "type": "paragraph",
@@ -1410,11 +1377,9 @@
       "id": "table_tbl1",
       "label": "Table 1.",
       "content": "<table><thead><tr><th rowspan=2>ROI name</th><th>Tailarach coordinates</th><th>ROI size</th></tr><tr><th>x</th><th>y</th><th>z</th><th>std x</th><th>std y</th><th>std z</th><th>mm<sup>3</sup></th><th>Nr voxels</th></tr></thead><tbody><tr><td>Parieto-frontal ROIs</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td> L Superior parieto-occipital cortex (SPOC)</td><td>−8</td><td>−75</td><td>29</td><td>2.4</td><td>2.9</td><td>3.6</td><td>1469</td><td>54</td></tr><tr><td> L Posterior intraparietal sulcus (pIPS)</td><td>−22</td><td>−68</td><td>45</td><td>3.4</td><td>3.7</td><td>4.1</td><td>1640</td><td>61</td></tr><tr><td> L Middle intraparietal sulcus (midIPS)</td><td>−32</td><td>−56</td><td>46</td><td>4.4</td><td>4</td><td>3.9</td><td>1943</td><td>72</td></tr><tr><td> L Posterior anterior intraparietal sulcus (post. aIPS)</td><td>−42</td><td>−49</td><td>43</td><td>3.6</td><td>4.3</td><td>3.9</td><td>2290</td><td>85</td></tr><tr><td> L Anterior intraparietal sulcus (aIPS)</td><td>−42</td><td>−40</td><td>42</td><td>4.2</td><td>4.3</td><td>4.2</td><td>2067</td><td>77</td></tr><tr><td> L Supramarginal gyrus (SMG)</td><td>−56</td><td>−35</td><td>33</td><td>3.7</td><td>3.7</td><td>4</td><td>1479</td><td>55</td></tr><tr><td> L Motor cortex</td><td>−38</td><td>−29</td><td>48</td><td>4.3</td><td>4.3</td><td>4.3</td><td>2407</td><td>89</td></tr><tr><td> L Dorsal premotor (PMd) cortex</td><td>−26</td><td>−14</td><td>52</td><td>4.2</td><td>3.8</td><td>4.1</td><td>2135</td><td>79</td></tr><tr><td> L Ventral premotor (PMv) cortex</td><td>−52</td><td>3</td><td>15</td><td>3.3</td><td>3.8</td><td>3.1</td><td>1460</td><td>54</td></tr><tr><td> L Somatosensory (SS) cortex</td><td>−39</td><td>−40</td><td>48</td><td>2.8</td><td>2.8</td><td>2.9</td><td>1592</td><td>59</td></tr><tr><td>Localizer-defined ROIs</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td> L tool-anterior intraparietal sulcus (t-aIPS)</td><td>−41</td><td>−42</td><td>46</td><td>3.3</td><td>3.4</td><td>4.2</td><td>1038</td><td>38</td></tr><tr><td> L Posterior middle temporal gyrus (pMTG)</td><td>−53</td><td>−57</td><td>−3</td><td>4.1</td><td>3.1</td><td>3.3</td><td>621</td><td>23</td></tr><tr><td> L Extrastriate body area (EBA)</td><td>−49</td><td>−72</td><td>1</td><td>2.8</td><td>3.6</td><td>3.7</td><td>851</td><td>32</td></tr></tbody></table>",
-      "title": "",
       "footers": [],
       "doi": "http://dx.doi.org/10.7554/eLife.00425.005",
-      "caption": "paragraph_table_tbl1",
-      "format": ""
+      "caption": "paragraph_table_tbl1"
     },
     "paragraph_table_tbl1": {
       "type": "paragraph",
@@ -1424,8 +1389,7 @@
     "footer_79": {
       "type": "footer",
       "id": "footer_79",
-      "content": "Mean ROI sizes across subjects from ACPC data (in mm3 and functional voxels). Std = standard deviation.",
-      "label": ""
+      "content": "Mean ROI sizes across subjects from ACPC data (in mm3 and functional voxels). Std = standard deviation."
     },
     "annotation_80": {
       "type": "superscript",
@@ -1804,19 +1768,12 @@
       "type": "image",
       "id": "image_fig3",
       "label": "Figure 3.",
-      "url": "",
-      "object_id": "F3",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00425/svg/elife00425f003.svg",
       "title": "Separate movement plans for the hand and tool decoded from frontoparietal cortex.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00425.006",
       "caption": "paragraph_image_fig3",
-      "graphic_id": "elife00425f003"
+      "graphic_id": "elife00425f003",
+      "format": "image"
     },
     "paragraph_image_fig3": {
       "type": "paragraph",
@@ -1866,19 +1823,12 @@
       "type": "image",
       "id": "image_fig3s1",
       "label": "Figure 3—figure supplement 1.",
-      "url": "",
-      "object_id": "F4",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00425/svg/elife00425fs001.svg",
       "title": "Classifier decoding accuracies in non-brain control regions.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig3"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00425.007",
       "caption": "paragraph_image_fig3s1",
-      "graphic_id": "elife00425fs001"
+      "graphic_id": "elife00425fs001",
+      "format": "image"
     },
     "paragraph_image_fig3s1": {
       "type": "paragraph",
@@ -1902,19 +1852,12 @@
       "type": "image",
       "id": "image_fig4",
       "label": "Figure 4.",
-      "url": "",
-      "object_id": "F5",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00425/svg/elife00425f004.svg",
       "title": "Shared movement plans for the hand and tool decoded from frontoparietal cortex.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00425.008",
       "caption": "paragraph_image_fig4",
-      "graphic_id": "elife00425f004"
+      "graphic_id": "elife00425f004",
+      "format": "image"
     },
     "paragraph_image_fig4": {
       "type": "paragraph",
@@ -1951,19 +1894,12 @@
       "type": "image",
       "id": "image_fig4s1",
       "label": "Figure 4—figure supplement 1.",
-      "url": "",
-      "object_id": "F6",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00425/svg/elife00425fs002.svg",
       "title": "Time-resolved and plan-epoch decoding accuracies for across-effector classification, separated according to the direction of classifier training and testing.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig4"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00425.009",
       "caption": "paragraph_image_fig4s1",
-      "graphic_id": "elife00425fs002"
+      "graphic_id": "elife00425fs002",
+      "format": "image"
     },
     "paragraph_image_fig4s1": {
       "type": "paragraph",
@@ -2000,19 +1936,12 @@
       "type": "image",
       "id": "image_fig4s2",
       "label": "Figure 4—figure supplement 2.",
-      "url": "",
-      "object_id": "F7",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00425/svg/elife00425fs003.svg",
       "title": "Voxel weight analyses for the plan-epoch activity in the cross-decoding ROIs (L-pIPS, L-midIPS, L-PMd, and L-PMv), shown for two representative subjects (in A and B).",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig4"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00425.010",
       "caption": "paragraph_image_fig4s2",
-      "graphic_id": "elife00425fs003"
+      "graphic_id": "elife00425fs003",
+      "format": "image"
     },
     "paragraph_image_fig4s2": {
       "type": "paragraph",
@@ -2127,19 +2056,12 @@
       "type": "image",
       "id": "image_fig4s3",
       "label": "Figure 4—figure supplement 3.",
-      "url": "",
-      "object_id": "F8",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00425/svg/elife00425fs004.svg",
       "title": "Movement instructions decoded from transient (but not sustained) responses in auditory cortex.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig4"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00425.011",
       "caption": "paragraph_image_fig4s3",
-      "graphic_id": "elife00425fs004"
+      "graphic_id": "elife00425fs004",
+      "format": "image"
     },
     "paragraph_image_fig4s3": {
       "type": "paragraph",
@@ -2163,19 +2085,12 @@
       "type": "image",
       "id": "image_fig5",
       "label": "Figure 5.",
-      "url": "",
-      "object_id": "F9",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00425/svg/elife00425f005.svg",
       "title": "Hand and Tool movement plans decoded from the localizer-defined t-aIPS.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00425.012",
       "caption": "paragraph_image_fig5",
-      "graphic_id": "elife00425f005"
+      "graphic_id": "elife00425f005",
+      "format": "image"
     },
     "paragraph_image_fig5": {
       "type": "paragraph",
@@ -2238,19 +2153,12 @@
       "type": "image",
       "id": "image_fig6",
       "label": "Figure 6.",
-      "url": "",
-      "object_id": "F10",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00425/svg/elife00425f006.svg",
       "title": "Tool and hand movement plans decoded from the localizer-defined pMTG and EBA, respectively.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00425.013",
       "caption": "paragraph_image_fig6",
-      "graphic_id": "elife00425f006"
+      "graphic_id": "elife00425f006",
+      "format": "image"
     },
     "paragraph_image_fig6": {
       "type": "paragraph",
@@ -2439,19 +2347,12 @@
       "type": "image",
       "id": "image_fig7",
       "label": "Figure 7.",
-      "url": "",
-      "object_id": "F11",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00425/svg/elife00425f007.svg",
       "title": "Summary of action plan decoding in the human brain for hand and tool movements.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00425.014",
       "caption": "paragraph_image_fig7",
-      "graphic_id": "elife00425f007"
+      "graphic_id": "elife00425f007",
+      "format": "image"
     },
     "paragraph_image_fig7": {
       "type": "paragraph",
@@ -4490,25 +4391,19 @@
     "paragraph_309": {
       "type": "paragraph",
       "id": "paragraph_309",
-      "content": "Left Superior parieto-occipital cortex (SPOC)Defined by selecting voxels located medially and directly anterior to the Parieto-occipital sulcus (POS) (Gallivan et al., 2009)."
+      "content": "Left Superior parieto-occipital cortex (SPOC)"
     },
-    "citation_reference_310": {
-      "type": "citation_reference",
-      "id": "citation_reference_310",
-      "path": [
-        "paragraph_309",
-        "content"
-      ],
-      "target": "article_citation_bib38",
-      "range": [
-        151,
-        172
+    "list_310": {
+      "type": "list",
+      "id": "list_310",
+      "items": [
+        "paragraph_311"
       ]
     },
     "paragraph_311": {
       "type": "paragraph",
       "id": "paragraph_311",
-      "content": "Left posterior IPS (pIPS)Defined by selecting activity at the caudal end of the IPS (Beurze et al., 2009)."
+      "content": "Defined by selecting voxels located medially and directly anterior to the Parieto-occipital sulcus (POS) (Gallivan et al., 2009)."
     },
     "citation_reference_312": {
       "type": "citation_reference",
@@ -4517,192 +4412,318 @@
         "paragraph_311",
         "content"
       ],
-      "target": "article_citation_bib10",
+      "target": "article_citation_bib38",
       "range": [
-        85,
-        104
+        106,
+        127
       ]
     },
     "paragraph_313": {
       "type": "paragraph",
       "id": "paragraph_313",
-      "content": "Left middle IPS (midIPS)Defined by selecting voxels half-way up the length of the IPS, centred on the medial bank (Gallivan et al., 2011a, 2011b), near a characteristic ‘knob’ landmark observed consistently within each subject."
+      "content": "Left posterior IPS (pIPS)"
     },
-    "citation_reference_314": {
+    "list_314": {
+      "type": "list",
+      "id": "list_314",
+      "items": [
+        "paragraph_315"
+      ]
+    },
+    "paragraph_315": {
+      "type": "paragraph",
+      "id": "paragraph_315",
+      "content": "Defined by selecting activity at the caudal end of the IPS (Beurze et al., 2009)."
+    },
+    "citation_reference_316": {
       "type": "citation_reference",
-      "id": "citation_reference_314",
+      "id": "citation_reference_316",
       "path": [
-        "paragraph_313",
+        "paragraph_315",
+        "content"
+      ],
+      "target": "article_citation_bib10",
+      "range": [
+        60,
+        79
+      ]
+    },
+    "paragraph_317": {
+      "type": "paragraph",
+      "id": "paragraph_317",
+      "content": "Left middle IPS (midIPS)"
+    },
+    "list_318": {
+      "type": "list",
+      "id": "list_318",
+      "items": [
+        "paragraph_319"
+      ]
+    },
+    "paragraph_319": {
+      "type": "paragraph",
+      "id": "paragraph_319",
+      "content": "Defined by selecting voxels half-way up the length of the IPS, centred on the medial bank (Gallivan et al., 2011a, 2011b), near a characteristic ‘knob’ landmark observed consistently within each subject."
+    },
+    "citation_reference_320": {
+      "type": "citation_reference",
+      "id": "citation_reference_320",
+      "path": [
+        "paragraph_319",
         "content"
       ],
       "target": "article_citation_bib39",
       "range": [
-        115,
-        137
+        91,
+        113
       ]
-    },
-    "citation_reference_315": {
-      "type": "citation_reference",
-      "id": "citation_reference_315",
-      "path": [
-        "paragraph_313",
-        "content"
-      ],
-      "target": "article_citation_bib40",
-      "range": [
-        139,
-        144
-      ]
-    },
-    "paragraph_316": {
-      "type": "paragraph",
-      "id": "paragraph_316",
-      "content": "Left region located posterior to L-aIPS (L-post. aIPS)Defined by selecting activity just posterior to the junction of the IPS and Post central sulcus (PCS), on the medial bank of the IPS (Culham, 2004)."
-    },
-    "citation_reference_317": {
-      "type": "citation_reference",
-      "id": "citation_reference_317",
-      "path": [
-        "paragraph_316",
-        "content"
-      ],
-      "target": "article_citation_bib24",
-      "range": [
-        188,
-        200
-      ]
-    },
-    "paragraph_318": {
-      "type": "paragraph",
-      "id": "paragraph_318",
-      "content": "Left aIPS (L-aIPS)Defined by selecting voxels located directly at the junction of the IPS and PCS (Culham et al., 2003)."
-    },
-    "citation_reference_319": {
-      "type": "citation_reference",
-      "id": "citation_reference_319",
-      "path": [
-        "paragraph_318",
-        "content"
-      ],
-      "target": "article_citation_bib22",
-      "range": [
-        99,
-        118
-      ]
-    },
-    "paragraph_320": {
-      "type": "paragraph",
-      "id": "paragraph_320",
-      "content": "Left Supramarginal gyrus (L-SMG)Defined by selecting activity along the supramarginal gyrus, directly lateral to the anterior segment of the IPS (Lewis, 2006)."
     },
     "citation_reference_321": {
       "type": "citation_reference",
       "id": "citation_reference_321",
       "path": [
-        "paragraph_320",
+        "paragraph_319",
         "content"
       ],
-      "target": "article_citation_bib65",
+      "target": "article_citation_bib40",
       "range": [
-        146,
-        157
+        115,
+        120
       ]
     },
     "paragraph_322": {
       "type": "paragraph",
       "id": "paragraph_322",
-      "content": "Left somatosensory cortex (L-SS cortex)Defined by selecting voxels medial and anterior to the aIPS, encompassing the Post central gyrus and PCS (Gallivan et al., 2011a, 2011b)."
+      "content": "Left region located posterior to L-aIPS (L-post. aIPS)"
     },
-    "citation_reference_323": {
+    "list_323": {
+      "type": "list",
+      "id": "list_323",
+      "items": [
+        "paragraph_324"
+      ]
+    },
+    "paragraph_324": {
+      "type": "paragraph",
+      "id": "paragraph_324",
+      "content": "Defined by selecting activity just posterior to the junction of the IPS and Post central sulcus (PCS), on the medial bank of the IPS (Culham, 2004)."
+    },
+    "citation_reference_325": {
       "type": "citation_reference",
-      "id": "citation_reference_323",
+      "id": "citation_reference_325",
       "path": [
-        "paragraph_322",
+        "paragraph_324",
+        "content"
+      ],
+      "target": "article_citation_bib24",
+      "range": [
+        134,
+        146
+      ]
+    },
+    "paragraph_326": {
+      "type": "paragraph",
+      "id": "paragraph_326",
+      "content": "Left aIPS (L-aIPS)"
+    },
+    "list_327": {
+      "type": "list",
+      "id": "list_327",
+      "items": [
+        "paragraph_328"
+      ]
+    },
+    "paragraph_328": {
+      "type": "paragraph",
+      "id": "paragraph_328",
+      "content": "Defined by selecting voxels located directly at the junction of the IPS and PCS (Culham et al., 2003)."
+    },
+    "citation_reference_329": {
+      "type": "citation_reference",
+      "id": "citation_reference_329",
+      "path": [
+        "paragraph_328",
+        "content"
+      ],
+      "target": "article_citation_bib22",
+      "range": [
+        81,
+        100
+      ]
+    },
+    "paragraph_330": {
+      "type": "paragraph",
+      "id": "paragraph_330",
+      "content": "Left Supramarginal gyrus (L-SMG)"
+    },
+    "list_331": {
+      "type": "list",
+      "id": "list_331",
+      "items": [
+        "paragraph_332"
+      ]
+    },
+    "paragraph_332": {
+      "type": "paragraph",
+      "id": "paragraph_332",
+      "content": "Defined by selecting activity along the supramarginal gyrus, directly lateral to the anterior segment of the IPS (Lewis, 2006)."
+    },
+    "citation_reference_333": {
+      "type": "citation_reference",
+      "id": "citation_reference_333",
+      "path": [
+        "paragraph_332",
+        "content"
+      ],
+      "target": "article_citation_bib65",
+      "range": [
+        114,
+        125
+      ]
+    },
+    "paragraph_334": {
+      "type": "paragraph",
+      "id": "paragraph_334",
+      "content": "Left somatosensory cortex (L-SS cortex)"
+    },
+    "list_335": {
+      "type": "list",
+      "id": "list_335",
+      "items": [
+        "paragraph_336"
+      ]
+    },
+    "paragraph_336": {
+      "type": "paragraph",
+      "id": "paragraph_336",
+      "content": "Defined by selecting voxels medial and anterior to the aIPS, encompassing the Post central gyrus and PCS (Gallivan et al., 2011a, 2011b)."
+    },
+    "citation_reference_337": {
+      "type": "citation_reference",
+      "id": "citation_reference_337",
+      "path": [
+        "paragraph_336",
         "content"
       ],
       "target": "article_citation_bib39",
       "range": [
-        145,
-        167
+        106,
+        128
       ]
     },
-    "citation_reference_324": {
+    "citation_reference_338": {
       "type": "citation_reference",
-      "id": "citation_reference_324",
+      "id": "citation_reference_338",
       "path": [
-        "paragraph_322",
+        "paragraph_336",
         "content"
       ],
       "target": "article_citation_bib40",
       "range": [
-        169,
-        174
+        130,
+        135
       ]
     },
-    "paragraph_325": {
+    "paragraph_339": {
       "type": "paragraph",
-      "id": "paragraph_325",
-      "content": "Left Motor cortexDefined by selecting voxels around the left ‘hand knob’ landmark in the Central sulcus (CS) (Yousry et al., 1997)."
+      "id": "paragraph_339",
+      "content": "Left Motor cortex"
     },
-    "citation_reference_326": {
+    "list_340": {
+      "type": "list",
+      "id": "list_340",
+      "items": [
+        "paragraph_341"
+      ]
+    },
+    "paragraph_341": {
+      "type": "paragraph",
+      "id": "paragraph_341",
+      "content": "Defined by selecting voxels around the left ‘hand knob’ landmark in the Central sulcus (CS) (Yousry et al., 1997)."
+    },
+    "citation_reference_342": {
       "type": "citation_reference",
-      "id": "citation_reference_326",
+      "id": "citation_reference_342",
       "path": [
-        "paragraph_325",
+        "paragraph_341",
         "content"
       ],
       "target": "article_citation_bib109",
       "range": [
-        110,
-        129
+        93,
+        112
       ]
     },
-    "paragraph_327": {
+    "paragraph_343": {
       "type": "paragraph",
-      "id": "paragraph_327",
-      "content": "Left Dorsal premotor cortex (PMd)Defined by selecting voxels at the junction of the Precentral sulcus (PreCS) and Superior frontal sulcus (SFS) (Picard and Strick, 2001)."
+      "id": "paragraph_343",
+      "content": "Left Dorsal premotor cortex (PMd)"
     },
-    "citation_reference_328": {
+    "list_344": {
+      "type": "list",
+      "id": "list_344",
+      "items": [
+        "paragraph_345"
+      ]
+    },
+    "paragraph_345": {
+      "type": "paragraph",
+      "id": "paragraph_345",
+      "content": "Defined by selecting voxels at the junction of the Precentral sulcus (PreCS) and Superior frontal sulcus (SFS) (Picard and Strick, 2001)."
+    },
+    "citation_reference_346": {
       "type": "citation_reference",
-      "id": "citation_reference_328",
+      "id": "citation_reference_346",
       "path": [
-        "paragraph_327",
+        "paragraph_345",
         "content"
       ],
       "target": "article_citation_bib87",
       "range": [
-        145,
-        168
+        112,
+        135
       ]
     },
-    "paragraph_329": {
+    "paragraph_347": {
       "type": "paragraph",
-      "id": "paragraph_329",
-      "content": "Left Ventral premotor cortex (PMv)Defined by selecting activity inferior and posterior to the junction of the Inferior frontal sulcus (IFS) and PreCS (Tomassini et al., 2007)."
+      "id": "paragraph_347",
+      "content": "Left Ventral premotor cortex (PMv)"
     },
-    "citation_reference_330": {
+    "list_348": {
+      "type": "list",
+      "id": "list_348",
+      "items": [
+        "paragraph_349"
+      ]
+    },
+    "paragraph_349": {
+      "type": "paragraph",
+      "id": "paragraph_349",
+      "content": "Defined by selecting activity inferior and posterior to the junction of the Inferior frontal sulcus (IFS) and PreCS (Tomassini et al., 2007)."
+    },
+    "citation_reference_350": {
       "type": "citation_reference",
-      "id": "citation_reference_330",
+      "id": "citation_reference_350",
       "path": [
-        "paragraph_329",
+        "paragraph_349",
         "content"
       ],
       "target": "article_citation_bib100",
       "range": [
-        151,
-        173
+        117,
+        139
       ]
     },
-    "paragraph_331": {
+    "paragraph_351": {
       "type": "paragraph",
-      "id": "paragraph_331",
+      "id": "paragraph_351",
       "content": "See Table 1 for details about ROI coordinates and sizes, and Figure 2 for representative anatomical locations on one subject’s inflated brain."
     },
-    "figure_reference_332": {
+    "figure_reference_352": {
       "type": "figure_reference",
-      "id": "figure_reference_332",
+      "id": "figure_reference_352",
       "path": [
-        "paragraph_331",
+        "paragraph_351",
         "content"
       ],
       "target": "table_tbl1",
@@ -4711,11 +4732,11 @@
         11
       ]
     },
-    "figure_reference_333": {
+    "figure_reference_353": {
       "type": "figure_reference",
-      "id": "figure_reference_333",
+      "id": "figure_reference_353",
       "path": [
-        "paragraph_331",
+        "paragraph_351",
         "content"
       ],
       "target": "image_fig2",
@@ -4724,16 +4745,16 @@
         69
       ]
     },
-    "paragraph_334": {
+    "paragraph_354": {
       "type": "paragraph",
-      "id": "paragraph_334",
+      "id": "paragraph_354",
       "content": "To provide a control for our cross-decoding analyses in frontoparietal cortex (for motivation, see ‘Results’), we examined time-resolved and plan-epoch decoding in the left primary auditory cortex (Heschl’s gyrus). Using the same contrast and selection criteria as above, this ROI was neuroanatomically defined in each subject by selecting voxels halfway up along the superior temporal sulcus (STS), on the superior temporal gyrus (between the insular cortex and outer-lateral edge of the superior temporal gyrus; see Meyer et al., 2010; Gallivan et al., 2011b)."
     },
-    "citation_reference_335": {
+    "citation_reference_355": {
       "type": "citation_reference",
-      "id": "citation_reference_335",
+      "id": "citation_reference_355",
       "path": [
-        "paragraph_334",
+        "paragraph_354",
         "content"
       ],
       "target": "article_citation_bib73",
@@ -4742,11 +4763,11 @@
         536
       ]
     },
-    "citation_reference_336": {
+    "citation_reference_356": {
       "type": "citation_reference",
-      "id": "citation_reference_336",
+      "id": "citation_reference_356",
       "path": [
-        "paragraph_334",
+        "paragraph_354",
         "content"
       ],
       "target": "article_citation_bib40",
@@ -4755,16 +4776,16 @@
         560
       ]
     },
-    "paragraph_337": {
+    "paragraph_357": {
       "type": "paragraph",
-      "id": "paragraph_337",
+      "id": "paragraph_357",
       "content": "To ensure our decoding accuracies could not result from spurious factors (e.g., task-correlated head or arm movements), we also tested the performance of our classifiers in ROIs outside of our action-related network where no statistically significant classification should be possible. To select these ROIs we further reduced our statistical threshold (after specifying the [Plan & Execute > Preview] network within each subject) down to t = 0, p=1 and selected all positive activation within 3375 mm3 centered on a consistent point 1) within each subject’s right ventricle and 2) at a location situated just outside the skull of the right hemisphere, in the AC-PC plane and directly in line with the posterior commissure."
     },
-    "annotation_338": {
+    "annotation_358": {
       "type": "superscript",
-      "id": "annotation_338",
+      "id": "annotation_358",
       "path": [
-        "paragraph_337",
+        "paragraph_357",
         "content"
       ],
       "target": null,
@@ -4787,21 +4808,21 @@
       "content": "Regions of interest (ROI)",
       "nodes": []
     },
-    "paragraph_339": {
+    "paragraph_359": {
       "type": "paragraph",
-      "id": "paragraph_339",
+      "id": "paragraph_359",
       "content": "To independently localize a specific set of object category-selective ROIs in individual subjects in which to implement MVPA (using the Motor experiment data), we used a GLM with predictor boxcar functions aligned to the onset of each stimulus block for each of the conditions (except for the fixation/baseline epochs) and then convolved the predictors with the Boyton HRF. The time-course for each voxel was converted to percent signal change before applying the GLM."
     },
-    "paragraph_340": {
+    "paragraph_360": {
       "type": "paragraph",
-      "id": "paragraph_340",
+      "id": "paragraph_360",
       "content": "For each individual, data from the localizer scans was used to identify three distinct ROIs based on previous neuroimaging studies: t-aIPS, pMTG, and EBA. The following same procedure was used to define the three ROIs in each individual: The most significantly active voxel(s), or peak, was first identified based on a particular contrast, statistical thresholds were then set to a determined minimum (t = 3, p<0.005), and the activity up to 3375 mm3 around the peak was selected. Tool-selective (t-aIPS and pMTG) areas were localized based on a conjunction contrast of ([Tools > Scrambled] AND [Tools > Bodies] AND [Tools > Objects]) and the Body-selective (EBA) area was localized based on a conjunction contrast of ([Bodies > Scrambled] AND [Bodies > Tools] AND [Bodies > Objects]). Note that we define a conjunction contrast as a Boolean AND, such that for any one voxel to be flagged as significant, it must show a significant difference for each of the constituent contrasts. See Table 1 for details about ROI coordinates and sizes, and Figures 5 and 6 for representative locations on individual subject’s brains."
     },
-    "annotation_341": {
+    "annotation_361": {
       "type": "superscript",
-      "id": "annotation_341",
+      "id": "annotation_361",
       "path": [
-        "paragraph_340",
+        "paragraph_360",
         "content"
       ],
       "target": null,
@@ -4810,11 +4831,11 @@
         450
       ]
     },
-    "figure_reference_342": {
+    "figure_reference_362": {
       "type": "figure_reference",
-      "id": "figure_reference_342",
+      "id": "figure_reference_362",
       "path": [
-        "paragraph_340",
+        "paragraph_360",
         "content"
       ],
       "target": "table_tbl1",
@@ -4823,11 +4844,11 @@
         993
       ]
     },
-    "figure_reference_343": {
+    "figure_reference_363": {
       "type": "figure_reference",
-      "id": "figure_reference_343",
+      "id": "figure_reference_363",
       "path": [
-        "paragraph_340",
+        "paragraph_360",
         "content"
       ],
       "target": "image_fig5",
@@ -4843,9 +4864,9 @@
       "content": "Multi-voxel pattern analysis (MVPA)",
       "nodes": []
     },
-    "paragraph_344": {
+    "paragraph_364": {
       "type": "paragraph",
-      "id": "paragraph_344",
+      "id": "paragraph_364",
       "content": "We used the fine-grained sensitivity afforded by MVPA to not only examine if grasp vs reach movement plans with the hand or tool could be decoded from preparatory brain activity (where little or no signal amplitude differences may exist), but more importantly, because it allowed us to question in what areas the higher-level movement goals of an upcoming action were encoded independent of the lower-level kinematics required to implement them. More specifically, by training a pattern classifier to discriminate grasp vs reach movements with one effector (e.g., hand) and then testing whether that same classifier can be used to predict the same trial types with the other effector (e.g., tool), we could assess whether the object-directed action being planned (grasping vs reaching) was being represented with some level of invariance to the effector being used to perform the movement (see ‘Across-effector classification’ below for further details)."
     },
     "heading_s4-7-3": {
@@ -4855,16 +4876,16 @@
       "content": "Support vector machine classifiers",
       "nodes": []
     },
-    "paragraph_345": {
+    "paragraph_365": {
       "type": "paragraph",
-      "id": "paragraph_345",
+      "id": "paragraph_365",
       "content": "MVPA was performed with a combination of in-house software (using Matlab) and the Princeton MVPA Toolbox for Matlab (http://code.google.com/p/princeton-mvpa-toolbox/) using a Support Vector Machines (SVM) binary classifier (libSVM, http://www.csie.ntu.edu.tw/~cjlin/libsvm/). The SVM model used a linear kernel function and default parameters (a fixed regularization parameter C = 1) to compute a hyperplane that best separated the trial responses."
     },
-    "annotation_346": {
+    "annotation_366": {
       "type": "link",
-      "id": "annotation_346",
+      "id": "annotation_366",
       "path": [
-        "paragraph_345",
+        "paragraph_365",
         "content"
       ],
       "target": null,
@@ -4874,11 +4895,11 @@
       ],
       "url": "http://code.google.com/p/princeton-mvpa-toolbox/"
     },
-    "annotation_347": {
+    "annotation_367": {
       "type": "link",
-      "id": "annotation_347",
+      "id": "annotation_367",
       "path": [
-        "paragraph_345",
+        "paragraph_365",
         "content"
       ],
       "target": null,
@@ -4895,16 +4916,16 @@
       "content": "Inputs to classifier",
       "nodes": []
     },
-    "paragraph_348": {
+    "paragraph_368": {
       "type": "paragraph",
-      "id": "paragraph_348",
+      "id": "paragraph_368",
       "content": "To prepare inputs for the pattern classifier, the BOLD percent signal change was computed from the time-course at a time point(s) of interest with respect to the time-course at a common baseline, for all voxels in the ROI. This was done in two fashions. The first, extracted percent signal change values for each time point in the trial (time-resolved decoding). The second, extracted the percent signal change values for a windowed-average of the activity for the 4 s (2 imaging volumes; TR = 2) prior to movement (plan-epoch decoding). For both approaches, the baseline window was defined as volume − 1, a time point prior to initiation of each trial and avoiding contamination from responses associated with the previous trial. For the plan-epoch approach—the time points of critical interest in order to examine whether we could predict upcoming movements (Gallivan et al., 2011a, 2011b)—we extracted the average pattern across imaging volumes 8–9 (the final 2 volumes of the Plan phase), corresponding to the sustained activity of the planning response prior to movement (Figures 1D and 2). Following the extraction of each trial’s percent signal change, these values were rescaled between −1 and +1 across all trials for each individual voxel within an ROI. Importantly, through the application of both time-dependent approaches, in addition to revealing which types of movements could be decoded, we could also examine specifically when in time predictive information pertaining to specific actions arose."
     },
-    "citation_reference_349": {
+    "citation_reference_369": {
       "type": "citation_reference",
-      "id": "citation_reference_349",
+      "id": "citation_reference_369",
       "path": [
-        "paragraph_348",
+        "paragraph_368",
         "content"
       ],
       "target": "article_citation_bib39",
@@ -4913,11 +4934,11 @@
         883
       ]
     },
-    "citation_reference_350": {
+    "citation_reference_370": {
       "type": "citation_reference",
-      "id": "citation_reference_350",
+      "id": "citation_reference_370",
       "path": [
-        "paragraph_348",
+        "paragraph_368",
         "content"
       ],
       "target": "article_citation_bib40",
@@ -4926,11 +4947,11 @@
         890
       ]
     },
-    "figure_reference_351": {
+    "figure_reference_371": {
       "type": "figure_reference",
-      "id": "figure_reference_351",
+      "id": "figure_reference_371",
       "path": [
-        "paragraph_348",
+        "paragraph_368",
         "content"
       ],
       "target": "image_fig1",
@@ -4946,16 +4967,16 @@
       "content": "Pair-wise discriminations",
       "nodes": []
     },
-    "paragraph_352": {
+    "paragraph_372": {
       "type": "paragraph",
-      "id": "paragraph_352",
+      "id": "paragraph_372",
       "content": "SVMs are designed for classifying differences between two stimuli and LibSVM (the SVM package implemented here) uses the so-called ‘one-against-one method’ for each pair-wise discrimination (Hsu and Lin, 2002). We capitalized on this fact in order to characterize different brain regions according to the types of upcoming movements they could predict: Hand-G vs Hand-R and/or Tool-G vs Tool-R. We did not examine individual pair-wise discriminations for movements between hand and tool trials (e.g., Hand-G vs Tool-G, Hand-R vs Tool-R) given the fact that in addition to the differences in action planning, substantial visual and somatosensory differences already exist between the two types of trials, like the retinal position of the target object and presence/absence of the tool which both varied between experimental runs. Notably, while these low-level visual and somatosensory differences between experimental runs provided an inherent impediment for interpreting any direct comparisons between hand and tool trials, the presence of these differences significantly aided the interpretation of accurate across-effector classification results. That is, cross-decoding between effectors for the planned action (grasp vs reach) would be unequivocally independent of any visual or somatosensory similarities between the hand and tool runs."
     },
-    "citation_reference_353": {
+    "citation_reference_373": {
       "type": "citation_reference",
-      "id": "citation_reference_353",
+      "id": "citation_reference_373",
       "path": [
-        "paragraph_352",
+        "paragraph_372",
         "content"
       ],
       "target": "article_citation_bib52",
@@ -4971,16 +4992,16 @@
       "content": "Single-trial classification",
       "nodes": []
     },
-    "paragraph_354": {
+    "paragraph_374": {
       "type": "paragraph",
-      "id": "paragraph_354",
+      "id": "paragraph_374",
       "content": "For each subject and for each of the ten action-related ROIs in the Motor experiment and three perception-related ROIs in the Localizer experiment, separate binary SVM classifiers were estimated for MVPA (i.e., for each pair-wise comparison, Hand-G vs Hand-R and Tool-G vs Tool-R, and for each time point). We used a ‘leave-one-trial-pair-out’ N-fold cross-validation to test the accuracy of the SVM classifiers (i.e., one trial from each of the conditions being compared [two trials total] were reserved for testing the classifier and the remaining [N − 1] trial pairs were used for classifier training). We performed this N − 1 cross-validation procedure until all trial pairs were tested, and then averaged across N-iterations in order to produce a classification accuracy measure for each pair-wise discrimination and subject (Duda et al., 2001). We statistically assessed decoding significance with a two-tailed t-test vs 50% chance decoding. To control for the problem of multiple comparisons, a false discovery rate (FDR) correction of q ≤ 0.05 was applied based on all t-tests performed at each time point within an ROI (Benjamini and Yekutieli, 2001)."
     },
-    "citation_reference_355": {
+    "citation_reference_375": {
       "type": "citation_reference",
-      "id": "citation_reference_355",
+      "id": "citation_reference_375",
       "path": [
-        "paragraph_354",
+        "paragraph_374",
         "content"
       ],
       "target": "article_citation_bib31",
@@ -4989,11 +5010,11 @@
         848
       ]
     },
-    "annotation_356": {
+    "annotation_376": {
       "type": "emphasis",
-      "id": "annotation_356",
+      "id": "annotation_376",
       "path": [
-        "paragraph_354",
+        "paragraph_374",
         "content"
       ],
       "target": null,
@@ -5002,11 +5023,11 @@
         918
       ]
     },
-    "annotation_357": {
+    "annotation_377": {
       "type": "emphasis",
-      "id": "annotation_357",
+      "id": "annotation_377",
       "path": [
-        "paragraph_354",
+        "paragraph_374",
         "content"
       ],
       "target": null,
@@ -5015,11 +5036,11 @@
         1078
       ]
     },
-    "citation_reference_358": {
+    "citation_reference_378": {
       "type": "citation_reference",
-      "id": "citation_reference_358",
+      "id": "citation_reference_378",
       "path": [
-        "paragraph_354",
+        "paragraph_374",
         "content"
       ],
       "target": "article_citation_bib7",
@@ -5028,16 +5049,16 @@
         1158
       ]
     },
-    "paragraph_359": {
+    "paragraph_379": {
       "type": "paragraph",
-      "id": "paragraph_359",
+      "id": "paragraph_379",
       "content": "Note that the data being used at any single time point (e.g., each TR in the time-resolved decoding approach) are independent as they are full trial-lengths removed from directly adjacent trials (recall that each trial = 34 s), providing more than adequate time for the hemodynamic responses associated with individual TRs used for classifier testing to sufficiently uncouple (this would not necessarily be the case in a rapid event-related design). Furthermore, the trial orders were fully randomized and so any possible correlations between train and test data is not obvious and should not bias the data towards correct vs incorrect classification (Misaki et al., 2010)."
     },
-    "citation_reference_360": {
+    "citation_reference_380": {
       "type": "citation_reference",
-      "id": "citation_reference_360",
+      "id": "citation_reference_380",
       "path": [
-        "paragraph_359",
+        "paragraph_379",
         "content"
       ],
       "target": "article_citation_bib75",
@@ -5053,16 +5074,16 @@
       "content": "Permutation tests",
       "nodes": []
     },
-    "paragraph_361": {
+    "paragraph_381": {
       "type": "paragraph",
-      "id": "paragraph_361",
+      "id": "paragraph_381",
       "content": "In addition to the t-test, we separately assessed statistical significance with non-parametric randomization tests for the plan-epoch decoding accuracies (Golland and Fischl, 2003; Etzel et al., 2008; Smith and Muckli, 2010; Chen et al., 2011; Gallivan et al., 2011a, 2011b). For specific details pertaining to this test see our recent work (Gallivan et al., 2011a, 2011b, 2013). In sum, the important finding highlighted from these permutation tests is that the brain areas showing significant decoding with the one sample parametric t-tests (vs. 50% at p<0.05) ‘also’ show significant decoding (albeit higher, p<0.001) with the empirical non-parametric permutation tests."
     },
-    "annotation_362": {
+    "annotation_382": {
       "type": "emphasis",
-      "id": "annotation_362",
+      "id": "annotation_382",
       "path": [
-        "paragraph_361",
+        "paragraph_381",
         "content"
       ],
       "target": null,
@@ -5071,11 +5092,11 @@
         20
       ]
     },
-    "citation_reference_363": {
+    "citation_reference_383": {
       "type": "citation_reference",
-      "id": "citation_reference_363",
+      "id": "citation_reference_383",
       "path": [
-        "paragraph_361",
+        "paragraph_381",
         "content"
       ],
       "target": "article_citation_bib43",
@@ -5084,11 +5105,11 @@
         179
       ]
     },
-    "citation_reference_364": {
+    "citation_reference_384": {
       "type": "citation_reference",
-      "id": "citation_reference_364",
+      "id": "citation_reference_384",
       "path": [
-        "paragraph_361",
+        "paragraph_381",
         "content"
       ],
       "target": "article_citation_bib32",
@@ -5097,11 +5118,11 @@
         199
       ]
     },
-    "citation_reference_365": {
+    "citation_reference_385": {
       "type": "citation_reference",
-      "id": "citation_reference_365",
+      "id": "citation_reference_385",
       "path": [
-        "paragraph_361",
+        "paragraph_381",
         "content"
       ],
       "target": "article_citation_bib97",
@@ -5110,11 +5131,11 @@
         223
       ]
     },
-    "citation_reference_366": {
+    "citation_reference_386": {
       "type": "citation_reference",
-      "id": "citation_reference_366",
+      "id": "citation_reference_386",
       "path": [
-        "paragraph_361",
+        "paragraph_381",
         "content"
       ],
       "target": "article_citation_bib17",
@@ -5123,11 +5144,11 @@
         242
       ]
     },
-    "citation_reference_367": {
+    "citation_reference_387": {
       "type": "citation_reference",
-      "id": "citation_reference_367",
+      "id": "citation_reference_387",
       "path": [
-        "paragraph_361",
+        "paragraph_381",
         "content"
       ],
       "target": "article_citation_bib39",
@@ -5136,11 +5157,11 @@
         266
       ]
     },
-    "citation_reference_368": {
+    "citation_reference_388": {
       "type": "citation_reference",
-      "id": "citation_reference_368",
+      "id": "citation_reference_388",
       "path": [
-        "paragraph_361",
+        "paragraph_381",
         "content"
       ],
       "target": "article_citation_bib40",
@@ -5149,11 +5170,11 @@
         273
       ]
     },
-    "citation_reference_369": {
+    "citation_reference_389": {
       "type": "citation_reference",
-      "id": "citation_reference_369",
+      "id": "citation_reference_389",
       "path": [
-        "paragraph_361",
+        "paragraph_381",
         "content"
       ],
       "target": "article_citation_bib39",
@@ -5162,11 +5183,11 @@
         364
       ]
     },
-    "citation_reference_370": {
+    "citation_reference_390": {
       "type": "citation_reference",
-      "id": "citation_reference_370",
+      "id": "citation_reference_390",
       "path": [
-        "paragraph_361",
+        "paragraph_381",
         "content"
       ],
       "target": "article_citation_bib40",
@@ -5175,11 +5196,11 @@
         371
       ]
     },
-    "citation_reference_371": {
+    "citation_reference_391": {
       "type": "citation_reference",
-      "id": "citation_reference_371",
+      "id": "citation_reference_391",
       "path": [
-        "paragraph_361",
+        "paragraph_381",
         "content"
       ],
       "target": "article_citation_bib41",
@@ -5188,11 +5209,11 @@
         377
       ]
     },
-    "annotation_372": {
+    "annotation_392": {
       "type": "emphasis",
-      "id": "annotation_372",
+      "id": "annotation_392",
       "path": [
-        "paragraph_361",
+        "paragraph_381",
         "content"
       ],
       "target": null,
@@ -5208,16 +5229,16 @@
       "content": "Across-effector classification",
       "nodes": []
     },
-    "paragraph_373": {
+    "paragraph_393": {
       "type": "paragraph",
-      "id": "paragraph_373",
+      "id": "paragraph_393",
       "content": "In order to test whether a SVM pattern classifier trained to discriminate between grasp vs reach trial types with one effector could then be used to accurately decode pattern differences when tested with trials belonging to the other effector (e.g., train set: Hand-G vs Hand-R, test set: Tool-G vs Tool-R), instead of using the N − 1 cross-validation procedure (implemented above) we used all the available single trial data for both classifier training and testing (i.e., one train-and-test iteration; Smith and Muckli, 2010; Gallivan et al., 2011a). Cross-decoding accuracies for each subject were computed by averaging together the two accuracies generated by using each pair of effector-specific trial types for classifier training and testing (e.g., Hand trials were used to train the classifier in one analysis when Tool trials were used for testing, and then they were used to test the classifier in the other analysis when the Tool trials were used for classifier training). The means across subjects of this cross-decoding procedure are reported in Figures 3–6. We statistically assessed decoding significance with a two-tailed t-test vs 50% chance decoding. A FDR correction of q ≤ 0.05 was applied based on all t-tests performed at each time point."
     },
-    "citation_reference_374": {
+    "citation_reference_394": {
       "type": "citation_reference",
-      "id": "citation_reference_374",
+      "id": "citation_reference_394",
       "path": [
-        "paragraph_373",
+        "paragraph_393",
         "content"
       ],
       "target": "article_citation_bib97",
@@ -5226,11 +5247,11 @@
         526
       ]
     },
-    "citation_reference_375": {
+    "citation_reference_395": {
       "type": "citation_reference",
-      "id": "citation_reference_375",
+      "id": "citation_reference_395",
       "path": [
-        "paragraph_373",
+        "paragraph_393",
         "content"
       ],
       "target": "article_citation_bib39",
@@ -5239,11 +5260,11 @@
         550
       ]
     },
-    "figure_reference_376": {
+    "figure_reference_396": {
       "type": "figure_reference",
-      "id": "figure_reference_376",
+      "id": "figure_reference_396",
       "path": [
-        "paragraph_373",
+        "paragraph_393",
         "content"
       ],
       "target": "image_fig3",
@@ -5252,11 +5273,11 @@
         1070
       ]
     },
-    "annotation_377": {
+    "annotation_397": {
       "type": "emphasis",
-      "id": "annotation_377",
+      "id": "annotation_397",
       "path": [
-        "paragraph_373",
+        "paragraph_393",
         "content"
       ],
       "target": null,
@@ -5265,11 +5286,11 @@
         1139
       ]
     },
-    "annotation_378": {
+    "annotation_398": {
       "type": "emphasis",
-      "id": "annotation_378",
+      "id": "annotation_398",
       "path": [
-        "paragraph_373",
+        "paragraph_393",
         "content"
       ],
       "target": null,
@@ -5298,19 +5319,19 @@
       "level": 2,
       "content": "Competing Interests",
       "nodes": [
-        "paragraph_379"
+        "paragraph_399"
       ]
     },
-    "paragraph_379": {
+    "paragraph_399": {
       "type": "paragraph",
-      "id": "paragraph_379",
+      "id": "paragraph_399",
       "content": "Competing interestsJCC: Reviewing editor, eLife.The other authors declare that no competing interests exist."
     },
-    "annotation_380": {
+    "annotation_400": {
       "type": "emphasis",
-      "id": "annotation_380",
+      "id": "annotation_400",
       "path": [
-        "paragraph_379",
+        "paragraph_399",
         "content"
       ],
       "target": null,
@@ -5348,17 +5369,11 @@
       "year": "2002",
       "volume": "25",
       "source": "Ann Rev Neurosci",
-      "issue": "",
       "fpage": "189",
       "lpage": "220",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1146/annurev.neuro.25.112701.142922",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib2": {
@@ -5378,17 +5393,11 @@
       "year": "2009",
       "volume": "63",
       "source": "Neuron",
-      "issue": "",
       "fpage": "568",
       "lpage": "83",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.neuron.2009.08.028",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib3": {
@@ -5416,17 +5425,11 @@
       "year": "2009",
       "volume": "73",
       "source": "Psychol Res",
-      "issue": "",
       "fpage": "441",
       "lpage": "62",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1007/s00426-009-0242-2",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib4": {
@@ -5454,17 +5457,11 @@
       "year": "2004",
       "volume": "7",
       "source": "Nat Neurosci",
-      "issue": "",
       "fpage": "542",
       "lpage": "8",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nn1241",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib5": {
@@ -5484,17 +5481,11 @@
       "year": "2007",
       "volume": "43",
       "source": "Cortex",
-      "issue": "",
       "fpage": "461",
       "lpage": "8",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/S0010-9452(08)70470-2",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib6": {
@@ -5522,17 +5513,11 @@
       "year": "2002",
       "volume": "34",
       "source": "Neuron",
-      "issue": "",
       "fpage": "149",
       "lpage": "59",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/S0896-6273(02)00642-6",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib7": {
@@ -5552,17 +5537,11 @@
       "year": "2001",
       "volume": "29",
       "source": "Ann Stat",
-      "issue": "",
       "fpage": "1165",
       "lpage": "88",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1214/aos/1013699998",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib8": {
@@ -5582,17 +5561,11 @@
       "year": "2000",
       "volume": "12",
       "source": "J Cogn Neurosci",
-      "issue": "",
       "fpage": "415",
       "lpage": "20",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1162/089892900562237",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib9": {
@@ -5620,17 +5593,11 @@
       "year": "2007",
       "volume": "97",
       "source": "J Neurophysiol",
-      "issue": "",
       "fpage": "188",
       "lpage": "99",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1152/jn.00456.2006",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib10": {
@@ -5658,17 +5625,11 @@
       "year": "2009",
       "volume": "101",
       "source": "J Neurophysiol",
-      "issue": "",
       "fpage": "3053",
       "lpage": "62",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1152/jn.91194.2008",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib11": {
@@ -5700,17 +5661,11 @@
       "year": "2012",
       "volume": "107",
       "source": "J Neurophysiol",
-      "issue": "",
       "fpage": "1443",
       "lpage": "56",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1152/jn.00619.2011",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib12": {
@@ -5746,17 +5701,11 @@
       "year": "2009",
       "volume": "19",
       "source": "Curr Biol",
-      "issue": "",
       "fpage": "R478",
       "lpage": "9",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.cub.2009.05.009",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib13": {
@@ -5792,17 +5741,10 @@
       "year": "2012",
       "volume": "218",
       "source": "Exp Brain Res",
-      "issue": "",
       "fpage": "259",
       "lpage": "71",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib14": {
@@ -5838,17 +5780,11 @@
       "year": "2000",
       "volume": "1",
       "source": "Cogn Syst Res",
-      "issue": "",
       "fpage": "140",
       "lpage": "5",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/S1389-0417(99)00011-X",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib15": {
@@ -5884,17 +5820,11 @@
       "year": "2010",
       "volume": "30",
       "source": "J Neurosci",
-      "issue": "",
       "fpage": "10306",
       "lpage": "23",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1523/JNEUROSCI.2023-10.2010",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib16": {
@@ -5914,17 +5844,11 @@
       "year": "2000",
       "volume": "12",
       "source": "Neuroimage",
-      "issue": "",
       "fpage": "478",
       "lpage": "84",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1006/nimg.2000.0635",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib17": {
@@ -5960,17 +5884,11 @@
       "year": "2011",
       "volume": "56",
       "source": "Neuroimage",
-      "issue": "",
       "fpage": "582",
       "lpage": "92",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.neuroimage.2010.07.035",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib18": {
@@ -6006,17 +5924,11 @@
       "year": "2012",
       "volume": "487",
       "source": "Nature",
-      "issue": "",
       "fpage": "51",
       "lpage": "6",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nature11129",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib19": {
@@ -6036,17 +5948,11 @@
       "year": "2010",
       "volume": "33",
       "source": "Annu Rev Neurosci",
-      "issue": "",
       "fpage": "269",
       "lpage": "98",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1146/annurev.neuro.051508.135409",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib20": {
@@ -6070,17 +5976,11 @@
       "year": "2003",
       "volume": "89",
       "source": "J Neurophysiol",
-      "issue": "",
       "fpage": "922",
       "lpage": "42",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1152/jn.00607.2002",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib21": {
@@ -6096,17 +5996,11 @@
       "year": "2007",
       "volume": "362",
       "source": "Phil Transact R Soc Lond B",
-      "issue": "",
       "fpage": "1585",
       "lpage": "99",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1098/rstb.2007.2054",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib22": {
@@ -6142,17 +6036,11 @@
       "year": "2003",
       "volume": "153",
       "source": "Exp Brain Res",
-      "issue": "",
       "fpage": "180",
       "lpage": "9",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1007/s00221-003-1591-5",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib23": {
@@ -6176,17 +6064,11 @@
       "year": "2006",
       "volume": "44",
       "source": "Neuropsychologia",
-      "issue": "",
       "fpage": "2668",
       "lpage": "84",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.neuropsychologia.2005.11.003",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib24": {
@@ -6200,19 +6082,11 @@
       ],
       "title": "Human brain imaging reveals a parietal area specialized for grasping",
       "year": "2004",
-      "volume": "",
       "source": "Attention and Performance XX: Functional brain imaging of human cognition",
-      "issue": "",
-      "fpage": "",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
       "publisher-name": "Oxford University Press",
       "publisher-loc": "Oxford, UK",
-      "doi": "",
       "citation_url": [],
       "format": "book",
-      "label": "",
       "editors": [
         {
           "given-names": "N",
@@ -6245,17 +6119,11 @@
       "year": "2004",
       "volume": "24",
       "source": "J Neurosci",
-      "issue": "",
       "fpage": "3944",
       "lpage": "52",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1523/JNEUROSCI.5640-03.2004",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib26": {
@@ -6287,17 +6155,11 @@
       "year": "2006",
       "volume": "26",
       "source": "J Neurosci",
-      "issue": "",
       "fpage": "2260",
       "lpage": "8",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1523/JNEUROSCI.3386-05.2006",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib27": {
@@ -6333,17 +6195,11 @@
       "year": "2007",
       "volume": "36",
       "source": "Neuroimage",
-      "issue": "",
       "fpage": "1004",
       "lpage": "14",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.neuroimage.2007.03.030",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib28": {
@@ -6363,17 +6219,11 @@
       "year": "2011",
       "volume": "2",
       "source": "Cogn Neurosci",
-      "issue": "",
       "fpage": "186",
       "lpage": "226",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1080/17588928.2011.582945",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib29": {
@@ -6401,17 +6251,11 @@
       "year": "2001",
       "volume": "293",
       "source": "Science",
-      "issue": "",
       "fpage": "2470",
       "lpage": "3",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1126/science.1063414",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib30": {
@@ -6443,17 +6287,11 @@
       "year": "2006",
       "volume": "16",
       "source": "Cerebral Cortex",
-      "issue": "",
       "fpage": "1453",
       "lpage": "61",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1093/cercor/bhj086",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib31": {
@@ -6475,19 +6313,11 @@
       ],
       "title": "Pattern Classification",
       "year": "2001",
-      "volume": "",
-      "source": "",
-      "issue": "",
-      "fpage": "",
-      "lpage": "",
-      "collab": "",
       "edition": "2nd ed",
       "publisher-name": "John Wiley & Sons",
       "publisher-loc": "New York",
-      "doi": "",
       "citation_url": [],
       "format": "book",
-      "label": "",
       "editors": []
     },
     "article_citation_bib32": {
@@ -6511,17 +6341,10 @@
       "year": "2008",
       "volume": "3",
       "source": "PLOS ONE",
-      "issue": "",
       "fpage": "e3690",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1371/journal.pone.0003690",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib33": {
@@ -6549,17 +6372,11 @@
       "year": "2009",
       "volume": "29",
       "source": "J Neurosci",
-      "issue": "",
       "fpage": "2961",
       "lpage": "71",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1523/JNEUROSCI.3211-08.2009",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib34": {
@@ -6575,17 +6392,11 @@
       "year": "2010",
       "volume": "16",
       "source": "Neuroscientist",
-      "issue": "",
       "fpage": "388",
       "lpage": "407",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1177/1073858410375468",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib35": {
@@ -6621,17 +6432,11 @@
       "year": "2005",
       "volume": "308",
       "source": "Science",
-      "issue": "",
       "fpage": "662",
       "lpage": "7",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1126/science.1106138",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib36": {
@@ -6659,17 +6464,11 @@
       "year": "2008",
       "volume": "322",
       "source": "Science",
-      "issue": "",
       "fpage": "970",
       "lpage": "3",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1126/science.1164318",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib37": {
@@ -6685,17 +6484,11 @@
       "year": "2007",
       "volume": "43",
       "source": "Cortex",
-      "issue": "",
       "fpage": "368",
       "lpage": "75",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/S0010-9452(08)70462-3",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib38": {
@@ -6719,17 +6512,11 @@
       "year": "2009",
       "volume": "29",
       "source": "J Neurosci",
-      "issue": "",
       "fpage": "4381",
       "lpage": "91",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1523/JNEUROSCI.0377-09.2009",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib39": {
@@ -6757,17 +6544,11 @@
       "year": "2011a",
       "volume": "31",
       "source": "J Neurosci",
-      "issue": "",
       "fpage": "17149",
       "lpage": "68",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1523/JNEUROSCI.1058-11.2011",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib40": {
@@ -6799,17 +6580,11 @@
       "year": "2011b",
       "volume": "31",
       "source": "J Neurosci",
-      "issue": "",
       "fpage": "9599",
       "lpage": "610",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1523/JNEUROSCI.0080-11.2011",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib41": {
@@ -6837,17 +6612,11 @@
       "year": "2013",
       "volume": "33",
       "source": "J Neurosci",
-      "issue": "",
       "fpage": "1991",
       "lpage": "2008",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1523/JNEUROSCI.0541-12.2013",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib42": {
@@ -6871,17 +6640,11 @@
       "year": "2004",
       "volume": "157",
       "source": "Exp Brain Res",
-      "issue": "",
       "fpage": "496",
       "lpage": "506",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1007/s00221-004-1863-8",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib43": {
@@ -6901,17 +6664,11 @@
       "year": "2003",
       "volume": "18",
       "source": "Inf Process Med Imaging",
-      "issue": "",
       "fpage": "330",
       "lpage": "41",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1007/978-3-540-45087-0_28",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib44": {
@@ -6931,17 +6688,11 @@
       "year": "2007",
       "volume": "26",
       "source": "Hum Mov Sci",
-      "issue": "",
       "fpage": "590",
       "lpage": "616",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.humov.2007.05.009",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib45": {
@@ -6961,17 +6712,11 @@
       "year": "2002",
       "volume": "40",
       "source": "Neuropsychologia",
-      "issue": "",
       "fpage": "212",
       "lpage": "22",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/S0028-3932(01)00089-6",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib46": {
@@ -6995,17 +6740,11 @@
       "year": "2000",
       "volume": "123",
       "source": "Brain",
-      "issue": "",
       "fpage": "2306",
       "lpage": "13",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1093/brain/123.11.2306",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib47": {
@@ -7025,17 +6764,11 @@
       "year": "2009",
       "volume": "458",
       "source": "Nature",
-      "issue": "",
       "fpage": "632",
       "lpage": "5",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nature07832",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib48": {
@@ -7071,17 +6804,11 @@
       "year": "2001",
       "volume": "293",
       "source": "Science",
-      "issue": "",
       "fpage": "2425",
       "lpage": "30",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1126/science.1063736",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib49": {
@@ -7101,17 +6828,11 @@
       "year": "2006",
       "volume": "7",
       "source": "Nat Rev Neurosci",
-      "issue": "",
       "fpage": "523",
       "lpage": "34",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nrn1931",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib50": {
@@ -7125,19 +6846,10 @@
       ],
       "title": "The organization of behavior: a neuropsychological theory",
       "year": "1949",
-      "volume": "",
-      "source": "",
-      "issue": "",
-      "fpage": "",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
       "publisher-name": "Wiley",
       "publisher-loc": "New York",
-      "doi": "",
       "citation_url": [],
       "format": "book",
-      "label": "",
       "editors": []
     },
     "article_citation_bib51": {
@@ -7157,17 +6869,11 @@
       "year": "2006",
       "volume": "95",
       "source": "J Neurophysiol",
-      "issue": "",
       "fpage": "3596",
       "lpage": "616",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1152/jn.01126.2005",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib52": {
@@ -7187,17 +6893,11 @@
       "year": "2002",
       "volume": "13",
       "source": "IEEE Trans Neural Netw",
-      "issue": "",
       "fpage": "415",
       "lpage": "25",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1109/72.991427",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib53": {
@@ -7221,17 +6921,11 @@
       "year": "1996",
       "volume": "7",
       "source": "Neuroreport",
-      "issue": "",
       "fpage": "2325",
       "lpage": "30",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1097/00001756-199610020-00010",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib54": {
@@ -7247,17 +6941,11 @@
       "year": "1889",
       "volume": "2",
       "source": "BMJ",
-      "issue": "",
       "fpage": "355",
       "lpage": "62",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1136/bmj.2.1494.355",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib55": {
@@ -7281,17 +6969,11 @@
       "year": "2010",
       "volume": "22",
       "source": "J Cogn Neurosci",
-      "issue": "",
       "fpage": "2594",
       "lpage": "608",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1162/jocn.2009.21372",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib56": {
@@ -7319,17 +7001,11 @@
       "year": "1995",
       "volume": "18",
       "source": "Trends Neurosci",
-      "issue": "",
       "fpage": "314",
       "lpage": "20",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/0166-2236(95)93921-J",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib57": {
@@ -7349,17 +7025,11 @@
       "year": "2003",
       "volume": "142",
       "source": "Prog Brain Res",
-      "issue": "",
       "fpage": "127",
       "lpage": "39",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/S0079-6123(03)42010-4",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib58": {
@@ -7383,17 +7053,11 @@
       "year": "2005",
       "volume": "15",
       "source": "Cerebral cortex",
-      "issue": "",
       "fpage": "681",
       "lpage": "95",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1093/cercor/bhh169",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib59": {
@@ -7409,17 +7073,11 @@
       "year": "2009",
       "volume": "629",
       "source": "Adv Exp Med Biol",
-      "issue": "",
       "fpage": "139",
       "lpage": "78",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1007/978-0-387-77064-2_8",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib60": {
@@ -7439,17 +7097,11 @@
       "year": "2005",
       "volume": "8",
       "source": "Nat Neurosci",
-      "issue": "",
       "fpage": "679",
       "lpage": "85",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nn1444",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib61": {
@@ -7465,17 +7117,11 @@
       "year": "2010",
       "volume": "107",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "11163",
       "lpage": "70",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1073/pnas.1005062107",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib62": {
@@ -7491,17 +7137,11 @@
       "year": "2011",
       "volume": "56",
       "source": "Neuroimage",
-      "issue": "",
       "fpage": "411",
       "lpage": "21",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.neuroimage.2011.01.061",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib63": {
@@ -7533,17 +7173,11 @@
       "year": "2001",
       "volume": "4",
       "source": "Nat Neurosci",
-      "issue": "",
       "fpage": "533",
       "lpage": "9",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/87490",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib64": {
@@ -7575,17 +7209,11 @@
       "year": "2005",
       "volume": "25",
       "source": "J Neurosci",
-      "issue": "",
       "fpage": "5148",
       "lpage": "58",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1523/JNEUROSCI.0419-05.2005",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib65": {
@@ -7601,17 +7229,11 @@
       "year": "2006",
       "volume": "12",
       "source": "Neuroscientist",
-      "issue": "",
       "fpage": "211",
       "lpage": "31",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1177/1073858406288327",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib66": {
@@ -7631,17 +7253,11 @@
       "year": "2013",
       "volume": "77",
       "source": "Neuron",
-      "issue": "",
       "fpage": "168",
       "lpage": "79",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.neuron.2012.10.041",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib67": {
@@ -7661,17 +7277,11 @@
       "year": "2009",
       "volume": "60",
       "source": "Annu Rev Psychol",
-      "issue": "",
       "fpage": "27",
       "lpage": "51",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1146/annurev.psych.60.110707.163532",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib68": {
@@ -7691,17 +7301,11 @@
       "year": "2011",
       "volume": "15",
       "source": "Trends Cogn Sci",
-      "issue": "",
       "fpage": "97",
       "lpage": "103",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.tics.2011.01.004",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib69": {
@@ -7737,17 +7341,11 @@
       "year": "2007",
       "volume": "55",
       "source": "Neuron",
-      "issue": "",
       "fpage": "507",
       "lpage": "20",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.neuron.2007.07.011",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib70": {
@@ -7767,17 +7365,11 @@
       "year": "2004",
       "volume": "8",
       "source": "Trends Cogn Sci",
-      "issue": "",
       "fpage": "79",
       "lpage": "86",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.tics.2003.12.008",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib71": {
@@ -7809,17 +7401,11 @@
       "year": "1995",
       "volume": "270",
       "source": "Science",
-      "issue": "",
       "fpage": "102",
       "lpage": "5",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1126/science.270.5233.102",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib72": {
@@ -7847,17 +7433,11 @@
       "year": "1996",
       "volume": "379",
       "source": "Nature",
-      "issue": "",
       "fpage": "649",
       "lpage": "52",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/379649a0",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib73": {
@@ -7893,17 +7473,11 @@
       "year": "2010",
       "volume": "13",
       "source": "Nat Neurosci",
-      "issue": "",
       "fpage": "667",
       "lpage": "8",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nn.2533",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib74": {
@@ -7921,19 +7495,10 @@
       ],
       "title": "The Visual Brain in Action",
       "year": "1995",
-      "volume": "",
-      "source": "",
-      "issue": "",
-      "fpage": "",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
       "publisher-name": "Oxford University Press",
       "publisher-loc": "Oxford, England",
-      "doi": "",
       "citation_url": [],
       "format": "book",
-      "label": "",
       "editors": []
     },
     "article_citation_bib75": {
@@ -7961,17 +7526,11 @@
       "year": "2010",
       "volume": "53",
       "source": "Neuroimage",
-      "issue": "",
       "fpage": "103",
       "lpage": "18",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.neuroimage.2010.05.051",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib76": {
@@ -8003,17 +7562,10 @@
       "year": "2000",
       "volume": "83",
       "source": "J Neurophysiol",
-      "issue": "",
       "fpage": "2580",
       "lpage": "601",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib77": {
@@ -8041,17 +7593,11 @@
       "year": "2011",
       "volume": "56",
       "source": "Neuroimage",
-      "issue": "",
       "fpage": "400",
       "lpage": "10",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.neuroimage.2010.07.073",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib78": {
@@ -8079,17 +7625,11 @@
       "year": "2006",
       "volume": "10",
       "source": "Trends Cogn Sci",
-      "issue": "",
       "fpage": "424",
       "lpage": "30",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.tics.2006.07.005",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib79": {
@@ -8121,17 +7661,11 @@
       "year": "2010",
       "volume": "104",
       "source": "J Neurophysiol",
-      "issue": "",
       "fpage": "1077",
       "lpage": "89",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1152/jn.00326.2010",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib80": {
@@ -8155,17 +7689,11 @@
       "year": "2010",
       "volume": "68",
       "source": "Neuron",
-      "issue": "",
       "fpage": "586",
       "lpage": "600",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.neuron.2010.09.032",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib81": {
@@ -8185,17 +7713,10 @@
       "year": "2005",
       "volume": "8",
       "source": "Nat Neurosci",
-      "issue": "",
       "fpage": "125",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nn0205-125a",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib82": {
@@ -8215,17 +7736,11 @@
       "year": "2007",
       "volume": "8",
       "source": "Nat Revi Neurosci",
-      "issue": "",
       "fpage": "636",
       "lpage": "48",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nrn2195",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib83": {
@@ -8261,17 +7776,11 @@
       "year": "2009",
       "volume": "29",
       "source": "J Neurosci",
-      "issue": "",
       "fpage": "11523",
       "lpage": "39",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1523/JNEUROSCI.2040-09.2009",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib84": {
@@ -8291,17 +7800,11 @@
       "year": "2011",
       "volume": "56",
       "source": "Neuroimage",
-      "issue": "",
       "fpage": "476",
       "lpage": "96",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.neuroimage.2010.05.026",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib85": {
@@ -8325,17 +7828,11 @@
       "year": "2009",
       "volume": "45",
       "source": "Neuroimage",
-      "issue": "",
       "fpage": "S199",
       "lpage": "209",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.neuroimage.2008.11.007",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": [],
       "supplement": "1 Suppl"
     },
@@ -8360,17 +7857,11 @@
       "year": "2011",
       "volume": "31",
       "source": "J Neurosci",
-      "issue": "",
       "fpage": "1059",
       "lpage": "68",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1523/JNEUROSCI.3721-10.2011",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib87": {
@@ -8390,17 +7881,11 @@
       "year": "2001",
       "volume": "11",
       "source": "Curr Opin Neurobiol",
-      "issue": "",
       "fpage": "663",
       "lpage": "72",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/S0959-4388(01)00266-5",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib88": {
@@ -8418,19 +7903,10 @@
       ],
       "title": "Corticospinal function and voluntary movement",
       "year": "1993",
-      "volume": "",
-      "source": "",
-      "issue": "",
-      "fpage": "",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
       "publisher-name": "Clarendon Press",
       "publisher-loc": "Oxford, UK",
-      "doi": "",
       "citation_url": [],
       "format": "book",
-      "label": "",
       "editors": []
     },
     "article_citation_bib89": {
@@ -8458,17 +7934,11 @@
       "year": "2004",
       "volume": "92",
       "source": "J Neurophysiol",
-      "issue": "",
       "fpage": "1990",
       "lpage": "2002",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1152/jn.00154.2004",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib90": {
@@ -8500,17 +7970,11 @@
       "year": "2006",
       "volume": "95",
       "source": "J Neurophysiol",
-      "issue": "",
       "fpage": "709",
       "lpage": "29",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1152/jn.00463.2005",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib91": {
@@ -8546,17 +8010,10 @@
       "year": "1999",
       "volume": "19",
       "source": "J Neurosci",
-      "issue": "",
       "fpage": "8043",
       "lpage": "8",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib92": {
@@ -8576,17 +8033,11 @@
       "year": "2001",
       "volume": "31",
       "source": "Neuron",
-      "issue": "",
       "fpage": "889",
       "lpage": "901",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/S0896-6273(01)00423-8",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib93": {
@@ -8610,17 +8061,11 @@
       "year": "2001",
       "volume": "2",
       "source": "Nat Rev Neurosci",
-      "issue": "",
       "fpage": "661",
       "lpage": "70",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/35090060",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib94": {
@@ -8656,17 +8101,11 @@
       "year": "2004",
       "volume": "21",
       "source": "Neuroimage",
-      "issue": "",
       "fpage": "1224",
       "lpage": "31",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.neuroimage.2003.11.017",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib95": {
@@ -8702,17 +8141,11 @@
       "year": "1998",
       "volume": "353",
       "source": "Philos Trans R Soc Lond B Biol Sci",
-      "issue": "",
       "fpage": "1363",
       "lpage": "73",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1098/rstb.1998.0290",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib96": {
@@ -8726,19 +8159,10 @@
       ],
       "title": "The integrative action of the nervous system",
       "year": "1906",
-      "volume": "",
-      "source": "",
-      "issue": "",
-      "fpage": "",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
       "publisher-name": "Yale University Press",
       "publisher-loc": "New Haven, CT",
-      "doi": "",
       "citation_url": [],
       "format": "book",
-      "label": "",
       "editors": []
     },
     "article_citation_bib97": {
@@ -8758,17 +8182,11 @@
       "year": "2010",
       "volume": "107",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "20099",
       "lpage": "103",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1073/pnas.1000233107",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib98": {
@@ -8792,17 +8210,11 @@
       "year": "1997",
       "volume": "386",
       "source": "Nature",
-      "issue": "",
       "fpage": "167",
       "lpage": "23",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/386167a0",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib99": {
@@ -8830,17 +8242,11 @@
       "year": "2008",
       "volume": "11",
       "source": "Nat Neurosci",
-      "issue": "",
       "fpage": "543",
       "lpage": "5",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nn.2112",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib100": {
@@ -8876,17 +8282,11 @@
       "year": "2007",
       "volume": "27",
       "source": "J Neurosci",
-      "issue": "",
       "fpage": "10259",
       "lpage": "69",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1523/JNEUROSCI.2144-07.2007",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib101": {
@@ -8922,17 +8322,11 @@
       "year": "2008",
       "volume": "105",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "2209",
       "lpage": "13",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1073/pnas.0705985105",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib102": {
@@ -8952,17 +8346,11 @@
       "year": "2010",
       "volume": "22",
       "source": "J Cogn Neurosci",
-      "issue": "",
       "fpage": "970",
       "lpage": "84",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1162/jocn.2009.21256",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib103": {
@@ -8990,17 +8378,11 @@
       "year": "2007",
       "volume": "36",
       "source": "Neuroimage",
-      "issue": "",
       "fpage": "T94",
       "lpage": "T108",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.neuroimage.2007.03.031",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": [],
       "supplement": "Suppl 2"
     },
@@ -9021,17 +8403,11 @@
       "year": "2007",
       "volume": "56",
       "source": "Neuron",
-      "issue": "",
       "fpage": "209",
       "lpage": "25",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.neuron.2007.10.015",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib105": {
@@ -9045,19 +8421,10 @@
       ],
       "title": "Advances in the Study of Behavior",
       "year": "1970",
-      "volume": "",
-      "source": "",
-      "issue": "",
-      "fpage": "",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
       "publisher-name": "Academic",
       "publisher-loc": "New York",
-      "doi": "",
       "citation_url": [],
       "format": "book",
-      "label": "",
       "editors": []
     },
     "article_citation_bib106": {
@@ -9071,19 +8438,11 @@
       ],
       "title": "Handbook of Physiological Optics",
       "year": "1866",
-      "volume": "",
-      "source": "",
-      "issue": "",
-      "fpage": "",
-      "lpage": "",
-      "collab": "",
       "edition": "3rd ed",
       "publisher-name": "Dover Publications",
       "publisher-loc": "New York",
-      "doi": "",
       "citation_url": [],
       "format": "book",
-      "label": "",
       "editors": []
     },
     "article_citation_bib107": {
@@ -9103,17 +8462,11 @@
       "year": "2001",
       "volume": "11",
       "source": "Curr Biol",
-      "issue": "",
       "fpage": "R729",
       "lpage": "32",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/S0960-9822(01)00432-8",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib108": {
@@ -9133,17 +8486,11 @@
       "year": "2000",
       "volume": "3",
       "source": "Nat Neurosci",
-      "issue": "",
       "fpage": "1212",
       "lpage": "7",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/81497",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib109": {
@@ -9182,14 +8529,9 @@
       "issue": "Pt 1",
       "fpage": "141",
       "lpage": "57",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1093/brain/120.1.141",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "sub-article": {

@@ -149,7 +149,6 @@
       "accepted_on": "2012-10-04",
       "published_on": "2012-12-13",
       "journal": "eLife",
-      "article_type": "",
       "keywords": [
         "Single Molecule",
         "FRET",
@@ -163,10 +162,9 @@
         "Biochemistry",
         "Biophysics and structural biology"
       ],
-      "pdf_link": "",
-      "xml_link": "",
-      "json_link": "",
-      "doi": ""
+      "xml_link": "https://s3.amazonaws.com/elife-cdn/elife-articles/00067/elife00067.xml",
+      "json_link": "https://s3.amazonaws.com/elife-cdn/elife-articles/00067/00067.json",
+      "doi": "http://dx.doi.org/10.7554/eLife.00067"
     },
     "person_author_1300": {
       "type": "person",
@@ -175,9 +173,7 @@
       "last-name": "Ragunathan",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article",
-      "email": "",
       "funding": []
     },
     "person_author_1696": {
@@ -187,9 +183,7 @@
       "last-name": "Liu",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Analysis and interpretation of data, Contributed unpublished essential data or reagents",
-      "email": "",
       "funding": []
     },
     "person_author_1520": {
@@ -199,7 +193,6 @@
       "last-name": "Ha",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Analysis and interpretation of data, Drafting or revising the article",
       "email": "email_cor1",
       "funding": [
@@ -214,45 +207,35 @@
       "id": "institution_aff1",
       "name": "University of Illinois at Urbana-Champaign",
       "city": "Urbana",
-      "country": "United States",
-      "email": "",
-      "image": ""
+      "country": "United States"
     },
     "institution_aff2": {
       "type": "institution",
       "id": "institution_aff2",
       "name": "University of Illinois at Urbana-Champaign",
       "city": "Urbana",
-      "country": "United States",
-      "email": "",
-      "image": ""
+      "country": "United States"
     },
     "institution_aff3": {
       "type": "institution",
       "id": "institution_aff3",
       "name": "University of Illinois at Urbana-Champaign",
       "city": "Urbana",
-      "country": "United States",
-      "email": "",
-      "image": ""
+      "country": "United States"
     },
     "institution_aff4": {
       "type": "institution",
       "id": "institution_aff4",
       "name": "University of Illinois at Urbana-Champaign",
       "city": "Urbana",
-      "country": "United States",
-      "email": "",
-      "image": ""
+      "country": "United States"
     },
     "institution_aff5": {
       "type": "institution",
       "id": "institution_aff5",
       "name": "University of Illinois at Urbana-Champaign",
       "city": "Urbana",
-      "country": "United States",
-      "email": "",
-      "image": ""
+      "country": "United States"
     },
     "person_1": {
       "type": "person",
@@ -261,9 +244,6 @@
       "last-name": "Zhuang",
       "role": "editor",
       "affiliations": [],
-      "image": "",
-      "contribution": "",
-      "email": "",
       "funding": []
     },
     "info:review": {
@@ -278,7 +258,6 @@
     "email_cor1": {
       "type": "email",
       "id": "email_cor1",
-      "node": "",
       "email": "tjha@illinois.edu"
     },
     "info:copyright": {
@@ -487,7 +466,6 @@
       "type": "funding",
       "id": "funding_par_4",
       "institution": "Howard Hughes Medical Institute",
-      "accession": "",
       "person": "person_author_1520",
       "given-names": "Taekjip",
       "last-name": "Ha"
@@ -503,8 +481,7 @@
     },
     "paragraph_20": {
       "type": "paragraph",
-      "id": "paragraph_20",
-      "content": ""
+      "id": "paragraph_20"
     },
     "heading_s1": {
       "type": "heading",
@@ -925,19 +902,12 @@
       "type": "image",
       "id": "image_fig1",
       "label": "Figure 1.",
-      "url": "",
-      "object_id": "F1",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00067/svg/elife00067f001.svg",
       "title": "Dynamic interactions between RecA filament and non-homologous dsDNA.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00067.003",
       "caption": "paragraph_image_fig1",
-      "graphic_id": "elife00067f001"
+      "graphic_id": "elife00067f001",
+      "format": "image"
     },
     "paragraph_image_fig1": {
       "type": "paragraph",
@@ -1037,17 +1007,12 @@
     },
     "formula_62": {
       "type": "formula",
-      "id": "formula_62",
-      "label": "",
-      "content": "",
-      "format": ""
+      "id": "formula_62"
     },
     "annotation_63": {
       "type": "inline_formula",
       "id": "annotation_63",
-      "path": "",
       "target": "formula_62",
-      "range": "",
       "source": "paragraph_50",
       "key": "content",
       "pos": [
@@ -1059,19 +1024,12 @@
       "type": "image",
       "id": "image_fig1s1",
       "label": "Figure 1—figure supplement 1.",
-      "url": "",
-      "object_id": "F2",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00067/svg/elife00067fs001.svg",
       "title": "Non-homologous DNA interactions with the RecA filament are independent of ATP hydrolysis.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig1"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00067.004",
       "caption": "paragraph_image_fig1s1",
-      "graphic_id": "elife00067fs001"
+      "graphic_id": "elife00067fs001",
+      "format": "image"
     },
     "paragraph_image_fig1s1": {
       "type": "paragraph",
@@ -1160,19 +1118,12 @@
       "type": "image",
       "id": "image_fig1s2",
       "label": "Figure 1—figure supplement 2.",
-      "url": "",
-      "object_id": "F3",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00067/svg/elife00067fs002.svg",
       "title": "Non-homologous dsDNA interaction with RecA filament: dependence on filament length, Lfilament (nt) and dsDNA length, LdsDNA (bp).",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig1"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00067.005",
       "caption": "paragraph_image_fig1s2",
-      "graphic_id": "elife00067fs002"
+      "graphic_id": "elife00067fs002",
+      "format": "image"
     },
     "paragraph_image_fig1s2": {
       "type": "paragraph",
@@ -1365,19 +1316,12 @@
       "type": "image",
       "id": "image_fig1s3",
       "label": "Figure 1—figure supplement 3.",
-      "url": "",
-      "object_id": "F4",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00067/svg/elife00067fs003.svg",
       "title": "Deletion of acidic residues enhances RecA affinity for non-homologous dsDNA.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig1"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00067.006",
       "caption": "paragraph_image_fig1s3",
-      "graphic_id": "elife00067fs003"
+      "graphic_id": "elife00067fs003",
+      "format": "image"
     },
     "paragraph_image_fig1s3": {
       "type": "paragraph",
@@ -1966,19 +1910,12 @@
       "type": "image",
       "id": "image_fig2",
       "label": "Figure 2.",
-      "url": "",
-      "object_id": "F5",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00067/svg/elife00067f002.svg",
       "title": "RecA filament slides along dsDNA.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00067.007",
       "caption": "paragraph_image_fig2",
-      "graphic_id": "elife00067f002"
+      "graphic_id": "elife00067f002",
+      "format": "image"
     },
     "paragraph_image_fig2": {
       "type": "paragraph",
@@ -2197,19 +2134,12 @@
       "type": "image",
       "id": "image_fig2s1",
       "label": "Figure 2—figure supplement 1.",
-      "url": "",
-      "object_id": "F6",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00067/svg/elife00067fs004.svg",
       "title": "Thermal breathing of DNA ends does not contribute to the observed fluctuations in FRET.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig2"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00067.008",
       "caption": "paragraph_image_fig2s1",
-      "graphic_id": "elife00067fs004"
+      "graphic_id": "elife00067fs004",
+      "format": "image"
     },
     "paragraph_image_fig2s1": {
       "type": "paragraph",
@@ -2272,19 +2202,12 @@
       "type": "image",
       "id": "image_fig2s2",
       "label": "Figure 2—figure supplement 2.",
-      "url": "",
-      "object_id": "F7",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00067/svg/elife00067fs005.svg",
       "title": "Cross correlation and corresponding Monte Carlo simulation of RecA filament sliding.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig2"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00067.009",
       "caption": "paragraph_image_fig2s2",
-      "graphic_id": "elife00067fs005"
+      "graphic_id": "elife00067fs005",
+      "format": "image"
     },
     "paragraph_image_fig2s2": {
       "type": "paragraph",
@@ -2425,19 +2348,12 @@
       "type": "image",
       "id": "image_fig2s3",
       "label": "Figure 2—figure supplement 3.",
-      "url": "",
-      "object_id": "F8",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00067/svg/elife00067fs006.svg",
       "title": "Dependence of sliding rate on solution conditions.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig2"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00067.010",
       "caption": "paragraph_image_fig2s3",
-      "graphic_id": "elife00067fs006"
+      "graphic_id": "elife00067fs006",
+      "format": "image"
     },
     "paragraph_image_fig2s3": {
       "type": "paragraph",
@@ -2889,19 +2805,12 @@
       "type": "image",
       "id": "image_fig3",
       "label": "Figure 3.",
-      "url": "",
-      "object_id": "F9",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00067/svg/elife00067f003.svg",
       "title": "Three color FRET observations support RecA filament sliding.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00067.011",
       "caption": "paragraph_image_fig3",
-      "graphic_id": "elife00067f003"
+      "graphic_id": "elife00067f003",
+      "format": "image"
     },
     "paragraph_image_fig3": {
       "type": "paragraph",
@@ -3093,19 +3002,12 @@
       "type": "image",
       "id": "image_fig4",
       "label": "Figure 4.",
-      "url": "",
-      "object_id": "F10",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00067/svg/elife00067f004.svg",
       "title": "Homology recognition during sliding.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00067.012",
       "caption": "paragraph_image_fig4",
-      "graphic_id": "elife00067f004"
+      "graphic_id": "elife00067f004",
+      "format": "image"
     },
     "paragraph_image_fig4": {
       "type": "paragraph",
@@ -3337,19 +3239,12 @@
       "type": "image",
       "id": "image_fig4s1",
       "label": "Figure 4—figure supplement 1.",
-      "url": "",
-      "object_id": "F11",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00067/svg/elife00067fs007.svg",
       "title": "Non-homologous dsDNA interaction with a poly T (Lfilament = 50 nt) coated by RecA.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig4"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00067.013",
       "caption": "paragraph_image_fig4s1",
-      "graphic_id": "elife00067fs007"
+      "graphic_id": "elife00067fs007",
+      "format": "image"
     },
     "paragraph_image_fig4s1": {
       "type": "paragraph",
@@ -3438,19 +3333,12 @@
       "type": "image",
       "id": "image_fig4s2",
       "label": "Figure 4—figure supplement 2.",
-      "url": "",
-      "object_id": "F12",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00067/svg/elife00067fs008.svg",
       "title": "Effect of inserting two identical 8 bp homology sites (HS1 and HS2) in a poly T sequence background.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig4"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00067.014",
       "caption": "paragraph_image_fig4s2",
-      "graphic_id": "elife00067fs008"
+      "graphic_id": "elife00067fs008",
+      "format": "image"
     },
     "paragraph_image_fig4s2": {
       "type": "paragraph",
@@ -3513,19 +3401,12 @@
       "type": "image",
       "id": "image_fig4s3",
       "label": "Figure 4—figure supplement 3.",
-      "url": "",
-      "object_id": "F13",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00067/svg/elife00067fs009.svg",
       "title": "Effective rate enhancement of target search due to sliding.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig4"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00067.015",
       "caption": "paragraph_image_fig4s3",
-      "graphic_id": "elife00067fs009"
+      "graphic_id": "elife00067fs009",
+      "format": "image"
     },
     "paragraph_image_fig4s3": {
       "type": "paragraph",
@@ -3548,16 +3429,12 @@
     "formula_eqn5": {
       "type": "formula",
       "id": "formula_eqn5",
-      "label": "",
       "content": "<mml:mrow><mml:mfrac><mml:mrow><mml:msubsup><mml:mi>k</mml:mi><mml:mtext>a</mml:mtext><mml:mrow><mml:mtext>slide</mml:mtext></mml:mrow></mml:msubsup></mml:mrow><mml:mrow><mml:msubsup><mml:mi>k</mml:mi><mml:mtext>a</mml:mtext><mml:mrow><mml:mtext>D</mml:mtext><mml:mo>=</mml:mo><mml:mtext>0</mml:mtext></mml:mrow></mml:msubsup></mml:mrow></mml:mfrac><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:mn>1</mml:mn><mml:mo>+</mml:mo><mml:mn>2</mml:mn><mml:mtext>s</mml:mtext></mml:mrow><mml:mrow><mml:mn>1</mml:mn><mml:mo>+</mml:mo><mml:mn>2</mml:mn><mml:mtext>s</mml:mtext><mml:mrow><mml:mrow><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mn>1</mml:mn><mml:mo>−</mml:mo><mml:msub><mml:mtext>p</mml:mtext><mml:mrow><mml:mtext>bind</mml:mtext></mml:mrow></mml:msub></mml:mrow><mml:mo>)</mml:mo></mml:mrow></mml:mrow><mml:mo>/</mml:mo><mml:mrow><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mn>1</mml:mn><mml:mo>+</mml:mo><mml:mn>2</mml:mn><mml:msup><mml:mtext>s</mml:mtext><mml:mn>2</mml:mn></mml:msup><mml:msub><mml:mtext>p</mml:mtext><mml:mrow><mml:mtext>bind</mml:mtext></mml:mrow></mml:msub></mml:mrow><mml:mo>)</mml:mo></mml:mrow></mml:mrow></mml:mrow></mml:mrow></mml:mfrac></mml:mrow>",
-      "format": "mml"
+      "format": "mathml"
     },
     "formula_237": {
       "type": "formula",
-      "id": "formula_237",
-      "label": "",
-      "content": "",
-      "format": ""
+      "id": "formula_237"
     },
     "annotation_238": {
       "type": "inline_formula",
@@ -3567,7 +3444,6 @@
         "content"
       ],
       "target": "formula_237",
-      "range": "",
       "pos": [
         658,
         658
@@ -3575,10 +3451,7 @@
     },
     "formula_239": {
       "type": "formula",
-      "id": "formula_239",
-      "label": "",
-      "content": "",
-      "format": ""
+      "id": "formula_239"
     },
     "annotation_240": {
       "type": "inline_formula",
@@ -3588,7 +3461,6 @@
         "content"
       ],
       "target": "formula_239",
-      "range": "",
       "pos": [
         670,
         670
@@ -3598,19 +3470,12 @@
       "type": "image",
       "id": "image_fig4s4",
       "label": "Figure 4—figure supplement 4.",
-      "url": "",
-      "object_id": "F14",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00067/svg/elife00067fs010.svg",
       "title": "dsDNA flipping does not assist RecA mediated homology search.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig4"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00067.016",
       "caption": "paragraph_image_fig4s4",
-      "graphic_id": "elife00067fs010"
+      "graphic_id": "elife00067fs010",
+      "format": "image"
     },
     "paragraph_image_fig4s4": {
       "type": "paragraph",
@@ -4220,9 +4085,8 @@
     "formula_eqn1": {
       "type": "formula",
       "id": "formula_eqn1",
-      "label": "",
       "content": "<mml:mrow><mml:msubsup><mml:mi>E</mml:mi><mml:mrow><mml:mtext>recognition</mml:mtext></mml:mrow><mml:mrow><mml:mtext>NH</mml:mtext><mml:mo>-></mml:mo><mml:mtext>HS</mml:mtext><mml:mn>2</mml:mn></mml:mrow></mml:msubsup><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:msup><mml:mi>N</mml:mi><mml:mrow><mml:mtext>NH</mml:mtext><mml:mo>-></mml:mo><mml:mtext>HS</mml:mtext><mml:mn>2</mml:mn></mml:mrow></mml:msup></mml:mrow><mml:mrow><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:msup><mml:mi>N</mml:mi><mml:mrow><mml:mtext>NH</mml:mtext><mml:mo>-></mml:mo><mml:mtext>HS</mml:mtext><mml:mn>2</mml:mn></mml:mrow></mml:msup><mml:mo>+</mml:mo><mml:msup><mml:mi>N</mml:mi><mml:mrow><mml:mtext>NH</mml:mtext><mml:mo>-></mml:mo><mml:mtext>HS</mml:mtext><mml:mn>1</mml:mn></mml:mrow></mml:msup></mml:mrow><mml:mo>)</mml:mo></mml:mrow></mml:mrow></mml:mfrac><mml:mo>,</mml:mo></mml:mrow>",
-      "format": "mml"
+      "format": "mathml"
     },
     "paragraph_289": {
       "type": "paragraph",
@@ -4309,17 +4173,12 @@
     },
     "formula_296": {
       "type": "formula",
-      "id": "formula_296",
-      "label": "",
-      "content": "",
-      "format": ""
+      "id": "formula_296"
     },
     "annotation_297": {
       "type": "inline_formula",
       "id": "annotation_297",
-      "path": "",
       "target": "formula_296",
-      "range": "",
       "source": "paragraph_289",
       "key": "content",
       "pos": [
@@ -4329,17 +4188,12 @@
     },
     "formula_298": {
       "type": "formula",
-      "id": "formula_298",
-      "label": "",
-      "content": "",
-      "format": ""
+      "id": "formula_298"
     },
     "annotation_299": {
       "type": "inline_formula",
       "id": "annotation_299",
-      "path": "",
       "target": "formula_298",
-      "range": "",
       "source": "paragraph_289",
       "key": "content",
       "pos": [
@@ -4814,9 +4668,8 @@
     "formula_eqn2": {
       "type": "formula",
       "id": "formula_eqn2",
-      "label": "",
       "content": "<mml:mrow><mml:mi>γ</mml:mi><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:mi>Δ</mml:mi><mml:msub><mml:mi>I</mml:mi><mml:mrow><mml:mtext>Cy</mml:mtext><mml:mn>5</mml:mn></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:mi>Δ</mml:mi><mml:msub><mml:mi>I</mml:mi><mml:mrow><mml:mtext>Cy</mml:mtext><mml:mn>7</mml:mn></mml:mrow></mml:msub></mml:mrow></mml:mfrac></mml:mrow>",
-      "format": "mml"
+      "format": "mathml"
     },
     "paragraph_338": {
       "type": "paragraph",
@@ -4917,9 +4770,8 @@
     "formula_eqn3": {
       "type": "formula",
       "id": "formula_eqn3",
-      "label": "",
       "content": "<mml:mrow><mml:msub><mml:mi>E</mml:mi><mml:mrow><mml:mtext>D</mml:mtext><mml:mo>-</mml:mo><mml:mtext>A</mml:mtext><mml:mo>,</mml:mo><mml:mtext>i</mml:mtext></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:msub><mml:mi>I</mml:mi><mml:mrow><mml:mtext>A</mml:mtext><mml:mo>,</mml:mo><mml:mtext>i</mml:mtext></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:mi>Σ</mml:mi><mml:msub><mml:mi>I</mml:mi><mml:mrow><mml:mtext>A</mml:mtext><mml:mo>,</mml:mo><mml:mtext>i</mml:mtext></mml:mrow></mml:msub><mml:mo>+</mml:mo><mml:msub><mml:mi>I</mml:mi><mml:mtext>D</mml:mtext></mml:msub></mml:mrow></mml:mfrac><mml:mo>,</mml:mo></mml:mrow>",
-      "format": "mml"
+      "format": "mathml"
     },
     "paragraph_346": {
       "type": "paragraph",
@@ -5059,9 +4911,8 @@
     "formula_eqn4": {
       "type": "formula",
       "id": "formula_eqn4",
-      "label": "",
       "content": "<mml:mrow><mml:mi>L</mml:mi><mml:mo>=</mml:mo><mml:msqrt><mml:mrow><mml:msup><mml:mi>r</mml:mi><mml:mn>2</mml:mn></mml:msup><mml:mo>+</mml:mo><mml:msup><mml:mrow><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mi>d</mml:mi><mml:mo>×</mml:mo><mml:mrow><mml:mo>|</mml:mo><mml:mrow><mml:mi>x</mml:mi><mml:mo>−</mml:mo><mml:msub><mml:mi>x</mml:mi><mml:mi>o</mml:mi></mml:msub></mml:mrow><mml:mo>|</mml:mo></mml:mrow></mml:mrow><mml:mo>)</mml:mo></mml:mrow></mml:mrow><mml:mn>2</mml:mn></mml:msup></mml:mrow></mml:msqrt><mml:mo>,</mml:mo></mml:mrow>",
-      "format": "mml"
+      "format": "mathml"
     },
     "paragraph_357": {
       "type": "paragraph",
@@ -5163,17 +5014,24 @@
       "type": "supplement",
       "id": "supplement_SD1_data",
       "label": "Supplementary file 1.",
-      "source": "",
-      "title": "",
       "caption": "paragraph_supplement_SD1_data",
-      "content": "",
       "doi": "http://dx.doi.org/10.7554/eLife.00067.017",
-      "graphic_id": "elife00067s001.pdf"
+      "files": [
+        "file_363"
+      ]
     },
     "paragraph_supplement_SD1_data": {
       "type": "paragraph",
       "id": "paragraph_supplement_SD1_data",
       "content": "DNA sequences used in measurements"
+    },
+    "file_363": {
+      "type": "file",
+      "id": "file_363",
+      "name": "PDF",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00067/suppl/elife00067s001.pdf",
+      "graphic_id": "elife00067s001.pdf",
+      "extension": ".pdf"
     },
     "article_citation_bib1": {
       "type": "article_citation",
@@ -5188,17 +5046,10 @@
       "year": "1998",
       "volume": "273",
       "source": "J Biol Chem",
-      "issue": "",
       "fpage": "31565",
       "lpage": "73",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib2": {
@@ -5218,17 +5069,11 @@
       "year": "2008",
       "volume": "9",
       "source": "Nat Rev Genet",
-      "issue": "",
       "fpage": "27",
       "lpage": "37",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nrg2224",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib3": {
@@ -5252,22 +5097,15 @@
       "year": "1985",
       "volume": "4",
       "source": "EMBO J",
-      "issue": "",
       "fpage": "3025",
       "lpage": "30",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_363": {
+    "annotation_364": {
       "type": "emphasis",
-      "id": "annotation_363",
+      "id": "annotation_364",
       "path": [
         "article_citation_bib3",
         "title"
@@ -5299,17 +5137,10 @@
       "year": "1998",
       "volume": "3",
       "source": "Front Biosci",
-      "issue": "",
       "fpage": "570",
       "lpage": "603",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib5": {
@@ -5341,17 +5172,11 @@
       "year": "2006",
       "volume": "103",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "5752",
       "lpage": "57",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1073/pnas.0509723103",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib6": {
@@ -5387,17 +5212,11 @@
       "year": "2008",
       "volume": "36",
       "source": "Nucleic Acids Res",
-      "issue": "",
       "fpage": "4118",
       "lpage": "27",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1093/nar/gkn376",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib7": {
@@ -5433,17 +5252,11 @@
       "year": "2004",
       "volume": "11",
       "source": "Nat Struct Mol Biol",
-      "issue": "",
       "fpage": "791",
       "lpage": "6",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nsmb795",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib8": {
@@ -5463,22 +5276,15 @@
       "year": "1981",
       "volume": "78",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "3433",
       "lpage": "7",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_364": {
+    "annotation_365": {
       "type": "emphasis",
-      "id": "annotation_364",
+      "id": "annotation_365",
       "path": [
         "article_citation_bib8",
         "title"
@@ -5522,17 +5328,11 @@
       "year": "2000",
       "volume": "404",
       "source": "Nature",
-      "issue": "",
       "fpage": "37",
       "lpage": "41",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/35003501",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib10": {
@@ -5568,17 +5368,11 @@
       "year": "2012",
       "volume": "40",
       "source": "Nucleic Acids Res",
-      "issue": "",
       "fpage": "1717",
       "lpage": "27",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1093/nar/gkr855",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib11": {
@@ -5614,17 +5408,11 @@
       "year": "2012",
       "volume": "46",
       "source": "Mol Cell",
-      "issue": "",
       "fpage": "616",
       "lpage": "24",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.molcel.2012.03.029",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib12": {
@@ -5652,17 +5440,11 @@
       "year": "1982",
       "volume": "157",
       "source": "J Mol Biol",
-      "issue": "",
       "fpage": "87",
       "lpage": "103",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/0022-2836(82)90514-9",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib13": {
@@ -5690,17 +5472,10 @@
       "year": "1983",
       "volume": "11",
       "source": "Nucleic Acids Res",
-      "issue": "",
       "fpage": "7487",
       "lpage": "504",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib14": {
@@ -5724,17 +5499,11 @@
       "year": "1982",
       "volume": "28",
       "source": "Cell",
-      "issue": "",
       "fpage": "757",
       "lpage": "65",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/0092-8674(82)90055-1",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib15": {
@@ -5754,17 +5523,11 @@
       "year": "2012",
       "volume": "482",
       "source": "Nature",
-      "issue": "",
       "fpage": "423",
       "lpage": "7",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nature10782",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib16": {
@@ -5784,17 +5547,11 @@
       "year": "2008",
       "volume": "15",
       "source": "Nat Struct Mol Biol",
-      "issue": "",
       "fpage": "768",
       "lpage": "74",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nsmb.1441",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib17": {
@@ -5830,17 +5587,11 @@
       "year": "2007",
       "volume": "28",
       "source": "Mol Cell",
-      "issue": "",
       "fpage": "359",
       "lpage": "70",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.molcel.2007.09.008",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib18": {
@@ -5868,17 +5619,11 @@
       "year": "2006",
       "volume": "103",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "1221",
       "lpage": "6",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1073/pnas.0508366103",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib19": {
@@ -5914,17 +5659,10 @@
       "year": "1996",
       "volume": "93",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "6264",
       "lpage": "8",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib20": {
@@ -5960,17 +5698,11 @@
       "year": "2012",
       "volume": "336",
       "source": "Science",
-      "issue": "",
       "fpage": "1595",
       "lpage": "8",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1126/science.1221648",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib21": {
@@ -5994,17 +5726,10 @@
       "year": "1999",
       "volume": "96",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "10109",
       "lpage": "14",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib22": {
@@ -6028,17 +5753,11 @@
       "year": "2004",
       "volume": "87",
       "source": "Biophys J",
-      "issue": "",
       "fpage": "1328",
       "lpage": "37",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1529/biophysj.104.043935S0006-3495(04)73612-7",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib23": {
@@ -6056,19 +5775,13 @@
       ],
       "title": "Single molecule FRET with total internal reflection microscopy",
       "year": "2008",
-      "volume": "",
       "source": "Single Molecule Techniques: A Laboratory Manual",
-      "issue": "",
       "fpage": "3",
       "lpage": "36",
-      "collab": "",
-      "edition": "",
       "publisher-name": "Cold Spring Harbour",
       "publisher-loc": "NY, USA",
-      "doi": "",
       "citation_url": [],
       "format": "book",
-      "label": "",
       "editors": [
         {
           "given-names": "PR",
@@ -6113,17 +5826,10 @@
       "year": "2006",
       "volume": "126",
       "source": "Cell",
-      "issue": "",
       "fpage": "515",
       "lpage": "27",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib25": {
@@ -6159,17 +5865,11 @@
       "year": "2002",
       "volume": "99",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "4284",
       "lpage": "9",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1073/pnas.03207779999/7/4284",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib26": {
@@ -6201,17 +5901,11 @@
       "year": "2008",
       "volume": "322",
       "source": "Science",
-      "issue": "",
       "fpage": "1092",
       "lpage": "7",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1126/science.1163108",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib27": {
@@ -6235,17 +5929,10 @@
       "year": "2003",
       "volume": "278",
       "source": "J Biol Chem",
-      "issue": "",
       "fpage": "16381",
       "lpage": "8",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib28": {
@@ -6273,17 +5960,10 @@
       "year": "2009",
       "volume": "38",
       "source": "Nucleic Acids Res",
-      "issue": "",
       "fpage": "2036",
       "lpage": "43",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib29": {
@@ -6319,17 +5999,11 @@
       "year": "2012",
       "volume": "40",
       "source": "Nucleic Acids Res",
-      "issue": "",
       "fpage": "10441",
       "lpage": "51",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1093/nar/gks769",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib30": {
@@ -6353,17 +6027,11 @@
       "year": "2011",
       "volume": "19",
       "source": "Structure",
-      "issue": "",
       "fpage": "1064",
       "lpage": "73",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.str.2011.06.009",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib31": {
@@ -6387,17 +6055,10 @@
       "year": "2008",
       "volume": "5",
       "source": "Nat Methods",
-      "issue": "",
       "fpage": "507",
       "lpage": "16",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib32": {
@@ -6425,17 +6086,11 @@
       "year": "2009",
       "volume": "461",
       "source": "Nature",
-      "issue": "",
       "fpage": "1092",
       "lpage": "97",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nature08442",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib33": {
@@ -6455,17 +6110,10 @@
       "year": "1986",
       "volume": "14",
       "source": "Biochem Soc Trans",
-      "issue": "",
       "fpage": "218",
       "lpage": "20",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib34": {
@@ -6489,17 +6137,11 @@
       "year": "1981",
       "volume": "151",
       "source": "J Mol Biol",
-      "issue": "",
       "fpage": "557",
       "lpage": "64",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/0022-2836(81)90010-3",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib35": {
@@ -6523,17 +6165,9 @@
       "year": "2006",
       "volume": "97",
       "source": "Phys Rev Lett",
-      "issue": "",
       "fpage": "048302",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib36": {
@@ -6569,17 +6203,11 @@
       "year": "2011",
       "volume": "146",
       "source": "Cell",
-      "issue": "",
       "fpage": "222",
       "lpage": "32",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.cell.2011.06.036",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "sub-article": {

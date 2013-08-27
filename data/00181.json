@@ -175,7 +175,6 @@
       "accepted_on": "2012-10-23",
       "published_on": "2012-12-18",
       "journal": "eLife",
-      "article_type": "",
       "keywords": [
         "skin",
         "neuronal morphology",
@@ -190,10 +189,9 @@
         "Developmental biology and stem cells",
         "Neuroscience"
       ],
-      "pdf_link": "",
-      "xml_link": "",
-      "json_link": "",
-      "doi": ""
+      "xml_link": "https://s3.amazonaws.com/elife-cdn/elife-articles/00181/elife00181.xml",
+      "json_link": "https://s3.amazonaws.com/elife-cdn/elife-articles/00181/00181.json",
+      "doi": "http://dx.doi.org/10.7554/eLife.00181"
     },
     "person_author_2043": {
       "type": "person",
@@ -202,9 +200,7 @@
       "last-name": "Wu",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article, Contributed unpublished essential data or reagents",
-      "email": "",
       "funding": [
         "funding_par_1"
       ]
@@ -216,9 +212,7 @@
       "last-name": "Williams",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Acquisition of data, Analysis and interpretation of data",
-      "email": "",
       "funding": []
     },
     "person_author_1147": {
@@ -228,7 +222,6 @@
       "last-name": "Nathans",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article, Contributed unpublished essential data or reagents.",
       "email": "email_cor1",
       "funding": [
@@ -241,36 +234,28 @@
       "id": "institution_aff1",
       "name": "Johns Hopkins University School of Medicine",
       "city": "Baltimore",
-      "country": "United States",
-      "email": "",
-      "image": ""
+      "country": "United States"
     },
     "institution_aff2": {
       "type": "institution",
       "id": "institution_aff2",
       "name": "Johns Hopkins University School of Medicine",
       "city": "Baltimore",
-      "country": "United States",
-      "email": "",
-      "image": ""
+      "country": "United States"
     },
     "institution_aff3": {
       "type": "institution",
       "id": "institution_aff3",
       "name": "Johns Hopkins University School of Medicine",
       "city": "Baltimore",
-      "country": "United States",
-      "email": "",
-      "image": ""
+      "country": "United States"
     },
     "institution_aff4": {
       "type": "institution",
       "id": "institution_aff4",
       "name": "Howard Hughes Medical Institute, Johns Hopkins University School of Medicine",
       "city": "Baltimore",
-      "country": "United States",
-      "email": "",
-      "image": ""
+      "country": "United States"
     },
     "person_1": {
       "type": "person",
@@ -279,9 +264,6 @@
       "last-name": "Pfaff",
       "role": "editor",
       "affiliations": [],
-      "image": "",
-      "contribution": "",
-      "email": "",
       "funding": []
     },
     "info:review": {
@@ -296,7 +278,6 @@
     "email_cor1": {
       "type": "email",
       "id": "email_cor1",
-      "node": "",
       "email": "jnathans@jhmi.edu"
     },
     "info:copyright": {
@@ -443,7 +424,6 @@
       "type": "funding",
       "id": "funding_par_2",
       "institution": "Howard Hughes Medical Institute",
-      "accession": "",
       "person": "person_author_1147",
       "given-names": "Jeremy",
       "last-name": "Nathans"
@@ -452,7 +432,6 @@
       "type": "funding",
       "id": "funding_par_3",
       "institution": "The Brain Sciences Institute of the Johns Hopkins University",
-      "accession": "",
       "person": "person_author_1147",
       "given-names": "Jeremy",
       "last-name": "Nathans"
@@ -468,8 +447,7 @@
     },
     "paragraph_16": {
       "type": "paragraph",
-      "id": "paragraph_16",
-      "content": ""
+      "id": "paragraph_16"
     },
     "heading_s1": {
       "type": "heading",
@@ -1498,19 +1476,12 @@
       "type": "image",
       "id": "image_fig1",
       "label": "Figure 1.",
-      "url": "",
-      "object_id": "F1",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00181/svg/elife00181f001.svg",
       "title": "Genetically-directed sparse labeling of cutaneous sensory afferents.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00181.003",
       "caption": "paragraph_image_fig1",
-      "graphic_id": "elife00181f001"
+      "graphic_id": "elife00181f001",
+      "format": "image"
     },
     "paragraph_image_fig1": {
       "type": "paragraph",
@@ -1599,19 +1570,12 @@
       "type": "image",
       "id": "image_fig1s1",
       "label": "Figure 1—figure supplement 1.",
-      "url": "",
-      "object_id": "F2",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00181/svg/elife00181fs001.svg",
       "title": "Eight skins showing well-separated cutaneous sensory afferent territories at P21.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig1"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00181.004",
       "caption": "paragraph_image_fig1s1",
-      "graphic_id": "elife00181fs001"
+      "graphic_id": "elife00181fs001",
+      "format": "image"
     },
     "paragraph_image_fig1s1": {
       "type": "paragraph",
@@ -1674,19 +1638,12 @@
       "type": "image",
       "id": "image_fig1s2",
       "label": "Figure 1—figure supplement 2.",
-      "url": "",
-      "object_id": "F3",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00181/svg/elife00181fs002.svg",
       "title": "P21 skin with a high density of AP+ cutaneous sensory arbors.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig1"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00181.005",
       "caption": "paragraph_image_fig1s2",
-      "graphic_id": "elife00181fs002"
+      "graphic_id": "elife00181fs002",
+      "format": "image"
     },
     "paragraph_image_fig1s2": {
       "type": "paragraph",
@@ -2002,19 +1959,12 @@
       "type": "image",
       "id": "image_fig2",
       "label": "Figure 2.",
-      "url": "",
-      "object_id": "F4",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00181/svg/elife00181f002.svg",
       "title": "Arbors that innervate Merkel cell clusters (MCA) and isolated follicles (I-FACE and I-FALE).",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00181.006",
       "caption": "paragraph_image_fig2",
-      "graphic_id": "elife00181f002"
+      "graphic_id": "elife00181f002",
+      "format": "image"
     },
     "paragraph_image_fig2": {
       "type": "paragraph",
@@ -2128,19 +2078,12 @@
       "type": "image",
       "id": "image_fig3",
       "label": "Figure 3.",
-      "url": "",
-      "object_id": "F5",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00181/svg/elife00181f003.svg",
       "title": "Arbors with bushy endings (BE).",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00181.007",
       "caption": "paragraph_image_fig3",
-      "graphic_id": "elife00181f003"
+      "graphic_id": "elife00181f003",
+      "format": "image"
     },
     "paragraph_image_fig3": {
       "type": "paragraph",
@@ -2255,19 +2198,12 @@
       "type": "image",
       "id": "image_fig3s1",
       "label": "Figure 3—figure supplement 1.",
-      "url": "",
-      "object_id": "F6",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00181/svg/elife00181fs003.svg",
       "title": "Additional BE arbor tracing.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig3"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00181.008",
       "caption": "paragraph_image_fig3s1",
-      "graphic_id": "elife00181fs003"
+      "graphic_id": "elife00181fs003",
+      "format": "image"
     },
     "paragraph_image_fig3s1": {
       "type": "paragraph",
@@ -2278,19 +2214,12 @@
       "type": "image",
       "id": "image_fig3s2",
       "label": "Figure 3—figure supplement 2.",
-      "url": "",
-      "object_id": "F7",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00181/svg/elife00181fs004.svg",
       "title": "Additional BE arbor tracing.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig3"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00181.009",
       "caption": "paragraph_image_fig3s2",
-      "graphic_id": "elife00181fs004"
+      "graphic_id": "elife00181fs004",
+      "format": "image"
     },
     "paragraph_image_fig3s2": {
       "type": "paragraph",
@@ -2301,19 +2230,12 @@
       "type": "image",
       "id": "image_fig3s3",
       "label": "Figure 3—figure supplement 3.",
-      "url": "",
-      "object_id": "F8",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00181/svg/elife00181fs005.svg",
       "title": "Additional BE arbor tracing.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig3"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00181.010",
       "caption": "paragraph_image_fig3s3",
-      "graphic_id": "elife00181fs005"
+      "graphic_id": "elife00181fs005",
+      "format": "image"
     },
     "paragraph_image_fig3s3": {
       "type": "paragraph",
@@ -2355,19 +2277,12 @@
       "type": "image",
       "id": "image_fig4",
       "label": "Figure 4.",
-      "url": "",
-      "object_id": "F9",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00181/svg/elife00181f004.svg",
       "title": "Arbors with low density follicle-associated lanceolate endings (LD-FALE), small area follicle-associated circumferential endings (SA-FACE), and thick endings (TE).",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00181.011",
       "caption": "paragraph_image_fig4",
-      "graphic_id": "elife00181f004"
+      "graphic_id": "elife00181f004",
+      "format": "image"
     },
     "paragraph_image_fig4": {
       "type": "paragraph",
@@ -2811,19 +2726,12 @@
       "type": "image",
       "id": "image_fig5",
       "label": "Figure 5.",
-      "url": "",
-      "object_id": "F10",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00181/svg/elife00181f005.svg",
       "title": "Arbors with high density follicle-associated lanceolate endings (HD-FALE).",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00181.012",
       "caption": "paragraph_image_fig5",
-      "graphic_id": "elife00181f005"
+      "graphic_id": "elife00181f005",
+      "format": "image"
     },
     "paragraph_image_fig5": {
       "type": "paragraph",
@@ -2950,19 +2858,12 @@
       "type": "image",
       "id": "image_fig6",
       "label": "Figure 6.",
-      "url": "",
-      "object_id": "F11",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00181/svg/elife00181f006.svg",
       "title": "Arbors with large area follicle-associated circumferential endings (LA-FACE).",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00181.013",
       "caption": "paragraph_image_fig6",
-      "graphic_id": "elife00181f006"
+      "graphic_id": "elife00181f006",
+      "format": "image"
     },
     "paragraph_image_fig6": {
       "type": "paragraph",
@@ -3154,19 +3055,12 @@
       "type": "image",
       "id": "image_fig7",
       "label": "Figure 7.",
-      "url": "",
-      "object_id": "F12",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00181/svg/elife00181f007.svg",
       "title": "Arbors with large areas and free endings (LA-FE).",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00181.014",
       "caption": "paragraph_image_fig7",
-      "graphic_id": "elife00181f007"
+      "graphic_id": "elife00181f007",
+      "format": "image"
     },
     "paragraph_image_fig7": {
       "type": "paragraph",
@@ -3229,19 +3123,12 @@
       "type": "image",
       "id": "image_fig7s1",
       "label": "Figure 7—figure supplement 1.",
-      "url": "",
-      "object_id": "F13",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00181/svg/elife00181fs006.svg",
       "title": "Additional LA-FE arbor tracing.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig7"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00181.015",
       "caption": "paragraph_image_fig7s1",
-      "graphic_id": "elife00181fs006"
+      "graphic_id": "elife00181fs006",
+      "format": "image"
     },
     "paragraph_image_fig7s1": {
       "type": "paragraph",
@@ -3252,19 +3139,12 @@
       "type": "image",
       "id": "image_fig7s2",
       "label": "Figure 7—figure supplement 2.",
-      "url": "",
-      "object_id": "F14",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00181/svg/elife00181fs007.svg",
       "title": "Additional LA-FE arbor tracing.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig7"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00181.016",
       "caption": "paragraph_image_fig7s2",
-      "graphic_id": "elife00181fs007"
+      "graphic_id": "elife00181fs007",
+      "format": "image"
     },
     "paragraph_image_fig7s2": {
       "type": "paragraph",
@@ -3300,19 +3180,12 @@
       "type": "image",
       "id": "image_fig8",
       "label": "Figure 8.",
-      "url": "",
-      "object_id": "F15",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00181/svg/elife00181f008.svg",
       "title": "Parametric analysis of arbor area, arbor depth, axon length, and number of follicles innervated across arbor classes.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00181.017",
       "caption": "paragraph_image_fig8",
-      "graphic_id": "elife00181f008"
+      "graphic_id": "elife00181f008",
+      "format": "image"
     },
     "paragraph_image_fig8": {
       "type": "paragraph",
@@ -3440,19 +3313,12 @@
       "type": "image",
       "id": "image_fig8s1",
       "label": "Figure 8—figure supplement 1.",
-      "url": "",
-      "object_id": "F16",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00181/svg/elife00181fs008.svg",
       "title": "Differential interference contrast images of parts of BE, LA-FE, LA-FACE, and HD-FALE arbors at different Z-planes.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig8"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00181.018",
       "caption": "paragraph_image_fig8s1",
-      "graphic_id": "elife00181fs008"
+      "graphic_id": "elife00181fs008",
+      "format": "image"
     },
     "paragraph_image_fig8s1": {
       "type": "paragraph",
@@ -4596,17 +4462,10 @@
       "year": "2006",
       "volume": "119",
       "source": "J Cell Sci",
-      "issue": "",
       "fpage": "391",
       "lpage": "3",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib2": {
@@ -4622,17 +4481,10 @@
       "year": "2010",
       "volume": "588",
       "source": "J Physiol",
-      "issue": "",
       "fpage": "117",
       "lpage": "24",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib3": {
@@ -4656,17 +4508,10 @@
       "year": "2003",
       "volume": "23",
       "source": "J Neurosci",
-      "issue": "",
       "fpage": "2314",
       "lpage": "22",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib4": {
@@ -4686,17 +4531,10 @@
       "year": "2004",
       "volume": "480",
       "source": "J Comp Neurol",
-      "issue": "",
       "fpage": "331",
       "lpage": "51",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib5": {
@@ -4728,17 +4566,10 @@
       "year": "2009",
       "volume": "61",
       "source": "Neuron",
-      "issue": "",
       "fpage": "852",
       "lpage": "64",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib6": {
@@ -4774,17 +4605,10 @@
       "year": "2012",
       "volume": "32",
       "source": "J Neurosci",
-      "issue": "",
       "fpage": "995",
       "lpage": "1007",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib7": {
@@ -4812,17 +4636,10 @@
       "year": "2009",
       "volume": "139",
       "source": "Cell",
-      "issue": "",
       "fpage": "267",
       "lpage": "84",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib8": {
@@ -4846,17 +4663,10 @@
       "year": "2011",
       "volume": "471",
       "source": "Nature",
-      "issue": "",
       "fpage": "183",
       "lpage": "8",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib9": {
@@ -4884,17 +4694,10 @@
       "year": "1994",
       "volume": "185",
       "source": "J Anat",
-      "issue": "",
       "fpage": "553",
       "lpage": "63",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib10": {
@@ -4922,17 +4725,10 @@
       "year": "2004",
       "volume": "131",
       "source": "Development",
-      "issue": "",
       "fpage": "3859",
       "lpage": "70",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib11": {
@@ -4956,17 +4752,10 @@
       "year": "1924",
       "volume": "70",
       "source": "Am J Physiol",
-      "issue": "",
       "fpage": "624",
       "lpage": "66",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib12": {
@@ -4986,17 +4775,10 @@
       "year": "1995",
       "volume": "53",
       "source": "Mech Dev",
-      "issue": "",
       "fpage": "291",
       "lpage": "304",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib13": {
@@ -5032,17 +4814,10 @@
       "year": "1997",
       "volume": "385",
       "source": "J Comp Neurol",
-      "issue": "",
       "fpage": "185",
       "lpage": "206",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib14": {
@@ -5058,17 +4833,10 @@
       "year": "2011",
       "volume": "71",
       "source": "Dev Neurobiol",
-      "issue": "",
       "fpage": "201",
       "lpage": "20",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib15": {
@@ -5088,17 +4856,10 @@
       "year": "1927",
       "volume": "80",
       "source": "Am J Physiol",
-      "issue": "",
       "fpage": "522",
       "lpage": "47",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib16": {
@@ -5118,17 +4879,10 @@
       "year": "1929",
       "volume": "88",
       "source": "Am J Physiol",
-      "issue": "",
       "fpage": "581",
       "lpage": "91",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib17": {
@@ -5142,19 +4896,13 @@
       ],
       "title": "Cutaneous sensory mechanisms",
       "year": "1982",
-      "volume": "",
       "source": "The senses",
-      "issue": "",
       "fpage": "369",
       "lpage": "408",
-      "collab": "",
-      "edition": "",
       "publisher-name": "Cambridge University Press",
       "publisher-loc": "Cambridge:",
-      "doi": "",
       "citation_url": [],
       "format": "book",
-      "label": "",
       "editors": [
         {
           "given-names": "HB",
@@ -5183,17 +4931,10 @@
       "year": "1982",
       "volume": "5",
       "source": "Ann Rev Neurosci",
-      "issue": "",
       "fpage": "1",
       "lpage": "31",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib19": {
@@ -5213,17 +4954,10 @@
       "year": "2010",
       "volume": "11",
       "source": "Nat Rev Neurosci",
-      "issue": "",
       "fpage": "316",
       "lpage": "28",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib20": {
@@ -5251,17 +4985,10 @@
       "year": "1988",
       "volume": "72",
       "source": "Exp Brain Res",
-      "issue": "",
       "fpage": "204",
       "lpage": "8",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib21": {
@@ -5289,17 +5016,10 @@
       "year": "2005",
       "volume": "489",
       "source": "J, Comp. Neurol",
-      "issue": "",
       "fpage": "293",
       "lpage": "310",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib22": {
@@ -5335,17 +5055,10 @@
       "year": "2011",
       "volume": "147",
       "source": "Cell",
-      "issue": "",
       "fpage": "1615",
       "lpage": "27",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib23": {
@@ -5365,17 +5078,10 @@
       "year": "2006",
       "volume": "499",
       "source": "J Comp Neurol",
-      "issue": "",
       "fpage": "797",
       "lpage": "809",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib24": {
@@ -5411,17 +5117,10 @@
       "year": "2007",
       "volume": "10",
       "source": "Nat Neurosci",
-      "issue": "",
       "fpage": "946",
       "lpage": "8",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib25": {
@@ -5457,17 +5156,10 @@
       "year": "2009",
       "volume": "139",
       "source": "Cell",
-      "issue": "",
       "fpage": "1353",
       "lpage": "65",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib26": {
@@ -5499,17 +5191,10 @@
       "year": "2009",
       "volume": "12",
       "source": "Nat Neurosci",
-      "issue": "",
       "fpage": "547",
       "lpage": "8",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib27": {
@@ -5537,17 +5222,9 @@
       "year": "2009",
       "volume": "7",
       "source": "PLoS Biol",
-      "issue": "",
       "fpage": "e32",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib28": {
@@ -5567,17 +5244,10 @@
       "year": "2007",
       "volume": "8",
       "source": "Nat Rev Neurosci",
-      "issue": "",
       "fpage": "114",
       "lpage": "27",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib29": {
@@ -5593,17 +5263,10 @@
       "year": "2001",
       "volume": "4",
       "source": "Nat Neurosci",
-      "issue": "",
       "fpage": "877",
       "lpage": "86",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib30": {
@@ -5619,17 +5282,11 @@
       "year": "2011",
       "volume": "52",
       "source": "Invest Ophthalmol Vis Sci",
-      "issue": "",
       "fpage": "4581",
       "lpage": "91",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1167/iovs.10-7083",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib31": {
@@ -5665,17 +5322,10 @@
       "year": "2001",
       "volume": "117",
       "source": "J Invest Dermatol",
-      "issue": "",
       "fpage": "3",
       "lpage": "15",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib32": {
@@ -5699,17 +5349,10 @@
       "year": "1999",
       "volume": "48",
       "source": "Brain Res Bull",
-      "issue": "",
       "fpage": "457",
       "lpage": "65",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib33": {
@@ -5729,17 +5372,10 @@
       "year": "2011",
       "volume": "21",
       "source": "Curr Opin Genet Dev",
-      "issue": "",
       "fpage": "240",
       "lpage": "8",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib34": {
@@ -5759,17 +5395,10 @@
       "year": "1983",
       "volume": "23",
       "source": "Brain Behav Evol",
-      "issue": "",
       "fpage": "121",
       "lpage": "64",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib35": {
@@ -5797,17 +5426,9 @@
       "year": "2008",
       "volume": "3",
       "source": "PLoS One",
-      "issue": "",
       "fpage": "e4099",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib36": {
@@ -5831,17 +5452,10 @@
       "year": "2002",
       "volume": "451",
       "source": "J Comp Neurol",
-      "issue": "",
       "fpage": "115",
       "lpage": "26",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib37": {
@@ -5857,17 +5471,10 @@
       "year": "2000",
       "volume": "426",
       "source": "J Comp Neurol",
-      "issue": "",
       "fpage": "259",
       "lpage": "69",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib38": {
@@ -5891,17 +5498,10 @@
       "year": "2008",
       "volume": "509",
       "source": "J Comp Neurol",
-      "issue": "",
       "fpage": "493",
       "lpage": "513",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib39": {
@@ -5933,17 +5533,10 @@
       "year": "2003",
       "volume": "130",
       "source": "Development",
-      "issue": "",
       "fpage": "111",
       "lpage": "21",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib40": {
@@ -5963,17 +5556,10 @@
       "year": "2012",
       "volume": "10",
       "source": "PLoS Biol",
-      "issue": "",
       "fpage": "e1001352",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1371/journal.pbio.1001352",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib41": {
@@ -5993,17 +5579,10 @@
       "year": "1984",
       "volume": "3",
       "source": "Hum Neurobiol",
-      "issue": "",
       "fpage": "3",
       "lpage": "14",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib42": {
@@ -6031,17 +5610,10 @@
       "year": "1984",
       "volume": "107",
       "source": "Brain",
-      "issue": "",
       "fpage": "727",
       "lpage": "49",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib43": {
@@ -6065,17 +5637,11 @@
       "year": "2012",
       "volume": "13",
       "source": "Nat Rev Neurosci",
-      "issue": "",
       "fpage": "194",
       "lpage": "208",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nrn3165",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib44": {
@@ -6099,17 +5665,10 @@
       "year": "2010",
       "volume": "137",
       "source": "Development",
-      "issue": "",
       "fpage": "4091",
       "lpage": "9",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib45": {
@@ -6133,17 +5692,10 @@
       "year": "2001",
       "volume": "436",
       "source": "J Comp Neurol",
-      "issue": "",
       "fpage": "304",
       "lpage": "323",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib46": {
@@ -6163,17 +5715,10 @@
       "year": "2007",
       "volume": "505",
       "source": "J Comp Neurol",
-      "issue": "",
       "fpage": "547",
       "lpage": "61",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib47": {
@@ -6205,17 +5750,10 @@
       "year": "1996",
       "volume": "93",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "11950",
       "lpage": "5",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib48": {
@@ -6239,17 +5777,10 @@
       "year": "2005",
       "volume": "45",
       "source": "Neuron",
-      "issue": "",
       "fpage": "17",
       "lpage": "25",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "sub-article": {

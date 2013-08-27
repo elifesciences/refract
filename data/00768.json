@@ -158,7 +158,6 @@
       "accepted_on": "2013-06-20",
       "published_on": "2013-07-30",
       "journal": "elife",
-      "article_type": "",
       "keywords": [
         "stem cells",
         "neoblasts",
@@ -172,10 +171,9 @@
         "Developmental biology and stem cells",
         "Microbiology and infectious disease"
       ],
-      "pdf_link": "",
-      "xml_link": "",
-      "json_link": "",
-      "doi": ""
+      "xml_link": "https://s3.amazonaws.com/elife-cdn/elife-articles/00768/elife00768.xml",
+      "json_link": "https://s3.amazonaws.com/elife-cdn/elife-articles/00768/00768.json",
+      "doi": "http://dx.doi.org/10.7554/eLife.00768"
     },
     "annotation_1": {
       "type": "emphasis",
@@ -197,9 +195,7 @@
       "last-name": "Wang",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article",
-      "email": "",
       "funding": []
     },
     "person_author_4744": {
@@ -209,9 +205,7 @@
       "last-name": "Collins",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article",
-      "email": "",
       "funding": []
     },
     "person_author_4633": {
@@ -221,7 +215,6 @@
       "last-name": "Newmark",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Analysis and interpretation of data, Drafting or revising the article",
       "email": "email_cor1",
       "funding": [
@@ -234,27 +227,21 @@
       "id": "institution_aff1",
       "name": "Howard Hughes Medical Institute, University of Illinois at Urbana-Champaign",
       "city": "Urbana",
-      "country": "United States",
-      "email": "",
-      "image": ""
+      "country": "United States"
     },
     "institution_aff2": {
       "type": "institution",
       "id": "institution_aff2",
       "name": "University of Illinois at Urbana-Champaign",
       "city": "Urbana",
-      "country": "United States",
-      "email": "",
-      "image": ""
+      "country": "United States"
     },
     "institution_aff3": {
       "type": "institution",
       "id": "institution_aff3",
       "name": "University of Illinois at Urbana-Champaign",
       "city": "Urbana",
-      "country": "United States",
-      "email": "",
-      "image": ""
+      "country": "United States"
     },
     "person_2": {
       "type": "person",
@@ -263,9 +250,6 @@
       "last-name": "Sánchez Alvarado",
       "role": "editor",
       "affiliations": [],
-      "image": "",
-      "contribution": "",
-      "email": "",
       "funding": []
     },
     "info:review": {
@@ -280,7 +264,6 @@
     "email_cor1": {
       "type": "email",
       "id": "email_cor1",
-      "node": "",
       "email": "pnewmark@life.illinois.edu"
     },
     "info:copyright": {
@@ -500,8 +483,7 @@
     },
     "paragraph_22": {
       "type": "paragraph",
-      "id": "paragraph_22",
-      "content": ""
+      "id": "paragraph_22"
     },
     "heading_s1": {
       "type": "heading",
@@ -675,19 +657,12 @@
       "type": "image",
       "id": "image_fig1",
       "label": "Figure 1.",
-      "url": "",
-      "object_id": "F1",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00768/svg/elife00768f001.svg",
       "title": "Germinal cells are detected throughout the asexual phase of the S. mansoni life cycle.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00768.003",
       "caption": "paragraph_image_fig1",
-      "graphic_id": "elife00768f001"
+      "graphic_id": "elife00768f001",
+      "format": "image"
     },
     "paragraph_image_fig1": {
       "type": "paragraph",
@@ -1433,19 +1408,12 @@
       "type": "image",
       "id": "image_fig2",
       "label": "Figure 2.",
-      "url": "",
-      "object_id": "F2",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00768/svg/elife00768f002.svg",
       "title": "Life-cycle stage-specific transcriptional profiling to characterize germinal cell gene expression.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00768.004",
       "caption": "paragraph_image_fig2",
-      "graphic_id": "elife00768f002"
+      "graphic_id": "elife00768f002",
+      "format": "image"
     },
     "paragraph_image_fig2": {
       "type": "paragraph",
@@ -1586,19 +1554,12 @@
       "type": "image",
       "id": "image_fig2s1",
       "label": "Figure 2—figure supplement 1.",
-      "url": "",
-      "object_id": "F3",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00768/svg/elife00768fs001.svg",
       "title": "Transcriptional profiling reveals genome-wide similarity between schistosome germinal cells and planarian neoblasts.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig2"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00768.005",
       "caption": "paragraph_image_fig2s1",
-      "graphic_id": "elife00768fs001"
+      "graphic_id": "elife00768fs001",
+      "format": "image"
     },
     "paragraph_image_fig2s1": {
       "type": "paragraph",
@@ -2373,11 +2334,9 @@
       "id": "table_tbl1",
       "label": "Table 1.",
       "content": "<table><thead><tr><th>Gene name</th><th>RPKM (miracidia)</th><th>RPKM (sporocysts)</th><th>Fold change</th></tr></thead><tbody><tr><td><strong><em>vasa-like</em></strong> <em>(vlg,</em> <strong>Smp_068440</strong>, 154320, 033710)</td><td>20.6/46.1/272.4</td><td>98.5/79.2/423.1</td><td>4.8/1.7/1.6</td></tr><tr><td><strong><em>polo kinase</em></strong> <strong>(Smp_009600)</strong></td><td>43.0</td><td>149.5</td><td>3.5</td></tr><tr><td><strong><em>fgfr</em></strong> (<strong>Smp_175590</strong>, 157300)</td><td>3.5/3.0</td><td>10.2/6.4</td><td>2.9/2.1</td></tr><tr><td> <em>sz12</em> (Smp_047720)</td><td>5.6</td><td>16.0</td><td>2.8</td></tr><tr><td> <em>bruli</em> (Smp_041350)</td><td>5.5</td><td>15.3</td><td>2.8</td></tr><tr><td> <em>Sedt8</em> (Smp_055310)</td><td>1.9</td><td>4.8</td><td>2.6</td></tr><tr><td> <em>egr</em> (Smp_094930)</td><td>3.0</td><td>7.4</td><td>2.5</td></tr><tr><td><strong><em>cyclin B</em></strong> <strong>(Smp_082490)</strong></td><td>79.7</td><td>194.0</td><td>2.4</td></tr><tr><td> <em>nlk</em> (Smp_074080)</td><td>7.5</td><td>18.0</td><td>2.4</td></tr><tr><td><strong><em>ago2-1</em></strong> <strong>(Smp_179320)</strong></td><td>258.9</td><td>537.5</td><td>2.1</td></tr><tr><td><strong><em>PCNA</em></strong> <strong>(Smp_046500)</strong></td><td>194.0</td><td>395.0</td><td>2.0</td></tr><tr><td> <em>inx</em> (Smp_141290)</td><td>102.6</td><td>203.7</td><td>2.0</td></tr><tr><td> <em>ezh</em> (Smp_078900)</td><td>8.1</td><td>15.5</td><td>1.9</td></tr><tr><td><em>PHB</em> (Smp_075210, 075940)</td><td>222.0/197.7</td><td>421.0/290.8</td><td>1.9/1.5</td></tr><tr><td> <em>pp32a</em> (Smp_010940)</td><td>641.7</td><td>1176.3</td><td>1.8</td></tr><tr><td> <strong><em>H2A</em></strong> <strong>(Smp_086860)</strong></td><td>240.3</td><td>437.1</td><td>1.8</td></tr><tr><td> <em>THOC</em> (Smp_005260)</td><td>219.6</td><td>397.3</td><td>1.8</td></tr><tr><td><em>egfr</em> (Smp_093930, 165470)</td><td>6.8/7.0</td><td>12.1/10.0</td><td>1.8/1.4</td></tr><tr><td> <em>CHD</em> (Smp_158050)</td><td>39.6</td><td>68.6</td><td>1.7</td></tr><tr><td><em>tudor-like</em> (Smp_081570)</td><td>222.8</td><td>367.8</td><td>1.7</td></tr><tr><td> <strong><em>H2B</em></strong> <strong>(Smp_108390)</strong></td><td>124.6</td><td>206.5</td><td>1.7</td></tr><tr><td> <em>ef-tu</em> (Smp_073500)</td><td>151.6</td><td>243.6</td><td>1.6</td></tr><tr><td> <em>HSP60</em> (Smp_008545)</td><td>2051.5</td><td>3224.7</td><td>1.6</td></tr><tr><td> <em>fhl</em> (Smp_048560)</td><td>2.0</td><td>3.1</td><td>1.5</td></tr><tr><td> <em>eed</em> (Smp_165220)</td><td>32.7</td><td>46.3</td><td>1.4</td></tr><tr><td> <em>junl</em> (Smp_067520)</td><td>5.5</td><td>7.7</td><td>1.4</td></tr></tbody></table>",
-      "title": "",
       "footers": [],
       "doi": "http://dx.doi.org/10.7554/eLife.00768.006",
-      "caption": "paragraph_table_tbl1",
-      "format": ""
+      "caption": "paragraph_table_tbl1"
     },
     "paragraph_table_tbl1": {
       "type": "paragraph",
@@ -2387,8 +2346,7 @@
     "footer_164": {
       "type": "footer",
       "id": "footer_164",
-      "content": "Expression of genes in bold is confirmed in this study with qPCR or FISH.",
-      "label": ""
+      "content": "Expression of genes in bold is confirmed in this study with qPCR or FISH."
     },
     "heading_s2-4": {
       "type": "heading",
@@ -2931,19 +2889,12 @@
       "type": "image",
       "id": "image_fig3",
       "label": "Figure 3.",
-      "url": "",
-      "object_id": "F4",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00768/svg/elife00768f003.svg",
       "title": "ago2-1 and vlg-3 are expressed in proliferative germinal cells.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00768.007",
       "caption": "paragraph_image_fig3",
-      "graphic_id": "elife00768f003"
+      "graphic_id": "elife00768f003",
+      "format": "image"
     },
     "paragraph_image_fig3": {
       "type": "paragraph",
@@ -3136,19 +3087,12 @@
       "type": "image",
       "id": "image_fig3s1",
       "label": "Figure 3—figure supplement 1.",
-      "url": "",
-      "object_id": "F5",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00768/svg/elife00768fs002.svg",
       "title": "SmAGO2-1 is homologous to PIWI and AGO2 proteins, and SmNANOS2 is homologous to NANOS proteins.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig3"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00768.008",
       "caption": "paragraph_image_fig3s1",
-      "graphic_id": "elife00768fs002"
+      "graphic_id": "elife00768fs002",
+      "format": "image"
     },
     "paragraph_image_fig3s1": {
       "type": "paragraph",
@@ -4191,19 +4135,12 @@
       "type": "image",
       "id": "image_fig4",
       "label": "Figure 4.",
-      "url": "",
-      "object_id": "F6",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00768/svg/elife00768f004.svg",
       "title": "ago2-1, vlg-3, and nanos-2 expression identifies heterogeneity in the germinal cell population.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00768.009",
       "caption": "paragraph_image_fig4",
-      "graphic_id": "elife00768f004"
+      "graphic_id": "elife00768f004",
+      "format": "image"
     },
     "paragraph_image_fig4": {
       "type": "paragraph",
@@ -5162,19 +5099,12 @@
       "type": "image",
       "id": "image_fig5",
       "label": "Figure 5.",
-      "url": "",
-      "object_id": "F7",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00768/svg/elife00768f005.svg",
       "title": "vlg-3 and ago2-1 are required for germinal cell maintenance and proliferation.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00768.010",
       "caption": "paragraph_image_fig5",
-      "graphic_id": "elife00768f005"
+      "graphic_id": "elife00768f005",
+      "format": "image"
     },
     "paragraph_image_fig5": {
       "type": "paragraph",
@@ -5795,19 +5725,12 @@
       "type": "image",
       "id": "image_fig6",
       "label": "Figure 6.",
-      "url": "",
-      "object_id": "F8",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00768/svg/elife00768f006.svg",
       "title": "fgfrA is required for germinal cell proliferation.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00768.011",
       "caption": "paragraph_image_fig6",
-      "graphic_id": "elife00768f006"
+      "graphic_id": "elife00768f006",
+      "format": "image"
     },
     "paragraph_image_fig6": {
       "type": "paragraph",
@@ -7092,12 +7015,11 @@
       "type": "supplement",
       "id": "supplement_SD1_data",
       "label": "Supplementary file 1.",
-      "source": "",
-      "title": "",
       "caption": "paragraph_supplement_SD1_data",
-      "content": "",
       "doi": "http://dx.doi.org/10.7554/eLife.00768.012",
-      "graphic_id": "elife00768s001.xlsx"
+      "files": [
+        "file_526"
+      ]
     },
     "paragraph_supplement_SD1_data": {
       "type": "paragraph",
@@ -7182,6 +7104,14 @@
         406
       ]
     },
+    "file_526": {
+      "type": "file",
+      "id": "file_526",
+      "name": "XLSX",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00768/suppl/elife00768s001.xlsx",
+      "graphic_id": "elife00768s001.xlsx",
+      "extension": ".xlsx"
+    },
     "info:dataset": {
       "type": "heading",
       "id": "info:dataset",
@@ -7215,22 +7145,16 @@
       "year": "1981",
       "volume": "67",
       "source": "J Parasitol",
-      "issue": "",
       "fpage": "179",
       "lpage": "85",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.2307/3280632",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_526": {
+    "annotation_527": {
       "type": "emphasis",
-      "id": "annotation_526",
+      "id": "annotation_527",
       "path": [
         "article_citation_bib1",
         "title"
@@ -7258,22 +7182,16 @@
       "year": "1974",
       "volume": "60",
       "source": "J Parasitol",
-      "issue": "",
       "fpage": "935",
       "lpage": "41",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.2307/3278518",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_527": {
+    "annotation_528": {
       "type": "emphasis",
-      "id": "annotation_527",
+      "id": "annotation_528",
       "path": [
         "article_citation_bib2",
         "title"
@@ -7284,9 +7202,9 @@
         58
       ]
     },
-    "annotation_528": {
+    "annotation_529": {
       "type": "emphasis",
-      "id": "annotation_528",
+      "id": "annotation_529",
       "path": [
         "article_citation_bib2",
         "title"
@@ -7330,22 +7248,16 @@
       "year": "2009",
       "volume": "460",
       "source": "Nature",
-      "issue": "",
       "fpage": "352",
       "lpage": "8",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nature08160",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_529": {
+    "annotation_530": {
       "type": "emphasis",
-      "id": "annotation_529",
+      "id": "annotation_530",
       "path": [
         "article_citation_bib3",
         "title"
@@ -7389,22 +7301,16 @@
       "year": "2001",
       "volume": "87",
       "source": "J Parasitol",
-      "issue": "",
       "fpage": "1167",
       "lpage": "8",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1645/0022-3395(2001)087[1167:ACOSMS]2.0.CO;2",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_530": {
+    "annotation_531": {
       "type": "emphasis",
-      "id": "annotation_530",
+      "id": "annotation_531",
       "path": [
         "article_citation_bib4",
         "title"
@@ -7415,9 +7321,9 @@
         37
       ]
     },
-    "annotation_531": {
+    "annotation_532": {
       "type": "subscript",
-      "id": "annotation_531",
+      "id": "annotation_532",
       "path": [
         "article_citation_bib4",
         "title"
@@ -7453,22 +7359,16 @@
       "year": "2003",
       "volume": "128",
       "source": "Mol Biochem Parasitol",
-      "issue": "",
       "fpage": "205",
       "lpage": "15",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/S0166-6851(03)00078-1",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_532": {
+    "annotation_533": {
       "type": "emphasis",
-      "id": "annotation_532",
+      "id": "annotation_533",
       "path": [
         "article_citation_bib5",
         "title"
@@ -7496,22 +7396,16 @@
       "year": "1972",
       "volume": "64",
       "source": "Parasitology",
-      "issue": "",
       "fpage": "129",
       "lpage": "41",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1017/S003118200004470X",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_533": {
+    "annotation_534": {
       "type": "emphasis",
-      "id": "annotation_533",
+      "id": "annotation_534",
       "path": [
         "article_citation_bib6",
         "title"
@@ -7535,22 +7429,16 @@
       "year": "1963",
       "volume": "49",
       "source": "J Parasitol",
-      "issue": "",
       "fpage": "353",
       "lpage": "64",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.2307/3275797",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_534": {
+    "annotation_535": {
       "type": "emphasis",
-      "id": "annotation_534",
+      "id": "annotation_535",
       "path": [
         "article_citation_bib7",
         "title"
@@ -7561,9 +7449,9 @@
         41
       ]
     },
-    "annotation_535": {
+    "annotation_536": {
       "type": "emphasis",
-      "id": "annotation_535",
+      "id": "annotation_536",
       "path": [
         "article_citation_bib7",
         "title"
@@ -7587,17 +7475,11 @@
       "year": "1974",
       "volume": "4",
       "source": "Int J Parasitol",
-      "issue": "",
       "fpage": "115",
       "lpage": "23",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/0020-7519(74)90093-9",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib9": {
@@ -7633,17 +7515,10 @@
       "year": "2010",
       "volume": "8",
       "source": "PLOS Biol",
-      "issue": "",
       "fpage": "e1000509",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1371/journal.pbio.1000509",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib10": {
@@ -7675,22 +7550,15 @@
       "year": "2011",
       "volume": "5",
       "source": "PLOS Negl Trop Dis",
-      "issue": "",
       "fpage": "e1009",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1371/journal.pntd.0001009",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_536": {
+    "annotation_537": {
       "type": "emphasis",
-      "id": "annotation_536",
+      "id": "annotation_537",
       "path": [
         "article_citation_bib10",
         "title"
@@ -7734,22 +7602,16 @@
       "year": "2013",
       "volume": "494",
       "source": "Nature",
-      "issue": "",
       "fpage": "476",
       "lpage": "9",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nature11924",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_537": {
+    "annotation_538": {
       "type": "emphasis",
-      "id": "annotation_537",
+      "id": "annotation_538",
       "path": [
         "article_citation_bib11",
         "title"
@@ -7781,17 +7643,11 @@
       "year": "1954",
       "volume": "26",
       "source": "Exp Parasitol",
-      "issue": "",
       "fpage": "1217",
       "lpage": "25",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/0014-4894(54)90008-9",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib13": {
@@ -7827,22 +7683,15 @@
       "year": "2010",
       "volume": "4",
       "source": "PLOS Negl Trop Dis",
-      "issue": "",
       "fpage": "e804",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1371/journal.pntd.0000804",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_538": {
+    "annotation_539": {
       "type": "emphasis",
-      "id": "annotation_538",
+      "id": "annotation_539",
       "path": [
         "article_citation_bib13",
         "title"
@@ -7878,22 +7727,16 @@
       "year": "2002",
       "volume": "33",
       "source": "Micron",
-      "issue": "",
       "fpage": "279",
       "lpage": "323",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/S0968-4328(01)00019-1",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_539": {
+    "annotation_540": {
       "type": "emphasis",
-      "id": "annotation_539",
+      "id": "annotation_540",
       "path": [
         "article_citation_bib14",
         "title"
@@ -7937,22 +7780,16 @@
       "year": "2010",
       "volume": "170",
       "source": "Mol Biochem Parasitol",
-      "issue": "",
       "fpage": "37",
       "lpage": "40",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.molbiopara.2009.11.001",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_540": {
+    "annotation_541": {
       "type": "emphasis",
-      "id": "annotation_540",
+      "id": "annotation_541",
       "path": [
         "article_citation_bib15",
         "title"
@@ -7978,19 +7815,10 @@
       ],
       "title": "The biology and evolution of trematodes",
       "year": "2003",
-      "volume": "",
-      "source": "",
-      "issue": "",
-      "fpage": "",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
       "publisher-name": "Kluwer Academic Publishers.",
       "publisher-loc": "Dordrecht, The Netherlands",
-      "doi": "",
       "citation_url": [],
       "format": "book",
-      "label": "",
       "editors": []
     },
     "article_citation_bib17": {
@@ -8026,22 +7854,16 @@
       "year": "2009",
       "volume": "58",
       "source": "Parasitol Int",
-      "issue": "",
       "fpage": "61",
       "lpage": "8",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.parint.2008.10.002",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_541": {
+    "annotation_542": {
       "type": "emphasis",
-      "id": "annotation_541",
+      "id": "annotation_542",
       "path": [
         "article_citation_bib17",
         "title"
@@ -8073,22 +7895,16 @@
       "year": "2006",
       "volume": "11",
       "source": "Dev Cell",
-      "issue": "",
       "fpage": "159",
       "lpage": "69",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.devcel.2006.06.004",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_542": {
+    "annotation_543": {
       "type": "emphasis",
-      "id": "annotation_542",
+      "id": "annotation_543",
       "path": [
         "article_citation_bib18",
         "title"
@@ -8132,17 +7948,11 @@
       "year": "2011",
       "volume": "14",
       "source": "Nat Neurosci",
-      "issue": "",
       "fpage": "1481",
       "lpage": "8",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nn.2928",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib20": {
@@ -8178,22 +7988,16 @@
       "year": "1999",
       "volume": "96",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "4965",
       "lpage": "70",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1073/pnas.96.9.4965",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_543": {
+    "annotation_544": {
       "type": "emphasis",
-      "id": "annotation_543",
+      "id": "annotation_544",
       "path": [
         "article_citation_bib20",
         "title"
@@ -8221,22 +8025,16 @@
       "year": "1980",
       "volume": "50",
       "source": "Exp Parasitol",
-      "issue": "",
       "fpage": "349",
       "lpage": "57",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/0014-4894(80)90038-7",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_544": {
+    "annotation_545": {
       "type": "emphasis",
-      "id": "annotation_544",
+      "id": "annotation_545",
       "path": [
         "article_citation_bib21",
         "title"
@@ -8268,17 +8066,11 @@
       "year": "2010",
       "volume": "137",
       "source": "Development",
-      "issue": "",
       "fpage": "4113",
       "lpage": "26",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1242/dev.047949",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib23": {
@@ -8306,22 +8098,16 @@
       "year": "1989",
       "volume": "75",
       "source": "Parasitol Res",
-      "issue": "",
       "fpage": "368",
       "lpage": "74",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1007/BF00931132",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_545": {
+    "annotation_546": {
       "type": "superscript",
-      "id": "annotation_545",
+      "id": "annotation_546",
       "path": [
         "article_citation_bib23",
         "title"
@@ -8332,9 +8118,9 @@
         31
       ]
     },
-    "annotation_546": {
+    "annotation_547": {
       "type": "emphasis",
-      "id": "annotation_546",
+      "id": "annotation_547",
       "path": [
         "article_citation_bib23",
         "title"
@@ -8362,22 +8148,15 @@
       "year": "2013",
       "volume": "13",
       "source": "BMC Dev Biol",
-      "issue": "",
       "fpage": "8",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1186/1471-213X-13-8",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_547": {
+    "annotation_548": {
       "type": "emphasis",
-      "id": "annotation_547",
+      "id": "annotation_548",
       "path": [
         "article_citation_bib24",
         "title"
@@ -8405,17 +8184,11 @@
       "year": "2010",
       "volume": "137",
       "source": "Development",
-      "issue": "",
       "fpage": "3351",
       "lpage": "60",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1242/dev.050146",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib26": {
@@ -8443,17 +8216,11 @@
       "year": "2012",
       "volume": "14",
       "source": "Nat Cell Biol",
-      "issue": "",
       "fpage": "1114",
       "lpage": "21",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/ncb2613",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib27": {
@@ -8489,17 +8256,11 @@
       "year": "2011",
       "volume": "21",
       "source": "Cell Res",
-      "issue": "",
       "fpage": "1750",
       "lpage": "4",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/cr.2011.151",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib28": {
@@ -8527,22 +8288,16 @@
       "year": "2009",
       "volume": "39",
       "source": "Int J Parasitol",
-      "issue": "",
       "fpage": "1223",
       "lpage": "33",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.ijpara.2009.04.002",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_548": {
+    "annotation_549": {
       "type": "emphasis",
-      "id": "annotation_548",
+      "id": "annotation_549",
       "path": [
         "article_citation_bib28",
         "title"
@@ -8578,22 +8333,16 @@
       "year": "2010",
       "volume": "137",
       "source": "Parasitology",
-      "issue": "",
       "fpage": "451",
       "lpage": "62",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1017/S0031182009991211",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_549": {
+    "annotation_550": {
       "type": "emphasis",
-      "id": "annotation_549",
+      "id": "annotation_550",
       "path": [
         "article_citation_bib29",
         "title"
@@ -8621,17 +8370,11 @@
       "year": "2002",
       "volume": "3",
       "source": "Nat Rev Genet",
-      "issue": "",
       "fpage": "210",
       "lpage": "9",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nrg759",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib31": {
@@ -8667,17 +8410,11 @@
       "year": "2002",
       "volume": "44",
       "source": "Dev Growth Differ",
-      "issue": "",
       "fpage": "191",
       "lpage": "204",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1046/j.1440-169X.2002.00634.x",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib32": {
@@ -8713,22 +8450,16 @@
       "year": "2007",
       "volume": "37",
       "source": "Int J Parasitol",
-      "issue": "",
       "fpage": "515",
       "lpage": "23",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.ijpara.2006.11.003",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_550": {
+    "annotation_551": {
       "type": "emphasis",
-      "id": "annotation_550",
+      "id": "annotation_551",
       "path": [
         "article_citation_bib32",
         "title"
@@ -8739,9 +8470,9 @@
         24
       ]
     },
-    "annotation_551": {
+    "annotation_552": {
       "type": "emphasis",
-      "id": "annotation_551",
+      "id": "annotation_552",
       "path": [
         "article_citation_bib32",
         "title"
@@ -8769,22 +8500,16 @@
       "year": "1949",
       "volume": "35",
       "source": "J Parasitol",
-      "issue": "",
       "fpage": "267",
       "lpage": "75",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.2307/3273302",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_552": {
+    "annotation_553": {
       "type": "emphasis",
-      "id": "annotation_552",
+      "id": "annotation_553",
       "path": [
         "article_citation_bib33",
         "title"
@@ -8795,9 +8520,9 @@
         46
       ]
     },
-    "annotation_553": {
+    "annotation_554": {
       "type": "emphasis",
-      "id": "annotation_553",
+      "id": "annotation_554",
       "path": [
         "article_citation_bib33",
         "title"
@@ -8841,17 +8566,11 @@
       "year": "2012",
       "volume": "31",
       "source": "EMBO J",
-      "issue": "",
       "fpage": "2755",
       "lpage": "69",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/emboj.2012.110",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib35": {
@@ -8867,22 +8586,16 @@
       "year": "1980",
       "volume": "36",
       "source": "J Invertebr Pathol",
-      "issue": "",
       "fpage": "307",
       "lpage": "72",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/0022-2011(80)90040-3",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_554": {
+    "annotation_555": {
       "type": "emphasis",
-      "id": "annotation_554",
+      "id": "annotation_555",
       "path": [
         "article_citation_bib35",
         "title"
@@ -8918,22 +8631,15 @@
       "year": "2011",
       "volume": "5",
       "source": "PLOS Negl Trop Dis",
-      "issue": "",
       "fpage": "e1274",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1371/journal.pntd.0001274",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_555": {
+    "annotation_556": {
       "type": "emphasis",
-      "id": "annotation_555",
+      "id": "annotation_556",
       "path": [
         "article_citation_bib36",
         "title"
@@ -8961,17 +8667,11 @@
       "year": "2010",
       "volume": "137",
       "source": "Development",
-      "issue": "",
       "fpage": "213",
       "lpage": "21",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1242/dev.044297",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib38": {
@@ -9007,22 +8707,15 @@
       "year": "2012",
       "volume": "6",
       "source": "PLOS Negl Trop Dis",
-      "issue": "",
       "fpage": "e1455",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1371/journal.pntd.0001455",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_556": {
+    "annotation_557": {
       "type": "emphasis",
-      "id": "annotation_556",
+      "id": "annotation_557",
       "path": [
         "article_citation_bib38",
         "title"
@@ -9066,22 +8759,15 @@
       "year": "2012",
       "volume": "8",
       "source": "PLOS Pathog",
-      "issue": "",
       "fpage": "e1002820",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1371/journal.ppat.1002820",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_557": {
+    "annotation_558": {
       "type": "emphasis",
-      "id": "annotation_557",
+      "id": "annotation_558",
       "path": [
         "article_citation_bib39",
         "title"
@@ -9125,22 +8811,16 @@
       "year": "2009",
       "volume": "167",
       "source": "Mol Biochem Parasitol",
-      "issue": "",
       "fpage": "118",
       "lpage": "26",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.molbiopara.2009.05.002",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_558": {
+    "annotation_559": {
       "type": "emphasis",
-      "id": "annotation_558",
+      "id": "annotation_559",
       "path": [
         "article_citation_bib40",
         "title"
@@ -9176,17 +8856,11 @@
       "year": "2010",
       "volume": "341",
       "source": "Dev Biol",
-      "issue": "",
       "fpage": "429",
       "lpage": "43",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.ydbio.2010.02.037",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib42": {
@@ -9206,17 +8880,11 @@
       "year": "2008",
       "volume": "105",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "2415",
       "lpage": "20",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1073/pnas.0712168105",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib43": {
@@ -9240,22 +8908,16 @@
       "year": "1984",
       "volume": "70",
       "source": "J Parasitol",
-      "issue": "",
       "fpage": "321",
       "lpage": "31",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.2307/3281558",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_559": {
+    "annotation_560": {
       "type": "emphasis",
-      "id": "annotation_559",
+      "id": "annotation_560",
       "path": [
         "article_citation_bib43",
         "title"
@@ -9279,22 +8941,15 @@
       "year": "1974",
       "volume": "70",
       "source": "S Afr J Sci",
-      "issue": "",
       "fpage": "327",
       "lpage": "46",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_560": {
+    "annotation_561": {
       "type": "emphasis",
-      "id": "annotation_560",
+      "id": "annotation_561",
       "path": [
         "article_citation_bib44",
         "title"
@@ -9338,22 +8993,16 @@
       "year": "1999",
       "volume": "206",
       "source": "Dev Biol",
-      "issue": "",
       "fpage": "73",
       "lpage": "87",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1006/dbio.1998.9130",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_561": {
+    "annotation_562": {
       "type": "emphasis",
-      "id": "annotation_561",
+      "id": "annotation_562",
       "path": [
         "article_citation_bib45",
         "title"
@@ -9377,17 +9026,11 @@
       "year": "1988",
       "volume": "74",
       "source": "J Parasitol",
-      "issue": "",
       "fpage": "46",
       "lpage": "59",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.2307/3282478",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib47": {
@@ -9423,22 +9066,15 @@
       "year": "2012",
       "volume": "6",
       "source": "PLOS Negl Trop Dis",
-      "issue": "",
       "fpage": "e1686",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1371/journal.pntd.0001686",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_562": {
+    "annotation_563": {
       "type": "emphasis",
-      "id": "annotation_562",
+      "id": "annotation_563",
       "path": [
         "article_citation_bib47",
         "title"
@@ -9470,17 +9106,11 @@
       "year": "2010",
       "volume": "7",
       "source": "Cell Stem Cell",
-      "issue": "",
       "fpage": "288",
       "lpage": "98",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.stem.2010.08.004",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib49": {
@@ -9516,17 +9146,11 @@
       "year": "2013",
       "volume": "496",
       "source": "Nature",
-      "issue": "",
       "fpage": "57",
       "lpage": "63",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nature12031",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib50": {
@@ -9562,17 +9186,11 @@
       "year": "2003",
       "volume": "86",
       "source": "Acta Trop",
-      "issue": "",
       "fpage": "125",
       "lpage": "39",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/S0001-706X(03)00029-9",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib51": {
@@ -9596,17 +9214,11 @@
       "year": "2012",
       "volume": "10",
       "source": "Cell Stem Cell",
-      "issue": "",
       "fpage": "299",
       "lpage": "311",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.stem.2012.01.016",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib52": {
@@ -9630,17 +9242,11 @@
       "year": "2011",
       "volume": "332",
       "source": "Science",
-      "issue": "",
       "fpage": "811",
       "lpage": "6",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1126/science.1203983",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib53": {
@@ -9668,22 +9274,16 @@
       "year": "1988",
       "volume": "66",
       "source": "Exp Parasitol",
-      "issue": "",
       "fpage": "78",
       "lpage": "85",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/0014-4894(88)90052-5",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_563": {
+    "annotation_564": {
       "type": "emphasis",
-      "id": "annotation_563",
+      "id": "annotation_564",
       "path": [
         "article_citation_bib53",
         "title"
@@ -9711,17 +9311,11 @@
       "year": "1983",
       "volume": "86",
       "source": "Parasitology",
-      "issue": "",
       "fpage": "121",
       "lpage": "60",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1017/S0031182000050873",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib55": {
@@ -9757,22 +9351,16 @@
       "year": "2009",
       "volume": "164",
       "source": "Mol Biochem Parasitol",
-      "issue": "",
       "fpage": "32",
       "lpage": "44",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.molbiopara.2008.11.005",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_564": {
+    "annotation_565": {
       "type": "emphasis",
-      "id": "annotation_564",
+      "id": "annotation_565",
       "path": [
         "article_citation_bib55",
         "title"
@@ -9783,9 +9371,9 @@
         41
       ]
     },
-    "annotation_565": {
+    "annotation_566": {
       "type": "emphasis",
-      "id": "annotation_565",
+      "id": "annotation_566",
       "path": [
         "article_citation_bib55",
         "title"
@@ -9813,31 +9401,12 @@
       "year": "1995",
       "volume": "81",
       "source": "J Parasitol",
-      "issue": "",
       "fpage": "714",
       "lpage": "22",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.2307/3283960",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
-    },
-    "annotation_566": {
-      "type": "emphasis",
-      "id": "annotation_566",
-      "path": [
-        "article_citation_bib56",
-        "title"
-      ],
-      "target": null,
-      "range": [
-        14,
-        33
-      ]
     },
     "annotation_567": {
       "type": "emphasis",
@@ -9848,13 +9417,26 @@
       ],
       "target": null,
       "range": [
-        113,
-        134
+        14,
+        33
       ]
     },
     "annotation_568": {
       "type": "emphasis",
       "id": "annotation_568",
+      "path": [
+        "article_citation_bib56",
+        "title"
+      ],
+      "target": null,
+      "range": [
+        113,
+        134
+      ]
+    },
+    "annotation_569": {
+      "type": "emphasis",
+      "id": "annotation_569",
       "path": [
         "article_citation_bib56",
         "title"

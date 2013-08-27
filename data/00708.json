@@ -33,27 +33,28 @@
         "paragraph_121",
         "heading_s2-3",
         "paragraph_122",
-        "heading_s2-4",
         "paragraph_131",
-        "paragraph_135",
-        "heading_s2-5",
-        "paragraph_140",
+        "heading_s2-4",
+        "paragraph_144",
         "paragraph_148",
-        "paragraph_151",
-        "heading_s3",
-        "paragraph_158",
-        "paragraph_162",
+        "heading_s2-5",
+        "paragraph_153",
+        "paragraph_161",
         "paragraph_164",
-        "heading_s4",
-        "heading_s4-1",
-        "paragraph_167",
+        "heading_s3",
         "paragraph_171",
         "paragraph_175",
-        "paragraph_179",
-        "heading_s4-2",
+        "paragraph_177",
+        "heading_s4",
+        "heading_s4-1",
         "paragraph_180",
-        "paragraph_196",
-        "paragraph_199",
+        "paragraph_184",
+        "paragraph_188",
+        "paragraph_192",
+        "heading_s4-2",
+        "paragraph_193",
+        "paragraph_209",
+        "paragraph_212",
         "sub-article",
         "sub-article"
       ]
@@ -143,7 +144,6 @@
       "accepted_on": "2013-06-17",
       "published_on": "2013-07-16",
       "journal": "elife",
-      "article_type": "",
       "keywords": [
         "Her2/ErbB2 activation",
         "extracellular domain conformation",
@@ -155,10 +155,9 @@
       "subjects": [
         "Biophysics and structural biology"
       ],
-      "pdf_link": "",
-      "xml_link": "",
-      "json_link": "",
-      "doi": ""
+      "xml_link": "https://s3.amazonaws.com/elife-cdn/elife-articles/00708/elife00708.xml",
+      "json_link": "https://s3.amazonaws.com/elife-cdn/elife-articles/00708/00708.json",
+      "doi": "http://dx.doi.org/10.7554/eLife.00708"
     },
     "person_author_4401": {
       "type": "person",
@@ -167,9 +166,7 @@
       "last-name": "Arkhipov",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Preparing and performing simulations, Analysis and interpretation of data, Drafting or revising the article",
-      "email": "",
       "funding": []
     },
     "person_author_4398": {
@@ -179,7 +176,6 @@
       "last-name": "Shan",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Analysis and interpretation of data, Drafting or revising the article",
       "email": "email:cor1",
       "funding": []
@@ -191,9 +187,7 @@
       "last-name": "Kim",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Preparing and performing simulations",
-      "email": "",
       "funding": []
     },
     "person_author_4400": {
@@ -203,9 +197,7 @@
       "last-name": "Dror",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Interpretation of data, Drafting or revising the article",
-      "email": "",
       "funding": []
     },
     "person_author_4299": {
@@ -215,7 +207,6 @@
       "last-name": "Shaw",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Interpretation of data, Drafting or revising the article",
       "email": "email:cor2",
       "funding": []
@@ -225,18 +216,14 @@
       "id": "institution_aff1",
       "name": "D. E. Shaw Research",
       "city": "New York",
-      "country": "United States",
-      "email": "",
-      "image": ""
+      "country": "United States"
     },
     "institution_aff2": {
       "type": "institution",
       "id": "institution_aff2",
       "name": "Columbia University",
       "city": "New York",
-      "country": "United States",
-      "email": "",
-      "image": ""
+      "country": "United States"
     },
     "person_1": {
       "type": "person",
@@ -245,9 +232,6 @@
       "last-name": "Brunger",
       "role": "editor",
       "affiliations": [],
-      "image": "",
-      "contribution": "",
-      "email": "",
       "funding": []
     },
     "info:review": {
@@ -262,13 +246,11 @@
     "email_cor1": {
       "type": "email",
       "id": "email_cor1",
-      "node": "",
       "email": "Yibing.Shan@DEShawResearch.com"
     },
     "email_cor2": {
       "type": "email",
       "id": "email_cor2",
-      "node": "",
       "email": "David.Shaw@DEShawResearch.com"
     },
     "info:copyright": {
@@ -439,8 +421,7 @@
     },
     "paragraph_18": {
       "type": "paragraph",
-      "id": "paragraph_18",
-      "content": ""
+      "id": "paragraph_18"
     },
     "heading_s1": {
       "type": "heading",
@@ -640,19 +621,12 @@
       "type": "image",
       "id": "image_fig1",
       "label": "Figure 1.",
-      "url": "",
-      "object_id": "F1",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00708/svg/elife00708f001.svg",
       "title": "Receptors of the human EGFR family and conformations of their ectodomains.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00708.003",
       "caption": "paragraph_image_fig1",
-      "graphic_id": "elife00708f001"
+      "graphic_id": "elife00708f001",
+      "format": "image"
     },
     "paragraph_image_fig1": {
       "type": "paragraph",
@@ -1276,19 +1250,12 @@
       "type": "image",
       "id": "image_fig2",
       "label": "Figure 2.",
-      "url": "",
-      "object_id": "F2",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00708/svg/elife00708f002.svg",
       "title": "Simulations reproduce the gap in the interface of the dEGFR ectodomain dimer.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00708.004",
       "caption": "paragraph_image_fig2",
-      "graphic_id": "elife00708f002"
+      "graphic_id": "elife00708f002",
+      "format": "image"
     },
     "paragraph_image_fig2": {
       "type": "paragraph",
@@ -1550,19 +1517,12 @@
       "type": "image",
       "id": "image_fig3",
       "label": "Figure 3.",
-      "url": "",
-      "object_id": "F3",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00708/svg/elife00708f003.svg",
       "title": "Bending of domain II.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00708.005",
       "caption": "paragraph_image_fig3",
-      "graphic_id": "elife00708f003"
+      "graphic_id": "elife00708f003",
+      "format": "image"
     },
     "paragraph_image_fig3": {
       "type": "paragraph",
@@ -1855,19 +1815,12 @@
       "type": "image",
       "id": "image_fig4",
       "label": "Figure 4.",
-      "url": "",
-      "object_id": "F4",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00708/svg/elife00708f004.svg",
       "title": "Simulations of the EGFR–Her2 heterodimer and the Her2 homodimer.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00708.006",
       "caption": "paragraph_image_fig4",
-      "graphic_id": "elife00708f004"
+      "graphic_id": "elife00708f004",
+      "format": "image"
     },
     "paragraph_image_fig4": {
       "type": "paragraph",
@@ -1917,12 +1870,8 @@
       "type": "video",
       "id": "video_video1",
       "label": "Video 1.",
-      "title": "",
       "caption": "paragraph_video_video1",
-      "content_type": "",
       "url_ogv": "http://static.movie-usa.glencoesoftware.com/ogv/10.7554/elife00708v001.ogv",
-      "url_jpg": "",
-      "url_mp4": "",
       "doi": "http://dx.doi.org/10.7554/eLife.00708.007",
       "url": "http://static.movie-usa.glencoesoftware.com/mp4/10.7554/elife00708v001.mp4",
       "poster": "http://static.movie-usa.glencoesoftware.com/jpg/10.7554/elife00708v001.jpg"
@@ -1932,17 +1881,10 @@
       "id": "paragraph_video_video1",
       "content": "The simulation of the ligand-free EGFR–Her2 ectodomain heterodimer with Her2 colored red and EGFR blue. A gap between the N-terminal portion of each subunit’s domain II develops during the simulation."
     },
-    "heading_s2-4": {
-      "type": "heading",
-      "id": "heading_s2-4",
-      "level": 2,
-      "content": "Her3–Her2 heterodimer",
-      "nodes": []
-    },
     "paragraph_131": {
       "type": "paragraph",
       "id": "paragraph_131",
-      "content": "Among the dimerization partners of Her2, Her3 is particularly notable in that the Her3–Her2 heterodimers are potent signaling units, and in that the normal and pathogenic signaling through Her2 and Her3 relies strongly on Her3–Her2 dimerization (Baselga and Swain, 2009; Lemmon, 2009). We thus studied the Her3–Her2 heterodimer in ways similar to our study of EGFR–Her2 heterodimers and the Her2 homodimer. We first modeled the Her3–Her2 heterodimer using the resolved crystal structure of the Her3 monomer (Cho and Leahy, 2002) and our model of the EGFR–Her2 heterodimer as templates (‘Materials and methods’). The EGF-like domain of the Her3 ligand heregulin-alpha (HRG) was then introduced into the Her3 binding site between domains I and III, in accordance with the pose of EGFR-bound EGF."
+      "content": "In terms of their location and potential impact on dimer stability, the gaps observed in our simulations are reminiscent of the one in the crystal structure of ligand-free dEGFR dimer (Alvarado et al., 2009, 2010). The dEGFR gap results in a reduced dimer interface area of ∼2300 Å2, compared to ∼3400 Å2 in the 1- and 2-ligand dEGFR dimers, where the gap is closed (Figure 2). This reduction of the dimer interface area is believed to account for the relatively weak dimerization affinity of the ligand-free dEGFR, which is ∼30 times lower than that of ligand-bound dEGFR. Figure 4 shows that the reduction of the dimer interface is similarly observed in our simulations of the ligand-free EGFR–Her2 heterodimer and Her2 homodimer: when the gap is wide open, the surface area buried within the interface is ∼2600 Å2, compared to ∼3500 Å2 in the ligand-bound heterodimer. We thus suggest that the same structural mechanism that weakens ligand-free dEGFR homodimers (Alvarado et al., 2009, 2010) also disfavors ligand-free EGFR–Her2 dimerization and Her2 homodimerization. On the other hand, ligand binding in the EGFR subunit helps to keep domain II straight, which prevents the opening of the gap and stabilizes the dimer interface of EGFR–Her2 heterodimer (Figure 4). This is reminiscent of the recent finding (Liu et al., 2012) that one bound ligand is sufficient to activate an EGFR dimer."
     },
     "citation_reference_132": {
       "type": "citation_reference",
@@ -1951,10 +1893,10 @@
         "paragraph_131",
         "content"
       ],
-      "target": "article_citation_bib4",
+      "target": "article_citation_bib1",
       "range": [
-        246,
-        269
+        185,
+        206
       ]
     },
     "citation_reference_133": {
@@ -1964,17 +1906,185 @@
         "paragraph_131",
         "content"
       ],
+      "target": "article_citation_bib2",
+      "range": [
+        208,
+        212
+      ]
+    },
+    "annotation_134": {
+      "type": "superscript",
+      "id": "annotation_134",
+      "path": [
+        "paragraph_131",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        281,
+        282
+      ]
+    },
+    "annotation_135": {
+      "type": "superscript",
+      "id": "annotation_135",
+      "path": [
+        "paragraph_131",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        303,
+        304
+      ]
+    },
+    "figure_reference_136": {
+      "type": "figure_reference",
+      "id": "figure_reference_136",
+      "path": [
+        "paragraph_131",
+        "content"
+      ],
+      "target": "image_fig2",
+      "range": [
+        367,
+        375
+      ]
+    },
+    "figure_reference_137": {
+      "type": "figure_reference",
+      "id": "figure_reference_137",
+      "path": [
+        "paragraph_131",
+        "content"
+      ],
+      "target": "image_fig4",
+      "range": [
+        574,
+        582
+      ]
+    },
+    "annotation_138": {
+      "type": "superscript",
+      "id": "annotation_138",
+      "path": [
+        "paragraph_131",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        815,
+        816
+      ]
+    },
+    "annotation_139": {
+      "type": "superscript",
+      "id": "annotation_139",
+      "path": [
+        "paragraph_131",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        837,
+        838
+      ]
+    },
+    "citation_reference_140": {
+      "type": "citation_reference",
+      "id": "citation_reference_140",
+      "path": [
+        "paragraph_131",
+        "content"
+      ],
+      "target": "article_citation_bib1",
+      "range": [
+        966,
+        987
+      ]
+    },
+    "citation_reference_141": {
+      "type": "citation_reference",
+      "id": "citation_reference_141",
+      "path": [
+        "paragraph_131",
+        "content"
+      ],
+      "target": "article_citation_bib2",
+      "range": [
+        989,
+        993
+      ]
+    },
+    "figure_reference_142": {
+      "type": "figure_reference",
+      "id": "figure_reference_142",
+      "path": [
+        "paragraph_131",
+        "content"
+      ],
+      "target": "image_fig4",
+      "range": [
+        1259,
+        1267
+      ]
+    },
+    "citation_reference_143": {
+      "type": "citation_reference",
+      "id": "citation_reference_143",
+      "path": [
+        "paragraph_131",
+        "content"
+      ],
+      "target": "article_citation_bib30",
+      "range": [
+        1313,
+        1329
+      ]
+    },
+    "heading_s2-4": {
+      "type": "heading",
+      "id": "heading_s2-4",
+      "level": 2,
+      "content": "Her3–Her2 heterodimer",
+      "nodes": []
+    },
+    "paragraph_144": {
+      "type": "paragraph",
+      "id": "paragraph_144",
+      "content": "Among the dimerization partners of Her2, Her3 is particularly notable in that the Her3–Her2 heterodimers are potent signaling units, and in that the normal and pathogenic signaling through Her2 and Her3 relies strongly on Her3–Her2 dimerization (Baselga and Swain, 2009; Lemmon, 2009). We thus studied the Her3–Her2 heterodimer in ways similar to our study of EGFR–Her2 heterodimers and the Her2 homodimer. We first modeled the Her3–Her2 heterodimer using the resolved crystal structure of the Her3 monomer (Cho and Leahy, 2002) and our model of the EGFR–Her2 heterodimer as templates (‘Materials and methods’). The EGF-like domain of the Her3 ligand heregulin-alpha (HRG) was then introduced into the Her3 binding site between domains I and III, in accordance with the pose of EGFR-bound EGF."
+    },
+    "citation_reference_145": {
+      "type": "citation_reference",
+      "id": "citation_reference_145",
+      "path": [
+        "paragraph_144",
+        "content"
+      ],
+      "target": "article_citation_bib4",
+      "range": [
+        246,
+        269
+      ]
+    },
+    "citation_reference_146": {
+      "type": "citation_reference",
+      "id": "citation_reference_146",
+      "path": [
+        "paragraph_144",
+        "content"
+      ],
       "target": "article_citation_bib27",
       "range": [
         271,
         283
       ]
     },
-    "citation_reference_134": {
+    "citation_reference_147": {
       "type": "citation_reference",
-      "id": "citation_reference_134",
+      "id": "citation_reference_147",
       "path": [
-        "paragraph_131",
+        "paragraph_144",
         "content"
       ],
       "target": "article_citation_bib7",
@@ -1983,16 +2093,16 @@
         527
       ]
     },
-    "paragraph_135": {
+    "paragraph_148": {
       "type": "paragraph",
-      "id": "paragraph_135",
+      "id": "paragraph_148",
       "content": "The resulting model of the Her3–Her2 heterodimer was then simulated, first with HRG bound, in which case the dimer interface remained stable (Figure 5A). After ∼4 µs of simulation the ligand was removed, and the resulting ligand-free heterodimer was then simulated again. Without the ligand, the Her3 subunit underwent conformational changes similar to those described above for the ligand-free EGFR subunit, including a bending of domain II. As a result, a gap again emerged in the dimer interface. In the first series of simulations the gap in the Her3–Her2 heterodimer was often partially closed, but re-opened repeatedly and resulted in a significant decrease in the buried surface area in the dimer interface. In the second series, the gap was steadily open once the ligand was removed (Figure 5B). These observations suggest that Her3–Her2 heterodimerization, similar to that of EGFR–Her2, is promoted by the stabilization of the dimer interface following ligand binding."
     },
-    "figure_reference_136": {
+    "figure_reference_149": {
       "type": "figure_reference",
-      "id": "figure_reference_136",
+      "id": "figure_reference_149",
       "path": [
-        "paragraph_135",
+        "paragraph_148",
         "content"
       ],
       "target": "image_fig5",
@@ -2001,11 +2111,11 @@
         151
       ]
     },
-    "figure_reference_137": {
+    "figure_reference_150": {
       "type": "figure_reference",
-      "id": "figure_reference_137",
+      "id": "figure_reference_150",
       "path": [
-        "paragraph_135",
+        "paragraph_148",
         "content"
       ],
       "target": "image_fig5",
@@ -2018,28 +2128,21 @@
       "type": "image",
       "id": "image_fig5",
       "label": "Figure 5.",
-      "url": "",
-      "object_id": "F5",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00708/svg/elife00708f005.svg",
       "title": "Her3–Her2 heterodimer.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00708.008",
       "caption": "paragraph_image_fig5",
-      "graphic_id": "elife00708f005"
+      "graphic_id": "elife00708f005",
+      "format": "image"
     },
     "paragraph_image_fig5": {
       "type": "paragraph",
       "id": "paragraph_image_fig5",
       "content": "(A) Snapshots from the simulations of the Her3–Her2 heterodimer with (left) and without (right) HRG bound to Her3. At the end of the simulation with HRG bound to Her3, HRG was removed, and the resulting system was resolvated and further simulated without the ligand. A gap opened in the dimer interface, as illustrated by the snapshot on the right. For clarity, these images omit domain IV. (B) The surface area buried within the dimer interface, counting the contributions only from domains I, II, and III, plotted as a function of time. Two independent sets of two simulations each (with and without HRG) are shown."
     },
-    "annotation_138": {
+    "annotation_151": {
       "type": "strong",
-      "id": "annotation_138",
+      "id": "annotation_151",
       "path": [
         "paragraph_image_fig5",
         "content"
@@ -2050,9 +2153,9 @@
         2
       ]
     },
-    "annotation_139": {
+    "annotation_152": {
       "type": "strong",
-      "id": "annotation_139",
+      "id": "annotation_152",
       "path": [
         "paragraph_image_fig5",
         "content"
@@ -2070,16 +2173,16 @@
       "content": "Atomic detail of the dimer interfaces in the asymmetric dimers",
       "nodes": []
     },
-    "paragraph_140": {
+    "paragraph_153": {
       "type": "paragraph",
-      "id": "paragraph_140",
+      "id": "paragraph_153",
       "content": "Our simulations suggest that ligand binding promotes the formation of asymmetric dEGFR or EGFR-family dimers by allowing specific favorable interactions between the domain II N-terminal regions of the two subunits. We found that the asymmetric dimers we examined—the EGFR–Her2 and Her3–Her2 heterodimers, the 1-ligand EGFR homodimer, and the 1- and 2-ligand dEGFR homodimers—all shared certain key atomic-level interactions between subunits. In particular, hydrogen bonds between Gln194 (in EGFR or Her3 numbering) of the ligand-bound subunit and Cys213 and His215 (in Her2 numbering; Figure 6A) of the ligand-free subunit (Figure 6B) were particularly stable. The presence of these hydrogen bonds is consistent with the reported crystal structures of the dEGFR asymmetric dimers after a 180° χ2 rotamer flip at the histidine (which would presumably be consistent with the same electron density). In contrast, these hydrogen bonds are not present in the crystal structure or in simulations of the symmetric 2-ligand EGFR dimer, and they are precluded by the gap in the dimer interface of all ligand-free dimers we examined (including the ligand-free dEGFR crystal structure and our simulations of ligand-free EGFR and Her2 homodimers and EGFR–Her2 heterodimers). Our observations suggest an important role for Gln194 of the ligand-bound subunit in stabilizing 1-ligand dimers. Notably, the glutamine residue is conserved in EGFR, Her3, Her4, and dEGFR, which bind ligands, but not in Her2 (Figure 6A), which does not. Mutating Gln194 in EGFR and Her3 may thus hinder their heterodimerization with Her2, and mutating the corresponding residue (Gln189) in dEGFR may hinder its homodimerization."
     },
-    "figure_reference_141": {
+    "figure_reference_154": {
       "type": "figure_reference",
-      "id": "figure_reference_141",
+      "id": "figure_reference_154",
       "path": [
-        "paragraph_140",
+        "paragraph_153",
         "content"
       ],
       "target": "image_fig6",
@@ -2088,11 +2191,11 @@
         594
       ]
     },
-    "figure_reference_142": {
+    "figure_reference_155": {
       "type": "figure_reference",
-      "id": "figure_reference_142",
+      "id": "figure_reference_155",
       "path": [
-        "paragraph_140",
+        "paragraph_153",
         "content"
       ],
       "target": "image_fig6",
@@ -2101,11 +2204,11 @@
         633
       ]
     },
-    "annotation_143": {
+    "annotation_156": {
       "type": "subscript",
-      "id": "annotation_143",
+      "id": "annotation_156",
       "path": [
-        "paragraph_140",
+        "paragraph_153",
         "content"
       ],
       "target": null,
@@ -2114,11 +2217,11 @@
         795
       ]
     },
-    "figure_reference_144": {
+    "figure_reference_157": {
       "type": "figure_reference",
-      "id": "figure_reference_144",
+      "id": "figure_reference_157",
       "path": [
-        "paragraph_140",
+        "paragraph_153",
         "content"
       ],
       "target": "image_fig6",
@@ -2131,28 +2234,21 @@
       "type": "image",
       "id": "image_fig6",
       "label": "Figure 6.",
-      "url": "",
-      "object_id": "F6",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00708/svg/elife00708f006.svg",
       "title": "Details of the dimer interfaces in Her2 heterodimers.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00708.009",
       "caption": "paragraph_image_fig6",
-      "graphic_id": "elife00708f006"
+      "graphic_id": "elife00708f006",
+      "format": "image"
     },
     "paragraph_image_fig6": {
       "type": "paragraph",
       "id": "paragraph_image_fig6",
       "content": "(A) The sequence alignments of EGFR, Her2, Her3, and dEGFR for the part of domain II corresponding to EGFR residues 167–286. Three sets of residues (green, red, and blue, respectively), which are involved in three sets of important interactions at the dimer interface, are highlighted. (B) Top: the role of EGFR residue Gln194 in the EGFR–Her2 dimer interface. Hydrogen bonds and salt bridges are indicated by red dashed lines. Bottom: the distances between the key atoms involved in these hydrogen bonds are shown as functions of time. (C) Left: superimposition of 1-ligand EGFR homodimer and 1-ligand EGFR–Her2 heterodimer, with dimerization arms highlighted by the red box. Middle and right: Her2’s dimerization arm in the EGFR–Her2 heterodimer is conformationally less stable than the dimerization arm of the ligand-free subunit of the 1-ligand EGFR homodimer, likely because the Tyr251–Arg285 cation–π interaction is only present in the latter dimer. Dark blue is used for the EGFR dimerization arm in the EGFR homodimer, and dark gray for the EGFR dimerization arm in the EGFR–Her2 heterodimer."
     },
-    "annotation_145": {
+    "annotation_158": {
       "type": "strong",
-      "id": "annotation_145",
+      "id": "annotation_158",
       "path": [
         "paragraph_image_fig6",
         "content"
@@ -2163,9 +2259,9 @@
         2
       ]
     },
-    "annotation_146": {
+    "annotation_159": {
       "type": "strong",
-      "id": "annotation_146",
+      "id": "annotation_159",
       "path": [
         "paragraph_image_fig6",
         "content"
@@ -2176,9 +2272,9 @@
         288
       ]
     },
-    "annotation_147": {
+    "annotation_160": {
       "type": "strong",
-      "id": "annotation_147",
+      "id": "annotation_160",
       "path": [
         "paragraph_image_fig6",
         "content"
@@ -2189,16 +2285,16 @@
         539
       ]
     },
-    "paragraph_148": {
+    "paragraph_161": {
       "type": "paragraph",
-      "id": "paragraph_148",
+      "id": "paragraph_161",
       "content": "Certain inter-subunit interactions appeared to be unique to Her2 heterodimers. In particular, Arg228 of EGFR interacted stably with Glu243 of Her2 through a salt bridge in our simulations of the ligand-bound EGFR–Her2 heterodimer (Figure 6B). Similarly, Arg228 of Her3 interacted stably with the same glutamate through a water bridge in our simulations of the Her3–Her2 heterodimer. Although this arginine is present in both EGFR and Her3, it is not present in Her2, Her4, or dEGFR. Notably, EGFR and Her3 are the two common dimerization partners of Her2 in the EGFR family, and only Her2 bears a negatively charged residue at the position of the Glu243 (Figure 6A). This is consistent with the notion that Her2 has been fine-tuned for heterodimerization with EGFR and Her3."
     },
-    "figure_reference_149": {
+    "figure_reference_162": {
       "type": "figure_reference",
-      "id": "figure_reference_149",
+      "id": "figure_reference_162",
       "path": [
-        "paragraph_148",
+        "paragraph_161",
         "content"
       ],
       "target": "image_fig6",
@@ -2207,11 +2303,11 @@
         240
       ]
     },
-    "figure_reference_150": {
+    "figure_reference_163": {
       "type": "figure_reference",
-      "id": "figure_reference_150",
+      "id": "figure_reference_163",
       "path": [
-        "paragraph_148",
+        "paragraph_161",
         "content"
       ],
       "target": "image_fig6",
@@ -2220,16 +2316,16 @@
         664
       ]
     },
-    "paragraph_151": {
+    "paragraph_164": {
       "type": "paragraph",
-      "id": "paragraph_151",
+      "id": "paragraph_164",
       "content": "Experimentally, heterodimerization between Her2 and ligand-bound EGFR or Her3 ectodomains is much weaker than homodimerization of EGFR, Her4, or dEGFR ectodomains (Horan et al., 1995; Ferguson et al., 2000). Our simulations suggest that this difference in stability may be due to unique conformational dynamics in the dimerization arm of Her2. The dimerization arm plays a key role in maintaining dimer stability, and dimerization arm-mediated interactions are very similar in crystal structures of dEGFR and human EGFR dimers (Alvarado et al., 2010). In our simulations, however, the dimerization arm of Her2 in the EGFR–Her2 dimer deviated significantly from its initial conformation in the course of the simulation, whereas the dimerization arms of EGFR and dEGFR in homodimers did not (Figure 6C). A cation–π interaction at the tip of the dimerization arm in the 1-ligand EGFR dimer between Tyr251 and Arg285 of the unliganded subunit (Figure 6C) appears to be particularly important in stabilizing the dimer. The residue at the position of Tyr251 is conserved as tyrosine or phenylalanine in dEGFR and all members of the human EGFR family. The residue at the position of Arg285 is conserved as arginine, except in Her2, where it is replaced by leucine (Leu291; Figure 6A). It is tempting to suggest that this missing arginine in Her2 may explain its weak ectodomain heterodimerization compared to the homodimerization of dEGFR, EGFR, and Her4, and that an L291R mutation in Her2 may promote Her2 heterodimerization and facilitate the crystallization of a Her3–Her2 or EGFR–Her2 dimer."
     },
-    "citation_reference_152": {
+    "citation_reference_165": {
       "type": "citation_reference",
-      "id": "citation_reference_152",
+      "id": "citation_reference_165",
       "path": [
-        "paragraph_151",
+        "paragraph_164",
         "content"
       ],
       "target": "article_citation_bib21",
@@ -2238,11 +2334,11 @@
         182
       ]
     },
-    "citation_reference_153": {
+    "citation_reference_166": {
       "type": "citation_reference",
-      "id": "citation_reference_153",
+      "id": "citation_reference_166",
       "path": [
-        "paragraph_151",
+        "paragraph_164",
         "content"
       ],
       "target": "article_citation_bib16",
@@ -2251,11 +2347,11 @@
         205
       ]
     },
-    "citation_reference_154": {
+    "citation_reference_167": {
       "type": "citation_reference",
-      "id": "citation_reference_154",
+      "id": "citation_reference_167",
       "path": [
-        "paragraph_151",
+        "paragraph_164",
         "content"
       ],
       "target": "article_citation_bib2",
@@ -2264,11 +2360,11 @@
         549
       ]
     },
-    "figure_reference_155": {
+    "figure_reference_168": {
       "type": "figure_reference",
-      "id": "figure_reference_155",
+      "id": "figure_reference_168",
       "path": [
-        "paragraph_151",
+        "paragraph_164",
         "content"
       ],
       "target": "image_fig6",
@@ -2277,11 +2373,11 @@
         799
       ]
     },
-    "figure_reference_156": {
+    "figure_reference_169": {
       "type": "figure_reference",
-      "id": "figure_reference_156",
+      "id": "figure_reference_169",
       "path": [
-        "paragraph_151",
+        "paragraph_164",
         "content"
       ],
       "target": "image_fig6",
@@ -2290,11 +2386,11 @@
         949
       ]
     },
-    "figure_reference_157": {
+    "figure_reference_170": {
       "type": "figure_reference",
-      "id": "figure_reference_157",
+      "id": "figure_reference_170",
       "path": [
-        "paragraph_151",
+        "paragraph_164",
         "content"
       ],
       "target": "image_fig6",
@@ -2310,16 +2406,16 @@
       "content": "Discussion",
       "nodes": []
     },
-    "paragraph_158": {
+    "paragraph_171": {
       "type": "paragraph",
-      "id": "paragraph_158",
+      "id": "paragraph_171",
       "content": "Given the implication of Her2 in disease and its central role in mediating cell signaling, elucidation of the molecular mechanisms regulating Her2 activation is of great importance. The long-timescale MD simulations reported here support the notion of a simple and evolutionarily conserved structural mechanism controls homo- and heterodimerization of Her2, and thereby Her2 activation. Our simulations revealed inherent instability in the dimer interfaces of the ligand-free EGFR–Her2 and Her3–Her2 heterodimers and the Her2 homodimer, and indicated that the binding of a single ligand is sufficient to stabilize the heterodimer interfaces. These observations complement the crystallographic analysis, shedding further light on the structural mechanism underlying the preference of Her2 to partner with a ligand-bound EGFR or Her3, rather than with Her2 or ligand-free EGFR or Her3 (Lemmon, 2009; Graus-Porta et al., 1997; Nagy, et al., 2010)."
     },
-    "citation_reference_159": {
+    "citation_reference_172": {
       "type": "citation_reference",
-      "id": "citation_reference_159",
+      "id": "citation_reference_172",
       "path": [
-        "paragraph_158",
+        "paragraph_171",
         "content"
       ],
       "target": "article_citation_bib27",
@@ -2328,11 +2424,11 @@
         896
       ]
     },
-    "citation_reference_160": {
+    "citation_reference_173": {
       "type": "citation_reference",
-      "id": "citation_reference_160",
+      "id": "citation_reference_173",
       "path": [
-        "paragraph_158",
+        "paragraph_171",
         "content"
       ],
       "target": "article_citation_bib20",
@@ -2341,11 +2437,11 @@
         922
       ]
     },
-    "citation_reference_161": {
+    "citation_reference_174": {
       "type": "citation_reference",
-      "id": "citation_reference_161",
+      "id": "citation_reference_174",
       "path": [
-        "paragraph_158",
+        "paragraph_171",
         "content"
       ],
       "target": "article_citation_bib33",
@@ -2354,16 +2450,16 @@
         942
       ]
     },
-    "paragraph_162": {
+    "paragraph_175": {
       "type": "paragraph",
-      "id": "paragraph_162",
+      "id": "paragraph_175",
       "content": "Our simulations showed the conformation of domain II, which is determined by ligand binding, to be critical to the stability of the dimer interface. A ligand bound to EGFR (or to another member of the family) acts as a wedge that pushes domains I and III apart, straightening the otherwise bent domain II (Alvarado et al., 2009). (Domain II is bent in the crystal structures of ligand-free EGFR, Her2, Her3, Her4, and dEGFR.) We simulated the transition from the straight to the bent conformation of domain II upon removal of the bound ligand in EGFR and Her3 and the consequent development of the gap in the dimer interface. Our simulations suggest that, for the gap to open, both domain IIs of the two subunits in a dimer need to adopt a bent conformation."
     },
-    "citation_reference_163": {
+    "citation_reference_176": {
       "type": "citation_reference",
-      "id": "citation_reference_163",
+      "id": "citation_reference_176",
       "path": [
-        "paragraph_162",
+        "paragraph_175",
         "content"
       ],
       "target": "article_citation_bib1",
@@ -2372,16 +2468,16 @@
         327
       ]
     },
-    "paragraph_164": {
+    "paragraph_177": {
       "type": "paragraph",
-      "id": "paragraph_164",
+      "id": "paragraph_177",
       "content": "One feature unique to the dimerization and activation of receptors of the EGFR family (Her2 included), but not to other families of receptor tyrosine kinases (Lemmon and Schlessinger, 2010), is that the dimer interface is mediated by the receptors and does not involve any direct contribution from the bound ligands. Instead of directly participating in the dimerization, a bound ligand regulates the conformation of domain II and potentiates it for dimerization. In this context, it is not surprising that the seemingly minor effect of ligand binding on the conformation of domain II in the heterodimerization partners of Her2 demonstrated by our simulations is of great importance to the regulation of Her2 activity. Our consistent observation of the gap that disrupts the dimer interfaces in the ligand-free EGFR–Her2 and Her3–Her2 heterodimers, and in Her2 and dEGFR homodimers, as well as the fact that domain II is bent in crystal structures of ligand-free EGFR, Her2, Her3, Her4, and dEGFR, suggests that the structural mechanism for the control of dimerization has been preserved from Drosophila to the human EGFR family."
     },
-    "citation_reference_165": {
+    "citation_reference_178": {
       "type": "citation_reference",
-      "id": "citation_reference_165",
+      "id": "citation_reference_178",
       "path": [
-        "paragraph_164",
+        "paragraph_177",
         "content"
       ],
       "target": "article_citation_bib28",
@@ -2390,11 +2486,11 @@
         188
       ]
     },
-    "annotation_166": {
+    "annotation_179": {
       "type": "emphasis",
-      "id": "annotation_166",
+      "id": "annotation_179",
       "path": [
-        "paragraph_164",
+        "paragraph_177",
         "content"
       ],
       "target": null,
@@ -2417,16 +2513,16 @@
       "content": "Modeling of dimers",
       "nodes": []
     },
-    "paragraph_167": {
+    "paragraph_180": {
       "type": "paragraph",
-      "id": "paragraph_167",
+      "id": "paragraph_180",
       "content": "Because EGFR, Her2, and Her3 are closely related phylogenetically and share a high degree of sequence identity, we used the EGFR ectodomain homodimer as a structural template for the modeling of the Her2 ectodomain homodimer and the EGFR–Her2 and Her3–Her2 ectodomain heterodimers. The sequence identity between the ectodomains of EGFR and Her2 is 40%, while that between the ectodomains of EGFR and Her3 is 41%. In the structural alignments for the modeling, we used the region corresponding to EGFR residues 240–309, since this is the part of domain II that appears to be essential for dimerization (Dawson et al., 2005), and since in our simulations of EGFR the N-terminal portion of domain II exhibited bending around the hinge situated approximately at residue 240 (Figure 3). In this region, sequence identity to EGFR is 50% and 46% for Her2 and Her3, respectively (Figure 6A)."
     },
-    "citation_reference_168": {
+    "citation_reference_181": {
       "type": "citation_reference",
-      "id": "citation_reference_168",
+      "id": "citation_reference_181",
       "path": [
-        "paragraph_167",
+        "paragraph_180",
         "content"
       ],
       "target": "article_citation_bib12",
@@ -2435,11 +2531,11 @@
         621
       ]
     },
-    "figure_reference_169": {
+    "figure_reference_182": {
       "type": "figure_reference",
-      "id": "figure_reference_169",
+      "id": "figure_reference_182",
       "path": [
-        "paragraph_167",
+        "paragraph_180",
         "content"
       ],
       "target": "image_fig3",
@@ -2448,11 +2544,11 @@
         779
       ]
     },
-    "figure_reference_170": {
+    "figure_reference_183": {
       "type": "figure_reference",
-      "id": "figure_reference_170",
+      "id": "figure_reference_183",
       "path": [
-        "paragraph_167",
+        "paragraph_180",
         "content"
       ],
       "target": "image_fig6",
@@ -2461,16 +2557,16 @@
         881
       ]
     },
-    "paragraph_171": {
+    "paragraph_184": {
       "type": "paragraph",
-      "id": "paragraph_171",
+      "id": "paragraph_184",
       "content": "The Her2 subunit of the EGFR–Her2 heterodimer was modeled based on the Her2 monomer crystal structure from PDB entry 3BE1 (Bostrom et al., 2009), and missing residues in domains I–III were filled from PDB entries 1S78 (Franklin et al., 2004) and 2A91 (Garrett et al., 2003). The Her2 monomer was aligned with the ligand-free EGFR subunit from the 1-ligand EGFR dimer using EGFR residues 240–309 (and the corresponding residues of Her2) for reference. The part of domain IV of Her2 that is missing in the crystal structures (beyond residue 608) was modeled based on the EGFR structure. The minor clashes between Her2 and EGFR in the original model were resolved by adjusting the side chains of the amino acids involved. To obtain the Her2 homodimer, the Her2 monomer was used to replace the EGFR subunit in the ligand-free EGFR–Her2 heterodimer."
     },
-    "citation_reference_172": {
+    "citation_reference_185": {
       "type": "citation_reference",
-      "id": "citation_reference_172",
+      "id": "citation_reference_185",
       "path": [
-        "paragraph_171",
+        "paragraph_184",
         "content"
       ],
       "target": "article_citation_bib6",
@@ -2479,11 +2575,11 @@
         143
       ]
     },
-    "citation_reference_173": {
+    "citation_reference_186": {
       "type": "citation_reference",
-      "id": "citation_reference_173",
+      "id": "citation_reference_186",
       "path": [
-        "paragraph_171",
+        "paragraph_184",
         "content"
       ],
       "target": "article_citation_bib17",
@@ -2492,11 +2588,11 @@
         240
       ]
     },
-    "citation_reference_174": {
+    "citation_reference_187": {
       "type": "citation_reference",
-      "id": "citation_reference_174",
+      "id": "citation_reference_187",
       "path": [
-        "paragraph_171",
+        "paragraph_184",
         "content"
       ],
       "target": "article_citation_bib19",
@@ -2505,16 +2601,16 @@
         272
       ]
     },
-    "paragraph_175": {
+    "paragraph_188": {
       "type": "paragraph",
-      "id": "paragraph_175",
+      "id": "paragraph_188",
       "content": "The Her3–Her2 heterodimer was modeled based on our model of the EGFR–Her2 dimer taken at t = 0 (i.e., before simulation). Individual domains from the crystal structure of the tethered Her3 ectodomain (PDB entry 1M6B [Cho and Leahy, 2002]) were aligned on the respective domains of the EGFR template. Because domain II is straight in the EGFR template and bent in the Her3 crystal structure, the alignment was carried out in three separate steps. Specifically, Her3 residues 166–188, 189–238, and 239–307 were separately aligned with their EGFR counterparts. The residues at the borders between the parts of Her3 that were aligned as rigid bodies were then adjusted to ensure appropriate connectivity; a few minor clashes between the domains of Her3 and between Her3 and Her2 were eliminated by adjusting amino acid side chains. HRG was taken from PDB entry 1HAE (Jacobsen et al., 1996) and aligned with the EGF bound to the EGFR template, using EGF’s residues 26–46 for reference (as this part appears to be most similar structurally between the two)."
     },
-    "annotation_176": {
+    "annotation_189": {
       "type": "emphasis",
-      "id": "annotation_176",
+      "id": "annotation_189",
       "path": [
-        "paragraph_175",
+        "paragraph_188",
         "content"
       ],
       "target": null,
@@ -2523,11 +2619,11 @@
         90
       ]
     },
-    "citation_reference_177": {
+    "citation_reference_190": {
       "type": "citation_reference",
-      "id": "citation_reference_177",
+      "id": "citation_reference_190",
       "path": [
-        "paragraph_175",
+        "paragraph_188",
         "content"
       ],
       "target": "article_citation_bib7",
@@ -2536,11 +2632,11 @@
         236
       ]
     },
-    "citation_reference_178": {
+    "citation_reference_191": {
       "type": "citation_reference",
-      "id": "citation_reference_178",
+      "id": "citation_reference_191",
       "path": [
-        "paragraph_175",
+        "paragraph_188",
         "content"
       ],
       "target": "article_citation_bib24",
@@ -2549,9 +2645,9 @@
         884
       ]
     },
-    "paragraph_179": {
+    "paragraph_192": {
       "type": "paragraph",
-      "id": "paragraph_179",
+      "id": "paragraph_192",
       "content": "Domains IVs of receptors of the EGFR family are generally more flexible than the other ectodomains and are commonly unresolved in crystal structures. Thus, structural analysis of domain IVs starting from homology models may be particularly challenging. Although domain IVs were included in our models and simulations, they were not a main concern of this study."
     },
     "heading_s4-2": {
@@ -2561,16 +2657,16 @@
       "content": "Simulation details",
       "nodes": []
     },
-    "paragraph_180": {
+    "paragraph_193": {
       "type": "paragraph",
-      "id": "paragraph_180",
+      "id": "paragraph_193",
       "content": "The simulations were performed on the special-purpose supercomputer, Anton (Shaw et al., 2009), using the CHARMM22* force field (MacKerell et al., 1998; Piana et al., 2011) for proteins and TIP3P (Jorgensen et al., 1983) as the water model. The simulated systems were solvated in water with NaCl (Na+ ions were first added to neutralize the net charge of the system, and then equal numbers of Na+ and Cl− were added so that the concentration of Na+ reached 0.15 M), with residues set to their dominant protonation states at pH 7. As an equilibration stage, the protein backbone atoms were first restrained to their initial positions, using a harmonic potential with a force constant of 1 kcal mol−1 Å−2. The force constant was linearly scaled down to zero over 50 ns. Simulations were performed in the NPT ensemble for the equilibration step and in the NVT ensemble afterwards, with T = 310 K, p=1 bar, and Berendsen’s coupling scheme (Berendsen et al., 1984) with one temperature group. Water molecules and all bond lengths to hydrogen atoms were constrained using M-SHAKE (Kräutler et al., 2001). Van der Waals and short-range electrostatic interactions were cut off at 12.5 Å. Long-range electrostatic interactions were calculated using the k-space Gaussian split Ewald method (Shan et al., 2005) with a 64 × 64 × 64 mesh. The simulation time step was 1 fs for the equilibration stage and 2.5 fs for production simulations; the r-RESPA integration method was used with long-range electrostatics evaluated every 5 fs (Tuckerman et al., 1992)."
     },
-    "citation_reference_181": {
+    "citation_reference_194": {
       "type": "citation_reference",
-      "id": "citation_reference_181",
+      "id": "citation_reference_194",
       "path": [
-        "paragraph_180",
+        "paragraph_193",
         "content"
       ],
       "target": "article_citation_bib39",
@@ -2579,11 +2675,11 @@
         93
       ]
     },
-    "citation_reference_182": {
+    "citation_reference_195": {
       "type": "citation_reference",
-      "id": "citation_reference_182",
+      "id": "citation_reference_195",
       "path": [
-        "paragraph_180",
+        "paragraph_193",
         "content"
       ],
       "target": "article_citation_bib32",
@@ -2592,11 +2688,11 @@
         151
       ]
     },
-    "citation_reference_183": {
+    "citation_reference_196": {
       "type": "citation_reference",
-      "id": "citation_reference_183",
+      "id": "citation_reference_196",
       "path": [
-        "paragraph_180",
+        "paragraph_193",
         "content"
       ],
       "target": "article_citation_bib35",
@@ -2605,11 +2701,11 @@
         171
       ]
     },
-    "citation_reference_184": {
+    "citation_reference_197": {
       "type": "citation_reference",
-      "id": "citation_reference_184",
+      "id": "citation_reference_197",
       "path": [
-        "paragraph_180",
+        "paragraph_193",
         "content"
       ],
       "target": "article_citation_bib25",
@@ -2618,11 +2714,11 @@
         219
       ]
     },
-    "annotation_185": {
+    "annotation_198": {
       "type": "superscript",
-      "id": "annotation_185",
+      "id": "annotation_198",
       "path": [
-        "paragraph_180",
+        "paragraph_193",
         "content"
       ],
       "target": null,
@@ -2631,11 +2727,11 @@
         300
       ]
     },
-    "annotation_186": {
+    "annotation_199": {
       "type": "superscript",
-      "id": "annotation_186",
+      "id": "annotation_199",
       "path": [
-        "paragraph_180",
+        "paragraph_193",
         "content"
       ],
       "target": null,
@@ -2644,11 +2740,11 @@
         396
       ]
     },
-    "annotation_187": {
+    "annotation_200": {
       "type": "superscript",
-      "id": "annotation_187",
+      "id": "annotation_200",
       "path": [
-        "paragraph_180",
+        "paragraph_193",
         "content"
       ],
       "target": null,
@@ -2657,11 +2753,11 @@
         404
       ]
     },
-    "annotation_188": {
+    "annotation_201": {
       "type": "superscript",
-      "id": "annotation_188",
+      "id": "annotation_201",
       "path": [
-        "paragraph_180",
+        "paragraph_193",
         "content"
       ],
       "target": null,
@@ -2670,11 +2766,11 @@
         448
       ]
     },
-    "annotation_189": {
+    "annotation_202": {
       "type": "superscript",
-      "id": "annotation_189",
+      "id": "annotation_202",
       "path": [
-        "paragraph_180",
+        "paragraph_193",
         "content"
       ],
       "target": null,
@@ -2683,11 +2779,11 @@
         698
       ]
     },
-    "annotation_190": {
+    "annotation_203": {
       "type": "superscript",
-      "id": "annotation_190",
+      "id": "annotation_203",
       "path": [
-        "paragraph_180",
+        "paragraph_193",
         "content"
       ],
       "target": null,
@@ -2696,11 +2792,11 @@
         702
       ]
     },
-    "citation_reference_191": {
+    "citation_reference_204": {
       "type": "citation_reference",
-      "id": "citation_reference_191",
+      "id": "citation_reference_204",
       "path": [
-        "paragraph_180",
+        "paragraph_193",
         "content"
       ],
       "target": "article_citation_bib5",
@@ -2709,11 +2805,11 @@
         958
       ]
     },
-    "citation_reference_192": {
+    "citation_reference_205": {
       "type": "citation_reference",
-      "id": "citation_reference_192",
+      "id": "citation_reference_205",
       "path": [
-        "paragraph_180",
+        "paragraph_193",
         "content"
       ],
       "target": "article_citation_bib26",
@@ -2722,11 +2818,11 @@
         1096
       ]
     },
-    "annotation_193": {
+    "annotation_206": {
       "type": "emphasis",
-      "id": "annotation_193",
+      "id": "annotation_206",
       "path": [
-        "paragraph_180",
+        "paragraph_193",
         "content"
       ],
       "target": null,
@@ -2735,11 +2831,11 @@
         1245
       ]
     },
-    "citation_reference_194": {
+    "citation_reference_207": {
       "type": "citation_reference",
-      "id": "citation_reference_194",
+      "id": "citation_reference_207",
       "path": [
-        "paragraph_180",
+        "paragraph_193",
         "content"
       ],
       "target": "article_citation_bib38",
@@ -2748,11 +2844,11 @@
         1298
       ]
     },
-    "citation_reference_195": {
+    "citation_reference_208": {
       "type": "citation_reference",
-      "id": "citation_reference_195",
+      "id": "citation_reference_208",
       "path": [
-        "paragraph_180",
+        "paragraph_193",
         "content"
       ],
       "target": "article_citation_bib41",
@@ -2761,16 +2857,16 @@
         1542
       ]
     },
-    "paragraph_196": {
+    "paragraph_209": {
       "type": "paragraph",
-      "id": "paragraph_196",
+      "id": "paragraph_209",
       "content": "The simulated systems included the EGFR ectodomain dimers with two EGF ligands (three simulations) or one ligand (also three simulations); 1-ligand EGFR–Her2 ectodomain heterodimer (one simulation), ligand-free heterodimer (two simulations), Her2 homodimer (two simulations), 1-ligand Her3–Her2 heterodimer (two simulations), and ligand-free Her3–Her2 heterodimer (two simulations); and ligand-free dEGFR dimer (two simulations starting from the 2-ligand crystal structure and one from the ligand-free crystal structure). The size of the simulated systems was ∼270,000 atoms, in a periodic box of approximately 140 × 140 × 140 Å3. Modeling, analysis, and visualization were performed using VMD (Humphrey et al., 1996). The data for buried area shown in the figures was averaged over a 200-ns window."
     },
-    "annotation_197": {
+    "annotation_210": {
       "type": "superscript",
-      "id": "annotation_197",
+      "id": "annotation_210",
       "path": [
-        "paragraph_196",
+        "paragraph_209",
         "content"
       ],
       "target": null,
@@ -2779,11 +2875,11 @@
         629
       ]
     },
-    "citation_reference_198": {
+    "citation_reference_211": {
       "type": "citation_reference",
-      "id": "citation_reference_198",
+      "id": "citation_reference_211",
       "path": [
-        "paragraph_196",
+        "paragraph_209",
         "content"
       ],
       "target": "article_citation_bib22",
@@ -2792,16 +2888,16 @@
         716
       ]
     },
-    "paragraph_199": {
+    "paragraph_212": {
       "type": "paragraph",
-      "id": "paragraph_199",
+      "id": "paragraph_212",
       "content": "Repeated simulations of a given system produced largely similar results. In both simulations of the ligand-free EGFR–Her2 dimer, for example, a gap consistently developed at the dimer interface (Figure 4B). Three simulations of the 1-ligand EGFR homodimer (Figure 3D), generated average structures with a root-mean-squared deviation of 1.9–4.8 Å from one another, as measured based on the Cα atoms of domains I–III. By the same measurement, the two crystal structures of the 2-ligand EGFR homodimer (PDB entries 1IVO and 1MOX) differ from one other by 4.0 Å."
     },
-    "figure_reference_200": {
+    "figure_reference_213": {
       "type": "figure_reference",
-      "id": "figure_reference_200",
+      "id": "figure_reference_213",
       "path": [
-        "paragraph_199",
+        "paragraph_212",
         "content"
       ],
       "target": "image_fig4",
@@ -2810,11 +2906,11 @@
         204
       ]
     },
-    "figure_reference_201": {
+    "figure_reference_214": {
       "type": "figure_reference",
-      "id": "figure_reference_201",
+      "id": "figure_reference_214",
       "path": [
-        "paragraph_199",
+        "paragraph_212",
         "content"
       ],
       "target": "image_fig3",
@@ -2843,12 +2939,12 @@
       "level": 2,
       "content": "Competing Interests",
       "nodes": [
-        "paragraph_202"
+        "paragraph_215"
       ]
     },
-    "paragraph_202": {
+    "paragraph_215": {
       "type": "paragraph",
-      "id": "paragraph_202",
+      "id": "paragraph_215",
       "content": "Competing interestsThe authors declare that no competing interests exist."
     },
     "info:author_contribution": {
@@ -2885,17 +2981,11 @@
       "year": "2009",
       "volume": "461",
       "source": "Nature",
-      "issue": "",
       "fpage": "287",
       "lpage": "91",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nature08297",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib2": {
@@ -2919,17 +3009,11 @@
       "year": "2010",
       "volume": "142",
       "source": "Cell",
-      "issue": "",
       "fpage": "568",
       "lpage": "79",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.cell.2010.07.015",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib3": {
@@ -2965,17 +3049,11 @@
       "year": "2013",
       "volume": "152",
       "source": "Cell",
-      "issue": "",
       "fpage": "557",
       "lpage": "69",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.cell.2012.12.030",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib4": {
@@ -2995,17 +3073,11 @@
       "year": "2009",
       "volume": "9",
       "source": "Nat Rev Cancer",
-      "issue": "",
       "fpage": "463",
       "lpage": "75",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nrc2656",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib5": {
@@ -3037,17 +3109,11 @@
       "year": "1984",
       "volume": "81",
       "source": "J Chem Phys",
-      "issue": "",
       "fpage": "3684",
       "lpage": "90",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1063/1.448118",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib6": {
@@ -3083,17 +3149,11 @@
       "year": "2009",
       "volume": "323",
       "source": "Science",
-      "issue": "",
       "fpage": "1610",
       "lpage": "4",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1126/science.1165480",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib7": {
@@ -3113,17 +3173,11 @@
       "year": "2002",
       "volume": "297",
       "source": "Science",
-      "issue": "",
       "fpage": "1330",
       "lpage": "3",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1126/science.1074611",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib8": {
@@ -3159,17 +3213,11 @@
       "year": "2003",
       "volume": "421",
       "source": "Nature",
-      "issue": "",
       "fpage": "756",
       "lpage": "60",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nature01392",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib9": {
@@ -3205,17 +3253,11 @@
       "year": "2010",
       "volume": "464",
       "source": "Nature",
-      "issue": "",
       "fpage": "783",
       "lpage": "7",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nature08827",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib10": {
@@ -3239,17 +3281,11 @@
       "year": "2003",
       "volume": "284",
       "source": "Exp Cell Res",
-      "issue": "",
       "fpage": "54",
       "lpage": "65",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/S0014-4827(02)00101-5",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib11": {
@@ -3269,17 +3305,11 @@
       "year": "2006",
       "volume": "7",
       "source": "Nat Rev Mol Cell Biol",
-      "issue": "",
       "fpage": "505",
       "lpage": "16",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nrm1962",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib12": {
@@ -3315,17 +3345,11 @@
       "year": "2005",
       "volume": "25",
       "source": "Mol Cell Biol",
-      "issue": "",
       "fpage": "7734",
       "lpage": "42",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1128/MCB.25.17.7734-7742.2005",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib13": {
@@ -3361,17 +3385,11 @@
       "year": "2013",
       "volume": "152",
       "source": "Cell",
-      "issue": "",
       "fpage": "543",
       "lpage": "56",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.cell.2012.12.032",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib14": {
@@ -3403,17 +3421,11 @@
       "year": "2011",
       "volume": "27",
       "source": "Curr Opin Struct Biol",
-      "issue": "",
       "fpage": "777",
       "lpage": "84",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.sbi.2011.07.007",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib15": {
@@ -3449,17 +3461,11 @@
       "year": "2003",
       "volume": "11",
       "source": "Mol Cell",
-      "issue": "",
       "fpage": "507",
       "lpage": "17",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/S1097-2765(03)00047-9",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib16": {
@@ -3491,17 +3497,11 @@
       "year": "2000",
       "volume": "19",
       "source": "EMBO J",
-      "issue": "",
       "fpage": "4632",
       "lpage": "43",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1093/emboj/19.17.4632",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib17": {
@@ -3537,17 +3537,11 @@
       "year": "2004",
       "volume": "5",
       "source": "Cancer Cell",
-      "issue": "",
       "fpage": "317",
       "lpage": "28",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/S1535-6108(04)00083-2",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib18": {
@@ -3583,17 +3577,11 @@
       "year": "2002",
       "volume": "110",
       "source": "Cell",
-      "issue": "",
       "fpage": "763",
       "lpage": "73",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/S0092-8674(02)00940-6",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib19": {
@@ -3629,17 +3617,11 @@
       "year": "2003",
       "volume": "11",
       "source": "Mol Cell",
-      "issue": "",
       "fpage": "495",
       "lpage": "05",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/S0092-8674(02)00940-6",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib20": {
@@ -3667,17 +3649,11 @@
       "year": "1997",
       "volume": "16",
       "source": "EMBO J",
-      "issue": "",
       "fpage": "1647",
       "lpage": "55",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1093/emboj/16.7.1647",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib21": {
@@ -3713,17 +3689,11 @@
       "year": "1995",
       "volume": "270",
       "source": "J Biol Chem",
-      "issue": "",
       "fpage": "24604",
       "lpage": "8",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1074/jbc.270.41.24604",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib22": {
@@ -3747,17 +3717,11 @@
       "year": "1996",
       "volume": "14",
       "source": "J Mol Graph",
-      "issue": "",
       "fpage": "33",
       "lpage": "8",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/0263-7855(96)00018-5",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib23": {
@@ -3777,17 +3741,11 @@
       "year": "2005",
       "volume": "5",
       "source": "Nat Rev Cancer",
-      "issue": "",
       "fpage": "341",
       "lpage": "54",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nrc1667",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib24": {
@@ -3823,17 +3781,11 @@
       "year": "1996",
       "volume": "35",
       "source": "Biochemistry",
-      "issue": "",
       "fpage": "3402",
       "lpage": "17",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1021/bi952626l",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib25": {
@@ -3865,17 +3817,11 @@
       "year": "1983",
       "volume": "79",
       "source": "J Chem Phys",
-      "issue": "",
       "fpage": "926",
       "lpage": "35",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1021/bi952626l",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib26": {
@@ -3899,17 +3845,11 @@
       "year": "2001",
       "volume": "22",
       "source": "J Comput Chem",
-      "issue": "",
       "fpage": "501",
       "lpage": "8",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1002/1096-987X(20010415)22:5<501::AID-JCC1021>3.0.CO;2-V",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib27": {
@@ -3925,17 +3865,11 @@
       "year": "2009",
       "volume": "315",
       "source": "Exp Cell Res",
-      "issue": "",
       "fpage": "638",
       "lpage": "48",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.yexcr.2008.10.024",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib28": {
@@ -3955,17 +3889,11 @@
       "year": "2010",
       "volume": "141",
       "source": "Cell",
-      "issue": "",
       "fpage": "1117",
       "lpage": "34",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.cell.2010.06.011",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib29": {
@@ -4001,17 +3929,11 @@
       "year": "2005",
       "volume": "7",
       "source": "Cancer Cell",
-      "issue": "",
       "fpage": "301",
       "lpage": "11",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.ccr.2005.03.003",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib30": {
@@ -4047,17 +3969,11 @@
       "year": "2012",
       "volume": "109",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "10861",
       "lpage": "6",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1073/pnas.1201114109",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib31": {
@@ -4093,17 +4009,11 @@
       "year": "2010",
       "volume": "30",
       "source": "Mol Cell Biol",
-      "issue": "",
       "fpage": "5432",
       "lpage": "43",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1128/MCB.00742-10",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib32": {
@@ -4139,17 +4049,11 @@
       "year": "1998",
       "volume": "102",
       "source": "J Phys Chem B",
-      "issue": "",
       "fpage": "3586",
       "lpage": "616",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1021/jp973084f",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib33": {
@@ -4177,17 +4081,11 @@
       "year": "2010",
       "volume": "107",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "16524",
       "lpage": "9",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1073/pnas.1002642107",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib34": {
@@ -4223,17 +4121,11 @@
       "year": "2002",
       "volume": "110",
       "source": "Cell",
-      "issue": "",
       "fpage": "775",
       "lpage": "87",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/S0092-8674(02)00963-7",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib35": {
@@ -4257,17 +4149,11 @@
       "year": "2011",
       "volume": "100",
       "source": "Biophys J",
-      "issue": "",
       "fpage": "L47",
       "lpage": "9",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.bpj.2011.03.051",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib36": {
@@ -4291,17 +4177,11 @@
       "year": "2007",
       "volume": "29",
       "source": "Bioessays",
-      "issue": "",
       "fpage": "558",
       "lpage": "65",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1002/bies.20582",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib37": {
@@ -4333,17 +4213,10 @@
       "year": "1983",
       "volume": "258",
       "source": "J Biol Chem",
-      "issue": "",
       "fpage": "846",
       "lpage": "53",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib38": {
@@ -4375,17 +4248,11 @@
       "year": "2005",
       "volume": "122",
       "source": "J Chem Phys",
-      "issue": "",
       "fpage": "54101",
       "lpage": "13",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1063/1.1839571",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib39": {
@@ -4419,19 +4286,14 @@
       ],
       "title": "Millisecond-scale molecular dynamics simulations on Anton",
       "year": "2009",
-      "volume": "",
       "source": "Proceedings of the conference on high performance computing networking, storage and analysis",
-      "issue": "",
       "fpage": "1",
       "lpage": "11",
-      "collab": "",
-      "edition": "",
       "publisher-name": "ACM",
       "publisher-loc": "Portland, Oregon",
       "doi": "http://dx.doi.org/10.1145/1654059.1654099",
       "citation_url": [],
       "format": "book",
-      "label": "",
       "editors": []
     },
     "article_citation_bib40": {
@@ -4451,17 +4313,11 @@
       "year": "2000",
       "volume": "50",
       "source": "J Mol Evol",
-      "issue": "",
       "fpage": "397",
       "lpage": "412",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1007/s002390010043",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib41": {
@@ -4485,17 +4341,11 @@
       "year": "1992",
       "volume": "97",
       "source": "J Chem Phys",
-      "issue": "",
       "fpage": "1990",
       "lpage": "2001",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1063/1.463137",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib42": {
@@ -4531,17 +4381,11 @@
       "year": "2011",
       "volume": "31",
       "source": "Mol Cell Biol",
-      "issue": "",
       "fpage": "2241",
       "lpage": "52",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1128/MCB.01431-10",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib43": {
@@ -4561,17 +4405,10 @@
       "year": "1980",
       "volume": "255",
       "source": "J Biol Chem",
-      "issue": "",
       "fpage": "8363",
       "lpage": "5",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib44": {
@@ -4603,17 +4440,11 @@
       "year": "2006",
       "volume": "125",
       "source": "Cell",
-      "issue": "",
       "fpage": "1137",
       "lpage": "49",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.cell.2006.05.013",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib45": {
@@ -4633,17 +4464,11 @@
       "year": "2011",
       "volume": "50",
       "source": "Biochemistry",
-      "issue": "",
       "fpage": "2144",
       "lpage": "56",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1021/bi101843s",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "sub-article": {

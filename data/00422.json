@@ -29,24 +29,26 @@
         "paragraph_128",
         "paragraph_139",
         "paragraph_149",
+        "paragraph_202",
+        "paragraph_223",
         "heading_s3",
-        "paragraph_208",
-        "paragraph_219",
-        "paragraph_221",
-        "paragraph_226",
+        "paragraph_257",
+        "paragraph_268",
+        "paragraph_270",
+        "paragraph_275",
         "heading_s4",
         "heading_s4-1",
-        "paragraph_246",
-        "paragraph_281",
-        "paragraph_288",
+        "paragraph_295",
+        "paragraph_330",
+        "paragraph_337",
         "heading_s4-2",
-        "paragraph_293",
-        "paragraph_294",
-        "paragraph_296",
-        "paragraph_298",
-        "paragraph_303",
+        "paragraph_342",
+        "paragraph_343",
+        "paragraph_345",
+        "paragraph_347",
+        "paragraph_352",
         "heading_s4-3",
-        "paragraph_307",
+        "paragraph_356",
         "sub-article",
         "sub-article"
       ]
@@ -64,6 +66,9 @@
         "image_fig3",
         "image_fig3s1",
         "video_video1",
+        "video_video2",
+        "video_video3",
+        "video_video4",
         "image_fig4",
         "image_fig4s1",
         "image_fig4s2",
@@ -153,7 +158,6 @@
       "accepted_on": "2013-04-02",
       "published_on": "2013-05-14",
       "journal": "elife",
-      "article_type": "",
       "keywords": [
         "ERMES",
         "Gem1",
@@ -167,10 +171,9 @@
       "subjects": [
         "Cell biology"
       ],
-      "pdf_link": "",
-      "xml_link": "",
-      "json_link": "",
-      "doi": ""
+      "xml_link": "https://s3.amazonaws.com/elife-cdn/elife-articles/00422/elife00422.xml",
+      "json_link": "https://s3.amazonaws.com/elife-cdn/elife-articles/00422/00422.json",
+      "doi": "http://dx.doi.org/10.7554/eLife.00422"
     },
     "person_author_3245": {
       "type": "person",
@@ -179,9 +182,7 @@
       "last-name": "Murley",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article",
-      "email": "",
       "funding": [
         "funding_par_1"
       ]
@@ -193,9 +194,7 @@
       "last-name": "Lackner",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article",
-      "email": "",
       "funding": []
     },
     "person_author_3297": {
@@ -205,9 +204,7 @@
       "last-name": "Osman",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article",
-      "email": "",
       "funding": [
         "funding_par_3"
       ]
@@ -219,9 +216,7 @@
       "last-name": "West",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Acquisition of data, Analysis and interpretation of data, Drafting or revising the article",
-      "email": "",
       "funding": []
     },
     "person_author_3296": {
@@ -231,9 +226,7 @@
       "last-name": "Voeltz",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Acquisition of data, Analysis and interpretation of data, Drafting or revising the article",
-      "email": "",
       "funding": [
         "funding_par_5"
       ]
@@ -245,9 +238,7 @@
       "last-name": "Walter",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Acquisition of data, Analysis and interpretation of data",
-      "email": "",
       "funding": [
         "funding_par_2"
       ]
@@ -259,7 +250,6 @@
       "last-name": "Nunnari",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Drafting or revising the article",
       "email": "email_cor1",
       "funding": [
@@ -271,36 +261,28 @@
       "id": "institution_aff1",
       "name": "University of California, Davis",
       "city": "Davis",
-      "country": "United States",
-      "email": "",
-      "image": ""
+      "country": "United States"
     },
     "institution_aff2": {
       "type": "institution",
       "id": "institution_aff2",
       "name": "University of California, San Francisco",
       "city": "San Francisco",
-      "country": "United States",
-      "email": "",
-      "image": ""
+      "country": "United States"
     },
     "institution_aff3": {
       "type": "institution",
       "id": "institution_aff3",
       "name": "University of Colorado, Boulder",
       "city": "Boulder",
-      "country": "United States",
-      "email": "",
-      "image": ""
+      "country": "United States"
     },
     "institution_aff4": {
       "type": "institution",
       "id": "institution_aff4",
       "name": "University of California",
       "city": "San Francisco",
-      "country": "United States",
-      "email": "",
-      "image": ""
+      "country": "United States"
     },
     "person_1": {
       "type": "person",
@@ -309,9 +291,6 @@
       "last-name": "Youle",
       "role": "editor",
       "affiliations": [],
-      "image": "",
-      "contribution": "",
-      "email": "",
       "funding": []
     },
     "info:review": {
@@ -326,7 +305,6 @@
     "email_cor1": {
       "type": "email",
       "id": "email_cor1",
-      "node": "",
       "email": "jmnunnari@ucdavis.edu"
     },
     "info:copyright": {
@@ -486,7 +464,6 @@
       "type": "funding",
       "id": "funding_par_2",
       "institution": "Howard Hughes Medical Institute",
-      "accession": "",
       "person": "person_author_1406",
       "given-names": "Peter",
       "last-name": "Walter"
@@ -495,7 +472,6 @@
       "type": "funding",
       "id": "funding_par_3",
       "institution": "Human Frontier Science Program",
-      "accession": "",
       "person": "person_author_3297",
       "given-names": "Christof",
       "last-name": "Osman"
@@ -529,8 +505,7 @@
     },
     "paragraph_17": {
       "type": "paragraph",
-      "id": "paragraph_17",
-      "content": ""
+      "id": "paragraph_17"
     },
     "heading_s1": {
       "type": "heading",
@@ -996,19 +971,12 @@
       "type": "image",
       "id": "image_fig1",
       "label": "Figure 1.",
-      "url": "",
-      "object_id": "F1",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00422/svg/elife00422f001.svg",
       "title": "ERMES marks sites of ER-associated mitochondrial division.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00422.003",
       "caption": "paragraph_image_fig1",
-      "graphic_id": "elife00422f001"
+      "graphic_id": "elife00422f001",
+      "format": "image"
     },
     "paragraph_image_fig1": {
       "type": "paragraph",
@@ -1123,19 +1091,12 @@
       "type": "image",
       "id": "image_fig1s1",
       "label": "Figure 1—figure supplement 1.",
-      "url": "",
-      "object_id": "F2",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00422/svg/elife00422fs001.svg",
       "title": "ERMES subunits colocalize at mitochondrial division sites.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig1"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00422.004",
       "caption": "paragraph_image_fig1s1",
-      "graphic_id": "elife00422fs001"
+      "graphic_id": "elife00422fs001",
+      "format": "image"
     },
     "paragraph_image_fig1s1": {
       "type": "paragraph",
@@ -1530,19 +1491,12 @@
       "type": "image",
       "id": "image_fig2",
       "label": "Figure 2.",
-      "url": "",
-      "object_id": "F3",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00422/svg/elife00422f002.svg",
       "title": "Gem1 is required for mitochondrial distribution during ER-associated mitochondrial division.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00422.005",
       "caption": "paragraph_image_fig2",
-      "graphic_id": "elife00422f002"
+      "graphic_id": "elife00422f002",
+      "format": "image"
     },
     "paragraph_image_fig2": {
       "type": "paragraph",
@@ -1683,19 +1637,12 @@
       "type": "image",
       "id": "image_fig2s1",
       "label": "Figure 2—figure supplement 1.",
-      "url": "",
-      "object_id": "F4",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00422/svg/elife00422fs002.svg",
       "title": "ERMES-marked mitochondrial division is attenuated in gem1Δ cells.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig2"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00422.006",
       "caption": "paragraph_image_fig2s1",
-      "graphic_id": "elife00422fs002"
+      "graphic_id": "elife00422fs002",
+      "format": "image"
     },
     "paragraph_image_fig2s1": {
       "type": "paragraph",
@@ -1810,19 +1757,12 @@
       "type": "image",
       "id": "image_fig2s2",
       "label": "Figure 2—figure supplement 2.",
-      "url": "",
-      "object_id": "F5",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00422/svg/elife00422fs003.svg",
       "title": "The first and second GTPase domains of Gem1 are required for its role in maintaining mitochondrial morphology.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig2"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00422.007",
       "caption": "paragraph_image_fig2s2",
-      "graphic_id": "elife00422fs003"
+      "graphic_id": "elife00422fs003",
+      "format": "image"
     },
     "paragraph_image_fig2s2": {
       "type": "paragraph",
@@ -1924,19 +1864,12 @@
       "type": "image",
       "id": "image_fig2s3",
       "label": "Figure 2—figure supplement 3.",
-      "url": "",
-      "object_id": "F6",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00422/svg/elife00422fs004.svg",
       "title": "GTP hydrolysis by the second GTPase domain of Gem1 is required for mitochondrial distribution at ERMES-linked constrictions.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig2"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00422.008",
       "caption": "paragraph_image_fig2s3",
-      "graphic_id": "elife00422fs004"
+      "graphic_id": "elife00422fs004",
+      "format": "image"
     },
     "paragraph_image_fig2s3": {
       "type": "paragraph",
@@ -2404,19 +2337,12 @@
       "type": "image",
       "id": "image_fig3",
       "label": "Figure 3.",
-      "url": "",
-      "object_id": "F7",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00422/svg/elife00422f003.svg",
       "title": "Gem1 regulates ER–mitochondria contacts.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00422.009",
       "caption": "paragraph_image_fig3",
-      "graphic_id": "elife00422f003"
+      "graphic_id": "elife00422f003",
+      "format": "image"
     },
     "paragraph_image_fig3": {
       "type": "paragraph",
@@ -2648,19 +2574,12 @@
       "type": "image",
       "id": "image_fig3s1",
       "label": "Figure 3—figure supplement 1.",
-      "url": "",
-      "object_id": "F8",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00422/svg/elife00422fs005.svg",
       "title": "Quantitative comparison of ER–mitochondria contacts in wild-type and gem1Δ cells.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig3"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00422.010",
       "caption": "paragraph_image_fig3s1",
-      "graphic_id": "elife00422fs005"
+      "graphic_id": "elife00422fs005",
+      "format": "image"
     },
     "paragraph_image_fig3s1": {
       "type": "paragraph",
@@ -2917,88 +2836,746 @@
     "video_video1": {
       "type": "video",
       "id": "video_video1",
-      "label": "Video 4.",
-      "title": "Original tomographs and rotating three-dimensional models of the ER and mitochondria in a wild-type cell.Original tomographs and rotating three-dimensional models of ER and mitochondria in a gem1Δ cell.A rotating three-dimensional model of constricted, but continuous mitochondria in a gem1Δ cell.A rotating three-dimensional model of ‘tethered’ mitochondria in a gem1Δ cell.",
+      "label": "Video 1.",
+      "title": "Original tomographs and rotating three-dimensional models of the ER and mitochondria in a wild-type cell.",
       "caption": "paragraph_video_video1",
-      "content_type": "",
-      "url_ogv": "http://static.movie-usa.glencoesoftware.com/ogv/10.7554/elife00422v004.ogv",
-      "url_jpg": "",
-      "url_mp4": "",
-      "doi": "http://dx.doi.org/10.7554/eLife.00422.011http://dx.doi.org/10.7554/eLife.00422.012http://dx.doi.org/10.7554/eLife.00422.013http://dx.doi.org/10.7554/eLife.00422.014",
-      "url": "http://static.movie-usa.glencoesoftware.com/mp4/10.7554/elife00422v004.mp4",
-      "poster": "http://static.movie-usa.glencoesoftware.com/jpg/10.7554/elife00422v004.jpg",
-      "graphic_id": "elife00422v004.mov"
+      "url_ogv": "http://static.movie-usa.glencoesoftware.com/ogv/10.7554/elife00422v001.ogv",
+      "doi": "http://dx.doi.org/10.7554/eLife.00422.011",
+      "url": "http://static.movie-usa.glencoesoftware.com/mp4/10.7554/elife00422v001.mp4",
+      "poster": "http://static.movie-usa.glencoesoftware.com/jpg/10.7554/elife00422v001.jpg"
     },
     "paragraph_video_video1": {
       "type": "paragraph",
       "id": "paragraph_video_video1",
       "content": "ER (green) and a mitochondrion (purple) in a tomogram derived from three serial sections of a wild-type cell. Shown in red are regions of contact between the two organelles."
     },
+    "video_video2": {
+      "type": "video",
+      "id": "video_video2",
+      "label": "Video 2.",
+      "title": "Original tomographs and rotating three-dimensional models of ER and mitochondria in a gem1Δ cell.",
+      "caption": "paragraph_video_video2",
+      "url_ogv": "http://static.movie-usa.glencoesoftware.com/ogv/10.7554/elife00422v002.ogv",
+      "doi": "http://dx.doi.org/10.7554/eLife.00422.012",
+      "url": "http://static.movie-usa.glencoesoftware.com/mp4/10.7554/elife00422v002.mp4",
+      "poster": "http://static.movie-usa.glencoesoftware.com/jpg/10.7554/elife00422v002.jpg"
+    },
+    "paragraph_video_video2": {
+      "type": "paragraph",
+      "id": "paragraph_video_video2",
+      "content": "ER (green) and a mitochondrion (purple) in a tomogram derived from three serial sections of a gem1Δ cell. Shown in red are regions of contact between the two organelles."
+    },
     "annotation_194": {
       "type": "emphasis",
       "id": "annotation_194",
       "path": [
-        "video_video1",
+        "video_video2",
         "title"
       ],
       "target": null,
       "range": [
-        191,
-        195
+        86,
+        90
       ]
     },
     "annotation_195": {
       "type": "emphasis",
       "id": "annotation_195",
       "path": [
-        "video_video1",
-        "title"
+        "paragraph_video_video2",
+        "content"
       ],
       "target": null,
       "range": [
-        286,
-        290
+        94,
+        98
       ]
+    },
+    "video_video3": {
+      "type": "video",
+      "id": "video_video3",
+      "label": "Video 3.",
+      "title": "A rotating three-dimensional model of constricted, but continuous mitochondria in a gem1Δ cell.",
+      "caption": "paragraph_video_video3",
+      "url_ogv": "http://static.movie-usa.glencoesoftware.com/ogv/10.7554/elife00422v003.ogv",
+      "doi": "http://dx.doi.org/10.7554/eLife.00422.013",
+      "url": "http://static.movie-usa.glencoesoftware.com/mp4/10.7554/elife00422v003.mp4",
+      "poster": "http://static.movie-usa.glencoesoftware.com/jpg/10.7554/elife00422v003.jpg"
+    },
+    "paragraph_video_video3": {
+      "type": "paragraph",
+      "id": "paragraph_video_video3",
+      "content": "Rotating three-dimensional models of mitochondria (purple) that are globular and yet continuous with each other relative to the ER (green) and regions of contact between them (red) in the gem1Δ cell. Images correspond to the mitochondria shown in Figure 1B,C."
     },
     "annotation_196": {
       "type": "emphasis",
       "id": "annotation_196",
       "path": [
-        "video_video1",
+        "video_video3",
         "title"
       ],
       "target": null,
       "range": [
-        364,
-        368
+        84,
+        88
+      ]
+    },
+    "annotation_197": {
+      "type": "emphasis",
+      "id": "annotation_197",
+      "path": [
+        "paragraph_video_video3",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        188,
+        192
+      ]
+    },
+    "figure_reference_198": {
+      "type": "figure_reference",
+      "id": "figure_reference_198",
+      "path": [
+        "paragraph_video_video3",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        247,
+        258
+      ]
+    },
+    "video_video4": {
+      "type": "video",
+      "id": "video_video4",
+      "label": "Video 4.",
+      "title": "A rotating three-dimensional model of ‘tethered’ mitochondria in a gem1Δ cell.",
+      "caption": "paragraph_video_video4",
+      "url_ogv": "http://static.movie-usa.glencoesoftware.com/ogv/10.7554/elife00422v004.ogv",
+      "doi": "http://dx.doi.org/10.7554/eLife.00422.014",
+      "url": "http://static.movie-usa.glencoesoftware.com/mp4/10.7554/elife00422v004.mp4",
+      "poster": "http://static.movie-usa.glencoesoftware.com/jpg/10.7554/elife00422v004.jpg"
+    },
+    "paragraph_video_video4": {
+      "type": "paragraph",
+      "id": "paragraph_video_video4",
+      "content": "Globular and ‘tethered’ mitochondria in a gem1Δ cell are associated with the ER (green) and regions of contact between them (red) are noted. Images correspond to the mitochondria shown in Figure 1B,D."
+    },
+    "annotation_199": {
+      "type": "emphasis",
+      "id": "annotation_199",
+      "path": [
+        "video_video4",
+        "title"
+      ],
+      "target": null,
+      "range": [
+        67,
+        71
+      ]
+    },
+    "annotation_200": {
+      "type": "emphasis",
+      "id": "annotation_200",
+      "path": [
+        "paragraph_video_video4",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        42,
+        46
+      ]
+    },
+    "figure_reference_201": {
+      "type": "figure_reference",
+      "id": "figure_reference_201",
+      "path": [
+        "paragraph_video_video4",
+        "content"
+      ],
+      "target": "image_fig1",
+      "range": [
+        188,
+        199
+      ]
+    },
+    "paragraph_202": {
+      "type": "paragraph",
+      "id": "paragraph_202",
+      "content": "Quantitative analysis of an equivalent mitochondrial surface area in wild-type and gem1Δ cells (approximately 5 μm2) revealed that gem1Δ cells harbor a significantly greater number of ER–mitochondria contacts than wild-type cells, which are also more clustered as compared to wild-type contacts (Figure 3—figure supplement 1). The surface area of individual ER–mitochondria contacts was, on average, smaller in gem1Δ cells as compared to wild-type cells (Figure 3E and Figure 3—figure supplement 1C). However, the total ER–mitochondria contact surface was approximately three times greater than that observed for wild-type mitochondria (Figure 3F). These findings are consistent with fluorescence data demonstrating that, in comparison to wild-type cells, ER tubules in gem1Δ cells were observed associated in a relatively stable manner with mitochondrial constriction sites (Figure 2C). In addition, our EM analysis suggests that the reported larger ERMES foci observed by fluorescence imaging in gem1Δ cells may represent multiple unresolved ER–mitochondria contacts (Kornmann et al., 2011) (Figure 3—figure supplement 1D). The average diameter of gem1Δ mitochondria, measured along their short axis, was also greater than that of wild-type cells (Figure 3—figure supplement 1E), consistent with our fluorescence imaging analysis (Figure 2). However, the average diameter of ER-associated mitochondrial constriction sites in wild-type and gem1Δ cells were similar (Figure 3—figure supplement 1F), consistent with our light imaging data demonstrating that Dnm1 is still efficiently targeted to mitochondrial constriction sites in gem1Δ cells (Figure 2C). Together, these data suggest that Gem1 functions downstream of ER-associated mitochondrial constriction and division as a negative regulator of ER–mitochondria contacts, which is required for the efficient resolution and spatial distribution of mitochondria following division."
+    },
+    "annotation_203": {
+      "type": "emphasis",
+      "id": "annotation_203",
+      "path": [
+        "paragraph_202",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        83,
+        87
+      ]
+    },
+    "annotation_204": {
+      "type": "superscript",
+      "id": "annotation_204",
+      "path": [
+        "paragraph_202",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        114,
+        115
+      ]
+    },
+    "annotation_205": {
+      "type": "emphasis",
+      "id": "annotation_205",
+      "path": [
+        "paragraph_202",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        131,
+        135
+      ]
+    },
+    "figure_reference_206": {
+      "type": "figure_reference",
+      "id": "figure_reference_206",
+      "path": [
+        "paragraph_202",
+        "content"
+      ],
+      "target": "image_fig3s1",
+      "range": [
+        296,
+        324
+      ]
+    },
+    "annotation_207": {
+      "type": "emphasis",
+      "id": "annotation_207",
+      "path": [
+        "paragraph_202",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        411,
+        415
+      ]
+    },
+    "figure_reference_208": {
+      "type": "figure_reference",
+      "id": "figure_reference_208",
+      "path": [
+        "paragraph_202",
+        "content"
+      ],
+      "target": "image_fig3",
+      "range": [
+        455,
+        464
+      ]
+    },
+    "figure_reference_209": {
+      "type": "figure_reference",
+      "id": "figure_reference_209",
+      "path": [
+        "paragraph_202",
+        "content"
+      ],
+      "target": "image_fig3s1",
+      "range": [
+        469,
+        498
+      ]
+    },
+    "figure_reference_210": {
+      "type": "figure_reference",
+      "id": "figure_reference_210",
+      "path": [
+        "paragraph_202",
+        "content"
+      ],
+      "target": "image_fig3",
+      "range": [
+        637,
+        646
+      ]
+    },
+    "annotation_211": {
+      "type": "emphasis",
+      "id": "annotation_211",
+      "path": [
+        "paragraph_202",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        770,
+        774
+      ]
+    },
+    "figure_reference_212": {
+      "type": "figure_reference",
+      "id": "figure_reference_212",
+      "path": [
+        "paragraph_202",
+        "content"
+      ],
+      "target": "image_fig2",
+      "range": [
+        876,
+        885
+      ]
+    },
+    "annotation_213": {
+      "type": "emphasis",
+      "id": "annotation_213",
+      "path": [
+        "paragraph_202",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        998,
+        1002
+      ]
+    },
+    "citation_reference_214": {
+      "type": "citation_reference",
+      "id": "citation_reference_214",
+      "path": [
+        "paragraph_202",
+        "content"
+      ],
+      "target": "article_citation_bib26",
+      "range": [
+        1070,
+        1091
+      ]
+    },
+    "figure_reference_215": {
+      "type": "figure_reference",
+      "id": "figure_reference_215",
+      "path": [
+        "paragraph_202",
+        "content"
+      ],
+      "target": "image_fig3s1",
+      "range": [
+        1094,
+        1123
+      ]
+    },
+    "annotation_216": {
+      "type": "emphasis",
+      "id": "annotation_216",
+      "path": [
+        "paragraph_202",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1150,
+        1154
+      ]
+    },
+    "figure_reference_217": {
+      "type": "figure_reference",
+      "id": "figure_reference_217",
+      "path": [
+        "paragraph_202",
+        "content"
+      ],
+      "target": "image_fig3s1",
+      "range": [
+        1250,
+        1279
+      ]
+    },
+    "figure_reference_218": {
+      "type": "figure_reference",
+      "id": "figure_reference_218",
+      "path": [
+        "paragraph_202",
+        "content"
+      ],
+      "target": "image_fig2",
+      "range": [
+        1333,
+        1341
+      ]
+    },
+    "annotation_219": {
+      "type": "emphasis",
+      "id": "annotation_219",
+      "path": [
+        "paragraph_202",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1441,
+        1445
+      ]
+    },
+    "figure_reference_220": {
+      "type": "figure_reference",
+      "id": "figure_reference_220",
+      "path": [
+        "paragraph_202",
+        "content"
+      ],
+      "target": "image_fig3s1",
+      "range": [
+        1467,
+        1496
+      ]
+    },
+    "annotation_221": {
+      "type": "emphasis",
+      "id": "annotation_221",
+      "path": [
+        "paragraph_202",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1631,
+        1635
+      ]
+    },
+    "figure_reference_222": {
+      "type": "figure_reference",
+      "id": "figure_reference_222",
+      "path": [
+        "paragraph_202",
+        "content"
+      ],
+      "target": "image_fig2",
+      "range": [
+        1644,
+        1653
+      ]
+    },
+    "paragraph_223": {
+      "type": "paragraph",
+      "id": "paragraph_223",
+      "content": "To further investigate the functional significance of these observations, we explored the idea that ERMD serves to position division sites adjacent to actively segregating mitochondrial nucleoids, which is based on the observation that ERMES is spatially linked to actively replicating mitochondrial nucleoids (Hobbs et al., 2001; Meeusen and Nunnari, 2003). To visualize nucleoids, we created a functional FP fusion to the nucleoid component, Yme2 (Figure 4 and Figure 4—figure supplements 1 and 2), an integral mitochondrial inner membrane protein with homology to exonucleases whose deletion alters nucleoid structure and copy number (Hanekamp and Thorsness, 1996, 1999; Park et al., 2006). Consistent with the previously published work, we observed that over time a subset of Yme2-GFP–labeled nucleoids persistently localize adjacent to ERMES foci, marked by Mdm34-tdTomato (Figure 4A). In addition, ERMES-linked nucleoids were associated with mitochondrial division events (Figure 4A). To characterize the behavior of yeast nucleoids at division sites, we simultaneously imaged mitochondria (mito-dsRed) and nucleoids (Yme2-GFP). Quantitative analysis indicated that mitochondrial nucleoids are associated with over 80% of mitochondrial division events (Figure 4B,C). Temporal analysis of Yme2-GFP–labeled nucleoids positioned at future sites of mitochondrial division indicated that they exhibit short-ranged oscillatory movements and often rapidly segregate and recoalesce prior to mitochondrial division (Figure 4B and Figure 4—figure supplement 3). Following mitochondrial division, a majority of Yme2-GFP foci were observed at the ends of both newly generated mitochondrial tips (Figure 4B,C and Figure 4—figure supplement 3). However, we also observed division events that resulted in a nucleoid in only one of the newly generated mitochondrial tips, indicating that division and nucleoid segregation are not obligatorily linked (Figure 4C and Figure 4—figure supplement 3). Consistent with a role of ERMES in nucleoid positioning, published data indicate that deletion of core ERMES components disrupts nucleoid structure (Burgess et al., 1994; Youngman et al., 2004). In contrast, we observed that nucleoids, as labeled by Yme2-GFP, maintained their discrete focal localization in gem1Δ cells, similar to wild-type cells (Figure 4D). In addition, similar to ERMES distribution, Yme2-GFP foci were observed associated with stable mitochondrial constrictions in gem1Δ cells (Figure 4D), consistent with the idea that the spatial resolution of ER–mitochondria contacts following division is fundamentally important for nucleoid distribution. Thus, our findings suggest that ERMD functions to position division sites in proximity to nucleoids to increase the probability of their distribution upon mitochondrial division."
+    },
+    "citation_reference_224": {
+      "type": "citation_reference",
+      "id": "citation_reference_224",
+      "path": [
+        "paragraph_223",
+        "content"
+      ],
+      "target": "article_citation_bib20",
+      "range": [
+        311,
+        329
+      ]
+    },
+    "citation_reference_225": {
+      "type": "citation_reference",
+      "id": "citation_reference_225",
+      "path": [
+        "paragraph_223",
+        "content"
+      ],
+      "target": "article_citation_bib34",
+      "range": [
+        331,
+        356
+      ]
+    },
+    "figure_reference_226": {
+      "type": "figure_reference",
+      "id": "figure_reference_226",
+      "path": [
+        "paragraph_223",
+        "content"
+      ],
+      "target": "image_fig4",
+      "range": [
+        450,
+        458
+      ]
+    },
+    "figure_reference_227": {
+      "type": "figure_reference",
+      "id": "figure_reference_227",
+      "path": [
+        "paragraph_223",
+        "content"
+      ],
+      "target": "image_fig4s1",
+      "range": [
+        463,
+        498
+      ]
+    },
+    "citation_reference_228": {
+      "type": "citation_reference",
+      "id": "citation_reference_228",
+      "path": [
+        "paragraph_223",
+        "content"
+      ],
+      "target": "article_citation_bib16",
+      "range": [
+        638,
+        666
+      ]
+    },
+    "citation_reference_229": {
+      "type": "citation_reference",
+      "id": "citation_reference_229",
+      "path": [
+        "paragraph_223",
+        "content"
+      ],
+      "target": "article_citation_bib17",
+      "range": [
+        668,
+        672
+      ]
+    },
+    "citation_reference_230": {
+      "type": "citation_reference",
+      "id": "citation_reference_230",
+      "path": [
+        "paragraph_223",
+        "content"
+      ],
+      "target": "article_citation_bib39",
+      "range": [
+        674,
+        691
+      ]
+    },
+    "figure_reference_231": {
+      "type": "figure_reference",
+      "id": "figure_reference_231",
+      "path": [
+        "paragraph_223",
+        "content"
+      ],
+      "target": "image_fig4",
+      "range": [
+        879,
+        888
+      ]
+    },
+    "figure_reference_232": {
+      "type": "figure_reference",
+      "id": "figure_reference_232",
+      "path": [
+        "paragraph_223",
+        "content"
+      ],
+      "target": "image_fig4",
+      "range": [
+        979,
+        988
+      ]
+    },
+    "figure_reference_233": {
+      "type": "figure_reference",
+      "id": "figure_reference_233",
+      "path": [
+        "paragraph_223",
+        "content"
+      ],
+      "target": "image_fig4",
+      "range": [
+        1259,
+        1270
+      ]
+    },
+    "figure_reference_234": {
+      "type": "figure_reference",
+      "id": "figure_reference_234",
+      "path": [
+        "paragraph_223",
+        "content"
+      ],
+      "target": "image_fig4",
+      "range": [
+        1513,
+        1522
+      ]
+    },
+    "figure_reference_235": {
+      "type": "figure_reference",
+      "id": "figure_reference_235",
+      "path": [
+        "paragraph_223",
+        "content"
+      ],
+      "target": "image_fig4s3",
+      "range": [
+        1527,
+        1555
+      ]
+    },
+    "figure_reference_236": {
+      "type": "figure_reference",
+      "id": "figure_reference_236",
+      "path": [
+        "paragraph_223",
+        "content"
+      ],
+      "target": "image_fig4",
+      "range": [
+        1690,
+        1701
+      ]
+    },
+    "figure_reference_237": {
+      "type": "figure_reference",
+      "id": "figure_reference_237",
+      "path": [
+        "paragraph_223",
+        "content"
+      ],
+      "target": "image_fig4s3",
+      "range": [
+        1706,
+        1734
+      ]
+    },
+    "figure_reference_238": {
+      "type": "figure_reference",
+      "id": "figure_reference_238",
+      "path": [
+        "paragraph_223",
+        "content"
+      ],
+      "target": "image_fig4",
+      "range": [
+        1941,
+        1950
+      ]
+    },
+    "figure_reference_239": {
+      "type": "figure_reference",
+      "id": "figure_reference_239",
+      "path": [
+        "paragraph_223",
+        "content"
+      ],
+      "target": "image_fig4s3",
+      "range": [
+        1955,
+        1983
+      ]
+    },
+    "citation_reference_240": {
+      "type": "citation_reference",
+      "id": "citation_reference_240",
+      "path": [
+        "paragraph_223",
+        "content"
+      ],
+      "target": "article_citation_bib6",
+      "range": [
+        2135,
+        2155
+      ]
+    },
+    "citation_reference_241": {
+      "type": "citation_reference",
+      "id": "citation_reference_241",
+      "path": [
+        "paragraph_223",
+        "content"
+      ],
+      "target": "article_citation_bib54",
+      "range": [
+        2157,
+        2178
+      ]
+    },
+    "annotation_242": {
+      "type": "emphasis",
+      "id": "annotation_242",
+      "path": [
+        "paragraph_223",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        2294,
+        2298
+      ]
+    },
+    "figure_reference_243": {
+      "type": "figure_reference",
+      "id": "figure_reference_243",
+      "path": [
+        "paragraph_223",
+        "content"
+      ],
+      "target": "image_fig4",
+      "range": [
+        2335,
+        2344
+      ]
+    },
+    "annotation_244": {
+      "type": "emphasis",
+      "id": "annotation_244",
+      "path": [
+        "paragraph_223",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        2473,
+        2477
+      ]
+    },
+    "figure_reference_245": {
+      "type": "figure_reference",
+      "id": "figure_reference_245",
+      "path": [
+        "paragraph_223",
+        "content"
+      ],
+      "target": "image_fig4",
+      "range": [
+        2486,
+        2495
       ]
     },
     "image_fig4": {
       "type": "image",
       "id": "image_fig4",
       "label": "Figure 4.",
-      "url": "",
-      "object_id": "F9",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00422/svg/elife00422f004.svg",
       "title": "Nucleoid segregation is linked to mitochondrial division.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00422.015",
       "caption": "paragraph_image_fig4",
-      "graphic_id": "elife00422f004"
+      "graphic_id": "elife00422f004",
+      "format": "image"
     },
     "paragraph_image_fig4": {
       "type": "paragraph",
       "id": "paragraph_image_fig4",
       "content": "(A) Yme2-GFP coaligns with ERMES foci, marked by Mdm34-TdTomato, at mitochondrial division events. (B) Nucleoid behavior, marked by Yme2-yEGFP, at mitochondrial (mito-DsRed) division sites. (C) Quantification of the relationship of nucleoids to division sites. (D) Representative images of gem1Δ cells expressing Yme2-GFP and mito-DsRed. Scale bars, 2 μm, except in the inset of (B), which is 1 μm."
     },
-    "annotation_197": {
+    "annotation_246": {
       "type": "strong",
-      "id": "annotation_197",
+      "id": "annotation_246",
       "path": [
         "paragraph_image_fig4",
         "content"
@@ -3009,9 +3586,9 @@
         2
       ]
     },
-    "annotation_198": {
+    "annotation_247": {
       "type": "strong",
-      "id": "annotation_198",
+      "id": "annotation_247",
       "path": [
         "paragraph_image_fig4",
         "content"
@@ -3022,9 +3599,9 @@
         101
       ]
     },
-    "annotation_199": {
+    "annotation_248": {
       "type": "strong",
-      "id": "annotation_199",
+      "id": "annotation_248",
       "path": [
         "paragraph_image_fig4",
         "content"
@@ -3035,9 +3612,9 @@
         192
       ]
     },
-    "annotation_200": {
+    "annotation_249": {
       "type": "strong",
-      "id": "annotation_200",
+      "id": "annotation_249",
       "path": [
         "paragraph_image_fig4",
         "content"
@@ -3048,9 +3625,9 @@
         263
       ]
     },
-    "annotation_201": {
+    "annotation_250": {
       "type": "emphasis",
-      "id": "annotation_201",
+      "id": "annotation_250",
       "path": [
         "paragraph_image_fig4",
         "content"
@@ -3061,9 +3638,9 @@
         294
       ]
     },
-    "annotation_202": {
+    "annotation_251": {
       "type": "strong",
-      "id": "annotation_202",
+      "id": "annotation_251",
       "path": [
         "paragraph_image_fig4",
         "content"
@@ -3078,28 +3655,21 @@
       "type": "image",
       "id": "image_fig4s1",
       "label": "Figure 4—figure supplement 1.",
-      "url": "",
-      "object_id": "F10",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00422/svg/elife00422fs006.svg",
       "title": "Yme2-GFP is functional.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig4"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00422.016",
       "caption": "paragraph_image_fig4s1",
-      "graphic_id": "elife00422fs006"
+      "graphic_id": "elife00422fs006",
+      "format": "image"
     },
     "paragraph_image_fig4s1": {
       "type": "paragraph",
       "id": "paragraph_image_fig4s1",
       "content": "(A) The functionality of Yme2-GFP was assessed by exploiting the synthetic lethal phenotype on rich dextrose media caused by deletion of both YME2 and GEP4, which encodes a component of the cardiolipin biosynthetic pathway in mitochondria. Growth of gep4Δ cells on rich dextrose media was unaltered by expression of Yme2-GFP from its chromosomal locus, indicating that Yme2-GFP is functional."
     },
-    "annotation_203": {
+    "annotation_252": {
       "type": "strong",
-      "id": "annotation_203",
+      "id": "annotation_252",
       "path": [
         "paragraph_image_fig4s1",
         "content"
@@ -3110,9 +3680,9 @@
         2
       ]
     },
-    "annotation_204": {
+    "annotation_253": {
       "type": "emphasis",
-      "id": "annotation_204",
+      "id": "annotation_253",
       "path": [
         "paragraph_image_fig4s1",
         "content"
@@ -3123,9 +3693,9 @@
         146
       ]
     },
-    "annotation_205": {
+    "annotation_254": {
       "type": "emphasis",
-      "id": "annotation_205",
+      "id": "annotation_254",
       "path": [
         "paragraph_image_fig4s1",
         "content"
@@ -3136,9 +3706,9 @@
         155
       ]
     },
-    "annotation_206": {
+    "annotation_255": {
       "type": "emphasis",
-      "id": "annotation_206",
+      "id": "annotation_255",
       "path": [
         "paragraph_image_fig4s1",
         "content"
@@ -3153,28 +3723,21 @@
       "type": "image",
       "id": "image_fig4s2",
       "label": "Figure 4—figure supplement 2.",
-      "url": "",
-      "object_id": "F11",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00422/svg/elife00422fs007.svg",
       "title": "Yme2-GFP localizes to nucleoids.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig4"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00422.017",
       "caption": "paragraph_image_fig4s2",
-      "graphic_id": "elife00422fs007"
+      "graphic_id": "elife00422fs007",
+      "format": "image"
     },
     "paragraph_image_fig4s2": {
       "type": "paragraph",
       "id": "paragraph_image_fig4s2",
       "content": "(A) Chromosomally expressed Yme2-GFP in wild-type cells localized to punctate structures, which were also stained with the DNA selective vital dye DAPI and formed a beads-on-a-string pattern, characteristic of mitochondrial nucleoids. Scale bars, 2 μm."
     },
-    "annotation_207": {
+    "annotation_256": {
       "type": "strong",
-      "id": "annotation_207",
+      "id": "annotation_256",
       "path": [
         "paragraph_image_fig4s2",
         "content"
@@ -3189,19 +3752,12 @@
       "type": "image",
       "id": "image_fig4s3",
       "label": "Figure 4—figure supplement 3.",
-      "url": "",
-      "object_id": "F12",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00422/svg/elife00422fs008.svg",
       "title": "Additional examples of Yme2-GFP nucleoid behavior at a mitochondrial division sites in wild-type cells.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig4"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00422.018",
       "caption": "paragraph_image_fig4s3",
-      "graphic_id": "elife00422fs008"
+      "graphic_id": "elife00422fs008",
+      "format": "image"
     },
     "paragraph_image_fig4s3": {
       "type": "paragraph",
@@ -3215,16 +3771,16 @@
       "content": "Discussion",
       "nodes": []
     },
-    "paragraph_208": {
+    "paragraph_257": {
       "type": "paragraph",
-      "id": "paragraph_208",
+      "id": "paragraph_257",
       "content": "Here, we show that ERMES and the Miro GTPase Gem1 function in the process of ERMD, which serves to couple the segregation of mitochondria and mtDNA in cells. Specifically, our data support a model in which ERMES creates ER–mitochondria contacts along the mitochondrial network that serve to link actively replicating nucleoids to mitochondrial division and the subsequent Gem1-dependent spatial resolution of newly generated mitochondrial tips. Such a mechanism is likely required for efficient mtDNA distribution throughout the cell in addition to nucleoid segregation per se, as long-range movement of nucleoids within the organelle is limited (Nunnari et al., 1997; Okamoto et al., 1998). In mammalian cells, nucleoids are similarly localized at mitochondrial division sites and mitochondrial tips, suggesting that ERMD also plays this fundamental role in humans (Garrido et al., 2003; Iborra et al., 2004). In this context, although the Miro GTPase family is highly conserved in eukaryotes, Miro orthologs are not found in organisms that lack mtDNA, such as Giardia intestinalis and Trichomonas vaginalis, and possess mitochondrial-related mitosomes or hydrogenosomes, respectively (Vlahou et al., 2011). This correlation is consistent with a fundamental role of Miro in mtDNA segregation. Also consistent with this view, gem1Δ cells lose mitochondrial DNA at a significantly higher frequency than wild-type cells (Frederick et al., 2004)."
     },
-    "annotation_209": {
+    "annotation_258": {
       "type": "emphasis",
-      "id": "annotation_209",
+      "id": "annotation_258",
       "path": [
-        "paragraph_208",
+        "paragraph_257",
         "content"
       ],
       "target": null,
@@ -3233,11 +3789,11 @@
         576
       ]
     },
-    "citation_reference_210": {
+    "citation_reference_259": {
       "type": "citation_reference",
-      "id": "citation_reference_210",
+      "id": "citation_reference_259",
       "path": [
-        "paragraph_208",
+        "paragraph_257",
         "content"
       ],
       "target": "article_citation_bib37",
@@ -3246,11 +3802,11 @@
         667
       ]
     },
-    "citation_reference_211": {
+    "citation_reference_260": {
       "type": "citation_reference",
-      "id": "citation_reference_211",
+      "id": "citation_reference_260",
       "path": [
-        "paragraph_208",
+        "paragraph_257",
         "content"
       ],
       "target": "article_citation_bib38",
@@ -3259,11 +3815,11 @@
         689
       ]
     },
-    "citation_reference_212": {
+    "citation_reference_261": {
       "type": "citation_reference",
-      "id": "citation_reference_212",
+      "id": "citation_reference_261",
       "path": [
-        "paragraph_208",
+        "paragraph_257",
         "content"
       ],
       "target": "article_citation_bib12",
@@ -3272,11 +3828,11 @@
         887
       ]
     },
-    "citation_reference_213": {
+    "citation_reference_262": {
       "type": "citation_reference",
-      "id": "citation_reference_213",
+      "id": "citation_reference_262",
       "path": [
-        "paragraph_208",
+        "paragraph_257",
         "content"
       ],
       "target": "article_citation_bib22",
@@ -3285,11 +3841,11 @@
         908
       ]
     },
-    "annotation_214": {
+    "annotation_263": {
       "type": "emphasis",
-      "id": "annotation_214",
+      "id": "annotation_263",
       "path": [
-        "paragraph_208",
+        "paragraph_257",
         "content"
       ],
       "target": null,
@@ -3298,11 +3854,11 @@
         1082
       ]
     },
-    "annotation_215": {
+    "annotation_264": {
       "type": "emphasis",
-      "id": "annotation_215",
+      "id": "annotation_264",
       "path": [
-        "paragraph_208",
+        "paragraph_257",
         "content"
       ],
       "target": null,
@@ -3311,11 +3867,11 @@
         1108
       ]
     },
-    "citation_reference_216": {
+    "citation_reference_265": {
       "type": "citation_reference",
-      "id": "citation_reference_216",
+      "id": "citation_reference_265",
       "path": [
-        "paragraph_208",
+        "paragraph_257",
         "content"
       ],
       "target": "article_citation_bib47",
@@ -3324,11 +3880,11 @@
         1206
       ]
     },
-    "annotation_217": {
+    "annotation_266": {
       "type": "emphasis",
-      "id": "annotation_217",
+      "id": "annotation_266",
       "path": [
-        "paragraph_208",
+        "paragraph_257",
         "content"
       ],
       "target": null,
@@ -3337,11 +3893,11 @@
         1330
       ]
     },
-    "citation_reference_218": {
+    "citation_reference_267": {
       "type": "citation_reference",
-      "id": "citation_reference_218",
+      "id": "citation_reference_267",
       "path": [
-        "paragraph_208",
+        "paragraph_257",
         "content"
       ],
       "target": "article_citation_bib10",
@@ -3350,16 +3906,16 @@
         1441
       ]
     },
-    "paragraph_219": {
+    "paragraph_268": {
       "type": "paragraph",
-      "id": "paragraph_219",
+      "id": "paragraph_268",
       "content": "The mechanism of mitochondrial division site placement is apparently divergent from that utilized by ancestral bacteria, where division sites are determined in part by a nucleoid occlusion mechanism, which prevents cell division in the vicinity of the bacterial chromosome (Wu and Errington, 2012). However, we currently lack an understanding of what drives mitochondrial nucleoid segregation and of the mechanism underlying the spatial coupling of ER–mitochondria contact sites and nucleoids. Thus, alternative mitochondrial-specific mechanisms may exist to coordinate the timing of nucleoid replication and segregation with mitochondrial division."
     },
-    "citation_reference_220": {
+    "citation_reference_269": {
       "type": "citation_reference",
-      "id": "citation_reference_220",
+      "id": "citation_reference_269",
       "path": [
-        "paragraph_219",
+        "paragraph_268",
         "content"
       ],
       "target": "article_citation_bib53",
@@ -3368,16 +3924,16 @@
         296
       ]
     },
-    "paragraph_221": {
+    "paragraph_270": {
       "type": "paragraph",
-      "id": "paragraph_221",
+      "id": "paragraph_270",
       "content": "In ERMD, mitochondrial constrictions observed at the sites of ER–mitochondria contact, where the ER likely wraps around a mitochondrial tubule, are independent of the mitochondrial division dynamin (Friedman et al., 2011). Our data are consistent with the model in which ERMES functions early in ERMD to mediate the biogenesis of this specialized region of ER–mitochondria contact. Thus, it is tempting to speculate that the ERMES complex functions to generate the ER tubules associated with constriction and/or to actively produce mitochondrial constriction at the sites of contact. ERMES has also been implicated as a bridge between mitochondria and the actomyosin network and thus may function at division sites to coordinate the recruitment of cytoskeletal and motor proteins, which could generate force required for mitochondrial constriction and/or distribution following division (Boldogh et al., 1998, 2003). Indeed, a recent study suggests that the actin cytoskeleton may be involved in mitochondrial division at ER–mitochondria contacts in mammalian cells (Korobova et al., 2013)."
     },
-    "citation_reference_222": {
+    "citation_reference_271": {
       "type": "citation_reference",
-      "id": "citation_reference_222",
+      "id": "citation_reference_271",
       "path": [
-        "paragraph_221",
+        "paragraph_270",
         "content"
       ],
       "target": "article_citation_bib11",
@@ -3386,11 +3942,11 @@
         220
       ]
     },
-    "citation_reference_223": {
+    "citation_reference_272": {
       "type": "citation_reference",
-      "id": "citation_reference_223",
+      "id": "citation_reference_272",
       "path": [
-        "paragraph_221",
+        "paragraph_270",
         "content"
       ],
       "target": "article_citation_bib1",
@@ -3399,11 +3955,11 @@
         908
       ]
     },
-    "citation_reference_224": {
+    "citation_reference_273": {
       "type": "citation_reference",
-      "id": "citation_reference_224",
+      "id": "citation_reference_273",
       "path": [
-        "paragraph_221",
+        "paragraph_270",
         "content"
       ],
       "target": "article_citation_bib2",
@@ -3412,11 +3968,11 @@
         914
       ]
     },
-    "citation_reference_225": {
+    "citation_reference_274": {
       "type": "citation_reference",
-      "id": "citation_reference_225",
+      "id": "citation_reference_274",
       "path": [
-        "paragraph_221",
+        "paragraph_270",
         "content"
       ],
       "target": "article_citation_bib27",
@@ -3425,16 +3981,16 @@
         1088
       ]
     },
-    "paragraph_226": {
+    "paragraph_275": {
       "type": "paragraph",
-      "id": "paragraph_226",
+      "id": "paragraph_275",
       "content": "In contrast to ERMES, our data indicate that Gem1 functions relatively late in ERMD to promote the physical separation of mitochondrial tips generated by membrane scission. Specifically, our data point to a role for Gem1 post-scission in the negative regulation of ER–mitochondria contacts to facilitate the resolution of mitochondrial tips. Evidence from higher eukaryotes suggests that the Gem1 ortholog, Miro1/2, functions in mitochondrial distribution by connecting mitochondria directly to a kinesin-1 adaptor protein Milton/TRAK to enable the microtubule based transport of mitochondria (Guo et al., 2005; Fransson et al., 2006; Glater et al., 2006; Wang and Schwarz, 2009; Misko et al., 2010; Wang et al., 2011). Analogously, Gem1 in yeast may also function to negatively regulate ER–mitochondria contacts by facilitating the recruitment of motility factors to mitochondrial tips following division. However, while the Miro GTPase family is remarkably conserved (Vlahou et al., 2011), the mechanisms of mitochondrial transport are divergent in eukaryotes. In many fungi, including budding yeast, mitochondrial distribution is actin dependent (Hermann et al., 1997; Simon et al., 1997; Boldogh et al., 1998, 2003), and in Dictyostelium, Miro is not required for microtubule-dependent mitochondrial transport (Vlahou et al., 2011). Thus, alternatively, Gem1 may function in ERMD more directly to regulate the physical link between mitochondria and the ER via ERMES. Consistent with this idea, Gem1 associates with ERMES foci, and, in the absence of Gem1, it has been reported that ERMES forms fewer and larger foci per cell (Kornmann et al., 2011). This model of Gem1 function is also supported by the observation that mutations in the first GTPase domain of Gem1 abolish both Gem1’s function in ERMD and its association with ERMES (Frederick et al., 2004; Kornmann et al., 2011; Koshiba et al., 2011). In addition, in mammalian cells, Miro1 is found at ER–mitochondria contacts (Kornmann et al., 2011). In this context, the defect in mitochondrial segregation observed in gem1Δ cells at ER-associated mitochondrial constriction sites could result from the ER physically hindering mitochondrial motility. In this case, it is also possible that the mitochondrial motility defects in higher eukaryotes caused by Miro1/2 dysfunction are a secondary consequence of enhanced ER–mitochondria contacts."
     },
-    "citation_reference_227": {
+    "citation_reference_276": {
       "type": "citation_reference",
-      "id": "citation_reference_227",
+      "id": "citation_reference_276",
       "path": [
-        "paragraph_226",
+        "paragraph_275",
         "content"
       ],
       "target": "article_citation_bib15",
@@ -3443,11 +3999,11 @@
         610
       ]
     },
-    "citation_reference_228": {
+    "citation_reference_277": {
       "type": "citation_reference",
-      "id": "citation_reference_228",
+      "id": "citation_reference_277",
       "path": [
-        "paragraph_226",
+        "paragraph_275",
         "content"
       ],
       "target": "article_citation_bib9",
@@ -3456,11 +4012,11 @@
         633
       ]
     },
-    "citation_reference_229": {
+    "citation_reference_278": {
       "type": "citation_reference",
-      "id": "citation_reference_229",
+      "id": "citation_reference_278",
       "path": [
-        "paragraph_226",
+        "paragraph_275",
         "content"
       ],
       "target": "article_citation_bib14",
@@ -3469,11 +4025,11 @@
         654
       ]
     },
-    "citation_reference_230": {
+    "citation_reference_279": {
       "type": "citation_reference",
-      "id": "citation_reference_230",
+      "id": "citation_reference_279",
       "path": [
-        "paragraph_226",
+        "paragraph_275",
         "content"
       ],
       "target": "article_citation_bib49",
@@ -3482,11 +4038,11 @@
         678
       ]
     },
-    "citation_reference_231": {
+    "citation_reference_280": {
       "type": "citation_reference",
-      "id": "citation_reference_231",
+      "id": "citation_reference_280",
       "path": [
-        "paragraph_226",
+        "paragraph_275",
         "content"
       ],
       "target": "article_citation_bib35",
@@ -3495,11 +4051,11 @@
         698
       ]
     },
-    "citation_reference_232": {
+    "citation_reference_281": {
       "type": "citation_reference",
-      "id": "citation_reference_232",
+      "id": "citation_reference_281",
       "path": [
-        "paragraph_226",
+        "paragraph_275",
         "content"
       ],
       "target": "article_citation_bib50",
@@ -3508,11 +4064,11 @@
         717
       ]
     },
-    "citation_reference_233": {
+    "citation_reference_282": {
       "type": "citation_reference",
-      "id": "citation_reference_233",
+      "id": "citation_reference_282",
       "path": [
-        "paragraph_226",
+        "paragraph_275",
         "content"
       ],
       "target": "article_citation_bib47",
@@ -3521,11 +4077,11 @@
         989
       ]
     },
-    "citation_reference_234": {
+    "citation_reference_283": {
       "type": "citation_reference",
-      "id": "citation_reference_234",
+      "id": "citation_reference_283",
       "path": [
-        "paragraph_226",
+        "paragraph_275",
         "content"
       ],
       "target": "article_citation_bib19",
@@ -3534,11 +4090,11 @@
         1170
       ]
     },
-    "citation_reference_235": {
+    "citation_reference_284": {
       "type": "citation_reference",
-      "id": "citation_reference_235",
+      "id": "citation_reference_284",
       "path": [
-        "paragraph_226",
+        "paragraph_275",
         "content"
       ],
       "target": "article_citation_bib44",
@@ -3547,11 +4103,11 @@
         1190
       ]
     },
-    "citation_reference_236": {
+    "citation_reference_285": {
       "type": "citation_reference",
-      "id": "citation_reference_236",
+      "id": "citation_reference_285",
       "path": [
-        "paragraph_226",
+        "paragraph_275",
         "content"
       ],
       "target": "article_citation_bib1",
@@ -3560,11 +4116,11 @@
         1212
       ]
     },
-    "citation_reference_237": {
+    "citation_reference_286": {
       "type": "citation_reference",
-      "id": "citation_reference_237",
+      "id": "citation_reference_286",
       "path": [
-        "paragraph_226",
+        "paragraph_275",
         "content"
       ],
       "target": "article_citation_bib2",
@@ -3573,11 +4129,11 @@
         1218
       ]
     },
-    "annotation_238": {
+    "annotation_287": {
       "type": "emphasis",
-      "id": "annotation_238",
+      "id": "annotation_287",
       "path": [
-        "paragraph_226",
+        "paragraph_275",
         "content"
       ],
       "target": null,
@@ -3586,11 +4142,11 @@
         1241
       ]
     },
-    "citation_reference_239": {
+    "citation_reference_288": {
       "type": "citation_reference",
-      "id": "citation_reference_239",
+      "id": "citation_reference_288",
       "path": [
-        "paragraph_226",
+        "paragraph_275",
         "content"
       ],
       "target": "article_citation_bib47",
@@ -3599,11 +4155,11 @@
         1334
       ]
     },
-    "citation_reference_240": {
+    "citation_reference_289": {
       "type": "citation_reference",
-      "id": "citation_reference_240",
+      "id": "citation_reference_289",
       "path": [
-        "paragraph_226",
+        "paragraph_275",
         "content"
       ],
       "target": "article_citation_bib26",
@@ -3612,11 +4168,11 @@
         1651
       ]
     },
-    "citation_reference_241": {
+    "citation_reference_290": {
       "type": "citation_reference",
-      "id": "citation_reference_241",
+      "id": "citation_reference_290",
       "path": [
-        "paragraph_226",
+        "paragraph_275",
         "content"
       ],
       "target": "article_citation_bib10",
@@ -3625,11 +4181,11 @@
         1860
       ]
     },
-    "citation_reference_242": {
+    "citation_reference_291": {
       "type": "citation_reference",
-      "id": "citation_reference_242",
+      "id": "citation_reference_291",
       "path": [
-        "paragraph_226",
+        "paragraph_275",
         "content"
       ],
       "target": "article_citation_bib26",
@@ -3638,11 +4194,11 @@
         1883
       ]
     },
-    "citation_reference_243": {
+    "citation_reference_292": {
       "type": "citation_reference",
-      "id": "citation_reference_243",
+      "id": "citation_reference_292",
       "path": [
-        "paragraph_226",
+        "paragraph_275",
         "content"
       ],
       "target": "article_citation_bib28",
@@ -3651,11 +4207,11 @@
         1905
       ]
     },
-    "citation_reference_244": {
+    "citation_reference_293": {
       "type": "citation_reference",
-      "id": "citation_reference_244",
+      "id": "citation_reference_293",
       "path": [
-        "paragraph_226",
+        "paragraph_275",
         "content"
       ],
       "target": "article_citation_bib26",
@@ -3664,11 +4220,11 @@
         2006
       ]
     },
-    "annotation_245": {
+    "annotation_294": {
       "type": "emphasis",
-      "id": "annotation_245",
+      "id": "annotation_294",
       "path": [
-        "paragraph_226",
+        "paragraph_275",
         "content"
       ],
       "target": null,
@@ -3691,16 +4247,16 @@
       "content": "Yeast strains and plasmids",
       "nodes": []
     },
-    "paragraph_246": {
+    "paragraph_295": {
       "type": "paragraph",
-      "id": "paragraph_246",
+      "id": "paragraph_295",
       "content": "All strains were constructed in either the W303 (ade2–1; leu2–3; his3–11, 15; trp1–1; ura3–1; can1–100) or BY4741 (his3Δ1; leu2Δ0; met15Δ0; ura3Δ0) genetic background, both of which have been described previously (Rothstein, 1983; Brachmann et al., 1998). ERMES components and Yme2 were tagged at their C-termini using PCR-based homologous recombination (Janke et al., 2004; Sheff and Thorn, 2004). The red fluorescent protein TdTomato (Shaner et al., 2004) was cloned into pFA6 plasmids using standard cloning techniques. Haploid cells were transformed with PCR product using the lithium acetate method and plated on synthetic media or YPD + geneticin (300 μg/ml) to select for the homologous recombination event. Correct integration of the cassette was confirmed by colony PCR, and western blotting of whole-cell protein extracts was used to verify correct protein expression. To generate gem1Δ MDM34-yEGFP or gem1Δ MDM34-mCherry strains, W303 MDM34-yEGFP::HIS5 or W303 MDM34-mCherry was mated to gem1Δ::HIS3 cells. The heterozygous diploids were sporulated, and the resulting tetrads were dissected. Two-to-two cosegregation of the histidine prototrophy was used to verify the gem1Δ MDM34-yEGFP genotype, and cosegregation of histidine prototrophy and kanamycin resistance was used to verify the gem1Δ MDM34-mCherry genotype. The yme2Δ gep4Δ and YME2-GFP gep4Δ strains were generated by mating haploid gep4Δ and yme2Δ or YME2-GFP strains, followed by tetrad dissection and identification of clones by cosegregating genetic markers."
     },
-    "annotation_247": {
+    "annotation_296": {
       "type": "emphasis",
-      "id": "annotation_247",
+      "id": "annotation_296",
       "path": [
-        "paragraph_246",
+        "paragraph_295",
         "content"
       ],
       "target": null,
@@ -3709,11 +4265,11 @@
         55
       ]
     },
-    "annotation_248": {
+    "annotation_297": {
       "type": "emphasis",
-      "id": "annotation_248",
+      "id": "annotation_297",
       "path": [
-        "paragraph_246",
+        "paragraph_295",
         "content"
       ],
       "target": null,
@@ -3722,11 +4278,11 @@
         63
       ]
     },
-    "annotation_249": {
+    "annotation_298": {
       "type": "emphasis",
-      "id": "annotation_249",
+      "id": "annotation_298",
       "path": [
-        "paragraph_246",
+        "paragraph_295",
         "content"
       ],
       "target": null,
@@ -3735,11 +4291,11 @@
         72
       ]
     },
-    "annotation_250": {
+    "annotation_299": {
       "type": "emphasis",
-      "id": "annotation_250",
+      "id": "annotation_299",
       "path": [
-        "paragraph_246",
+        "paragraph_295",
         "content"
       ],
       "target": null,
@@ -3748,11 +4304,11 @@
         76
       ]
     },
-    "annotation_251": {
+    "annotation_300": {
       "type": "emphasis",
-      "id": "annotation_251",
+      "id": "annotation_300",
       "path": [
-        "paragraph_246",
+        "paragraph_295",
         "content"
       ],
       "target": null,
@@ -3761,11 +4317,11 @@
         84
       ]
     },
-    "annotation_252": {
+    "annotation_301": {
       "type": "emphasis",
-      "id": "annotation_252",
+      "id": "annotation_301",
       "path": [
-        "paragraph_246",
+        "paragraph_295",
         "content"
       ],
       "target": null,
@@ -3774,11 +4330,11 @@
         92
       ]
     },
-    "annotation_253": {
+    "annotation_302": {
       "type": "emphasis",
-      "id": "annotation_253",
+      "id": "annotation_302",
       "path": [
-        "paragraph_246",
+        "paragraph_295",
         "content"
       ],
       "target": null,
@@ -3787,11 +4343,11 @@
         102
       ]
     },
-    "annotation_254": {
+    "annotation_303": {
       "type": "emphasis",
-      "id": "annotation_254",
+      "id": "annotation_303",
       "path": [
-        "paragraph_246",
+        "paragraph_295",
         "content"
       ],
       "target": null,
@@ -3800,11 +4356,11 @@
         119
       ]
     },
-    "annotation_255": {
+    "annotation_304": {
       "type": "emphasis",
-      "id": "annotation_255",
+      "id": "annotation_304",
       "path": [
-        "paragraph_246",
+        "paragraph_295",
         "content"
       ],
       "target": null,
@@ -3813,11 +4369,11 @@
         127
       ]
     },
-    "annotation_256": {
+    "annotation_305": {
       "type": "emphasis",
-      "id": "annotation_256",
+      "id": "annotation_305",
       "path": [
-        "paragraph_246",
+        "paragraph_295",
         "content"
       ],
       "target": null,
@@ -3826,11 +4382,11 @@
         136
       ]
     },
-    "annotation_257": {
+    "annotation_306": {
       "type": "emphasis",
-      "id": "annotation_257",
+      "id": "annotation_306",
       "path": [
-        "paragraph_246",
+        "paragraph_295",
         "content"
       ],
       "target": null,
@@ -3839,11 +4395,11 @@
         144
       ]
     },
-    "citation_reference_258": {
+    "citation_reference_307": {
       "type": "citation_reference",
-      "id": "citation_reference_258",
+      "id": "citation_reference_307",
       "path": [
-        "paragraph_246",
+        "paragraph_295",
         "content"
       ],
       "target": "article_citation_bib41",
@@ -3852,11 +4408,11 @@
         229
       ]
     },
-    "citation_reference_259": {
+    "citation_reference_308": {
       "type": "citation_reference",
-      "id": "citation_reference_259",
+      "id": "citation_reference_308",
       "path": [
-        "paragraph_246",
+        "paragraph_295",
         "content"
       ],
       "target": "article_citation_bib5",
@@ -3865,11 +4421,11 @@
         253
       ]
     },
-    "citation_reference_260": {
+    "citation_reference_309": {
       "type": "citation_reference",
-      "id": "citation_reference_260",
+      "id": "citation_reference_309",
       "path": [
-        "paragraph_246",
+        "paragraph_295",
         "content"
       ],
       "target": "article_citation_bib24",
@@ -3878,11 +4434,11 @@
         373
       ]
     },
-    "citation_reference_261": {
+    "citation_reference_310": {
       "type": "citation_reference",
-      "id": "citation_reference_261",
+      "id": "citation_reference_310",
       "path": [
-        "paragraph_246",
+        "paragraph_295",
         "content"
       ],
       "target": "article_citation_bib43",
@@ -3891,11 +4447,11 @@
         396
       ]
     },
-    "citation_reference_262": {
+    "citation_reference_311": {
       "type": "citation_reference",
-      "id": "citation_reference_262",
+      "id": "citation_reference_311",
       "path": [
-        "paragraph_246",
+        "paragraph_295",
         "content"
       ],
       "target": "article_citation_bib42",
@@ -3904,11 +4460,11 @@
         456
       ]
     },
-    "annotation_263": {
+    "annotation_312": {
       "type": "emphasis",
-      "id": "annotation_263",
+      "id": "annotation_312",
       "path": [
-        "paragraph_246",
+        "paragraph_295",
         "content"
       ],
       "target": null,
@@ -3917,11 +4473,11 @@
         895
       ]
     },
-    "annotation_264": {
+    "annotation_313": {
       "type": "emphasis",
-      "id": "annotation_264",
+      "id": "annotation_313",
       "path": [
-        "paragraph_246",
+        "paragraph_295",
         "content"
       ],
       "target": null,
@@ -3930,11 +4486,11 @@
         916
       ]
     },
-    "annotation_265": {
+    "annotation_314": {
       "type": "emphasis",
-      "id": "annotation_265",
+      "id": "annotation_314",
       "path": [
-        "paragraph_246",
+        "paragraph_295",
         "content"
       ],
       "target": null,
@@ -3943,11 +4499,11 @@
         931
       ]
     },
-    "annotation_266": {
+    "annotation_315": {
       "type": "emphasis",
-      "id": "annotation_266",
+      "id": "annotation_315",
       "path": [
-        "paragraph_246",
+        "paragraph_295",
         "content"
       ],
       "target": null,
@@ -3956,11 +4512,11 @@
         957
       ]
     },
-    "annotation_267": {
+    "annotation_316": {
       "type": "emphasis",
-      "id": "annotation_267",
+      "id": "annotation_316",
       "path": [
-        "paragraph_246",
+        "paragraph_295",
         "content"
       ],
       "target": null,
@@ -3969,11 +4525,11 @@
         966
       ]
     },
-    "annotation_268": {
+    "annotation_317": {
       "type": "emphasis",
-      "id": "annotation_268",
+      "id": "annotation_317",
       "path": [
-        "paragraph_246",
+        "paragraph_295",
         "content"
       ],
       "target": null,
@@ -3982,11 +4538,11 @@
         985
       ]
     },
-    "annotation_269": {
+    "annotation_318": {
       "type": "emphasis",
-      "id": "annotation_269",
+      "id": "annotation_318",
       "path": [
-        "paragraph_246",
+        "paragraph_295",
         "content"
       ],
       "target": null,
@@ -3995,11 +4551,11 @@
         1003
       ]
     },
-    "annotation_270": {
+    "annotation_319": {
       "type": "emphasis",
-      "id": "annotation_270",
+      "id": "annotation_319",
       "path": [
-        "paragraph_246",
+        "paragraph_295",
         "content"
       ],
       "target": null,
@@ -4008,11 +4564,11 @@
         1010
       ]
     },
-    "annotation_271": {
+    "annotation_320": {
       "type": "emphasis",
-      "id": "annotation_271",
+      "id": "annotation_320",
       "path": [
-        "paragraph_246",
+        "paragraph_295",
         "content"
       ],
       "target": null,
@@ -4021,11 +4577,11 @@
         1184
       ]
     },
-    "annotation_272": {
+    "annotation_321": {
       "type": "emphasis",
-      "id": "annotation_272",
+      "id": "annotation_321",
       "path": [
-        "paragraph_246",
+        "paragraph_295",
         "content"
       ],
       "target": null,
@@ -4034,11 +4590,11 @@
         1197
       ]
     },
-    "annotation_273": {
+    "annotation_322": {
       "type": "emphasis",
-      "id": "annotation_273",
+      "id": "annotation_322",
       "path": [
-        "paragraph_246",
+        "paragraph_295",
         "content"
       ],
       "target": null,
@@ -4047,11 +4603,11 @@
         1303
       ]
     },
-    "annotation_274": {
+    "annotation_323": {
       "type": "emphasis",
-      "id": "annotation_274",
+      "id": "annotation_323",
       "path": [
-        "paragraph_246",
+        "paragraph_295",
         "content"
       ],
       "target": null,
@@ -4060,11 +4616,11 @@
         1318
       ]
     },
-    "annotation_275": {
+    "annotation_324": {
       "type": "emphasis",
-      "id": "annotation_275",
+      "id": "annotation_324",
       "path": [
-        "paragraph_246",
+        "paragraph_295",
         "content"
       ],
       "target": null,
@@ -4073,11 +4629,11 @@
         1337
       ]
     },
-    "annotation_276": {
+    "annotation_325": {
       "type": "emphasis",
-      "id": "annotation_276",
+      "id": "annotation_325",
       "path": [
-        "paragraph_246",
+        "paragraph_295",
         "content"
       ],
       "target": null,
@@ -4086,11 +4642,11 @@
         1343
       ]
     },
-    "annotation_277": {
+    "annotation_326": {
       "type": "emphasis",
-      "id": "annotation_277",
+      "id": "annotation_326",
       "path": [
-        "paragraph_246",
+        "paragraph_295",
         "content"
       ],
       "target": null,
@@ -4099,11 +4655,11 @@
         1362
       ]
     },
-    "annotation_278": {
+    "annotation_327": {
       "type": "emphasis",
-      "id": "annotation_278",
+      "id": "annotation_327",
       "path": [
-        "paragraph_246",
+        "paragraph_295",
         "content"
       ],
       "target": null,
@@ -4112,11 +4668,11 @@
         1409
       ]
     },
-    "annotation_279": {
+    "annotation_328": {
       "type": "emphasis",
-      "id": "annotation_279",
+      "id": "annotation_328",
       "path": [
-        "paragraph_246",
+        "paragraph_295",
         "content"
       ],
       "target": null,
@@ -4125,11 +4681,11 @@
         1419
       ]
     },
-    "annotation_280": {
+    "annotation_329": {
       "type": "emphasis",
-      "id": "annotation_280",
+      "id": "annotation_329",
       "path": [
-        "paragraph_246",
+        "paragraph_295",
         "content"
       ],
       "target": null,
@@ -4138,16 +4694,16 @@
         1432
       ]
     },
-    "paragraph_281": {
+    "paragraph_330": {
       "type": "paragraph",
-      "id": "paragraph_281",
+      "id": "paragraph_330",
       "content": "The plasmids pVT100U-DsRed (mito-DsRed), pHS20-mCherry (Dnm1-mCherry), pRS315-GFP-2xFLAG-GEM1 (GFP-2XFLAG-Gem1), and YIplac204/TKC-DsRed-HDEL (DsRed-HDEL) YIplac204/TKC-GFP-HDEL (GFP-HDEL) were described previously (Westermann and Neupert, 2000; Rossanese et al., 2001; Meeusen and Nunnari, 2003; Lackner et al., 2009; Kornmann et al., 2011). The plasmid pYES-TagBFP (mito-TagBFP) was obtained by replacing BFP in pYES-BFP (Westermann and Neupert, 2000) with TagBFP using standard cloning techniques."
     },
-    "citation_reference_282": {
+    "citation_reference_331": {
       "type": "citation_reference",
-      "id": "citation_reference_282",
+      "id": "citation_reference_331",
       "path": [
-        "paragraph_281",
+        "paragraph_330",
         "content"
       ],
       "target": "article_citation_bib52",
@@ -4156,11 +4712,11 @@
         244
       ]
     },
-    "citation_reference_283": {
+    "citation_reference_332": {
       "type": "citation_reference",
-      "id": "citation_reference_283",
+      "id": "citation_reference_332",
       "path": [
-        "paragraph_281",
+        "paragraph_330",
         "content"
       ],
       "target": "article_citation_bib40",
@@ -4169,11 +4725,11 @@
         268
       ]
     },
-    "citation_reference_284": {
+    "citation_reference_333": {
       "type": "citation_reference",
-      "id": "citation_reference_284",
+      "id": "citation_reference_333",
       "path": [
-        "paragraph_281",
+        "paragraph_330",
         "content"
       ],
       "target": "article_citation_bib34",
@@ -4182,11 +4738,11 @@
         295
       ]
     },
-    "citation_reference_285": {
+    "citation_reference_334": {
       "type": "citation_reference",
-      "id": "citation_reference_285",
+      "id": "citation_reference_334",
       "path": [
-        "paragraph_281",
+        "paragraph_330",
         "content"
       ],
       "target": "article_citation_bib30",
@@ -4195,11 +4751,11 @@
         317
       ]
     },
-    "citation_reference_286": {
+    "citation_reference_335": {
       "type": "citation_reference",
-      "id": "citation_reference_286",
+      "id": "citation_reference_335",
       "path": [
-        "paragraph_281",
+        "paragraph_330",
         "content"
       ],
       "target": "article_citation_bib26",
@@ -4208,11 +4764,11 @@
         340
       ]
     },
-    "citation_reference_287": {
+    "citation_reference_336": {
       "type": "citation_reference",
-      "id": "citation_reference_287",
+      "id": "citation_reference_336",
       "path": [
-        "paragraph_281",
+        "paragraph_330",
         "content"
       ],
       "target": "article_citation_bib52",
@@ -4221,16 +4777,16 @@
         452
       ]
     },
-    "paragraph_288": {
+    "paragraph_337": {
       "type": "paragraph",
-      "id": "paragraph_288",
+      "id": "paragraph_337",
       "content": "Plasmids harboring wild-type and mutant alleles of GEM1 were generated by amplifying the GEM1 locus from yeast genomic DNA with flanking regions 307-bp upstream and 644-bp downstream by PCR followed by insertion into pRS315 with standard restriction cloning techniques. Point mutations were generated using Quick-Change Mutagenesis, and all mutations were verified by DNA sequencing. Plasmids were transformed into gem1Δ MDM34-yEGFP pVT100U-DsRed grown to mid-log phase in synthetic ethanol glycerol media at 23°C."
     },
-    "annotation_289": {
+    "annotation_338": {
       "type": "emphasis",
-      "id": "annotation_289",
+      "id": "annotation_338",
       "path": [
-        "paragraph_288",
+        "paragraph_337",
         "content"
       ],
       "target": null,
@@ -4239,11 +4795,11 @@
         55
       ]
     },
-    "annotation_290": {
+    "annotation_339": {
       "type": "emphasis",
-      "id": "annotation_290",
+      "id": "annotation_339",
       "path": [
-        "paragraph_288",
+        "paragraph_337",
         "content"
       ],
       "target": null,
@@ -4252,11 +4808,11 @@
         93
       ]
     },
-    "annotation_291": {
+    "annotation_340": {
       "type": "emphasis",
-      "id": "annotation_291",
+      "id": "annotation_340",
       "path": [
-        "paragraph_288",
+        "paragraph_337",
         "content"
       ],
       "target": null,
@@ -4265,11 +4821,11 @@
         419
       ]
     },
-    "annotation_292": {
+    "annotation_341": {
       "type": "emphasis",
-      "id": "annotation_292",
+      "id": "annotation_341",
       "path": [
-        "paragraph_288",
+        "paragraph_337",
         "content"
       ],
       "target": null,
@@ -4285,21 +4841,21 @@
       "content": "Light microscopy and image processing",
       "nodes": []
     },
-    "paragraph_293": {
+    "paragraph_342": {
       "type": "paragraph",
-      "id": "paragraph_293",
+      "id": "paragraph_342",
       "content": "For all fluorescence microscopy described in the next two paragraphs, yeast cells were grown to mid-log phase in the appropriate synthetic media and were imaged live. Yeast cells grown to mid-log phase in the appropriate synthetic media were briefly sonicated, concentrated by centrifugation, and mounted on slides with a 4% agarose bed in synthetic dextrose growth medium."
     },
-    "paragraph_294": {
+    "paragraph_343": {
       "type": "paragraph",
-      "id": "paragraph_294",
+      "id": "paragraph_343",
       "content": "To evaluate the relationship of ERMES to mitochondrial division, wild-type or gem1Δ cells expressing Mdm12, Mdm34, or Mmm1-yEGFP and mito-DsRed were imaged using the spinning disc module of a Marianas SDC Real Time 3D Confocal-TIRF microscope (Intelligent Imaging Innovations Denver, CO, 3i) fit with a Yokogawa spinning disk head, a 100× 1.46 NA objective, and EMCCD camera. Z-stacks were taken at 0.4-μm increments over approximately 6 μm of the cell every 15 s for 3.5 min. Mitochondrial divisions were identified independently of ERMES foci by hiding the GFP channel and retrospectively analyzed for their association with ERMES. An ERMES focus was considered linked to mitochondrial division if its center was within 300 nm of the division site, which is 1.5 times the average radius of an ERMES focus (205 ± 45 nm, n = 68). To calculate the ERMES to mitochondrial surface area ratio, Z-series of cells expressing Mdm34-yEGFP and mitoDsRed were collected at 0.4-μm increments. Separate channels for each marker were manually threshold in ImageJ, and the ‘Analyze Particles’ function was used to measure areas for each in all focal planes collected. Ratios were calculated for each plane and were averaged. This ratio (4.5%) was used to calculate the percentage of ERMES foci associated with mitochondrial divisions due to random chance (approximately 10%) based on the requirement that mitochondrial division occurred less than 300 nm from the center of an ERMES focus."
     },
-    "annotation_295": {
+    "annotation_344": {
       "type": "emphasis",
-      "id": "annotation_295",
+      "id": "annotation_344",
       "path": [
-        "paragraph_294",
+        "paragraph_343",
         "content"
       ],
       "target": null,
@@ -4308,16 +4864,16 @@
         82
       ]
     },
-    "paragraph_296": {
+    "paragraph_345": {
       "type": "paragraph",
-      "id": "paragraph_296",
+      "id": "paragraph_345",
       "content": "For three-color fluorescence imaging in Figures 1C-E and 2C, cells were imaged on DeltaVision-Real Time microscope (IX70 DeltaVision; Olympus) using a 60× 1.4 NA objective lens (Olympus) and a 100 W mercury lamp (Applied Precision). Light microscopy images were collected using an integrated cooled charge-coupled device (CCD)–based camera (CoolSNAP HQ; Photometrics) equipped with a Sony Interline Chip. Datasets were processed using softWoRx’s (Applied Precision) iterative, constrained three-dimensional deconvolution method to remove out-of-focus light."
     },
-    "figure_reference_297": {
+    "figure_reference_346": {
       "type": "figure_reference",
-      "id": "figure_reference_297",
+      "id": "figure_reference_346",
       "path": [
-        "paragraph_296",
+        "paragraph_345",
         "content"
       ],
       "target": "image_fig1",
@@ -4326,16 +4882,16 @@
         59
       ]
     },
-    "paragraph_298": {
+    "paragraph_347": {
       "type": "paragraph",
-      "id": "paragraph_298",
+      "id": "paragraph_347",
       "content": "To analyze GEM1 alleles by fluorescence microscopy, gem1Δ MDM34-yEGFP pVT100U-DsRed pRS315-(empty/GEM1/gem1 alleles) cells were grown to early log phase, concentrated by centrifugation and mounted on slides with 4% agarose beds and imaged on the Marianas SDC Real Time 3D Confocal-TIRF microscope as described above."
     },
-    "annotation_299": {
+    "annotation_348": {
       "type": "emphasis",
-      "id": "annotation_299",
+      "id": "annotation_348",
       "path": [
-        "paragraph_298",
+        "paragraph_347",
         "content"
       ],
       "target": null,
@@ -4344,11 +4900,11 @@
         15
       ]
     },
-    "annotation_300": {
+    "annotation_349": {
       "type": "emphasis",
-      "id": "annotation_300",
+      "id": "annotation_349",
       "path": [
-        "paragraph_298",
+        "paragraph_347",
         "content"
       ],
       "target": null,
@@ -4357,11 +4913,11 @@
         56
       ]
     },
-    "annotation_301": {
+    "annotation_350": {
       "type": "emphasis",
-      "id": "annotation_301",
+      "id": "annotation_350",
       "path": [
-        "paragraph_298",
+        "paragraph_347",
         "content"
       ],
       "target": null,
@@ -4370,11 +4926,11 @@
         102
       ]
     },
-    "annotation_302": {
+    "annotation_351": {
       "type": "emphasis",
-      "id": "annotation_302",
+      "id": "annotation_351",
       "path": [
-        "paragraph_298",
+        "paragraph_347",
         "content"
       ],
       "target": null,
@@ -4383,16 +4939,16 @@
         107
       ]
     },
-    "paragraph_303": {
+    "paragraph_352": {
       "type": "paragraph",
-      "id": "paragraph_303",
+      "id": "paragraph_352",
       "content": "For all imaging of Yme2-GFP, cells were grown to mid-log in synthetic dextrose medium supplemented with casamino acids. Cells were immobilized in glass bottomed culture dishes (Bioptechs, Inc) with Concanavalin A (1 mg/ml) and overlaid with 2 ml of fresh medium. Cells were imaged on an OMX microscope equipped with a 100× 1.4 NA objective lens (Carlton et al., 2010). Z-stacks were acquired over 7 µm in 0.2-µm increments. For higher temporal resolution (2 s per frame), only 3-µm-thick Z-stacks were collected. Images for each fluorophore were acquired simultaneously with independent EMCCD cameras (iXON; Andor), and images were aligned post-capture using alignment parameters generated from images of 0.1-µm fluorescent microspheres (TetraSpeck; Invitrogen). Images were processed with a denoising algorithm (Boulanger et al., 2010) and iterative, constrained three-dimensional deconvolution using the Priism software suite (http://msg.ucsf.edu/IVE/). Yme2-associated division events were scored as described above for Mdm34-yEGFP. For DAPI staining, cells were grown for 30 min in synthetic dextrose medium supplemented with casamino acids and 1 µg/ml DAPI and subjected to imaging."
     },
-    "citation_reference_304": {
+    "citation_reference_353": {
       "type": "citation_reference",
-      "id": "citation_reference_304",
+      "id": "citation_reference_353",
       "path": [
-        "paragraph_303",
+        "paragraph_352",
         "content"
       ],
       "target": "article_citation_bib7",
@@ -4401,11 +4957,11 @@
         366
       ]
     },
-    "citation_reference_305": {
+    "citation_reference_354": {
       "type": "citation_reference",
-      "id": "citation_reference_305",
+      "id": "citation_reference_354",
       "path": [
-        "paragraph_303",
+        "paragraph_352",
         "content"
       ],
       "target": "article_citation_bib4",
@@ -4414,11 +4970,11 @@
         835
       ]
     },
-    "annotation_306": {
+    "annotation_355": {
       "type": "link",
-      "id": "annotation_306",
+      "id": "annotation_355",
       "path": [
-        "paragraph_303",
+        "paragraph_352",
         "content"
       ],
       "target": null,
@@ -4435,16 +4991,16 @@
       "content": "Electron microscopy and tomography",
       "nodes": []
     },
-    "paragraph_307": {
+    "paragraph_356": {
       "type": "paragraph",
-      "id": "paragraph_307",
+      "id": "paragraph_356",
       "content": "Haploid Saccharomyces cerevisiae cells were grown to log phase, harvested, and high-pressure frozen in a Balzers HPM 010 as previously described (Nickerson et al., 2010). Automated Freeze Substitution was performed on a Leica AFS with 0.1% uranyl acetate and 0.25% glutaraldehyde in anhydrous acetone, embedded in Lowicryl HM20 (Polysciences, Warrington, PA), and polymerized at −60°C (Giddings, 2003). A Leica Ultra-Microtome was used to cut 300-nm serial semi-thick sections; sections were stabilized using a formvar sandwich (West et al. 2011) and labeled with fiduciary 15-nm colloidal gold (British Biocell International); dual-axis tilt series were collected of the samples from ±60° with 1° increments at 300 kV using SerialEM (Mastronarde et al., 1997) at 300 kV using a Tecnai 30 FEG (FEI-Company, Eindhoven, the Netherlands). Tilt series were recorded at a magnification of 23,000 times using SerialEM with a 4 × 4K CCD camera (Gatan, Inc., Abingdon, United Kingdom) as described (West et al. 2011). Individual tomograms were reconstructed using the IMOD package (Kremer et al, 1996), and its newest viewer 3DMOD 4.0.11 and serial tomograms were merged together in X-, Y-, and Z-direction to obtain a large continuous volume. The 3DMOD modeling software was used for the assignment of the outer leaflet of organelle membrane contours, and IMODINFO was used to obtain surface area and volume data of contour models. Images were further enhanced and manipulated in Adobe Photoshop 7. We sorted, analyzed, and graphed the data using Microsoft Excel for Mac 2008 and Prism 5 for Mac OS X. Movies were made in 3DMOD, assembled in QuickTime Pro 7.5, and movie size was reduced to less than 10 MB by saving movies as HD 720p in QuickTime. Mitochondrial surface area was scored as in contact with the ER membrane (denoted as red objects in the three-dimensional models) if it was within 30 nm, and ribosomes were excluded between the two membranes."
     },
-    "annotation_308": {
+    "annotation_357": {
       "type": "emphasis",
-      "id": "annotation_308",
+      "id": "annotation_357",
       "path": [
-        "paragraph_307",
+        "paragraph_356",
         "content"
       ],
       "target": null,
@@ -4453,11 +5009,11 @@
         32
       ]
     },
-    "citation_reference_309": {
+    "citation_reference_358": {
       "type": "citation_reference",
-      "id": "citation_reference_309",
+      "id": "citation_reference_358",
       "path": [
-        "paragraph_307",
+        "paragraph_356",
         "content"
       ],
       "target": "article_citation_bib36",
@@ -4466,11 +5022,11 @@
         168
       ]
     },
-    "citation_reference_310": {
+    "citation_reference_359": {
       "type": "citation_reference",
-      "id": "citation_reference_310",
+      "id": "citation_reference_359",
       "path": [
-        "paragraph_307",
+        "paragraph_356",
         "content"
       ],
       "target": "article_citation_bib13",
@@ -4479,11 +5035,11 @@
         400
       ]
     },
-    "citation_reference_311": {
+    "citation_reference_360": {
       "type": "citation_reference",
-      "id": "citation_reference_311",
+      "id": "citation_reference_360",
       "path": [
-        "paragraph_307",
+        "paragraph_356",
         "content"
       ],
       "target": "article_citation_bib51",
@@ -4492,11 +5048,11 @@
         545
       ]
     },
-    "citation_reference_312": {
+    "citation_reference_361": {
       "type": "citation_reference",
-      "id": "citation_reference_312",
+      "id": "citation_reference_361",
       "path": [
-        "paragraph_307",
+        "paragraph_356",
         "content"
       ],
       "target": "article_citation_bib32",
@@ -4505,11 +5061,11 @@
         759
       ]
     },
-    "citation_reference_313": {
+    "citation_reference_362": {
       "type": "citation_reference",
-      "id": "citation_reference_313",
+      "id": "citation_reference_362",
       "path": [
-        "paragraph_307",
+        "paragraph_356",
         "content"
       ],
       "target": "article_citation_bib51",
@@ -4518,11 +5074,11 @@
         1007
       ]
     },
-    "citation_reference_314": {
+    "citation_reference_363": {
       "type": "citation_reference",
-      "id": "citation_reference_314",
+      "id": "citation_reference_363",
       "path": [
-        "paragraph_307",
+        "paragraph_356",
         "content"
       ],
       "target": "article_citation_bib29",
@@ -4551,19 +5107,19 @@
       "level": 2,
       "content": "Competing Interests",
       "nodes": [
-        "paragraph_315"
+        "paragraph_364"
       ]
     },
-    "paragraph_315": {
+    "paragraph_364": {
       "type": "paragraph",
-      "id": "paragraph_315",
+      "id": "paragraph_364",
       "content": "Competing interestsJN, Reviewing editor, eLife.The other authors declare that no competing interests exist."
     },
-    "annotation_316": {
+    "annotation_365": {
       "type": "emphasis",
-      "id": "annotation_316",
+      "id": "annotation_365",
       "path": [
-        "paragraph_315",
+        "paragraph_364",
         "content"
       ],
       "target": null,
@@ -4612,17 +5168,11 @@
       "year": "1998",
       "volume": "141",
       "source": "J Cell Biol",
-      "issue": "",
       "fpage": "1371",
       "lpage": "81",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1083/jcb.141.6.1371",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib2": {
@@ -4658,17 +5208,11 @@
       "year": "2003",
       "volume": "14",
       "source": "Mol Biol Cell",
-      "issue": "",
       "fpage": "4618",
       "lpage": "27",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1091/mbc.E03-04-0225",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib3": {
@@ -4704,17 +5248,11 @@
       "year": "2010",
       "volume": "20",
       "source": "J Alzheimers Dis",
-      "issue": "",
       "fpage": "S513",
       "lpage": "26",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.3233/JAD-2010-100552",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": [],
       "supplement": "suppl 2"
     },
@@ -4751,17 +5289,11 @@
       "year": "2010",
       "volume": "29",
       "source": "IEEE Trans Med Imaging",
-      "issue": "",
       "fpage": "442",
       "lpage": "54",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1109/TMI.2009.2033991",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib5": {
@@ -4797,22 +5329,16 @@
       "year": "1998",
       "volume": "14",
       "source": "Yeast",
-      "issue": "",
       "fpage": "115",
       "lpage": "32",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1002/(SICI)1097-0061(19980130)14:2<115::AID-YEA204>3.0.CO;2-2",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_317": {
+    "annotation_366": {
       "type": "emphasis",
-      "id": "annotation_317",
+      "id": "annotation_366",
       "path": [
         "article_citation_bib5",
         "title"
@@ -4844,17 +5370,11 @@
       "year": "1994",
       "volume": "126",
       "source": "J Cell Biol",
-      "issue": "",
       "fpage": "1375",
       "lpage": "91",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1083/jcb.126.6.1375",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib7": {
@@ -4890,17 +5410,11 @@
       "year": "2010",
       "volume": "107",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "16016",
       "lpage": "22",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1073/pnas.1004037107",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib8": {
@@ -4920,17 +5434,11 @@
       "year": "2008",
       "volume": "456",
       "source": "Nature",
-      "issue": "",
       "fpage": "605",
       "lpage": "10",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nature07534",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib9": {
@@ -4954,17 +5462,11 @@
       "year": "2006",
       "volume": "344",
       "source": "Biochem Biophys Res Commun",
-      "issue": "",
       "fpage": "500",
       "lpage": "10",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.bbrc.2006.03.163",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib10": {
@@ -4996,17 +5498,11 @@
       "year": "2004",
       "volume": "167",
       "source": "J Cell Biol",
-      "issue": "",
       "fpage": "87",
       "lpage": "98",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1083/jcb.200405100",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib11": {
@@ -5042,17 +5538,11 @@
       "year": "2011",
       "volume": "334",
       "source": "Science",
-      "issue": "",
       "fpage": "358",
       "lpage": "62",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1126/science.1207385",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib12": {
@@ -5088,17 +5578,11 @@
       "year": "2003",
       "volume": "14",
       "source": "Mol Biol Cell",
-      "issue": "",
       "fpage": "1583",
       "lpage": "96",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1091/mbc.E02-07-0399",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib13": {
@@ -5114,17 +5598,11 @@
       "year": "2003",
       "volume": "212",
       "source": "J Microsc",
-      "issue": "",
       "fpage": "53",
       "lpage": "61",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/http://www.ncbi.nlm.nih.gov/pubmed/14516362",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib14": {
@@ -5152,17 +5630,11 @@
       "year": "2006",
       "volume": "173",
       "source": "J Cell Biol",
-      "issue": "",
       "fpage": "545",
       "lpage": "57",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1083/jcb.200601067",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib15": {
@@ -5198,17 +5670,11 @@
       "year": "2005",
       "volume": "47",
       "source": "Neuron",
-      "issue": "",
       "fpage": "379",
       "lpage": "93",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.neuron.2005.06.027",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib16": {
@@ -5228,22 +5694,15 @@
       "year": "1996",
       "volume": "16",
       "source": "Mol Cell Biol",
-      "issue": "",
       "fpage": "2764",
       "lpage": "71",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_318": {
+    "annotation_367": {
       "type": "emphasis",
-      "id": "annotation_318",
+      "id": "annotation_367",
       "path": [
         "article_citation_bib16",
         "title"
@@ -5271,22 +5730,16 @@
       "year": "1999",
       "volume": "34",
       "source": "Curr Genet",
-      "issue": "",
       "fpage": "438",
       "lpage": "48",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1007/s002940050418",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_319": {
+    "annotation_368": {
       "type": "emphasis",
-      "id": "annotation_319",
+      "id": "annotation_368",
       "path": [
         "article_citation_bib17",
         "title"
@@ -5330,22 +5783,15 @@
       "year": "2002",
       "volume": "162",
       "source": "Genetics",
-      "issue": "",
       "fpage": "1147",
       "lpage": "56",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_320": {
+    "annotation_369": {
       "type": "emphasis",
-      "id": "annotation_320",
+      "id": "annotation_369",
       "path": [
         "article_citation_bib18",
         "title"
@@ -5377,17 +5823,11 @@
       "year": "1997",
       "volume": "137",
       "source": "J Cell Biol",
-      "issue": "",
       "fpage": "141",
       "lpage": "53",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1083/jcb.137.1.141",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib20": {
@@ -5415,17 +5855,11 @@
       "year": "2001",
       "volume": "152",
       "source": "J Cell Biol",
-      "issue": "",
       "fpage": "401",
       "lpage": "10",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1083/jcb.152.2.401",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib21": {
@@ -5461,17 +5895,11 @@
       "year": "2003",
       "volume": "425",
       "source": "Nature",
-      "issue": "",
       "fpage": "686",
       "lpage": "91",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nature02026",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib22": {
@@ -5495,17 +5923,10 @@
       "year": "2004",
       "volume": "2",
       "source": "BMC Biol",
-      "issue": "",
       "fpage": "9",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1186/1741-7007-2-9",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib23": {
@@ -5541,17 +5962,11 @@
       "year": "2005",
       "volume": "170",
       "source": "J Cell Biol",
-      "issue": "",
       "fpage": "1021",
       "lpage": "7",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1083/jcb.200506078",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib24": {
@@ -5587,17 +6002,11 @@
       "year": "2004",
       "volume": "21",
       "source": "Yeast",
-      "issue": "",
       "fpage": "947",
       "lpage": "62",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1002/yea.1142",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib25": {
@@ -5633,17 +6042,11 @@
       "year": "2009",
       "volume": "325",
       "source": "Science",
-      "issue": "",
       "fpage": "477",
       "lpage": "81",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1126/science.1175088",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib26": {
@@ -5667,17 +6070,11 @@
       "year": "2011",
       "volume": "108",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "14151",
       "lpage": "6",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1073/pnas.1111314108",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib27": {
@@ -5701,17 +6098,11 @@
       "year": "2013",
       "volume": "339",
       "source": "Science",
-      "issue": "",
       "fpage": "464",
       "lpage": "7",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1126/science.1228360",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib28": {
@@ -5747,17 +6138,11 @@
       "year": "2011",
       "volume": "286",
       "source": "J Biol Chem",
-      "issue": "",
       "fpage": "354",
       "lpage": "62",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1074/jbc.M110.180034",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib29": {
@@ -5781,17 +6166,11 @@
       "year": "1996",
       "volume": "116",
       "source": "J Struct Biol",
-      "issue": "",
       "fpage": "71",
       "lpage": "6",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1006/jsbi.1996.0013",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib30": {
@@ -5815,17 +6194,11 @@
       "year": "2009",
       "volume": "325",
       "source": "Science",
-      "issue": "",
       "fpage": "874",
       "lpage": "7",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1126/science.1176921",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib31": {
@@ -5845,17 +6218,11 @@
       "year": "2009",
       "volume": "1792",
       "source": "Biochim Biophys Acta",
-      "issue": "",
       "fpage": "1138",
       "lpage": "44",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.bbadis.2008.11.011",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib32": {
@@ -5871,17 +6238,11 @@
       "year": "1997",
       "volume": "120",
       "source": "J Struct Biol",
-      "issue": "",
       "fpage": "343",
       "lpage": "52",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1006/jsbi.1997.3919",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib33": {
@@ -5917,17 +6278,11 @@
       "year": "2011",
       "volume": "18",
       "source": "Nat Struct Mol Biol",
-      "issue": "",
       "fpage": "20",
       "lpage": "6",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nsmb.1949",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib34": {
@@ -5947,17 +6302,11 @@
       "year": "2003",
       "volume": "163",
       "source": "J Cell Biol",
-      "issue": "",
       "fpage": "503",
       "lpage": "10",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1083/jcb.200304040",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib35": {
@@ -5989,17 +6338,11 @@
       "year": "2010",
       "volume": "30",
       "source": "J Neurosci",
-      "issue": "",
       "fpage": "4232",
       "lpage": "40",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1523/JNEUROSCI.6248-09.2010",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib36": {
@@ -6027,17 +6370,11 @@
       "year": "2010",
       "volume": "21",
       "source": "Mol Biol Cell",
-      "issue": "",
       "fpage": "1023",
       "lpage": "32",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1091/mbc.E09-09-0776",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib37": {
@@ -6073,22 +6410,15 @@
       "year": "1997",
       "volume": "8",
       "source": "Mol Biol Cell",
-      "issue": "",
       "fpage": "1233",
       "lpage": "42",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_321": {
+    "annotation_370": {
       "type": "emphasis",
-      "id": "annotation_321",
+      "id": "annotation_370",
       "path": [
         "article_citation_bib37",
         "title"
@@ -6120,17 +6450,11 @@
       "year": "1998",
       "volume": "142",
       "source": "J Cell Biol",
-      "issue": "",
       "fpage": "613",
       "lpage": "23",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1083/jcb.142.3.613",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib39": {
@@ -6158,22 +6482,16 @@
       "year": "2006",
       "volume": "50",
       "source": "Curr Genet",
-      "issue": "",
       "fpage": "173",
       "lpage": "82",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1007/s00294-006-0087-9",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_322": {
+    "annotation_371": {
       "type": "emphasis",
-      "id": "annotation_322",
+      "id": "annotation_371",
       "path": [
         "article_citation_bib39",
         "title"
@@ -6217,22 +6535,16 @@
       "year": "2001",
       "volume": "153",
       "source": "J Cell Biol",
-      "issue": "",
       "fpage": "47",
       "lpage": "62",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1083/jcb.153.1.47",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_323": {
+    "annotation_372": {
       "type": "emphasis",
-      "id": "annotation_323",
+      "id": "annotation_372",
       "path": [
         "article_citation_bib40",
         "title"
@@ -6256,17 +6568,11 @@
       "year": "1983",
       "volume": "101",
       "source": "Methods Enzymol",
-      "issue": "",
       "fpage": "202",
       "lpage": "11",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/0076-6879(83)01015-0",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib42": {
@@ -6302,17 +6608,11 @@
       "year": "2004",
       "volume": "22",
       "source": "Nat Biotechnol",
-      "issue": "",
       "fpage": "1567",
       "lpage": "72",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nbt1037",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib43": {
@@ -6332,22 +6632,16 @@
       "year": "2004",
       "volume": "21",
       "source": "Yeast",
-      "issue": "",
       "fpage": "661",
       "lpage": "70",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1002/yea.1130",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_324": {
+    "annotation_373": {
       "type": "emphasis",
-      "id": "annotation_324",
+      "id": "annotation_373",
       "path": [
         "article_citation_bib43",
         "title"
@@ -6379,22 +6673,16 @@
       "year": "1997",
       "volume": "37",
       "source": "Cell Motil Cytoskeleton",
-      "issue": "",
       "fpage": "199",
       "lpage": "210",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1002/(SICI)1097-0169(1997)37:3<199::AID-CM2>3.0.CO;2-2",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_325": {
+    "annotation_374": {
       "type": "emphasis",
-      "id": "annotation_325",
+      "id": "annotation_374",
       "path": [
         "article_citation_bib44",
         "title"
@@ -6438,17 +6726,11 @@
       "year": "2011",
       "volume": "413",
       "source": "J Mol Biol",
-      "issue": "",
       "fpage": "743",
       "lpage": "50",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.jmb.2011.09.012",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib46": {
@@ -6468,17 +6750,11 @@
       "year": "2012",
       "volume": "125",
       "source": "J Cell Sci",
-      "issue": "",
       "fpage": "49",
       "lpage": "58",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1242/jcs.085118",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib47": {
@@ -6510,22 +6786,16 @@
       "year": "2011",
       "volume": "90",
       "source": "Eur J Cell Biol",
-      "issue": "",
       "fpage": "342",
       "lpage": "55",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.ejcb.2010.10.012",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_326": {
+    "annotation_375": {
       "type": "emphasis",
-      "id": "annotation_326",
+      "id": "annotation_375",
       "path": [
         "article_citation_bib47",
         "title"
@@ -6565,22 +6835,16 @@
       "year": "2012",
       "volume": "125",
       "source": "J Cell Sci",
-      "issue": "",
       "fpage": "4791",
       "lpage": "9",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1242/jcs.105635",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_327": {
+    "annotation_376": {
       "type": "emphasis",
-      "id": "annotation_327",
+      "id": "annotation_376",
       "path": [
         "article_citation_bib48",
         "title"
@@ -6608,22 +6872,16 @@
       "year": "2009",
       "volume": "136",
       "source": "Cell",
-      "issue": "",
       "fpage": "163",
       "lpage": "74",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.cell.2008.11.046",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_328": {
+    "annotation_377": {
       "type": "superscript",
-      "id": "annotation_328",
+      "id": "annotation_377",
       "path": [
         "article_citation_bib49",
         "title"
@@ -6667,17 +6925,11 @@
       "year": "2011",
       "volume": "147",
       "source": "Cell",
-      "issue": "",
       "fpage": "893",
       "lpage": "906",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.cell.2011.10.018",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib51": {
@@ -6705,17 +6957,11 @@
       "year": "2011",
       "volume": "193",
       "source": "J Cell Biol",
-      "issue": "",
       "fpage": "333",
       "lpage": "46",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1083/jcb.201011039",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib52": {
@@ -6735,22 +6981,16 @@
       "year": "2000",
       "volume": "16",
       "source": "Yeast",
-      "issue": "",
       "fpage": "1421",
       "lpage": "7",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1002/1097-0061(200011)16:15<1421::AID-YEA624>3.0.CO;2-U",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_329": {
+    "annotation_378": {
       "type": "emphasis",
-      "id": "annotation_329",
+      "id": "annotation_378",
       "path": [
         "article_citation_bib52",
         "title"
@@ -6778,17 +7018,11 @@
       "year": "2012",
       "volume": "10",
       "source": "Nat Rev Microbiol",
-      "issue": "",
       "fpage": "8",
       "lpage": "12",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nrmicro2671",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib54": {
@@ -6820,17 +7054,11 @@
       "year": "2004",
       "volume": "164",
       "source": "J Cell Biol",
-      "issue": "",
       "fpage": "677",
       "lpage": "88",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1083/jcb.200308012",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "sub-article": {

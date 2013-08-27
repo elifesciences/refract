@@ -186,7 +186,6 @@
       "accepted_on": "2013-06-03",
       "published_on": "2013-07-09",
       "journal": "elife",
-      "article_type": "",
       "keywords": [
         "Diaphanous",
         "formin",
@@ -200,10 +199,9 @@
         "Cell biology",
         "Developmental biology and stem cells"
       ],
-      "pdf_link": "",
-      "xml_link": "",
-      "json_link": "",
-      "doi": ""
+      "xml_link": "https://s3.amazonaws.com/elife-cdn/elife-articles/00666/elife00666.xml",
+      "json_link": "https://s3.amazonaws.com/elife-cdn/elife-articles/00666/00666.json",
+      "doi": "http://dx.doi.org/10.7554/eLife.00666"
     },
     "annotation_1": {
       "type": "emphasis",
@@ -225,9 +223,7 @@
       "last-name": "Rousso",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article",
-      "email": "",
       "funding": []
     },
     "person_author_4296": {
@@ -237,9 +233,7 @@
       "last-name": "Shewan",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Acquisition of data, Analysis and interpretation of data",
-      "email": "",
       "funding": [
         "funding_par_3"
       ]
@@ -251,9 +245,7 @@
       "last-name": "Mostov",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Analysis and interpretation of data",
-      "email": "",
       "funding": [
         "funding_par_2"
       ]
@@ -265,7 +257,6 @@
       "last-name": "Schejter",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Analysis and interpretation of data, Drafting or revising the article",
       "email": "email:cor1",
       "funding": []
@@ -277,7 +268,6 @@
       "last-name": "Shilo",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Analysis and interpretation of data, Drafting or revising the article",
       "email": "email:cor2",
       "funding": [
@@ -290,18 +280,14 @@
       "id": "institution_aff1",
       "name": "Weizmann Institute of Science",
       "city": "Rehovot",
-      "country": "Israel",
-      "email": "",
-      "image": ""
+      "country": "Israel"
     },
     "institution_aff2": {
       "type": "institution",
       "id": "institution_aff2",
       "name": "University of California, San Francisco",
       "city": "San Francisco",
-      "country": "United States",
-      "email": "",
-      "image": ""
+      "country": "United States"
     },
     "person_2": {
       "type": "person",
@@ -310,9 +296,6 @@
       "last-name": "McNeill",
       "role": "editor",
       "affiliations": [],
-      "image": "",
-      "contribution": "",
-      "email": "",
       "funding": []
     },
     "info:review": {
@@ -327,13 +310,11 @@
     "email_cor1": {
       "type": "email",
       "id": "email_cor1",
-      "node": "",
       "email": "eyal.schejter@weizmann.ac.il"
     },
     "email_cor2": {
       "type": "email",
       "id": "email_cor2",
-      "node": "",
       "email": "benny.shilo@weizmann.ac.il"
     },
     "info:copyright": {
@@ -549,7 +530,6 @@
       "type": "funding",
       "id": "funding_par_3",
       "institution": "CJ Martin Fellowship, National Health and Medical Research Council, Australia",
-      "accession": "",
       "person": "person_author_4296",
       "given-names": "Annette M",
       "last-name": "Shewan"
@@ -558,7 +538,6 @@
       "type": "funding",
       "id": "funding_par_4",
       "institution": "Schoenheimer Foundation",
-      "accession": "",
       "person": "person_author_3922",
       "given-names": "Ben-Zion",
       "last-name": "Shilo"
@@ -574,8 +553,7 @@
     },
     "paragraph_21": {
       "type": "paragraph",
-      "id": "paragraph_21",
-      "content": ""
+      "id": "paragraph_21"
     },
     "heading_s1": {
       "type": "heading",
@@ -1053,19 +1031,12 @@
       "type": "image",
       "id": "image_fig1",
       "label": "Figure 1.",
-      "url": "",
-      "object_id": "F1",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00666/svg/elife00666f001.svg",
       "title": "The open conformation enhances Dia apical localization.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00666.003",
       "caption": "paragraph_image_fig1",
-      "graphic_id": "elife00666f001"
+      "graphic_id": "elife00666f001",
+      "format": "image"
     },
     "paragraph_image_fig1": {
       "type": "paragraph",
@@ -1570,19 +1541,12 @@
       "type": "image",
       "id": "image_fig1s1",
       "label": "Figure 1—figure supplement 1.",
-      "url": "",
-      "object_id": "F2",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00666/svg/elife00666fs001.svg",
       "title": "Characteristics of Dia apical enrichment.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig1"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00666.004",
       "caption": "paragraph_image_fig1s1",
-      "graphic_id": "elife00666fs001"
+      "graphic_id": "elife00666fs001",
+      "format": "image"
     },
     "paragraph_image_fig1s1": {
       "type": "paragraph",
@@ -1723,19 +1687,12 @@
       "type": "image",
       "id": "image_fig2",
       "label": "Figure 2.",
-      "url": "",
-      "object_id": "F3",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00666/svg/elife00666f002.svg",
       "title": "The N-terminal domain of Dia is necessary and sufficient for apical targeting.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00666.005",
       "caption": "paragraph_image_fig2",
-      "graphic_id": "elife00666f002"
+      "graphic_id": "elife00666f002",
+      "format": "image"
     },
     "paragraph_image_fig2": {
       "type": "paragraph",
@@ -1980,19 +1937,12 @@
       "type": "image",
       "id": "image_fig2s1",
       "label": "Figure 2—figure supplement 1.",
-      "url": "",
-      "object_id": "F4",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00666/svg/elife00666fs002.svg",
       "title": "Dia constructs show similar localization patterns in all tubular organs.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig2"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00666.006",
       "caption": "paragraph_image_fig2s1",
-      "graphic_id": "elife00666fs002"
+      "graphic_id": "elife00666fs002",
+      "format": "image"
     },
     "paragraph_image_fig2s1": {
       "type": "paragraph",
@@ -2456,19 +2406,12 @@
       "type": "image",
       "id": "image_fig3",
       "label": "Figure 3.",
-      "url": "",
-      "object_id": "F5",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00666/svg/elife00666f003.svg",
       "title": "PI(4,5)P2 levels regulate Drosophila Dia localization in MDCK cysts.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00666.007",
       "caption": "paragraph_image_fig3",
-      "graphic_id": "elife00666f003"
+      "graphic_id": "elife00666f003",
+      "format": "image"
     },
     "paragraph_image_fig3": {
       "type": "paragraph",
@@ -2860,19 +2803,12 @@
       "type": "image",
       "id": "image_fig4",
       "label": "Figure 4.",
-      "url": "",
-      "object_id": "F6",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00666/svg/elife00666f004.svg",
       "title": "PI(4,5)P2 and Skittles, a PIP5 kinase, are apically enriched in Drosophila tubular organs.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00666.008",
       "caption": "paragraph_image_fig4",
-      "graphic_id": "elife00666f004"
+      "graphic_id": "elife00666f004",
+      "format": "image"
     },
     "paragraph_image_fig4": {
       "type": "paragraph",
@@ -3469,19 +3405,12 @@
       "type": "image",
       "id": "image_fig5",
       "label": "Figure 5.",
-      "url": "",
-      "object_id": "F7",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00666/svg/elife00666f005.svg",
       "title": "PI(4,5)P2 levels regulate Dia apical localization in Drosophila tubular epithelia.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00666.009",
       "caption": "paragraph_image_fig5",
-      "graphic_id": "elife00666f005"
+      "graphic_id": "elife00666f005",
+      "format": "image"
     },
     "paragraph_image_fig5": {
       "type": "paragraph",
@@ -4257,19 +4186,12 @@
       "type": "image",
       "id": "image_fig6",
       "label": "Figure 6.",
-      "url": "",
-      "object_id": "F8",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00666/svg/elife00666f006.svg",
       "title": "PI(4,5)P2-Dia interaction is mediated by direct binding through the BD domain.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00666.010",
       "caption": "paragraph_image_fig6",
-      "graphic_id": "elife00666f006"
+      "graphic_id": "elife00666f006",
+      "format": "image"
     },
     "paragraph_image_fig6": {
       "type": "paragraph",
@@ -4475,19 +4397,12 @@
       "type": "image",
       "id": "image_fig6s1",
       "label": "Figure 6—figure supplement 1.",
-      "url": "",
-      "object_id": "F9",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00666/svg/elife00666fs003.svg",
       "title": "Dia constructs show similar localization patterns in all tubular organs.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig6"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00666.011",
       "caption": "paragraph_image_fig6s1",
-      "graphic_id": "elife00666fs003"
+      "graphic_id": "elife00666fs003",
+      "format": "image"
     },
     "paragraph_image_fig6s1": {
       "type": "paragraph",
@@ -4823,19 +4738,12 @@
       "type": "image",
       "id": "image_fig7",
       "label": "Figure 7.",
-      "url": "",
-      "object_id": "F10",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00666/svg/elife00666f007.svg",
       "title": "Direct binding to Rho1 mediates Dia apical localization.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00666.012",
       "caption": "paragraph_image_fig7",
-      "graphic_id": "elife00666f007"
+      "graphic_id": "elife00666f007",
+      "format": "image"
     },
     "paragraph_image_fig7": {
       "type": "paragraph",
@@ -5275,19 +5183,12 @@
       "type": "image",
       "id": "image_fig7s1",
       "label": "Figure 7—figure supplement 1.",
-      "url": "",
-      "object_id": "F11",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00666/svg/elife00666fs004.svg",
       "title": "Apical enrichment of Rho1 is not dependent on Dia.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig7"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00666.013",
       "caption": "paragraph_image_fig7s1",
-      "graphic_id": "elife00666fs004"
+      "graphic_id": "elife00666fs004",
+      "format": "image"
     },
     "paragraph_image_fig7s1": {
       "type": "paragraph",
@@ -5376,19 +5277,12 @@
       "type": "image",
       "id": "image_fig7s2",
       "label": "Figure 7—figure supplement 2.",
-      "url": "",
-      "object_id": "F12",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00666/svg/elife00666fs005.svg",
       "title": "Rho1 binding is critical for Dia localization in embryonic tubular organs.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig7"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00666.014",
       "caption": "paragraph_image_fig7s2",
-      "graphic_id": "elife00666fs005"
+      "graphic_id": "elife00666fs005",
+      "format": "image"
     },
     "paragraph_image_fig7s2": {
       "type": "paragraph",
@@ -5763,19 +5657,12 @@
       "type": "image",
       "id": "image_fig7s3",
       "label": "Figure 7—figure supplement 3.",
-      "url": "",
-      "object_id": "F13",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00666/svg/elife00666fs006.svg",
       "title": "Rho1 and PI(4,5)P2 do not regulate each other’s localization pattern.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig7"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00666.015",
       "caption": "paragraph_image_fig7s3",
-      "graphic_id": "elife00666fs006"
+      "graphic_id": "elife00666fs006",
+      "format": "image"
     },
     "paragraph_image_fig7s3": {
       "type": "paragraph",
@@ -7954,17 +7841,11 @@
       "year": "2008",
       "volume": "9",
       "source": "Nat Rev Mol Cell Biol",
-      "issue": "",
       "fpage": "887",
       "lpage": "901",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nrm2523",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib2": {
@@ -7992,17 +7873,11 @@
       "year": "2007",
       "volume": "120",
       "source": "J Cell Sci",
-      "issue": "",
       "fpage": "3870",
       "lpage": "82",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1242/jcs.014365",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib3": {
@@ -8026,17 +7901,11 @@
       "year": "2011",
       "volume": "124",
       "source": "J Cell Sci",
-      "issue": "",
       "fpage": "3393",
       "lpage": "8",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1242/jcs.092601",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib4": {
@@ -8060,17 +7929,11 @@
       "year": "2010",
       "volume": "11",
       "source": "Nat Rev Mol Cell Biol",
-      "issue": "",
       "fpage": "62",
       "lpage": "74",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nrm2816",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib5": {
@@ -8094,17 +7957,11 @@
       "year": "2005",
       "volume": "15",
       "source": "Trends Cell Biol",
-      "issue": "",
       "fpage": "259",
       "lpage": "68",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.tcb.2005.03.008",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib6": {
@@ -8140,17 +7997,11 @@
       "year": "2010",
       "volume": "21",
       "source": "Mol Biol Cell",
-      "issue": "",
       "fpage": "1546",
       "lpage": "55",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1091/mbc.E09-07-0582",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib7": {
@@ -8186,17 +8037,11 @@
       "year": "2009",
       "volume": "187",
       "source": "J Cell Biol",
-      "issue": "",
       "fpage": "701",
       "lpage": "14",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1083/jcb.200909025",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib8": {
@@ -8216,17 +8061,11 @@
       "year": "2006",
       "volume": "10",
       "source": "Dev Cell",
-      "issue": "",
       "fpage": "693",
       "lpage": "706",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.devcel.2006.05.001",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib9": {
@@ -8262,17 +8101,11 @@
       "year": "2006",
       "volume": "8",
       "source": "Nat Cell Biol",
-      "issue": "",
       "fpage": "963",
       "lpage": "70",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/ncb1461",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib10": {
@@ -8296,17 +8129,11 @@
       "year": "2013",
       "volume": "110",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "10652",
       "lpage": "7",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1073/pnas.1303796110",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib11": {
@@ -8338,17 +8165,11 @@
       "year": "2008",
       "volume": "135",
       "source": "Development",
-      "issue": "",
       "fpage": "3829",
       "lpage": "38",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1242/dev.029009",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib12": {
@@ -8368,17 +8189,11 @@
       "year": "2007",
       "volume": "76",
       "source": "Annu Rev Biochem",
-      "issue": "",
       "fpage": "593",
       "lpage": "627",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1146/annurev.biochem.75.103004.142647",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib13": {
@@ -8410,17 +8225,11 @@
       "year": "2011",
       "volume": "22",
       "source": "Mol Biol Cell",
-      "issue": "",
       "fpage": "189",
       "lpage": "201",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1091/mbc.E10-03-0256",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib14": {
@@ -8456,17 +8265,11 @@
       "year": "2005",
       "volume": "132",
       "source": "Development",
-      "issue": "",
       "fpage": "1009",
       "lpage": "20",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1242/dev.01669",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib15": {
@@ -8482,17 +8285,11 @@
       "year": "2005",
       "volume": "30",
       "source": "Trends Biochem Sci",
-      "issue": "",
       "fpage": "342",
       "lpage": "53",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.tibs.2005.04.014",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib16": {
@@ -8512,17 +8309,11 @@
       "year": "2009",
       "volume": "20",
       "source": "Mol Biol Cell",
-      "issue": "",
       "fpage": "5138",
       "lpage": "55",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1091/mbc.E09-02-0144",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib18": {
@@ -8538,17 +8329,11 @@
       "year": "2010",
       "volume": "67",
       "source": "Cell Mol Life Sci",
-      "issue": "",
       "fpage": "3927",
       "lpage": "46",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1007/s00018-010-0432-5",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib19": {
@@ -8576,17 +8361,11 @@
       "year": "2008",
       "volume": "283",
       "source": "J Biol Chem",
-      "issue": "",
       "fpage": "35236",
       "lpage": "46",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1074/jbc.M805634200",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib20": {
@@ -8614,17 +8393,11 @@
       "year": "2005",
       "volume": "24",
       "source": "EMBO J",
-      "issue": "",
       "fpage": "4176",
       "lpage": "87",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/sj.emboj.7600879",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib21": {
@@ -8640,17 +8413,11 @@
       "year": "2008",
       "volume": "9",
       "source": "Nat Rev Mol Cell Biol",
-      "issue": "",
       "fpage": "99",
       "lpage": "111",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nrm2328",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib22": {
@@ -8670,17 +8437,11 @@
       "year": "2003",
       "volume": "13",
       "source": "Curr Biol",
-      "issue": "",
       "fpage": "1335",
       "lpage": "40",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/S0960-9822(03)00540-2",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib23": {
@@ -8704,17 +8465,11 @@
       "year": "2012",
       "volume": "23",
       "source": "Mol Biol Cell",
-      "issue": "",
       "fpage": "412",
       "lpage": "22",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1091/mbc.E11-07-0631",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib24": {
@@ -8746,17 +8501,11 @@
       "year": "2008",
       "volume": "40",
       "source": "Nat Genet",
-      "issue": "",
       "fpage": "476",
       "lpage": "83",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/ng.101",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib25": {
@@ -8776,17 +8525,11 @@
       "year": "2007",
       "volume": "6",
       "source": "Cell Cycle",
-      "issue": "",
       "fpage": "1957",
       "lpage": "61",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.4161/cc.6.16.4583",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib26": {
@@ -8822,17 +8565,11 @@
       "year": "2007",
       "volume": "128",
       "source": "Cell",
-      "issue": "",
       "fpage": "383",
       "lpage": "97",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.cell.2006.11.051",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib27": {
@@ -8856,17 +8593,11 @@
       "year": "2009",
       "volume": "16",
       "source": "Dev Cell",
-      "issue": "",
       "fpage": "877",
       "lpage": "88",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.devcel.2009.04.010",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib28": {
@@ -8902,17 +8633,11 @@
       "year": "2006",
       "volume": "1761",
       "source": "Biochim Biophys Acta",
-      "issue": "",
       "fpage": "812",
       "lpage": "26",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.bbalip.2006.07.002",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib29": {
@@ -8948,17 +8673,11 @@
       "year": "2012",
       "volume": "372",
       "source": "Dev Biol",
-      "issue": "",
       "fpage": "17",
       "lpage": "27",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.ydbio.2012.09.008",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib30": {
@@ -8978,17 +8697,11 @@
       "year": "2011",
       "volume": "138",
       "source": "Development",
-      "issue": "",
       "fpage": "799",
       "lpage": "809",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1242/dev.053538",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib31": {
@@ -9020,17 +8733,11 @@
       "year": "2005",
       "volume": "18",
       "source": "Mol Cell",
-      "issue": "",
       "fpage": "273",
       "lpage": "81",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.molcel.2005.04.002",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib32": {
@@ -9050,17 +8757,11 @@
       "year": "2010",
       "volume": "79",
       "source": "Annu Rev Biochem",
-      "issue": "",
       "fpage": "707",
       "lpage": "35",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1146/annurev.biochem.77.060407.135452",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib33": {
@@ -9074,19 +8775,13 @@
       ],
       "title": "Imaging neuronal subset and other cell types in whole-mount Drodophila embryos and larvae using antibody probes",
       "year": "1994",
-      "volume": "",
       "source": "Methods in cell biology",
-      "issue": "",
       "fpage": "446",
       "lpage": "88",
-      "collab": "",
-      "edition": "",
       "publisher-name": "Academic press",
       "publisher-loc": "San Diego",
-      "doi": "",
       "citation_url": [],
       "format": "book",
-      "label": "",
       "editors": [
         {
           "given-names": "LSB",
@@ -9123,17 +8818,11 @@
       "year": "2000",
       "volume": "290",
       "source": "Science",
-      "issue": "",
       "fpage": "801",
       "lpage": "6",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1126/science.290.5492.801",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib35": {
@@ -9169,17 +8858,11 @@
       "year": "2009",
       "volume": "185",
       "source": "J Cell Biol",
-      "issue": "",
       "fpage": "129",
       "lpage": "45",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1083/jcb.200807027",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib36": {
@@ -9215,17 +8898,11 @@
       "year": "2010",
       "volume": "89",
       "source": "Eur J Cell Biol",
-      "issue": "",
       "fpage": "723",
       "lpage": "32",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.ejcb.2010.06.001",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib37": {
@@ -9261,17 +8938,11 @@
       "year": "2005",
       "volume": "435",
       "source": "Nature",
-      "issue": "",
       "fpage": "513",
       "lpage": "8",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nature03604",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib38": {
@@ -9295,17 +8966,11 @@
       "year": "2011",
       "volume": "439",
       "source": "Biochem J",
-      "issue": "",
       "fpage": "57",
       "lpage": "65",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1042/BJ20101700",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib39": {
@@ -9333,17 +8998,11 @@
       "year": "2008",
       "volume": "27",
       "source": "EMBO J",
-      "issue": "",
       "fpage": "618",
       "lpage": "28",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/emboj.2008.7",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib40": {
@@ -9359,17 +9018,11 @@
       "year": "2012",
       "volume": "28",
       "source": "Annu Rev Cell Dev Biol",
-      "issue": "",
       "fpage": "655",
       "lpage": "85",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1146/annurev-cellbio-092910-154033",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib41": {
@@ -9397,17 +9050,11 @@
       "year": "2012",
       "volume": "198",
       "source": "J Cell Biol",
-      "issue": "",
       "fpage": "235",
       "lpage": "50",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1083/jcb.201112085",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib42": {
@@ -9431,17 +9078,11 @@
       "year": "2012",
       "volume": "52",
       "source": "Adv Biol Regul",
-      "issue": "",
       "fpage": "303",
       "lpage": "14",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.jbior.2012.04.001",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib43": {
@@ -9473,17 +9114,11 @@
       "year": "2005",
       "volume": "132",
       "source": "Development",
-      "issue": "",
       "fpage": "1675",
       "lpage": "86",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1242/dev.01720",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib44": {
@@ -9519,17 +9154,11 @@
       "year": "2010",
       "volume": "21",
       "source": "Mol Biol Cell",
-      "issue": "",
       "fpage": "3193",
       "lpage": "204",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1091/mbc.E10-04-0324",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib45": {
@@ -9549,17 +9178,11 @@
       "year": "2009",
       "volume": "122",
       "source": "J Cell Sci",
-      "issue": "",
       "fpage": "4253",
       "lpage": "66",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1242/jcs.032615",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib46": {
@@ -9595,17 +9218,11 @@
       "year": "2002",
       "volume": "251",
       "source": "Dev Biol",
-      "issue": "",
       "fpage": "294",
       "lpage": "306",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1006/dbio.2002.0830",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib17": {
@@ -9633,17 +9250,11 @@
       "year": "2011",
       "volume": "138",
       "source": "Development",
-      "issue": "",
       "fpage": "5415",
       "lpage": "27",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1242/dev.069831",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "sub-article": {

@@ -161,7 +161,6 @@
       "accepted_on": "2013-03-15",
       "published_on": "2013-04-30",
       "journal": "elife",
-      "article_type": "",
       "keywords": [
         "mast cell",
         "vascular leakage",
@@ -178,10 +177,9 @@
         "Immunology",
         "Microbiology and infectious disease"
       ],
-      "pdf_link": "",
-      "xml_link": "",
-      "json_link": "",
-      "doi": ""
+      "xml_link": "https://s3.amazonaws.com/elife-cdn/elife-articles/00481/elife00481.xml",
+      "json_link": "https://s3.amazonaws.com/elife-cdn/elife-articles/00481/00481.json",
+      "doi": "http://dx.doi.org/10.7554/eLife.00481"
     },
     "person_author_3448": {
       "type": "person",
@@ -190,7 +188,6 @@
       "last-name": "St John",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Project conception, Experimental design, Performed experiments, Analysis and interpretation of data, Wrote the manuscript",
       "email": "email_cor1",
       "funding": [
@@ -204,9 +201,7 @@
       "last-name": "Rathore",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Project conception, Experimental design, Analysis and interpretation of data, Reviewed the manuscript",
-      "email": "",
       "funding": []
     },
     "person_author_3532": {
@@ -216,9 +211,7 @@
       "last-name": "Raghavan",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Performed ELISAs using human clinical samples, Reviewed the manuscript",
-      "email": "",
       "funding": []
     },
     "person_author_3533": {
@@ -228,9 +221,7 @@
       "last-name": "Ng",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Provided human clinical samples, Reviewed the manuscript",
-      "email": "",
       "funding": [
         "funding_par_3"
       ]
@@ -242,9 +233,7 @@
       "last-name": "Abraham",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Project conception, Data interpretation, Reviewed the manuscript",
-      "email": "",
       "funding": [
         "funding_par_2",
         "funding_par_4"
@@ -255,36 +244,28 @@
       "id": "institution_aff1",
       "name": "Duke-National University of Singapore",
       "city": "Singapore",
-      "country": "Singapore",
-      "email": "",
-      "image": ""
+      "country": "Singapore"
     },
     "institution_aff2": {
       "type": "institution",
       "id": "institution_aff2",
       "name": "Duke University",
       "city": "Durham",
-      "country": "United States",
-      "email": "",
-      "image": ""
+      "country": "United States"
     },
     "institution_aff3": {
       "type": "institution",
       "id": "institution_aff3",
       "name": "National University of Singapore",
       "city": "Singapore",
-      "country": "Singapore",
-      "email": "",
-      "image": ""
+      "country": "Singapore"
     },
     "institution_aff4": {
       "type": "institution",
       "id": "institution_aff4",
       "name": "Duke University",
       "city": "Durham",
-      "country": "United States",
-      "email": "",
-      "image": ""
+      "country": "United States"
     },
     "person_1": {
       "type": "person",
@@ -293,9 +274,6 @@
       "last-name": "Medzhitov",
       "role": "editor",
       "affiliations": [],
-      "image": "",
-      "contribution": "",
-      "email": "",
       "funding": []
     },
     "info:review": {
@@ -310,7 +288,6 @@
     "email_cor1": {
       "type": "email",
       "id": "email_cor1",
-      "node": "",
       "email": "ashley.st.john@duke.edu"
     },
     "info:copyright": {
@@ -457,7 +434,6 @@
       "type": "funding",
       "id": "funding_par_2",
       "institution": "National Institutes of Health",
-      "accession": "",
       "person": "person_author_3451",
       "given-names": "Soman N",
       "last-name": "Abraham"
@@ -475,7 +451,6 @@
       "type": "funding",
       "id": "funding_par_4",
       "institution": "Duke-NUS Signature Research Program funded by the Agency for Science, Technology and Research (A*STAR), Singapore, and the Ministry of Health, Singapore",
-      "accession": "",
       "person": "person_author_3451",
       "given-names": "Soman N",
       "last-name": "Abraham"
@@ -491,8 +466,7 @@
     },
     "paragraph_16": {
       "type": "paragraph",
-      "id": "paragraph_16",
-      "content": ""
+      "id": "paragraph_16"
     },
     "heading_s1": {
       "type": "heading",
@@ -929,19 +903,12 @@
       "type": "image",
       "id": "image_fig1",
       "label": "Figure 1.",
-      "url": "",
-      "object_id": "F1",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00481/svg/elife00481f001.svg",
       "title": "DENV-Induced MC activation and microstructural changes surrounding blood vessels.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00481.003",
       "caption": "paragraph_image_fig1",
-      "graphic_id": "elife00481f001"
+      "graphic_id": "elife00481f001",
+      "format": "image"
     },
     "paragraph_image_fig1": {
       "type": "paragraph",
@@ -1302,19 +1269,12 @@
       "type": "image",
       "id": "image_fig2",
       "label": "Figure 2.",
-      "url": "",
-      "object_id": "F2",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00481/svg/elife00481f002.svg",
       "title": "Vascular pathology and DENV replication in the WT mouse model.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00481.004",
       "caption": "paragraph_image_fig2",
-      "graphic_id": "elife00481f002"
+      "graphic_id": "elife00481f002",
+      "format": "image"
     },
     "paragraph_image_fig2": {
       "type": "paragraph",
@@ -1771,19 +1731,12 @@
       "type": "image",
       "id": "image_fig3",
       "label": "Figure 3.",
-      "url": "",
-      "object_id": "F3",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00481/svg/elife00481f003.svg",
       "title": "Vascular leakage during DENV infection is MC-dependent.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00481.005",
       "caption": "paragraph_image_fig3",
-      "graphic_id": "elife00481f003"
+      "graphic_id": "elife00481f003",
+      "format": "image"
     },
     "paragraph_image_fig3": {
       "type": "paragraph",
@@ -1872,19 +1825,12 @@
       "type": "image",
       "id": "image_fig3s1",
       "label": "Figure 3—figure supplement 1.",
-      "url": "",
-      "object_id": "F4",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00481/svg/elife00481fs001.svg",
       "title": "Representative images of livers from uninfected mice, or mice infected with 1 × 106 PFU of DENV.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig3"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00481.006",
       "caption": "paragraph_image_fig3s1",
-      "graphic_id": "elife00481fs001"
+      "graphic_id": "elife00481fs001",
+      "format": "image"
     },
     "paragraph_image_fig3s1": {
       "type": "paragraph",
@@ -1908,19 +1854,12 @@
       "type": "image",
       "id": "image_fig3s2",
       "label": "Figure 3—figure supplement 2.",
-      "url": "",
-      "object_id": "F5",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00481/svg/elife00481fs002.svg",
       "title": "Representative images of the kidneys of WT mice or Sash mice that were infected with 1 × 106 PFU of DENV.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig3"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00481.007",
       "caption": "paragraph_image_fig3s2",
-      "graphic_id": "elife00481fs002"
+      "graphic_id": "elife00481fs002",
+      "format": "image"
     },
     "paragraph_image_fig3s2": {
       "type": "paragraph",
@@ -2317,19 +2256,12 @@
       "type": "image",
       "id": "image_fig4",
       "label": "Figure 4.",
-      "url": "",
-      "object_id": "F6",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00481/svg/elife00481f004.svg",
       "title": "Drugs targeting MCs and their products improve DENV-induced vasculopathy.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00481.008",
       "caption": "paragraph_image_fig4",
-      "graphic_id": "elife00481f004"
+      "graphic_id": "elife00481f004",
+      "format": "image"
     },
     "paragraph_image_fig4": {
       "type": "paragraph",
@@ -2431,19 +2363,12 @@
       "type": "image",
       "id": "image_fig4s1",
       "label": "Figure 4—figure supplement 1.",
-      "url": "",
-      "object_id": "F7",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00481/svg/elife00481fs003.svg",
       "title": "Supernatants from both WT and TNF-KO MCs resulted in a significant reduction in the TER of monolayers of vascular endothelial cell line SVEC4-10EHR1 with exposure compared to controls, determined by ANOVA; for δ p<0.05.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig4"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00481.009",
       "caption": "paragraph_image_fig4s1",
-      "graphic_id": "elife00481fs003"
+      "graphic_id": "elife00481fs003",
+      "format": "image"
     },
     "paragraph_image_fig4s1": {
       "type": "paragraph",
@@ -2646,19 +2571,12 @@
       "type": "image",
       "id": "image_fig5",
       "label": "Figure 5.",
-      "url": "",
-      "object_id": "F8",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00481/svg/elife00481f005.svg",
       "title": "Cromolyn is effective in the IFN-α,β,γ-deficient mouse model to limit DENV-induced vasculopathy.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00481.010",
       "caption": "paragraph_image_fig5",
-      "graphic_id": "elife00481f005"
+      "graphic_id": "elife00481f005",
+      "format": "image"
     },
     "paragraph_image_fig5": {
       "type": "paragraph",
@@ -3011,19 +2929,12 @@
       "type": "image",
       "id": "image_fig6",
       "label": "Figure 6.",
-      "url": "",
-      "object_id": "F9",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00481/svg/elife00481f006.svg",
       "title": "Severity of DENV-induced disease in humans is linked to the MC product chymase.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00481.011",
       "caption": "paragraph_image_fig6",
-      "graphic_id": "elife00481f006"
+      "graphic_id": "elife00481f006",
+      "format": "image"
     },
     "paragraph_image_fig6": {
       "type": "paragraph",
@@ -3177,19 +3088,12 @@
       "type": "image",
       "id": "image_fig6s1",
       "label": "Figure 6—figure supplement 1.",
-      "url": "",
-      "object_id": "F10",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00481/svg/elife00481fs004.svg",
       "title": "Serum chymase levels are presented to represent the repeated measures for individual patients at the early (acute) and late (defervescent) time points of infection and a line connects each patient’s paired values.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig6"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00481.012",
       "caption": "paragraph_image_fig6s1",
-      "graphic_id": "elife00481fs004"
+      "graphic_id": "elife00481fs004",
+      "format": "image"
     },
     "paragraph_image_fig6s1": {
       "type": "paragraph",
@@ -3303,19 +3207,12 @@
       "type": "image",
       "id": "image_fig7",
       "label": "Figure 7.",
-      "url": "",
-      "object_id": "F11",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00481/svg/elife00481f007.svg",
       "title": "Diagram representing the impact of DENV-induced activation of MCs on the vasculature.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00481.013",
       "caption": "paragraph_image_fig7",
-      "graphic_id": "elife00481f007"
+      "graphic_id": "elife00481f007",
+      "format": "image"
     },
     "paragraph_image_fig7": {
       "type": "paragraph",
@@ -3964,17 +3861,11 @@
       "year": "2010",
       "volume": "10",
       "source": "Nat Rev Immunol",
-      "issue": "",
       "fpage": "440",
       "lpage": "52",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nri2782",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib2": {
@@ -4010,17 +3901,11 @@
       "year": "2010",
       "volume": "24",
       "source": "FASEB J",
-      "issue": "",
       "fpage": "218",
       "lpage": "28",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1096/fj.09-139469",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib3": {
@@ -4048,17 +3933,11 @@
       "year": "2003",
       "volume": "35",
       "source": "FEMS Immunol Med Microbiol",
-      "issue": "",
       "fpage": "33",
       "lpage": "42",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1111/j.1574-695X.2003.tb00646.x",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib4": {
@@ -4078,17 +3957,11 @@
       "year": "2006",
       "volume": "3",
       "source": "Drug Discov Today Dis Models",
-      "issue": "",
       "fpage": "97",
       "lpage": "103",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.ddmod.2006.03.014",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib5": {
@@ -4124,17 +3997,11 @@
       "year": "2007",
       "volume": "81",
       "source": "J Virol",
-      "issue": "",
       "fpage": "13325",
       "lpage": "34",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1128/JVI.01568-07",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib6": {
@@ -4150,17 +4017,10 @@
       "year": "1964",
       "volume": "206",
       "source": "Am J Physiol",
-      "issue": "",
       "fpage": "338",
       "lpage": "40",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib7": {
@@ -4184,17 +4044,11 @@
       "year": "1981",
       "volume": "75",
       "source": "Trans R Soc Trop Med Hyg",
-      "issue": "",
       "fpage": "647",
       "lpage": "53",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/0035-9203(81)90142-5",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib8": {
@@ -4230,17 +4084,11 @@
       "year": "1989",
       "volume": "169",
       "source": "J Exp Med",
-      "issue": "",
       "fpage": "1977",
       "lpage": "91",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1084/jem.169.6.1977",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib9": {
@@ -4264,17 +4112,10 @@
       "year": "1999",
       "volume": "29",
       "source": "Clin Exp Allergy",
-      "issue": "",
       "fpage": "110",
       "lpage": "5",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": [],
       "supplement": "suppl 2"
     },
@@ -4307,17 +4148,11 @@
       "year": "2007",
       "volume": "81",
       "source": "J Virol",
-      "issue": "",
       "fpage": "5518",
       "lpage": "26",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1128/JVI.02575-06",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib11": {
@@ -4353,17 +4188,11 @@
       "year": "2006",
       "volume": "44",
       "source": "J Clin Microbiol",
-      "issue": "",
       "fpage": "1295",
       "lpage": "304",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1128/JCM.44.4.1295-1304.2006",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib12": {
@@ -4399,17 +4228,11 @@
       "year": "1981",
       "volume": "78",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "3887",
       "lpage": "91",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1073/pnas.78.6.3887",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib13": {
@@ -4445,17 +4268,10 @@
       "year": "2007",
       "volume": "1",
       "source": "PLoS Negl Trop Dis",
-      "issue": "",
       "fpage": "e86",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1371/journal.pntd.0000086",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib14": {
@@ -4471,17 +4287,11 @@
       "year": "2007",
       "volume": "120",
       "source": "J Allergy Clin Immunol",
-      "issue": "",
       "fpage": "506",
       "lpage": "15",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.jaci.2007.07.033",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib15": {
@@ -4505,17 +4315,11 @@
       "year": "1976",
       "volume": "56",
       "source": "Br J Pharmacol",
-      "issue": "",
       "fpage": "229",
       "lpage": "33",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1111/j.1476-5381.1976.tb07446.x",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib16": {
@@ -4551,17 +4355,11 @@
       "year": "1998",
       "volume": "98",
       "source": "Circulation",
-      "issue": "",
       "fpage": "699",
       "lpage": "710",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1161/01.CIR.98.7.699",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib17": {
@@ -4597,17 +4395,10 @@
       "year": "2012",
       "volume": "6",
       "source": "PLoS Negl Trop Dis",
-      "issue": "",
       "fpage": "e1505",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1371/journal.pntd.0001505",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib18": {
@@ -4643,17 +4434,10 @@
       "year": "2010",
       "volume": "7",
       "source": "Virol J",
-      "issue": "",
       "fpage": "240",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1186/1743-422X-7-240",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib19": {
@@ -4689,17 +4473,11 @@
       "year": "2005",
       "volume": "167",
       "source": "Am J Pathol",
-      "issue": "",
       "fpage": "835",
       "lpage": "48",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/S0002-9440(10)62055-X",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib20": {
@@ -4715,17 +4493,11 @@
       "year": "2007",
       "volume": "370",
       "source": "Lancet",
-      "issue": "",
       "fpage": "1644",
       "lpage": "52",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/S0140-6736(07)61687-0",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib21": {
@@ -4745,17 +4517,11 @@
       "year": "1998",
       "volume": "352",
       "source": "Eur J Pharmacol",
-      "issue": "",
       "fpage": "91",
       "lpage": "8",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/S0014-2999(98)00343-4",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib22": {
@@ -4779,17 +4545,11 @@
       "year": "1991",
       "volume": "33",
       "source": "Agents Actions",
-      "issue": "",
       "fpage": "318",
       "lpage": "25",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1007/BF01986580",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib23": {
@@ -4825,17 +4585,11 @@
       "year": "1997",
       "volume": "272",
       "source": "J Biol Chem",
-      "issue": "",
       "fpage": "31885",
       "lpage": "93",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1074/jbc.272.50.31885",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib24": {
@@ -4871,17 +4625,10 @@
       "year": "2000",
       "volume": "81",
       "source": "J Gen Virol",
-      "issue": "",
       "fpage": "2177",
       "lpage": "82",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib25": {
@@ -4913,17 +4660,11 @@
       "year": "2004",
       "volume": "189",
       "source": "J Infect Dis",
-      "issue": "",
       "fpage": "1411",
       "lpage": "8",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1086/383043",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib26": {
@@ -4959,17 +4700,11 @@
       "year": "2000",
       "volume": "80",
       "source": "Lab Invest",
-      "issue": "",
       "fpage": "1007",
       "lpage": "17",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/labinvest.3780106",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib27": {
@@ -5005,17 +4740,11 @@
       "year": "2003",
       "volume": "70",
       "source": "J Med Virol",
-      "issue": "",
       "fpage": "91",
       "lpage": "8",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1002/jmv.10358",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib28": {
@@ -5039,17 +4768,11 @@
       "year": "2011",
       "volume": "118",
       "source": "Blood",
-      "issue": "",
       "fpage": "5383",
       "lpage": "93",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1182/blood-2011-07-358432",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib29": {
@@ -5085,17 +4808,11 @@
       "year": "1998",
       "volume": "339",
       "source": "N Engl J Med",
-      "issue": "",
       "fpage": "147",
       "lpage": "52",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1056/NEJM199807163390302",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib30": {
@@ -5131,17 +4848,10 @@
       "year": "2006",
       "volume": "35",
       "source": "Ann Acad Med Singapore",
-      "issue": "",
       "fpage": "783",
       "lpage": "9",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib31": {
@@ -5173,17 +4883,10 @@
       "year": "2005",
       "volume": "72",
       "source": "Am J Trop Med Hyg",
-      "issue": "",
       "fpage": "783",
       "lpage": "5",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib32": {
@@ -5199,17 +4902,10 @@
       "year": "1987",
       "volume": "18",
       "source": "Southeast Asian J Trop Med Public Health",
-      "issue": "",
       "fpage": "316",
       "lpage": "20",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib33": {
@@ -5237,17 +4933,11 @@
       "year": "1989",
       "volume": "83",
       "source": "J Allergy Clin Immunol",
-      "issue": "",
       "fpage": "738",
       "lpage": "41",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/0091-6749(89)90008-0",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib34": {
@@ -5267,17 +4957,11 @@
       "year": "1992",
       "volume": "327",
       "source": "N Engl J Med",
-      "issue": "",
       "fpage": "1928",
       "lpage": "37",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1056/NEJM199212313272708",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib35": {
@@ -5313,17 +4997,11 @@
       "year": "2003",
       "volume": "4",
       "source": "Nat Immunol",
-      "issue": "",
       "fpage": "1199",
       "lpage": "205",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/ni1005",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib36": {
@@ -5359,17 +5037,11 @@
       "year": "2011",
       "volume": "34",
       "source": "Immunity",
-      "issue": "",
       "fpage": "258",
       "lpage": "68",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.immuni.2011.02.008",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib37": {
@@ -5405,17 +5077,11 @@
       "year": "2005",
       "volume": "338",
       "source": "Virology",
-      "issue": "",
       "fpage": "236",
       "lpage": "46",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.virol.2005.04.042",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib38": {
@@ -5451,17 +5117,11 @@
       "year": "2011",
       "volume": "92",
       "source": "Antiviral Res",
-      "issue": "",
       "fpage": "453",
       "lpage": "60",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.antiviral.2011.10.002",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib39": {
@@ -5489,17 +5149,10 @@
       "year": "1996",
       "volume": "40",
       "source": "Acta Virol",
-      "issue": "",
       "fpage": "143",
       "lpage": "6",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib40": {
@@ -5523,17 +5176,11 @@
       "year": "1989",
       "volume": "140",
       "source": "Res Virol",
-      "issue": "",
       "fpage": "351",
       "lpage": "60",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/S0923-2516(89)80115-3",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib41": {
@@ -5561,17 +5208,10 @@
       "year": "1986",
       "volume": "30",
       "source": "Microbiol Immunol",
-      "issue": "",
       "fpage": "753",
       "lpage": "9",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib42": {
@@ -5607,17 +5247,11 @@
       "year": "2003",
       "volume": "15",
       "source": "Cell Signal",
-      "issue": "",
       "fpage": "773",
       "lpage": "81",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/S0898-6568(03)00014-7",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib43": {
@@ -5653,17 +5287,11 @@
       "year": "2004",
       "volume": "78",
       "source": "J Virol",
-      "issue": "",
       "fpage": "2701",
       "lpage": "10",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1128/JVI.78.6.2701-2710.2004",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib44": {
@@ -5685,19 +5313,9 @@
       ],
       "title": "Barriers to pre-clinical investigations of anti-dengue immunity and immune-pathology",
       "year": "2013",
-      "volume": "",
       "source": "Nat Rev Immunol",
-      "issue": "",
-      "fpage": "",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib45": {
@@ -5733,17 +5351,11 @@
       "year": "2011",
       "volume": "108",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "9190",
       "lpage": "5",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1073/pnas.1105079108",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib46": {
@@ -5779,17 +5391,11 @@
       "year": "2003",
       "volume": "197",
       "source": "J Exp Med",
-      "issue": "",
       "fpage": "823",
       "lpage": "9",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1084/jem.20021840",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib47": {
@@ -5817,17 +5423,11 @@
       "year": "1980",
       "volume": "207",
       "source": "Science",
-      "issue": "",
       "fpage": "80",
       "lpage": "2",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1126/science.6153130",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib48": {
@@ -5859,17 +5459,11 @@
       "year": "2005",
       "volume": "43",
       "source": "FEMS Immunol Med Microbiol",
-      "issue": "",
       "fpage": "99",
       "lpage": "102",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.femsim.2004.10.004",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib49": {
@@ -5905,17 +5499,11 @@
       "year": "2000",
       "volume": "181",
       "source": "J Infect Dis",
-      "issue": "",
       "fpage": "2",
       "lpage": "9",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1086/315215",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib50": {
@@ -5943,17 +5531,10 @@
       "year": "1991",
       "volume": "36",
       "source": "Ceylon Med J",
-      "issue": "",
       "fpage": "63",
       "lpage": "5",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib51": {
@@ -5989,17 +5570,11 @@
       "year": "2012",
       "volume": "188",
       "source": "J Immunol",
-      "issue": "",
       "fpage": "345",
       "lpage": "57",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.4049/jimmunol.1101703",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib52": {
@@ -6019,17 +5594,11 @@
       "year": "2000",
       "volume": "192",
       "source": "J Exp Med",
-      "issue": "",
       "fpage": "455",
       "lpage": "62",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1084/jem.192.3.455",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib53": {
@@ -6038,19 +5607,12 @@
       "authors": [],
       "title": "Dengue hemorrhagic fever: diagnosis, treatment, prevention, and control",
       "year": "1997",
-      "volume": "",
-      "source": "",
-      "issue": "",
-      "fpage": "",
-      "lpage": "",
-      "collab": "",
       "edition": "2nd ed",
       "publisher-name": "World Health Organization",
       "publisher-loc": "Geneva",
       "doi": "http://dx.doi.org/http://www.who.int/csr/resources/publications/dengue/Denguepublication/en",
       "citation_url": [],
       "format": "book",
-      "label": "",
       "editors": []
     },
     "article_citation_bib54": {
@@ -6086,17 +5648,11 @@
       "year": "2000",
       "volume": "6",
       "source": "Nat Med",
-      "issue": "",
       "fpage": "816",
       "lpage": "20",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/77553",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib55": {
@@ -6116,17 +5672,11 @@
       "year": "2008",
       "volume": "80",
       "source": "Antiviral Res",
-      "issue": "",
       "fpage": "87",
       "lpage": "93",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.antiviral.2008.06.010",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib56": {
@@ -6150,17 +5700,11 @@
       "year": "2010",
       "volume": "7",
       "source": "Cell Host Microbe",
-      "issue": "",
       "fpage": "128",
       "lpage": "39",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.chom.2010.01.004",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "sub-article": {

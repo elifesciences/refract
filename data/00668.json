@@ -226,7 +226,6 @@
       "accepted_on": "2013-05-13",
       "published_on": "2013-06-18",
       "journal": "elife",
-      "article_type": "",
       "keywords": [
         "DNA recombination",
         "evolution",
@@ -242,10 +241,9 @@
         "Biochemistry",
         "Genomics and evolutionary biology"
       ],
-      "pdf_link": "",
-      "xml_link": "",
-      "json_link": "",
-      "doi": ""
+      "xml_link": "https://s3.amazonaws.com/elife-cdn/elife-articles/00668/elife00668.xml",
+      "json_link": "https://s3.amazonaws.com/elife-cdn/elife-articles/00668/00668.json",
+      "doi": "http://dx.doi.org/10.7554/eLife.00668"
     },
     "person_author_4326": {
       "type": "person",
@@ -254,9 +252,7 @@
       "last-name": "Claeys Bouuaert",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article, Contributed unpublished essential data or reagents",
-      "email": "",
       "funding": []
     },
     "person_author_4327": {
@@ -266,9 +262,7 @@
       "last-name": "Lipkow",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article, Contributed unpublished essential data or reagents",
-      "email": "",
       "funding": [
         "funding_par_2",
         "funding_par_5",
@@ -283,9 +277,7 @@
       "last-name": "Andrews",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article, Contributed unpublished essential data or reagents",
-      "email": "",
       "funding": [
         "funding_par_3",
         "funding_par_4"
@@ -298,9 +290,7 @@
       "last-name": "Liu",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article",
-      "email": "",
       "funding": []
     },
     "person_author_1312": {
@@ -310,7 +300,6 @@
       "last-name": "Chalmers",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article",
       "email": "email_cor1",
       "funding": [
@@ -322,36 +311,28 @@
       "id": "institution_aff1",
       "name": "University of Nottingham",
       "city": "Nottingham",
-      "country": "United Kingdom",
-      "email": "",
-      "image": ""
+      "country": "United Kingdom"
     },
     "institution_aff2": {
       "type": "institution",
       "id": "institution_aff2",
       "name": "The Babraham Institute",
       "city": "Cambridge",
-      "country": "United Kingdom",
-      "email": "",
-      "image": ""
+      "country": "United Kingdom"
     },
     "institution_aff3": {
       "type": "institution",
       "id": "institution_aff3",
       "name": "University of Cambridge",
       "city": "Cambridge",
-      "country": "United Kingdom",
-      "email": "",
-      "image": ""
+      "country": "United Kingdom"
     },
     "institution_aff4": {
       "type": "institution",
       "id": "institution_aff4",
       "name": "Fred Hutchinson Cancer Research Center",
       "city": "Seattle",
-      "country": "United States",
-      "email": "",
-      "image": ""
+      "country": "United States"
     },
     "person_1": {
       "type": "person",
@@ -360,9 +341,6 @@
       "last-name": "Ferrell",
       "role": "editor",
       "affiliations": [],
-      "image": "",
-      "contribution": "",
-      "email": "",
       "funding": []
     },
     "info:review": {
@@ -377,7 +355,6 @@
     "email_cor1": {
       "type": "email",
       "id": "email_cor1",
-      "node": "",
       "email": "chalmers@nottingham.ac.uk"
     },
     "info:copyright": {
@@ -519,7 +496,6 @@
       "type": "funding",
       "id": "funding_par_2",
       "institution": "Royal Society",
-      "accession": "",
       "person": "person_author_4327",
       "given-names": "Karen",
       "last-name": "Lipkow"
@@ -546,7 +522,6 @@
       "type": "funding",
       "id": "funding_par_5",
       "institution": "Microsoft Research Faculty Fellowship",
-      "accession": "",
       "person": "person_author_4327",
       "given-names": "Karen",
       "last-name": "Lipkow"
@@ -555,7 +530,6 @@
       "type": "funding",
       "id": "funding_par_6",
       "institution": "Apple Research & Technology Support",
-      "accession": "",
       "person": "person_author_4327",
       "given-names": "Karen",
       "last-name": "Lipkow"
@@ -564,7 +538,6 @@
       "type": "funding",
       "id": "funding_par_7",
       "institution": "EU-IndiaGrid2",
-      "accession": "",
       "person": "person_author_4327",
       "given-names": "Karen",
       "last-name": "Lipkow"
@@ -580,8 +553,7 @@
     },
     "paragraph_15": {
       "type": "paragraph",
-      "id": "paragraph_15",
-      "content": ""
+      "id": "paragraph_15"
     },
     "heading_s1": {
       "type": "heading",
@@ -1041,19 +1013,12 @@
       "type": "image",
       "id": "image_fig1",
       "label": "Figure 1.",
-      "url": "",
-      "object_id": "F1",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00668/svg/elife00668f001.svg",
       "title": "Dynamic models for genome invasions.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00668.003",
       "caption": "paragraph_image_fig1",
-      "graphic_id": "elife00668f001"
+      "graphic_id": "elife00668f001",
+      "format": "image"
     },
     "paragraph_image_fig1": {
       "type": "paragraph",
@@ -2052,19 +2017,12 @@
       "type": "image",
       "id": "image_fig2",
       "label": "Figure 2.",
-      "url": "",
-      "object_id": "F2",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00668/svg/elife00668f002.svg",
       "title": "Experimental test of the ASO model for mariner transposition.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00668.004",
       "caption": "paragraph_image_fig2",
-      "graphic_id": "elife00668f002"
+      "graphic_id": "elife00668f002",
+      "format": "image"
     },
     "paragraph_image_fig2": {
       "type": "paragraph",
@@ -2179,19 +2137,12 @@
       "type": "image",
       "id": "image_fig2s1",
       "label": "Figure 2—figure supplement 1.",
-      "url": "",
-      "object_id": "F3",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00668/svg/elife00668fs001.svg",
       "title": "Kinetic analyses of OPI and interpretation of in vitro transposition reactions.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig2"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00668.005",
       "caption": "paragraph_image_fig2s1",
-      "graphic_id": "elife00668fs001"
+      "graphic_id": "elife00668fs001",
+      "format": "image"
     },
     "paragraph_image_fig2s1": {
       "type": "paragraph",
@@ -2471,19 +2422,12 @@
       "type": "image",
       "id": "image_fig3",
       "label": "Figure 3.",
-      "url": "",
-      "object_id": "F4",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00668/svg/elife00668f003.svg",
       "title": "A semi-quantitative description of mariner transposition.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00668.006",
       "caption": "paragraph_image_fig3",
-      "graphic_id": "elife00668f003"
+      "graphic_id": "elife00668f003",
+      "format": "image"
     },
     "paragraph_image_fig3": {
       "type": "paragraph",
@@ -3196,19 +3140,12 @@
       "type": "image",
       "id": "image_fig3s1",
       "label": "Figure 3—figure supplement 1.",
-      "url": "",
-      "object_id": "F5",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00668/svg/elife00668fs002.svg",
       "title": "The time scale of the graph in Figure 3A is extended.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig3"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00668.007",
       "caption": "paragraph_image_fig3s1",
-      "graphic_id": "elife00668fs002"
+      "graphic_id": "elife00668fs002",
+      "format": "image"
     },
     "paragraph_image_fig3s1": {
       "type": "paragraph",
@@ -3232,19 +3169,12 @@
       "type": "image",
       "id": "image_fig3s2",
       "label": "Figure 3—figure supplement 2.",
-      "url": "",
-      "object_id": "F6",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00668/svg/elife00668fs003.svg",
       "title": "EMSA analysis of transpososome assembly shows that SEC1 arises from dissociation of the PEC.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig3"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00668.008",
       "caption": "paragraph_image_fig3s2",
-      "graphic_id": "elife00668fs003"
+      "graphic_id": "elife00668fs003",
+      "format": "image"
     },
     "paragraph_image_fig3s2": {
       "type": "paragraph",
@@ -3956,19 +3886,12 @@
       "type": "image",
       "id": "image_fig4",
       "label": "Figure 4.",
-      "url": "",
-      "object_id": "F7",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00668/svg/elife00668f004.svg",
       "title": "Association and dissociation rate constants.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00668.009",
       "caption": "paragraph_image_fig4",
-      "graphic_id": "elife00668f004"
+      "graphic_id": "elife00668f004",
+      "format": "image"
     },
     "paragraph_image_fig4": {
       "type": "paragraph",
@@ -4300,19 +4223,12 @@
       "type": "image",
       "id": "image_fig5",
       "label": "Figure 5.",
-      "url": "",
-      "object_id": "F8",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00668/svg/elife00668f005.svg",
       "title": "Transposase expression level.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00668.010",
       "caption": "paragraph_image_fig5",
-      "graphic_id": "elife00668f005"
+      "graphic_id": "elife00668f005",
+      "format": "image"
     },
     "paragraph_image_fig5": {
       "type": "paragraph",
@@ -4557,19 +4473,12 @@
       "type": "image",
       "id": "image_fig5s1",
       "label": "Figure 5—figure supplement 1.",
-      "url": "",
-      "object_id": "F9",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00668/svg/elife00668fs004.svg",
       "title": "Transposase expression in HeLa cells.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig5"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00668.011",
       "caption": "paragraph_image_fig5s1",
-      "graphic_id": "elife00668fs004"
+      "graphic_id": "elife00668fs004",
+      "format": "image"
     },
     "paragraph_image_fig5s1": {
       "type": "paragraph",
@@ -4771,19 +4680,12 @@
       "type": "image",
       "id": "image_fig6",
       "label": "Figure 6.",
-      "url": "",
-      "object_id": "F10",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00668/svg/elife00668f006.svg",
       "title": "Genome size and nuclear volume.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00668.012",
       "caption": "paragraph_image_fig6",
-      "graphic_id": "elife00668f006"
+      "graphic_id": "elife00668f006",
+      "format": "image"
     },
     "paragraph_image_fig6": {
       "type": "paragraph",
@@ -4980,19 +4882,12 @@
       "type": "image",
       "id": "image_fig7",
       "label": "Figure 7.",
-      "url": "",
-      "object_id": "F11",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00668/svg/elife00668f007.svg",
       "title": "Variations and alternative mechanism of regulation.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00668.013",
       "caption": "paragraph_image_fig7",
-      "graphic_id": "elife00668f007"
+      "graphic_id": "elife00668f007",
+      "format": "image"
     },
     "paragraph_image_fig7": {
       "type": "paragraph",
@@ -7400,11 +7295,9 @@
       "id": "table_tbl1",
       "label": "Table 1.",
       "content": "<table><thead><tr><th>Reaction</th><th><em>K</em><sub>d</sub> (M)</th><th><em>k</em><sub>0</sub>, <em>k</em><sub>1</sub> (M<sup>−1</sup>s<sup>−1</sup>)</th><th><em>k</em><sub>0</sub>, <em>k</em><sub>1</sub> (µm<sup>3</sup> s<sup>−1</sup>)</th><th><em>k</em><sub>−0</sub>, <em>k</em><sub>−1</sub> (s<sup>−1</sup>)</th><th><em>t</em><sub>1/2</sub> (s)</th></tr></thead><tbody><tr><td>LacI specific binding</td><td>3.1 × 10<sup>−11</sup></td><td>3.8 × 10<sup>8</sup> <sup>*</sup></td><td>0.633</td><td>1.2 × 10<sup>−2</sup> <sup>*</sup></td><td>58 <sup>†</sup></td></tr><tr><td>LacI non-specific binding</td><td>1.4 × 10<sup>−5</sup> <sup>‡</sup></td><td>9.9 × 10<sup>6</sup> <sup>§</sup></td><td>0.0166</td><td>139 <sup>§</sup></td><td>5 × 10<sup>−3</sup> <sup>†</sup></td></tr></tbody></table>",
-      "title": "",
       "footers": [],
       "doi": "http://dx.doi.org/10.7554/eLife.00668.014",
-      "caption": "paragraph_table_tbl1",
-      "format": ""
+      "caption": "paragraph_table_tbl1"
     },
     "paragraph_table_tbl1": {
       "type": "paragraph",
@@ -7414,8 +7307,7 @@
     "footer_tblfn1": {
       "type": "footer",
       "id": "footer_tblfn1",
-      "content": "*",
-      "label": ""
+      "content": "*"
     },
     "paragraph_540": {
       "type": "paragraph",
@@ -7846,17 +7738,12 @@
     },
     "formula_576": {
       "type": "formula",
-      "id": "formula_576",
-      "label": "",
-      "content": "",
-      "format": ""
+      "id": "formula_576"
     },
     "annotation_577": {
       "type": "inline_formula",
       "id": "annotation_577",
-      "path": "",
       "target": "formula_576",
-      "range": "",
       "source": "paragraph_568",
       "key": "content",
       "pos": [
@@ -7868,15 +7755,11 @@
       "type": "formula",
       "id": "formula_equ1",
       "label": "(1)",
-      "content": "<mml:mrow><mml:mfrac><mml:mrow><mml:mi>d</mml:mi><mml:mrow><mml:mo>[</mml:mo><mml:msub><mml:mrow><mml:mtext>BT</mml:mtext></mml:mrow><mml:mn>2</mml:mn></mml:msub><mml:mo>]</mml:mo></mml:mrow></mml:mrow><mml:mrow><mml:mi mathvariant=italic>dt</mml:mi></mml:mrow></mml:mfrac><mml:mo>=</mml:mo><mml:msub><mml:mi>k</mml:mi><mml:mn>1</mml:mn></mml:msub><mml:mrow><mml:mo>[</mml:mo><mml:msub><mml:mtext>T</mml:mtext><mml:mn>2</mml:mn></mml:msub><mml:mo>]</mml:mo></mml:mrow><mml:mrow><mml:mo>[</mml:mo><mml:mtext>B</mml:mtext><mml:mo>]</mml:mo></mml:mrow><mml:mtext>,</mml:mtext></mml:mrow>",
-      "format": ""
+      "content": "<mml:mrow><mml:mfrac><mml:mrow><mml:mi>d</mml:mi><mml:mrow><mml:mo>[</mml:mo><mml:msub><mml:mrow><mml:mtext>BT</mml:mtext></mml:mrow><mml:mn>2</mml:mn></mml:msub><mml:mo>]</mml:mo></mml:mrow></mml:mrow><mml:mrow><mml:mi mathvariant=italic>dt</mml:mi></mml:mrow></mml:mfrac><mml:mo>=</mml:mo><mml:msub><mml:mi>k</mml:mi><mml:mn>1</mml:mn></mml:msub><mml:mrow><mml:mo>[</mml:mo><mml:msub><mml:mtext>T</mml:mtext><mml:mn>2</mml:mn></mml:msub><mml:mo>]</mml:mo></mml:mrow><mml:mrow><mml:mo>[</mml:mo><mml:mtext>B</mml:mtext><mml:mo>]</mml:mo></mml:mrow><mml:mtext>,</mml:mtext></mml:mrow>"
     },
     "formula_578": {
       "type": "formula",
       "id": "formula_578",
-      "label": "",
-      "content": "",
-      "format": "",
       "key": "content",
       "source": "paragraph_568",
       "target": "formula_equ1",
@@ -7889,15 +7772,11 @@
       "type": "formula",
       "id": "formula_equ2",
       "label": "(2)",
-      "content": "<mml:mrow><mml:mfrac><mml:mrow><mml:mi>d</mml:mi><mml:mrow><mml:mo>[</mml:mo><mml:msub><mml:mrow><mml:mtext>AT</mml:mtext></mml:mrow><mml:mn>2</mml:mn></mml:msub><mml:mtext>B</mml:mtext><mml:mo>]</mml:mo></mml:mrow></mml:mrow><mml:mrow><mml:mi mathvariant=italic>dt</mml:mi></mml:mrow></mml:mfrac><mml:mo>=</mml:mo><mml:msubsup><mml:mi>k</mml:mi><mml:mn>1</mml:mn><mml:mo>′</mml:mo></mml:msubsup><mml:mrow><mml:mo>[</mml:mo><mml:msub><mml:mrow><mml:mtext>AT</mml:mtext></mml:mrow><mml:mn>2</mml:mn></mml:msub><mml:mo>]</mml:mo></mml:mrow><mml:mrow><mml:mo>[</mml:mo><mml:mtext>B</mml:mtext><mml:mo>]</mml:mo></mml:mrow><mml:mtext>.</mml:mtext></mml:mrow>",
-      "format": ""
+      "content": "<mml:mrow><mml:mfrac><mml:mrow><mml:mi>d</mml:mi><mml:mrow><mml:mo>[</mml:mo><mml:msub><mml:mrow><mml:mtext>AT</mml:mtext></mml:mrow><mml:mn>2</mml:mn></mml:msub><mml:mtext>B</mml:mtext><mml:mo>]</mml:mo></mml:mrow></mml:mrow><mml:mrow><mml:mi mathvariant=italic>dt</mml:mi></mml:mrow></mml:mfrac><mml:mo>=</mml:mo><mml:msubsup><mml:mi>k</mml:mi><mml:mn>1</mml:mn><mml:mo>′</mml:mo></mml:msubsup><mml:mrow><mml:mo>[</mml:mo><mml:msub><mml:mrow><mml:mtext>AT</mml:mtext></mml:mrow><mml:mn>2</mml:mn></mml:msub><mml:mo>]</mml:mo></mml:mrow><mml:mrow><mml:mo>[</mml:mo><mml:mtext>B</mml:mtext><mml:mo>]</mml:mo></mml:mrow><mml:mtext>.</mml:mtext></mml:mrow>"
     },
     "formula_579": {
       "type": "formula",
       "id": "formula_579",
-      "label": "",
-      "content": "",
-      "format": "",
       "key": "content",
       "source": "formula_equ1",
       "target": "formula_equ2",
@@ -7928,15 +7807,11 @@
       "type": "formula",
       "id": "formula_equ3",
       "label": "(3)",
-      "content": "<mml:mrow><mml:mfrac><mml:mn>1</mml:mn><mml:mrow><mml:msub><mml:mi>k</mml:mi><mml:mn>1</mml:mn></mml:msub></mml:mrow></mml:mfrac><mml:mo>=</mml:mo><mml:mfrac><mml:mn>1</mml:mn><mml:mrow><mml:msub><mml:mi>k</mml:mi><mml:mrow><mml:mn>1</mml:mn><mml:mo>,</mml:mo><mml:mi mathvariant=italic>diff</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:mfrac><mml:mo>+</mml:mo><mml:mfrac><mml:mn>1</mml:mn><mml:mrow><mml:msub><mml:mi>k</mml:mi><mml:mrow><mml:mi mathvariant=italic>act</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:mfrac><mml:mo>,</mml:mo></mml:mrow>",
-      "format": ""
+      "content": "<mml:mrow><mml:mfrac><mml:mn>1</mml:mn><mml:mrow><mml:msub><mml:mi>k</mml:mi><mml:mn>1</mml:mn></mml:msub></mml:mrow></mml:mfrac><mml:mo>=</mml:mo><mml:mfrac><mml:mn>1</mml:mn><mml:mrow><mml:msub><mml:mi>k</mml:mi><mml:mrow><mml:mn>1</mml:mn><mml:mo>,</mml:mo><mml:mi mathvariant=italic>diff</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:mfrac><mml:mo>+</mml:mo><mml:mfrac><mml:mn>1</mml:mn><mml:mrow><mml:msub><mml:mi>k</mml:mi><mml:mrow><mml:mi mathvariant=italic>act</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:mfrac><mml:mo>,</mml:mo></mml:mrow>"
     },
     "formula_582": {
       "type": "formula",
       "id": "formula_582",
-      "label": "",
-      "content": "",
-      "format": "",
       "key": "content",
       "source": "paragraph_580",
       "target": "formula_equ3",
@@ -7949,15 +7824,11 @@
       "type": "formula",
       "id": "formula_equ4",
       "label": "(4)",
-      "content": "<mml:mrow><mml:mfrac><mml:mn>1</mml:mn><mml:mrow><mml:msubsup><mml:mi>k</mml:mi><mml:mn>1</mml:mn><mml:mo>′</mml:mo></mml:msubsup></mml:mrow></mml:mfrac><mml:mo>=</mml:mo><mml:mfrac><mml:mn>1</mml:mn><mml:mrow><mml:msubsup><mml:mi>k</mml:mi><mml:mrow><mml:mn>1</mml:mn><mml:mo>,</mml:mo><mml:mi mathvariant=italic>diff</mml:mi></mml:mrow><mml:mo>′</mml:mo></mml:msubsup></mml:mrow></mml:mfrac><mml:mo>+</mml:mo><mml:mfrac><mml:mn>1</mml:mn><mml:mrow><mml:msub><mml:mi>k</mml:mi><mml:mrow><mml:mi mathvariant=italic>act</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:mfrac><mml:mo>,</mml:mo></mml:mrow>",
-      "format": ""
+      "content": "<mml:mrow><mml:mfrac><mml:mn>1</mml:mn><mml:mrow><mml:msubsup><mml:mi>k</mml:mi><mml:mn>1</mml:mn><mml:mo>′</mml:mo></mml:msubsup></mml:mrow></mml:mfrac><mml:mo>=</mml:mo><mml:mfrac><mml:mn>1</mml:mn><mml:mrow><mml:msubsup><mml:mi>k</mml:mi><mml:mrow><mml:mn>1</mml:mn><mml:mo>,</mml:mo><mml:mi mathvariant=italic>diff</mml:mi></mml:mrow><mml:mo>′</mml:mo></mml:msubsup></mml:mrow></mml:mfrac><mml:mo>+</mml:mo><mml:mfrac><mml:mn>1</mml:mn><mml:mrow><mml:msub><mml:mi>k</mml:mi><mml:mrow><mml:mi mathvariant=italic>act</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:mfrac><mml:mo>,</mml:mo></mml:mrow>"
     },
     "formula_583": {
       "type": "formula",
       "id": "formula_583",
-      "label": "",
-      "content": "",
-      "format": "",
       "key": "content",
       "source": "formula_equ3",
       "target": "formula_equ4",
@@ -8012,17 +7883,12 @@
     },
     "formula_588": {
       "type": "formula",
-      "id": "formula_588",
-      "label": "",
-      "content": "",
-      "format": ""
+      "id": "formula_588"
     },
     "annotation_589": {
       "type": "inline_formula",
       "id": "annotation_589",
-      "path": "",
       "target": "formula_588",
-      "range": "",
       "source": "paragraph_584",
       "key": "content",
       "pos": [
@@ -8052,15 +7918,11 @@
       "type": "formula",
       "id": "formula_equ5",
       "label": "(5)",
-      "content": "<mml:mrow><mml:msub><mml:mi>k</mml:mi><mml:mrow><mml:mn>1</mml:mn><mml:mo>,</mml:mo><mml:mi mathvariant=italic>diff</mml:mi></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mn>4</mml:mn><mml:mi>π</mml:mi><mml:msub><mml:mi>D</mml:mi><mml:mi>p</mml:mi></mml:msub><mml:mi>R</mml:mi><mml:mo>+</mml:mo><mml:msub><mml:mi>D</mml:mi><mml:mi>s</mml:mi></mml:msub><mml:mi>a</mml:mi><mml:msup><mml:mrow><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mfrac><mml:mi>R</mml:mi><mml:mi>a</mml:mi></mml:mfrac></mml:mrow><mml:mo>)</mml:mo></mml:mrow></mml:mrow><mml:mrow><mml:mn>1</mml:mn><mml:mo>/</mml:mo><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:mo>,</mml:mo></mml:mrow>",
-      "format": ""
+      "content": "<mml:mrow><mml:msub><mml:mi>k</mml:mi><mml:mrow><mml:mn>1</mml:mn><mml:mo>,</mml:mo><mml:mi mathvariant=italic>diff</mml:mi></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mn>4</mml:mn><mml:mi>π</mml:mi><mml:msub><mml:mi>D</mml:mi><mml:mi>p</mml:mi></mml:msub><mml:mi>R</mml:mi><mml:mo>+</mml:mo><mml:msub><mml:mi>D</mml:mi><mml:mi>s</mml:mi></mml:msub><mml:mi>a</mml:mi><mml:msup><mml:mrow><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mfrac><mml:mi>R</mml:mi><mml:mi>a</mml:mi></mml:mfrac></mml:mrow><mml:mo>)</mml:mo></mml:mrow></mml:mrow><mml:mrow><mml:mn>1</mml:mn><mml:mo>/</mml:mo><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:mo>,</mml:mo></mml:mrow>"
     },
     "formula_592": {
       "type": "formula",
       "id": "formula_592",
-      "label": "",
-      "content": "",
-      "format": "",
       "key": "content",
       "source": "paragraph_590",
       "target": "formula_equ5",
@@ -8073,15 +7935,11 @@
       "type": "formula",
       "id": "formula_equ6",
       "label": "(6)",
-      "content": "<mml:mrow><mml:msubsup><mml:mi>k</mml:mi><mml:mrow><mml:mn>1</mml:mn><mml:mo>,</mml:mo><mml:mi mathvariant=italic>diff</mml:mi></mml:mrow><mml:mo>′</mml:mo></mml:msubsup><mml:mo>=</mml:mo><mml:mn>1.4</mml:mn><mml:msub><mml:mi>D</mml:mi><mml:mi>s</mml:mi></mml:msub><mml:mi>a</mml:mi><mml:msup><mml:mrow><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mfrac><mml:mi>R</mml:mi><mml:mi>a</mml:mi></mml:mfrac></mml:mrow><mml:mo>)</mml:mo></mml:mrow></mml:mrow><mml:mrow><mml:mn>1</mml:mn><mml:mo>/</mml:mo><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:mo>.</mml:mo></mml:mrow>",
-      "format": ""
+      "content": "<mml:mrow><mml:msubsup><mml:mi>k</mml:mi><mml:mrow><mml:mn>1</mml:mn><mml:mo>,</mml:mo><mml:mi mathvariant=italic>diff</mml:mi></mml:mrow><mml:mo>′</mml:mo></mml:msubsup><mml:mo>=</mml:mo><mml:mn>1.4</mml:mn><mml:msub><mml:mi>D</mml:mi><mml:mi>s</mml:mi></mml:msub><mml:mi>a</mml:mi><mml:msup><mml:mrow><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mfrac><mml:mi>R</mml:mi><mml:mi>a</mml:mi></mml:mfrac></mml:mrow><mml:mo>)</mml:mo></mml:mrow></mml:mrow><mml:mrow><mml:mn>1</mml:mn><mml:mo>/</mml:mo><mml:mn>3</mml:mn></mml:mrow></mml:msup><mml:mo>.</mml:mo></mml:mrow>"
     },
     "formula_593": {
       "type": "formula",
       "id": "formula_593",
-      "label": "",
-      "content": "",
-      "format": "",
       "key": "content",
       "source": "formula_equ5",
       "target": "formula_equ6",
@@ -8323,17 +8181,12 @@
     },
     "formula_613": {
       "type": "formula",
-      "id": "formula_613",
-      "label": "",
-      "content": "",
-      "format": ""
+      "id": "formula_613"
     },
     "annotation_614": {
       "type": "inline_formula",
       "id": "annotation_614",
-      "path": "",
       "target": "formula_613",
-      "range": "",
       "source": "paragraph_609",
       "key": "content",
       "pos": [
@@ -8345,15 +8198,11 @@
       "type": "formula",
       "id": "formula_equ7",
       "label": "(7)",
-      "content": "<mml:mrow><mml:mfrac><mml:mrow><mml:mi>d</mml:mi><mml:mrow><mml:mo>[</mml:mo><mml:msub><mml:mrow><mml:mtext>AT</mml:mtext></mml:mrow><mml:mn>2</mml:mn></mml:msub><mml:mtext>B</mml:mtext><mml:mo>]</mml:mo></mml:mrow></mml:mrow><mml:mrow><mml:mi mathvariant=italic>dt</mml:mi></mml:mrow></mml:mfrac><mml:mo>=</mml:mo><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:msubsup><mml:mi>k</mml:mi><mml:mn>1</mml:mn><mml:mo>′</mml:mo></mml:msubsup><mml:mrow><mml:mo>[</mml:mo><mml:mtext>B</mml:mtext><mml:mo>]</mml:mo></mml:mrow></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:mrow><mml:mo>[</mml:mo><mml:mrow><mml:msub><mml:mtext>AT</mml:mtext><mml:mn>2</mml:mn></mml:msub></mml:mrow><mml:mo>]</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:msub><mml:mi>k</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mrow><mml:mo>[</mml:mo><mml:mrow><mml:msub><mml:mtext>AT</mml:mtext><mml:mn>2</mml:mn></mml:msub></mml:mrow><mml:mo>]</mml:mo></mml:mrow><mml:mo>.</mml:mo></mml:mrow>",
-      "format": ""
+      "content": "<mml:mrow><mml:mfrac><mml:mrow><mml:mi>d</mml:mi><mml:mrow><mml:mo>[</mml:mo><mml:msub><mml:mrow><mml:mtext>AT</mml:mtext></mml:mrow><mml:mn>2</mml:mn></mml:msub><mml:mtext>B</mml:mtext><mml:mo>]</mml:mo></mml:mrow></mml:mrow><mml:mrow><mml:mi mathvariant=italic>dt</mml:mi></mml:mrow></mml:mfrac><mml:mo>=</mml:mo><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:msubsup><mml:mi>k</mml:mi><mml:mn>1</mml:mn><mml:mo>′</mml:mo></mml:msubsup><mml:mrow><mml:mo>[</mml:mo><mml:mtext>B</mml:mtext><mml:mo>]</mml:mo></mml:mrow></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:mrow><mml:mo>[</mml:mo><mml:mrow><mml:msub><mml:mtext>AT</mml:mtext><mml:mn>2</mml:mn></mml:msub></mml:mrow><mml:mo>]</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:msub><mml:mi>k</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mrow><mml:mo>[</mml:mo><mml:mrow><mml:msub><mml:mtext>AT</mml:mtext><mml:mn>2</mml:mn></mml:msub></mml:mrow><mml:mo>]</mml:mo></mml:mrow><mml:mo>.</mml:mo></mml:mrow>"
     },
     "formula_615": {
       "type": "formula",
       "id": "formula_615",
-      "label": "",
-      "content": "",
-      "format": "",
       "key": "content",
       "source": "paragraph_609",
       "target": "formula_equ7",
@@ -8395,17 +8244,12 @@
     },
     "formula_619": {
       "type": "formula",
-      "id": "formula_619",
-      "label": "",
-      "content": "",
-      "format": ""
+      "id": "formula_619"
     },
     "annotation_620": {
       "type": "inline_formula",
       "id": "annotation_620",
-      "path": "",
       "target": "formula_619",
-      "range": "",
       "source": "paragraph_616",
       "key": "content",
       "pos": [
@@ -8417,15 +8261,11 @@
       "type": "formula",
       "id": "formula_equ8",
       "label": "(8)",
-      "content": "<mml:mrow><mml:msub><mml:mi>j</mml:mi><mml:mi>M</mml:mi></mml:msub><mml:mo>=</mml:mo><mml:msup><mml:mrow><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mfrac><mml:mrow><mml:mn>4</mml:mn><mml:mi>a</mml:mi></mml:mrow><mml:mrow><mml:msup><mml:mrow><mml:mn>10</mml:mn></mml:mrow><mml:mn>4</mml:mn></mml:msup><mml:mi>b</mml:mi></mml:mrow></mml:mfrac></mml:mrow><mml:mo>)</mml:mo></mml:mrow></mml:mrow><mml:mrow><mml:mn>3</mml:mn><mml:mo>/</mml:mo><mml:mn>2</mml:mn></mml:mrow></mml:msup><mml:mi>exp</mml:mi><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mfrac><mml:mrow><mml:mo>−</mml:mo><mml:mn>460</mml:mn><mml:msup><mml:mi>a</mml:mi><mml:mn>2</mml:mn></mml:msup></mml:mrow><mml:mrow><mml:mn>6.25</mml:mn><mml:msup><mml:mi>b</mml:mi><mml:mn>2</mml:mn></mml:msup></mml:mrow></mml:mfrac></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mfrac><mml:mrow><mml:mn>1.25</mml:mn><mml:mo>⋅</mml:mo><mml:msup><mml:mrow><mml:mn>10</mml:mn></mml:mrow><mml:mn>5</mml:mn></mml:msup></mml:mrow><mml:mrow><mml:msup><mml:mi>a</mml:mi><mml:mn>3</mml:mn></mml:msup></mml:mrow></mml:mfrac></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:mo>.</mml:mo></mml:mrow>",
-      "format": ""
+      "content": "<mml:mrow><mml:msub><mml:mi>j</mml:mi><mml:mi>M</mml:mi></mml:msub><mml:mo>=</mml:mo><mml:msup><mml:mrow><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mfrac><mml:mrow><mml:mn>4</mml:mn><mml:mi>a</mml:mi></mml:mrow><mml:mrow><mml:msup><mml:mrow><mml:mn>10</mml:mn></mml:mrow><mml:mn>4</mml:mn></mml:msup><mml:mi>b</mml:mi></mml:mrow></mml:mfrac></mml:mrow><mml:mo>)</mml:mo></mml:mrow></mml:mrow><mml:mrow><mml:mn>3</mml:mn><mml:mo>/</mml:mo><mml:mn>2</mml:mn></mml:mrow></mml:msup><mml:mi>exp</mml:mi><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mfrac><mml:mrow><mml:mo>−</mml:mo><mml:mn>460</mml:mn><mml:msup><mml:mi>a</mml:mi><mml:mn>2</mml:mn></mml:msup></mml:mrow><mml:mrow><mml:mn>6.25</mml:mn><mml:msup><mml:mi>b</mml:mi><mml:mn>2</mml:mn></mml:msup></mml:mrow></mml:mfrac></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mfrac><mml:mrow><mml:mn>1.25</mml:mn><mml:mo>⋅</mml:mo><mml:msup><mml:mrow><mml:mn>10</mml:mn></mml:mrow><mml:mn>5</mml:mn></mml:msup></mml:mrow><mml:mrow><mml:msup><mml:mi>a</mml:mi><mml:mn>3</mml:mn></mml:msup></mml:mrow></mml:mfrac></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:mo>.</mml:mo></mml:mrow>"
     },
     "formula_621": {
       "type": "formula",
       "id": "formula_621",
-      "label": "",
-      "content": "",
-      "format": "",
       "key": "content",
       "source": "paragraph_616",
       "target": "formula_equ8",
@@ -8732,17 +8572,12 @@
     },
     "formula_646": {
       "type": "formula",
-      "id": "formula_646",
-      "label": "",
-      "content": "",
-      "format": ""
+      "id": "formula_646"
     },
     "annotation_647": {
       "type": "inline_formula",
       "id": "annotation_647",
-      "path": "",
       "target": "formula_646",
-      "range": "",
       "source": "paragraph_628",
       "key": "content",
       "pos": [
@@ -8752,17 +8587,12 @@
     },
     "formula_648": {
       "type": "formula",
-      "id": "formula_648",
-      "label": "",
-      "content": "",
-      "format": ""
+      "id": "formula_648"
     },
     "annotation_649": {
       "type": "inline_formula",
       "id": "annotation_649",
-      "path": "",
       "target": "formula_648",
-      "range": "",
       "source": "paragraph_628",
       "key": "content",
       "pos": [
@@ -8772,17 +8602,12 @@
     },
     "formula_650": {
       "type": "formula",
-      "id": "formula_650",
-      "label": "",
-      "content": "",
-      "format": ""
+      "id": "formula_650"
     },
     "annotation_651": {
       "type": "inline_formula",
       "id": "annotation_651",
-      "path": "",
       "target": "formula_650",
-      "range": "",
       "source": "paragraph_628",
       "key": "content",
       "pos": [
@@ -8795,11 +8620,9 @@
       "id": "table_tbl2",
       "label": "Table 2.",
       "content": "<table><thead><tr><th>Quantity</th><th>Symbol</th><th>Value</th><th>Source</th></tr></thead><tbody><tr><td>Reaction 1 rate constant</td><td><em>k</em><sub>1</sub></td><td>3.8 × 10<sup>8</sup> M<sup>−1</sup>s<sup>−1</sup></td><td>Table 3 of <sup>Hsieh et al. (1987)</sup>.</td></tr><tr><td>DNA persistence length</td><td><em>a</em></td><td>50 nm</td><td>Well established (e.g. <sup>Petrov et al., 2006</sup>).</td></tr><tr><td>Reaction radius</td><td><em>R</em></td><td>2.5 nm</td><td>The transposase dimeric binding domain is 111 amino acids and weighs 26 kDa. From Note 3 of <sup>Andrews (2012)</sup>, its radius is about 1.9 nm. Add to this about 0.6 nm to account for the 0.34 nm length of 1 DNA basepair (because transposase specificity is accurate to 1 bp), combined with the 1 nm radius of DNA.</td></tr><tr><td>Segmental diffusion coefficient</td><td><em>D</em><sub><em>s</em></sub></td><td>27 µm<sup>2</sup>s<sup>−1</sup></td><td>Figure 3 of <sup>Petrov et al. (2006)</sup> for 147 bp, which is 1 DNA persistence length.</td></tr><tr><td>Transposase diffusion coefficient</td><td><em>D</em><sub><em>p</em></sub></td><td>61 µm<sup>2</sup>s<sup>−1</sup></td><td>Note 3 of <sup>Andrews (2012)</sup>, using a molecular weight of 80.7 kDa for transposase. Assumes DNA center of mass is effectively stationary.</td></tr><tr><td>Diffusion-limited part of <em>k</em><sub>1</sub></td><td><em>k</em><sub>1,<em>diff</em></sub></td><td>1.5 × 10<sup>9</sup> M<sup>−1</sup>s<sup>−1</sup></td><td><sup>Equation 5</sup>.</td></tr><tr><td>Activation-limited reaction rate</td><td><em>k</em><sub><em>act</em></sub></td><td>5.2 × 10<sup>8</sup> M<sup>−1</sup>s<sup>−1</sup></td><td><sup>Equation 3</sup>.</td></tr><tr><td>Diffusion-limited part of <mml:math><mml:mrow><mml:msubsup><mml:mi>k</mml:mi><mml:mn>1</mml:mn><mml:mo>′</mml:mo></mml:msubsup></mml:mrow></mml:math></td><td><mml:math><mml:mrow><mml:msubsup><mml:mi>k</mml:mi><mml:mrow><mml:mn>1</mml:mn><mml:mo>,</mml:mo><mml:mi>diff</mml:mi></mml:mrow><mml:mo>′</mml:mo></mml:msubsup></mml:mrow></mml:math></td><td>4.2 × 10<sup>8</sup> M<sup>−1</sup>s<sup>−1</sup></td><td><sup>Equation 6</sup>.</td></tr><tr><td>Reaction 2 rate constant</td><td><mml:math><mml:mrow><mml:msubsup><mml:mi>k</mml:mi><mml:mn>1</mml:mn><mml:mo>′</mml:mo></mml:msubsup></mml:mrow></mml:math></td><td>2.3 × 10<sup>8</sup> M<sup>−1</sup>s<sup>−1</sup></td><td><sup>Equation 4</sup>.</td></tr><tr><td>Effective local DNA site concentration</td><td>[B]</td><td>5.5 × 10<sup>−8</sup> M</td><td><sup>Equation 8</sup>, using a 1287 bp transposon length.</td></tr><tr><td>Transposase-transposon end dissociation rate constant</td><td><em>k</em><sub>−1</sub></td><td>5.8 × 10<sup>−4</sup> s<sup>−1</sup></td><td>Estimated from <sup>Figure 3C</sup>.</td></tr><tr><td>Reaction 2, pseudo-first order rate constant for synapsis</td><td><em>k</em><sub>2</sub></td><td>12.7 s<sup>−1</sup></td><td><sup>Equation 7</sup>.</td></tr><tr><td>Reaction 2, pseudo-first order rate constant for synapsis with an open circular substrate in vitro.</td><td><em>k</em><sub>2</sub></td><td>9.6 × 10<sup>−5</sup> s<sup>−1</sup></td><td>Estimated using the equation t<sub>1/2</sub> = ln2/<em>k</em><sub>2</sub>. t<sub>1/2</sub> is the time taken to consume one quarter of the substrate in <sup>Figure 3D</sup>. See <sup>Figure 2—figure supplement 1</sup> for an explanation of why the time to consume one quarter of the substrate is used, rather than the time to consume half of the substrate.</td></tr></tbody></table>",
-      "title": "",
       "footers": [],
       "doi": "http://dx.doi.org/10.7554/eLife.00668.015",
-      "caption": "paragraph_table_tbl2",
-      "format": ""
+      "caption": "paragraph_table_tbl2"
     },
     "paragraph_table_tbl2": {
       "type": "paragraph",
@@ -8834,17 +8657,12 @@
     },
     "formula_654": {
       "type": "formula",
-      "id": "formula_654",
-      "label": "",
-      "content": "",
-      "format": ""
+      "id": "formula_654"
     },
     "annotation_655": {
       "type": "inline_formula",
       "id": "annotation_655",
-      "path": "",
       "target": "formula_654",
-      "range": "",
       "source": "paragraph_628",
       "key": "content",
       "pos": [
@@ -9082,11 +8900,9 @@
       "id": "table_tbl3",
       "label": "Table 3.",
       "content": "<table><thead><tr><th>Quantity</th><th>Symbol</th><th>Value</th><th>Source</th></tr></thead><tbody><tr><td>DNA persistence length</td><td><em>a</em></td><td>50 nm</td><td>See <sup>Table 2</sup>.</td></tr><tr><td>Reaction radius</td><td><em>R</em></td><td>2.5 nm</td><td>See <sup>Table 2</sup>.</td></tr><tr><td>Segmental diffusion coefficient</td><td><em>D</em><sub><em>s</em></sub></td><td>5 × 10<sup>−4</sup> µm<sup>2</sup>s<sup>−1</sup></td><td>From Figure 2 caption of <sup>Marshall et al. (1997)</sup>.</td></tr><tr><td>Transposase diffusion coefficient</td><td><em>D</em><sub><em>p</em></sub></td><td>15 µm<sup>2</sup>s<sup>−1</sup></td><td>¼ of <sup>Table 2</sup> value, based on Note 3 of <sup>Andrews, (2012)</sup>.</td></tr><tr><td>Diffusion-limited part of <em>k</em><sub>1</sub></td><td><em>k</em><sub>1,<em>diff</em></sub></td><td>2.9 × 10<sup>8</sup> M<sup>−1</sup>s<sup>−1</sup></td><td><sup>Equation 5</sup>.</td></tr><tr><td>Activation-limited reaction rate</td><td><em>k</em><sub><em>act</em></sub></td><td>5.2 × 10<sup>8</sup> M<sup>−1</sup>s<sup>−1</sup></td><td>From <sup>Table 2</sup>.</td></tr><tr><td>Diffusion-limited part of <mml:math><mml:mrow><mml:msubsup><mml:mi>k</mml:mi><mml:mn>1</mml:mn><mml:mo>′</mml:mo></mml:msubsup></mml:mrow></mml:math></td><td><mml:math><mml:mrow><mml:msubsup><mml:mi>k</mml:mi><mml:mrow><mml:mn>1</mml:mn><mml:mo>,</mml:mo><mml:mi>diff</mml:mi></mml:mrow><mml:mo>′</mml:mo></mml:msubsup></mml:mrow></mml:math></td><td>7.8 × 10<sup>3</sup> M<sup>−1</sup>s<sup>−1</sup></td><td><sup>Equation 6</sup>.</td></tr><tr><td>Reaction 1 rate constant</td><td><em>k</em><sub>1</sub></td><td>1.9 × 10<sup>8</sup> M<sup>−1</sup>s<sup>−1</sup></td><td><sup>Equation 3</sup>.</td></tr><tr><td>Reaction 2 rate constant</td><td><mml:math><mml:mrow><mml:msubsup><mml:mi>k</mml:mi><mml:mn>1</mml:mn><mml:mo>′</mml:mo></mml:msubsup></mml:mrow></mml:math></td><td>7.8 × 10<sup>3</sup> M<sup>−1</sup>s<sup>−1</sup></td><td><sup>Equation 4</sup>.</td></tr><tr><td>Effective local DNA site concentration</td><td>[B]</td><td>5.5 × 10<sup>−8</sup> M</td><td>See <sup>Table 2</sup>.</td></tr><tr><td>Reaction 2 pseudo-first order rate constant</td><td><em>k</em><sub>2</sub></td><td>4.3 × 10<sup>−4</sup> s<sup>−1</sup></td><td><sup>Equation 7</sup>.</td></tr></tbody></table>",
-      "title": "",
       "footers": [],
       "doi": "http://dx.doi.org/10.7554/eLife.00668.016",
-      "caption": "paragraph_table_tbl3",
-      "format": ""
+      "caption": "paragraph_table_tbl3"
     },
     "paragraph_table_tbl3": {
       "type": "paragraph",
@@ -10154,17 +9970,11 @@
       "year": "2012",
       "volume": "804",
       "source": "Methods Mol Biol",
-      "issue": "",
       "fpage": "519",
       "lpage": "42",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1007/978-1-61779-361-5_26",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib2": {
@@ -10196,17 +10006,11 @@
       "year": "2005",
       "volume": "351",
       "source": "J Mol Biol",
-      "issue": "",
       "fpage": "117",
       "lpage": "30",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.jmb.2005.05.019",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib3": {
@@ -10222,17 +10026,11 @@
       "year": "1984",
       "volume": "23",
       "source": "Biopolymers",
-      "issue": "",
       "fpage": "1869",
       "lpage": "89",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1002/bip.360231005",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib4": {
@@ -10252,17 +10050,11 @@
       "year": "1997",
       "volume": "94",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "13493",
       "lpage": "8",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1073/pnas.94.25.13493",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib5": {
@@ -10298,17 +10090,11 @@
       "year": "2008",
       "volume": "322",
       "source": "Science",
-      "issue": "",
       "fpage": "1387",
       "lpage": "92",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1126/science.1165171",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib6": {
@@ -10328,17 +10114,10 @@
       "year": "1994",
       "volume": "269",
       "source": "J Biol Chem",
-      "issue": "",
       "fpage": "8029",
       "lpage": "35",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib7": {
@@ -10358,17 +10137,10 @@
       "year": "1996",
       "volume": "15",
       "source": "EMBO J",
-      "issue": "",
       "fpage": "5112",
       "lpage": "22",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib8": {
@@ -10388,17 +10160,11 @@
       "year": "2010",
       "volume": "38",
       "source": "Nucleic Acids Res",
-      "issue": "",
       "fpage": "190",
       "lpage": "202",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1093/nar/gkp891",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib9": {
@@ -10422,17 +10188,11 @@
       "year": "2011",
       "volume": "31",
       "source": "Mol Cell Biol",
-      "issue": "",
       "fpage": "317",
       "lpage": "27",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1128/MCB.01066-10",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib10": {
@@ -10464,17 +10224,11 @@
       "year": "2009",
       "volume": "37",
       "source": "Nucleic Acids Res",
-      "issue": "",
       "fpage": "1239",
       "lpage": "47",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1093/nar/gkn1025",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib11": {
@@ -10502,17 +10256,11 @@
       "year": "2006",
       "volume": "103",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "8101",
       "lpage": "6",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1073/pnas.0601161103",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib12": {
@@ -10532,17 +10280,11 @@
       "year": "2003",
       "volume": "11",
       "source": "Mol Cell",
-      "issue": "",
       "fpage": "225",
       "lpage": "35",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/S1097-2765(02)00798-0",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib13": {
@@ -10566,17 +10308,11 @@
       "year": "2007",
       "volume": "316",
       "source": "Science",
-      "issue": "",
       "fpage": "1191",
       "lpage": "4",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1126/science.1141967",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib14": {
@@ -10592,17 +10328,11 @@
       "year": "1983",
       "volume": "17",
       "source": "Annu Rev Genet",
-      "issue": "",
       "fpage": "315",
       "lpage": "44",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1146/annurev.ge.17.120183.001531",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib15": {
@@ -10622,17 +10352,11 @@
       "year": "2002",
       "volume": "99",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "280",
       "lpage": "5",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1073/pnas.022626699",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib16": {
@@ -10660,17 +10384,11 @@
       "year": "1996",
       "volume": "5",
       "source": "Insect Mol Biol",
-      "issue": "",
       "fpage": "141",
       "lpage": "51",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1111/j.1365-2583.1996.tb00048.x",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib17": {
@@ -10690,17 +10408,11 @@
       "year": "1994",
       "volume": "241",
       "source": "J Mol Biol",
-      "issue": "",
       "fpage": "26",
       "lpage": "34",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1006/jmbi.1994.1470",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib18": {
@@ -10736,17 +10448,11 @@
       "year": "2010",
       "volume": "18",
       "source": "Mol Ther",
-      "issue": "",
       "fpage": "1200",
       "lpage": "9",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/mt.2010.47",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib19": {
@@ -10774,17 +10480,11 @@
       "year": "1997",
       "volume": "13",
       "source": "Trends Genet",
-      "issue": "",
       "fpage": "197",
       "lpage": "201",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/S0168-9525(97)01087-1",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib20": {
@@ -10808,17 +10508,11 @@
       "year": "2010",
       "volume": "45",
       "source": "Crit Rev Biochem Mol Biol",
-      "issue": "",
       "fpage": "50",
       "lpage": "69",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.3109/10409230903505596",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib21": {
@@ -10846,17 +10540,10 @@
       "year": "1987",
       "volume": "262",
       "source": "J Biol Chem",
-      "issue": "",
       "fpage": "14583",
       "lpage": "91",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib22": {
@@ -10888,17 +10575,10 @@
       "year": "2011",
       "volume": "6",
       "source": "Biol Direct",
-      "issue": "",
       "fpage": "19",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1186/1745-6150-6-19",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib23": {
@@ -10926,17 +10606,11 @@
       "year": "1997",
       "volume": "91",
       "source": "Cell",
-      "issue": "",
       "fpage": "501",
       "lpage": "10",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/S0092-8674(00)80436-5",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib24": {
@@ -10968,17 +10642,11 @@
       "year": "2008",
       "volume": "179",
       "source": "Genetics",
-      "issue": "",
       "fpage": "1785",
       "lpage": "93",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1534/genetics.108.087072",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib55": {
@@ -10996,19 +10664,10 @@
       ],
       "title": "Analysis of piRNA-mediated silencing of active TEs in Drosophila melanogaster suggests limits on the evolution of host genome defense",
       "year": "2013",
-      "volume": "",
       "source": "Mol Biol Evol",
-      "issue": "",
-      "fpage": "",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1093/molbev/mst081",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "annotation_754": {
@@ -11037,17 +10696,10 @@
       "year": "1990",
       "volume": "124",
       "source": "Genetics",
-      "issue": "",
       "fpage": "449",
       "lpage": "54",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib26": {
@@ -11071,17 +10723,10 @@
       "year": "1998",
       "volume": "149",
       "source": "Genetics",
-      "issue": "",
       "fpage": "179",
       "lpage": "87",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib27": {
@@ -11105,17 +10750,11 @@
       "year": "2007",
       "volume": "104",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "19375",
       "lpage": "80",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1073/pnas.0705238104",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib28": {
@@ -11135,17 +10774,11 @@
       "year": "2005",
       "volume": "169",
       "source": "Genetics",
-      "issue": "",
       "fpage": "1033",
       "lpage": "43",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1534/genetics.104.031211",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib29": {
@@ -11173,17 +10806,11 @@
       "year": "2004",
       "volume": "24",
       "source": "Mol Cell Biol",
-      "issue": "",
       "fpage": "8301",
       "lpage": "11",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1128/MCB.24.18.8301-8311.2004",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib30": {
@@ -11219,17 +10846,11 @@
       "year": "2007",
       "volume": "27",
       "source": "Mol Cell Biol",
-      "issue": "",
       "fpage": "1125",
       "lpage": "32",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1128/MCB.01899-06",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib31": {
@@ -11249,17 +10870,11 @@
       "year": "1996",
       "volume": "13",
       "source": "Mol Biol Evol",
-      "issue": "",
       "fpage": "549",
       "lpage": "55",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1093/oxfordjournals.molbev.a025615",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib32": {
@@ -11287,17 +10902,11 @@
       "year": "1995",
       "volume": "12",
       "source": "Mol Biol Evol",
-      "issue": "",
       "fpage": "62",
       "lpage": "72",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1093/oxfordjournals.molbev.a040191",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib33": {
@@ -11333,17 +10942,11 @@
       "year": "1997",
       "volume": "7",
       "source": "Curr Biol",
-      "issue": "",
       "fpage": "930",
       "lpage": "9",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/S0960-9822(06)00412-X",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib34": {
@@ -11379,17 +10982,11 @@
       "year": "2007",
       "volume": "27",
       "source": "Mol Cell Biol",
-      "issue": "",
       "fpage": "4589",
       "lpage": "600",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1128/MCB.02027-06",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib35": {
@@ -11409,17 +11006,11 @@
       "year": "1990",
       "volume": "62",
       "source": "Cell",
-      "issue": "",
       "fpage": "269",
       "lpage": "84",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/0092-8674(90)90365-L",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib36": {
@@ -11447,17 +11038,10 @@
       "year": "2006",
       "volume": "97",
       "source": "Phys Rev Lett",
-      "issue": "",
       "fpage": "258101",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1103/PhysRevLett.97.258101",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib37": {
@@ -11477,17 +11061,11 @@
       "year": "1977",
       "volume": "16",
       "source": "Biochemistry",
-      "issue": "",
       "fpage": "4769",
       "lpage": "76",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1021/bi00641a002",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "annotation_755": {
@@ -11516,17 +11094,11 @@
       "year": "2008",
       "volume": "42",
       "source": "Annu Rev Genet",
-      "issue": "",
       "fpage": "269",
       "lpage": "86",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1146/annurev.genet.42.110807.091656",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib39": {
@@ -11535,19 +11107,10 @@
       "authors": [],
       "title": "Diffusion limited reactions",
       "year": "1985",
-      "volume": "",
-      "source": "",
-      "issue": "",
-      "fpage": "",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
       "publisher-name": "Elsevier",
       "publisher-loc": "Amsterdam",
-      "doi": "",
       "citation_url": [],
       "format": "book",
-      "label": "",
       "editors": [
         {
           "given-names": "SA",
@@ -11580,17 +11143,11 @@
       "year": "2009",
       "volume": "138",
       "source": "Cell",
-      "issue": "",
       "fpage": "1096",
       "lpage": "108",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.cell.2009.07.012",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib41": {
@@ -11622,17 +11179,11 @@
       "year": "1999",
       "volume": "18",
       "source": "EMBO J",
-      "issue": "",
       "fpage": "6630",
       "lpage": "41",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1093/emboj/18.23.6630",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib42": {
@@ -11660,17 +11211,11 @@
       "year": "2008",
       "volume": "180",
       "source": "Genetics",
-      "issue": "",
       "fpage": "673",
       "lpage": "9",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1534/genetics.108.089698",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "annotation_756": {
@@ -11711,17 +11256,11 @@
       "year": "1985",
       "volume": "43",
       "source": "Cell",
-      "issue": "",
       "fpage": "117",
       "lpage": "30",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/0092-8674(85)90017-0",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib44": {
@@ -11741,17 +11280,11 @@
       "year": "1995",
       "volume": "40",
       "source": "Annu Rev Entomol",
-      "issue": "",
       "fpage": "333",
       "lpage": "57",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1146/annurev.en.40.010195.002001",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib45": {
@@ -11771,17 +11304,11 @@
       "year": "1997",
       "volume": "205",
       "source": "Gene",
-      "issue": "",
       "fpage": "203",
       "lpage": "17",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/S0378-1119(97)00472-1",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib46": {
@@ -11817,17 +11344,11 @@
       "year": "2007",
       "volume": "46",
       "source": "Biochemistry",
-      "issue": "",
       "fpage": "11369",
       "lpage": "76",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1021/bi7005477",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib47": {
@@ -11863,17 +11384,11 @@
       "year": "2011",
       "volume": "473",
       "source": "Nature",
-      "issue": "",
       "fpage": "337",
       "lpage": "42",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nature10098",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib48": {
@@ -11909,17 +11424,11 @@
       "year": "2011",
       "volume": "20",
       "source": "Stem Cells Dev",
-      "issue": "",
       "fpage": "363",
       "lpage": "74",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1089/scd.2010.0159",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib49": {
@@ -11943,17 +11452,11 @@
       "year": "2011",
       "volume": "108",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "15948",
       "lpage": "53",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1073/pnas.1112960108",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib50": {
@@ -11989,17 +11492,11 @@
       "year": "2010",
       "volume": "19",
       "source": "Stem Cells Dev",
-      "issue": "",
       "fpage": "1699",
       "lpage": "711",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1089/scd.2010.0058",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib51": {
@@ -12019,17 +11516,11 @@
       "year": "2000",
       "volume": "108",
       "source": "Genetica",
-      "issue": "",
       "fpage": "229",
       "lpage": "37",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1023/A:1004172703790",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib52": {
@@ -12065,17 +11556,11 @@
       "year": "2006",
       "volume": "103",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "4062",
       "lpage": "7",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1073/pnas.0507683103",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib53": {
@@ -12099,17 +11584,11 @@
       "year": "1994",
       "volume": "8",
       "source": "Genes Dev",
-      "issue": "",
       "fpage": "2363",
       "lpage": "74",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1101/gad.8.19.2363",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib54": {
@@ -12141,17 +11620,11 @@
       "year": "2009",
       "volume": "325",
       "source": "Science",
-      "issue": "",
       "fpage": "1391",
       "lpage": "4",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1126/science.1175688",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "sub-article": {

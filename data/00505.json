@@ -170,7 +170,6 @@
       "accepted_on": "2013-05-02",
       "published_on": "2013-06-11",
       "journal": "elife",
-      "article_type": "",
       "keywords": [
         "R loops",
         "RNA-DNA hybrids",
@@ -184,10 +183,9 @@
       "subjects": [
         "Genes and chromosomes"
       ],
-      "pdf_link": "",
-      "xml_link": "",
-      "json_link": "",
-      "doi": ""
+      "xml_link": "https://s3.amazonaws.com/elife-cdn/elife-articles/00505/elife00505.xml",
+      "json_link": "https://s3.amazonaws.com/elife-cdn/elife-articles/00505/00505.json",
+      "doi": "http://dx.doi.org/10.7554/eLife.00505"
     },
     "person_author_3573": {
       "type": "person",
@@ -196,9 +194,7 @@
       "last-name": "Wahba",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article",
-      "email": "",
       "funding": []
     },
     "person_author_3672": {
@@ -208,9 +204,7 @@
       "last-name": "Gore",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Acquisition of data, Analysis and interpretation of data",
-      "email": "",
       "funding": [
         "funding_par_1"
       ]
@@ -222,7 +216,6 @@
       "last-name": "Koshland",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Drafting or revising the article",
       "email": "email_cor1",
       "funding": []
@@ -232,18 +225,14 @@
       "id": "institution_aff1",
       "name": "Howard Hughes Medical Institute, University of California, Berkeley",
       "city": "Berkeley",
-      "country": "United States",
-      "email": "",
-      "image": ""
+      "country": "United States"
     },
     "institution_aff2": {
       "type": "institution",
       "id": "institution_aff2",
       "name": "Johns Hopkins University",
       "city": "Baltimore",
-      "country": "United States",
-      "email": "",
-      "image": ""
+      "country": "United States"
     },
     "person_1": {
       "type": "person",
@@ -252,9 +241,6 @@
       "last-name": "Proudfoot",
       "role": "editor",
       "affiliations": [],
-      "image": "",
-      "contribution": "",
-      "email": "",
       "funding": []
     },
     "info:review": {
@@ -269,7 +255,6 @@
     "email_cor1": {
       "type": "email",
       "id": "email_cor1",
-      "node": "",
       "email": "koshland@berkeley.edu"
     },
     "info:copyright": {
@@ -433,7 +418,6 @@
       "type": "funding",
       "id": "funding_par_1",
       "institution": "Howard Hughes Medical Institute",
-      "accession": "",
       "person": "person_author_3672",
       "given-names": "Steven K",
       "last-name": "Gore"
@@ -449,8 +433,7 @@
     },
     "paragraph_18": {
       "type": "paragraph",
-      "id": "paragraph_18",
-      "content": ""
+      "id": "paragraph_18"
     },
     "heading_s1": {
       "type": "heading",
@@ -1266,19 +1249,12 @@
       "type": "image",
       "id": "image_fig1",
       "label": "Figure 1.",
-      "url": "",
-      "object_id": "F1",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00505/svg/elife00505f001.svg",
       "title": "Deletion of RAD51 suppresses RNA–DNA hybrids and YAC instability.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00505.003",
       "caption": "paragraph_image_fig1",
-      "graphic_id": "elife00505f001"
+      "graphic_id": "elife00505f001",
+      "format": "image"
     },
     "paragraph_image_fig1": {
       "type": "paragraph",
@@ -1354,19 +1330,11 @@
       "type": "image",
       "id": "image_fig1s1",
       "label": "Figure 1—figure supplement 1.",
-      "url": "",
-      "object_id": "F2",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00505/svg/elife00505fs001.svg",
       "title": "Larger panels of chromatin spreads showing multiple nuclei of single mutants stained with S9.6 antibody.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig1"
-      ],
-      "doi": "",
       "caption": "paragraph_image_fig1s1",
-      "graphic_id": "elife00505fs001"
+      "graphic_id": "elife00505fs001",
+      "format": "image"
     },
     "paragraph_image_fig1s1": {
       "type": "paragraph",
@@ -1404,19 +1372,11 @@
       "type": "image",
       "id": "image_fig1s2",
       "label": "Figure 1—figure supplement 2.",
-      "url": "",
-      "object_id": "F3",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00505/svg/elife00505fs002.svg",
       "title": "Larger panels of chromatin spreads showing multiple nuclei of double mutants stained with S9.6 antibody.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig1"
-      ],
-      "doi": "",
       "caption": "paragraph_image_fig1s2",
-      "graphic_id": "elife00505fs002"
+      "graphic_id": "elife00505fs002",
+      "format": "image"
     },
     "paragraph_image_fig1s2": {
       "type": "paragraph",
@@ -1454,19 +1414,12 @@
       "type": "image",
       "id": "image_fig1s3",
       "label": "Figure 1—figure supplement 3.",
-      "url": "",
-      "object_id": "F4",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00505/svg/elife00505fs003.svg",
       "title": "Dot blotting with S9.6 antibody.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig1"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00505.006",
       "caption": "paragraph_image_fig1s3",
-      "graphic_id": "elife00505fs003"
+      "graphic_id": "elife00505fs003",
+      "format": "image"
     },
     "paragraph_image_fig1s3": {
       "type": "paragraph",
@@ -1734,19 +1687,12 @@
       "type": "image",
       "id": "image_fig2",
       "label": "Figure 2.",
-      "url": "",
-      "object_id": "F5",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00505/svg/elife00505f002.svg",
       "title": "Hybrid-mediated YAC instability is induced in wild-type when high rates of transcription are induced on the YAC using the GAL1-10 promoter (GALpr).",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00505.007",
       "caption": "paragraph_image_fig2",
-      "graphic_id": "elife00505f002"
+      "graphic_id": "elife00505f002",
+      "format": "image"
     },
     "paragraph_image_fig2": {
       "type": "paragraph",
@@ -1874,19 +1820,11 @@
       "type": "image",
       "id": "image_fig2s1",
       "label": "Figure 2—figure supplement 1.",
-      "url": "",
-      "object_id": "F6",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00505/svg/elife00505fs004.svg",
       "title": "(A) DIP analysis of YAC strain prior to and 2 hr after addition of galactose to the media. (B) Monitoring of DIP signal in the YAC-GALpr strain at a distal region, showing low levels of hybrid signal upon induction with galactose as compared to. (C) DIP signals are reduced around the YAC-GALpr module upon return to repressive conditions.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig2"
-      ],
-      "doi": "",
       "caption": "paragraph_image_fig2s1",
-      "graphic_id": "elife00505fs004"
+      "graphic_id": "elife00505fs004",
+      "format": "image"
     },
     "paragraph_image_fig2s1": {
       "type": "paragraph",
@@ -1924,19 +1862,11 @@
       "type": "image",
       "id": "image_fig2s2",
       "label": "Figure 2—figure supplement 2.",
-      "url": "",
-      "object_id": "F7",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00505/svg/elife00505fs005.svg",
       "title": "The percent of terminal deletions and chromosome loss events recovered after 5 hr of growth in galactose-containing media is comparable for YAC and YAC-GALpr strains.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig2"
-      ],
-      "doi": "",
       "caption": "paragraph_image_fig2s2",
-      "graphic_id": "elife00505fs005"
+      "graphic_id": "elife00505fs005",
+      "format": "image"
     },
     "paragraph_image_fig2s2": {
       "type": "paragraph",
@@ -2230,19 +2160,12 @@
       "type": "image",
       "id": "image_fig3",
       "label": "Figure 3.",
-      "url": "",
-      "object_id": "F8",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00505/svg/elife00505f003.svg",
       "title": "Rad51p binding is detectable around the YAC-GALpr module upon induction of transcription.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00505.010",
       "caption": "paragraph_image_fig3",
-      "graphic_id": "elife00505f003"
+      "graphic_id": "elife00505f003",
+      "format": "image"
     },
     "paragraph_image_fig3": {
       "type": "paragraph",
@@ -2279,19 +2202,12 @@
       "type": "image",
       "id": "image_fig3s1",
       "label": "Figure 3—figure supplement 1.",
-      "url": "",
-      "object_id": "F9",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00505/svg/elife00505fs006.svg",
       "title": "Rad51p binding is detectable around the YAC-GALpr module upon induction of transcription.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig3"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00505.011",
       "caption": "paragraph_image_fig3s1",
-      "graphic_id": "elife00505fs006"
+      "graphic_id": "elife00505fs006",
+      "format": "image"
     },
     "paragraph_image_fig3s1": {
       "type": "paragraph",
@@ -2302,19 +2218,12 @@
       "type": "image",
       "id": "image_fig3s2",
       "label": "Figure 3—figure supplement 2.",
-      "url": "",
-      "object_id": "F10",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00505/svg/elife00505fs007.svg",
       "title": "Rad51p binding is reduced around the YAC-GALpr module upon return to repressive conditions.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig3"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00505.012",
       "caption": "paragraph_image_fig3s2",
-      "graphic_id": "elife00505fs007"
+      "graphic_id": "elife00505fs007",
+      "format": "image"
     },
     "paragraph_image_fig3s2": {
       "type": "paragraph",
@@ -2325,19 +2234,12 @@
       "type": "image",
       "id": "image_fig3s3",
       "label": "Figure 3—figure supplement 3.",
-      "url": "",
-      "object_id": "F11",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00505/svg/elife00505fs008.svg",
       "title": "Rad51 and γ-H2a.X binding at an inducible break site on chromosome III.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig3"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00505.013",
       "caption": "paragraph_image_fig3s3",
-      "graphic_id": "elife00505fs008"
+      "graphic_id": "elife00505fs008",
+      "format": "image"
     },
     "paragraph_image_fig3s3": {
       "type": "paragraph",
@@ -2374,19 +2276,12 @@
       "type": "image",
       "id": "image_fig3s4",
       "label": "Figure 3—figure supplement 4.",
-      "url": "",
-      "object_id": "F12",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00505/svg/elife00505fs009.svg",
       "title": "Wild-type levels of YAC instability are observed after 2 hr of transcription induction.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig3"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00505.014",
       "caption": "paragraph_image_fig3s4",
-      "graphic_id": "elife00505fs009"
+      "graphic_id": "elife00505fs009",
+      "format": "image"
     },
     "paragraph_image_fig3s4": {
       "type": "paragraph",
@@ -2581,19 +2476,12 @@
       "type": "image",
       "id": "image_fig4",
       "label": "Figure 4.",
-      "url": "",
-      "object_id": "F13",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00505/svg/elife00505f004.svg",
       "title": "Deletions of RAD51 and RAD52 do not affect RNA–DNA hybrid formation in rnh1Δrnh201Δ.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00505.015",
       "caption": "paragraph_image_fig4",
-      "graphic_id": "elife00505f004"
+      "graphic_id": "elife00505f004",
+      "format": "image"
     },
     "paragraph_image_fig4": {
       "type": "paragraph",
@@ -2772,19 +2660,12 @@
       "type": "image",
       "id": "image_fig5",
       "label": "Figure 5.",
-      "url": "",
-      "object_id": "F14",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00505/svg/elife00505f005.svg",
       "title": "Transcription of YAC sequences from chromosome III causes RNA–DNA hybrid formation in trans on the YAC.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00505.016",
       "caption": "paragraph_image_fig5",
-      "graphic_id": "elife00505f005"
+      "graphic_id": "elife00505f005",
+      "format": "image"
     },
     "paragraph_image_fig5": {
       "type": "paragraph",
@@ -3148,19 +3029,12 @@
       "type": "image",
       "id": "image_fig6",
       "label": "Figure 6.",
-      "url": "",
-      "object_id": "F15",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00505/svg/elife00505f006.svg",
       "title": "Transcription of YAC sequences in trans causes hybrid-mediated YAC instability.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00505.017",
       "caption": "paragraph_image_fig6",
-      "graphic_id": "elife00505f006"
+      "graphic_id": "elife00505f006",
+      "format": "image"
     },
     "paragraph_image_fig6": {
       "type": "paragraph",
@@ -3249,19 +3123,12 @@
       "type": "image",
       "id": "image_fig6s1",
       "label": "Figure 6—figure supplement 1.",
-      "url": "",
-      "object_id": "F16",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00505/svg/elife00505fs010.svg",
       "title": "Levels of YAC instability in the trans assay with and without a region of homology on the YAC.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig6"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00505.018",
       "caption": "paragraph_image_fig6s1",
-      "graphic_id": "elife00505fs010"
+      "graphic_id": "elife00505fs010",
+      "format": "image"
     },
     "paragraph_image_fig6s1": {
       "type": "paragraph",
@@ -3285,19 +3152,12 @@
       "type": "image",
       "id": "image_fig6s2",
       "label": "Figure 6—figure supplement 2.",
-      "url": "",
-      "object_id": "F17",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00505/svg/elife00505fs011.svg",
       "title": "Schematic representation of an alternative for how HIS+ URA− colonies may arise in the trans assay.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig6"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00505.019",
       "caption": "paragraph_image_fig6s2",
-      "graphic_id": "elife00505fs011"
+      "graphic_id": "elife00505fs011",
+      "format": "image"
     },
     "paragraph_image_fig6s2": {
       "type": "paragraph",
@@ -3686,19 +3546,12 @@
       "type": "image",
       "id": "image_fig7",
       "label": "Figure 7.",
-      "url": "",
-      "object_id": "F18",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00505/svg/elife00505f007.svg",
       "title": "Deletion of RAD52 suppresses RNA–DNA hybrids.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00505.020",
       "caption": "paragraph_image_fig7",
-      "graphic_id": "elife00505f007"
+      "graphic_id": "elife00505f007",
+      "format": "image"
     },
     "paragraph_image_fig7": {
       "type": "paragraph",
@@ -3761,19 +3614,11 @@
       "type": "image",
       "id": "image_fig7s1",
       "label": "Figure 7—figure supplement 1.",
-      "url": "",
-      "object_id": "F19",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00505/svg/elife00505fs012.svg",
       "title": "Larger panels of chromatin spreads showing multiple nuclei of rad52Δ mutants stained with S9.6 antibody.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig7"
-      ],
-      "doi": "",
       "caption": "paragraph_image_fig7s1",
-      "graphic_id": "elife00505fs012"
+      "graphic_id": "elife00505fs012",
+      "format": "image"
     },
     "paragraph_image_fig7s1": {
       "type": "paragraph",
@@ -3998,19 +3843,12 @@
       "type": "image",
       "id": "image_fig8",
       "label": "Figure 8.",
-      "url": "",
-      "object_id": "F20",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00505/svg/elife00505f008.svg",
       "title": "Deletion of SRS2, but not RAD54 and RDH54 increases genome instability and hybrid formation.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00505.022",
       "caption": "paragraph_image_fig8",
-      "graphic_id": "elife00505f008"
+      "graphic_id": "elife00505f008",
+      "format": "image"
     },
     "paragraph_image_fig8": {
       "type": "paragraph",
@@ -4216,19 +4054,12 @@
       "type": "image",
       "id": "image_fig8s1",
       "label": "Figure 8—figure supplement 1.",
-      "url": "",
-      "object_id": "F21",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00505/svg/elife00505fs013.svg",
       "title": "Larger panels of chromatin spreads showing multiple nuclei of srs2Δ and rdh54Δrad54Δ mutants stained with S9.6 antibody.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig8"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00505.023",
       "caption": "paragraph_image_fig8s1",
-      "graphic_id": "elife00505fs013"
+      "graphic_id": "elife00505fs013",
+      "format": "image"
     },
     "paragraph_image_fig8s1": {
       "type": "paragraph",
@@ -4552,19 +4383,12 @@
       "type": "image",
       "id": "image_fig9",
       "label": "Figure 9.",
-      "url": "",
-      "object_id": "F22",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00505/svg/elife00505f009.svg",
       "title": "Three models for how Rad51p may mediate RNA–DNA hybrid formation.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00505.024",
       "caption": "paragraph_image_fig9",
-      "graphic_id": "elife00505f009"
+      "graphic_id": "elife00505f009",
+      "format": "image"
     },
     "paragraph_image_fig9": {
       "type": "paragraph",
@@ -5424,12 +5248,11 @@
       "type": "supplement",
       "id": "supplement_SD1_data",
       "label": "Supplementary file 1.",
-      "source": "",
-      "title": "",
       "caption": "paragraph_supplement_SD1_data",
-      "content": "",
       "doi": "http://dx.doi.org/10.7554/eLife.00505.025",
-      "graphic_id": "elife00505s001.xls"
+      "files": [
+        "file_378"
+      ]
     },
     "paragraph_supplement_SD1_data": {
       "type": "paragraph",
@@ -5462,6 +5285,14 @@
         49
       ]
     },
+    "file_378": {
+      "type": "file",
+      "id": "file_378",
+      "name": "XLS",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00505/suppl/elife00505s001.xls",
+      "graphic_id": "elife00505s001.xls",
+      "extension": ".xls"
+    },
     "article_citation_bib1": {
       "type": "article_citation",
       "id": "article_citation_bib1",
@@ -5479,17 +5310,11 @@
       "year": "2012",
       "volume": "46",
       "source": "Mol Cell",
-      "issue": "",
       "fpage": "115",
       "lpage": "24",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.molcel.2012.04.009",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib2": {
@@ -5509,17 +5334,11 @@
       "year": "2008",
       "volume": "9",
       "source": "Nat Rev Genet",
-      "issue": "",
       "fpage": "204",
       "lpage": "17",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nrg2268",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib3": {
@@ -5555,17 +5374,11 @@
       "year": "2012",
       "volume": "151",
       "source": "Cell",
-      "issue": "",
       "fpage": "835",
       "lpage": "46",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.cell.2012.09.041",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib4": {
@@ -5601,17 +5414,11 @@
       "year": "2009",
       "volume": "185",
       "source": "J Cell Biol",
-      "issue": "",
       "fpage": "969",
       "lpage": "81",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1083/jcb.200810055",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib5": {
@@ -5631,22 +5438,15 @@
       "year": "1993",
       "volume": "175",
       "source": "J Bacteriol",
-      "issue": "",
       "fpage": "7254",
       "lpage": "9",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_378": {
+    "annotation_379": {
       "type": "emphasis",
-      "id": "annotation_378",
+      "id": "annotation_379",
       "path": [
         "article_citation_bib5",
         "title"
@@ -5690,22 +5490,15 @@
       "year": "2008",
       "volume": "6",
       "source": "PLOS Biol",
-      "issue": "",
       "fpage": "e277",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1371/journal.pbio.0060277",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_379": {
+    "annotation_380": {
       "type": "emphasis",
-      "id": "annotation_379",
+      "id": "annotation_380",
       "path": [
         "article_citation_bib6",
         "title"
@@ -5749,22 +5542,16 @@
       "year": "2013",
       "volume": "41",
       "source": "Nucleic Acids Res",
-      "issue": "",
       "fpage": "4336",
       "lpage": "43",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1093/nar/gkt135",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_380": {
+    "annotation_381": {
       "type": "emphasis",
-      "id": "annotation_380",
+      "id": "annotation_381",
       "path": [
         "article_citation_bib7",
         "title"
@@ -5808,22 +5595,16 @@
       "year": "1995",
       "volume": "92",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "3526",
       "lpage": "30",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1073/pnas.92.8.3526",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_381": {
+    "annotation_382": {
       "type": "emphasis",
-      "id": "annotation_381",
+      "id": "annotation_382",
       "path": [
         "article_citation_bib8",
         "title"
@@ -5859,17 +5640,11 @@
       "year": "2010",
       "volume": "24",
       "source": "Genes Dev",
-      "issue": "",
       "fpage": "1546",
       "lpage": "58",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1101/gad.573310",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib10": {
@@ -5901,17 +5676,11 @@
       "year": "2012",
       "volume": "45",
       "source": "Mol Cell",
-      "issue": "",
       "fpage": "814",
       "lpage": "25",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.molcel.2012.01.017",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib11": {
@@ -5943,17 +5712,11 @@
       "year": "2010",
       "volume": "20",
       "source": "Curr Biol",
-      "issue": "",
       "fpage": "957",
       "lpage": "63",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.cub.2010.04.018",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib12": {
@@ -5977,22 +5740,15 @@
       "year": "1995",
       "volume": "14",
       "source": "EMBO J",
-      "issue": "",
       "fpage": "2385",
       "lpage": "92",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_382": {
+    "annotation_383": {
       "type": "emphasis",
-      "id": "annotation_382",
+      "id": "annotation_383",
       "path": [
         "article_citation_bib12",
         "title"
@@ -6020,17 +5776,11 @@
       "year": "2003",
       "volume": "12",
       "source": "Mol Cell",
-      "issue": "",
       "fpage": "711",
       "lpage": "21",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.molcel.2003.08.010",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib14": {
@@ -6066,17 +5816,11 @@
       "year": "2012",
       "volume": "337",
       "source": "Science",
-      "issue": "",
       "fpage": "816",
       "lpage": "21",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1126/science.1225829",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib15": {
@@ -6104,17 +5848,11 @@
       "year": "2000",
       "volume": "14",
       "source": "Genes Dev",
-      "issue": "",
       "fpage": "360",
       "lpage": "5",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1101/gad.14.3.360",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib16": {
@@ -6134,17 +5872,11 @@
       "year": "2009",
       "volume": "459",
       "source": "Nature",
-      "issue": "",
       "fpage": "1150",
       "lpage": "3",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nature08033",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib38": {
@@ -6160,17 +5892,11 @@
       "year": "2008",
       "volume": "7",
       "source": "DNA Repair (Amst)",
-      "issue": "",
       "fpage": "686",
       "lpage": "93",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.dnarep.2007.12.008",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib17": {
@@ -6206,17 +5932,11 @@
       "year": "2003",
       "volume": "423",
       "source": "Nature",
-      "issue": "",
       "fpage": "305",
       "lpage": "9",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nature01577",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib18": {
@@ -6236,17 +5956,11 @@
       "year": "2005",
       "volume": "122",
       "source": "Cell",
-      "issue": "",
       "fpage": "365",
       "lpage": "78",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.cell.2005.06.008",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib19": {
@@ -6262,22 +5976,16 @@
       "year": "1989",
       "volume": "86",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "4430",
       "lpage": "4",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1073/pnas.86.12.4430",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_383": {
+    "annotation_384": {
       "type": "emphasis",
-      "id": "annotation_383",
+      "id": "annotation_384",
       "path": [
         "article_citation_bib19",
         "title"
@@ -6321,17 +6029,11 @@
       "year": "2011",
       "volume": "41",
       "source": "Mol Cell",
-      "issue": "",
       "fpage": "21",
       "lpage": "32",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.molcel.2010.12.007",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib21": {
@@ -6363,17 +6065,11 @@
       "year": "2012",
       "volume": "17",
       "source": "Genes Cells",
-      "issue": "",
       "fpage": "218",
       "lpage": "33",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1111/j.1365-2443.2012.01583.x",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib22": {
@@ -6409,17 +6105,11 @@
       "year": "2009",
       "volume": "35",
       "source": "Mol Cell",
-      "issue": "",
       "fpage": "228",
       "lpage": "39",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.molcel.2009.06.021",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib23": {
@@ -6447,17 +6137,11 @@
       "year": "2004",
       "volume": "23",
       "source": "Oncogene",
-      "issue": "",
       "fpage": "546",
       "lpage": "53",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/sj.onc.1207098",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib24": {
@@ -6489,17 +6173,11 @@
       "year": "2010",
       "volume": "30",
       "source": "Mol Cell Biol",
-      "issue": "",
       "fpage": "146",
       "lpage": "59",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1128/MCB.00897-09",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib25": {
@@ -6519,17 +6197,11 @@
       "year": "1984",
       "volume": "37",
       "source": "Cell",
-      "issue": "",
       "fpage": "67",
       "lpage": "75",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/0092-8674(84)90301-5",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib26": {
@@ -6565,17 +6237,11 @@
       "year": "2010",
       "volume": "39",
       "source": "Mol Cell",
-      "issue": "",
       "fpage": "862",
       "lpage": "72",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.molcel.2010.08.028",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib27": {
@@ -6611,17 +6277,11 @@
       "year": "2004",
       "volume": "14",
       "source": "Curr Biol",
-      "issue": "",
       "fpage": "9",
       "lpage": "9",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.cub.2004.09.047",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib28": {
@@ -6641,17 +6301,11 @@
       "year": "2000",
       "volume": "275",
       "source": "J Biol Chem",
-      "issue": "",
       "fpage": "15895",
       "lpage": "904",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1074/jbc.M910244199",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib29": {
@@ -6687,17 +6341,11 @@
       "year": "2012",
       "volume": "26",
       "source": "Genes Dev",
-      "issue": "",
       "fpage": "163",
       "lpage": "75",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1101/gad.179721.111",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib30": {
@@ -6721,17 +6369,11 @@
       "year": "2003",
       "volume": "12",
       "source": "Mol Cell",
-      "issue": "",
       "fpage": "209",
       "lpage": "19",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/S1097-2765(03)00269-7",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib31": {
@@ -6747,17 +6389,11 @@
       "year": "1994",
       "volume": "265",
       "source": "Science",
-      "issue": "",
       "fpage": "1241",
       "lpage": "3",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1126/science.8066464",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib32": {
@@ -6793,17 +6429,11 @@
       "year": "2009",
       "volume": "11",
       "source": "Nat Cell Biol",
-      "issue": "",
       "fpage": "1315",
       "lpage": "24",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/ncb1984",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib33": {
@@ -6839,17 +6469,11 @@
       "year": "2004",
       "volume": "16",
       "source": "Mol Cell",
-      "issue": "",
       "fpage": "991",
       "lpage": "1002",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.molcel.2004.11.027",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib34": {
@@ -6877,17 +6501,11 @@
       "year": "2011",
       "volume": "44",
       "source": "Mol Cell",
-      "issue": "",
       "fpage": "978",
       "lpage": "88",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.molcel.2011.10.017",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib35": {
@@ -6923,17 +6541,11 @@
       "year": "2005",
       "volume": "121",
       "source": "Cell",
-      "issue": "",
       "fpage": "725",
       "lpage": "37",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.cell.2005.04.030",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib36": {
@@ -6953,22 +6565,16 @@
       "year": "2000",
       "volume": "14",
       "source": "Genes Dev",
-      "issue": "",
       "fpage": "740",
       "lpage": "9",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1101/gad.14.6.740",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_384": {
+    "annotation_385": {
       "type": "emphasis",
-      "id": "annotation_384",
+      "id": "annotation_385",
       "path": [
         "article_citation_bib36",
         "title"
@@ -6996,17 +6602,11 @@
       "year": "2000",
       "volume": "408",
       "source": "Nature",
-      "issue": "",
       "fpage": "433",
       "lpage": "9",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/35044005",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "sub-article": {

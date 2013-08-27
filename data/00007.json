@@ -53,61 +53,63 @@
         "paragraph_656",
         "heading_s2-8",
         "paragraph_664",
+        "paragraph_705",
+        "paragraph_716",
         "heading_s3",
-        "paragraph_704",
+        "paragraph_724",
         "heading_s3-1",
-        "paragraph_714",
+        "paragraph_734",
         "heading_s3-2",
-        "paragraph_732",
-        "paragraph_733",
+        "paragraph_752",
+        "paragraph_753",
         "heading_s3-3",
-        "paragraph_739",
-        "paragraph_749",
+        "paragraph_759",
+        "paragraph_769",
         "heading_s3-4",
-        "paragraph_757",
+        "paragraph_777",
         "heading_s4",
         "heading_s4-1",
-        "paragraph_767",
-        "paragraph_776",
+        "paragraph_787",
+        "paragraph_796",
         "heading_s4-2",
-        "paragraph_790",
+        "paragraph_810",
         "heading_s4-3",
-        "paragraph_807",
-        "paragraph_818",
+        "paragraph_827",
+        "paragraph_838",
         "heading_s4-4",
-        "paragraph_825",
+        "paragraph_845",
         "heading_s4-5",
-        "paragraph_829",
+        "paragraph_849",
         "heading_s4-6",
-        "paragraph_834",
+        "paragraph_854",
         "heading_s4-7",
-        "paragraph_844",
-        "paragraph_848",
+        "paragraph_864",
+        "paragraph_868",
         "heading_s4-8",
-        "paragraph_855",
-        "paragraph_857",
-        "paragraph_863",
-        "paragraph_873",
+        "paragraph_875",
+        "paragraph_877",
+        "paragraph_883",
+        "paragraph_893",
         "heading_s4-9",
-        "paragraph_880",
-        "paragraph_897",
         "paragraph_900",
+        "paragraph_917",
+        "paragraph_920",
         "heading_s4-10",
-        "paragraph_905",
+        "paragraph_925",
         "heading_s4-11",
-        "paragraph_914",
-        "heading_s4-12",
-        "paragraph_924",
-        "heading_s4-13",
         "paragraph_934",
-        "heading_s4-14",
-        "paragraph_939",
-        "heading_s4-15",
+        "heading_s4-12",
         "paragraph_944",
-        "paragraph_949",
-        "paragraph_953",
+        "heading_s4-13",
+        "paragraph_954",
+        "heading_s4-14",
+        "paragraph_959",
+        "heading_s4-15",
+        "paragraph_964",
+        "paragraph_969",
+        "paragraph_973",
         "heading_s4-16",
-        "paragraph_955",
+        "paragraph_975",
         "sub-article",
         "sub-article"
       ]
@@ -130,6 +132,9 @@
         "image_fig9",
         "image_fig10",
         "video_video1",
+        "video_video2",
+        "video_video3",
+        "video_video4",
         "table_tbl4"
       ]
     },
@@ -220,7 +225,6 @@
       "accepted_on": "2012-07-11",
       "published_on": "2012-10-15",
       "journal": "eLife",
-      "article_type": "",
       "keywords": [
         "Nicotiana attenuata",
         "HIPV (herbivory-induced plant volatile)",
@@ -236,10 +240,9 @@
         "Genomics and evolutionary biology",
         "Plant biology"
       ],
-      "pdf_link": "",
-      "xml_link": "",
-      "json_link": "",
-      "doi": ""
+      "xml_link": "https://s3.amazonaws.com/elife-cdn/elife-articles/00007/elife00007.xml",
+      "json_link": "https://s3.amazonaws.com/elife-cdn/elife-articles/00007/00007.json",
+      "doi": "http://dx.doi.org/10.7554/eLife.00007"
     },
     "annotation_1": {
       "type": "emphasis",
@@ -261,9 +264,7 @@
       "last-name": "Schuman",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, acquisition of data, analysis and interpretation of data, and drafting or revising the article",
-      "email": "",
       "funding": []
     },
     "person_author_1400": {
@@ -273,9 +274,7 @@
       "last-name": "Barthel",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, acquisition of data, analysis and interpretation of data, and drafting or revising the article",
-      "email": "",
       "funding": []
     },
     "person_author_1013": {
@@ -285,7 +284,6 @@
       "last-name": "Baldwin",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, acquisition of data, analysis and interpretation of data, and drafting or revising the article",
       "email": "email_cor1",
       "funding": []
@@ -295,9 +293,7 @@
       "id": "institution_aff1",
       "name": "Max Planck Institute for Chemical Ecology",
       "city": "Jena",
-      "country": "Germany",
-      "email": "",
-      "image": ""
+      "country": "Germany"
     },
     "person_2": {
       "type": "person",
@@ -306,9 +302,6 @@
       "last-name": "Weigel",
       "role": "editor",
       "affiliations": [],
-      "image": "",
-      "contribution": "",
-      "email": "",
       "funding": []
     },
     "info:review": {
@@ -323,7 +316,6 @@
     "email_cor1": {
       "type": "email",
       "id": "email_cor1",
-      "node": "",
       "email": "baldwin@ice.mpg.de"
     },
     "info:copyright": {
@@ -583,8 +575,6 @@
       "type": "funding",
       "id": "funding_par_1",
       "institution": "Max Planck Society",
-      "accession": "",
-      "person": "",
       "given-names": "Ian",
       "last-name": "Baldwin"
     },
@@ -599,8 +589,7 @@
     },
     "paragraph_27": {
       "type": "paragraph",
-      "id": "paragraph_27",
-      "content": ""
+      "id": "paragraph_27"
     },
     "heading_s1": {
       "type": "heading",
@@ -2149,19 +2138,11 @@
       "type": "image",
       "id": "image_fig1",
       "label": "Figure 1.",
-      "url": "",
-      "object_id": "F1",
-      "title": "",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00007/svg/elife00007f001.svg",
       "doi": "http://dx.doi.org/10.7554/eLife.00007.003",
       "caption": "paragraph_image_fig1",
-      "graphic_id": "elife00007f001"
+      "graphic_id": "elife00007f001",
+      "format": "image"
     },
     "paragraph_image_fig1": {
       "type": "paragraph",
@@ -3157,19 +3138,11 @@
       "type": "image",
       "id": "image_fig2",
       "label": "Figure 2.",
-      "url": "",
-      "object_id": "F2",
-      "title": "",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00007/svg/elife00007f002.svg",
       "doi": "http://dx.doi.org/10.7554/eLife.00007.004",
       "caption": "paragraph_image_fig2",
-      "graphic_id": "elife00007f002"
+      "graphic_id": "elife00007f002",
+      "format": "image"
     },
     "paragraph_image_fig2": {
       "type": "paragraph",
@@ -3336,19 +3309,11 @@
       "type": "image",
       "id": "image_fig3",
       "label": "Figure 3.",
-      "url": "",
-      "object_id": "F3",
-      "title": "",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00007/svg/elife00007f003.svg",
       "doi": "http://dx.doi.org/10.7554/eLife.00007.005",
       "caption": "paragraph_image_fig3",
-      "graphic_id": "elife00007f003"
+      "graphic_id": "elife00007f003",
+      "format": "image"
     },
     "paragraph_image_fig3": {
       "type": "paragraph",
@@ -4254,19 +4219,11 @@
       "type": "image",
       "id": "image_fig4",
       "label": "Figure 4.",
-      "url": "",
-      "object_id": "F4",
-      "title": "",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00007/svg/elife00007f004.svg",
       "doi": "http://dx.doi.org/10.7554/eLife.00007.006",
       "caption": "paragraph_image_fig4",
-      "graphic_id": "elife00007f004"
+      "graphic_id": "elife00007f004",
+      "format": "image"
     },
     "paragraph_image_fig4": {
       "type": "paragraph",
@@ -4582,11 +4539,9 @@
       "id": "table_tbl1",
       "label": "Table 1.",
       "content": "<table><thead><tr><td>Component</td><td>Nanogram/20 μL lanolin</td></tr></thead><tbody><tr><td>(<em>Z</em>)-hex-3-enal</td><td>3530</td></tr><tr><td>(<em>E</em>)-hex-2-enal</td><td>2690</td></tr><tr><td>(<em>Z</em>)-hex-3-en-1-ol</td><td>1780</td></tr><tr><td>(<em>E</em>)-hex-2-en-1-ol</td><td>2440</td></tr><tr><td>(<em>Z</em>)-hex-3-enyl acetate</td><td>46.6</td></tr><tr><td>(<em>E</em>)-hex-2-enyl acetate</td><td>35.5</td></tr><tr><td>(<em>Z</em>)-hex-3-enyl propanoate</td><td>9.00</td></tr><tr><td>(<em>E</em>)-hex-2-enyl propanoate</td><td>8.08</td></tr><tr><td>(<em>Z</em>)-hex-3-enyl butanoate</td><td>97.0</td></tr><tr><td>(<em>E</em>)-hex-2-enyl butanoate</td><td>35.6</td></tr></tbody></table>",
-      "title": "",
       "footers": [],
       "doi": "http://dx.doi.org/10.7554/eLife.00007.007",
-      "caption": "paragraph_table_tbl1",
-      "format": ""
+      "caption": "paragraph_table_tbl1"
     },
     "paragraph_table_tbl1": {
       "type": "paragraph",
@@ -4622,26 +4577,17 @@
     "footer_334": {
       "type": "footer",
       "id": "footer_334",
-      "content": "Pure GLVs were diluted in 1 mL of hexane and mixed into 14 mL of lanolin to yield the amount shown per 20 μL, representing the emission per g leaf material within the first 20 minutes of W+OS elicitation. Lanolin containing an equivalent amount of hexane was used as a control.",
-      "label": ""
+      "content": "Pure GLVs were diluted in 1 mL of hexane and mixed into 14 mL of lanolin to yield the amount shown per 20 μL, representing the emission per g leaf material within the first 20 minutes of W+OS elicitation. Lanolin containing an equivalent amount of hexane was used as a control."
     },
     "image_fig5": {
       "type": "image",
       "id": "image_fig5",
       "label": "Figure 5.",
-      "url": "",
-      "object_id": "F5",
-      "title": "",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00007/svg/elife00007f005.svg",
       "doi": "http://dx.doi.org/10.7554/eLife.00007.008",
       "caption": "paragraph_image_fig5",
-      "graphic_id": "elife00007f005"
+      "graphic_id": "elife00007f005",
+      "format": "image"
     },
     "paragraph_image_fig5": {
       "type": "paragraph",
@@ -5334,11 +5280,9 @@
       "id": "table_tbl2",
       "label": "Table 2.",
       "content": "<table><thead><tr><td>Experiment</td><td>Genotype</td><td><em>Geocoris</em> spp. per day (n)</td><td><strong>Plants (n)</strong></td></tr></thead><tbody><tr><td><em>Larval predation</em></td><td><em>Dates</em></td><td>May</td><td>21</td><td>22</td><td></td><td></td><td></td></tr><tr><td>May 21–23, 2011</td><td>WT</td><td></td><td>3</td><td>4</td><td></td><td></td><td>19</td></tr><tr><td></td><td>ir<em>PI</em></td><td></td><td>6</td><td>6</td><td></td><td></td><td>24</td></tr><tr><td></td><td>ir<em>LOX2</em></td><td></td><td>6</td><td>4</td><td></td><td></td><td>20</td></tr><tr><td></td><td>hemi-ir<em>LOX2</em></td><td></td><td>8</td><td>2</td><td></td><td></td><td>20</td></tr><tr><td></td><td>Total</td><td></td><td><strong>23</strong></td><td><strong>16</strong></td><td></td><td></td><td><strong>83</strong></td></tr><tr><td><em>Egg predation</em></td><td>Dates</td><td>June</td><td>3</td><td>4</td><td>5</td><td>7</td><td></td></tr><tr><td>June 2–6, 2011</td><td>WT</td><td></td><td>2</td><td>5</td><td>2</td><td>1</td><td>18</td></tr><tr><td></td><td>ir<em>PI</em></td><td></td><td>3</td><td>7</td><td>1</td><td>5</td><td>21</td></tr><tr><td></td><td>ir<em>LOX2</em></td><td></td><td>4</td><td>2</td><td>0</td><td>3</td><td>21</td></tr><tr><td></td><td>hemi-ir<em>LOX2</em></td><td></td><td>1</td><td>1</td><td>2</td><td>2</td><td>24</td></tr><tr><td></td><td>Total</td><td></td><td><strong>10</strong></td><td><strong>15</strong></td><td><strong>5</strong></td><td><strong>11</strong></td><td><strong>84</strong></td></tr></tbody></table>",
-      "title": "",
       "footers": [],
       "doi": "http://dx.doi.org/10.7554/eLife.00007.009",
-      "caption": "paragraph_table_tbl2",
-      "format": ""
+      "caption": "paragraph_table_tbl2"
     },
     "paragraph_table_tbl2": {
       "type": "paragraph",
@@ -5374,8 +5318,7 @@
     "footer_390": {
       "type": "footer",
       "id": "footer_390",
-      "content": "Numbers are shown as subtotals for each plant genotype and grand totals per day (in bold).",
-      "label": ""
+      "content": "Numbers are shown as subtotals for each plant genotype and grand totals per day (in bold)."
     },
     "paragraph_391": {
       "type": "paragraph",
@@ -5845,19 +5788,11 @@
       "type": "image",
       "id": "image_fig6",
       "label": "Figure 6.",
-      "url": "",
-      "object_id": "F6",
-      "title": "",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00007/svg/elife00007f006.svg",
       "doi": "http://dx.doi.org/10.7554/eLife.00007.010",
       "caption": "paragraph_image_fig6",
-      "graphic_id": "elife00007f006"
+      "graphic_id": "elife00007f006",
+      "format": "image"
     },
     "paragraph_image_fig6": {
       "type": "paragraph",
@@ -6194,11 +6129,9 @@
       "id": "table_tbl3",
       "label": "Table 3.",
       "content": "<table><tbody><tr><td rowspan=2>2010</td><td rowspan=2></td><td>Branches</td><td>Stem, buds, flowers</td><td rowspan=2 colspan=3></td><td rowspan=2 colspan=3></td><td rowspan=2 colspan=3></td></tr><tr><td>Mann–Whitney, Kruskal–Wallis</td><td>MANOVA, Wilks' lambda</td></tr><tr><td>Comparison</td><td>Genotype</td><td>df</td><td>χ<sup>2</sup></td><td>p*</td><td>df</td><td>F</td><td>p</td><td></td><td></td><td></td></tr><tr><td>Treatment</td><td>All</td><td>1</td><td>0.022</td><td>1.000</td><td>3, 148</td><td>0.463</td><td>0.709</td><td></td><td></td><td></td></tr><tr><td>Genotype</td><td>All</td><td>3</td><td>2.909</td><td>0.802</td><td>9, 360.344</td><td>1.186</td><td>0.303</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>Branches (n)</td><td>Rosette diameter (cm)</td><td>Stem length (cm)</td><td>Buds (n)</td><td>Flowers (n)</td></tr><tr><td>2011</td><td></td><td>Student's t-test</td><td>Student's t-test</td><td>MANOVA, Wilks' lambda</td><td>MANOVA, Wilks' lambda</td><td>MANOVA, Wilks' lambda</td></tr><tr><td>Comparison</td><td>Genotype</td><td>df</td><td>t</td><td>p</td><td>df</td><td>t</td><td>p</td><td>df</td><td>F</td><td>p</td><td>df</td><td>F</td><td>p</td><td>df</td><td>F</td><td>p</td></tr><tr><td rowspan=4>Treatment×time</td><td>WT</td><td>26</td><td>1.696</td><td>0.102</td><td>26</td><td>−0.870</td><td>0.932</td><td>5, 22</td><td>3.871</td><td><strong>0.011</strong></td><td>5, 22</td><td>3.188</td><td><strong>0.026</strong></td><td>3, 24</td><td>1.213</td><td>0.326</td></tr><tr><td>ir<em>PI</em></td><td>26</td><td>1.024</td><td>0.315</td><td>26</td><td>−0.161</td><td>0.873</td><td>5, 22</td><td>0.991</td><td>0.446</td><td>5, 22</td><td>0.656</td><td>0.660</td><td>5, 22</td><td>0.525</td><td>0.755</td></tr><tr><td>ir<em>LOX2</em></td><td>25</td><td>1.112</td><td>0.277</td><td>25</td><td>−0.058</td><td>0.954</td><td>5, 21</td><td>0.606</td><td>0.696</td><td>5, 21</td><td>0.535</td><td>0.748</td><td>5, 21</td><td>0.540</td><td>0.744</td></tr><tr><td>hemi-ir<em>LOX2</em></td><td>22</td><td>1.753</td><td>0.094</td><td>22</td><td>1.140</td><td>0.267</td><td>5, 18</td><td>1.118</td><td>0.386</td><td>5, 18</td><td>3.001</td><td><strong>0.038</strong></td><td>4, 19</td><td>0.723</td><td>0.587</td></tr></tbody></table>",
-      "title": "",
       "footers": [],
       "doi": "http://dx.doi.org/10.7554/eLife.00007.011",
-      "caption": "paragraph_table_tbl3",
-      "format": ""
+      "caption": "paragraph_table_tbl3"
     },
     "paragraph_table_tbl3": {
       "type": "paragraph",
@@ -6234,8 +6167,7 @@
     "footer_455": {
       "type": "footer",
       "id": "footer_455",
-      "content": "2010: Numbers of side branches (Mann–Whitney, Kruskal–Wallis), stem length, and final numbers of buds and flowers (MANOVA) were recorded in a single measurement at the end of M1 (Figure 4). Numbers of newly produced flowers were counted repeatedly upon flower removal, and Wilks' Lambda F values for the main effect of M. sexta feeding are shown from repeated-measures ANOVAs across all measurements; Wilks' F values for the M. sexta-by-time interaction were not significant. * Bonferroni-corrected p-values.",
-      "label": ""
+      "content": "2010: Numbers of side branches (Mann–Whitney, Kruskal–Wallis), stem length, and final numbers of buds and flowers (MANOVA) were recorded in a single measurement at the end of M1 (Figure 4). Numbers of newly produced flowers were counted repeatedly upon flower removal, and Wilks' Lambda F values for the main effect of M. sexta feeding are shown from repeated-measures ANOVAs across all measurements; Wilks' F values for the M. sexta-by-time interaction were not significant. * Bonferroni-corrected p-values."
     },
     "figure_reference_456": {
       "type": "figure_reference",
@@ -6311,19 +6243,11 @@
       "type": "image",
       "id": "image_fig7",
       "label": "Figure 7.",
-      "url": "",
-      "object_id": "F7",
-      "title": "",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00007/svg/elife00007f007.svg",
       "doi": "http://dx.doi.org/10.7554/eLife.00007.012",
       "caption": "paragraph_image_fig7",
-      "graphic_id": "elife00007f007"
+      "graphic_id": "elife00007f007",
+      "format": "image"
     },
     "paragraph_image_fig7": {
       "type": "paragraph",
@@ -7266,19 +7190,11 @@
       "type": "image",
       "id": "image_fig8",
       "label": "Figure 8.",
-      "url": "",
-      "object_id": "F8",
-      "title": "",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00007/svg/elife00007f008.svg",
       "doi": "http://dx.doi.org/10.7554/eLife.00007.013",
       "caption": "paragraph_image_fig8",
-      "graphic_id": "elife00007f008"
+      "graphic_id": "elife00007f008",
+      "format": "image"
     },
     "paragraph_image_fig8": {
       "type": "paragraph",
@@ -8135,19 +8051,11 @@
       "type": "image",
       "id": "image_fig9",
       "label": "Figure 9.",
-      "url": "",
-      "object_id": "F9",
-      "title": "",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00007/svg/elife00007f009.svg",
       "doi": "http://dx.doi.org/10.7554/eLife.00007.014",
       "caption": "paragraph_image_fig9",
-      "graphic_id": "elife00007f009"
+      "graphic_id": "elife00007f009",
+      "format": "image"
     },
     "paragraph_image_fig9": {
       "type": "paragraph",
@@ -9162,19 +9070,11 @@
       "type": "image",
       "id": "image_fig10",
       "label": "Figure 10.",
-      "url": "",
-      "object_id": "F10",
-      "title": "",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00007/svg/elife00007f010.svg",
       "doi": "http://dx.doi.org/10.7554/eLife.00007.015",
       "caption": "paragraph_image_fig10",
-      "graphic_id": "elife00007f010"
+      "graphic_id": "elife00007f010",
+      "format": "image"
     },
     "paragraph_image_fig10": {
       "type": "paragraph",
@@ -9496,22 +9396,306 @@
     "video_video1": {
       "type": "video",
       "id": "video_video1",
-      "label": "Video 4.",
-      "title": "",
+      "label": "Video 1.",
       "caption": "paragraph_video_video1",
-      "content_type": "",
-      "url_ogv": "http://static.movie-usa.glencoesoftware.com/ogv/10.7554/elife00007v004.ogv",
-      "url_jpg": "",
-      "url_mp4": "",
-      "doi": "http://dx.doi.org/10.7554/eLife.00007.016http://dx.doi.org/10.7554/eLife.00007.017http://dx.doi.org/10.7554/eLife.00007.018http://dx.doi.org/10.7554/eLife.00007.019",
-      "url": "http://static.movie-usa.glencoesoftware.com/mp4/10.7554/elife00007v004.mp4",
-      "poster": "http://static.movie-usa.glencoesoftware.com/jpg/10.7554/elife00007v004.jpg",
-      "graphic_id": "elife00007v004.AVI"
+      "url_ogv": "http://static.movie-usa.glencoesoftware.com/ogv/10.7554/elife00007v001.ogv",
+      "doi": "http://dx.doi.org/10.7554/eLife.00007.016",
+      "url": "http://static.movie-usa.glencoesoftware.com/mp4/10.7554/elife00007v001.mp4",
+      "poster": "http://static.movie-usa.glencoesoftware.com/jpg/10.7554/elife00007v001.jpg"
     },
     "paragraph_video_video1": {
       "type": "paragraph",
       "id": "paragraph_video_video1",
       "content": "On-plant assay, plant 7u, WT, June 18, 2011."
+    },
+    "video_video2": {
+      "type": "video",
+      "id": "video_video2",
+      "label": "Video 2.",
+      "caption": "paragraph_video_video2",
+      "url_ogv": "http://static.movie-usa.glencoesoftware.com/ogv/10.7554/elife00007v002.ogv",
+      "doi": "http://dx.doi.org/10.7554/eLife.00007.017",
+      "url": "http://static.movie-usa.glencoesoftware.com/mp4/10.7554/elife00007v002.mp4",
+      "poster": "http://static.movie-usa.glencoesoftware.com/jpg/10.7554/elife00007v002.jpg"
+    },
+    "paragraph_video_video2": {
+      "type": "paragraph",
+      "id": "paragraph_video_video2",
+      "content": "On-plant assay, plant 2o, irPI, June 18, 2011."
+    },
+    "annotation_704": {
+      "type": "emphasis",
+      "id": "annotation_704",
+      "path": [
+        "paragraph_video_video2",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        28,
+        30
+      ]
+    },
+    "paragraph_705": {
+      "type": "paragraph",
+      "id": "paragraph_705",
+      "content": "We were careful not to harm wild larvae so that we could monitor their natural mortality and consequences for plant reproduction (Figure 9). To more accurately imitate Geocoris spp. attack, we developed an off-plant assay with larvae from the laboratory M. sexta strain feeding on detached leaves from field-grown plants, in which size-matched larvae were poked, pierced and lifted using an insect pin to mimic the Geocoris spp. beak (Figure 10, Videos 3 and 4). Similarly to the on-plant assay, larvae fed on WT leaves were 50% less likely to successfully attack the insect pin, either when initially poked, or poked and lifted with the pin (N=20 first-instar larvae matched for size, p<0.05 in paired t-tests) (Figure 10). We also monitored recovery post-trial and found that WT-fed larvae ceased to grow for at least 24 hr after simulated attack, while irPI-fed larvae continued to grow (p=0.016 in Student's t-test); mortality did not differ (p=0.527 in Fisher's exact test) (Figure 10)."
+    },
+    "figure_reference_706": {
+      "type": "figure_reference",
+      "id": "figure_reference_706",
+      "path": [
+        "paragraph_705",
+        "content"
+      ],
+      "target": "image_fig9",
+      "range": [
+        130,
+        138
+      ]
+    },
+    "annotation_707": {
+      "type": "emphasis",
+      "id": "annotation_707",
+      "path": [
+        "paragraph_705",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        168,
+        176
+      ]
+    },
+    "annotation_708": {
+      "type": "emphasis",
+      "id": "annotation_708",
+      "path": [
+        "paragraph_705",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        254,
+        262
+      ]
+    },
+    "annotation_709": {
+      "type": "emphasis",
+      "id": "annotation_709",
+      "path": [
+        "paragraph_705",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        415,
+        423
+      ]
+    },
+    "figure_reference_710": {
+      "type": "figure_reference",
+      "id": "figure_reference_710",
+      "path": [
+        "paragraph_705",
+        "content"
+      ],
+      "target": "image_fig10",
+      "range": [
+        435,
+        444
+      ]
+    },
+    "figure_reference_711": {
+      "type": "figure_reference",
+      "id": "figure_reference_711",
+      "path": [
+        "paragraph_705",
+        "content"
+      ],
+      "target": "video_video3",
+      "range": [
+        446,
+        460
+      ]
+    },
+    "figure_reference_712": {
+      "type": "figure_reference",
+      "id": "figure_reference_712",
+      "path": [
+        "paragraph_705",
+        "content"
+      ],
+      "target": "image_fig10",
+      "range": [
+        713,
+        722
+      ]
+    },
+    "annotation_713": {
+      "type": "emphasis",
+      "id": "annotation_713",
+      "path": [
+        "paragraph_705",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        858,
+        860
+      ]
+    },
+    "figure_reference_714": {
+      "type": "figure_reference",
+      "id": "figure_reference_714",
+      "path": [
+        "paragraph_705",
+        "content"
+      ],
+      "target": "image_fig10",
+      "range": [
+        980,
+        989
+      ]
+    },
+    "video_video3": {
+      "type": "video",
+      "id": "video_video3",
+      "label": "Video 3.",
+      "caption": "paragraph_video_video3",
+      "url_ogv": "http://static.movie-usa.glencoesoftware.com/ogv/10.7554/elife00007v003.ogv",
+      "doi": "http://dx.doi.org/10.7554/eLife.00007.018",
+      "url": "http://static.movie-usa.glencoesoftware.com/mp4/10.7554/elife00007v003.mp4",
+      "poster": "http://static.movie-usa.glencoesoftware.com/jpg/10.7554/elife00007v003.jpg"
+    },
+    "paragraph_video_video3": {
+      "type": "paragraph",
+      "id": "paragraph_video_video3",
+      "content": "Off-plant assay, replicate 3, WT, June 24, 2011."
+    },
+    "video_video4": {
+      "type": "video",
+      "id": "video_video4",
+      "label": "Video 4.",
+      "caption": "paragraph_video_video4",
+      "url_ogv": "http://static.movie-usa.glencoesoftware.com/ogv/10.7554/elife00007v004.ogv",
+      "doi": "http://dx.doi.org/10.7554/eLife.00007.019",
+      "url": "http://static.movie-usa.glencoesoftware.com/mp4/10.7554/elife00007v004.mp4",
+      "poster": "http://static.movie-usa.glencoesoftware.com/jpg/10.7554/elife00007v004.jpg"
+    },
+    "paragraph_video_video4": {
+      "type": "paragraph",
+      "id": "paragraph_video_video4",
+      "content": "Off-plant assay, replicate 3, irPI, June 24, 2011."
+    },
+    "annotation_715": {
+      "type": "emphasis",
+      "id": "annotation_715",
+      "path": [
+        "paragraph_video_video4",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        32,
+        34
+      ]
+    },
+    "paragraph_716": {
+      "type": "paragraph",
+      "id": "paragraph_716",
+      "content": "Thus TPIs did not increase plant reproduction under attack from Manduca spp. in nature, but may support indirect defense by weakening the response of larvae to predator attack. The contradictory higher predation rates of Manduca spp. larvae from irPI than from WT plants (Figure 5) might reflect Geocoris spp.'s feeding preference, if irPI-fed larvae are more nutritious than WT-fed larvae (Kaplan and Thaler, 2011)."
+    },
+    "annotation_717": {
+      "type": "emphasis",
+      "id": "annotation_717",
+      "path": [
+        "paragraph_716",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        64,
+        71
+      ]
+    },
+    "annotation_718": {
+      "type": "emphasis",
+      "id": "annotation_718",
+      "path": [
+        "paragraph_716",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        221,
+        228
+      ]
+    },
+    "annotation_719": {
+      "type": "emphasis",
+      "id": "annotation_719",
+      "path": [
+        "paragraph_716",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        248,
+        250
+      ]
+    },
+    "figure_reference_720": {
+      "type": "figure_reference",
+      "id": "figure_reference_720",
+      "path": [
+        "paragraph_716",
+        "content"
+      ],
+      "target": "image_fig5",
+      "range": [
+        272,
+        280
+      ]
+    },
+    "annotation_721": {
+      "type": "emphasis",
+      "id": "annotation_721",
+      "path": [
+        "paragraph_716",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        296,
+        304
+      ]
+    },
+    "annotation_722": {
+      "type": "emphasis",
+      "id": "annotation_722",
+      "path": [
+        "paragraph_716",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        337,
+        339
+      ]
+    },
+    "citation_reference_723": {
+      "type": "citation_reference",
+      "id": "citation_reference_723",
+      "path": [
+        "paragraph_716",
+        "content"
+      ],
+      "target": "article_citation_bib26",
+      "range": [
+        391,
+        414
+      ]
     },
     "heading_s3": {
       "type": "heading",
@@ -9520,16 +9704,16 @@
       "content": "Discussion",
       "nodes": []
     },
-    "paragraph_704": {
+    "paragraph_724": {
       "type": "paragraph",
-      "id": "paragraph_704",
+      "id": "paragraph_724",
       "content": "Our data demonstrate that herbivore-induced GLV emissions function as indirect defenses by increasing predation of Manduca spp. twofold, resulting in a twofold increase in bud and flower production for N. attenuata in its native habitat. In contrast, there was no positive effect of TPIs on plant growth and reproduction and no significant effect of TPIs on Manduca spp. growth under natural conditions; however, TPIs may support indirect defense by weakening the response of larvae to predator attack. Although this indicates that predation rates from irPI plants should be reduced, we observed a tendency towards higher predation rates from irPI than from WT plants; this could reflect Geocoris spp.'s preference if irPI-fed larvae are more nutritious than WT-fed larvae (Kaplan and Thaler, 2011)."
     },
-    "annotation_705": {
+    "annotation_725": {
       "type": "emphasis",
-      "id": "annotation_705",
+      "id": "annotation_725",
       "path": [
-        "paragraph_704",
+        "paragraph_724",
         "content"
       ],
       "target": null,
@@ -9538,11 +9722,11 @@
         122
       ]
     },
-    "annotation_706": {
+    "annotation_726": {
       "type": "emphasis",
-      "id": "annotation_706",
+      "id": "annotation_726",
       "path": [
-        "paragraph_704",
+        "paragraph_724",
         "content"
       ],
       "target": null,
@@ -9551,11 +9735,11 @@
         214
       ]
     },
-    "annotation_707": {
+    "annotation_727": {
       "type": "emphasis",
-      "id": "annotation_707",
+      "id": "annotation_727",
       "path": [
-        "paragraph_704",
+        "paragraph_724",
         "content"
       ],
       "target": null,
@@ -9564,11 +9748,11 @@
         365
       ]
     },
-    "annotation_708": {
+    "annotation_728": {
       "type": "emphasis",
-      "id": "annotation_708",
+      "id": "annotation_728",
       "path": [
-        "paragraph_704",
+        "paragraph_724",
         "content"
       ],
       "target": null,
@@ -9577,11 +9761,11 @@
         557
       ]
     },
-    "annotation_709": {
+    "annotation_729": {
       "type": "emphasis",
-      "id": "annotation_709",
+      "id": "annotation_729",
       "path": [
-        "paragraph_704",
+        "paragraph_724",
         "content"
       ],
       "target": null,
@@ -9590,11 +9774,11 @@
         647
       ]
     },
-    "annotation_710": {
+    "annotation_730": {
       "type": "emphasis",
-      "id": "annotation_710",
+      "id": "annotation_730",
       "path": [
-        "paragraph_704",
+        "paragraph_724",
         "content"
       ],
       "target": null,
@@ -9603,11 +9787,11 @@
         696
       ]
     },
-    "annotation_711": {
+    "annotation_731": {
       "type": "emphasis",
-      "id": "annotation_711",
+      "id": "annotation_731",
       "path": [
-        "paragraph_704",
+        "paragraph_724",
         "content"
       ],
       "target": null,
@@ -9616,11 +9800,11 @@
         722
       ]
     },
-    "citation_reference_712": {
+    "citation_reference_732": {
       "type": "citation_reference",
-      "id": "citation_reference_712",
+      "id": "citation_reference_732",
       "path": [
-        "paragraph_704",
+        "paragraph_724",
         "content"
       ],
       "target": "article_citation_bib26",
@@ -9636,9 +9820,9 @@
       "content": "WT levels of TPIs in hemi-irLOX2 plants are likely due to gene dosage effects",
       "nodes": []
     },
-    "annotation_713": {
+    "annotation_733": {
       "type": "emphasis",
-      "id": "annotation_713",
+      "id": "annotation_733",
       "path": [
         "heading_s3-1",
         "content"
@@ -9649,16 +9833,16 @@
         32
       ]
     },
-    "paragraph_714": {
+    "paragraph_734": {
       "type": "paragraph",
-      "id": "paragraph_714",
+      "id": "paragraph_734",
       "content": "The hemi-irLOX2 plants used in this study were created by crossing homozygous irPI and irLOX2 plants, but the irPI construct was not active in the hemizygous state (Figure 1). We continued to use this cross for its less severely reduced GLV production in comparison to homozygous irLOX2 plants (Figures 2 and 3), which likely permitted growth and reproduction comparable to irPI and WT in 2011 that was essential for plant matching prior to the final assays of Manduca spp. mortality and plant reproduction (M4, Figures 4 and 9). It is common molecular biology knowledge that functional RNAi constructs may be rendered ineffective as a result of insufficient gene dosage, for example, Travella et al. (2006) and references therein, which may occur when an RNAi construct is present in the hemizygous state (García-Pérez et al., 2004). The 35S promoter which drives the transcription of the RNAi construct may also be methylated: an epigenetic effect which can reduce the dose of RNAi in individual plants within a single transformed line (A Weinhold, unpublished data). This may have occurred in the irPI parent used for the creation of the hemi-irLOX2 line, although loss of activity of the irPI construct was not observed in the homozygous irPI line over the lifetime of plants in the field (Figure 1)."
     },
-    "annotation_715": {
+    "annotation_735": {
       "type": "emphasis",
-      "id": "annotation_715",
+      "id": "annotation_735",
       "path": [
-        "paragraph_714",
+        "paragraph_734",
         "content"
       ],
       "target": null,
@@ -9667,11 +9851,11 @@
         15
       ]
     },
-    "annotation_716": {
+    "annotation_736": {
       "type": "emphasis",
-      "id": "annotation_716",
+      "id": "annotation_736",
       "path": [
-        "paragraph_714",
+        "paragraph_734",
         "content"
       ],
       "target": null,
@@ -9680,11 +9864,11 @@
         82
       ]
     },
-    "annotation_717": {
+    "annotation_737": {
       "type": "emphasis",
-      "id": "annotation_717",
+      "id": "annotation_737",
       "path": [
-        "paragraph_714",
+        "paragraph_734",
         "content"
       ],
       "target": null,
@@ -9693,11 +9877,11 @@
         93
       ]
     },
-    "annotation_718": {
+    "annotation_738": {
       "type": "emphasis",
-      "id": "annotation_718",
+      "id": "annotation_738",
       "path": [
-        "paragraph_714",
+        "paragraph_734",
         "content"
       ],
       "target": null,
@@ -9706,11 +9890,11 @@
         114
       ]
     },
-    "figure_reference_719": {
+    "figure_reference_739": {
       "type": "figure_reference",
-      "id": "figure_reference_719",
+      "id": "figure_reference_739",
       "path": [
-        "paragraph_714",
+        "paragraph_734",
         "content"
       ],
       "target": "image_fig1",
@@ -9719,11 +9903,11 @@
         173
       ]
     },
-    "annotation_720": {
+    "annotation_740": {
       "type": "emphasis",
-      "id": "annotation_720",
+      "id": "annotation_740",
       "path": [
-        "paragraph_714",
+        "paragraph_734",
         "content"
       ],
       "target": null,
@@ -9732,11 +9916,11 @@
         286
       ]
     },
-    "figure_reference_721": {
+    "figure_reference_741": {
       "type": "figure_reference",
-      "id": "figure_reference_721",
+      "id": "figure_reference_741",
       "path": [
-        "paragraph_714",
+        "paragraph_734",
         "content"
       ],
       "target": "image_fig2",
@@ -9745,11 +9929,11 @@
         310
       ]
     },
-    "annotation_722": {
+    "annotation_742": {
       "type": "emphasis",
-      "id": "annotation_722",
+      "id": "annotation_742",
       "path": [
-        "paragraph_714",
+        "paragraph_734",
         "content"
       ],
       "target": null,
@@ -9758,11 +9942,11 @@
         378
       ]
     },
-    "annotation_723": {
+    "annotation_743": {
       "type": "emphasis",
-      "id": "annotation_723",
+      "id": "annotation_743",
       "path": [
-        "paragraph_714",
+        "paragraph_734",
         "content"
       ],
       "target": null,
@@ -9771,11 +9955,11 @@
         468
       ]
     },
-    "figure_reference_724": {
+    "figure_reference_744": {
       "type": "figure_reference",
-      "id": "figure_reference_724",
+      "id": "figure_reference_744",
       "path": [
-        "paragraph_714",
+        "paragraph_734",
         "content"
       ],
       "target": "image_fig4",
@@ -9784,11 +9968,11 @@
         527
       ]
     },
-    "citation_reference_725": {
+    "citation_reference_745": {
       "type": "citation_reference",
-      "id": "citation_reference_725",
+      "id": "citation_reference_745",
       "path": [
-        "paragraph_714",
+        "paragraph_734",
         "content"
       ],
       "target": "article_citation_bib52",
@@ -9797,11 +9981,11 @@
         707
       ]
     },
-    "citation_reference_726": {
+    "citation_reference_746": {
       "type": "citation_reference",
-      "id": "citation_reference_726",
+      "id": "citation_reference_746",
       "path": [
-        "paragraph_714",
+        "paragraph_734",
         "content"
       ],
       "target": "article_citation_bib14",
@@ -9810,11 +9994,11 @@
         832
       ]
     },
-    "annotation_727": {
+    "annotation_747": {
       "type": "emphasis",
-      "id": "annotation_727",
+      "id": "annotation_747",
       "path": [
-        "paragraph_714",
+        "paragraph_734",
         "content"
       ],
       "target": null,
@@ -9823,11 +10007,11 @@
         1104
       ]
     },
-    "annotation_728": {
+    "annotation_748": {
       "type": "emphasis",
-      "id": "annotation_728",
+      "id": "annotation_748",
       "path": [
-        "paragraph_714",
+        "paragraph_734",
         "content"
       ],
       "target": null,
@@ -9836,11 +10020,11 @@
         1152
       ]
     },
-    "annotation_729": {
+    "annotation_749": {
       "type": "emphasis",
-      "id": "annotation_729",
+      "id": "annotation_749",
       "path": [
-        "paragraph_714",
+        "paragraph_734",
         "content"
       ],
       "target": null,
@@ -9849,11 +10033,11 @@
         1196
       ]
     },
-    "annotation_730": {
+    "annotation_750": {
       "type": "emphasis",
-      "id": "annotation_730",
+      "id": "annotation_750",
       "path": [
-        "paragraph_714",
+        "paragraph_734",
         "content"
       ],
       "target": null,
@@ -9862,11 +10046,11 @@
         1246
       ]
     },
-    "figure_reference_731": {
+    "figure_reference_751": {
       "type": "figure_reference",
-      "id": "figure_reference_731",
+      "id": "figure_reference_751",
       "path": [
-        "paragraph_714",
+        "paragraph_734",
         "content"
       ],
       "target": "image_fig1",
@@ -9882,21 +10066,21 @@
       "content": "Our best measures of reproduction for transgenic plants in the field demonstrate the positive effect of GLV-mediated indirect defense",
       "nodes": []
     },
-    "paragraph_732": {
+    "paragraph_752": {
       "type": "paragraph",
-      "id": "paragraph_732",
+      "id": "paragraph_752",
       "content": "Although the production of viable offspring is the accepted definition of Darwinian fitness, we are not permitted to allow transgenic plants to disperse ripe seed in the field, and measures to prevent seed dispersal, such as bagging meristems, strongly affect production of buds and flowers and can also affect seed viability by increasing temperature, and decreasing respiration and photosynthesis of reproductive tissue and associated green tissue."
     },
-    "paragraph_733": {
+    "paragraph_753": {
       "type": "paragraph",
-      "id": "paragraph_733",
+      "id": "paragraph_753",
       "content": "For field-grown N. attenuata plants, fewer than 5% of buds and flowers (in total) are aborted by healthy (not diseased) plants, and abortion seems always to be due to damage by insects (M C Schuman and I T Baldwin, personal observation, June 2010). Plants are self-compatible and more than 70% of seed set from plants in native populations results from fertilization via self-pollen (Sime and Baldwin, 2003). Thus numbers of buds and flowers correlate to lifetime seed capsule production, which in turn correlates to lifetime seed production, which has been used as a proxy measure of Darwinian fitness (Baldwin, 1998; van Loon et al., 2000; Hoballah and Turlings, 2001). The transgenic lines used do not vary in seed mass or their seedling viability under laboratory conditions."
     },
-    "annotation_734": {
+    "annotation_754": {
       "type": "emphasis",
-      "id": "annotation_734",
+      "id": "annotation_754",
       "path": [
-        "paragraph_733",
+        "paragraph_753",
         "content"
       ],
       "target": null,
@@ -9905,11 +10089,11 @@
         28
       ]
     },
-    "citation_reference_735": {
+    "citation_reference_755": {
       "type": "citation_reference",
-      "id": "citation_reference_735",
+      "id": "citation_reference_755",
       "path": [
-        "paragraph_733",
+        "paragraph_753",
         "content"
       ],
       "target": "article_citation_bib48",
@@ -9918,11 +10102,11 @@
         406
       ]
     },
-    "citation_reference_736": {
+    "citation_reference_756": {
       "type": "citation_reference",
-      "id": "citation_reference_736",
+      "id": "citation_reference_756",
       "path": [
-        "paragraph_733",
+        "paragraph_753",
         "content"
       ],
       "target": "article_citation_bib4",
@@ -9931,11 +10115,11 @@
         617
       ]
     },
-    "citation_reference_737": {
+    "citation_reference_757": {
       "type": "citation_reference",
-      "id": "citation_reference_737",
+      "id": "citation_reference_757",
       "path": [
-        "paragraph_733",
+        "paragraph_753",
         "content"
       ],
       "target": "article_citation_bib55",
@@ -9944,11 +10128,11 @@
         640
       ]
     },
-    "citation_reference_738": {
+    "citation_reference_758": {
       "type": "citation_reference",
-      "id": "citation_reference_738",
+      "id": "citation_reference_758",
       "path": [
-        "paragraph_733",
+        "paragraph_753",
         "content"
       ],
       "target": "article_citation_bib22",
@@ -9964,16 +10148,16 @@
       "content": "Meristem removal from plants before infestation M4 was necessary despite matching, and affected all plants similarly",
       "nodes": []
     },
-    "paragraph_739": {
+    "paragraph_759": {
       "type": "paragraph",
-      "id": "paragraph_739",
+      "id": "paragraph_759",
       "content": "During the 2011 experiment, we saw a large and reproducible difference in predation from GLV-emitting versus GLV-deficient plant genotypes, which was not observed in 2010 due to an absence of Geocoris spp. predators in that year. This difference in predation rate correlated to a difference in plant growth and reproduction which was also not observed in 2010. To rigorously test the consequences of GLV-mediated predation of Manduca spp. on plant reproduction, we selected triplets of WT, irPI and hemi-irLOX2 plants similar in size, previous reproductive output, apparent health, and prior damage to carry out Manduca spp. mortality and plant reproduction assays (M1 in 2010, M4 in 2011, Figure 4). We removed all reproductive meristems from matched plants in 2011 to allow us to follow plant reproduction over full Manduca spp. larval development without incurring ripe transgenic seed capsules. In 2010 (and during infestation M3 in 2011, Figure 4), we had removed and counted flowers regularly to track reproduction while avoiding ripe seed; this did not cause a difference in reproduction among genotypes (Figure 6), but we elected to avoid flower removal during infestation M4 by removing reproductive meristems prior to the beginning of the assay."
     },
-    "annotation_740": {
+    "annotation_760": {
       "type": "emphasis",
-      "id": "annotation_740",
+      "id": "annotation_760",
       "path": [
-        "paragraph_739",
+        "paragraph_759",
         "content"
       ],
       "target": null,
@@ -9982,11 +10166,11 @@
         200
       ]
     },
-    "annotation_741": {
+    "annotation_761": {
       "type": "emphasis",
-      "id": "annotation_741",
+      "id": "annotation_761",
       "path": [
-        "paragraph_739",
+        "paragraph_759",
         "content"
       ],
       "target": null,
@@ -9995,11 +10179,11 @@
         433
       ]
     },
-    "annotation_742": {
+    "annotation_762": {
       "type": "emphasis",
-      "id": "annotation_742",
+      "id": "annotation_762",
       "path": [
-        "paragraph_739",
+        "paragraph_759",
         "content"
       ],
       "target": null,
@@ -10008,11 +10192,11 @@
         494
       ]
     },
-    "annotation_743": {
+    "annotation_763": {
       "type": "emphasis",
-      "id": "annotation_743",
+      "id": "annotation_763",
       "path": [
-        "paragraph_739",
+        "paragraph_759",
         "content"
       ],
       "target": null,
@@ -10021,11 +10205,11 @@
         510
       ]
     },
-    "annotation_744": {
+    "annotation_764": {
       "type": "emphasis",
-      "id": "annotation_744",
+      "id": "annotation_764",
       "path": [
-        "paragraph_739",
+        "paragraph_759",
         "content"
       ],
       "target": null,
@@ -10034,11 +10218,11 @@
         619
       ]
     },
-    "figure_reference_745": {
+    "figure_reference_765": {
       "type": "figure_reference",
-      "id": "figure_reference_745",
+      "id": "figure_reference_765",
       "path": [
-        "paragraph_739",
+        "paragraph_759",
         "content"
       ],
       "target": "image_fig4",
@@ -10047,11 +10231,11 @@
         698
       ]
     },
-    "annotation_746": {
+    "annotation_766": {
       "type": "emphasis",
-      "id": "annotation_746",
+      "id": "annotation_766",
       "path": [
-        "paragraph_739",
+        "paragraph_759",
         "content"
       ],
       "target": null,
@@ -10060,11 +10244,11 @@
         825
       ]
     },
-    "figure_reference_747": {
+    "figure_reference_767": {
       "type": "figure_reference",
-      "id": "figure_reference_747",
+      "id": "figure_reference_767",
       "path": [
-        "paragraph_739",
+        "paragraph_759",
         "content"
       ],
       "target": "image_fig4",
@@ -10073,11 +10257,11 @@
         951
       ]
     },
-    "figure_reference_748": {
+    "figure_reference_768": {
       "type": "figure_reference",
-      "id": "figure_reference_748",
+      "id": "figure_reference_768",
       "path": [
-        "paragraph_739",
+        "paragraph_759",
         "content"
       ],
       "target": "image_fig6",
@@ -10086,16 +10270,16 @@
         1120
       ]
     },
-    "paragraph_749": {
+    "paragraph_769": {
       "type": "paragraph",
-      "id": "paragraph_749",
+      "id": "paragraph_769",
       "content": "The hemi-irLOX2 plants chosen in 2011 had produced more flowers than WT – but not more than irPI—prior to the start of infestation M4 (Figures 4 and 8). This did not correspond to more cuts on average for hemi-irLOX2 when removing reproductive meristems: meristems were cut at the bases of inflorescences which contained mostly buds, and the number of these did not differ for the plants chosen, nor did the number of side branches (Figure 8) which bore most reproductive meristems. Therefore, in the absence of additional effects during infestation M4, the reproduction of the matched hemi-irLOX2 plants should have been similar to that of WT and irPI."
     },
-    "annotation_750": {
+    "annotation_770": {
       "type": "emphasis",
-      "id": "annotation_750",
+      "id": "annotation_770",
       "path": [
-        "paragraph_749",
+        "paragraph_769",
         "content"
       ],
       "target": null,
@@ -10104,11 +10288,11 @@
         15
       ]
     },
-    "annotation_751": {
+    "annotation_771": {
       "type": "emphasis",
-      "id": "annotation_751",
+      "id": "annotation_771",
       "path": [
-        "paragraph_749",
+        "paragraph_769",
         "content"
       ],
       "target": null,
@@ -10117,11 +10301,11 @@
         96
       ]
     },
-    "figure_reference_752": {
+    "figure_reference_772": {
       "type": "figure_reference",
-      "id": "figure_reference_752",
+      "id": "figure_reference_772",
       "path": [
-        "paragraph_749",
+        "paragraph_769",
         "content"
       ],
       "target": "image_fig4",
@@ -10130,11 +10314,11 @@
         150
       ]
     },
-    "annotation_753": {
+    "annotation_773": {
       "type": "emphasis",
-      "id": "annotation_753",
+      "id": "annotation_773",
       "path": [
-        "paragraph_749",
+        "paragraph_769",
         "content"
       ],
       "target": null,
@@ -10143,11 +10327,11 @@
         216
       ]
     },
-    "figure_reference_754": {
+    "figure_reference_774": {
       "type": "figure_reference",
-      "id": "figure_reference_754",
+      "id": "figure_reference_774",
       "path": [
-        "paragraph_749",
+        "paragraph_769",
         "content"
       ],
       "target": "image_fig8",
@@ -10156,11 +10340,11 @@
         441
       ]
     },
-    "annotation_755": {
+    "annotation_775": {
       "type": "emphasis",
-      "id": "annotation_755",
+      "id": "annotation_775",
       "path": [
-        "paragraph_749",
+        "paragraph_769",
         "content"
       ],
       "target": null,
@@ -10169,11 +10353,11 @@
         597
       ]
     },
-    "annotation_756": {
+    "annotation_776": {
       "type": "emphasis",
-      "id": "annotation_756",
+      "id": "annotation_776",
       "path": [
-        "paragraph_749",
+        "paragraph_769",
         "content"
       ],
       "target": null,
@@ -10189,16 +10373,16 @@
       "content": "Conclusions and outlook",
       "nodes": []
     },
-    "paragraph_757": {
+    "paragraph_777": {
       "type": "paragraph",
-      "id": "paragraph_757",
+      "id": "paragraph_777",
       "content": "By indicating the long-sought indirect defensive function of HIPVs, these data set the stage for the use of HIPVs as part of integrated pest management strategies (IPM), which rely in part on recruiting biological control agents to reduce pesticide use (Horne and Page, 2008). These agents are usually naturally occurring generalist parasitoids and predators, such as Geocoris spp. (Eubanks and Denno, 1999, 2000; Allison and Hare, 2009; Allmann and Baldwin, 2010). HIPVs are produced by genotypes of most, if not all crop plants and IPM would benefit from selective breeding or engineering of HIPV emission (Kos et al., 2009) rather than relying on alternatives such as controlled release dispensers, which have mixed success and require large amounts of synthetic HIPVs (Kaplan, 2012). PIs may be employed to enhance the efficiency of indirect defense, especially combined with toxins like Bt that directly target herbivores and are safe for biological control agents. With growing concerns about field-evolved Bt resistance (Liu et al., 2010), indirect defenses promise an effective 'first line of defense' against agricultural pests, to which not even specialist herbivores are likely to rapidly evolve resistance."
     },
-    "citation_reference_758": {
+    "citation_reference_778": {
       "type": "citation_reference",
-      "id": "citation_reference_758",
+      "id": "citation_reference_778",
       "path": [
-        "paragraph_757",
+        "paragraph_777",
         "content"
       ],
       "target": "article_citation_bib23",
@@ -10207,11 +10391,11 @@
         274
       ]
     },
-    "annotation_759": {
+    "annotation_779": {
       "type": "emphasis",
-      "id": "annotation_759",
+      "id": "annotation_779",
       "path": [
-        "paragraph_757",
+        "paragraph_777",
         "content"
       ],
       "target": null,
@@ -10220,11 +10404,11 @@
         376
       ]
     },
-    "citation_reference_760": {
+    "citation_reference_780": {
       "type": "citation_reference",
-      "id": "citation_reference_760",
+      "id": "citation_reference_780",
       "path": [
-        "paragraph_757",
+        "paragraph_777",
         "content"
       ],
       "target": "article_citation_bib10",
@@ -10233,11 +10417,11 @@
         406
       ]
     },
-    "citation_reference_761": {
+    "citation_reference_781": {
       "type": "citation_reference",
-      "id": "citation_reference_761",
+      "id": "citation_reference_781",
       "path": [
-        "paragraph_757",
+        "paragraph_777",
         "content"
       ],
       "target": "article_citation_bib11",
@@ -10246,11 +10430,11 @@
         412
       ]
     },
-    "citation_reference_762": {
+    "citation_reference_782": {
       "type": "citation_reference",
-      "id": "citation_reference_762",
+      "id": "citation_reference_782",
       "path": [
-        "paragraph_757",
+        "paragraph_777",
         "content"
       ],
       "target": "article_citation_bib1",
@@ -10259,11 +10443,11 @@
         436
       ]
     },
-    "citation_reference_763": {
+    "citation_reference_783": {
       "type": "citation_reference",
-      "id": "citation_reference_763",
+      "id": "citation_reference_783",
       "path": [
-        "paragraph_757",
+        "paragraph_777",
         "content"
       ],
       "target": "article_citation_bib2",
@@ -10272,11 +10456,11 @@
         463
       ]
     },
-    "citation_reference_764": {
+    "citation_reference_784": {
       "type": "citation_reference",
-      "id": "citation_reference_764",
+      "id": "citation_reference_784",
       "path": [
-        "paragraph_757",
+        "paragraph_777",
         "content"
       ],
       "target": "article_citation_bib35",
@@ -10285,11 +10469,11 @@
         625
       ]
     },
-    "citation_reference_765": {
+    "citation_reference_785": {
       "type": "citation_reference",
-      "id": "citation_reference_765",
+      "id": "citation_reference_785",
       "path": [
-        "paragraph_757",
+        "paragraph_777",
         "content"
       ],
       "target": "article_citation_bib25",
@@ -10298,11 +10482,11 @@
         785
       ]
     },
-    "citation_reference_766": {
+    "citation_reference_786": {
       "type": "citation_reference",
-      "id": "citation_reference_766",
+      "id": "citation_reference_786",
       "path": [
-        "paragraph_757",
+        "paragraph_777",
         "content"
       ],
       "target": "article_citation_bib37",
@@ -10325,16 +10509,16 @@
       "content": "Plants, growth conditions and field plantations",
       "nodes": []
     },
-    "paragraph_767": {
+    "paragraph_787": {
       "type": "paragraph",
-      "id": "paragraph_767",
+      "id": "paragraph_787",
       "content": "Seed germination, glasshouse growth conditions, and the Agrobacterium tumefaciens (strain LBA 4404)–mediated transformation procedure have been described previously (Krügel et al., 2002). Seeds of the 31st generation of the inbred 'UT' line of Nicotiana attenuata (Torr. ex S. Wats.) were used as the wild-type plant in all experiments. For the field experiment, seedlings were transferred to 50 mm peat pellets (Jiffy) 15 days after germination and gradually hardened to the environmental conditions of high sunlight and low relative humidity over 10 days. Small, adapted, size-matched rosette-stage plants were transplanted into a field plot in a native habitat in Utah and watered thoroughly once at planting and as needed over the first 2 weeks until roots were established; all plants received the same watering regime in each year. WT, irPI, irLOX2 and hemi-irLOX2 plants were arranged in quadruplets (N=40–50) of one plant per genotype, with individuals 0.5 m apart, a distance sufficient to allow predators and herbivores to distinguish volatiles from neighboring plants (Kessler and Baldwin, 2001). Quadruplets were arranged so that no two adjacent plants were of the same genotype (Figure 4). In 2010, the field plot was a first-year plot located at latitude 37.141, longitude 114.027; in 2011, plants were planted at a second, older field site across a river from the first, located at latitude 37.146, longitude 114.020. Field plantations were conducted under APHIS permission numbers 06-242-3r-a3 (2010 and 2011) and 10-349-102r (2011)."
     },
-    "annotation_768": {
+    "annotation_788": {
       "type": "emphasis",
-      "id": "annotation_768",
+      "id": "annotation_788",
       "path": [
-        "paragraph_767",
+        "paragraph_787",
         "content"
       ],
       "target": null,
@@ -10343,11 +10527,11 @@
         81
       ]
     },
-    "citation_reference_769": {
+    "citation_reference_789": {
       "type": "citation_reference",
-      "id": "citation_reference_769",
+      "id": "citation_reference_789",
       "path": [
-        "paragraph_767",
+        "paragraph_787",
         "content"
       ],
       "target": "article_citation_bib36",
@@ -10356,11 +10540,11 @@
         185
       ]
     },
-    "annotation_770": {
+    "annotation_790": {
       "type": "emphasis",
-      "id": "annotation_770",
+      "id": "annotation_790",
       "path": [
-        "paragraph_767",
+        "paragraph_787",
         "content"
       ],
       "target": null,
@@ -10369,11 +10553,11 @@
         263
       ]
     },
-    "annotation_771": {
+    "annotation_791": {
       "type": "emphasis",
-      "id": "annotation_771",
+      "id": "annotation_791",
       "path": [
-        "paragraph_767",
+        "paragraph_787",
         "content"
       ],
       "target": null,
@@ -10382,11 +10566,11 @@
         846
       ]
     },
-    "annotation_772": {
+    "annotation_792": {
       "type": "emphasis",
-      "id": "annotation_772",
+      "id": "annotation_792",
       "path": [
-        "paragraph_767",
+        "paragraph_787",
         "content"
       ],
       "target": null,
@@ -10395,11 +10579,11 @@
         854
       ]
     },
-    "annotation_773": {
+    "annotation_793": {
       "type": "emphasis",
-      "id": "annotation_773",
+      "id": "annotation_793",
       "path": [
-        "paragraph_767",
+        "paragraph_787",
         "content"
       ],
       "target": null,
@@ -10408,11 +10592,11 @@
         870
       ]
     },
-    "citation_reference_774": {
+    "citation_reference_794": {
       "type": "citation_reference",
-      "id": "citation_reference_774",
+      "id": "citation_reference_794",
       "path": [
-        "paragraph_767",
+        "paragraph_787",
         "content"
       ],
       "target": "article_citation_bib29",
@@ -10421,11 +10605,11 @@
         1105
       ]
     },
-    "figure_reference_775": {
+    "figure_reference_795": {
       "type": "figure_reference",
-      "id": "figure_reference_775",
+      "id": "figure_reference_795",
       "path": [
-        "paragraph_767",
+        "paragraph_787",
         "content"
       ],
       "target": "image_fig4",
@@ -10434,16 +10618,16 @@
         1200
       ]
     },
-    "paragraph_776": {
+    "paragraph_796": {
       "type": "paragraph",
-      "id": "paragraph_776",
+      "id": "paragraph_796",
       "content": "We used previously characterized, homozygous, inverted-repeat (ir) RNAi transformed lines of the second transformed generation (T2) to silence GLV biosynthesis: irLOX2 line number A-04-52-2 (Allmann et al., 2010), and TPI activity: irPI line number A-04-186-1 (Steppuhn and Baldwin, 2007). Vector construction and the pSOL3 plasmid have been described previously (Bubner et al., 2006). A cross was created between irLOX2 and irPI homozygous lines; however, the hemizygous irPI construct did not silence TPI activity or transcripts, and these plants therefor served as vector controls for comparison with irPI and had slightly greater residual GLV production than irLOX2 (see 'Results'). They are thus referred to as hemizygous (hemi-)irLOX2 plants."
     },
-    "annotation_777": {
+    "annotation_797": {
       "type": "subscript",
-      "id": "annotation_777",
+      "id": "annotation_797",
       "path": [
-        "paragraph_776",
+        "paragraph_796",
         "content"
       ],
       "target": null,
@@ -10452,11 +10636,11 @@
         130
       ]
     },
-    "annotation_778": {
+    "annotation_798": {
       "type": "emphasis",
-      "id": "annotation_778",
+      "id": "annotation_798",
       "path": [
-        "paragraph_776",
+        "paragraph_796",
         "content"
       ],
       "target": null,
@@ -10465,11 +10649,11 @@
         167
       ]
     },
-    "citation_reference_779": {
+    "citation_reference_799": {
       "type": "citation_reference",
-      "id": "citation_reference_779",
+      "id": "citation_reference_799",
       "path": [
-        "paragraph_776",
+        "paragraph_796",
         "content"
       ],
       "target": "article_citation_bib3",
@@ -10478,11 +10662,11 @@
         211
       ]
     },
-    "annotation_780": {
+    "annotation_800": {
       "type": "emphasis",
-      "id": "annotation_780",
+      "id": "annotation_800",
       "path": [
-        "paragraph_776",
+        "paragraph_796",
         "content"
       ],
       "target": null,
@@ -10491,11 +10675,11 @@
         236
       ]
     },
-    "citation_reference_781": {
+    "citation_reference_801": {
       "type": "citation_reference",
-      "id": "citation_reference_781",
+      "id": "citation_reference_801",
       "path": [
-        "paragraph_776",
+        "paragraph_796",
         "content"
       ],
       "target": "article_citation_bib50",
@@ -10504,11 +10688,11 @@
         287
       ]
     },
-    "citation_reference_782": {
+    "citation_reference_802": {
       "type": "citation_reference",
-      "id": "citation_reference_782",
+      "id": "citation_reference_802",
       "path": [
-        "paragraph_776",
+        "paragraph_796",
         "content"
       ],
       "target": "article_citation_bib6",
@@ -10517,11 +10701,11 @@
         383
       ]
     },
-    "annotation_783": {
+    "annotation_803": {
       "type": "emphasis",
-      "id": "annotation_783",
+      "id": "annotation_803",
       "path": [
-        "paragraph_776",
+        "paragraph_796",
         "content"
       ],
       "target": null,
@@ -10530,11 +10714,11 @@
         420
       ]
     },
-    "annotation_784": {
+    "annotation_804": {
       "type": "emphasis",
-      "id": "annotation_784",
+      "id": "annotation_804",
       "path": [
-        "paragraph_776",
+        "paragraph_796",
         "content"
       ],
       "target": null,
@@ -10543,11 +10727,11 @@
         429
       ]
     },
-    "annotation_785": {
+    "annotation_805": {
       "type": "emphasis",
-      "id": "annotation_785",
+      "id": "annotation_805",
       "path": [
-        "paragraph_776",
+        "paragraph_796",
         "content"
       ],
       "target": null,
@@ -10556,11 +10740,11 @@
         476
       ]
     },
-    "annotation_786": {
+    "annotation_806": {
       "type": "emphasis",
-      "id": "annotation_786",
+      "id": "annotation_806",
       "path": [
-        "paragraph_776",
+        "paragraph_796",
         "content"
       ],
       "target": null,
@@ -10569,11 +10753,11 @@
         608
       ]
     },
-    "annotation_787": {
+    "annotation_807": {
       "type": "emphasis",
-      "id": "annotation_787",
+      "id": "annotation_807",
       "path": [
-        "paragraph_776",
+        "paragraph_796",
         "content"
       ],
       "target": null,
@@ -10582,11 +10766,11 @@
         669
       ]
     },
-    "annotation_788": {
+    "annotation_808": {
       "type": "emphasis",
-      "id": "annotation_788",
+      "id": "annotation_808",
       "path": [
-        "paragraph_776",
+        "paragraph_796",
         "content"
       ],
       "target": null,
@@ -10602,9 +10786,9 @@
       "content": "Manduca spp. eggs and larvae",
       "nodes": []
     },
-    "annotation_789": {
+    "annotation_809": {
       "type": "emphasis",
-      "id": "annotation_789",
+      "id": "annotation_809",
       "path": [
         "heading_s4-2",
         "content"
@@ -10615,16 +10799,16 @@
         7
       ]
     },
-    "paragraph_790": {
+    "paragraph_810": {
       "type": "paragraph",
-      "id": "paragraph_790",
+      "id": "paragraph_810",
       "content": "Wild Manduca spp. eggs were collected for field assays when available from natural ovipositions. M. sexta and M. quinquemaculata (hereafter Manduca spp.) were both ovipositing at the time experiments were conducted; the species of larvae was identified at the third instar and recorded (earlier instars of these two species cannot be distinguished morphologically). M. sexta and M. quinquemaculata oral secretions (OS) are highly similar in their composition (Halitschke et al., 2001) and elicit similar volatiles (Halitschke et al., 2001; Kessler and Baldwin, 2001) and defense genes (Schittko et al., 2001) in N. attenuata. Eggs from laboratory-reared M. sexta, kindly provided by Dr. Carol Miles at SUNY Binghampton, were used in the field when wild Manduca spp. eggs were not sufficiently abundant. Eggs were allowed to hatch in well-aerated boxes on fresh N. attenuata leaf tissue over a moistened paper towel. M. sexta larvae used to elicit glasshouse-grown plants, or to collect oral secretions (OS) for plant treatments, were taken from an in-house colony at the Max Planck Institute for Chemical Ecology in Jena, Germany."
     },
-    "annotation_791": {
+    "annotation_811": {
       "type": "emphasis",
-      "id": "annotation_791",
+      "id": "annotation_811",
       "path": [
-        "paragraph_790",
+        "paragraph_810",
         "content"
       ],
       "target": null,
@@ -10633,11 +10817,11 @@
         12
       ]
     },
-    "annotation_792": {
+    "annotation_812": {
       "type": "emphasis",
-      "id": "annotation_792",
+      "id": "annotation_812",
       "path": [
-        "paragraph_790",
+        "paragraph_810",
         "content"
       ],
       "target": null,
@@ -10646,11 +10830,11 @@
         105
       ]
     },
-    "annotation_793": {
+    "annotation_813": {
       "type": "emphasis",
-      "id": "annotation_793",
+      "id": "annotation_813",
       "path": [
-        "paragraph_790",
+        "paragraph_810",
         "content"
       ],
       "target": null,
@@ -10659,11 +10843,11 @@
         128
       ]
     },
-    "annotation_794": {
+    "annotation_814": {
       "type": "emphasis",
-      "id": "annotation_794",
+      "id": "annotation_814",
       "path": [
-        "paragraph_790",
+        "paragraph_810",
         "content"
       ],
       "target": null,
@@ -10672,11 +10856,11 @@
         147
       ]
     },
-    "annotation_795": {
+    "annotation_815": {
       "type": "emphasis",
-      "id": "annotation_795",
+      "id": "annotation_815",
       "path": [
-        "paragraph_790",
+        "paragraph_810",
         "content"
       ],
       "target": null,
@@ -10685,11 +10869,11 @@
         374
       ]
     },
-    "annotation_796": {
+    "annotation_816": {
       "type": "emphasis",
-      "id": "annotation_796",
+      "id": "annotation_816",
       "path": [
-        "paragraph_790",
+        "paragraph_810",
         "content"
       ],
       "target": null,
@@ -10698,11 +10882,11 @@
         397
       ]
     },
-    "citation_reference_797": {
+    "citation_reference_817": {
       "type": "citation_reference",
-      "id": "citation_reference_797",
+      "id": "citation_reference_817",
       "path": [
-        "paragraph_790",
+        "paragraph_810",
         "content"
       ],
       "target": "article_citation_bib17",
@@ -10711,11 +10895,11 @@
         483
       ]
     },
-    "citation_reference_798": {
+    "citation_reference_818": {
       "type": "citation_reference",
-      "id": "citation_reference_798",
+      "id": "citation_reference_818",
       "path": [
-        "paragraph_790",
+        "paragraph_810",
         "content"
       ],
       "target": "article_citation_bib17",
@@ -10724,11 +10908,11 @@
         538
       ]
     },
-    "citation_reference_799": {
+    "citation_reference_819": {
       "type": "citation_reference",
-      "id": "citation_reference_799",
+      "id": "citation_reference_819",
       "path": [
-        "paragraph_790",
+        "paragraph_810",
         "content"
       ],
       "target": "article_citation_bib29",
@@ -10737,11 +10921,11 @@
         565
       ]
     },
-    "citation_reference_800": {
+    "citation_reference_820": {
       "type": "citation_reference",
-      "id": "citation_reference_800",
+      "id": "citation_reference_820",
       "path": [
-        "paragraph_790",
+        "paragraph_810",
         "content"
       ],
       "target": "article_citation_bib43",
@@ -10750,11 +10934,11 @@
         607
       ]
     },
-    "annotation_801": {
+    "annotation_821": {
       "type": "emphasis",
-      "id": "annotation_801",
+      "id": "annotation_821",
       "path": [
-        "paragraph_790",
+        "paragraph_810",
         "content"
       ],
       "target": null,
@@ -10763,11 +10947,11 @@
         625
       ]
     },
-    "annotation_802": {
+    "annotation_822": {
       "type": "emphasis",
-      "id": "annotation_802",
+      "id": "annotation_822",
       "path": [
-        "paragraph_790",
+        "paragraph_810",
         "content"
       ],
       "target": null,
@@ -10776,11 +10960,11 @@
         662
       ]
     },
-    "annotation_803": {
+    "annotation_823": {
       "type": "emphasis",
-      "id": "annotation_803",
+      "id": "annotation_823",
       "path": [
-        "paragraph_790",
+        "paragraph_810",
         "content"
       ],
       "target": null,
@@ -10789,11 +10973,11 @@
         760
       ]
     },
-    "annotation_804": {
+    "annotation_824": {
       "type": "emphasis",
-      "id": "annotation_804",
+      "id": "annotation_824",
       "path": [
-        "paragraph_790",
+        "paragraph_810",
         "content"
       ],
       "target": null,
@@ -10802,11 +10986,11 @@
         873
       ]
     },
-    "annotation_805": {
+    "annotation_825": {
       "type": "emphasis",
-      "id": "annotation_805",
+      "id": "annotation_825",
       "path": [
-        "paragraph_790",
+        "paragraph_810",
         "content"
       ],
       "target": null,
@@ -10822,9 +11006,9 @@
       "content": "Manduca spp. infestation and W+OS treatment of plants",
       "nodes": []
     },
-    "annotation_806": {
+    "annotation_826": {
       "type": "emphasis",
-      "id": "annotation_806",
+      "id": "annotation_826",
       "path": [
         "heading_s4-3",
         "content"
@@ -10835,16 +11019,16 @@
         7
       ]
     },
-    "paragraph_807": {
+    "paragraph_827": {
       "type": "paragraph",
-      "id": "paragraph_807",
+      "id": "paragraph_827",
       "content": "Because GLVs influence Manduca spp. oviposition (De Moraes et al., 2001; Kessler and Baldwin, 2001; Fraser et al., 2003), and the timing and extent of Manduca spp. oviposition varies from year to year, we created even, synchronous oviposition events by infesting plants with Manduca spp. larvae, either from a lab-reared culture or from wild collections (see Manduca spp. eggs and larvae). Larvae used for plant infestations were placed as neonates on a rosette or lower stem leaf at a standardized position for each assay, and monitored mornings and evenings, during times outside of the main period of Geocoris spp. activity that occurs at midday. Plants in field experiments were either infested with Manduca spp. larvae as described above, or left uninfested (control). There were four infestations over both years of the experiment, denoted M1-M4 in Figure 4."
     },
-    "annotation_808": {
+    "annotation_828": {
       "type": "emphasis",
-      "id": "annotation_808",
+      "id": "annotation_828",
       "path": [
-        "paragraph_807",
+        "paragraph_827",
         "content"
       ],
       "target": null,
@@ -10853,11 +11037,11 @@
         30
       ]
     },
-    "citation_reference_809": {
+    "citation_reference_829": {
       "type": "citation_reference",
-      "id": "citation_reference_809",
+      "id": "citation_reference_829",
       "path": [
-        "paragraph_807",
+        "paragraph_827",
         "content"
       ],
       "target": "article_citation_bib7",
@@ -10866,11 +11050,11 @@
         71
       ]
     },
-    "citation_reference_810": {
+    "citation_reference_830": {
       "type": "citation_reference",
-      "id": "citation_reference_810",
+      "id": "citation_reference_830",
       "path": [
-        "paragraph_807",
+        "paragraph_827",
         "content"
       ],
       "target": "article_citation_bib29",
@@ -10879,11 +11063,11 @@
         98
       ]
     },
-    "citation_reference_811": {
+    "citation_reference_831": {
       "type": "citation_reference",
-      "id": "citation_reference_811",
+      "id": "citation_reference_831",
       "path": [
-        "paragraph_807",
+        "paragraph_827",
         "content"
       ],
       "target": "article_citation_bib13",
@@ -10892,11 +11076,11 @@
         119
       ]
     },
-    "annotation_812": {
+    "annotation_832": {
       "type": "emphasis",
-      "id": "annotation_812",
+      "id": "annotation_832",
       "path": [
-        "paragraph_807",
+        "paragraph_827",
         "content"
       ],
       "target": null,
@@ -10905,11 +11089,11 @@
         158
       ]
     },
-    "annotation_813": {
+    "annotation_833": {
       "type": "emphasis",
-      "id": "annotation_813",
+      "id": "annotation_833",
       "path": [
-        "paragraph_807",
+        "paragraph_827",
         "content"
       ],
       "target": null,
@@ -10918,11 +11102,11 @@
         282
       ]
     },
-    "annotation_814": {
+    "annotation_834": {
       "type": "emphasis",
-      "id": "annotation_814",
+      "id": "annotation_834",
       "path": [
-        "paragraph_807",
+        "paragraph_827",
         "content"
       ],
       "target": null,
@@ -10931,11 +11115,11 @@
         387
       ]
     },
-    "annotation_815": {
+    "annotation_835": {
       "type": "emphasis",
-      "id": "annotation_815",
+      "id": "annotation_835",
       "path": [
-        "paragraph_807",
+        "paragraph_827",
         "content"
       ],
       "target": null,
@@ -10944,11 +11128,11 @@
         612
       ]
     },
-    "annotation_816": {
+    "annotation_836": {
       "type": "emphasis",
-      "id": "annotation_816",
+      "id": "annotation_836",
       "path": [
-        "paragraph_807",
+        "paragraph_827",
         "content"
       ],
       "target": null,
@@ -10957,11 +11141,11 @@
         711
       ]
     },
-    "figure_reference_817": {
+    "figure_reference_837": {
       "type": "figure_reference",
-      "id": "figure_reference_817",
+      "id": "figure_reference_837",
       "path": [
-        "paragraph_807",
+        "paragraph_827",
         "content"
       ],
       "target": "image_fig4",
@@ -10970,16 +11154,16 @@
         863
       ]
     },
-    "paragraph_818": {
+    "paragraph_838": {
       "type": "paragraph",
-      "id": "paragraph_818",
+      "id": "paragraph_838",
       "content": "For measuring headspace GLVs in the field and for glasshouse assays, plants were treated with wounding and M. sexta OS (W+OS) as a standardized method to mimic Manduca spp. feeding. Pure OS collected from fourth to fifth instar M. sexta larvae from the Jena colony fed on WT plants was diluted 1:5 with distilled water before use; even 1000-fold diluted OS is still sufficient to cause most OS-elicited responses (Schittko et al., 2000). For field-grown plants, a similar, mature, non-senescent leaf was chosen from each plant; for glasshouse-grown plants, the two adjacent older leaves (nodes +1, +2) to the leaf undergoing a source-sink transition (node 0) on rosette-stage plants were used for PI and LOX2 transcript quantification, and the +2 node of a separate set of bolting plants was used for measuring headspace volatiles. The leaf chosen for treatment was wounded by using a fabric pattern wheel run over the adaxial surface to make six rows of holes in the lamina, three rows on either side of the midvein. 20 µL of 1:5 diluted OS were deposited on the adaxial surface and gently rubbed over the holes with a gloved finger. Control plants were left untreated."
     },
-    "annotation_819": {
+    "annotation_839": {
       "type": "emphasis",
-      "id": "annotation_819",
+      "id": "annotation_839",
       "path": [
-        "paragraph_818",
+        "paragraph_838",
         "content"
       ],
       "target": null,
@@ -10988,11 +11172,11 @@
         115
       ]
     },
-    "annotation_820": {
+    "annotation_840": {
       "type": "emphasis",
-      "id": "annotation_820",
+      "id": "annotation_840",
       "path": [
-        "paragraph_818",
+        "paragraph_838",
         "content"
       ],
       "target": null,
@@ -11001,11 +11185,11 @@
         167
       ]
     },
-    "annotation_821": {
+    "annotation_841": {
       "type": "emphasis",
-      "id": "annotation_821",
+      "id": "annotation_841",
       "path": [
-        "paragraph_818",
+        "paragraph_838",
         "content"
       ],
       "target": null,
@@ -11014,11 +11198,11 @@
         236
       ]
     },
-    "citation_reference_822": {
+    "citation_reference_842": {
       "type": "citation_reference",
-      "id": "citation_reference_822",
+      "id": "citation_reference_842",
       "path": [
-        "paragraph_818",
+        "paragraph_838",
         "content"
       ],
       "target": "article_citation_bib42",
@@ -11027,11 +11211,11 @@
         435
       ]
     },
-    "annotation_823": {
+    "annotation_843": {
       "type": "emphasis",
-      "id": "annotation_823",
+      "id": "annotation_843",
       "path": [
-        "paragraph_818",
+        "paragraph_838",
         "content"
       ],
       "target": null,
@@ -11040,11 +11224,11 @@
         699
       ]
     },
-    "annotation_824": {
+    "annotation_844": {
       "type": "emphasis",
-      "id": "annotation_824",
+      "id": "annotation_844",
       "path": [
-        "paragraph_818",
+        "paragraph_838",
         "content"
       ],
       "target": null,
@@ -11060,16 +11244,16 @@
       "content": "Plant tissue harvests and sample handling",
       "nodes": []
     },
-    "paragraph_825": {
+    "paragraph_845": {
       "type": "paragraph",
-      "id": "paragraph_825",
+      "id": "paragraph_845",
       "content": "For field-grown plants and glasshouse-grown M. sexta-fed plants, a similar, mature, non-senescent systemic (undamaged) leaf was chosen from each plant; for glasshouse-grown plants used to measure PI and LOX2 transcripts, the leaves at nodes +1 and +2 (treated leaf positions) were harvested. Leaves were cut at the petiole and wrapped in a double layer of aluminum foil. In the field, harvested leaves were immediately frozen on dry ice insulated with ice packs frozen at −20°C; samples were stored at −20°C until transport to Jena on dry ice, where they were kept at −80°C until analysis. Leaves harvested from glasshouse-grown plants were flash-frozen in liquid nitrogen and kept at −80°C until analysis. All sample processing was carried out over liquid nitrogen until the addition of the extraction solvents. Prior to analysis, entire leaves were ground with a mortar and pestle and transferred to a 2 mL microcentrifuge tube for storage. For specific measurements, aliquots were weighed into microcentrifuge tubes containing two steel balls and finely ground in a GenoGrinder (SPEX Certi Prep) prior to extraction."
     },
-    "annotation_826": {
+    "annotation_846": {
       "type": "emphasis",
-      "id": "annotation_826",
+      "id": "annotation_846",
       "path": [
-        "paragraph_825",
+        "paragraph_845",
         "content"
       ],
       "target": null,
@@ -11078,11 +11262,11 @@
         52
       ]
     },
-    "annotation_827": {
+    "annotation_847": {
       "type": "emphasis",
-      "id": "annotation_827",
+      "id": "annotation_847",
       "path": [
-        "paragraph_825",
+        "paragraph_845",
         "content"
       ],
       "target": null,
@@ -11091,11 +11275,11 @@
         198
       ]
     },
-    "annotation_828": {
+    "annotation_848": {
       "type": "emphasis",
-      "id": "annotation_828",
+      "id": "annotation_848",
       "path": [
-        "paragraph_825",
+        "paragraph_845",
         "content"
       ],
       "target": null,
@@ -11111,16 +11295,16 @@
       "content": "Quantification of TPI activity",
       "nodes": []
     },
-    "paragraph_829": {
+    "paragraph_849": {
       "type": "paragraph",
-      "id": "paragraph_829",
+      "id": "paragraph_849",
       "content": "TPI activity was quantified in 100 mg of tissue from systemic leaves on Manduca spp.-infested plants using a radial diffusion assay as previously described (van Dam et al., 2001)."
     },
-    "annotation_830": {
+    "annotation_850": {
       "type": "emphasis",
-      "id": "annotation_830",
+      "id": "annotation_850",
       "path": [
-        "paragraph_829",
+        "paragraph_849",
         "content"
       ],
       "target": null,
@@ -11129,11 +11313,11 @@
         79
       ]
     },
-    "citation_reference_831": {
+    "citation_reference_851": {
       "type": "citation_reference",
-      "id": "citation_reference_831",
+      "id": "citation_reference_851",
       "path": [
-        "paragraph_829",
+        "paragraph_849",
         "content"
       ],
       "target": "article_citation_bib54",
@@ -11149,9 +11333,9 @@
       "content": "Quantification of PI and LOX2 transcripts",
       "nodes": []
     },
-    "annotation_832": {
+    "annotation_852": {
       "type": "emphasis",
-      "id": "annotation_832",
+      "id": "annotation_852",
       "path": [
         "heading_s4-6",
         "content"
@@ -11162,9 +11346,9 @@
         20
       ]
     },
-    "annotation_833": {
+    "annotation_853": {
       "type": "emphasis",
-      "id": "annotation_833",
+      "id": "annotation_853",
       "path": [
         "heading_s4-6",
         "content"
@@ -11175,16 +11359,16 @@
         29
       ]
     },
-    "paragraph_834": {
+    "paragraph_854": {
       "type": "paragraph",
-      "id": "paragraph_834",
+      "id": "paragraph_854",
       "content": "Leaf samples were from control plants or plants treated with W+OS. Treated leaf positions were harvested at the peak of transcript accumulation for PI, 12 hr (Wu et al., 2006) and LOX2, 14 hr (Allmann et al., 2010). Total RNA was extracted from leaves using the TRIzol reagent (Invitrogen), and a 0.5 μg aliquot of total RNA of each sample was reverse-transcribed using oligo(dT)18 and RevertAid H Minus reverse transcriptase (Fermentas) following the manufacturer's instructions. Quantitative real-time PCR (qPCR) was performed with a Mx3005P Multiplex qPCR system (Stratagene) and the qPCR Core kit for SYBR Green I (Eurogentec). Transcripts were quantified using external standard curves for each gene. Elongation factor 1A (EF1A) transcript abundance in each sample was used to normalize total cDNA concentration variations. Samples of RNA used to make cDNA were pooled to the same dilution as in cDNA samples and run alongside cDNA in all qPCRs to control for gDNA contamination; no contamination was detected. The sequences of primers used for qPCR (Kallenbach et al., 2010; Fragoso et al., 2011) are provided in Table 4."
     },
-    "annotation_835": {
+    "annotation_855": {
       "type": "emphasis",
-      "id": "annotation_835",
+      "id": "annotation_855",
       "path": [
-        "paragraph_834",
+        "paragraph_854",
         "content"
       ],
       "target": null,
@@ -11193,11 +11377,11 @@
         150
       ]
     },
-    "citation_reference_836": {
+    "citation_reference_856": {
       "type": "citation_reference",
-      "id": "citation_reference_836",
+      "id": "citation_reference_856",
       "path": [
-        "paragraph_834",
+        "paragraph_854",
         "content"
       ],
       "target": "article_citation_bib60",
@@ -11206,11 +11390,11 @@
         174
       ]
     },
-    "annotation_837": {
+    "annotation_857": {
       "type": "emphasis",
-      "id": "annotation_837",
+      "id": "annotation_857",
       "path": [
-        "paragraph_834",
+        "paragraph_854",
         "content"
       ],
       "target": null,
@@ -11219,11 +11403,11 @@
         184
       ]
     },
-    "citation_reference_838": {
+    "citation_reference_858": {
       "type": "citation_reference",
-      "id": "citation_reference_838",
+      "id": "citation_reference_858",
       "path": [
-        "paragraph_834",
+        "paragraph_854",
         "content"
       ],
       "target": "article_citation_bib3",
@@ -11232,11 +11416,11 @@
         213
       ]
     },
-    "annotation_839": {
+    "annotation_859": {
       "type": "subscript",
-      "id": "annotation_839",
+      "id": "annotation_859",
       "path": [
-        "paragraph_834",
+        "paragraph_854",
         "content"
       ],
       "target": null,
@@ -11245,11 +11429,11 @@
         381
       ]
     },
-    "annotation_840": {
+    "annotation_860": {
       "type": "emphasis",
-      "id": "annotation_840",
+      "id": "annotation_860",
       "path": [
-        "paragraph_834",
+        "paragraph_854",
         "content"
       ],
       "target": null,
@@ -11258,11 +11442,11 @@
         732
       ]
     },
-    "citation_reference_841": {
+    "citation_reference_861": {
       "type": "citation_reference",
-      "id": "citation_reference_841",
+      "id": "citation_reference_861",
       "path": [
-        "paragraph_834",
+        "paragraph_854",
         "content"
       ],
       "target": "article_citation_bib24",
@@ -11271,11 +11455,11 @@
         1079
       ]
     },
-    "citation_reference_842": {
+    "citation_reference_862": {
       "type": "citation_reference",
-      "id": "citation_reference_842",
+      "id": "citation_reference_862",
       "path": [
-        "paragraph_834",
+        "paragraph_854",
         "content"
       ],
       "target": "article_citation_bib12",
@@ -11284,11 +11468,11 @@
         1101
       ]
     },
-    "figure_reference_843": {
+    "figure_reference_863": {
       "type": "figure_reference",
-      "id": "figure_reference_843",
+      "id": "figure_reference_863",
       "path": [
-        "paragraph_834",
+        "paragraph_854",
         "content"
       ],
       "target": "table_tbl4",
@@ -11302,11 +11486,9 @@
       "id": "table_tbl4",
       "label": "Table 4.",
       "content": "<table><thead><tr><td>Gene</td><td>Forward primer sequence (5′-3′)</td><td>Reverse primer sequence (5′-3′)</td><td>Citation</td></tr></thead><tbody><tr><td><em>PI</em></td><td>TCAGGAGATAGTAAATATGG</td><td>ATCTGCATGTTCCACATTGC</td><td><sup>Fragoso et al. (2011)</sup></td></tr><tr><td><em>LOX2</em></td><td>TTGCACTTGGTGTTTGAGATGGT</td><td>TTAGTAGAAAATGAGCACCACAA</td><td><sup>Kallenbach et al. (2010)</sup></td></tr></tbody></table>",
-      "title": "",
       "footers": [],
       "doi": "http://dx.doi.org/10.7554/eLife.00007.020",
-      "caption": "paragraph_table_tbl4",
-      "format": ""
+      "caption": "paragraph_table_tbl4"
     },
     "paragraph_table_tbl4": {
       "type": "paragraph",
@@ -11320,16 +11502,16 @@
       "content": "Quantification of GLV pools in tissue",
       "nodes": []
     },
-    "paragraph_844": {
+    "paragraph_864": {
       "type": "paragraph",
-      "id": "paragraph_844",
+      "id": "paragraph_864",
       "content": "To assess qualitatively the GLV pools in leaf tissue from field-grown plants, and to determine appropriate amounts of leaf tissue and internal standard (IS) for GLV extraction, we extracted pooled samples from leaves collected June 6, 2011, from M. sexta-infested plants during infestation M3 (Figure 4). Each sample was pooled from all leaves collected from one genotype. Hexane (300 µL) was added to 100 mg tissue spiked with 3 µg tetralin as an internal standard (IS) and incubated by rotating at RT overnight. Samples were allowed to settle and 100 µL of water- and tissue-free hexane was transferred to a GC vial containing a 250 µL microinsert. Individual analytes were analyzed by a Varian CP-3800 GC-Saturn 4000 ion trap MS connected to a ZB5 column (30 m×0.25 mm i.d., 0.25 μm film thickness; Phenomenex). 1 μL of samples was injected by a CP-8400 autoinjector (Varian) onto the column with a 1:10 split ratio; the injector was returned to a 1:70 split ratio from 2 min after injection through the end of each run. The GC was programmed as follows: injector held at 250°C, initial column temperature at 40°C held for 5 min, then ramped at 5°C/min to 185°C and finally at 30°C/min to 300°C, held for 0.17 min. Helium carrier gas was used and the column flow set to 1 mL/min. Compounds eluted from the GC column were transferred to the MS for analysis. The MS was programmed as follows: transfer line at 250°C, trap temperature 110°C, manifold temperature 50°C, source heater 200°C and scan range from 40 to 399 m/z at 1.33 spectra per second as previously described (Schuman et al., 2009). The identification of compounds was conducted by GC retention time compared to pure standards and mass spectra compared to standards and mass spectra databases, Wiley version 6 (Wiley) and NIST (National Institute of Standards and Technology) spectral libraries."
     },
-    "annotation_845": {
+    "annotation_865": {
       "type": "emphasis",
-      "id": "annotation_845",
+      "id": "annotation_865",
       "path": [
-        "paragraph_844",
+        "paragraph_864",
         "content"
       ],
       "target": null,
@@ -11338,11 +11520,11 @@
         254
       ]
     },
-    "figure_reference_846": {
+    "figure_reference_866": {
       "type": "figure_reference",
-      "id": "figure_reference_846",
+      "id": "figure_reference_866",
       "path": [
-        "paragraph_844",
+        "paragraph_864",
         "content"
       ],
       "target": "image_fig4",
@@ -11351,11 +11533,11 @@
         302
       ]
     },
-    "citation_reference_847": {
+    "citation_reference_867": {
       "type": "citation_reference",
-      "id": "citation_reference_847",
+      "id": "citation_reference_867",
       "path": [
-        "paragraph_844",
+        "paragraph_864",
         "content"
       ],
       "target": "article_citation_bib45",
@@ -11364,16 +11546,16 @@
         1595
       ]
     },
-    "paragraph_848": {
+    "paragraph_868": {
       "type": "paragraph",
-      "id": "paragraph_848",
+      "id": "paragraph_868",
       "content": "For the quantification of GLV pools in leaf tissue from field-grown plants, the hexane extraction protocol was adjusted based on GC-MS results from pooled samples (described above), and a GC-FID with a wax column was used for the quantitative analysis of extracts. Hexane (300 µL) were added to 50 mg tissue (N=10) spiked with 15 µg (Z)-hex-3-enyl acetate, a GLV not found in GC-MS samples, as an IS. The extraction proceeded as described above. Analytes were separated by Varian CP-3800 GC-FID connected to a ZB-Wax column (30 m×0.25 mm i.d., 0.25 μm film thickness; Phenomenex). 1 μL of samples was injected by a CP-8400 autoinjector (Varian) onto the column in a splitless mode; the injector was returned to a 1:70 split ratio 2 min after injection through the end of each run. The GC was programmed as follows: injector held at 230°C, initial column temperature at 40°C held for 7 min, then ramped at 5°C/min to 115°C and finally at 30°C/min to 250°C, held for 0.5 min. Helium carrier gas was used and the column flow set to 1 mL/min. Compounds eluted from the GC column were transferred to a Varian FID set at 250°C for analysis (airflow 300 mL/min, hydrogen 30 mL/min, nitrogen make-up gas 5 mL/min). Individual volatile compound peaks were quantified by peak areas using MS Work Station Method Builder and Batch Report software (Varian) and normalized to the peak area of the IS (Z)-hex-3-enyl acetate in each sample. Peak identification and quantification was done by comparison to standard curves of pure compounds in hexane. Compounds present in quantifiable amounts were (Z)-hex-3-en-1-ol, (E)-hex-2-enal and the IS (Z)-hex-3-enyl acetate."
     },
-    "annotation_849": {
+    "annotation_869": {
       "type": "emphasis",
-      "id": "annotation_849",
+      "id": "annotation_869",
       "path": [
-        "paragraph_848",
+        "paragraph_868",
         "content"
       ],
       "target": null,
@@ -11382,11 +11564,11 @@
         335
       ]
     },
-    "annotation_850": {
+    "annotation_870": {
       "type": "emphasis",
-      "id": "annotation_850",
+      "id": "annotation_870",
       "path": [
-        "paragraph_848",
+        "paragraph_868",
         "content"
       ],
       "target": null,
@@ -11395,11 +11577,11 @@
         1388
       ]
     },
-    "annotation_851": {
+    "annotation_871": {
       "type": "emphasis",
-      "id": "annotation_851",
+      "id": "annotation_871",
       "path": [
-        "paragraph_848",
+        "paragraph_868",
         "content"
       ],
       "target": null,
@@ -11408,11 +11590,11 @@
         1584
       ]
     },
-    "annotation_852": {
+    "annotation_872": {
       "type": "emphasis",
-      "id": "annotation_852",
+      "id": "annotation_872",
       "path": [
-        "paragraph_848",
+        "paragraph_868",
         "content"
       ],
       "target": null,
@@ -11421,11 +11603,11 @@
         1603
       ]
     },
-    "annotation_853": {
+    "annotation_873": {
       "type": "emphasis",
-      "id": "annotation_853",
+      "id": "annotation_873",
       "path": [
-        "paragraph_848",
+        "paragraph_868",
         "content"
       ],
       "target": null,
@@ -11441,9 +11623,9 @@
       "content": "Relative quantification of GLVs and (E)-α-bergamotene in the plant headspace",
       "nodes": []
     },
-    "annotation_854": {
+    "annotation_874": {
       "type": "emphasis",
-      "id": "annotation_854",
+      "id": "annotation_874",
       "path": [
         "heading_s4-8",
         "content"
@@ -11454,16 +11636,16 @@
         38
       ]
     },
-    "paragraph_855": {
+    "paragraph_875": {
       "type": "paragraph",
-      "id": "paragraph_855",
+      "id": "paragraph_875",
       "content": "For measurement of GLVs in the headspace of field-grown plants, intact leaves were harvested (N=3) and kept fresh by placing the petioles in microcentrifuge tubes filled with water. Immediately before each measurement, one leaf was treated with W+OS, and a 1 cm2 disc was stamped out and placed in a 4 mL GC vial. After 15 min, the headspace in the vial was measured with a ZNose 4200 portable gas chromatograph with a 1 m DB5 column (Electronic Sensor Technology, Newbury Park, CA, USA) by inserting the ZNose inlet needle through the septum of the GC vial into the headspace. The program was as follows: valve set at 165°C, inlet at 200°C, trap at 250°C; 30 s sampling time, column ramped from 30°C to 190°C at 4°C/s, data collection for 20 s. Genotypes were analyzed in an alternating order within each replicate: first replicate 1 of all genotypes, then replicate 2, then replicate 3. Retention times of GLV aldehydes and alcohols, the most abundant GLV headspace components, were determined using pure standards."
     },
-    "annotation_856": {
+    "annotation_876": {
       "type": "superscript",
-      "id": "annotation_856",
+      "id": "annotation_876",
       "path": [
-        "paragraph_855",
+        "paragraph_875",
         "content"
       ],
       "target": null,
@@ -11472,16 +11654,16 @@
         262
       ]
     },
-    "paragraph_857": {
+    "paragraph_877": {
       "type": "paragraph",
-      "id": "paragraph_857",
+      "id": "paragraph_877",
       "content": "For the analysis of GLVs in the headspace of glasshouse-grown plants, the +2 leaf was enclosed immediately after W+OS elicitation in a food-quality 50 mL plastic container (Huhtamaki) with an activated charcoal filter attached to one side for incoming air, and connected to self-packed Poropak Q filters containing 20 mg of Poropak (Sigma-Aldrich) packed with silanized glass wool and Teflon tubing in the column bodies (ARS, Inc.) as previously described (Halitschke et al., 2000; Schuman et al., 2009). Ambient air was pulled by vacuum pump for 3 hr through an activated charcoal filter, over the leaf in the trapping container, and through a Poropak Q filter connected by PVC tubing (Rotabilo) to a custom-made valve manifold, as previously described (Schuman et al., 2009); the manifold was adjusted such that flow rates through traps were ca. 300 mL/min. After trapping, sampled leaves were excised at the base of the petiole, scanned, and the leaf area was measured in comparison to a 1 cm2 standard (SigmaScan 5.0; Systat Software Inc.) for normalization of volatile emission to cm2 leaf area. Poropak Q filters were wrapped in aluminum foil and stored at −20°C until elution of volatiles with 250 μL dichloromethane (Sigma-Aldrich)."
     },
-    "citation_reference_858": {
+    "citation_reference_878": {
       "type": "citation_reference",
-      "id": "citation_reference_858",
+      "id": "citation_reference_878",
       "path": [
-        "paragraph_857",
+        "paragraph_877",
         "content"
       ],
       "target": "article_citation_bib16",
@@ -11490,11 +11672,11 @@
         480
       ]
     },
-    "citation_reference_859": {
+    "citation_reference_879": {
       "type": "citation_reference",
-      "id": "citation_reference_859",
+      "id": "citation_reference_879",
       "path": [
-        "paragraph_857",
+        "paragraph_877",
         "content"
       ],
       "target": "article_citation_bib45",
@@ -11503,11 +11685,11 @@
         502
       ]
     },
-    "citation_reference_860": {
+    "citation_reference_880": {
       "type": "citation_reference",
-      "id": "citation_reference_860",
+      "id": "citation_reference_880",
       "path": [
-        "paragraph_857",
+        "paragraph_877",
         "content"
       ],
       "target": "article_citation_bib45",
@@ -11516,11 +11698,11 @@
         775
       ]
     },
-    "annotation_861": {
+    "annotation_881": {
       "type": "superscript",
-      "id": "annotation_861",
+      "id": "annotation_881",
       "path": [
-        "paragraph_857",
+        "paragraph_877",
         "content"
       ],
       "target": null,
@@ -11529,11 +11711,11 @@
         996
       ]
     },
-    "annotation_862": {
+    "annotation_882": {
       "type": "superscript",
-      "id": "annotation_862",
+      "id": "annotation_882",
       "path": [
-        "paragraph_857",
+        "paragraph_877",
         "content"
       ],
       "target": null,
@@ -11542,16 +11724,16 @@
         1089
       ]
     },
-    "paragraph_863": {
+    "paragraph_883": {
       "type": "paragraph",
-      "id": "paragraph_863",
+      "id": "paragraph_883",
       "content": "Immediately prior to elution, each filter was spiked with 320 ng of tetralin internal standard (IS) in hexane (Sigma-Aldrich). Filters were eluted into a GC vial containing a 250 μL glass insert. Samples were analyzed by a CP-3800 GC Varian Saturn 2000 ion trap MS (Varian) connected to a polar ZB-wax column (30 m×0.25 mm i.d., 0.25 μm film thickness; Phenomenex). 1 μL of samples was injected by a CP-8200 autoinjector (Varian) onto the column in a splitless mode; the injector was returned to a 1:70 split ratio from 2 min after injection through the end of each run. The GC was programmed as follows: injector held at 230°C, initial column temperature at 40°C held for 3 min, then ramped at 5°C/min to 180°C and finally at 10°C/min to 240°C, held for 1 min. Helium carrier gas was used and the column flow set to 1 mL/min. Eluted compounds from the GC column were transferred to the MS for analysis. The MS was programmed as follows: transfer line at 230°C, trap temperature 150°C, manifold temperature 80°C and scan range from 40 to 399 m/z at 1.33 spectra per second as previously described (Schuman et al., 2009). Individual volatile compound peaks were quantified by peak areas of two specific and abundant ion traces per compound using MS Work Station Data Analysis software (Varian) and normalized by the 104+132 ion trace peak area of the IS (tetralin) in each sample. The identification of compounds was conducted by GC retention time compared to pure standards and mass spectra compared to standards and mass spectra databases, Wiley version 6 (Wiley) and NIST (National Institute of Standards and Technology) spectral libraries. In 3 hr headspace samples we detected (Z)-hex-3-en-1-ol, (Z)-hex-3-en-1-ol, (E)-hex-2-en-1-ol (forms from (E)-hex-2-enal on filters over trapping periods longer than 20 min), (Z)-hex-3-enyl acetate, (Z)-hex-3-enyl butanoate, (Z)-hex-3-enyl isobutyrate, and (Z)-hex-3-enyl propanoate."
     },
-    "citation_reference_864": {
+    "citation_reference_884": {
       "type": "citation_reference",
-      "id": "citation_reference_864",
+      "id": "citation_reference_884",
       "path": [
-        "paragraph_863",
+        "paragraph_883",
         "content"
       ],
       "target": "article_citation_bib45",
@@ -11560,11 +11742,11 @@
         1118
       ]
     },
-    "annotation_865": {
+    "annotation_885": {
       "type": "emphasis",
-      "id": "annotation_865",
+      "id": "annotation_885",
       "path": [
-        "paragraph_863",
+        "paragraph_883",
         "content"
       ],
       "target": null,
@@ -11573,11 +11755,11 @@
         1683
       ]
     },
-    "annotation_866": {
+    "annotation_886": {
       "type": "emphasis",
-      "id": "annotation_866",
+      "id": "annotation_886",
       "path": [
-        "paragraph_863",
+        "paragraph_883",
         "content"
       ],
       "target": null,
@@ -11586,11 +11768,11 @@
         1702
       ]
     },
-    "annotation_867": {
+    "annotation_887": {
       "type": "emphasis",
-      "id": "annotation_867",
+      "id": "annotation_887",
       "path": [
-        "paragraph_863",
+        "paragraph_883",
         "content"
       ],
       "target": null,
@@ -11599,11 +11781,11 @@
         1721
       ]
     },
-    "annotation_868": {
+    "annotation_888": {
       "type": "emphasis",
-      "id": "annotation_868",
+      "id": "annotation_888",
       "path": [
-        "paragraph_863",
+        "paragraph_883",
         "content"
       ],
       "target": null,
@@ -11612,11 +11794,11 @@
         1751
       ]
     },
-    "annotation_869": {
+    "annotation_889": {
       "type": "emphasis",
-      "id": "annotation_869",
+      "id": "annotation_889",
       "path": [
-        "paragraph_863",
+        "paragraph_883",
         "content"
       ],
       "target": null,
@@ -11625,11 +11807,11 @@
         1820
       ]
     },
-    "annotation_870": {
+    "annotation_890": {
       "type": "emphasis",
-      "id": "annotation_870",
+      "id": "annotation_890",
       "path": [
-        "paragraph_863",
+        "paragraph_883",
         "content"
       ],
       "target": null,
@@ -11638,11 +11820,11 @@
         1844
       ]
     },
-    "annotation_871": {
+    "annotation_891": {
       "type": "emphasis",
-      "id": "annotation_871",
+      "id": "annotation_891",
       "path": [
-        "paragraph_863",
+        "paragraph_883",
         "content"
       ],
       "target": null,
@@ -11651,11 +11833,11 @@
         1870
       ]
     },
-    "annotation_872": {
+    "annotation_892": {
       "type": "emphasis",
-      "id": "annotation_872",
+      "id": "annotation_892",
       "path": [
-        "paragraph_863",
+        "paragraph_883",
         "content"
       ],
       "target": null,
@@ -11664,16 +11846,16 @@
         1902
       ]
     },
-    "paragraph_873": {
+    "paragraph_893": {
       "type": "paragraph",
-      "id": "paragraph_873",
+      "id": "paragraph_893",
       "content": "The collection of (E)-α-bergamotene from the headspace of glasshouse-grown plants and its extraction from Poropak Q filters was carried out as for GLVs, except that (E)-α-bergamotene was collected 24–32 hr after W+OS treatment of the leaf. Eluted samples were analyzed by an HP 6890 GC-5973 quadropole MS (Hewlett-Packard) connected to a nonpolar DB-5ms column (30 m×0.25 mm i.d., 0.25 μm film thickness; Agilent). 1 μL of samples was injected by a HP 7683 autoinjector (Hewlett-Packard) onto column in a splitless mode; the injector was purged at 50 mL/min 1.5 min after injection and switched to gas saver mode (20 mL/min) from 10 min through the end of each run. The GC was programmed as follows: injector held at 230°C, initial column temperature at 40°C held for 2 min, then ramped at 5°C/min to 165°C and finally at 60°C/min to 300°C, held for 2 min. Helium carrier gas was used and the column flow set to 2 mL/min. Eluted compounds from GC column were transferred to the MS for analysis. The MS was programmed as follows: source at 230°C, quad temperature 150°C, and scan range from 33 to 350 m/z at 4.49 spectra per second. (E)-α-Bergamotene was quantified by peak area using the ion trace 119 m/z in Chemstation software (Agilent) and normalized by the 104 ion trace peak area of the IS (tetralin) in each sample. The identification of (E)-α-Bergamotene and tetralin IS was conducted by GC retention time and mass spectra compared to mass spectra of known standards as previously described (Schuman et al., 2009)."
     },
-    "annotation_874": {
+    "annotation_894": {
       "type": "emphasis",
-      "id": "annotation_874",
+      "id": "annotation_894",
       "path": [
-        "paragraph_873",
+        "paragraph_893",
         "content"
       ],
       "target": null,
@@ -11682,11 +11864,11 @@
         20
       ]
     },
-    "annotation_875": {
+    "annotation_895": {
       "type": "emphasis",
-      "id": "annotation_875",
+      "id": "annotation_895",
       "path": [
-        "paragraph_873",
+        "paragraph_893",
         "content"
       ],
       "target": null,
@@ -11695,11 +11877,11 @@
         167
       ]
     },
-    "annotation_876": {
+    "annotation_896": {
       "type": "emphasis",
-      "id": "annotation_876",
+      "id": "annotation_896",
       "path": [
-        "paragraph_873",
+        "paragraph_893",
         "content"
       ],
       "target": null,
@@ -11708,11 +11890,11 @@
         1134
       ]
     },
-    "annotation_877": {
+    "annotation_897": {
       "type": "emphasis",
-      "id": "annotation_877",
+      "id": "annotation_897",
       "path": [
-        "paragraph_873",
+        "paragraph_893",
         "content"
       ],
       "target": null,
@@ -11721,11 +11903,11 @@
         1347
       ]
     },
-    "citation_reference_878": {
+    "citation_reference_898": {
       "type": "citation_reference",
-      "id": "citation_reference_878",
+      "id": "citation_reference_898",
       "path": [
-        "paragraph_873",
+        "paragraph_893",
         "content"
       ],
       "target": "article_citation_bib45",
@@ -11741,9 +11923,9 @@
       "content": "Manduca spp. bioassays",
       "nodes": []
     },
-    "annotation_879": {
+    "annotation_899": {
       "type": "emphasis",
-      "id": "annotation_879",
+      "id": "annotation_899",
       "path": [
         "heading_s4-9",
         "content"
@@ -11754,254 +11936,10 @@
         7
       ]
     },
-    "paragraph_880": {
-      "type": "paragraph",
-      "id": "paragraph_880",
-      "content": "One or two larvae were placed on plants at a time for each assay, depending on the number available, and were equally distributed among plants as described under ‘Manduca spp. infestation and W+OS treatment of plants'. However, for infestation M3 (Figure 4), we staggered the infestation of different plant genotypes to accommodate differences in plant growth: WT and irPI plants were initially larger and therefore went into the field on average earlier than irLOX2 and hemi-irLOX2 plants, so that all plants were planted at a similar size, which is important for even establishment. We therefore re-infested WT and irPI plants earlier after M1, to allow irLOX2 and hemi-irLOX2 plants to catch up in their growth to WT and irPI before re-infestation. However, we then left M. sexta larvae on irLOX2 and hemi-irLOX2 as long as on WT and irPI, and we used a combination of Geocoris spp. counts and additional predation assays to make sure that differences in Geocoris spp. predation were not due to this staggering of infestation (see 'Results: Geocoris spp. preferentially predate from GLV-perfumed or -emitting plants')."
-    },
-    "annotation_881": {
-      "type": "emphasis",
-      "id": "annotation_881",
-      "path": [
-        "paragraph_880",
-        "content"
-      ],
-      "target": null,
-      "range": [
-        163,
-        170
-      ]
-    },
-    "figure_reference_882": {
-      "type": "figure_reference",
-      "id": "figure_reference_882",
-      "path": [
-        "paragraph_880",
-        "content"
-      ],
-      "target": "image_fig4",
-      "range": [
-        248,
-        256
-      ]
-    },
-    "annotation_883": {
-      "type": "emphasis",
-      "id": "annotation_883",
-      "path": [
-        "paragraph_880",
-        "content"
-      ],
-      "target": null,
-      "range": [
-        370,
-        372
-      ]
-    },
-    "annotation_884": {
-      "type": "emphasis",
-      "id": "annotation_884",
-      "path": [
-        "paragraph_880",
-        "content"
-      ],
-      "target": null,
-      "range": [
-        462,
-        466
-      ]
-    },
-    "annotation_885": {
-      "type": "emphasis",
-      "id": "annotation_885",
-      "path": [
-        "paragraph_880",
-        "content"
-      ],
-      "target": null,
-      "range": [
-        478,
-        482
-      ]
-    },
-    "annotation_886": {
-      "type": "emphasis",
-      "id": "annotation_886",
-      "path": [
-        "paragraph_880",
-        "content"
-      ],
-      "target": null,
-      "range": [
-        619,
-        621
-      ]
-    },
-    "annotation_887": {
-      "type": "emphasis",
-      "id": "annotation_887",
-      "path": [
-        "paragraph_880",
-        "content"
-      ],
-      "target": null,
-      "range": [
-        658,
-        662
-      ]
-    },
-    "annotation_888": {
-      "type": "emphasis",
-      "id": "annotation_888",
-      "path": [
-        "paragraph_880",
-        "content"
-      ],
-      "target": null,
-      "range": [
-        674,
-        678
-      ]
-    },
-    "annotation_889": {
-      "type": "emphasis",
-      "id": "annotation_889",
-      "path": [
-        "paragraph_880",
-        "content"
-      ],
-      "target": null,
-      "range": [
-        726,
-        728
-      ]
-    },
-    "annotation_890": {
-      "type": "emphasis",
-      "id": "annotation_890",
-      "path": [
-        "paragraph_880",
-        "content"
-      ],
-      "target": null,
-      "range": [
-        774,
-        782
-      ]
-    },
-    "annotation_891": {
-      "type": "emphasis",
-      "id": "annotation_891",
-      "path": [
-        "paragraph_880",
-        "content"
-      ],
-      "target": null,
-      "range": [
-        795,
-        799
-      ]
-    },
-    "annotation_892": {
-      "type": "emphasis",
-      "id": "annotation_892",
-      "path": [
-        "paragraph_880",
-        "content"
-      ],
-      "target": null,
-      "range": [
-        811,
-        815
-      ]
-    },
-    "annotation_893": {
-      "type": "emphasis",
-      "id": "annotation_893",
-      "path": [
-        "paragraph_880",
-        "content"
-      ],
-      "target": null,
-      "range": [
-        839,
-        841
-      ]
-    },
-    "annotation_894": {
-      "type": "emphasis",
-      "id": "annotation_894",
-      "path": [
-        "paragraph_880",
-        "content"
-      ],
-      "target": null,
-      "range": [
-        872,
-        880
-      ]
-    },
-    "annotation_895": {
-      "type": "emphasis",
-      "id": "annotation_895",
-      "path": [
-        "paragraph_880",
-        "content"
-      ],
-      "target": null,
-      "range": [
-        958,
-        966
-      ]
-    },
-    "annotation_896": {
-      "type": "emphasis",
-      "id": "annotation_896",
-      "path": [
-        "paragraph_880",
-        "content"
-      ],
-      "target": null,
-      "range": [
-        1044,
-        1052
-      ]
-    },
-    "paragraph_897": {
-      "type": "paragraph",
-      "id": "paragraph_897",
-      "content": "Manduca spp. behavior, predation, and growth assays were conducted with first- and second-instar larvae, except infestations M1 2010 and M4 in 2011, in which larvae were reared from the first through fifth instars on plants; and egg predation assays, in which M. sexta eggs were used."
-    },
-    "annotation_898": {
-      "type": "emphasis",
-      "id": "annotation_898",
-      "path": [
-        "paragraph_897",
-        "content"
-      ],
-      "target": null,
-      "range": [
-        0,
-        7
-      ]
-    },
-    "annotation_899": {
-      "type": "emphasis",
-      "id": "annotation_899",
-      "path": [
-        "paragraph_897",
-        "content"
-      ],
-      "target": null,
-      "range": [
-        260,
-        268
-      ]
-    },
     "paragraph_900": {
       "type": "paragraph",
       "id": "paragraph_900",
-      "content": "Larvae used in the off-plant mock predation assays were hatched on the appropriate N. attenuata genotype (WT or irPI) and hatching was monitored three times per day (morning, noon, evening) so that the mock predation assay could be timed to 48 hr after larvae hatched. A protocol of the mock predation assays is given in Figure 10, and Videos 1–4 depict on-plant (1 and 2) and off-plant (3 and 4) behavioral assays. Larvae for off-plant mock predation assays were kept in aerated plastic boxes on cut leaves over moist paper towels. Leaves were refreshed twice daily and were kept fresh by placing the petioles in water in 1.5 mL microcentrifuge tubes which were closed around the petiole with Parafilm (Pechiney Plastic Packaging Company). Larval growth was measured as increases in body length (in millimeters) using calipers or a small, flexible, transparent plastic ruler."
+      "content": "One or two larvae were placed on plants at a time for each assay, depending on the number available, and were equally distributed among plants as described under ‘Manduca spp. infestation and W+OS treatment of plants'. However, for infestation M3 (Figure 4), we staggered the infestation of different plant genotypes to accommodate differences in plant growth: WT and irPI plants were initially larger and therefore went into the field on average earlier than irLOX2 and hemi-irLOX2 plants, so that all plants were planted at a similar size, which is important for even establishment. We therefore re-infested WT and irPI plants earlier after M1, to allow irLOX2 and hemi-irLOX2 plants to catch up in their growth to WT and irPI before re-infestation. However, we then left M. sexta larvae on irLOX2 and hemi-irLOX2 as long as on WT and irPI, and we used a combination of Geocoris spp. counts and additional predation assays to make sure that differences in Geocoris spp. predation were not due to this staggering of infestation (see 'Results: Geocoris spp. preferentially predate from GLV-perfumed or -emitting plants')."
     },
     "annotation_901": {
       "type": "emphasis",
@@ -12012,15 +11950,259 @@
       ],
       "target": null,
       "range": [
+        163,
+        170
+      ]
+    },
+    "figure_reference_902": {
+      "type": "figure_reference",
+      "id": "figure_reference_902",
+      "path": [
+        "paragraph_900",
+        "content"
+      ],
+      "target": "image_fig4",
+      "range": [
+        248,
+        256
+      ]
+    },
+    "annotation_903": {
+      "type": "emphasis",
+      "id": "annotation_903",
+      "path": [
+        "paragraph_900",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        370,
+        372
+      ]
+    },
+    "annotation_904": {
+      "type": "emphasis",
+      "id": "annotation_904",
+      "path": [
+        "paragraph_900",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        462,
+        466
+      ]
+    },
+    "annotation_905": {
+      "type": "emphasis",
+      "id": "annotation_905",
+      "path": [
+        "paragraph_900",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        478,
+        482
+      ]
+    },
+    "annotation_906": {
+      "type": "emphasis",
+      "id": "annotation_906",
+      "path": [
+        "paragraph_900",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        619,
+        621
+      ]
+    },
+    "annotation_907": {
+      "type": "emphasis",
+      "id": "annotation_907",
+      "path": [
+        "paragraph_900",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        658,
+        662
+      ]
+    },
+    "annotation_908": {
+      "type": "emphasis",
+      "id": "annotation_908",
+      "path": [
+        "paragraph_900",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        674,
+        678
+      ]
+    },
+    "annotation_909": {
+      "type": "emphasis",
+      "id": "annotation_909",
+      "path": [
+        "paragraph_900",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        726,
+        728
+      ]
+    },
+    "annotation_910": {
+      "type": "emphasis",
+      "id": "annotation_910",
+      "path": [
+        "paragraph_900",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        774,
+        782
+      ]
+    },
+    "annotation_911": {
+      "type": "emphasis",
+      "id": "annotation_911",
+      "path": [
+        "paragraph_900",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        795,
+        799
+      ]
+    },
+    "annotation_912": {
+      "type": "emphasis",
+      "id": "annotation_912",
+      "path": [
+        "paragraph_900",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        811,
+        815
+      ]
+    },
+    "annotation_913": {
+      "type": "emphasis",
+      "id": "annotation_913",
+      "path": [
+        "paragraph_900",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        839,
+        841
+      ]
+    },
+    "annotation_914": {
+      "type": "emphasis",
+      "id": "annotation_914",
+      "path": [
+        "paragraph_900",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        872,
+        880
+      ]
+    },
+    "annotation_915": {
+      "type": "emphasis",
+      "id": "annotation_915",
+      "path": [
+        "paragraph_900",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        958,
+        966
+      ]
+    },
+    "annotation_916": {
+      "type": "emphasis",
+      "id": "annotation_916",
+      "path": [
+        "paragraph_900",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1044,
+        1052
+      ]
+    },
+    "paragraph_917": {
+      "type": "paragraph",
+      "id": "paragraph_917",
+      "content": "Manduca spp. behavior, predation, and growth assays were conducted with first- and second-instar larvae, except infestations M1 2010 and M4 in 2011, in which larvae were reared from the first through fifth instars on plants; and egg predation assays, in which M. sexta eggs were used."
+    },
+    "annotation_918": {
+      "type": "emphasis",
+      "id": "annotation_918",
+      "path": [
+        "paragraph_917",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        0,
+        7
+      ]
+    },
+    "annotation_919": {
+      "type": "emphasis",
+      "id": "annotation_919",
+      "path": [
+        "paragraph_917",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        260,
+        268
+      ]
+    },
+    "paragraph_920": {
+      "type": "paragraph",
+      "id": "paragraph_920",
+      "content": "Larvae used in the off-plant mock predation assays were hatched on the appropriate N. attenuata genotype (WT or irPI) and hatching was monitored three times per day (morning, noon, evening) so that the mock predation assay could be timed to 48 hr after larvae hatched. A protocol of the mock predation assays is given in Figure 10, and Videos 1–4 depict on-plant (1 and 2) and off-plant (3 and 4) behavioral assays. Larvae for off-plant mock predation assays were kept in aerated plastic boxes on cut leaves over moist paper towels. Leaves were refreshed twice daily and were kept fresh by placing the petioles in water in 1.5 mL microcentrifuge tubes which were closed around the petiole with Parafilm (Pechiney Plastic Packaging Company). Larval growth was measured as increases in body length (in millimeters) using calipers or a small, flexible, transparent plastic ruler."
+    },
+    "annotation_921": {
+      "type": "emphasis",
+      "id": "annotation_921",
+      "path": [
+        "paragraph_920",
+        "content"
+      ],
+      "target": null,
+      "range": [
         83,
         95
       ]
     },
-    "annotation_902": {
+    "annotation_922": {
       "type": "emphasis",
-      "id": "annotation_902",
+      "id": "annotation_922",
       "path": [
-        "paragraph_900",
+        "paragraph_920",
         "content"
       ],
       "target": null,
@@ -12029,11 +12211,11 @@
         116
       ]
     },
-    "figure_reference_903": {
+    "figure_reference_923": {
       "type": "figure_reference",
-      "id": "figure_reference_903",
+      "id": "figure_reference_923",
       "path": [
-        "paragraph_900",
+        "paragraph_920",
         "content"
       ],
       "target": "image_fig10",
@@ -12042,11 +12224,11 @@
         330
       ]
     },
-    "figure_reference_904": {
+    "figure_reference_924": {
       "type": "figure_reference",
-      "id": "figure_reference_904",
+      "id": "figure_reference_924",
       "path": [
-        "paragraph_900",
+        "paragraph_920",
         "content"
       ],
       "target": "video_video1",
@@ -12062,16 +12244,16 @@
       "content": "Predation assays",
       "nodes": []
     },
-    "paragraph_905": {
+    "paragraph_925": {
       "type": "paragraph",
-      "id": "paragraph_905",
+      "id": "paragraph_925",
       "content": "Predation rates were recorded for larvae placed on plants as described above, or for two eggs per plant fixed with droplets of α-cellulose glue (Kessler and Baldwin, 2001) to the underside of a rosette or lower stem leaf at a standardized position. For egg predation assays, a wild Manduca spp. larva was enclosed on a nearby leaf to ensure continual GLV emission: a clip cage was closed around the larva to make it inaccessible to Geocoris spp. predators. Predation was monitored mornings and evenings. Larvae were considered to be predated when either the larva was missing over multiple days, but clear Manduca spp. feeding damage was present, or when the predated larval carcass was found (Figure 5). Mortality was defined as the total number of missing larvae. Eggs were considered predated when the eggshell was empty but intact except for a small hole which characterizes the typical damage caused by Geocoris spp. feeding; eggs occasionally collapse during Geocoris spp. predation, but collapsed eggs were not counted unless the eggs were mostly or fully empty and with a visible hole (Figure 5)."
     },
-    "citation_reference_906": {
+    "citation_reference_926": {
       "type": "citation_reference",
-      "id": "citation_reference_906",
+      "id": "citation_reference_926",
       "path": [
-        "paragraph_905",
+        "paragraph_925",
         "content"
       ],
       "target": "article_citation_bib29",
@@ -12080,11 +12262,11 @@
         170
       ]
     },
-    "annotation_907": {
+    "annotation_927": {
       "type": "emphasis",
-      "id": "annotation_907",
+      "id": "annotation_927",
       "path": [
-        "paragraph_905",
+        "paragraph_925",
         "content"
       ],
       "target": null,
@@ -12093,11 +12275,11 @@
         289
       ]
     },
-    "annotation_908": {
+    "annotation_928": {
       "type": "emphasis",
-      "id": "annotation_908",
+      "id": "annotation_928",
       "path": [
-        "paragraph_905",
+        "paragraph_925",
         "content"
       ],
       "target": null,
@@ -12106,11 +12288,11 @@
         440
       ]
     },
-    "annotation_909": {
+    "annotation_929": {
       "type": "emphasis",
-      "id": "annotation_909",
+      "id": "annotation_929",
       "path": [
-        "paragraph_905",
+        "paragraph_925",
         "content"
       ],
       "target": null,
@@ -12119,11 +12301,11 @@
         613
       ]
     },
-    "figure_reference_910": {
+    "figure_reference_930": {
       "type": "figure_reference",
-      "id": "figure_reference_910",
+      "id": "figure_reference_930",
       "path": [
-        "paragraph_905",
+        "paragraph_925",
         "content"
       ],
       "target": "image_fig5",
@@ -12132,11 +12314,11 @@
         702
       ]
     },
-    "annotation_911": {
+    "annotation_931": {
       "type": "emphasis",
-      "id": "annotation_911",
+      "id": "annotation_931",
       "path": [
-        "paragraph_905",
+        "paragraph_925",
         "content"
       ],
       "target": null,
@@ -12145,11 +12327,11 @@
         916
       ]
     },
-    "annotation_912": {
+    "annotation_932": {
       "type": "emphasis",
-      "id": "annotation_912",
+      "id": "annotation_932",
       "path": [
-        "paragraph_905",
+        "paragraph_925",
         "content"
       ],
       "target": null,
@@ -12158,11 +12340,11 @@
         973
       ]
     },
-    "figure_reference_913": {
+    "figure_reference_933": {
       "type": "figure_reference",
-      "id": "figure_reference_913",
+      "id": "figure_reference_933",
       "path": [
-        "paragraph_905",
+        "paragraph_925",
         "content"
       ],
       "target": "image_fig5",
@@ -12178,16 +12360,16 @@
       "content": "GLV supplementation",
       "nodes": []
     },
-    "paragraph_914": {
+    "paragraph_934": {
       "type": "paragraph",
-      "id": "paragraph_914",
+      "id": "paragraph_934",
       "content": "During infestation M2, GLVs were added back to irLOX2 and hemi-irLOX2 headspaces by placing a cotton swab adjacent to the M. sexta-infested leaf and adding ca. 20 µL of lanolin paste, measured with a seed spoon, containing a mix of pure GLVs representative of the M. sexta-fed headspace and dissolved in hexane (Table 1) (Allmann and Baldwin, 2010) to the cotton swab. Cotton swabs bearing ca. 20 µL of lanolin paste with hexane as a control were placed next to M. sexta-infested leaves of WT and irPI plants. Lanolin pastes were regularly refreshed by adding 20 µL in the early afternoon and in the morning. Placing GLVs next to, rather than on the leaf ensured that the supplemented headspace would not be altered by plant metabolism, and that we could terminate the supplementation by removing the cotton swabs."
     },
-    "annotation_915": {
+    "annotation_935": {
       "type": "emphasis",
-      "id": "annotation_915",
+      "id": "annotation_935",
       "path": [
-        "paragraph_914",
+        "paragraph_934",
         "content"
       ],
       "target": null,
@@ -12196,11 +12378,11 @@
         53
       ]
     },
-    "annotation_916": {
+    "annotation_936": {
       "type": "emphasis",
-      "id": "annotation_916",
+      "id": "annotation_936",
       "path": [
-        "paragraph_914",
+        "paragraph_934",
         "content"
       ],
       "target": null,
@@ -12209,11 +12391,11 @@
         69
       ]
     },
-    "annotation_917": {
+    "annotation_937": {
       "type": "emphasis",
-      "id": "annotation_917",
+      "id": "annotation_937",
       "path": [
-        "paragraph_914",
+        "paragraph_934",
         "content"
       ],
       "target": null,
@@ -12222,11 +12404,11 @@
         130
       ]
     },
-    "annotation_918": {
+    "annotation_938": {
       "type": "emphasis",
-      "id": "annotation_918",
+      "id": "annotation_938",
       "path": [
-        "paragraph_914",
+        "paragraph_934",
         "content"
       ],
       "target": null,
@@ -12235,11 +12417,11 @@
         272
       ]
     },
-    "figure_reference_919": {
+    "figure_reference_939": {
       "type": "figure_reference",
-      "id": "figure_reference_919",
+      "id": "figure_reference_939",
       "path": [
-        "paragraph_914",
+        "paragraph_934",
         "content"
       ],
       "target": "table_tbl1",
@@ -12248,11 +12430,11 @@
         319
       ]
     },
-    "citation_reference_920": {
+    "citation_reference_940": {
       "type": "citation_reference",
-      "id": "citation_reference_920",
+      "id": "citation_reference_940",
       "path": [
-        "paragraph_914",
+        "paragraph_934",
         "content"
       ],
       "target": "article_citation_bib2",
@@ -12261,11 +12443,11 @@
         347
       ]
     },
-    "annotation_921": {
+    "annotation_941": {
       "type": "emphasis",
-      "id": "annotation_921",
+      "id": "annotation_941",
       "path": [
-        "paragraph_914",
+        "paragraph_934",
         "content"
       ],
       "target": null,
@@ -12274,11 +12456,11 @@
         470
       ]
     },
-    "annotation_922": {
+    "annotation_942": {
       "type": "emphasis",
-      "id": "annotation_922",
+      "id": "annotation_942",
       "path": [
-        "paragraph_914",
+        "paragraph_934",
         "content"
       ],
       "target": null,
@@ -12294,9 +12476,9 @@
       "content": "Geocoris spp. counts",
       "nodes": []
     },
-    "annotation_923": {
+    "annotation_943": {
       "type": "emphasis",
-      "id": "annotation_923",
+      "id": "annotation_943",
       "path": [
         "heading_s4-12",
         "content"
@@ -12307,16 +12489,16 @@
         8
       ]
     },
-    "paragraph_924": {
+    "paragraph_944": {
       "type": "paragraph",
-      "id": "paragraph_924",
+      "id": "paragraph_944",
       "content": "Field plots were monitored daily for Geocoris spp. presence during the experiments in 2010 and 2011; both G. pallens and G. punctipes were present in 2011, but most individuals observed on and around plants were G. pallens. Soon after the first Geocoris spp. sightings in May 2011 (before the first infestation, M2), Geocoris spp. populations in the immediate vicinity of experimental plants were monitored every 2–3 days by counting individuals. Counts were conducted during the main period of Geocoris spp. activity in the early afternoon, by at least two observers in parallel, in order to complete the count around all Manduca spp.-infested and control plants within 20–30 min. Each observer proceeded by looking at a focal plant and its immediate vicinity for 15 s and then quickly inspecting the rosette leaves; all Geocoris spp. adults and nymphs seen on, under, or within 5 cm around the rosette of the plant during this time were counted. Observers moved in synchrony with each other from one end of the field plot to the other, in this way counting predators around plants which had not yet been disturbed."
     },
-    "annotation_925": {
+    "annotation_945": {
       "type": "emphasis",
-      "id": "annotation_925",
+      "id": "annotation_945",
       "path": [
-        "paragraph_924",
+        "paragraph_944",
         "content"
       ],
       "target": null,
@@ -12325,11 +12507,11 @@
         45
       ]
     },
-    "annotation_926": {
+    "annotation_946": {
       "type": "emphasis",
-      "id": "annotation_926",
+      "id": "annotation_946",
       "path": [
-        "paragraph_924",
+        "paragraph_944",
         "content"
       ],
       "target": null,
@@ -12338,11 +12520,11 @@
         116
       ]
     },
-    "annotation_927": {
+    "annotation_947": {
       "type": "emphasis",
-      "id": "annotation_927",
+      "id": "annotation_947",
       "path": [
-        "paragraph_924",
+        "paragraph_944",
         "content"
       ],
       "target": null,
@@ -12351,11 +12533,11 @@
         133
       ]
     },
-    "annotation_928": {
+    "annotation_948": {
       "type": "emphasis",
-      "id": "annotation_928",
+      "id": "annotation_948",
       "path": [
-        "paragraph_924",
+        "paragraph_944",
         "content"
       ],
       "target": null,
@@ -12364,11 +12546,11 @@
         222
       ]
     },
-    "annotation_929": {
+    "annotation_949": {
       "type": "emphasis",
-      "id": "annotation_929",
+      "id": "annotation_949",
       "path": [
-        "paragraph_924",
+        "paragraph_944",
         "content"
       ],
       "target": null,
@@ -12377,11 +12559,11 @@
         253
       ]
     },
-    "annotation_930": {
+    "annotation_950": {
       "type": "emphasis",
-      "id": "annotation_930",
+      "id": "annotation_950",
       "path": [
-        "paragraph_924",
+        "paragraph_944",
         "content"
       ],
       "target": null,
@@ -12390,11 +12572,11 @@
         325
       ]
     },
-    "annotation_931": {
+    "annotation_951": {
       "type": "emphasis",
-      "id": "annotation_931",
+      "id": "annotation_951",
       "path": [
-        "paragraph_924",
+        "paragraph_944",
         "content"
       ],
       "target": null,
@@ -12403,11 +12585,11 @@
         503
       ]
     },
-    "annotation_932": {
+    "annotation_952": {
       "type": "emphasis",
-      "id": "annotation_932",
+      "id": "annotation_952",
       "path": [
-        "paragraph_924",
+        "paragraph_944",
         "content"
       ],
       "target": null,
@@ -12416,11 +12598,11 @@
         630
       ]
     },
-    "annotation_933": {
+    "annotation_953": {
       "type": "emphasis",
-      "id": "annotation_933",
+      "id": "annotation_953",
       "path": [
-        "paragraph_924",
+        "paragraph_944",
         "content"
       ],
       "target": null,
@@ -12436,16 +12618,16 @@
       "content": "Plant growth and reproduction",
       "nodes": []
     },
-    "paragraph_934": {
+    "paragraph_954": {
       "type": "paragraph",
-      "id": "paragraph_934",
+      "id": "paragraph_954",
       "content": "Plant size (rosette diameter, stem length and branching) was monitored at the end of infestation M1 in 2010 and from the beginning of infestation M2 in 2011 (Figure 4): rosette diameter was measured as the maximum diameter found by gently laying a ruler over the rosette; stem length was measured from the base of the stem to the tip of the apical inflorescence by placing a ruler beside the stem; and all side branches 5 cm or longer were counted. Reproductive output was monitored by counting the number of closed flowers removed every 2–3 days (before they opened) from the beginning of flowering, and by counting numbers of closed flowers and buds 2 mm or larger at the end of infestation M1 in 2010, and during all infestations in 2011. All growth and reproduction data were analyzed for differences in control versus M. sexta-infested plants within each genotype (statistics Table 3). Because size-matched plants had been planted over one week in 2011, growth and reproduction data from plants in 2011 were organized by the number of days since planting for comparison between genotypes (Figure 6)."
     },
-    "figure_reference_935": {
+    "figure_reference_955": {
       "type": "figure_reference",
-      "id": "figure_reference_935",
+      "id": "figure_reference_955",
       "path": [
-        "paragraph_934",
+        "paragraph_954",
         "content"
       ],
       "target": "image_fig4",
@@ -12454,11 +12636,11 @@
         166
       ]
     },
-    "annotation_936": {
+    "annotation_956": {
       "type": "emphasis",
-      "id": "annotation_936",
+      "id": "annotation_956",
       "path": [
-        "paragraph_934",
+        "paragraph_954",
         "content"
       ],
       "target": null,
@@ -12467,11 +12649,11 @@
         831
       ]
     },
-    "figure_reference_937": {
+    "figure_reference_957": {
       "type": "figure_reference",
-      "id": "figure_reference_937",
+      "id": "figure_reference_957",
       "path": [
-        "paragraph_934",
+        "paragraph_954",
         "content"
       ],
       "target": "table_tbl3",
@@ -12480,11 +12662,11 @@
         888
       ]
     },
-    "figure_reference_938": {
+    "figure_reference_958": {
       "type": "figure_reference",
-      "id": "figure_reference_938",
+      "id": "figure_reference_958",
       "path": [
-        "paragraph_934",
+        "paragraph_954",
         "content"
       ],
       "target": "image_fig6",
@@ -12500,16 +12682,16 @@
       "content": "Removal of flowers during infestations M1 and M3, and of reproductive meristems prior to infestation M4",
       "nodes": []
     },
-    "paragraph_939": {
+    "paragraph_959": {
       "type": "paragraph",
-      "id": "paragraph_939",
+      "id": "paragraph_959",
       "content": "Flowers were removed and counted periodically over the first 10 days of infestation M1 and during infestation M3 (Figures 4 and 6, statistics Table 3), in order to track plant reproduction while avoiding ripe seed capsules: the distribution of ripe seed is not permitted for genetically modified plants. For infestation M4 in 2011 (Figure 4), instead of regularly removing flowers, we removed all reproductive meristems by cutting inflorescences, which contained mostly buds, at their base, so that we would be able to follow a new set of reproductive meristems through to seed set without incurring ripe seed. Because plants were matched prior to M4 and had the same number of buds and of side branches (which usually terminate in inflorescences) (Figure 8, see 'Discussion'), all plants were similarly affected by the removal of reproductive meristems."
     },
-    "figure_reference_940": {
+    "figure_reference_960": {
       "type": "figure_reference",
-      "id": "figure_reference_940",
+      "id": "figure_reference_960",
       "path": [
-        "paragraph_939",
+        "paragraph_959",
         "content"
       ],
       "target": "image_fig4",
@@ -12518,11 +12700,11 @@
         129
       ]
     },
-    "figure_reference_941": {
+    "figure_reference_961": {
       "type": "figure_reference",
-      "id": "figure_reference_941",
+      "id": "figure_reference_961",
       "path": [
-        "paragraph_939",
+        "paragraph_959",
         "content"
       ],
       "target": "table_tbl3",
@@ -12531,11 +12713,11 @@
         149
       ]
     },
-    "figure_reference_942": {
+    "figure_reference_962": {
       "type": "figure_reference",
-      "id": "figure_reference_942",
+      "id": "figure_reference_962",
       "path": [
-        "paragraph_939",
+        "paragraph_959",
         "content"
       ],
       "target": "image_fig4",
@@ -12544,11 +12726,11 @@
         340
       ]
     },
-    "figure_reference_943": {
+    "figure_reference_963": {
       "type": "figure_reference",
-      "id": "figure_reference_943",
+      "id": "figure_reference_963",
       "path": [
-        "paragraph_939",
+        "paragraph_959",
         "content"
       ],
       "target": "image_fig8",
@@ -12564,16 +12746,16 @@
       "content": "Herbivore damage and plant health",
       "nodes": []
     },
-    "paragraph_944": {
+    "paragraph_964": {
       "type": "paragraph",
-      "id": "paragraph_944",
+      "id": "paragraph_964",
       "content": "Photographs were taken of entire plants and M. sexta-damaged leaves during infestations M2 and M3 in 2011. Damage caused by M. sexta larvae was rated from photographs by an independent observer with no knowledge of plant identity. Total percent canopy damage due to M. sexta was rated as 1, 2, 3, or 4 using the damage index in Figure 7."
     },
-    "annotation_945": {
+    "annotation_965": {
       "type": "emphasis",
-      "id": "annotation_945",
+      "id": "annotation_965",
       "path": [
-        "paragraph_944",
+        "paragraph_964",
         "content"
       ],
       "target": null,
@@ -12582,11 +12764,11 @@
         52
       ]
     },
-    "annotation_946": {
+    "annotation_966": {
       "type": "emphasis",
-      "id": "annotation_946",
+      "id": "annotation_966",
       "path": [
-        "paragraph_944",
+        "paragraph_964",
         "content"
       ],
       "target": null,
@@ -12595,11 +12777,11 @@
         132
       ]
     },
-    "annotation_947": {
+    "annotation_967": {
       "type": "emphasis",
-      "id": "annotation_947",
+      "id": "annotation_967",
       "path": [
-        "paragraph_944",
+        "paragraph_964",
         "content"
       ],
       "target": null,
@@ -12608,11 +12790,11 @@
         274
       ]
     },
-    "figure_reference_948": {
+    "figure_reference_968": {
       "type": "figure_reference",
-      "id": "figure_reference_948",
+      "id": "figure_reference_968",
       "path": [
-        "paragraph_944",
+        "paragraph_964",
         "content"
       ],
       "target": "image_fig7",
@@ -12621,16 +12803,16 @@
         336
       ]
     },
-    "paragraph_949": {
+    "paragraph_969": {
       "type": "paragraph",
-      "id": "paragraph_949",
+      "id": "paragraph_969",
       "content": "We monitored herbivore attack to determine whether GLV-silenced plants suffered different amounts of herbivore damage, which could influence fitness measurements. The naturally occurring herbivore community on plants in 2010 and 2011 comprised mirids (Tupiocoris notatus) and noctuid larvae; in 2011 grasshoppers (Trimerotropis spp.) and flea beetles (Epitrix spp.) were also present. Total canopy damage due to herbivores occurring naturally on the field plot was quantified prior to the infestations in 2010 and 2011 and again during infestation M3 in 2011. Damage was calculated by identifying damage from specific herbivores according to their characteristic feeding patterns, counting the number of leaves per plant (small leaves were counted as 1/5 to 1/2 of a leaf based on leaf area and large leaves were counted as 1 leaf), estimating the total percentage of leaf area damage due to each herbivore, and dividing the total leaf area damage from each herbivore by the total number of leaves. Leaf area damage was estimated in categories of 1%, 5%, 10%, 15%, and so on, in steps of 5%. All such damage estimates were made by MCS or KB, who first practiced quantifying damage together until they consistently arrived at the same numbers."
     },
-    "annotation_950": {
+    "annotation_970": {
       "type": "emphasis",
-      "id": "annotation_950",
+      "id": "annotation_970",
       "path": [
-        "paragraph_949",
+        "paragraph_969",
         "content"
       ],
       "target": null,
@@ -12639,11 +12821,11 @@
         270
       ]
     },
-    "annotation_951": {
+    "annotation_971": {
       "type": "emphasis",
-      "id": "annotation_951",
+      "id": "annotation_971",
       "path": [
-        "paragraph_949",
+        "paragraph_969",
         "content"
       ],
       "target": null,
@@ -12652,11 +12834,11 @@
         327
       ]
     },
-    "annotation_952": {
+    "annotation_972": {
       "type": "emphasis",
-      "id": "annotation_952",
+      "id": "annotation_972",
       "path": [
-        "paragraph_949",
+        "paragraph_969",
         "content"
       ],
       "target": null,
@@ -12665,16 +12847,16 @@
         359
       ]
     },
-    "paragraph_953": {
+    "paragraph_973": {
       "type": "paragraph",
-      "id": "paragraph_953",
+      "id": "paragraph_973",
       "content": "As part of matching plants prior to infestation M4 in 2011, plant health was rated on a scale of 1 (dead) to 5 (healthy) using the index in Figure 7."
     },
-    "figure_reference_954": {
+    "figure_reference_974": {
       "type": "figure_reference",
-      "id": "figure_reference_954",
+      "id": "figure_reference_974",
       "path": [
-        "paragraph_953",
+        "paragraph_973",
         "content"
       ],
       "target": "image_fig7",
@@ -12690,16 +12872,16 @@
       "content": "Statistical analyses",
       "nodes": []
     },
-    "paragraph_955": {
+    "paragraph_975": {
       "type": "paragraph",
-      "id": "paragraph_955",
+      "id": "paragraph_975",
       "content": "Fisher's exact tests were conducted using a macro (J H Macdonald, http://udel.edu/~mcdonald/statfishers.html) for Excel (Microsoft). All other statistical analyses were conducted with SPSS 17.0 (IBM). Count data were analyzed either by Fisher's exact tests (independent values) or by Friedman tests (repeated measures). Levene's test for homogeneity of variance was performed prior to all t-tests and ANOVAs and when necessary, data were log2 transformed (volatile and transcript data), square root transformed (count data) or arcsin transformed (herbivore damage data) to meet requirements for homogeneity of variance. Parametric data were compared using ANOVAs, MANOVAs, or repeated-measure ANOVAs followed by Scheffe post hoc tests. If variance was not homogeneous following transformation, data were compared using Kruskal-Wallis tests (for multiple comparisons) or Mann-Whitney U-tests (for two-way comparisons) and Bonferroni p-value corrections were used to correct for nonparametric multiple comparisons. For Kruskal-Wallis tests and Mann-Whitney U-tests, a Monte Carlo algorithm was used with 10,000 permutations and a 95% confidence level."
     },
-    "annotation_956": {
+    "annotation_976": {
       "type": "link",
-      "id": "annotation_956",
+      "id": "annotation_976",
       "path": [
-        "paragraph_955",
+        "paragraph_975",
         "content"
       ],
       "target": null,
@@ -12709,11 +12891,11 @@
       ],
       "url": "http://udel.edu/~mcdonald/statfishers.html"
     },
-    "annotation_957": {
+    "annotation_977": {
       "type": "subscript",
-      "id": "annotation_957",
+      "id": "annotation_977",
       "path": [
-        "paragraph_955",
+        "paragraph_975",
         "content"
       ],
       "target": null,
@@ -12722,11 +12904,11 @@
         442
       ]
     },
-    "annotation_958": {
+    "annotation_978": {
       "type": "emphasis",
-      "id": "annotation_958",
+      "id": "annotation_978",
       "path": [
-        "paragraph_955",
+        "paragraph_975",
         "content"
       ],
       "target": null,
@@ -12749,9 +12931,9 @@
       "id": "paragraph_ack",
       "content": "AcknowledgementsWe thank S Allmann for conducting egg predation assays in 2010; C Diezel, M Erb, M Kallenbach, D Kessler, D Marciniak, M Stanton, and A Steppke for help with field work; S Weigl for rating M. sexta damage levels; J Gershenzon for the use of the HP GC-MS; M Erb, J Gershenzon, D Heckel, M Kallenbach, A Kessler, A Steppke, and A Weinhold for comments on the manuscript; Brigham Young University for the use of their Lytle Preserve field station; and APHIS for constructive regulatory oversight.Additional information"
     },
-    "annotation_959": {
+    "annotation_979": {
       "type": "emphasis",
-      "id": "annotation_959",
+      "id": "annotation_979",
       "path": [
         "paragraph_ack",
         "content"
@@ -12768,19 +12950,19 @@
       "level": 2,
       "content": "Competing Interests",
       "nodes": [
-        "paragraph_960"
+        "paragraph_980"
       ]
     },
-    "paragraph_960": {
+    "paragraph_980": {
       "type": "paragraph",
-      "id": "paragraph_960",
+      "id": "paragraph_980",
       "content": "Competing interestsITB: Senior Editor, eLife.The other authors have declared that no competing interests exist."
     },
-    "annotation_961": {
+    "annotation_981": {
       "type": "emphasis",
-      "id": "annotation_961",
+      "id": "annotation_981",
       "path": [
-        "paragraph_960",
+        "paragraph_980",
         "content"
       ],
       "target": null,
@@ -12831,17 +13013,11 @@
       "year": "2009",
       "volume": "184",
       "source": "New Phytol",
-      "issue": "",
       "fpage": "768",
       "lpage": "782",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1111/j.1469-8137.2009.03046.x",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib2": {
@@ -12861,17 +13037,11 @@
       "year": "2010",
       "volume": "329",
       "source": "Science",
-      "issue": "",
       "fpage": "1075",
       "lpage": "1078",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1126/science.1191634",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib3": {
@@ -12899,22 +13069,16 @@
       "year": "2010",
       "volume": "33",
       "source": "Plant Cell Environ",
-      "issue": "",
       "fpage": "2028",
       "lpage": "2040",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1111/j.1365-3040.2010.02203.x",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_962": {
+    "annotation_982": {
       "type": "emphasis",
-      "id": "annotation_962",
+      "id": "annotation_982",
       "path": [
         "article_citation_bib3",
         "title"
@@ -12938,17 +13102,10 @@
       "year": "1998",
       "volume": "95",
       "source": "Proc Natl Acad Sci U S A",
-      "issue": "",
       "fpage": "8113",
       "lpage": "8118",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib5": {
@@ -12968,17 +13125,11 @@
       "year": "1997",
       "volume": "78",
       "source": "Ecology",
-      "issue": "",
       "fpage": "987",
       "lpage": "999",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.2307/2265852",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib6": {
@@ -13010,22 +13161,16 @@
       "year": "2006",
       "volume": "25",
       "source": "Plant Cell Rep",
-      "issue": "",
       "fpage": "668",
       "lpage": "675",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1007/s00299-005-0111-4",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_963": {
+    "annotation_983": {
       "type": "emphasis",
-      "id": "annotation_963",
+      "id": "annotation_983",
       "path": [
         "article_citation_bib6",
         "title"
@@ -13036,9 +13181,9 @@
         48
       ]
     },
-    "annotation_964": {
+    "annotation_984": {
       "type": "emphasis",
-      "id": "annotation_964",
+      "id": "annotation_984",
       "path": [
         "article_citation_bib6",
         "title"
@@ -13070,17 +13215,11 @@
       "year": "2001",
       "volume": "410",
       "source": "Nature",
-      "issue": "",
       "fpage": "577",
       "lpage": "580",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/35069058",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib8": {
@@ -13116,17 +13255,11 @@
       "year": "2009",
       "volume": "106",
       "source": "Proc Natl Acad Sci U S A",
-      "issue": "",
       "fpage": "13213",
       "lpage": "13218",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1073/pnas.0906365106",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib9": {
@@ -13146,17 +13279,11 @@
       "year": "2010",
       "volume": "15",
       "source": "Trends Plant Sci",
-      "issue": "",
       "fpage": "167",
       "lpage": "175",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.tplants.2009.12.002",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib10": {
@@ -13176,17 +13303,11 @@
       "year": "1999",
       "volume": "80",
       "source": "Ecology",
-      "issue": "",
       "fpage": "1253",
       "lpage": "1266",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.2307/177072",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib11": {
@@ -13206,17 +13327,11 @@
       "year": "2000",
       "volume": "81",
       "source": "Ecology",
-      "issue": "",
       "fpage": "936",
       "lpage": "947",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.2307/177168",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib12": {
@@ -13244,22 +13359,15 @@
       "year": "2011",
       "volume": "7",
       "source": "Plant Methods",
-      "issue": "",
       "fpage": "34",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1186/1746-4811-7-34",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_965": {
+    "annotation_985": {
       "type": "emphasis",
-      "id": "annotation_965",
+      "id": "annotation_985",
       "path": [
         "article_citation_bib12",
         "title"
@@ -13291,22 +13399,16 @@
       "year": "2003",
       "volume": "29",
       "source": "J Chem Ecol",
-      "issue": "",
       "fpage": "1813",
       "lpage": "1833",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1023/A:1024898127549",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_966": {
+    "annotation_986": {
       "type": "emphasis",
-      "id": "annotation_966",
+      "id": "annotation_986",
       "path": [
         "article_citation_bib13",
         "title"
@@ -13338,17 +13440,11 @@
       "year": "2004",
       "volume": "38",
       "source": "Plant J",
-      "issue": "",
       "fpage": "594",
       "lpage": "602",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1111/j.1365-313X.2004.02067.x",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib15": {
@@ -13368,22 +13464,16 @@
       "year": "2003",
       "volume": "36",
       "source": "Plant J",
-      "issue": "",
       "fpage": "794",
       "lpage": "807",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1046/j.1365-313X.2003.01921.x",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_967": {
+    "annotation_987": {
       "type": "emphasis",
-      "id": "annotation_967",
+      "id": "annotation_987",
       "path": [
         "article_citation_bib15",
         "title"
@@ -13423,22 +13513,16 @@
       "year": "2000",
       "volume": "124",
       "source": "Oecologia",
-      "issue": "",
       "fpage": "408",
       "lpage": "417",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1007/s004420000389",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_968": {
+    "annotation_988": {
       "type": "emphasis",
-      "id": "annotation_968",
+      "id": "annotation_988",
       "path": [
         "article_citation_bib16",
         "title"
@@ -13478,22 +13562,16 @@
       "year": "2001",
       "volume": "125",
       "source": "Plant Physiol",
-      "issue": "",
       "fpage": "711",
       "lpage": "717",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1104/pp.125.2.711",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_969": {
+    "annotation_989": {
       "type": "emphasis",
-      "id": "annotation_969",
+      "id": "annotation_989",
       "path": [
         "article_citation_bib17",
         "title"
@@ -13504,9 +13582,9 @@
         69
       ]
     },
-    "annotation_970": {
+    "annotation_990": {
       "type": "emphasis",
-      "id": "annotation_970",
+      "id": "annotation_990",
       "path": [
         "article_citation_bib17",
         "title"
@@ -13542,22 +13620,16 @@
       "year": "2004",
       "volume": "40",
       "source": "Plant J",
-      "issue": "",
       "fpage": "35",
       "lpage": "46",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1111/j.1365-313X.2004.02185.x",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_971": {
+    "annotation_991": {
       "type": "emphasis",
-      "id": "annotation_971",
+      "id": "annotation_991",
       "path": [
         "article_citation_bib18",
         "title"
@@ -13597,17 +13669,11 @@
       "year": "2008",
       "volume": "11",
       "source": "Ecol Lett",
-      "issue": "",
       "fpage": "24",
       "lpage": "34",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1111/j.1461-0248.2007.01123.x",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib20": {
@@ -13635,17 +13701,11 @@
       "year": "2011",
       "volume": "6",
       "source": "Plant Signal Behav",
-      "issue": "",
       "fpage": "1009",
       "lpage": "1011",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.4161/psb.6.7.15504",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib21": {
@@ -13661,17 +13721,11 @@
       "year": "2008",
       "volume": "178",
       "source": "New Phytol",
-      "issue": "",
       "fpage": "41",
       "lpage": "61",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1111/j.1469-8137.2007.02330.x",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib22": {
@@ -13691,17 +13745,10 @@
       "year": "2001",
       "volume": "3",
       "source": "Evol Ecol Res",
-      "issue": "",
       "fpage": "553",
       "lpage": "565",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib23": {
@@ -13719,19 +13766,10 @@
       ],
       "title": "Integrated pest management for crops and pastures",
       "year": "2008",
-      "volume": "",
-      "source": "",
-      "issue": "",
-      "fpage": "",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
       "publisher-name": "Landlinks Press",
       "publisher-loc": "Victoria",
-      "doi": "",
       "citation_url": [],
       "format": "book",
-      "label": "",
       "editors": []
     },
     "article_citation_bib24": {
@@ -13759,22 +13797,16 @@
       "year": "2010",
       "volume": "152",
       "source": "Plant Physiol",
-      "issue": "",
       "fpage": "96",
       "lpage": "106",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1104/pp.109.149013",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_972": {
+    "annotation_992": {
       "type": "emphasis",
-      "id": "annotation_972",
+      "id": "annotation_992",
       "path": [
         "article_citation_bib24",
         "title"
@@ -13798,17 +13830,11 @@
       "year": "2012",
       "volume": "60",
       "source": "Biol Control",
-      "issue": "",
       "fpage": "77",
       "lpage": "89",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.biocontrol.2011.10.017",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib26": {
@@ -13828,17 +13854,11 @@
       "year": "2011",
       "volume": "59",
       "source": "Biol Control",
-      "issue": "",
       "fpage": "53",
       "lpage": "60",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.biocontrol.2010.12.005",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib27": {
@@ -13874,17 +13894,11 @@
       "year": "2005",
       "volume": "309",
       "source": "Science",
-      "issue": "",
       "fpage": "2070",
       "lpage": "2072",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1126/science.1116232",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib28": {
@@ -13902,19 +13916,10 @@
       ],
       "title": "Induced responses to herbivory",
       "year": "1997",
-      "volume": "",
-      "source": "",
-      "issue": "",
-      "fpage": "",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
       "publisher-name": "University of Chicago Press",
       "publisher-loc": "Chicago",
-      "doi": "",
       "citation_url": [],
       "format": "book",
-      "label": "",
       "editors": []
     },
     "article_citation_bib29": {
@@ -13934,17 +13939,11 @@
       "year": "2001",
       "volume": "291",
       "source": "Science",
-      "issue": "",
       "fpage": "2141",
       "lpage": "2144",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1126/science.291.5511.2141",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib30": {
@@ -13964,22 +13963,16 @@
       "year": "2004",
       "volume": "38",
       "source": "Plant J",
-      "issue": "",
       "fpage": "639",
       "lpage": "649",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1111/j.1365-313X.2004.02076.x",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_973": {
+    "annotation_993": {
       "type": "emphasis",
-      "id": "annotation_973",
+      "id": "annotation_993",
       "path": [
         "article_citation_bib30",
         "title"
@@ -14007,22 +14000,16 @@
       "year": "2006",
       "volume": "49",
       "source": "Plant J",
-      "issue": "",
       "fpage": "840",
       "lpage": "854",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1111/j.1365-313X.2006.02995.x",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_974": {
+    "annotation_994": {
       "type": "emphasis",
-      "id": "annotation_974",
+      "id": "annotation_994",
       "path": [
         "article_citation_bib31",
         "title"
@@ -14050,17 +14037,11 @@
       "year": "2011",
       "volume": "25",
       "source": "Funct Ecol",
-      "issue": "",
       "fpage": "348",
       "lpage": "357",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1111/j.1365-2435.2010.01818.x",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib33": {
@@ -14084,17 +14065,11 @@
       "year": "2004",
       "volume": "305",
       "source": "Science",
-      "issue": "",
       "fpage": "665",
       "lpage": "668",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1126/science.291.5511.2141",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib34": {
@@ -14122,22 +14097,16 @@
       "year": "2006",
       "volume": "148",
       "source": "Oecologia",
-      "issue": "",
       "fpage": "280",
       "lpage": "292",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1007/s00442-006-0365-8",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_975": {
+    "annotation_995": {
       "type": "emphasis",
-      "id": "annotation_975",
+      "id": "annotation_995",
       "path": [
         "article_citation_bib34",
         "title"
@@ -14148,9 +14117,9 @@
         95
       ]
     },
-    "annotation_976": {
+    "annotation_996": {
       "type": "emphasis",
-      "id": "annotation_976",
+      "id": "annotation_996",
       "path": [
         "article_citation_bib34",
         "title"
@@ -14186,17 +14155,11 @@
       "year": "2009",
       "volume": "27",
       "source": "Trends Biotechnol",
-      "issue": "",
       "fpage": "621",
       "lpage": "627",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.tibtech.2009.08.002",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib36": {
@@ -14228,22 +14191,16 @@
       "year": "2002",
       "volume": "12",
       "source": "Chemoecology",
-      "issue": "",
       "fpage": "177",
       "lpage": "183",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1007/PL00012666",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_977": {
+    "annotation_997": {
       "type": "emphasis",
-      "id": "annotation_977",
+      "id": "annotation_997",
       "path": [
         "article_citation_bib36",
         "title"
@@ -14254,9 +14211,9 @@
         13
       ]
     },
-    "annotation_978": {
+    "annotation_998": {
       "type": "emphasis",
-      "id": "annotation_978",
+      "id": "annotation_998",
       "path": [
         "article_citation_bib36",
         "title"
@@ -14300,22 +14257,16 @@
       "year": "2010",
       "volume": "66",
       "source": "Pest Manag Sci",
-      "issue": "",
       "fpage": "155",
       "lpage": "161",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1002/ps.1849",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_979": {
+    "annotation_999": {
       "type": "emphasis",
-      "id": "annotation_979",
+      "id": "annotation_999",
       "path": [
         "article_citation_bib37",
         "title"
@@ -14347,22 +14298,16 @@
       "year": "2009",
       "volume": "181",
       "source": "New Phytol",
-      "issue": "",
       "fpage": "161",
       "lpage": "173",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1111/j.1469-8137.2008.02645.x",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_980": {
+    "annotation_1000": {
       "type": "emphasis",
-      "id": "annotation_980",
+      "id": "annotation_1000",
       "path": [
         "article_citation_bib38",
         "title"
@@ -14394,17 +14339,11 @@
       "year": "2006",
       "volume": "45",
       "source": "Plant J",
-      "issue": "",
       "fpage": "275",
       "lpage": "291",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1111/j.1365-313X.2005.02623.x",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib40": {
@@ -14440,17 +14379,11 @@
       "year": "1980",
       "volume": "11",
       "source": "Ann Rev Ecol Syst",
-      "issue": "",
       "fpage": "41",
       "lpage": "65",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1146/annurev.es.11.110180.000353",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib41": {
@@ -14486,17 +14419,11 @@
       "year": "2005",
       "volume": "434",
       "source": "Nature",
-      "issue": "",
       "fpage": "732",
       "lpage": "737",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nature03451",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib42": {
@@ -14520,22 +14447,16 @@
       "year": "2000",
       "volume": "210",
       "source": "Planta",
-      "issue": "",
       "fpage": "343",
       "lpage": "346",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1007/PL00008143",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_981": {
+    "annotation_1001": {
       "type": "emphasis",
-      "id": "annotation_981",
+      "id": "annotation_1001",
       "path": [
         "article_citation_bib42",
         "title"
@@ -14546,9 +14467,9 @@
         34
       ]
     },
-    "annotation_982": {
+    "annotation_1002": {
       "type": "emphasis",
-      "id": "annotation_982",
+      "id": "annotation_1002",
       "path": [
         "article_citation_bib42",
         "title"
@@ -14580,22 +14501,16 @@
       "year": "2001",
       "volume": "125",
       "source": "Plant Physiol",
-      "issue": "",
       "fpage": "701",
       "lpage": "710",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1104/pp.125.2.701",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_983": {
+    "annotation_1003": {
       "type": "emphasis",
-      "id": "annotation_983",
+      "id": "annotation_1003",
       "path": [
         "article_citation_bib43",
         "title"
@@ -14606,9 +14521,9 @@
         69
       ]
     },
-    "annotation_984": {
+    "annotation_1004": {
       "type": "emphasis",
-      "id": "annotation_984",
+      "id": "annotation_1004",
       "path": [
         "article_citation_bib43",
         "title"
@@ -14652,17 +14567,11 @@
       "year": "2006",
       "volume": "103",
       "source": "Proc Natl Acad Sci U S A",
-      "issue": "",
       "fpage": "1129",
       "lpage": "1134",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1073/pnas.0508027103",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib45": {
@@ -14694,22 +14603,16 @@
       "year": "2009",
       "volume": "183",
       "source": "New Phytol",
-      "issue": "",
       "fpage": "1134",
       "lpage": "1148",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1111/j.1469-8137.2009.02894.x",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_985": {
+    "annotation_1005": {
       "type": "emphasis",
-      "id": "annotation_985",
+      "id": "annotation_1005",
       "path": [
         "article_citation_bib45",
         "title"
@@ -14737,21 +14640,10 @@
           "last-name": "Baldwin"
         }
       ],
-      "title": "",
       "year": "2012",
-      "volume": "",
-      "source": "",
-      "issue": "",
-      "fpage": "",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/http://dx.doi.org/10.5061/dryad.gs45f",
       "citation_url": [],
       "format": "web",
-      "label": "",
       "editors": [],
       "comment": "Data from: Herbivory-induced volatiles function as defenses increasing fitness of the native plant ",
       "italic": "Nicotiana attenuata"
@@ -14777,17 +14669,10 @@
       "year": "2008",
       "volume": "3",
       "source": "PLoS One",
-      "issue": "",
       "fpage": "e1543",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1371/journal.pone.0001543",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib48": {
@@ -14807,22 +14692,15 @@
       "year": "2003",
       "volume": "3",
       "source": "BMC Ecol",
-      "issue": "",
       "fpage": "6",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1186/1472-6785-3-6",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_986": {
+    "annotation_1006": {
       "type": "emphasis",
-      "id": "annotation_986",
+      "id": "annotation_1006",
       "path": [
         "article_citation_bib48",
         "title"
@@ -14858,22 +14736,16 @@
       "year": "2008",
       "volume": "20",
       "source": "Plant Cell",
-      "issue": "",
       "fpage": "1984",
       "lpage": "2000",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1105/tpc.108.058594",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_987": {
+    "annotation_1007": {
       "type": "emphasis",
-      "id": "annotation_987",
+      "id": "annotation_1007",
       "path": [
         "article_citation_bib49",
         "title"
@@ -14901,17 +14773,11 @@
       "year": "2007",
       "volume": "10",
       "source": "Ecol Lett",
-      "issue": "",
       "fpage": "499",
       "lpage": "511",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1111/j.1461-0248.2007.01045.x",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib51": {
@@ -14935,17 +14801,11 @@
       "year": "2011",
       "volume": "6",
       "source": "Plant Signal Behav",
-      "issue": "",
       "fpage": "1893",
       "lpage": "1896",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.4161/psb.6.12.18028",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib52": {
@@ -14969,17 +14829,11 @@
       "year": "2006",
       "volume": "142",
       "source": "Plant Physiol",
-      "issue": "",
       "fpage": "6",
       "lpage": "20",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1104/pp.106.084517",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib53": {
@@ -14997,19 +14851,13 @@
       ],
       "title": "Recruitment of predators and parasitoids by herbivore-injured plants",
       "year": "2004",
-      "volume": "",
       "source": "Advances in insect chemical ecology",
-      "issue": "",
       "fpage": "21",
       "lpage": "75",
-      "collab": "",
-      "edition": "",
       "publisher-name": "Cambridge University Press",
       "publisher-loc": "Cambridge",
-      "doi": "",
       "citation_url": [],
       "format": "book",
-      "label": "",
       "editors": [
         {
           "given-names": "RT",
@@ -15046,22 +14894,16 @@
       "year": "2001",
       "volume": "27",
       "source": "J Chem Ecol",
-      "issue": "",
       "fpage": "547",
       "lpage": "568",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1023/A:1010341022761",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_988": {
+    "annotation_1008": {
       "type": "emphasis",
-      "id": "annotation_988",
+      "id": "annotation_1008",
       "path": [
         "article_citation_bib54",
         "title"
@@ -15093,17 +14935,11 @@
       "year": "2000",
       "volume": "97",
       "source": "Entomologia Experimentalis et Applicata",
-      "issue": "",
       "fpage": "219",
       "lpage": "227",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1046/j.1570-7458.2000.00733.x",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib56": {
@@ -15123,17 +14959,11 @@
       "year": "2011",
       "volume": "108",
       "source": "Proc Natl Acad Sci U S A",
-      "issue": "",
       "fpage": "7855",
       "lpage": "7859",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1073/pnas.1101306108",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib57": {
@@ -15149,17 +14979,11 @@
       "year": "1999",
       "volume": "24",
       "source": "Ecol Entomol",
-      "issue": "",
       "fpage": "490",
       "lpage": "495",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1046/j.1365-2311.1999.00217.x",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib58": {
@@ -15179,22 +15003,16 @@
       "year": "2002",
       "volume": "46",
       "source": "Chemoecology",
-      "issue": "",
       "fpage": "29",
       "lpage": "46",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1007/s00049-002-8324-2",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_989": {
+    "annotation_1009": {
       "type": "emphasis",
-      "id": "annotation_989",
+      "id": "annotation_1009",
       "path": [
         "article_citation_bib58",
         "title"
@@ -15222,17 +15040,11 @@
       "year": "2001",
       "volume": "10",
       "source": "Mol Ecol",
-      "issue": "",
       "fpage": "1069",
       "lpage": "1074",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1046/j.1365-294X.2001.01239.x",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib60": {
@@ -15256,22 +15068,16 @@
       "year": "2006",
       "volume": "224",
       "source": "Planta",
-      "issue": "",
       "fpage": "750",
       "lpage": "760",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1007/s00425-006-0256-6",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_990": {
+    "annotation_1010": {
       "type": "emphasis",
-      "id": "annotation_990",
+      "id": "annotation_1010",
       "path": [
         "article_citation_bib60",
         "title"
@@ -15299,22 +15105,15 @@
       "year": "2004",
       "volume": "4",
       "source": "BMC Ecol",
-      "issue": "",
       "fpage": "11",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1186/1472-6785-4-11",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_991": {
+    "annotation_1011": {
       "type": "emphasis",
-      "id": "annotation_991",
+      "id": "annotation_1011",
       "path": [
         "article_citation_bib61",
         "title"
@@ -15350,22 +15149,16 @@
       "year": "2008",
       "volume": "3",
       "source": "PLoS One",
-      "issue": "",
       "fpage": "29",
       "lpage": "31",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1371/journal.pone.0002008",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_992": {
+    "annotation_1012": {
       "type": "emphasis",
-      "id": "annotation_992",
+      "id": "annotation_1012",
       "path": [
         "article_citation_bib62",
         "title"
@@ -15376,9 +15169,9 @@
         61
       ]
     },
-    "annotation_993": {
+    "annotation_1013": {
       "type": "emphasis",
-      "id": "annotation_993",
+      "id": "annotation_1013",
       "path": [
         "article_citation_bib62",
         "title"

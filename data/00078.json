@@ -132,7 +132,6 @@
       "accepted_on": "2012-09-25",
       "published_on": "2012-12-13",
       "journal": "eLife",
-      "article_type": "",
       "keywords": [
         "Haloferax volcanii",
         "Nucleosome",
@@ -148,10 +147,9 @@
         "Cell biology",
         "Genomics and evolutionary biology"
       ],
-      "pdf_link": "",
-      "xml_link": "",
-      "json_link": "",
-      "doi": ""
+      "xml_link": "https://s3.amazonaws.com/elife-cdn/elife-articles/00078/elife00078.xml",
+      "json_link": "https://s3.amazonaws.com/elife-cdn/elife-articles/00078/00078.json",
+      "doi": "http://dx.doi.org/10.7554/eLife.00078"
     },
     "person_author_1635": {
       "type": "person",
@@ -160,9 +158,7 @@
       "last-name": "Ammar",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, acquisition of data, analysis and interpretation of data, drafting and revising the article",
-      "email": "",
       "funding": [
         "funding_par_3"
       ]
@@ -174,9 +170,7 @@
       "last-name": "Torti",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Acquisition of data analysis and interpretation of data",
-      "email": "",
       "funding": []
     },
     "person_author_1686": {
@@ -186,9 +180,7 @@
       "last-name": "Tsui",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Prepared samples for sequencing",
-      "email": "",
       "funding": []
     },
     "person_author_1687": {
@@ -198,9 +190,7 @@
       "last-name": "Gebbia",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Prepared samples for sequencing, drafting and revising the article; Conception and design, acquisition of data analysis and interpretation of data, drafting and revising the article",
-      "email": "",
       "funding": []
     },
     "person_author_1688": {
@@ -210,9 +200,7 @@
       "last-name": "Durbic",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Prepared samples for sequencing; performed the sequencing",
-      "email": "",
       "funding": []
     },
     "person_author_1483": {
@@ -222,9 +210,7 @@
       "last-name": "Bader",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, analysis and interpretation of data, drafting and revising the article",
-      "email": "",
       "funding": []
     },
     "person_author_1689": {
@@ -234,9 +220,7 @@
       "last-name": "Giaever",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Interpretation of data, drafting and revising the article",
-      "email": "",
       "funding": []
     },
     "person_author_1639": {
@@ -246,7 +230,6 @@
       "last-name": "Nislow",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Directed the research, prepared biological material, conception and design, acquisition of data, analysis and interpretation of data, drafting and revising the article",
       "email": "email_cor1",
       "funding": [
@@ -259,27 +242,21 @@
       "id": "institution_aff1",
       "name": "University of Toronto",
       "city": "Toronto",
-      "country": "Canada",
-      "email": "",
-      "image": ""
+      "country": "Canada"
     },
     "institution_aff2": {
       "type": "institution",
       "id": "institution_aff2",
       "name": "University of Toronto",
       "city": "Toronto",
-      "country": "Canada",
-      "email": "",
-      "image": ""
+      "country": "Canada"
     },
     "institution_aff3": {
       "type": "institution",
       "id": "institution_aff3",
       "name": "University of Toronto",
       "city": "Toronto",
-      "country": "Canada",
-      "email": "",
-      "image": ""
+      "country": "Canada"
     },
     "person_1": {
       "type": "person",
@@ -288,9 +265,6 @@
       "last-name": "Reinberg",
       "role": "editor",
       "affiliations": [],
-      "image": "",
-      "contribution": "",
-      "email": "",
       "funding": []
     },
     "info:review": {
@@ -305,7 +279,6 @@
     "email_cor1": {
       "type": "email",
       "id": "email_cor1",
-      "node": "",
       "email": "corey.nislow@gmail.com"
     },
     "info:copyright": {
@@ -526,7 +499,6 @@
       "type": "funding",
       "id": "funding_par_3",
       "institution": "Ontario Graduate Scholarship",
-      "accession": "",
       "person": "person_author_1635",
       "given-names": "Ron",
       "last-name": "Ammar"
@@ -542,8 +514,7 @@
     },
     "paragraph_21": {
       "type": "paragraph",
-      "id": "paragraph_21",
-      "content": ""
+      "id": "paragraph_21"
     },
     "heading_s1": {
       "type": "heading",
@@ -864,19 +835,12 @@
       "type": "image",
       "id": "image_fig1",
       "label": "Figure 1.",
-      "url": "",
-      "object_id": "F1",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00078/svg/elife00078f001.svg",
       "title": "Micrococcal nuclease digestion produces nucleosomal fragments from crosslinked Hfx. volcanii chromatin.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00078.003",
       "caption": "paragraph_image_fig1",
-      "graphic_id": "elife00078f001"
+      "graphic_id": "elife00078f001",
+      "format": "image"
     },
     "paragraph_image_fig1": {
       "type": "paragraph",
@@ -1604,19 +1568,12 @@
       "type": "image",
       "id": "image_fig2",
       "label": "Figure 2.",
-      "url": "",
-      "object_id": "F2",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00078/svg/elife00078f002.svg",
       "title": "Nucleosome occupancy in Haloferax volcanii.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00078.004",
       "caption": "paragraph_image_fig2",
-      "graphic_id": "elife00078f002"
+      "graphic_id": "elife00078f002",
+      "format": "image"
     },
     "paragraph_image_fig2": {
       "type": "paragraph",
@@ -1692,19 +1649,12 @@
       "type": "image",
       "id": "image_fig3",
       "label": "Figure 3.",
-      "url": "",
-      "object_id": "F3",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00078/svg/elife00078f003.svg",
       "title": "Nucleosome-depleted regions at the 5′ and 3′ ends of transcripts.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00078.005",
       "caption": "paragraph_image_fig3",
-      "graphic_id": "elife00078f003"
+      "graphic_id": "elife00078f003",
+      "format": "image"
     },
     "paragraph_image_fig3": {
       "type": "paragraph",
@@ -1844,19 +1794,12 @@
       "type": "image",
       "id": "image_fig4",
       "label": "Figure 4.",
-      "url": "",
-      "object_id": "F4",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00078/svg/elife00078f004.svg",
       "title": "Chromatin architecture is conserved at the 5′ end of transcripts across eukaryotes and archaea.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00078.006",
       "caption": "paragraph_image_fig4",
-      "graphic_id": "elife00078f004"
+      "graphic_id": "elife00078f004",
+      "format": "image"
     },
     "paragraph_image_fig4": {
       "type": "paragraph",
@@ -2075,9 +2018,8 @@
     "formula_eqn1": {
       "type": "formula",
       "id": "formula_eqn1",
-      "label": "",
       "content": "<mml:mrow><mml:mi>G</mml:mi><mml:mo>(</mml:mo><mml:mi>x</mml:mi><mml:mo>)</mml:mo><mml:mo>=</mml:mo><mml:mfrac><mml:mn>1</mml:mn><mml:mrow><mml:msqrt><mml:mrow><mml:mn>2</mml:mn><mml:mi mathvariant=normal>π</mml:mi><mml:mi>σ</mml:mi></mml:mrow></mml:msqrt></mml:mrow></mml:mfrac><mml:msup><mml:mi>e</mml:mi><mml:mrow><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mfrac><mml:mrow><mml:mo>−</mml:mo><mml:msup><mml:mrow><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mi>x</mml:mi><mml:mo>−</mml:mo><mml:mi>μ</mml:mi></mml:mrow><mml:mo>)</mml:mo></mml:mrow></mml:mrow><mml:mn>2</mml:mn></mml:msup></mml:mrow><mml:mrow><mml:mn>2</mml:mn><mml:msup><mml:mi>σ</mml:mi><mml:mn>2</mml:mn></mml:msup></mml:mrow></mml:mfrac></mml:mrow><mml:mo>)</mml:mo></mml:mrow></mml:mrow></mml:msup><mml:mo>,</mml:mo></mml:mrow>",
-      "format": "mml"
+      "format": "mathml"
     },
     "paragraph_136": {
       "type": "paragraph",
@@ -2087,9 +2029,8 @@
     "formula_eqn2": {
       "type": "formula",
       "id": "formula_eqn2",
-      "label": "",
       "content": "<mml:mrow><mml:mi>y</mml:mi><mml:mrow><mml:mo>[</mml:mo><mml:mi>i</mml:mi><mml:mo>]</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:mstyle><mml:munderover><mml:mo>∑</mml:mo><mml:mrow><mml:mi>j</mml:mi><mml:mo>=</mml:mo><mml:mo>−</mml:mo><mml:mfrac><mml:mi>M</mml:mi><mml:mn>2</mml:mn></mml:mfrac></mml:mrow><mml:mrow><mml:mfrac><mml:mi>M</mml:mi><mml:mn>2</mml:mn></mml:mfrac></mml:mrow></mml:munderover><mml:mrow><mml:mi>h</mml:mi><mml:mrow><mml:mo>[</mml:mo><mml:mi>j</mml:mi><mml:mo>]</mml:mo></mml:mrow><mml:mo>×</mml:mo><mml:mi>x</mml:mi><mml:mrow><mml:mo>[</mml:mo><mml:mrow><mml:mi>i</mml:mi><mml:mo>−</mml:mo><mml:mi>j</mml:mi></mml:mrow><mml:mo>]</mml:mo></mml:mrow></mml:mrow></mml:mstyle><mml:mo>,</mml:mo></mml:mrow>",
-      "format": "mml"
+      "format": "mathml"
     },
     "paragraph_137": {
       "type": "paragraph",
@@ -2208,9 +2149,8 @@
     "formula_eqn3": {
       "type": "formula",
       "id": "formula_eqn3",
-      "label": "",
       "content": "<mml:mrow><mml:mi>y</mml:mi><mml:mrow><mml:mo>[</mml:mo><mml:mi>i</mml:mi><mml:mo>]</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:mstyle><mml:munderover><mml:mo>∑</mml:mo><mml:mrow><mml:mi>j</mml:mi><mml:mo>=</mml:mo><mml:mo>−</mml:mo><mml:mfrac><mml:mi>M</mml:mi><mml:mn>2</mml:mn></mml:mfrac></mml:mrow><mml:mrow><mml:mfrac><mml:mi>M</mml:mi><mml:mn>2</mml:mn></mml:mfrac></mml:mrow></mml:munderover><mml:mrow><mml:mi>G</mml:mi><mml:mrow><mml:mo>[</mml:mo><mml:mi>j</mml:mi><mml:mo>]</mml:mo></mml:mrow><mml:mo>×</mml:mo><mml:mi>x</mml:mi><mml:mrow><mml:mo>[</mml:mo><mml:mrow><mml:mi>i</mml:mi><mml:mo>−</mml:mo><mml:mi>j</mml:mi></mml:mrow><mml:mo>]</mml:mo></mml:mrow></mml:mrow></mml:mstyle><mml:mo>,</mml:mo></mml:mrow>",
-      "format": "mml"
+      "format": "mathml"
     },
     "paragraph_147": {
       "type": "paragraph",
@@ -2219,17 +2159,12 @@
     },
     "formula_148": {
       "type": "formula",
-      "id": "formula_148",
-      "label": "",
-      "content": "",
-      "format": ""
+      "id": "formula_148"
     },
     "annotation_149": {
       "type": "inline_formula",
       "id": "annotation_149",
-      "path": "",
       "target": "formula_148",
-      "range": "",
       "source": "paragraph_147",
       "key": "content",
       "pos": [
@@ -2372,19 +2307,12 @@
       "type": "image",
       "id": "image_fig5",
       "label": "Figure 5.",
-      "url": "",
-      "object_id": "F5",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00078/svg/elife00078f005.svg",
       "title": "Sample screenshot of all data tracks loaded into the Savant genome browser (Fiume et al., 2010).",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00078.007",
       "caption": "paragraph_image_fig5",
-      "graphic_id": "elife00078f005"
+      "graphic_id": "elife00078f005",
+      "format": "image"
     },
     "paragraph_image_fig5": {
       "type": "paragraph",
@@ -2549,12 +2477,11 @@
       "type": "supplement",
       "id": "supplement_SD1_data",
       "label": "Supplementary file 1.",
-      "source": "",
-      "title": "",
       "caption": "paragraph_supplement_SD1_data",
-      "content": "",
       "doi": "http://dx.doi.org/10.7554/eLife.00078.008",
-      "graphic_id": "elife00078s001.txt"
+      "files": [
+        "file_173"
+      ]
     },
     "paragraph_supplement_SD1_data": {
       "type": "paragraph",
@@ -2573,6 +2500,14 @@
         58,
         71
       ]
+    },
+    "file_173": {
+      "type": "file",
+      "id": "file_173",
+      "name": "TXT",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00078/suppl/elife00078s001.txt",
+      "graphic_id": "elife00078s001.txt",
+      "extension": ".txt"
     },
     "info:dataset": {
       "type": "heading",
@@ -2645,22 +2580,15 @@
       "year": "2007",
       "volume": "446",
       "source": "Nature",
-      "issue": "",
       "fpage": "572",
       "lpage": "6",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_173": {
+    "annotation_174": {
       "type": "emphasis",
-      "id": "annotation_173",
+      "id": "annotation_174",
       "path": [
         "article_citation_bib1",
         "title"
@@ -2688,22 +2616,15 @@
       "year": "2009",
       "volume": "191",
       "source": "J Bacteriol",
-      "issue": "",
       "fpage": "1610",
       "lpage": "7",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_174": {
+    "annotation_175": {
       "type": "emphasis",
-      "id": "annotation_174",
+      "id": "annotation_175",
       "path": [
         "article_citation_bib2",
         "title"
@@ -2743,17 +2664,10 @@
       "year": "1990",
       "volume": "215",
       "source": "J Mol Biol",
-      "issue": "",
       "fpage": "403",
       "lpage": "10",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib4": {
@@ -2781,17 +2695,10 @@
       "year": "2000",
       "volume": "303",
       "source": "J Mol Biol",
-      "issue": "",
       "fpage": "25",
       "lpage": "34",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib5": {
@@ -2819,17 +2726,9 @@
       "year": "2006",
       "volume": "1",
       "source": "PloS One",
-      "issue": "",
       "fpage": "e92",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib6": {
@@ -2865,17 +2764,10 @@
       "year": "2012",
       "volume": "22",
       "source": "Genome Res",
-      "issue": "",
       "fpage": "1098",
       "lpage": "106",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib7": {
@@ -2911,17 +2803,9 @@
       "year": "2010",
       "volume": "5",
       "source": "PloS One",
-      "issue": "",
       "fpage": "e15754",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib8": {
@@ -2957,17 +2841,10 @@
       "year": "2006",
       "volume": "103",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "5320",
       "lpage": "5",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib9": {
@@ -3003,17 +2880,10 @@
       "year": "2011",
       "volume": "43",
       "source": "Nat Genet",
-      "issue": "",
       "fpage": "491",
       "lpage": "8",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib10": {
@@ -3033,22 +2903,15 @@
       "year": "2007",
       "volume": "75",
       "source": "Appl Microbiol Biotechnol",
-      "issue": "",
       "fpage": "1343",
       "lpage": "51",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_175": {
+    "annotation_176": {
       "type": "emphasis",
-      "id": "annotation_175",
+      "id": "annotation_176",
       "path": [
         "article_citation_bib10",
         "title"
@@ -3084,17 +2947,10 @@
       "year": "2010",
       "volume": "26",
       "source": "Bioinformatics",
-      "issue": "",
       "fpage": "1938",
       "lpage": "44",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib12": {
@@ -3130,17 +2986,10 @@
       "year": "2004",
       "volume": "101",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "2678",
       "lpage": "83",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib13": {
@@ -3168,17 +3017,10 @@
       "year": "2002",
       "volume": "12",
       "source": "Genome Res",
-      "issue": "",
       "fpage": "1619",
       "lpage": "23",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib14": {
@@ -3214,22 +3056,14 @@
       "year": "2010",
       "volume": "5",
       "source": "PloS One",
-      "issue": "",
       "fpage": "e9605",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_176": {
+    "annotation_177": {
       "type": "emphasis",
-      "id": "annotation_176",
+      "id": "annotation_177",
       "path": [
         "article_citation_bib14",
         "title"
@@ -3273,17 +3107,10 @@
       "year": "2010",
       "volume": "7",
       "source": "Nat Methods",
-      "issue": "",
       "fpage": "807",
       "lpage": "12",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib16": {
@@ -3303,17 +3130,10 @@
       "year": "2009",
       "volume": "10",
       "source": "Nat Rev Genet",
-      "issue": "",
       "fpage": "161",
       "lpage": "72",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib17": {
@@ -3333,17 +3153,10 @@
       "year": "2008",
       "volume": "7",
       "source": "Cell Cycle",
-      "issue": "",
       "fpage": "120",
       "lpage": "1",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib18": {
@@ -3379,17 +3192,10 @@
       "year": "2009",
       "volume": "458",
       "source": "Nature",
-      "issue": "",
       "fpage": "362",
       "lpage": "6",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib19": {
@@ -3409,17 +3215,10 @@
       "year": "2012",
       "volume": "9",
       "source": "Nat Methods",
-      "issue": "",
       "fpage": "357",
       "lpage": "9",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib20": {
@@ -3459,17 +3258,10 @@
       "year": "2007",
       "volume": "39",
       "source": "Nat Genet",
-      "issue": "",
       "fpage": "1235",
       "lpage": "44",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib21": {
@@ -3505,17 +3297,10 @@
       "year": "2011",
       "volume": "39",
       "source": "Nucleic Acids Res",
-      "issue": "",
       "fpage": "D225",
       "lpage": "9",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib22": {
@@ -3551,17 +3336,10 @@
       "year": "2010",
       "volume": "20",
       "source": "Genome Res",
-      "issue": "",
       "fpage": "1297",
       "lpage": "303",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib23": {
@@ -3581,17 +3359,10 @@
       "year": "1975",
       "volume": "104",
       "source": "Arch Microbiol",
-      "issue": "",
       "fpage": "207",
       "lpage": "14",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib24": {
@@ -3611,17 +3382,10 @@
       "year": "1995",
       "volume": "177",
       "source": "J Bacteriol",
-      "issue": "",
       "fpage": "1844",
       "lpage": "9",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib25": {
@@ -3641,17 +3405,10 @@
       "year": "1998",
       "volume": "2",
       "source": "Extremophiles",
-      "issue": "",
       "fpage": "141",
       "lpage": "8",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib26": {
@@ -3679,17 +3436,10 @@
       "year": "1997",
       "volume": "94",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "12633",
       "lpage": "7",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib27": {
@@ -3725,17 +3475,10 @@
       "year": "1993",
       "volume": "268",
       "source": "J Biol Chem",
-      "issue": "",
       "fpage": "26663",
       "lpage": "7",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib28": {
@@ -3759,17 +3502,10 @@
       "year": "2011",
       "volume": "39",
       "source": "Nucleic Acids Res",
-      "issue": "",
       "fpage": "8803",
       "lpage": "19",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib29": {
@@ -3789,17 +3525,10 @@
       "year": "2012",
       "volume": "13",
       "source": "Annu Rev Genomics Hum Genet",
-      "issue": "",
       "fpage": "59",
       "lpage": "82",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib30": {
@@ -3819,17 +3548,10 @@
       "year": "2006",
       "volume": "9",
       "source": "Curr Opin Microbiol",
-      "issue": "",
       "fpage": "520",
       "lpage": "5",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib31": {
@@ -3849,17 +3571,10 @@
       "year": "2004",
       "volume": "51",
       "source": "Mol Microbiol",
-      "issue": "",
       "fpage": "579",
       "lpage": "88",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib32": {
@@ -3883,17 +3598,10 @@
       "year": "1986",
       "volume": "191",
       "source": "J Mol Biol",
-      "issue": "",
       "fpage": "659",
       "lpage": "75",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib33": {
@@ -3929,17 +3637,9 @@
       "year": "2008",
       "volume": "6",
       "source": "PLoS Biol",
-      "issue": "",
       "fpage": "e65",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib34": {
@@ -3953,19 +3653,10 @@
       ],
       "title": "The scientist and engineer's guide to digital signal processing",
       "year": "1997",
-      "volume": "",
-      "source": "",
-      "issue": "",
-      "fpage": "",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
       "publisher-name": "California Technical Pub",
       "publisher-loc": "San Diego",
-      "doi": "",
       "citation_url": [],
       "format": "book",
-      "label": "",
       "editors": []
     },
     "article_citation_bib35": {
@@ -3985,17 +3676,10 @@
       "year": "2010",
       "volume": "11",
       "source": "Nat Rev Mol Cell Biol",
-      "issue": "",
       "fpage": "264",
       "lpage": "75",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib36": {
@@ -4019,17 +3703,10 @@
       "year": "2009",
       "volume": "25",
       "source": "Bioinformatics",
-      "issue": "",
       "fpage": "1105",
       "lpage": "11",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib37": {
@@ -4057,17 +3734,10 @@
       "year": "2012",
       "volume": "833",
       "source": "Methods Mol Biol",
-      "issue": "",
       "fpage": "389",
       "lpage": "411",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib38": {
@@ -4103,17 +3773,10 @@
       "year": "2011",
       "volume": "474",
       "source": "Nature",
-      "issue": "",
       "fpage": "516",
       "lpage": "20",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib39": {
@@ -4149,17 +3812,10 @@
       "year": "2010",
       "volume": "20",
       "source": "Genome Res",
-      "issue": "",
       "fpage": "133",
       "lpage": "41",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib40": {
@@ -4195,17 +3851,9 @@
       "year": "2004",
       "volume": "32",
       "source": "Nucleic Acids Res",
-      "issue": "",
       "fpage": "e37",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "sub-article": {

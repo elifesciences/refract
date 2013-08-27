@@ -189,7 +189,6 @@
       "accepted_on": "2013-06-11",
       "published_on": "2013-07-16",
       "journal": "elife",
-      "article_type": "",
       "keywords": [
         "CRAC channel",
         "SNAP",
@@ -205,10 +204,9 @@
       "subjects": [
         "Cell biology"
       ],
-      "pdf_link": "",
-      "xml_link": "",
-      "json_link": "",
-      "doi": ""
+      "xml_link": "https://s3.amazonaws.com/elife-cdn/elife-articles/00802/elife00802.xml",
+      "json_link": "https://s3.amazonaws.com/elife-cdn/elife-articles/00802/00802.json",
+      "doi": "http://dx.doi.org/10.7554/eLife.00802"
     },
     "person_author_5034": {
       "type": "person",
@@ -217,9 +215,7 @@
       "last-name": "Miao",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Performed experiments, generated reagents and analyzed the data",
-      "email": "",
       "funding": []
     },
     "person_author_5035": {
@@ -229,9 +225,7 @@
       "last-name": "Miner",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Performed experiments, generated reagents and analyzed the data",
-      "email": "",
       "funding": []
     },
     "person_author_5050": {
@@ -241,9 +235,7 @@
       "last-name": "Zhang",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Performed analysis of Stim1-Orai1 clusters using a custom written software",
-      "email": "",
       "funding": []
     },
     "person_author_5037": {
@@ -253,9 +245,7 @@
       "last-name": "Hanson",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Contributed WT and mutant NSF stable lines, purified α-SNAP and α-SNAP antibody and helped with drafting and revising the article",
-      "email": "",
       "funding": []
     },
     "person_author_2348": {
@@ -265,9 +255,7 @@
       "last-name": "Dani",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Designed and helped with TIRF imaging, analysis of Stim1-Orai1 clusters, drafting and revising the article",
-      "email": "",
       "funding": []
     },
     "person_author_4756": {
@@ -277,7 +265,6 @@
       "last-name": "Vig",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Performed experiments, generated reagents and analyzed the data, designed the study and drafted the article",
       "email": "email_cor1",
       "funding": [
@@ -289,18 +276,14 @@
       "id": "institution_aff1",
       "name": "Washington University School of Medicine",
       "city": "St Louis",
-      "country": "United States",
-      "email": "",
-      "image": ""
+      "country": "United States"
     },
     "institution_aff2": {
       "type": "institution",
       "id": "institution_aff2",
       "name": "Washington University School of Medicine",
       "city": "St Louis",
-      "country": "United States",
-      "email": "",
-      "image": ""
+      "country": "United States"
     },
     "person_1": {
       "type": "person",
@@ -309,9 +292,6 @@
       "last-name": "Malhotra",
       "role": "editor",
       "affiliations": [],
-      "image": "",
-      "contribution": "",
-      "email": "",
       "funding": []
     },
     "info:review": {
@@ -326,7 +306,6 @@
     "email_cor1": {
       "type": "email",
       "id": "email_cor1",
-      "node": "",
       "email": "mvig@wustl.edu"
     },
     "info:copyright": {
@@ -493,8 +472,7 @@
     },
     "paragraph_17": {
       "type": "paragraph",
-      "id": "paragraph_17",
-      "content": ""
+      "id": "paragraph_17"
     },
     "heading_s1": {
       "type": "heading",
@@ -1290,19 +1268,12 @@
       "type": "image",
       "id": "image_fig1",
       "label": "Figure 1.",
-      "url": "",
-      "object_id": "F1",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00802/svg/elife00802f001.svg",
       "title": "α-SNAP depletion inhibits SOCE and NFAT activation.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00802.003",
       "caption": "paragraph_image_fig1",
-      "graphic_id": "elife00802f001"
+      "graphic_id": "elife00802f001",
+      "format": "image"
     },
     "paragraph_image_fig1": {
       "type": "paragraph",
@@ -1443,19 +1414,12 @@
       "type": "image",
       "id": "image_fig1s1",
       "label": "Figure 1—figure supplement 1.",
-      "url": "",
-      "object_id": "F2",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00802/svg/elife00802fs001.svg",
       "title": "Alignment of Drosophila and human SNAP amino acid sequences.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig1"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00802.004",
       "caption": "paragraph_image_fig1s1",
-      "graphic_id": "elife00802fs001"
+      "graphic_id": "elife00802fs001",
+      "format": "image"
     },
     "paragraph_image_fig1s1": {
       "type": "paragraph",
@@ -1479,19 +1443,12 @@
       "type": "image",
       "id": "image_fig1s2",
       "label": "Figure 1—figure supplement 2.",
-      "url": "",
-      "object_id": "F3",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00802/svg/elife00802fs002.svg",
       "title": "α-SNAP depletion using two different RNAi sequences in U2OS cells.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig1"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00802.005",
       "caption": "paragraph_image_fig1s2",
-      "graphic_id": "elife00802fs002"
+      "graphic_id": "elife00802fs002",
+      "format": "image"
     },
     "paragraph_image_fig1s2": {
       "type": "paragraph",
@@ -1502,19 +1459,12 @@
       "type": "image",
       "id": "image_fig1s3",
       "label": "Figure 1—figure supplement 3.",
-      "url": "",
-      "object_id": "F4",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00802/svg/elife00802fs003.svg",
       "title": "Immuno-staining for α-SNAP in α-SNAP depleted and control cells.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig1"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00802.006",
       "caption": "paragraph_image_fig1s3",
-      "graphic_id": "elife00802fs003"
+      "graphic_id": "elife00802fs003",
+      "format": "image"
     },
     "paragraph_image_fig1s3": {
       "type": "paragraph",
@@ -1525,19 +1475,12 @@
       "type": "image",
       "id": "image_fig1s4",
       "label": "Figure 1—figure supplement 4.",
-      "url": "",
-      "object_id": "F5",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00802/svg/elife00802fs004.svg",
       "title": "Reconstitution of α-SNAP deficient cells with β- or γ-SNAP.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig1"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00802.007",
       "caption": "paragraph_image_fig1s4",
-      "graphic_id": "elife00802fs004"
+      "graphic_id": "elife00802fs004",
+      "format": "image"
     },
     "paragraph_image_fig1s4": {
       "type": "paragraph",
@@ -1548,19 +1491,12 @@
       "type": "image",
       "id": "image_fig1s5",
       "label": "Figure 1—figure supplement 5.",
-      "url": "",
-      "object_id": "F6",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00802/svg/elife00802fs005.svg",
       "title": "RNAi mediated depletion of γ-SNAP and measurement of SOCE.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig1"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00802.008",
       "caption": "paragraph_image_fig1s5",
-      "graphic_id": "elife00802fs005"
+      "graphic_id": "elife00802fs005",
+      "format": "image"
     },
     "paragraph_image_fig1s5": {
       "type": "paragraph",
@@ -1679,19 +1615,12 @@
       "type": "image",
       "id": "image_fig2",
       "label": "Figure 2.",
-      "url": "",
-      "object_id": "F7",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00802/svg/elife00802f002.svg",
       "title": "α-SNAP directly binds Stim1 and Orai1 and co-localizes with CRAC channel clusters.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00802.009",
       "caption": "paragraph_image_fig2",
-      "graphic_id": "elife00802f002"
+      "graphic_id": "elife00802f002",
+      "format": "image"
     },
     "paragraph_image_fig2": {
       "type": "paragraph",
@@ -2122,19 +2051,12 @@
       "type": "image",
       "id": "image_fig3",
       "label": "Figure 3.",
-      "url": "",
-      "object_id": "F8",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00802/svg/elife00802f003.svg",
       "title": "Regulation of SOCE by α-SNAP is NSF independent.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00802.010",
       "caption": "paragraph_image_fig3",
-      "graphic_id": "elife00802f003"
+      "graphic_id": "elife00802f003",
+      "format": "image"
     },
     "paragraph_image_fig3": {
       "type": "paragraph",
@@ -2353,19 +2275,12 @@
       "type": "image",
       "id": "image_fig3s1",
       "label": "Figure 3—figure supplement 1.",
-      "url": "",
-      "object_id": "F9",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00802/svg/elife00802fs006.svg",
       "title": "Strategy for quantifying Orai1 levels in the plasma membrane.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig3"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00802.011",
       "caption": "paragraph_image_fig3s1",
-      "graphic_id": "elife00802fs006"
+      "graphic_id": "elife00802fs006",
+      "format": "image"
     },
     "paragraph_image_fig3s1": {
       "type": "paragraph",
@@ -2376,19 +2291,12 @@
       "type": "image",
       "id": "image_fig3s2",
       "label": "Figure 3—figure supplement 2.",
-      "url": "",
-      "object_id": "F10",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00802/svg/elife00802fs007.svg",
       "title": "Quantification of cell surface Orai1 in α-SNAP depleted and control cells.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig3"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00802.012",
       "caption": "paragraph_image_fig3s2",
-      "graphic_id": "elife00802fs007"
+      "graphic_id": "elife00802fs007",
+      "format": "image"
     },
     "paragraph_image_fig3s2": {
       "type": "paragraph",
@@ -2399,19 +2307,12 @@
       "type": "image",
       "id": "image_fig3s3",
       "label": "Figure 3—figure supplement 3.",
-      "url": "",
-      "object_id": "F11",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00802/svg/elife00802fs008.svg",
       "title": "Morphology of ER and Golgi in control and α-SNAP depleted cells.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig3"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00802.013",
       "caption": "paragraph_image_fig3s3",
-      "graphic_id": "elife00802fs008"
+      "graphic_id": "elife00802fs008",
+      "format": "image"
     },
     "paragraph_image_fig3s3": {
       "type": "paragraph",
@@ -2601,19 +2502,12 @@
       "type": "image",
       "id": "image_fig4",
       "label": "Figure 4.",
-      "url": "",
-      "object_id": "F12",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00802/svg/elife00802f004.svg",
       "title": "α-SNAP requires its hydrophobic loop for regulating SOCE.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00802.014",
       "caption": "paragraph_image_fig4",
-      "graphic_id": "elife00802f004"
+      "graphic_id": "elife00802f004",
+      "format": "image"
     },
     "paragraph_image_fig4": {
       "type": "paragraph",
@@ -3082,19 +2976,12 @@
       "type": "image",
       "id": "image_fig5",
       "label": "Figure 5.",
-      "url": "",
-      "object_id": "F13",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00802/svg/elife00802f005.svg",
       "title": "α-SNAP directly binds the CRAC activation domain of Stim1 and the C-terminal tail of Orai1.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00802.015",
       "caption": "paragraph_image_fig5",
-      "graphic_id": "elife00802f005"
+      "graphic_id": "elife00802f005",
+      "format": "image"
     },
     "paragraph_image_fig5": {
       "type": "paragraph",
@@ -3603,19 +3490,12 @@
       "type": "image",
       "id": "image_fig6",
       "label": "Figure 6.",
-      "url": "",
-      "object_id": "F14",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00802/svg/elife00802f006.svg",
       "title": "α-SNAP regulates the molecular composition of CRAC channel clusters in ER–PM junctions.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00802.016",
       "caption": "paragraph_image_fig6",
-      "graphic_id": "elife00802f006"
+      "graphic_id": "elife00802f006",
+      "format": "image"
     },
     "paragraph_image_fig6": {
       "type": "paragraph",
@@ -3834,19 +3714,12 @@
       "type": "image",
       "id": "image_fig6s1",
       "label": "Figure 6—figure supplement 1.",
-      "url": "",
-      "object_id": "F15",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00802/svg/elife00802fs009.svg",
       "title": "A representative Orai1-YFP image and its corresponding mask.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig6"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00802.017",
       "caption": "paragraph_image_fig6s1",
-      "graphic_id": "elife00802fs009"
+      "graphic_id": "elife00802fs009",
+      "format": "image"
     },
     "paragraph_image_fig6s1": {
       "type": "paragraph",
@@ -3870,19 +3743,12 @@
       "type": "image",
       "id": "image_fig6s2",
       "label": "Figure 6—figure supplement 2.",
-      "url": "",
-      "object_id": "F16",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00802/svg/elife00802fs010.svg",
       "title": "Quantification of CFP-Stim1 and Orai1-YFP intensities in Stim1-Orai1 clusters of RNAi treated cells.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig6"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00802.018",
       "caption": "paragraph_image_fig6s2",
-      "graphic_id": "elife00802fs010"
+      "graphic_id": "elife00802fs010",
+      "format": "image"
     },
     "paragraph_image_fig6s2": {
       "type": "paragraph",
@@ -3919,19 +3785,12 @@
       "type": "image",
       "id": "image_fig6s3",
       "label": "Figure 6—figure supplement 3.",
-      "url": "",
-      "object_id": "F17",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00802/svg/elife00802fs011.svg",
       "title": "α-SNAP depletion inhibits SOCE in Stim1-Orai1 over-expressing cells.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig6"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00802.019",
       "caption": "paragraph_image_fig6s3",
-      "graphic_id": "elife00802fs011"
+      "graphic_id": "elife00802fs011",
+      "format": "image"
     },
     "paragraph_image_fig6s3": {
       "type": "paragraph",
@@ -3942,19 +3801,12 @@
       "type": "image",
       "id": "image_fig6s4",
       "label": "Figure 6—figure supplement 4.",
-      "url": "",
-      "object_id": "F18",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00802/svg/elife00802fs012.svg",
       "title": "α-SNAP co-expression augments SOCE in Stim1-Orai1 over-expressing cells.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig6"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00802.020",
       "caption": "paragraph_image_fig6s4",
-      "graphic_id": "elife00802fs012"
+      "graphic_id": "elife00802fs012",
+      "format": "image"
     },
     "paragraph_image_fig6s4": {
       "type": "paragraph",
@@ -3965,19 +3817,12 @@
       "type": "image",
       "id": "image_fig6s5",
       "label": "Figure 6—figure supplement 5.",
-      "url": "",
-      "object_id": "F19",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00802/svg/elife00802fs013.svg",
       "title": "Quantification of cell surface Orai1 in α-SNAP over-expressing cells.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig6"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00802.021",
       "caption": "paragraph_image_fig6s5",
-      "graphic_id": "elife00802fs013"
+      "graphic_id": "elife00802fs013",
+      "format": "image"
     },
     "paragraph_image_fig6s5": {
       "type": "paragraph",
@@ -4001,19 +3846,12 @@
       "type": "image",
       "id": "image_fig6s6",
       "label": "Figure 6—figure supplement 6.",
-      "url": "",
-      "object_id": "F20",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00802/svg/elife00802fs014.svg",
       "title": "Quantification of Stim1-Orai1 cluster size in α-SNAP over-expressing cells.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig6"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00802.022",
       "caption": "paragraph_image_fig6s6",
-      "graphic_id": "elife00802fs014"
+      "graphic_id": "elife00802fs014",
+      "format": "image"
     },
     "paragraph_image_fig6s6": {
       "type": "paragraph",
@@ -4125,19 +3963,12 @@
       "type": "image",
       "id": "image_fig7",
       "label": "Figure 7.",
-      "url": "",
-      "object_id": "F21",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00802/svg/elife00802f007.svg",
       "title": "A hypothetical model of α-SNAP dependent re-arrangement of Stim1-Orai1 molecules within CRAC channel clusters in ER–PM junctions.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00802.023",
       "caption": "paragraph_image_fig7",
-      "graphic_id": "elife00802f007"
+      "graphic_id": "elife00802f007",
+      "format": "image"
     },
     "paragraph_image_fig7": {
       "type": "paragraph",
@@ -4951,12 +4782,11 @@
       "type": "supplement",
       "id": "supplement_SD1_data",
       "label": "Supplementary file 1.",
-      "source": "",
       "title": "dsRNA and shRNA sequences used in this study.",
       "caption": "paragraph_supplement_SD1_data",
-      "content": "",
-      "doi": "",
-      "graphic_id": "elife00802s001.xlsx"
+      "files": [
+        "file_334"
+      ]
     },
     "paragraph_supplement_SD1_data": {
       "type": "paragraph",
@@ -4989,6 +4819,14 @@
         46
       ],
       "url": "10.7554/eLife.00802.024"
+    },
+    "file_334": {
+      "type": "file",
+      "id": "file_334",
+      "name": "XLSX",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00802/suppl/elife00802s001.xlsx",
+      "graphic_id": "elife00802s001.xlsx",
+      "extension": ".xlsx"
     },
     "info:dataset": {
       "type": "heading",
@@ -5025,17 +4863,11 @@
       "year": "1997",
       "volume": "139",
       "source": "J Cell Biol",
-      "issue": "",
       "fpage": "875",
       "lpage": "83",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1083/jcb.139.4.875",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib2": {
@@ -5071,17 +4903,11 @@
       "year": "2008",
       "volume": "19",
       "source": "Mol Biol Cell",
-      "issue": "",
       "fpage": "776",
       "lpage": "84",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1091/mbc.E07-05-0498",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib3": {
@@ -5117,17 +4943,11 @@
       "year": "2012",
       "volume": "19",
       "source": "Nat Struct Mol Biol",
-      "issue": "",
       "fpage": "268",
       "lpage": "75",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nsmb.2237",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib4": {
@@ -5151,17 +4971,11 @@
       "year": "1990",
       "volume": "61",
       "source": "Cell",
-      "issue": "",
       "fpage": "709",
       "lpage": "21",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/0092-8674(90)90482-T",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib5": {
@@ -5181,17 +4995,11 @@
       "year": "2002",
       "volume": "109",
       "source": "Cell",
-      "issue": "",
       "fpage": "S67",
       "lpage": "79",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/S0092-8674(02)00699-2",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": [],
       "supplement": "Suppl"
     },
@@ -5220,17 +5028,11 @@
       "year": "2004",
       "volume": "15",
       "source": "Mol Biol Cell",
-      "issue": "",
       "fpage": "637",
       "lpage": "48",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1091/mbc.E03-02-0097",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib7": {
@@ -5266,17 +5068,11 @@
       "year": "2006",
       "volume": "441",
       "source": "Nature",
-      "issue": "",
       "fpage": "179",
       "lpage": "85",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nature04702",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib8": {
@@ -5304,17 +5100,11 @@
       "year": "2005",
       "volume": "202",
       "source": "J Exp Med",
-      "issue": "",
       "fpage": "651",
       "lpage": "62",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1084/jem.20050687",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib9": {
@@ -5342,17 +5132,11 @@
       "year": "1995",
       "volume": "270",
       "source": "J Biol Chem",
-      "issue": "",
       "fpage": "16955",
       "lpage": "61",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1074/jbc.270.28.16955",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib10": {
@@ -5388,17 +5172,11 @@
       "year": "2009",
       "volume": "138",
       "source": "Cell",
-      "issue": "",
       "fpage": "366",
       "lpage": "76",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.cell.2009.04.065",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib11": {
@@ -5418,17 +5196,11 @@
       "year": "2011",
       "volume": "108",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "13299",
       "lpage": "304",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1073/pnas.1101664108",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib12": {
@@ -5456,17 +5228,11 @@
       "year": "2012",
       "volume": "338",
       "source": "Science",
-      "issue": "",
       "fpage": "1308",
       "lpage": "13",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1126/science.1228757",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib13": {
@@ -5494,17 +5260,11 @@
       "year": "1995",
       "volume": "60",
       "source": "Cold Spring Harb Symp Quant Biol",
-      "issue": "",
       "fpage": "329",
       "lpage": "35",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1101/SQB.1995.060.01.037",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib14": {
@@ -5536,17 +5296,11 @@
       "year": "2011",
       "volume": "108",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "19234",
       "lpage": "9",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1073/pnas.1117231108",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib15": {
@@ -5562,17 +5316,11 @@
       "year": "2001",
       "volume": "19",
       "source": "Annu Rev Immunol",
-      "issue": "",
       "fpage": "497",
       "lpage": "521",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1146/annurev.immunol.19.1.497",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib16": {
@@ -5588,17 +5336,11 @@
       "year": "2011",
       "volume": "3",
       "source": "Cold Spring Harb Perspect Biol",
-      "issue": "",
       "fpage": "3970",
       "lpage": "93",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1101/cshperspect.a003970",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib17": {
@@ -5626,17 +5368,11 @@
       "year": "2007",
       "volume": "104",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "9301",
       "lpage": "6",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1073/pnas.0702866104",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib18": {
@@ -5672,17 +5408,11 @@
       "year": "2005",
       "volume": "15",
       "source": "Curr Biol",
-      "issue": "",
       "fpage": "1235",
       "lpage": "41",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.cub.2005.05.055",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib19": {
@@ -5714,17 +5444,11 @@
       "year": "2008",
       "volume": "454",
       "source": "Nature",
-      "issue": "",
       "fpage": "538",
       "lpage": "42",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nature07065",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib20": {
@@ -5760,17 +5484,11 @@
       "year": "2010",
       "volume": "285",
       "source": "J Biol Chem",
-      "issue": "",
       "fpage": "41135",
       "lpage": "42",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1074/jbc.M110.177881",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib21": {
@@ -5794,17 +5512,11 @@
       "year": "2003",
       "volume": "278",
       "source": "J Biol Chem",
-      "issue": "",
       "fpage": "27000",
       "lpage": "8",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1074/jbc.M302003200",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib22": {
@@ -5832,17 +5544,11 @@
       "year": "2012",
       "volume": "482",
       "source": "Nature",
-      "issue": "",
       "fpage": "241",
       "lpage": "5",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nature10752",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib23": {
@@ -5878,17 +5584,11 @@
       "year": "2009",
       "volume": "284",
       "source": "J Biol Chem",
-      "issue": "",
       "fpage": "8421",
       "lpage": "6",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1074/jbc.C800229200",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib24": {
@@ -5908,17 +5608,11 @@
       "year": "2005",
       "volume": "85",
       "source": "Physiol Rev",
-      "issue": "",
       "fpage": "757",
       "lpage": "810",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1152/physrev.00057.2003",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib25": {
@@ -5954,17 +5648,11 @@
       "year": "2009",
       "volume": "136",
       "source": "Cell",
-      "issue": "",
       "fpage": "876",
       "lpage": "90",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.cell.2009.02.014",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib26": {
@@ -6000,17 +5688,11 @@
       "year": "2006",
       "volume": "8",
       "source": "Nat Cell Biol",
-      "issue": "",
       "fpage": "771",
       "lpage": "3",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/ncb1435",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib27": {
@@ -6046,17 +5728,11 @@
       "year": "2008",
       "volume": "456",
       "source": "Nature",
-      "issue": "",
       "fpage": "116",
       "lpage": "20",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nature07338",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib28": {
@@ -6092,17 +5768,11 @@
       "year": "2006",
       "volume": "443",
       "source": "Nature",
-      "issue": "",
       "fpage": "230",
       "lpage": "3",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nature05122",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib29": {
@@ -6122,17 +5792,11 @@
       "year": "1999",
       "volume": "4",
       "source": "Mol Cell",
-      "issue": "",
       "fpage": "85",
       "lpage": "95",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/S1097-2765(00)80190-2",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib30": {
@@ -6168,17 +5832,10 @@
       "year": "2011",
       "volume": "6",
       "source": "PLOS ONE",
-      "issue": "",
       "fpage": "e21925",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1371/journal.pone.0021925",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib31": {
@@ -6198,17 +5855,11 @@
       "year": "2004",
       "volume": "101",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "17114",
       "lpage": "9",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1073/pnas.0407563101",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib32": {
@@ -6244,17 +5895,11 @@
       "year": "2011",
       "volume": "286",
       "source": "J Biol Chem",
-      "issue": "",
       "fpage": "12189",
       "lpage": "201",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1074/jbc.M110.174029",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib33": {
@@ -6290,17 +5935,11 @@
       "year": "2009",
       "volume": "11",
       "source": "Nat Cell Biol",
-      "issue": "",
       "fpage": "1465",
       "lpage": "72",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/ncb1995",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib34": {
@@ -6328,17 +5967,11 @@
       "year": "2012",
       "volume": "13",
       "source": "Nat Rev Mol Cell Biol",
-      "issue": "",
       "fpage": "549",
       "lpage": "65",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nrm3414",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib35": {
@@ -6374,17 +6007,11 @@
       "year": "2012",
       "volume": "109",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "8682",
       "lpage": "7",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1073/pnas.1200667109",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib36": {
@@ -6420,17 +6047,11 @@
       "year": "2010",
       "volume": "12",
       "source": "Nat Cell Biol",
-      "issue": "",
       "fpage": "436",
       "lpage": "46",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/ncb2045",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib37": {
@@ -6462,17 +6083,11 @@
       "year": "2006",
       "volume": "281",
       "source": "J Biol Chem",
-      "issue": "",
       "fpage": "35855",
       "lpage": "62",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1074/jbc.M608247200",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib38": {
@@ -6504,17 +6119,11 @@
       "year": "2008",
       "volume": "135",
       "source": "Cell",
-      "issue": "",
       "fpage": "110",
       "lpage": "22",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.cell.2008.08.006",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib39": {
@@ -6546,17 +6155,11 @@
       "year": "2007",
       "volume": "282",
       "source": "J Biol Chem",
-      "issue": "",
       "fpage": "29678",
       "lpage": "90",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1074/jbc.M704339200",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib40": {
@@ -6592,17 +6195,11 @@
       "year": "2006a",
       "volume": "16",
       "source": "Curr Biol",
-      "issue": "",
       "fpage": "2073",
       "lpage": "9",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.cub.2006.08.085",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib41": {
@@ -6622,17 +6219,11 @@
       "year": "2009",
       "volume": "10",
       "source": "Nat Immunol",
-      "issue": "",
       "fpage": "21",
       "lpage": "7",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/ni.f.220",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib42": {
@@ -6668,17 +6259,11 @@
       "year": "2006b",
       "volume": "312",
       "source": "Science",
-      "issue": "",
       "fpage": "1220",
       "lpage": "3",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1126/science.1127883",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib43": {
@@ -6714,17 +6299,11 @@
       "year": "2010a",
       "volume": "425",
       "source": "Biochem J",
-      "issue": "",
       "fpage": "159",
       "lpage": "68",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1042/BJ20090884",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib44": {
@@ -6752,17 +6331,11 @@
       "year": "2010b",
       "volume": "430",
       "source": "Biochem J",
-      "issue": "",
       "fpage": "453",
       "lpage": "60",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1042/BJ20100650",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib45": {
@@ -6782,17 +6355,11 @@
       "year": "2008",
       "volume": "15",
       "source": "Nat Struct Mol Biol",
-      "issue": "",
       "fpage": "658",
       "lpage": "64",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nsmb.1451",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib46": {
@@ -6816,17 +6383,11 @@
       "year": "2009",
       "volume": "284",
       "source": "J Biol Chem",
-      "issue": "",
       "fpage": "31817",
       "lpage": "26",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1074/jbc.M109.045286",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib47": {
@@ -6854,17 +6415,11 @@
       "year": "2006",
       "volume": "174",
       "source": "J Cell Biol",
-      "issue": "",
       "fpage": "803",
       "lpage": "13",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1083/jcb.200604014",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib48": {
@@ -6892,17 +6447,11 @@
       "year": "1999",
       "volume": "18",
       "source": "EMBO J",
-      "issue": "",
       "fpage": "3293",
       "lpage": "304",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1093/emboj/18.12.3293",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib49": {
@@ -6938,17 +6487,11 @@
       "year": "2006",
       "volume": "443",
       "source": "Nature",
-      "issue": "",
       "fpage": "226",
       "lpage": "9",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nature05108",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib50": {
@@ -6984,17 +6527,11 @@
       "year": "2009",
       "volume": "11",
       "source": "Nat Cell Biol",
-      "issue": "",
       "fpage": "337",
       "lpage": "43",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/ncb1842",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib51": {
@@ -7030,17 +6567,11 @@
       "year": "2006",
       "volume": "103",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "9357",
       "lpage": "62",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1073/pnas.0603161103",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib52": {
@@ -7076,17 +6607,11 @@
       "year": "2005",
       "volume": "437",
       "source": "Nature",
-      "issue": "",
       "fpage": "902",
       "lpage": "5",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nature04147",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "sub-article": {

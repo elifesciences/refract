@@ -97,7 +97,6 @@
       "accepted_on": "2013-01-03",
       "published_on": "2013-01-29",
       "journal": "eLife",
-      "article_type": "",
       "keywords": [
         "Cas9",
         "endonuclease",
@@ -110,10 +109,9 @@
         "Genomics and evolutionary biology",
         "Human biology and medicine"
       ],
-      "pdf_link": "",
-      "xml_link": "",
-      "json_link": "",
-      "doi": ""
+      "xml_link": "https://s3.amazonaws.com/elife-cdn/elife-articles/00471/elife00471.xml",
+      "json_link": "https://s3.amazonaws.com/elife-cdn/elife-articles/00471/00471.json",
+      "doi": "http://dx.doi.org/10.7554/eLife.00471"
     },
     "person_author_3463": {
       "type": "person",
@@ -122,9 +120,7 @@
       "last-name": "Jinek",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article",
-      "email": "",
       "funding": []
     },
     "person_author_3464": {
@@ -134,9 +130,7 @@
       "last-name": "East",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article",
-      "email": "",
       "funding": []
     },
     "person_author_3465": {
@@ -146,9 +140,7 @@
       "last-name": "Cheng",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Drafting or revising the article",
-      "email": "",
       "funding": [
         "funding_par_2"
       ]
@@ -160,9 +152,7 @@
       "last-name": "Lin",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Acquisition of data, Analysis and interpretation of data",
-      "email": "",
       "funding": []
     },
     "person_author_3466": {
@@ -172,9 +162,7 @@
       "last-name": "Ma",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Acquisition of data, Drafting or revising the article",
-      "email": "",
       "funding": []
     },
     "person_author_3402": {
@@ -184,7 +172,6 @@
       "last-name": "Doudna",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Analysis and interpretation of data, Drafting or revising the article",
       "email": "email_cor1",
       "funding": [
@@ -196,36 +183,28 @@
       "id": "institution_aff1",
       "name": "Howard Hughes Medical Institute, University of California, Berkeley",
       "city": "Berkeley",
-      "country": "United States",
-      "email": "",
-      "image": ""
+      "country": "United States"
     },
     "institution_aff2": {
       "type": "institution",
       "id": "institution_aff2",
       "name": "University of California, Berkeley",
       "city": "Berkeley",
-      "country": "United States",
-      "email": "",
-      "image": ""
+      "country": "United States"
     },
     "institution_aff3": {
       "type": "institution",
       "id": "institution_aff3",
       "name": "University of California, Berkeley",
       "city": "Berkeley",
-      "country": "United States",
-      "email": "",
-      "image": ""
+      "country": "United States"
     },
     "institution_aff4": {
       "type": "institution",
       "id": "institution_aff4",
       "name": "Lawrence Berkeley National Laboratory",
       "city": "Berkeley",
-      "country": "United States",
-      "email": "",
-      "image": ""
+      "country": "United States"
     },
     "person_1": {
       "type": "person",
@@ -234,9 +213,6 @@
       "last-name": "Weigel",
       "role": "editor",
       "affiliations": [],
-      "image": "",
-      "contribution": "",
-      "email": "",
       "funding": []
     },
     "info:review": {
@@ -251,7 +227,6 @@
     "email_cor1": {
       "type": "email",
       "id": "email_cor1",
-      "node": "",
       "email": "doudna@berkeley.edu"
     },
     "info:copyright": {
@@ -384,7 +359,6 @@
       "type": "funding",
       "id": "funding_par_1",
       "institution": "Howard Hughes Medical Institute",
-      "accession": "",
       "person": "person_author_3402",
       "given-names": "Jennifer",
       "last-name": "Doudna"
@@ -393,7 +367,6 @@
       "type": "funding",
       "id": "funding_par_2",
       "institution": "National Institutes of Health",
-      "accession": "",
       "person": "person_author_3465",
       "given-names": "Aaron",
       "last-name": "Cheng"
@@ -409,8 +382,7 @@
     },
     "paragraph_15": {
       "type": "paragraph",
-      "id": "paragraph_15",
-      "content": ""
+      "id": "paragraph_15"
     },
     "heading_s1": {
       "type": "heading",
@@ -840,19 +812,12 @@
       "type": "image",
       "id": "image_fig1",
       "label": "Figure 1.",
-      "url": "",
-      "object_id": "F1",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00471/svg/elife00471f001.svg",
       "title": "Co-expression of Cas9 and guide RNA in human cells generates double-strand DNA breaks at the target locus.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00471.003",
       "caption": "paragraph_image_fig1",
-      "graphic_id": "elife00471f001"
+      "graphic_id": "elife00471f001",
+      "format": "image"
     },
     "paragraph_image_fig1": {
       "type": "paragraph",
@@ -941,19 +906,12 @@
       "type": "image",
       "id": "image_fig1s1",
       "label": "Figure 1—figure supplement 1.",
-      "url": "",
-      "object_id": "F2",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00471/svg/elife00471fs001.svg",
       "title": "Mutated alleles of the CLTA gene in HEK293T cells as a result of Cas9-induced NHEJ.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig1"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00471.004",
       "caption": "paragraph_image_fig1s1",
-      "graphic_id": "elife00471fs001"
+      "graphic_id": "elife00471fs001",
+      "format": "image"
     },
     "paragraph_image_fig1s1": {
       "type": "paragraph",
@@ -1052,19 +1010,12 @@
       "type": "image",
       "id": "image_fig2",
       "label": "Figure 2.",
-      "url": "",
-      "object_id": "F3",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00471/svg/elife00471f002.svg",
       "title": "Cell lysates contain active Cas9:sgRNA and support site-specific DNA cleavage.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00471.005",
       "caption": "paragraph_image_fig2",
-      "graphic_id": "elife00471f002"
+      "graphic_id": "elife00471f002",
+      "format": "image"
     },
     "paragraph_image_fig2": {
       "type": "paragraph",
@@ -1171,19 +1122,12 @@
       "type": "image",
       "id": "image_fig3",
       "label": "Figure 3.",
-      "url": "",
-      "object_id": "F4",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00471/svg/elife00471f003.svg",
       "title": "3′ extension of sgRNA constructs enhances site-specific NHEJ-mediated mutagenesis.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00471.006",
       "caption": "paragraph_image_fig3",
-      "graphic_id": "elife00471f003"
+      "graphic_id": "elife00471f003",
+      "format": "image"
     },
     "paragraph_image_fig3": {
       "type": "paragraph",
@@ -1604,17 +1548,24 @@
       "type": "supplement",
       "id": "supplement_SD1_data",
       "label": "Supplementary file 1.",
-      "source": "",
-      "title": "",
       "caption": "paragraph_supplement_SD1_data",
-      "content": "",
       "doi": "http://dx.doi.org/10.7554/eLife.00471.007",
-      "graphic_id": "elife00471s001.rtf"
+      "files": [
+        "file_102"
+      ]
     },
     "paragraph_supplement_SD1_data": {
       "type": "paragraph",
       "id": "paragraph_supplement_SD1_data",
       "content": "DNA and protein sequences relating to plasmid design and construction."
+    },
+    "file_102": {
+      "type": "file",
+      "id": "file_102",
+      "name": "RTF",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00471/suppl/elife00471s001.rtf",
+      "graphic_id": "elife00471s001.rtf",
+      "extension": ".rtf"
     },
     "article_citation_bib1": {
       "type": "article_citation",
@@ -1637,17 +1588,10 @@
       "year": "2011",
       "volume": "45",
       "source": "Annu Rev Genet",
-      "issue": "",
       "fpage": "273",
       "lpage": "97",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib2": {
@@ -1667,17 +1611,10 @@
       "year": "2011",
       "volume": "333",
       "source": "Science",
-      "issue": "",
       "fpage": "1843",
       "lpage": "6",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib3": {
@@ -1713,17 +1650,10 @@
       "year": "2011",
       "volume": "471",
       "source": "Nature",
-      "issue": "",
       "fpage": "602",
       "lpage": "7",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib4": {
@@ -1759,17 +1689,10 @@
       "year": "2011",
       "volume": "13",
       "source": "Nat Cell Biol",
-      "issue": "",
       "fpage": "331",
       "lpage": "7",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib5": {
@@ -1797,17 +1720,10 @@
       "year": "2012",
       "volume": "109",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "E2579",
       "lpage": "86",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib6": {
@@ -1843,17 +1759,10 @@
       "year": "2012",
       "volume": "337",
       "source": "Science",
-      "issue": "",
       "fpage": "816",
       "lpage": "21",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib7": {
@@ -1873,17 +1782,10 @@
       "year": "1999",
       "volume": "1",
       "source": "Curr Opin Mol Ther",
-      "issue": "",
       "fpage": "580",
       "lpage": "94",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib8": {
@@ -1919,17 +1821,10 @@
       "year": "2007",
       "volume": "25",
       "source": "Nat Biotechnol",
-      "issue": "",
       "fpage": "778",
       "lpage": "85",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib9": {
@@ -1965,17 +1860,10 @@
       "year": "2004",
       "volume": "36",
       "source": "Biotechniques",
-      "issue": "",
       "fpage": "702",
       "lpage": "7",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib10": {
@@ -2011,22 +1899,15 @@
       "year": "2011",
       "volume": "39",
       "source": "Nucleic Acids Res",
-      "issue": "",
       "fpage": "9275",
       "lpage": "82",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_102": {
+    "annotation_103": {
       "type": "emphasis",
-      "id": "annotation_102",
+      "id": "annotation_103",
       "path": [
         "article_citation_bib10",
         "title"
@@ -2058,17 +1939,10 @@
       "year": "2012",
       "volume": "18",
       "source": "RNA",
-      "issue": "",
       "fpage": "661",
       "lpage": "72",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib12": {
@@ -2088,17 +1962,10 @@
       "year": "2011",
       "volume": "14",
       "source": "Curr Opin Microbiol",
-      "issue": "",
       "fpage": "321",
       "lpage": "7",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib13": {
@@ -2130,17 +1997,10 @@
       "year": "2010",
       "volume": "11",
       "source": "Nat Rev Genet",
-      "issue": "",
       "fpage": "636",
       "lpage": "46",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib14": {
@@ -2164,17 +2024,10 @@
       "year": "2012",
       "volume": "482",
       "source": "Nature",
-      "issue": "",
       "fpage": "331",
       "lpage": "8",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "sub-article": {

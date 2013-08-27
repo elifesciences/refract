@@ -222,7 +222,6 @@
       "accepted_on": "2013-07-03",
       "published_on": "2013-08-06",
       "journal": "elife",
-      "article_type": "",
       "keywords": [
         "autophagy",
         "ER–Golgi intermediate compartment",
@@ -237,10 +236,9 @@
         "Biochemistry",
         "Cell biology"
       ],
-      "pdf_link": "",
-      "xml_link": "",
-      "json_link": "",
-      "doi": ""
+      "xml_link": "https://s3.amazonaws.com/elife-cdn/elife-articles/00947/elife00947.xml",
+      "json_link": "https://s3.amazonaws.com/elife-cdn/elife-articles/00947/00947.json",
+      "doi": "http://dx.doi.org/10.7554/eLife.00947"
     },
     "person_author_5338": {
       "type": "person",
@@ -249,9 +247,7 @@
       "last-name": "Ge",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article, Contributed unpublished essential data or reagents",
-      "email": "",
       "funding": [
         "funding_par_3",
         "funding_par_4"
@@ -264,9 +260,7 @@
       "last-name": "Melville",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Acquisition of data, Drafting or revising the article",
-      "email": "",
       "funding": []
     },
     "person_author_5521": {
@@ -276,9 +270,7 @@
       "last-name": "Zhang",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Acquisition of data, Contributed unpublished essential data or reagents",
-      "email": "",
       "funding": []
     },
     "person_author_1032": {
@@ -288,7 +280,6 @@
       "last-name": "Schekman",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Analysis and interpretation of data, Drafting or revising the article",
       "email": "email_cor1",
       "funding": [
@@ -301,9 +292,7 @@
       "id": "institution_aff1",
       "name": "Howard Hughes Medical Institute, University of California, Berkeley",
       "city": "Berkeley",
-      "country": "United States",
-      "email": "",
-      "image": ""
+      "country": "United States"
     },
     "person_1": {
       "type": "person",
@@ -312,9 +301,6 @@
       "last-name": "Levine",
       "role": "editor",
       "affiliations": [],
-      "image": "",
-      "contribution": "",
-      "email": "",
       "funding": []
     },
     "info:review": {
@@ -329,7 +315,6 @@
     "email_cor1": {
       "type": "email",
       "id": "email_cor1",
-      "node": "",
       "email": "schekman@berkeley.edu"
     },
     "info:copyright": {
@@ -472,7 +457,6 @@
       "type": "funding",
       "id": "funding_par_1",
       "institution": "Howard Hughes Medical Institute",
-      "accession": "",
       "person": "person_author_1032",
       "given-names": "Randy",
       "last-name": "Schekman"
@@ -481,7 +465,6 @@
       "type": "funding",
       "id": "funding_par_2",
       "institution": "University of California, Berkeley Miller Institute",
-      "accession": "",
       "person": "person_author_1032",
       "given-names": "Randy",
       "last-name": "Schekman"
@@ -499,7 +482,6 @@
       "type": "funding",
       "id": "funding_par_4",
       "institution": "Jane Coffin Childs Fund",
-      "accession": "",
       "person": "person_author_5338",
       "given-names": "Liang",
       "last-name": "Ge"
@@ -515,8 +497,7 @@
     },
     "paragraph_17": {
       "type": "paragraph",
-      "id": "paragraph_17",
-      "content": ""
+      "id": "paragraph_17"
     },
     "heading_s1": {
       "type": "heading",
@@ -1366,19 +1347,12 @@
       "type": "image",
       "id": "image_fig1",
       "label": "Figure 1.",
-      "url": "",
-      "object_id": "F1",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00947/svg/elife00947f001.svg",
       "title": "In vitro reconstitution of endogenous LC3 lipidation.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00947.003",
       "caption": "paragraph_image_fig1",
-      "graphic_id": "elife00947f001"
+      "graphic_id": "elife00947f001",
+      "format": "image"
     },
     "paragraph_image_fig1": {
       "type": "paragraph",
@@ -1493,19 +1467,12 @@
       "type": "image",
       "id": "image_fig1s1",
       "label": "Figure 1—figure supplement 1.",
-      "url": "",
-      "object_id": "F2",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00947/svg/elife00947fs001.svg",
       "title": "Characterization of the in vitro-lipidated LC3.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig1"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00947.004",
       "caption": "paragraph_image_fig1s1",
-      "graphic_id": "elife00947fs001"
+      "graphic_id": "elife00947fs001",
+      "format": "image"
     },
     "paragraph_image_fig1s1": {
       "type": "paragraph",
@@ -1890,19 +1857,12 @@
       "type": "image",
       "id": "image_fig2",
       "label": "Figure 2.",
-      "url": "",
-      "object_id": "F3",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00947/svg/elife00947f002.svg",
       "title": "The in vitro lipidation of LC3 is regulated by ATG5, starvation and PI3K.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00947.005",
       "caption": "paragraph_image_fig2",
-      "graphic_id": "elife00947f002"
+      "graphic_id": "elife00947f002",
+      "format": "image"
     },
     "paragraph_image_fig2": {
       "type": "paragraph",
@@ -1978,19 +1938,12 @@
       "type": "image",
       "id": "image_fig2s1",
       "label": "Figure 2—figure supplement 1.",
-      "url": "",
-      "object_id": "F4",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00947/svg/elife00947fs002.svg",
       "title": "Starvation-promoted lipidation of LC3 by COS-7 or HEK293T cytosol.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig2"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00947.006",
       "caption": "paragraph_image_fig2s1",
-      "graphic_id": "elife00947fs002"
+      "graphic_id": "elife00947fs002",
+      "format": "image"
     },
     "paragraph_image_fig2s1": {
       "type": "paragraph",
@@ -2014,19 +1967,12 @@
       "type": "image",
       "id": "image_fig2s2",
       "label": "Figure 2—figure supplement 2.",
-      "url": "",
-      "object_id": "F5",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00947/svg/elife00947fs003.svg",
       "title": "Purification and verification of GST-FYVEs.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig2"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00947.007",
       "caption": "paragraph_image_fig2s2",
-      "graphic_id": "elife00947fs003"
+      "graphic_id": "elife00947fs003",
+      "format": "image"
     },
     "paragraph_image_fig2s2": {
       "type": "paragraph",
@@ -2395,19 +2341,12 @@
       "type": "image",
       "id": "image_fig3",
       "label": "Figure 3.",
-      "url": "",
-      "object_id": "F6",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00947/svg/elife00947f003.svg",
       "title": "Recapitulation of the major regulatory pathways for autophagy by in vitro lipidation of T7-LC3.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00947.008",
       "caption": "paragraph_image_fig3",
-      "graphic_id": "elife00947f003"
+      "graphic_id": "elife00947f003",
+      "format": "image"
     },
     "paragraph_image_fig3": {
       "type": "paragraph",
@@ -2665,19 +2604,12 @@
       "type": "image",
       "id": "image_fig3s1",
       "label": "Figure 3—figure supplement 1.",
-      "url": "",
-      "object_id": "F7",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00947/svg/elife00947fs004.svg",
       "title": "Purification of the T7-tagged LC3 and characterization of the lipidation.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig3"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00947.009",
       "caption": "paragraph_image_fig3s1",
-      "graphic_id": "elife00947fs004"
+      "graphic_id": "elife00947fs004",
+      "format": "image"
     },
     "paragraph_image_fig3s1": {
       "type": "paragraph",
@@ -2900,19 +2832,12 @@
       "type": "image",
       "id": "image_fig4",
       "label": "Figure 4.",
-      "url": "",
-      "object_id": "F8",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00947/svg/elife00947f004.svg",
       "title": "Membrane fractionation scheme.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00947.010",
       "caption": "paragraph_image_fig4",
-      "graphic_id": "elife00947f004"
+      "graphic_id": "elife00947f004",
+      "format": "image"
     },
     "paragraph_image_fig4": {
       "type": "paragraph",
@@ -3019,19 +2944,12 @@
       "type": "image",
       "id": "image_fig5",
       "label": "Figure 5.",
-      "url": "",
-      "object_id": "F9",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00947/svg/elife00947f005.svg",
       "title": "Separation of the total membrane by differential centrifugations.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00947.011",
       "caption": "paragraph_image_fig5",
-      "graphic_id": "elife00947f005"
+      "graphic_id": "elife00947f005",
+      "format": "image"
     },
     "paragraph_image_fig5": {
       "type": "paragraph",
@@ -3203,19 +3121,12 @@
       "type": "image",
       "id": "image_fig6",
       "label": "Figure 6.",
-      "url": "",
-      "object_id": "F10",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00947/svg/elife00947f006.svg",
       "title": "Separation of the 25k pellet fraction by sucrose gradient ultracentrifugation.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00947.012",
       "caption": "paragraph_image_fig6",
-      "graphic_id": "elife00947f006"
+      "graphic_id": "elife00947f006",
+      "format": "image"
     },
     "paragraph_image_fig6": {
       "type": "paragraph",
@@ -3426,19 +3337,12 @@
       "type": "image",
       "id": "image_fig7",
       "label": "Figure 7.",
-      "url": "",
-      "object_id": "F11",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00947/svg/elife00947f007.svg",
       "title": "Separation of the L fraction by OptiPrep gradient ultracentrifugation.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00947.013",
       "caption": "paragraph_image_fig7",
-      "graphic_id": "elife00947f007"
+      "graphic_id": "elife00947f007",
+      "format": "image"
     },
     "paragraph_image_fig7": {
       "type": "paragraph",
@@ -3514,19 +3418,12 @@
       "type": "image",
       "id": "image_fig7s1",
       "label": "Figure 7—figure supplement 1.",
-      "url": "",
-      "object_id": "F12",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00947/svg/elife00947fs005.svg",
       "title": "The ERGIC membrane promotes LC3 lipidation without altering cytosolic factors.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig7"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00947.014",
       "caption": "paragraph_image_fig7s1",
-      "graphic_id": "elife00947fs005"
+      "graphic_id": "elife00947fs005",
+      "format": "image"
     },
     "paragraph_image_fig7s1": {
       "type": "paragraph",
@@ -3576,19 +3473,12 @@
       "type": "image",
       "id": "image_fig7s2",
       "label": "Figure 7—figure supplement 2.",
-      "url": "",
-      "object_id": "F13",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00947/svg/elife00947fs006.svg",
       "title": "The lipidation activity of the ERGIC-enriched fractions are regulated by starvation and PI3K.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig7"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00947.015",
       "caption": "paragraph_image_fig7s2",
-      "graphic_id": "elife00947fs006"
+      "graphic_id": "elife00947fs006",
+      "format": "image"
     },
     "paragraph_image_fig7s2": {
       "type": "paragraph",
@@ -3695,19 +3585,12 @@
       "type": "image",
       "id": "image_fig8",
       "label": "Figure 8.",
-      "url": "",
-      "object_id": "F14",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00947/svg/elife00947f008.svg",
       "title": "ERGIC directly triggers in vitro LC3 lipidation.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00947.016",
       "caption": "paragraph_image_fig8",
-      "graphic_id": "elife00947f008"
+      "graphic_id": "elife00947f008",
+      "format": "image"
     },
     "paragraph_image_fig8": {
       "type": "paragraph",
@@ -3887,19 +3770,12 @@
       "type": "image",
       "id": "image_fig8s1",
       "label": "Figure 8—figure supplement 1.",
-      "url": "",
-      "object_id": "F15",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00947/svg/elife00947fs007.svg",
       "title": "Mitochondrial-associated endoplasmic reticulum membranes (MAM) are not active to trigger in vitro LC3 lipidation.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig8"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00947.017",
       "caption": "paragraph_image_fig8s1",
-      "graphic_id": "elife00947fs007"
+      "graphic_id": "elife00947fs007",
+      "format": "image"
     },
     "paragraph_image_fig8s1": {
       "type": "paragraph",
@@ -4314,19 +4190,12 @@
       "type": "image",
       "id": "image_fig9",
       "label": "Figure 9.",
-      "url": "",
-      "object_id": "F16",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00947/svg/elife00947f009.svg",
       "title": "ERGIC is required for in vitro LC3 lipidation.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00947.018",
       "caption": "paragraph_image_fig9",
-      "graphic_id": "elife00947f009"
+      "graphic_id": "elife00947f009",
+      "format": "image"
     },
     "paragraph_image_fig9": {
       "type": "paragraph",
@@ -4506,19 +4375,12 @@
       "type": "image",
       "id": "image_fig9s1",
       "label": "Figure 9—figure supplement 1.",
-      "url": "",
-      "object_id": "F17",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00947/svg/elife00947fs008.svg",
       "title": "Immunofluorescence showing the effect of indicated drugs on ERGIC and Golgi.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig9"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00947.019",
       "caption": "paragraph_image_fig9s1",
-      "graphic_id": "elife00947fs008"
+      "graphic_id": "elife00947fs008",
+      "format": "image"
     },
     "paragraph_image_fig9s1": {
       "type": "paragraph",
@@ -4741,19 +4603,12 @@
       "type": "image",
       "id": "image_fig10",
       "label": "Figure 10.",
-      "url": "",
-      "object_id": "F18",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00947/svg/elife00947f010.svg",
       "title": "ERGIC is required for starvation-induced LC3 puncta formation.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00947.020",
       "caption": "paragraph_image_fig10",
-      "graphic_id": "elife00947f010"
+      "graphic_id": "elife00947f010",
+      "format": "image"
     },
     "paragraph_image_fig10": {
       "type": "paragraph",
@@ -4842,19 +4697,12 @@
       "type": "image",
       "id": "image_fig10s1",
       "label": "Figure 10—figure supplement 1.",
-      "url": "",
-      "object_id": "F19",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00947/svg/elife00947fs009.svg",
       "title": "Drugs that disrupt ERGIC inhibit starvation-induced ATG16 puncta formation.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig10"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00947.021",
       "caption": "paragraph_image_fig10s1",
-      "graphic_id": "elife00947fs009"
+      "graphic_id": "elife00947fs009",
+      "format": "image"
     },
     "paragraph_image_fig10s1": {
       "type": "paragraph",
@@ -4904,19 +4752,12 @@
       "type": "image",
       "id": "image_fig10s2",
       "label": "Figure 10—figure supplement 2.",
-      "url": "",
-      "object_id": "F20",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00947/svg/elife00947fs010.svg",
       "title": "Effects of SAR1A variants on ERGIC.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig10"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00947.022",
       "caption": "paragraph_image_fig10s2",
-      "graphic_id": "elife00947fs010"
+      "graphic_id": "elife00947fs010",
+      "format": "image"
     },
     "paragraph_image_fig10s2": {
       "type": "paragraph",
@@ -5144,19 +4985,12 @@
       "type": "image",
       "id": "image_fig11",
       "label": "Figure 11.",
-      "url": "",
-      "object_id": "F21",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00947/svg/elife00947f011.svg",
       "title": "ERGIC is required for the starvation-induced localization of ATG14 and DFCP1 to puncta.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00947.023",
       "caption": "paragraph_image_fig11",
-      "graphic_id": "elife00947f011"
+      "graphic_id": "elife00947f011",
+      "format": "image"
     },
     "paragraph_image_fig11": {
       "type": "paragraph",
@@ -5328,19 +5162,12 @@
       "type": "image",
       "id": "image_fig12",
       "label": "Figure 12.",
-      "url": "",
-      "object_id": "F22",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00947/svg/elife00947f012.svg",
       "title": "ERGIC is required for membrane recruitment of ATG14 and DFCP1.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00947.024",
       "caption": "paragraph_image_fig12",
-      "graphic_id": "elife00947f012"
+      "graphic_id": "elife00947f012",
+      "format": "image"
     },
     "paragraph_image_fig12": {
       "type": "paragraph",
@@ -5403,19 +5230,12 @@
       "type": "image",
       "id": "image_fig12s1",
       "label": "Figure 12—figure supplement 1.",
-      "url": "",
-      "object_id": "F23",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00947/svg/elife00947fs011.svg",
       "title": "Establishment of the in vitro membrane recruitment assay.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig12"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00947.025",
       "caption": "paragraph_image_fig12s1",
-      "graphic_id": "elife00947fs011"
+      "graphic_id": "elife00947fs011",
+      "format": "image"
     },
     "paragraph_image_fig12s1": {
       "type": "paragraph",
@@ -5491,19 +5311,12 @@
       "type": "image",
       "id": "image_fig12s2",
       "label": "Figure 12—figure supplement 2.",
-      "url": "",
-      "object_id": "F24",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00947/svg/elife00947fs012.svg",
       "title": "Atg14L and DFCP1 puncta colocalize with ERGIC.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig12"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00947.026",
       "caption": "paragraph_image_fig12s2",
-      "graphic_id": "elife00947fs012"
+      "graphic_id": "elife00947fs012",
+      "format": "image"
     },
     "paragraph_image_fig12s2": {
       "type": "paragraph",
@@ -6709,17 +6522,11 @@
       "year": "2006",
       "volume": "119",
       "source": "J Cell Sci",
-      "issue": "",
       "fpage": "2173",
       "lpage": "83",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1242/jcs.03019",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib2": {
@@ -6739,17 +6546,11 @@
       "year": "2000",
       "volume": "275",
       "source": "J Biol Chem",
-      "issue": "",
       "fpage": "35673",
       "lpage": "6",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1074/jbc.C000449200",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib3": {
@@ -6785,17 +6586,11 @@
       "year": "2008",
       "volume": "182",
       "source": "J Cell Biol",
-      "issue": "",
       "fpage": "685",
       "lpage": "701",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1083/jcb.200803137",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib4": {
@@ -6831,17 +6626,11 @@
       "year": "2011",
       "volume": "2",
       "source": "ACS Med Chem Lett",
-      "issue": "",
       "fpage": "154",
       "lpage": "9",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1021/ml100230n",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib5": {
@@ -6861,17 +6650,11 @@
       "year": "2010",
       "volume": "32",
       "source": "Semin Immunopathol",
-      "issue": "",
       "fpage": "397",
       "lpage": "413",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1007/s00281-010-0222-z",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib6": {
@@ -6891,17 +6674,11 @@
       "year": "2009",
       "volume": "583",
       "source": "FEBS Lett",
-      "issue": "",
       "fpage": "3863",
       "lpage": "71",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.febslet.2009.10.053",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib7": {
@@ -6937,17 +6714,11 @@
       "year": "2010",
       "volume": "190",
       "source": "J Cell Biol",
-      "issue": "",
       "fpage": "533",
       "lpage": "9",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1083/jcb.201002108",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib8": {
@@ -6983,17 +6754,10 @@
       "year": "1990",
       "volume": "265",
       "source": "J Biol Chem",
-      "issue": "",
       "fpage": "5267",
       "lpage": "72",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib9": {
@@ -7013,17 +6777,11 @@
       "year": "1999",
       "volume": "15",
       "source": "Cell Biol Toxicol",
-      "issue": "",
       "fpage": "311",
       "lpage": "23",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1023/A:1007667802497",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib10": {
@@ -7047,17 +6805,11 @@
       "year": "2011",
       "volume": "108",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "7769",
       "lpage": "74",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1073/pnas.1016472108",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib11": {
@@ -7093,17 +6845,11 @@
       "year": "2008",
       "volume": "19",
       "source": "Mol Biol Cell",
-      "issue": "",
       "fpage": "2092",
       "lpage": "100",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1091/mbc.E07-12-1257",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib12": {
@@ -7139,17 +6885,11 @@
       "year": "2010",
       "volume": "6",
       "source": "Autophagy",
-      "issue": "",
       "fpage": "126",
       "lpage": "37",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.4161/auto.6.1.10928",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib13": {
@@ -7185,17 +6925,11 @@
       "year": "2011",
       "volume": "108",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "551",
       "lpage": "6",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1073/pnas.1014434108",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib14": {
@@ -7231,17 +6965,11 @@
       "year": "2008",
       "volume": "7",
       "source": "Cell Metab",
-      "issue": "",
       "fpage": "508",
       "lpage": "19",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.cmet.2008.04.001",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib15": {
@@ -7261,17 +6989,11 @@
       "year": "2008",
       "volume": "9",
       "source": "EMBO Rep",
-      "issue": "",
       "fpage": "859",
       "lpage": "64",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/embor.2008.163",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib16": {
@@ -7299,17 +7021,11 @@
       "year": "2010",
       "volume": "21",
       "source": "Mol Biol Cell",
-      "issue": "",
       "fpage": "2257",
       "lpage": "69",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1091/mbc.E09-11-0969",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "annotation_467": {
@@ -7358,17 +7074,11 @@
       "year": "2012",
       "volume": "125",
       "source": "J Cell Sci",
-      "issue": "",
       "fpage": "1706",
       "lpage": "15",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1242/jcs.093203",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib18": {
@@ -7392,17 +7102,10 @@
       "year": "2013",
       "volume": "2",
       "source": "eLife",
-      "issue": "",
       "fpage": "e00160",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.7554/eLife.00160",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib19": {
@@ -7438,17 +7141,11 @@
       "year": "2010",
       "volume": "141",
       "source": "Cell",
-      "issue": "",
       "fpage": "656",
       "lpage": "67",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.cell.2010.04.009",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib20": {
@@ -7484,17 +7181,11 @@
       "year": "2013",
       "volume": "495",
       "source": "Nature",
-      "issue": "",
       "fpage": "389",
       "lpage": "93",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nature11910",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib21": {
@@ -7518,17 +7209,11 @@
       "year": "2003",
       "volume": "28",
       "source": "Cell Struct Funct",
-      "issue": "",
       "fpage": "49",
       "lpage": "54",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1247/csf.28.49",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib22": {
@@ -7564,17 +7249,11 @@
       "year": "2007",
       "volume": "282",
       "source": "J Biol Chem",
-      "issue": "",
       "fpage": "37298",
       "lpage": "302",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1074/jbc.C700195200",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib23": {
@@ -7610,17 +7289,11 @@
       "year": "2009",
       "volume": "11",
       "source": "Nat Cell Biol",
-      "issue": "",
       "fpage": "1433",
       "lpage": "7",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/ncb1991",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib24": {
@@ -7644,17 +7317,11 @@
       "year": "1991",
       "volume": "253",
       "source": "Science",
-      "issue": "",
       "fpage": "905",
       "lpage": "9",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1126/science.1715094",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib25": {
@@ -7686,17 +7353,11 @@
       "year": "2011",
       "volume": "412",
       "source": "Clin Chim Acta",
-      "issue": "",
       "fpage": "1436",
       "lpage": "40",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.cca.2011.04.023",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib26": {
@@ -7732,17 +7393,11 @@
       "year": "2000",
       "volume": "408",
       "source": "Nature",
-      "issue": "",
       "fpage": "488",
       "lpage": "92",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/35044114",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib27": {
@@ -7762,17 +7417,11 @@
       "year": "2010",
       "volume": "6",
       "source": "Autophagy",
-      "issue": "",
       "fpage": "764",
       "lpage": "76",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.4161/auto.6.6.12709",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib28": {
@@ -7808,17 +7457,11 @@
       "year": "2000",
       "volume": "19",
       "source": "EMBO J",
-      "issue": "",
       "fpage": "5720",
       "lpage": "8",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1093/emboj/19.21.5720",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib29": {
@@ -7850,17 +7493,11 @@
       "year": "2005",
       "volume": "280",
       "source": "J Biol Chem",
-      "issue": "",
       "fpage": "7758",
       "lpage": "68",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1074/jbc.M411091200",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib30": {
@@ -7896,17 +7533,11 @@
       "year": "2013",
       "volume": "152",
       "source": "Cell",
-      "issue": "",
       "fpage": "290",
       "lpage": "303",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.cell.2012.12.016",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib31": {
@@ -7934,17 +7565,11 @@
       "year": "2011",
       "volume": "13",
       "source": "Nat Cell Biol",
-      "issue": "",
       "fpage": "132",
       "lpage": "41",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/ncb2152",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib32": {
@@ -7980,17 +7605,11 @@
       "year": "2012",
       "volume": "8",
       "source": "Autophagy",
-      "issue": "",
       "fpage": "445",
       "lpage": "544",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.4161/auto.19496",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib33": {
@@ -8026,17 +7645,11 @@
       "year": "2005",
       "volume": "169",
       "source": "J Cell Biol",
-      "issue": "",
       "fpage": "425",
       "lpage": "34",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1083/jcb.200412022",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib34": {
@@ -8072,17 +7685,11 @@
       "year": "2004",
       "volume": "432",
       "source": "Nature",
-      "issue": "",
       "fpage": "1032",
       "lpage": "6",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nature03029",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib35": {
@@ -8118,17 +7725,11 @@
       "year": "2008",
       "volume": "112",
       "source": "Blood",
-      "issue": "",
       "fpage": "1493",
       "lpage": "502",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1182/blood-2008-02-137398",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib36": {
@@ -8144,17 +7745,11 @@
       "year": "2005",
       "volume": "120",
       "source": "Cell",
-      "issue": "",
       "fpage": "159",
       "lpage": "62",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.cell.2005.01.005",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib37": {
@@ -8190,17 +7785,11 @@
       "year": "2010",
       "volume": "53",
       "source": "J Med Chem",
-      "issue": "",
       "fpage": "7146",
       "lpage": "55",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1021/jm101144f",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib38": {
@@ -8236,17 +7825,11 @@
       "year": "2012",
       "volume": "197",
       "source": "J Cell Biol",
-      "issue": "",
       "fpage": "659",
       "lpage": "75",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1083/jcb.201111079",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib39": {
@@ -8282,17 +7865,11 @@
       "year": "2010",
       "volume": "190",
       "source": "J Cell Biol",
-      "issue": "",
       "fpage": "1005",
       "lpage": "22",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1083/jcb.200912089",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib40": {
@@ -8316,17 +7893,10 @@
       "year": "2011",
       "volume": "3",
       "source": "F1000 Biol Rep",
-      "issue": "",
       "fpage": "25",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.3410/B3-25",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib41": {
@@ -8362,17 +7932,11 @@
       "year": "2010",
       "volume": "190",
       "source": "J Cell Biol",
-      "issue": "",
       "fpage": "511",
       "lpage": "21",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1083/jcb.200911141",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib42": {
@@ -8408,17 +7972,11 @@
       "year": "2009",
       "volume": "11",
       "source": "Nat Cell Biol",
-      "issue": "",
       "fpage": "385",
       "lpage": "96",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/ncb1846",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib43": {
@@ -8434,17 +7992,11 @@
       "year": "2010",
       "volume": "22",
       "source": "Curr Opin Cell Biol",
-      "issue": "",
       "fpage": "132",
       "lpage": "9",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.ceb.2009.12.004",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib44": {
@@ -8472,17 +8024,11 @@
       "year": "2008",
       "volume": "451",
       "source": "Nature",
-      "issue": "",
       "fpage": "1069",
       "lpage": "75",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nature06639",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib45": {
@@ -8518,17 +8064,11 @@
       "year": "1998a",
       "volume": "395",
       "source": "Nature",
-      "issue": "",
       "fpage": "395",
       "lpage": "8",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/26506",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib46": {
@@ -8556,17 +8096,11 @@
       "year": "1998b",
       "volume": "273",
       "source": "J Biol Chem",
-      "issue": "",
       "fpage": "33889",
       "lpage": "92",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1074/jbc.273.51.33889",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib47": {
@@ -8602,17 +8136,11 @@
       "year": "2001",
       "volume": "152",
       "source": "J Cell Biol",
-      "issue": "",
       "fpage": "657",
       "lpage": "68",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1083/jcb.152.4.657",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib48": {
@@ -8644,17 +8172,11 @@
       "year": "2011",
       "volume": "146",
       "source": "Cell",
-      "issue": "",
       "fpage": "303",
       "lpage": "17",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.cell.2011.06.023",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib49": {
@@ -8690,17 +8212,11 @@
       "year": "2011",
       "volume": "146",
       "source": "Cell",
-      "issue": "",
       "fpage": "290",
       "lpage": "302",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.cell.2011.06.022",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib50": {
@@ -8720,17 +8236,11 @@
       "year": "1998",
       "volume": "273",
       "source": "J Biol Chem",
-      "issue": "",
       "fpage": "3963",
       "lpage": "6",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1074/jbc.273.7.3963",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib51": {
@@ -8750,17 +8260,10 @@
       "year": "2011",
       "volume": "2011",
       "source": "Int J Cell Biol",
-      "issue": "",
       "fpage": "713435",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1155/2011/713435",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib52": {
@@ -8784,17 +8287,11 @@
       "year": "2008",
       "volume": "283",
       "source": "J Biol Chem",
-      "issue": "",
       "fpage": "21847",
       "lpage": "52",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1074/jbc.M801836200",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib53": {
@@ -8814,17 +8311,11 @@
       "year": "2010",
       "volume": "21",
       "source": "Mol Biol Cell",
-      "issue": "",
       "fpage": "3998",
       "lpage": "4008",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1091/mbc.E10-05-0457",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib54": {
@@ -8860,17 +8351,11 @@
       "year": "2012",
       "volume": "23",
       "source": "Mol Biol Cell",
-      "issue": "",
       "fpage": "1860",
       "lpage": "73",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1091/mbc.E11-09-0746",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib55": {
@@ -8906,17 +8391,11 @@
       "year": "1999",
       "volume": "3",
       "source": "Mol Cell",
-      "issue": "",
       "fpage": "275",
       "lpage": "85",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/S1097-2765(00)80455-4",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib56": {
@@ -8936,17 +8415,11 @@
       "year": "2003",
       "volume": "14",
       "source": "Mol Biol Cell",
-      "issue": "",
       "fpage": "5011",
       "lpage": "8",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1091/mbc.E03-06-0437",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib57": {
@@ -8970,17 +8443,11 @@
       "year": "2012",
       "volume": "151",
       "source": "Cell",
-      "issue": "",
       "fpage": "1501",
       "lpage": "12",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.cell.2012.11.028",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib58": {
@@ -9012,17 +8479,11 @@
       "year": "2010",
       "volume": "12",
       "source": "Nat Cell Biol",
-      "issue": "",
       "fpage": "747",
       "lpage": "57",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/ncb2078",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib59": {
@@ -9058,17 +8519,10 @@
       "year": "2001",
       "volume": "114",
       "source": "J Cell Sci",
-      "issue": "",
       "fpage": "3991",
       "lpage": "4000",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib60": {
@@ -9092,17 +8546,11 @@
       "year": "2012",
       "volume": "22",
       "source": "Curr Biol",
-      "issue": "",
       "fpage": "R29",
       "lpage": "34",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.cub.2011.11.034",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib61": {
@@ -9122,17 +8570,11 @@
       "year": "2009",
       "volume": "106",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "17775",
       "lpage": "80",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1073/pnas.0910342106",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib62": {
@@ -9164,17 +8606,11 @@
       "year": "2009",
       "volume": "14",
       "source": "Genes Cells",
-      "issue": "",
       "fpage": "525",
       "lpage": "38",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1111/j.1365-2443.2009.01299.x",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib63": {
@@ -9202,17 +8638,10 @@
       "year": "2007",
       "volume": "3",
       "source": "Autophagy",
-      "issue": "",
       "fpage": "10",
       "lpage": "6",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib64": {
@@ -9244,17 +8673,11 @@
       "year": "2006",
       "volume": "281",
       "source": "J Biol Chem",
-      "issue": "",
       "fpage": "3017",
       "lpage": "24",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1074/jbc.M505888200",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib65": {
@@ -9290,17 +8713,11 @@
       "year": "2008",
       "volume": "19",
       "source": "Mol Biol Cell",
-      "issue": "",
       "fpage": "4762",
       "lpage": "75",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1091/mbc.E08-03-0309",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib66": {
@@ -9323,14 +8740,8 @@
       "issue": "Pt 23",
       "fpage": "4175",
       "lpage": "83",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib67": {
@@ -9366,17 +8777,11 @@
       "year": "2008",
       "volume": "105",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "19211",
       "lpage": "6",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1073/pnas.0810452105",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib68": {
@@ -9412,17 +8817,11 @@
       "year": "2004",
       "volume": "279",
       "source": "J Biol Chem",
-      "issue": "",
       "fpage": "36268",
       "lpage": "76",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1074/jbc.M401461200",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib69": {
@@ -9446,17 +8845,11 @@
       "year": "2010",
       "volume": "21",
       "source": "Mol Biol Cell",
-      "issue": "",
       "fpage": "2270",
       "lpage": "84",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1091/mbc.E09-04-0345",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "annotation_468": {
@@ -9505,17 +8898,11 @@
       "year": "2011",
       "volume": "146",
       "source": "Cell",
-      "issue": "",
       "fpage": "471",
       "lpage": "84",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.cell.2011.06.025",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib71": {
@@ -9547,17 +8934,11 @@
       "year": "2001",
       "volume": "155",
       "source": "J Cell Biol",
-      "issue": "",
       "fpage": "557",
       "lpage": "70",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1083/jcb.200107045",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib72": {
@@ -9589,17 +8970,11 @@
       "year": "2008",
       "volume": "30",
       "source": "Mol Cell",
-      "issue": "",
       "fpage": "678",
       "lpage": "88",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.molcel.2008.06.001",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib73": {
@@ -9623,17 +8998,11 @@
       "year": "2011",
       "volume": "80",
       "source": "Annu Rev Biochem",
-      "issue": "",
       "fpage": "125",
       "lpage": "56",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1146/annurev-biochem-052709-094552",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib74": {
@@ -9665,17 +9034,11 @@
       "year": "2009",
       "volume": "4",
       "source": "Nat Protoc",
-      "issue": "",
       "fpage": "1582",
       "lpage": "90",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nprot.2009.151",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib75": {
@@ -9711,17 +9074,11 @@
       "year": "2012",
       "volume": "198",
       "source": "J Cell Biol",
-      "issue": "",
       "fpage": "219",
       "lpage": "33",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1083/jcb.201202061",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib76": {
@@ -9741,17 +9098,11 @@
       "year": "2010",
       "volume": "22",
       "source": "Curr Opin Cell Biol",
-      "issue": "",
       "fpage": "124",
       "lpage": "31",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.ceb.2009.11.014",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib77": {
@@ -9787,17 +9138,11 @@
       "year": "2010",
       "volume": "188",
       "source": "J Cell Biol",
-      "issue": "",
       "fpage": "101",
       "lpage": "14",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1083/jcb.200904075",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib78": {
@@ -9825,17 +9170,11 @@
       "year": "2009",
       "volume": "5",
       "source": "Autophagy",
-      "issue": "",
       "fpage": "1180",
       "lpage": "5",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.4161/auto.5.8.10274",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib79": {
@@ -9871,17 +9210,11 @@
       "year": "2006",
       "volume": "119",
       "source": "J Cell Sci",
-      "issue": "",
       "fpage": "3888",
       "lpage": "900",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1242/jcs.03172",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib80": {
@@ -9913,17 +9246,11 @@
       "year": "1999",
       "volume": "10",
       "source": "Mol Biol Cell",
-      "issue": "",
       "fpage": "435",
       "lpage": "53",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1091/mbc.10.2.435",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib81": {
@@ -9959,17 +9286,11 @@
       "year": "2009",
       "volume": "11",
       "source": "Nat Cell Biol",
-      "issue": "",
       "fpage": "468",
       "lpage": "76",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/ncb1854",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib82": {
@@ -10005,17 +9326,11 @@
       "year": "2011",
       "volume": "334",
       "source": "Science",
-      "issue": "",
       "fpage": "678",
       "lpage": "83",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1126/science.1207056",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib83": {
@@ -10047,17 +9362,11 @@
       "year": "2010",
       "volume": "11",
       "source": "Traffic",
-      "issue": "",
       "fpage": "1246",
       "lpage": "61",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1111/j.1600-0854.2010.01086.x",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "sub-article": {

@@ -46,30 +46,31 @@
         "heading_s3",
         "paragraph_365",
         "paragraph_369",
+        "paragraph_384",
         "heading_s4",
         "heading_s4-1",
-        "paragraph_384",
+        "paragraph_400",
         "heading_s4-2",
-        "paragraph_390",
+        "paragraph_406",
         "heading_s4-3",
-        "paragraph_391",
+        "paragraph_407",
         "heading_s4-4",
-        "paragraph_394",
+        "paragraph_410",
         "heading_s4-5",
-        "paragraph_401",
-        "heading_s4-6",
         "paragraph_417",
-        "paragraph_422",
-        "paragraph_432",
+        "heading_s4-6",
+        "paragraph_433",
+        "paragraph_438",
+        "paragraph_448",
         "heading_s4-7",
-        "paragraph_436",
-        "paragraph_450",
+        "paragraph_452",
+        "paragraph_466",
         "heading_s4-8",
-        "paragraph_454",
+        "paragraph_470",
         "heading_s4-9",
-        "paragraph_458",
+        "paragraph_474",
         "heading_s4-10",
-        "paragraph_460",
+        "paragraph_476",
         "sub-article",
         "sub-article"
       ]
@@ -183,7 +184,6 @@
       "accepted_on": "2013-04-29",
       "published_on": "2013-06-04",
       "journal": "elife",
-      "article_type": "",
       "keywords": [
         "Ribosome",
         "Cryo-EM",
@@ -199,10 +199,9 @@
         "Biochemistry",
         "Biophysics and structural biology"
       ],
-      "pdf_link": "",
-      "xml_link": "",
-      "json_link": "",
-      "doi": ""
+      "xml_link": "https://s3.amazonaws.com/elife-cdn/elife-articles/00411/elife00411.xml",
+      "json_link": "https://s3.amazonaws.com/elife-cdn/elife-articles/00411/00411.json",
+      "doi": "http://dx.doi.org/10.7554/eLife.00411"
     },
     "person_author_3191": {
       "type": "person",
@@ -211,9 +210,7 @@
       "last-name": "Pallesen",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article, Contributed unpublished essential data or reagents",
-      "email": "",
       "funding": []
     },
     "person_author_3305": {
@@ -223,9 +220,7 @@
       "last-name": "Hashem",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Analysis and interpretation of data, Drafting or revising the article",
-      "email": "",
       "funding": []
     },
     "person_author_3307": {
@@ -235,9 +230,7 @@
       "last-name": "Korkmaz",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Analysis and interpretation of data, Drafting or revising the article",
-      "email": "",
       "funding": []
     },
     "person_author_3306": {
@@ -247,9 +240,7 @@
       "last-name": "Koripella",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Analysis and interpretation of data, Drafting or revising the article",
-      "email": "",
       "funding": []
     },
     "person_author_3308": {
@@ -259,9 +250,7 @@
       "last-name": "Huang",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Analysis and interpretation of data, Drafting or revising the article",
-      "email": "",
       "funding": []
     },
     "person_author_3309": {
@@ -271,9 +260,7 @@
       "last-name": "Ehrenberg",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Acquisition of data, Analysis and interpretation of data",
-      "email": "",
       "funding": []
     },
     "person_author_3310": {
@@ -283,9 +270,7 @@
       "last-name": "Sanyal",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Acquisition of data, Analysis and interpretation of data",
-      "email": "",
       "funding": [
         "funding_par_3",
         "funding_par_4",
@@ -302,7 +287,6 @@
       "last-name": "Frank",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Acquisition of data, Analysis and interpretation of data",
       "email": "email_cor1",
       "funding": [
@@ -315,27 +299,21 @@
       "id": "institution_aff1",
       "name": "Howard Hughes Medical Institute, Columbia University",
       "city": "New York City",
-      "country": "United States",
-      "email": "",
-      "image": ""
+      "country": "United States"
     },
     "institution_aff2": {
       "type": "institution",
       "id": "institution_aff2",
       "name": "Uppsala University",
       "city": "Uppsala",
-      "country": "Sweden",
-      "email": "",
-      "image": ""
+      "country": "Sweden"
     },
     "institution_aff3": {
       "type": "institution",
       "id": "institution_aff3",
       "name": "Columbia University",
       "city": "New York City",
-      "country": "United States",
-      "email": "",
-      "image": ""
+      "country": "United States"
     },
     "person_1": {
       "type": "person",
@@ -344,9 +322,6 @@
       "last-name": "Kuriyan",
       "role": "editor",
       "affiliations": [],
-      "image": "",
-      "contribution": "",
-      "email": "",
       "funding": []
     },
     "info:review": {
@@ -361,7 +336,6 @@
     "email_cor1": {
       "type": "email",
       "id": "email_cor1",
-      "node": "",
       "email": "jf2192@columbia.edu"
     },
     "info:copyright": {
@@ -499,7 +473,6 @@
       "type": "funding",
       "id": "funding_par_1",
       "institution": "Howard Hughes Medical Institute",
-      "accession": "",
       "person": "person_author_3192",
       "given-names": "Joachim",
       "last-name": "Frank"
@@ -544,7 +517,6 @@
       "type": "funding",
       "id": "funding_par_6",
       "institution": "Wenner Gren Foundation",
-      "accession": "",
       "person": "person_author_3310",
       "given-names": "Suparna",
       "last-name": "Sanyal"
@@ -578,8 +550,7 @@
     },
     "paragraph_16": {
       "type": "paragraph",
-      "id": "paragraph_16",
-      "content": ""
+      "id": "paragraph_16"
     },
     "heading_s1": {
       "type": "heading",
@@ -1094,19 +1065,12 @@
       "type": "image",
       "id": "image_fig1",
       "label": "Figure 1.",
-      "url": "",
-      "object_id": "F1",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00411/svg/elife00411f001.svg",
       "title": "Occupancy of RF1 and RF3 in the RC–RF1•RF3 complex and the effect of extra added GDP.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00411.003",
       "caption": "paragraph_image_fig1",
-      "graphic_id": "elife00411f001"
+      "graphic_id": "elife00411f001",
+      "format": "image"
     },
     "paragraph_image_fig1": {
       "type": "paragraph",
@@ -1285,19 +1249,12 @@
       "type": "image",
       "id": "image_fig2",
       "label": "Figure 2.",
-      "url": "",
-      "object_id": "F2",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00411/svg/elife00411f002.svg",
       "title": "Termination complexes in association with RF1 alone and with both RF1 and apo-RF3.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00411.004",
       "caption": "paragraph_image_fig2",
-      "graphic_id": "elife00411f002"
+      "graphic_id": "elife00411f002",
+      "format": "image"
     },
     "paragraph_image_fig2": {
       "type": "paragraph",
@@ -1490,19 +1447,12 @@
       "type": "image",
       "id": "image_fig2s1",
       "label": "Figure 2—figure supplement 1.",
-      "url": "",
-      "object_id": "F3",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00411/svg/elife00411fs001.svg",
       "title": "Density map resulting from refinement of the full data set.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig2"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00411.005",
       "caption": "paragraph_image_fig2s1",
-      "graphic_id": "elife00411fs001"
+      "graphic_id": "elife00411fs001",
+      "format": "image"
     },
     "paragraph_image_fig2s1": {
       "type": "paragraph",
@@ -1526,19 +1476,12 @@
       "type": "image",
       "id": "image_fig2s2",
       "label": "Figure 2—figure supplement 2.",
-      "url": "",
-      "object_id": "F4",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00411/svg/elife00411fs002.svg",
       "title": "Density map resulting from refinement of the ‘RC’ class identified in our classification.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig2"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00411.006",
       "caption": "paragraph_image_fig2s2",
-      "graphic_id": "elife00411fs002"
+      "graphic_id": "elife00411fs002",
+      "format": "image"
     },
     "paragraph_image_fig2s2": {
       "type": "paragraph",
@@ -1549,19 +1492,12 @@
       "type": "image",
       "id": "image_fig2s3",
       "label": "Figure 2—figure supplement 3.",
-      "url": "",
-      "object_id": "F5",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00411/svg/elife00411fs003.svg",
       "title": "Segmented RF1 and RF1, apo-RF3 densities.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig2"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00411.007",
       "caption": "paragraph_image_fig2s3",
-      "graphic_id": "elife00411fs003"
+      "graphic_id": "elife00411fs003",
+      "format": "image"
     },
     "paragraph_image_fig2s3": {
       "type": "paragraph",
@@ -1702,19 +1638,12 @@
       "type": "image",
       "id": "image_fig2s4",
       "label": "Figure 2—figure supplement 4.",
-      "url": "",
-      "object_id": "F6",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00411/svg/elife00411fs004.svg",
       "title": "FSC curves for density maps obtained from total data, RC, RC-RF1 and RC-RF1•RF3.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig2"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00411.008",
       "caption": "paragraph_image_fig2s4",
-      "graphic_id": "elife00411fs004"
+      "graphic_id": "elife00411fs004",
+      "format": "image"
     },
     "paragraph_image_fig2s4": {
       "type": "paragraph",
@@ -2073,19 +2002,12 @@
       "type": "image",
       "id": "image_fig3",
       "label": "Figure 3.",
-      "url": "",
-      "object_id": "F7",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00411/svg/elife00411f003.svg",
       "title": "Comparison of L11, L6/SRL, arc (L12-CTD) and apo-RF3 in RC-RF1•RF3 and RC-RF3 maps.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00411.009",
       "caption": "paragraph_image_fig3",
-      "graphic_id": "elife00411f003"
+      "graphic_id": "elife00411f003",
+      "format": "image"
     },
     "paragraph_image_fig3": {
       "type": "paragraph",
@@ -2378,19 +2300,12 @@
       "type": "image",
       "id": "image_fig4",
       "label": "Figure 4.",
-      "url": "",
-      "object_id": "F8",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00411/svg/elife00411f004.svg",
       "title": "Flexible fitting by MDFF focusing on RF1 conformation and interactions.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00411.010",
       "caption": "paragraph_image_fig4",
-      "graphic_id": "elife00411f004"
+      "graphic_id": "elife00411f004",
+      "format": "image"
     },
     "paragraph_image_fig4": {
       "type": "paragraph",
@@ -2622,19 +2537,12 @@
       "type": "image",
       "id": "image_fig4s1",
       "label": "Figure 4—figure supplement 1.",
-      "url": "",
-      "object_id": "F9",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00411/svg/elife00411fs005.svg",
       "title": "RMSD and CCC values for MD flexible fitting.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig4"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00411.011",
       "caption": "paragraph_image_fig4s1",
-      "graphic_id": "elife00411fs005"
+      "graphic_id": "elife00411fs005",
+      "format": "image"
     },
     "paragraph_image_fig4s1": {
       "type": "paragraph",
@@ -2671,19 +2579,12 @@
       "type": "image",
       "id": "image_fig5",
       "label": "Figure 5.",
-      "url": "",
-      "object_id": "F10",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00411/svg/elife00411f005.svg",
       "title": "Flexible fitting by MDFF focusing on RF3 conformation and interaction with RF1.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00411.012",
       "caption": "paragraph_image_fig5",
-      "graphic_id": "elife00411f005"
+      "graphic_id": "elife00411f005",
+      "format": "image"
     },
     "paragraph_image_fig5": {
       "type": "paragraph",
@@ -2889,19 +2790,12 @@
       "type": "image",
       "id": "image_fig5s1",
       "label": "Figure 5—figure supplement 1.",
-      "url": "",
-      "object_id": "F11",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00411/svg/elife00411fs006.svg",
       "title": "Movement of domain 1 in RF3.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig5"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00411.013",
       "caption": "paragraph_image_fig5s1",
-      "graphic_id": "elife00411fs006"
+      "graphic_id": "elife00411fs006",
+      "format": "image"
     },
     "paragraph_image_fig5s1": {
       "type": "paragraph",
@@ -3361,19 +3255,12 @@
       "type": "image",
       "id": "image_fig6",
       "label": "Figure 6.",
-      "url": "",
-      "object_id": "F12",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00411/svg/elife00411f006.svg",
       "title": "Electrostatic surface potentials of RF1 and RF3.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00411.014",
       "caption": "paragraph_image_fig6",
-      "graphic_id": "elife00411f006"
+      "graphic_id": "elife00411f006",
+      "format": "image"
     },
     "paragraph_image_fig6": {
       "type": "paragraph",
@@ -3999,19 +3886,12 @@
       "type": "image",
       "id": "image_fig7",
       "label": "Figure 7.",
-      "url": "",
-      "object_id": "F13",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00411/svg/elife00411f007.svg",
       "title": "MLL release from RC due to RF3-mediated recycling of RF1 (WT and mutants).",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00411.015",
       "caption": "paragraph_image_fig7",
-      "graphic_id": "elife00411f007"
+      "graphic_id": "elife00411f007",
+      "format": "image"
     },
     "paragraph_image_fig7": {
       "type": "paragraph",
@@ -4239,19 +4119,12 @@
       "type": "image",
       "id": "image_fig8",
       "label": "Figure 8.",
-      "url": "",
-      "object_id": "F14",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00411/svg/elife00411f008.svg",
       "title": "RF3 nucleotide loading-and-release.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00411.016",
       "caption": "paragraph_image_fig8",
-      "graphic_id": "elife00411f008"
+      "graphic_id": "elife00411f008",
+      "format": "image"
     },
     "paragraph_image_fig8": {
       "type": "paragraph",
@@ -4703,19 +4576,12 @@
       "type": "image",
       "id": "image_fig9",
       "label": "Figure 9.",
-      "url": "",
-      "object_id": "F15",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00411/svg/elife00411f009.svg",
       "title": "Dynamics of interactions involving RF3 and L12-CTD.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00411.017",
       "caption": "paragraph_image_fig9",
-      "graphic_id": "elife00411f009"
+      "graphic_id": "elife00411f009",
+      "format": "image"
     },
     "paragraph_image_fig9": {
       "type": "paragraph",
@@ -4926,19 +4792,12 @@
       "type": "image",
       "id": "image_fig10",
       "label": "Figure 10.",
-      "url": "",
-      "object_id": "F16",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00411/svg/elife00411f010.svg",
       "title": "Electrostatic surface potentials of L12-CTD, RF3 and other major translational GTPases.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00411.018",
       "caption": "paragraph_image_fig10",
-      "graphic_id": "elife00411f010"
+      "graphic_id": "elife00411f010",
+      "format": "image"
     },
     "paragraph_image_fig10": {
       "type": "paragraph",
@@ -5092,19 +4951,12 @@
       "type": "image",
       "id": "image_fig10s1",
       "label": "Figure 10—figure supplement 1.",
-      "url": "",
-      "object_id": "F17",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00411/svg/elife00411fs007.svg",
       "title": "Surface potentials of IF1, EF-Tu and EF-G.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig10"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00411.019",
       "caption": "paragraph_image_fig10s1",
-      "graphic_id": "elife00411fs007"
+      "graphic_id": "elife00411fs007",
+      "format": "image"
     },
     "paragraph_image_fig10s1": {
       "type": "paragraph",
@@ -5600,19 +5452,12 @@
       "type": "image",
       "id": "image_fig11",
       "label": "Figure 11.",
-      "url": "",
-      "object_id": "F18",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00411/svg/elife00411f011.svg",
       "title": "Proposed model of translation termination involving intersubunit-, L12-, RF1- and RF3-dynamics.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00411.020",
       "caption": "paragraph_image_fig11",
-      "graphic_id": "elife00411f011"
+      "graphic_id": "elife00411f011",
+      "format": "image"
     },
     "paragraph_image_fig11": {
       "type": "paragraph",
@@ -5636,12 +5481,8 @@
       "type": "video",
       "id": "video_video1",
       "label": "Video 1.",
-      "title": "",
       "caption": "paragraph_video_video1",
-      "content_type": "",
       "url_ogv": "http://static.movie-usa.glencoesoftware.com/ogv/10.7554/elife00411v001.ogv",
-      "url_jpg": "",
-      "url_mp4": "",
       "doi": "http://dx.doi.org/10.7554/eLife.00411.021",
       "url": "http://static.movie-usa.glencoesoftware.com/mp4/10.7554/elife00411v001.mp4",
       "poster": "http://static.movie-usa.glencoesoftware.com/jpg/10.7554/elife00411v001.jpg"
@@ -5664,6 +5505,206 @@
         1466
       ]
     },
+    "paragraph_384": {
+      "type": "paragraph",
+      "id": "paragraph_384",
+      "content": "Conditional on the absence of a peptide chain on the P-site bound tRNA, GTP binding to RF3 induces the open conformation of the factor thereby driving the ribosome into the intersubunit rotated MS-II state (Klaholz et al., 2004; Gao et al., 2007; Jin et al., 2011; Zhou et al., 2012). A movement of L11 away from domain 1 of RF1 and toward L12 accompanies this change in ribosome conformation (Figure 9). In the process, the structural bridge between the P-rich 310-helix in L11, RF1 domain 1 and RF3 domain 3 (Figures 2E and 4E) is broken and replaced by a structural bridge formed between the tip of L11-NTD, L12-CTD and domain 3 of RF3•GTP (Figure 9C,D and Figure 3B), evidently stabilizing RF3•GTP binding to the RC in its MS-II conformation. Concomitantly, RF3•GTP makes contact with L6/SRL on the large ribosomal subunit (Figure 3 and Gao et al., 2007; Jin et al., 2011; Zhou et al. 2012) As a result of the movement of L11, domain 1 of the class-1 RF is no longer in contact with the ribosome. Thermodynamically, this scenario requires a much lower affinity of GTP to the semi-open than to the open RF3 conformation (Hauryliuk et al., 2008), implying that the semi-open conformation of RF3 has low affinity to both GDP and GTP in analogy with the low affinity of both GDP and GTP to the EF–Tu•Ts complex (Ruusala et al., 1982). Finally, the intersubunit-rotated MSII state leads to a steric clash between the ribosome and the class-1 RF, which results in the release of the class-1 RF from the A site. RF3 is activated for GTP hydrolysis and rapidly leaves the ribosome in the GDP form."
+    },
+    "citation_reference_385": {
+      "type": "citation_reference",
+      "id": "citation_reference_385",
+      "path": [
+        "paragraph_384",
+        "content"
+      ],
+      "target": "article_citation_bib30",
+      "range": [
+        207,
+        227
+      ]
+    },
+    "citation_reference_386": {
+      "type": "citation_reference",
+      "id": "citation_reference_386",
+      "path": [
+        "paragraph_384",
+        "content"
+      ],
+      "target": "article_citation_bib16",
+      "range": [
+        229,
+        245
+      ]
+    },
+    "citation_reference_387": {
+      "type": "citation_reference",
+      "id": "citation_reference_387",
+      "path": [
+        "paragraph_384",
+        "content"
+      ],
+      "target": "article_citation_bib26",
+      "range": [
+        247,
+        263
+      ]
+    },
+    "citation_reference_388": {
+      "type": "citation_reference",
+      "id": "citation_reference_388",
+      "path": [
+        "paragraph_384",
+        "content"
+      ],
+      "target": "article_citation_bib54",
+      "range": [
+        265,
+        282
+      ]
+    },
+    "figure_reference_389": {
+      "type": "figure_reference",
+      "id": "figure_reference_389",
+      "path": [
+        "paragraph_384",
+        "content"
+      ],
+      "target": "image_fig9",
+      "range": [
+        394,
+        402
+      ]
+    },
+    "annotation_390": {
+      "type": "subscript",
+      "id": "annotation_390",
+      "path": [
+        "paragraph_384",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        463,
+        465
+      ]
+    },
+    "figure_reference_391": {
+      "type": "figure_reference",
+      "id": "figure_reference_391",
+      "path": [
+        "paragraph_384",
+        "content"
+      ],
+      "target": "image_fig2",
+      "range": [
+        511,
+        528
+      ]
+    },
+    "figure_reference_392": {
+      "type": "figure_reference",
+      "id": "figure_reference_392",
+      "path": [
+        "paragraph_384",
+        "content"
+      ],
+      "target": "image_fig9",
+      "range": [
+        644,
+        655
+      ]
+    },
+    "figure_reference_393": {
+      "type": "figure_reference",
+      "id": "figure_reference_393",
+      "path": [
+        "paragraph_384",
+        "content"
+      ],
+      "target": "image_fig3",
+      "range": [
+        660,
+        669
+      ]
+    },
+    "figure_reference_394": {
+      "type": "figure_reference",
+      "id": "figure_reference_394",
+      "path": [
+        "paragraph_384",
+        "content"
+      ],
+      "target": "image_fig3",
+      "range": [
+        828,
+        836
+      ]
+    },
+    "citation_reference_395": {
+      "type": "citation_reference",
+      "id": "citation_reference_395",
+      "path": [
+        "paragraph_384",
+        "content"
+      ],
+      "target": "article_citation_bib16",
+      "range": [
+        841,
+        857
+      ]
+    },
+    "citation_reference_396": {
+      "type": "citation_reference",
+      "id": "citation_reference_396",
+      "path": [
+        "paragraph_384",
+        "content"
+      ],
+      "target": "article_citation_bib26",
+      "range": [
+        859,
+        875
+      ]
+    },
+    "citation_reference_397": {
+      "type": "citation_reference",
+      "id": "citation_reference_397",
+      "path": [
+        "paragraph_384",
+        "content"
+      ],
+      "target": "article_citation_bib54",
+      "range": [
+        877,
+        893
+      ]
+    },
+    "citation_reference_398": {
+      "type": "citation_reference",
+      "id": "citation_reference_398",
+      "path": [
+        "paragraph_384",
+        "content"
+      ],
+      "target": "article_citation_bib22",
+      "range": [
+        1124,
+        1146
+      ]
+    },
+    "citation_reference_399": {
+      "type": "citation_reference",
+      "id": "citation_reference_399",
+      "path": [
+        "paragraph_384",
+        "content"
+      ],
+      "target": "article_citation_bib42",
+      "range": [
+        1312,
+        1332
+      ]
+    },
     "heading_s4": {
       "type": "heading",
       "id": "heading_s4",
@@ -5678,16 +5719,16 @@
       "content": "Translation components",
       "nodes": []
     },
-    "paragraph_384": {
+    "paragraph_400": {
       "type": "paragraph",
-      "id": "paragraph_384",
+      "id": "paragraph_400",
       "content": "The ribosome (E. coli, MRE600), XR-7 mRNAs (Met-stop[UAA] and Met-Leu-Leu-stop[UAA]), fMet-tRNAfMet and the initiation and elongation factors were purified following lab protocols (Antoun et al., 2004; Huang et al., 2010)."
     },
-    "annotation_385": {
+    "annotation_401": {
       "type": "emphasis",
-      "id": "annotation_385",
+      "id": "annotation_401",
       "path": [
-        "paragraph_384",
+        "paragraph_400",
         "content"
       ],
       "target": null,
@@ -5696,11 +5737,11 @@
         15
       ]
     },
-    "annotation_386": {
+    "annotation_402": {
       "type": "emphasis",
-      "id": "annotation_386",
+      "id": "annotation_402",
       "path": [
-        "paragraph_384",
+        "paragraph_400",
         "content"
       ],
       "target": null,
@@ -5709,11 +5750,11 @@
         22
       ]
     },
-    "annotation_387": {
+    "annotation_403": {
       "type": "superscript",
-      "id": "annotation_387",
+      "id": "annotation_403",
       "path": [
-        "paragraph_384",
+        "paragraph_400",
         "content"
       ],
       "target": null,
@@ -5722,11 +5763,11 @@
         99
       ]
     },
-    "citation_reference_388": {
+    "citation_reference_404": {
       "type": "citation_reference",
-      "id": "citation_reference_388",
+      "id": "citation_reference_404",
       "path": [
-        "paragraph_384",
+        "paragraph_400",
         "content"
       ],
       "target": "article_citation_bib4",
@@ -5735,11 +5776,11 @@
         200
       ]
     },
-    "citation_reference_389": {
+    "citation_reference_405": {
       "type": "citation_reference",
-      "id": "citation_reference_389",
+      "id": "citation_reference_405",
       "path": [
-        "paragraph_384",
+        "paragraph_400",
         "content"
       ],
       "target": "article_citation_bib24",
@@ -5755,9 +5796,9 @@
       "content": "Purification of the release factors and site-directed mutagenesis of RF1",
       "nodes": []
     },
-    "paragraph_390": {
+    "paragraph_406": {
       "type": "paragraph",
-      "id": "paragraph_390",
+      "id": "paragraph_406",
       "content": "His-tagged RF1 (kind gift of Valérie Heurgué-Hamard, CNRS, France) and RF3 were purified to single band using His-trap (GEHC) affinity column chromatography. To make RF3 free from extra guanine nucleotides, it was further purified using DEAE-sepharose ion exchange chromatography and gel filtration, by passing through a long superdex-75 column (1.5 × 100 cm) in a diluted solution. RF1 mutants (H13A, E14A, E17A, E18A and Q20A) were created following the standard protocol for QuikChange Mutagenesis (Stratagene, Santa Clara, CA). The mutations were confirmed with DNA sequencing and the mutant proteins were purified with the same protocol as the wild-type."
     },
     "heading_s4-3": {
@@ -5767,16 +5808,16 @@
       "content": "RF1 recycling by RF3",
       "nodes": []
     },
-    "paragraph_391": {
+    "paragraph_407": {
       "type": "paragraph",
-      "id": "paragraph_391",
+      "id": "paragraph_407",
       "content": "For recycling of RF1, an RC containing tripeptidyl 3H-fMet-Leu-Leu tRNALeu in the P site and a UAA stop codon in the A site was prepared as described in (Bouakaz et al., 2006) with minor modifications. The recycling assay was performed with 50 nM RC and 2 nM RF1 (wild-type or mutants) without or with RF3 (0.5 μM) in excess following."
     },
-    "annotation_392": {
+    "annotation_408": {
       "type": "superscript",
-      "id": "annotation_392",
+      "id": "annotation_408",
       "path": [
-        "paragraph_391",
+        "paragraph_407",
         "content"
       ],
       "target": null,
@@ -5785,11 +5826,11 @@
         74
       ]
     },
-    "citation_reference_393": {
+    "citation_reference_409": {
       "type": "citation_reference",
-      "id": "citation_reference_393",
+      "id": "citation_reference_409",
       "path": [
-        "paragraph_391",
+        "paragraph_407",
         "content"
       ],
       "target": "article_citation_bib9",
@@ -5805,16 +5846,16 @@
       "content": "Assembly of termination complex for cryo-EM",
       "nodes": []
     },
-    "paragraph_394": {
+    "paragraph_410": {
       "type": "paragraph",
-      "id": "paragraph_394",
+      "id": "paragraph_410",
       "content": "A ribosomal release complex was first made by incubating E. coli MRE600 ribosomes (0.5 µM), fMet-tRNAfMet (1 µM) and Met-stop (UAA) mRNA (1 µM) in 1xHEPES-polymix buffer (Gao et al., 2007) at 37°C for 10 min. To this, RF1 (2 µM) and RF3 (6 µM) were added and the reaction mix was incubated at 37°C for another 10 min to form the release complex (RC). Occupancy of RF1 and RF3 was checked by running the RC in SDS-PAGE after ultracentrifugation on 30% sucrose cushion (20 mM Tris-HCl, 500 mM NH4Cl, 10.5 mM MgAcetate, 0.5 mM EDTA, 1.1 M Sucrose, 3 mM 2-Mercaptoethanol). Both RF1 and RF3 produced bands with comparable intensity as the ribosomal protein S1 showing 1:1 incorporation in the release complex (Figure 1). To study the effect of GDP, similar complexes were formed with increasing concentration of GDP and GTP. Band intensities were digitalized and quantified by the Software UN-SCAN-IT gel TM Version 6.1 (Silk Scientific, Orem, UT)."
     },
-    "annotation_395": {
+    "annotation_411": {
       "type": "emphasis",
-      "id": "annotation_395",
+      "id": "annotation_411",
       "path": [
-        "paragraph_394",
+        "paragraph_410",
         "content"
       ],
       "target": null,
@@ -5823,11 +5864,11 @@
         58
       ]
     },
-    "annotation_396": {
+    "annotation_412": {
       "type": "emphasis",
-      "id": "annotation_396",
+      "id": "annotation_412",
       "path": [
-        "paragraph_394",
+        "paragraph_410",
         "content"
       ],
       "target": null,
@@ -5836,11 +5877,11 @@
         64
       ]
     },
-    "annotation_397": {
+    "annotation_413": {
       "type": "superscript",
-      "id": "annotation_397",
+      "id": "annotation_413",
       "path": [
-        "paragraph_394",
+        "paragraph_410",
         "content"
       ],
       "target": null,
@@ -5849,11 +5890,11 @@
         105
       ]
     },
-    "citation_reference_398": {
+    "citation_reference_414": {
       "type": "citation_reference",
-      "id": "citation_reference_398",
+      "id": "citation_reference_414",
       "path": [
-        "paragraph_394",
+        "paragraph_410",
         "content"
       ],
       "target": "article_citation_bib16",
@@ -5862,11 +5903,11 @@
         187
       ]
     },
-    "annotation_399": {
+    "annotation_415": {
       "type": "subscript",
-      "id": "annotation_399",
+      "id": "annotation_415",
       "path": [
-        "paragraph_394",
+        "paragraph_410",
         "content"
       ],
       "target": null,
@@ -5875,11 +5916,11 @@
         494
       ]
     },
-    "figure_reference_400": {
+    "figure_reference_416": {
       "type": "figure_reference",
-      "id": "figure_reference_400",
+      "id": "figure_reference_416",
       "path": [
-        "paragraph_394",
+        "paragraph_410",
         "content"
       ],
       "target": "image_fig1",
@@ -5895,16 +5936,16 @@
       "content": "Electron microscopy and image processing",
       "nodes": []
     },
-    "paragraph_401": {
+    "paragraph_417": {
       "type": "paragraph",
-      "id": "paragraph_401",
+      "id": "paragraph_417",
       "content": "To prepare the sample for cryo-EM, the assembled termination complex was diluted in 1xHEPES-polymix buffer to a final concentration of 50 nM. A carbon-coated Quantifoil 2/4 grid (Quantifoil Micro Tools GmbH, Jena, Germany) was prepared following standard cryo procedures (Grassucci et al., 2007; Sengupta et al., 2010): Grids were glow-discharged for 25 s in an (H2, O2)-atmosphere; 15W and 25s using a plasma cleaner (Gatan Solarus Model 950 Advanced Plasma System; Gatan, Inc., Warrendale, PA) to make them hydrophilic. Samples of 4 µl were pipetted onto carbon-coated grids. Grids were blotted in 100% humidity at 4°C for 5 s and plunge-frozen into liquid ethane cooled by liquid nitrogen using a Vitrobot (FEI, Hillsboro, OR). Images were recorded on SO163 film (Eastman Kodak, Rochester, NY) using an FEI (Eindhoven, The Netherlands) Tecnai Polara operating at 300 kV and a nominal magnification of 59,000× under low-dose conditions (∼20 e−/Å2) by using the automated data collection system AutoEMation (Lei and Frank, 2005). The 798 film micrographs collected were digitized with a step size of 7 µm on an Imaging Scanner (Carl Zeiss, Inc., Jena, Germany). The resulting pixel size was 1.2 Å on the object scale. After visual inspection and evaluation of the micrographs and their power spectra, 643 were selected for further analysis. Particles were chosen via automated particle selection (Rath and Frank, 2004) followed by manual verification. The total number of particles used was ∼86,000. We employed standard SPIDER scripts in a hierarchical reference-based classification strategy. Initially, the total data set was aligned to a density map of the 70S ribosome in complex with a P-site and an E-site tRNA (70S-P, E) filtered to 20 Å and refined on a course angular grid over several rounds of refinement according to standard SPIDER protocols (Frank et al., 1996; Shaikh et al., 2008) which include a 3D projection alignment procedure with correction of the contrast transfer function (CTF) using 82 defocus groups, with defocus varying from −1.2 to −4.6 µm. Next, the projection images were classified on the basis of cross-correlation coefficients with two references, namely (70S-P, E) and an RF1-containing ribosomal complex having P- and E-site tRNAs (EMDB ID 1184; Rawat et al., 2006). Two classes were identified (70S-P, E: ∼14,000 projection images, and EMDB ID 1184: ∼72,000 projection images). The initial orientation assignments to the (70S-P, E) map were chosen as starting point for refinement of each class. The RF1-containing class was then classified further with the RF1-containing map (EMDB ID 1184) as first reference and a second reference (‘RF1/RF3-chimera’) generated by adding the segmented RF3 density from the RF3•GDPNP map (EMDB ID 1302; Gao et al., 2007) to the RF1-containing map (EMDB ID 1184). Two subclasses of projection images (EMDB ID 1184: ∼43,000 projection images, and RF1/RF3-chimera: ∼29,000 projection images) were identified and refined separately as described above. Following convergence of standard refinement, a second refinement routine was performed in which CTF correction was performed at the 2D projection-level. CTF-corrected projection images were then pooled together and a 3D reconstruction was obtained. Only a subset of the best-aligned particles (based on cross-correlation with the reference in each view) was used for reconstruction until the very last rounds of small-angle refinement. The final resolutions for the maps were 8.0 Å for the total data set (Figure 2—figure supplement 1), 11.8 Å (RC; Figure 2—figure supplement 2), 8.4 Å (RC-RF1) and 9.7 Å (RC-RF1•RF3), using a Fourier shell correlation (FSC) cutoff of 0.5 (Figure2—figure supplement 4)."
     },
-    "citation_reference_402": {
+    "citation_reference_418": {
       "type": "citation_reference",
-      "id": "citation_reference_402",
+      "id": "citation_reference_418",
       "path": [
-        "paragraph_401",
+        "paragraph_417",
         "content"
       ],
       "target": "article_citation_bib19",
@@ -5913,11 +5954,11 @@
         294
       ]
     },
-    "citation_reference_403": {
+    "citation_reference_419": {
       "type": "citation_reference",
-      "id": "citation_reference_403",
+      "id": "citation_reference_419",
       "path": [
-        "paragraph_401",
+        "paragraph_417",
         "content"
       ],
       "target": "article_citation_bib44",
@@ -5926,11 +5967,11 @@
         317
       ]
     },
-    "annotation_404": {
+    "annotation_420": {
       "type": "subscript",
-      "id": "annotation_404",
+      "id": "annotation_420",
       "path": [
-        "paragraph_401",
+        "paragraph_417",
         "content"
       ],
       "target": null,
@@ -5939,11 +5980,11 @@
         365
       ]
     },
-    "annotation_405": {
+    "annotation_421": {
       "type": "subscript",
-      "id": "annotation_405",
+      "id": "annotation_421",
       "path": [
-        "paragraph_401",
+        "paragraph_417",
         "content"
       ],
       "target": null,
@@ -5952,11 +5993,11 @@
         369
       ]
     },
-    "annotation_406": {
+    "annotation_422": {
       "type": "superscript",
-      "id": "annotation_406",
+      "id": "annotation_422",
       "path": [
-        "paragraph_401",
+        "paragraph_417",
         "content"
       ],
       "target": null,
@@ -5965,11 +6006,11 @@
         945
       ]
     },
-    "annotation_407": {
+    "annotation_423": {
       "type": "superscript",
-      "id": "annotation_407",
+      "id": "annotation_423",
       "path": [
-        "paragraph_401",
+        "paragraph_417",
         "content"
       ],
       "target": null,
@@ -5978,11 +6019,11 @@
         948
       ]
     },
-    "citation_reference_408": {
+    "citation_reference_424": {
       "type": "citation_reference",
-      "id": "citation_reference_408",
+      "id": "citation_reference_424",
       "path": [
-        "paragraph_401",
+        "paragraph_417",
         "content"
       ],
       "target": "article_citation_bib33",
@@ -5991,11 +6032,11 @@
         1028
       ]
     },
-    "citation_reference_409": {
+    "citation_reference_425": {
       "type": "citation_reference",
-      "id": "citation_reference_409",
+      "id": "citation_reference_425",
       "path": [
-        "paragraph_401",
+        "paragraph_417",
         "content"
       ],
       "target": "article_citation_bib40",
@@ -6004,11 +6045,11 @@
         1418
       ]
     },
-    "citation_reference_410": {
+    "citation_reference_426": {
       "type": "citation_reference",
-      "id": "citation_reference_410",
+      "id": "citation_reference_426",
       "path": [
-        "paragraph_401",
+        "paragraph_417",
         "content"
       ],
       "target": "article_citation_bib14",
@@ -6017,11 +6058,11 @@
         1876
       ]
     },
-    "citation_reference_411": {
+    "citation_reference_427": {
       "type": "citation_reference",
-      "id": "citation_reference_411",
+      "id": "citation_reference_427",
       "path": [
-        "paragraph_401",
+        "paragraph_417",
         "content"
       ],
       "target": "article_citation_bib46",
@@ -6030,11 +6071,11 @@
         1897
       ]
     },
-    "citation_reference_412": {
+    "citation_reference_428": {
       "type": "citation_reference",
-      "id": "citation_reference_412",
+      "id": "citation_reference_428",
       "path": [
-        "paragraph_401",
+        "paragraph_417",
         "content"
       ],
       "target": "article_citation_bib41",
@@ -6043,11 +6084,11 @@
         2303
       ]
     },
-    "citation_reference_413": {
+    "citation_reference_429": {
       "type": "citation_reference",
-      "id": "citation_reference_413",
+      "id": "citation_reference_429",
       "path": [
-        "paragraph_401",
+        "paragraph_417",
         "content"
       ],
       "target": "article_citation_bib16",
@@ -6056,11 +6097,11 @@
         2794
       ]
     },
-    "figure_reference_414": {
+    "figure_reference_430": {
       "type": "figure_reference",
-      "id": "figure_reference_414",
+      "id": "figure_reference_430",
       "path": [
-        "paragraph_401",
+        "paragraph_417",
         "content"
       ],
       "target": "image_fig2s1",
@@ -6069,11 +6110,11 @@
         3558
       ]
     },
-    "figure_reference_415": {
+    "figure_reference_431": {
       "type": "figure_reference",
-      "id": "figure_reference_415",
+      "id": "figure_reference_431",
       "path": [
-        "paragraph_401",
+        "paragraph_417",
         "content"
       ],
       "target": "image_fig2s2",
@@ -6082,11 +6123,11 @@
         3601
       ]
     },
-    "figure_reference_416": {
+    "figure_reference_432": {
       "type": "figure_reference",
-      "id": "figure_reference_416",
+      "id": "figure_reference_432",
       "path": [
-        "paragraph_401",
+        "paragraph_417",
         "content"
       ],
       "target": "image_fig2s4",
@@ -6102,16 +6143,16 @@
       "content": "Modeling RF1 and RF3",
       "nodes": []
     },
-    "paragraph_417": {
+    "paragraph_433": {
       "type": "paragraph",
-      "id": "paragraph_417",
+      "id": "paragraph_433",
       "content": "Models of E. coli RF1 and RF3 were built based on their crystal structures (Graille et al., 2005; Gao et al., 2007) (PDB ID: 2B3T and 2H5E, respectively)."
     },
-    "annotation_418": {
+    "annotation_434": {
       "type": "emphasis",
-      "id": "annotation_418",
+      "id": "annotation_434",
       "path": [
-        "paragraph_417",
+        "paragraph_433",
         "content"
       ],
       "target": null,
@@ -6120,11 +6161,11 @@
         11
       ]
     },
-    "annotation_419": {
+    "annotation_435": {
       "type": "emphasis",
-      "id": "annotation_419",
+      "id": "annotation_435",
       "path": [
-        "paragraph_417",
+        "paragraph_433",
         "content"
       ],
       "target": null,
@@ -6133,11 +6174,11 @@
         17
       ]
     },
-    "citation_reference_420": {
+    "citation_reference_436": {
       "type": "citation_reference",
-      "id": "citation_reference_420",
+      "id": "citation_reference_436",
       "path": [
-        "paragraph_417",
+        "paragraph_433",
         "content"
       ],
       "target": "article_citation_bib18",
@@ -6146,11 +6187,11 @@
         96
       ]
     },
-    "citation_reference_421": {
+    "citation_reference_437": {
       "type": "citation_reference",
-      "id": "citation_reference_421",
+      "id": "citation_reference_437",
       "path": [
-        "paragraph_417",
+        "paragraph_433",
         "content"
       ],
       "target": "article_citation_bib16",
@@ -6159,16 +6200,16 @@
         114
       ]
     },
-    "paragraph_422": {
+    "paragraph_438": {
       "type": "paragraph",
-      "id": "paragraph_422",
+      "id": "paragraph_438",
       "content": "RF1 was modeled in two conformations fitting the cryo-EM maps of RC-RF1 and RC-RF1•RF3. Missing and unstructured segments, in the crystal structure, as well as segments interacting with the mRNA, and the P-site tRNA, were modeled mostly by homology and in part manually. Residues 70–105, 227–241 and 285–306 were modeled by homology to the T. thermophilus RF1 crystal structure in complex with the 70S ribosome (Laurberg et al., 2008) (PDBID: 3D5A), using SWISS-MODEL (Schwede et al., 2003; Arnold et al., 2006; Bordoli et al., 2009). Residues 57–69 were modeled manually using PyMOL (The Pymol Molecular graphics system, Version 1.3, Schrödinger, LLC) to position them in the main chain and then Swiss-Pdb Viewer (Guex and Peitsch, 1997) to modify their torsions in order to fit the density map in a region between helices 2 and 3 that obviously presents different structure from the T. thermophilus RF1 crystal structure."
     },
-    "annotation_423": {
+    "annotation_439": {
       "type": "emphasis",
-      "id": "annotation_423",
+      "id": "annotation_439",
       "path": [
-        "paragraph_422",
+        "paragraph_438",
         "content"
       ],
       "target": null,
@@ -6177,11 +6218,11 @@
         341
       ]
     },
-    "annotation_424": {
+    "annotation_440": {
       "type": "emphasis",
-      "id": "annotation_424",
+      "id": "annotation_440",
       "path": [
-        "paragraph_422",
+        "paragraph_438",
         "content"
       ],
       "target": null,
@@ -6190,11 +6231,11 @@
         355
       ]
     },
-    "citation_reference_425": {
+    "citation_reference_441": {
       "type": "citation_reference",
-      "id": "citation_reference_425",
+      "id": "citation_reference_441",
       "path": [
-        "paragraph_422",
+        "paragraph_438",
         "content"
       ],
       "target": "article_citation_bib32",
@@ -6203,11 +6244,11 @@
         433
       ]
     },
-    "citation_reference_426": {
+    "citation_reference_442": {
       "type": "citation_reference",
-      "id": "citation_reference_426",
+      "id": "citation_reference_442",
       "path": [
-        "paragraph_422",
+        "paragraph_438",
         "content"
       ],
       "target": "article_citation_bib43",
@@ -6216,11 +6257,11 @@
         489
       ]
     },
-    "citation_reference_427": {
+    "citation_reference_443": {
       "type": "citation_reference",
-      "id": "citation_reference_427",
+      "id": "citation_reference_443",
       "path": [
-        "paragraph_422",
+        "paragraph_438",
         "content"
       ],
       "target": "article_citation_bib5",
@@ -6229,11 +6270,11 @@
         510
       ]
     },
-    "citation_reference_428": {
+    "citation_reference_444": {
       "type": "citation_reference",
-      "id": "citation_reference_428",
+      "id": "citation_reference_444",
       "path": [
-        "paragraph_422",
+        "paragraph_438",
         "content"
       ],
       "target": "article_citation_bib8",
@@ -6242,11 +6283,11 @@
         532
       ]
     },
-    "citation_reference_429": {
+    "citation_reference_445": {
       "type": "citation_reference",
-      "id": "citation_reference_429",
+      "id": "citation_reference_445",
       "path": [
-        "paragraph_422",
+        "paragraph_438",
         "content"
       ],
       "target": "article_citation_bib20",
@@ -6255,11 +6296,11 @@
         737
       ]
     },
-    "annotation_430": {
+    "annotation_446": {
       "type": "emphasis",
-      "id": "annotation_430",
+      "id": "annotation_446",
       "path": [
-        "paragraph_422",
+        "paragraph_438",
         "content"
       ],
       "target": null,
@@ -6268,11 +6309,11 @@
         886
       ]
     },
-    "annotation_431": {
+    "annotation_447": {
       "type": "emphasis",
-      "id": "annotation_431",
+      "id": "annotation_447",
       "path": [
-        "paragraph_422",
+        "paragraph_438",
         "content"
       ],
       "target": null,
@@ -6281,16 +6322,16 @@
         900
       ]
     },
-    "paragraph_432": {
+    "paragraph_448": {
       "type": "paragraph",
-      "id": "paragraph_432",
+      "id": "paragraph_448",
       "content": "RF3 was modeled interacting with RF1 in the E. coli 70S ribosome by modifying the conformation of RF3 first to roughly fit the corresponding cryo-EM density map. The fit was realized using UCSF Chimera (Pettersen et al., 2004) by fitting domains I, II and III of the crystal structure as three independent rigid bodies into the RF3 density in the RC-RF1•RF3 map. Subsequently, Swiss-Pdb Viewer was used to accommodate the coils linking different fitted domains. Residues 37–67, missing from the crystal structure, were modeled de novo in SWISS-MODEL using SYMPRED for secondary structure prediction."
     },
-    "annotation_433": {
+    "annotation_449": {
       "type": "emphasis",
-      "id": "annotation_433",
+      "id": "annotation_449",
       "path": [
-        "paragraph_432",
+        "paragraph_448",
         "content"
       ],
       "target": null,
@@ -6299,11 +6340,11 @@
         45
       ]
     },
-    "annotation_434": {
+    "annotation_450": {
       "type": "emphasis",
-      "id": "annotation_434",
+      "id": "annotation_450",
       "path": [
-        "paragraph_432",
+        "paragraph_448",
         "content"
       ],
       "target": null,
@@ -6312,11 +6353,11 @@
         51
       ]
     },
-    "citation_reference_435": {
+    "citation_reference_451": {
       "type": "citation_reference",
-      "id": "citation_reference_435",
+      "id": "citation_reference_451",
       "path": [
-        "paragraph_432",
+        "paragraph_448",
         "content"
       ],
       "target": "article_citation_bib37",
@@ -6332,16 +6373,16 @@
       "content": "Molecular dynamics flexible fitting",
       "nodes": []
     },
-    "paragraph_436": {
+    "paragraph_452": {
       "type": "paragraph",
-      "id": "paragraph_436",
+      "id": "paragraph_452",
       "content": "Using VMD (Humphrey et al., 1996), three systems were prepared for MDFF. One system consisted of RF1, E. coli ribosomal proteins L11, L16 and S12, P-site tRNA, mRNA, the rRNA surrounding scaffold (16S rRNA residues 10–25, 502–542, 787–797, 885–928, 950–1070, 1190–1232, 1390–1421, and 1479–1525 and 23S rRNA residues 1052–1108, 1903–1969, 2051–2067, and 2445–2615) and surrounding magnesium cations. The coordinates for the system, except for RF1, P-site tRNA and mRNA, were taken from the E. coli 70S crystal structure by Berk et al. (2006) (PDBID: 2I2P and 2I2T). P-site tRNA and mRNA coordinates were taken from the T. thermophilus crystal structure of the 70S ribosome in complex with RF1 (Laurberg et al., 2008) (PDBID: 3D5A). A second system was created similar to the system mentioned above, the only difference being the addition of RF3 and the CTD of L7/L12 (Leijonmarck and Liljas, 1987; PDB ID 1CTF). The third system consisted of RF3, the CTD of L7/L12, E. coli ribosomal proteins L11 and S12, as well as rRNA segments scaffolding these two proteins (16S residues 10–25, 502–542, 885–892, 907–927, 1390–1418 and 1482–1508 and 23S residues 1052–1108) (Berk et al., 2006)."
     },
-    "citation_reference_437": {
+    "citation_reference_453": {
       "type": "citation_reference",
-      "id": "citation_reference_437",
+      "id": "citation_reference_453",
       "path": [
-        "paragraph_436",
+        "paragraph_452",
         "content"
       ],
       "target": "article_citation_bib25",
@@ -6350,11 +6391,11 @@
         32
       ]
     },
-    "annotation_438": {
+    "annotation_454": {
       "type": "emphasis",
-      "id": "annotation_438",
+      "id": "annotation_454",
       "path": [
-        "paragraph_436",
+        "paragraph_452",
         "content"
       ],
       "target": null,
@@ -6363,11 +6404,11 @@
         103
       ]
     },
-    "annotation_439": {
+    "annotation_455": {
       "type": "emphasis",
-      "id": "annotation_439",
+      "id": "annotation_455",
       "path": [
-        "paragraph_436",
+        "paragraph_452",
         "content"
       ],
       "target": null,
@@ -6376,11 +6417,11 @@
         109
       ]
     },
-    "annotation_440": {
+    "annotation_456": {
       "type": "emphasis",
-      "id": "annotation_440",
+      "id": "annotation_456",
       "path": [
-        "paragraph_436",
+        "paragraph_452",
         "content"
       ],
       "target": null,
@@ -6389,11 +6430,11 @@
         491
       ]
     },
-    "annotation_441": {
+    "annotation_457": {
       "type": "emphasis",
-      "id": "annotation_441",
+      "id": "annotation_457",
       "path": [
-        "paragraph_436",
+        "paragraph_452",
         "content"
       ],
       "target": null,
@@ -6402,11 +6443,11 @@
         497
       ]
     },
-    "citation_reference_442": {
+    "citation_reference_458": {
       "type": "citation_reference",
-      "id": "citation_reference_442",
+      "id": "citation_reference_458",
       "path": [
-        "paragraph_436",
+        "paragraph_452",
         "content"
       ],
       "target": "article_citation_bib7",
@@ -6415,11 +6456,11 @@
         541
       ]
     },
-    "annotation_443": {
+    "annotation_459": {
       "type": "emphasis",
-      "id": "annotation_443",
+      "id": "annotation_459",
       "path": [
-        "paragraph_436",
+        "paragraph_452",
         "content"
       ],
       "target": null,
@@ -6428,11 +6469,11 @@
         620
       ]
     },
-    "annotation_444": {
+    "annotation_460": {
       "type": "emphasis",
-      "id": "annotation_444",
+      "id": "annotation_460",
       "path": [
-        "paragraph_436",
+        "paragraph_452",
         "content"
       ],
       "target": null,
@@ -6441,11 +6482,11 @@
         634
       ]
     },
-    "citation_reference_445": {
+    "citation_reference_461": {
       "type": "citation_reference",
-      "id": "citation_reference_445",
+      "id": "citation_reference_461",
       "path": [
-        "paragraph_436",
+        "paragraph_452",
         "content"
       ],
       "target": "article_citation_bib32",
@@ -6454,11 +6495,11 @@
         715
       ]
     },
-    "citation_reference_446": {
+    "citation_reference_462": {
       "type": "citation_reference",
-      "id": "citation_reference_446",
+      "id": "citation_reference_462",
       "path": [
-        "paragraph_436",
+        "paragraph_452",
         "content"
       ],
       "target": "article_citation_bib34",
@@ -6467,11 +6508,11 @@
         896
       ]
     },
-    "annotation_447": {
+    "annotation_463": {
       "type": "emphasis",
-      "id": "annotation_447",
+      "id": "annotation_463",
       "path": [
-        "paragraph_436",
+        "paragraph_452",
         "content"
       ],
       "target": null,
@@ -6480,11 +6521,11 @@
         967
       ]
     },
-    "annotation_448": {
+    "annotation_464": {
       "type": "emphasis",
-      "id": "annotation_448",
+      "id": "annotation_464",
       "path": [
-        "paragraph_436",
+        "paragraph_452",
         "content"
       ],
       "target": null,
@@ -6493,11 +6534,11 @@
         973
       ]
     },
-    "citation_reference_449": {
+    "citation_reference_465": {
       "type": "citation_reference",
-      "id": "citation_reference_449",
+      "id": "citation_reference_465",
       "path": [
-        "paragraph_436",
+        "paragraph_452",
         "content"
       ],
       "target": "article_citation_bib7",
@@ -6506,16 +6547,16 @@
         1180
       ]
     },
-    "paragraph_450": {
+    "paragraph_466": {
       "type": "paragraph",
-      "id": "paragraph_450",
+      "id": "paragraph_466",
       "content": "All systems were embedded in a box of TIP3P water molecules with an extra 12 Å padding in each direction. The system was neutralized by potassium ions and an excess of KCl was added to ∼ 0.2 M. All the simulated systems were prepared using CHARMM force field parameters (Combined CHARMM All-Hydrogen Topology File for CHARMM22 Proteins and CHARMM27 Lipids [MacKerell et al., 1998]). Each system was relaxed by 8000 minimization steps in NAMD (Phillips et al., 2005). After relaxation, an additional potential was added to the systems based on cryo-EM segments comprising only the molecules to be simulated, and MDFF simulations were performed. Cryo-EM segments were prepared using the SeggerR plug-in in UCSF Chimera (Pintilie et al., 2010). Simulations of RF1- and RF1•RF3-containing complexes were run for 600 ps, whereas the simulation of the RF3-containing complex was terminated after 1 ns. The RF1/RF3 interface in the simulations of RF1•RF3-containing complexes was fine-tuned manually, using PyMOL, in accordance to the outcome of the mutagenesis assays performed. Angular changes between RF3-conformations were estimated based on alignment of amino acid residues 97–105, 121–133 and 328–343."
     },
-    "citation_reference_451": {
+    "citation_reference_467": {
       "type": "citation_reference",
-      "id": "citation_reference_451",
+      "id": "citation_reference_467",
       "path": [
-        "paragraph_450",
+        "paragraph_466",
         "content"
       ],
       "target": "article_citation_bib35",
@@ -6524,11 +6565,11 @@
         379
       ]
     },
-    "citation_reference_452": {
+    "citation_reference_468": {
       "type": "citation_reference",
-      "id": "citation_reference_452",
+      "id": "citation_reference_468",
       "path": [
-        "paragraph_450",
+        "paragraph_466",
         "content"
       ],
       "target": "article_citation_bib38",
@@ -6537,11 +6578,11 @@
         464
       ]
     },
-    "citation_reference_453": {
+    "citation_reference_469": {
       "type": "citation_reference",
-      "id": "citation_reference_453",
+      "id": "citation_reference_469",
       "path": [
-        "paragraph_450",
+        "paragraph_466",
         "content"
       ],
       "target": "article_citation_bib39",
@@ -6557,16 +6598,16 @@
       "content": "APBS calculation",
       "nodes": []
     },
-    "paragraph_454": {
+    "paragraph_470": {
       "type": "paragraph",
-      "id": "paragraph_454",
+      "id": "paragraph_470",
       "content": "Poisson-Boltzmann electrostatic properties for RF1, RF2 and RF3 models were calculated with the Adaptive Poisson-Boltzman Solver (Baker et al., 2001; Dolinsky et al., 2004). Potentials range from −15.91V to 12.62V and the results were displayed in VMD using an RWB color scale ranging from –14 to 14."
     },
-    "citation_reference_455": {
+    "citation_reference_471": {
       "type": "citation_reference",
-      "id": "citation_reference_455",
+      "id": "citation_reference_471",
       "path": [
-        "paragraph_454",
+        "paragraph_470",
         "content"
       ],
       "target": "article_citation_bib6",
@@ -6575,11 +6616,11 @@
         148
       ]
     },
-    "citation_reference_456": {
+    "citation_reference_472": {
       "type": "citation_reference",
-      "id": "citation_reference_456",
+      "id": "citation_reference_472",
       "path": [
-        "paragraph_454",
+        "paragraph_470",
         "content"
       ],
       "target": "article_citation_bib12",
@@ -6595,9 +6636,9 @@
       "content": "Building of the model shown in Figure 11",
       "nodes": []
     },
-    "figure_reference_457": {
+    "figure_reference_473": {
       "type": "figure_reference",
-      "id": "figure_reference_457",
+      "id": "figure_reference_473",
       "path": [
         "heading_s4-9",
         "content"
@@ -6608,16 +6649,16 @@
         40
       ]
     },
-    "paragraph_458": {
+    "paragraph_474": {
       "type": "paragraph",
-      "id": "paragraph_458",
+      "id": "paragraph_474",
       "content": "For the model presented in Figure 11, we merged density maps of RC-RF1, RC-RF1•RF3 and RC-RF3 with simulated density maps of L12. The L12 maps were rendered at a resolution of 11 Å using the NMR structure of isolated L12 (PDB ID 1RQU) and the threshold for display was chosen with emphasis on linker visibility."
     },
-    "figure_reference_459": {
+    "figure_reference_475": {
       "type": "figure_reference",
-      "id": "figure_reference_459",
+      "id": "figure_reference_475",
       "path": [
-        "paragraph_458",
+        "paragraph_474",
         "content"
       ],
       "target": "image_fig11",
@@ -6633,16 +6674,16 @@
       "content": "Animation",
       "nodes": []
     },
-    "paragraph_460": {
+    "paragraph_476": {
       "type": "paragraph",
-      "id": "paragraph_460",
+      "id": "paragraph_476",
       "content": "An animation script was generated and ‘Video 1’ was rendered in UCSF Chimera."
     },
-    "figure_reference_461": {
+    "figure_reference_477": {
       "type": "figure_reference",
-      "id": "figure_reference_461",
+      "id": "figure_reference_477",
       "path": [
-        "paragraph_460",
+        "paragraph_476",
         "content"
       ],
       "target": "video_video1",
@@ -6671,12 +6712,12 @@
       "level": 2,
       "content": "Competing Interests",
       "nodes": [
-        "paragraph_462"
+        "paragraph_478"
       ]
     },
-    "paragraph_462": {
+    "paragraph_478": {
       "type": "paragraph",
-      "id": "paragraph_462",
+      "id": "paragraph_478",
       "content": "Competing interestsThe authors declare that no competing interests exist."
     },
     "info:author_contribution": {
@@ -6834,17 +6875,11 @@
       "year": "1999",
       "volume": "6",
       "source": "Nat Struct Biol",
-      "issue": "",
       "fpage": "643",
       "lpage": "7",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/10695",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib2": {
@@ -6872,22 +6907,16 @@
       "year": "1998",
       "volume": "95",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "6134",
       "lpage": "8",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1073/pnas.95.11.6134",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_463": {
+    "annotation_479": {
       "type": "emphasis",
-      "id": "annotation_463",
+      "id": "annotation_479",
       "path": [
         "article_citation_bib2",
         "title"
@@ -6927,22 +6956,16 @@
       "year": "2005",
       "volume": "121",
       "source": "Cell",
-      "issue": "",
       "fpage": "703",
       "lpage": "12",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.cell.2005.03.023",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_464": {
+    "annotation_480": {
       "type": "emphasis",
-      "id": "annotation_464",
+      "id": "annotation_480",
       "path": [
         "article_citation_bib3",
         "title"
@@ -6978,17 +7001,11 @@
       "year": "2004",
       "volume": "6",
       "source": "Biol Proced Online",
-      "issue": "",
       "fpage": "35",
       "lpage": "54",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1251/bpo71",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib5": {
@@ -7016,17 +7033,11 @@
       "year": "2006",
       "volume": "22",
       "source": "Bioinformatics",
-      "issue": "",
       "fpage": "195",
       "lpage": "201",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1093/bioinformatics/bti770",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib6": {
@@ -7058,17 +7069,11 @@
       "year": "2001",
       "volume": "98",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "10037",
       "lpage": "41",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1073/pnas.181342398",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib7": {
@@ -7096,17 +7101,11 @@
       "year": "2006",
       "volume": "103",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "15830",
       "lpage": "4",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1073/pnas.0607541103",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib8": {
@@ -7142,17 +7141,11 @@
       "year": "2009",
       "volume": "4",
       "source": "Nat Protoc",
-      "issue": "",
       "fpage": "1",
       "lpage": "13",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nprot.2008.197",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib9": {
@@ -7184,17 +7177,11 @@
       "year": "2006",
       "volume": "281",
       "source": "J Biol Chem",
-      "issue": "",
       "fpage": "4548",
       "lpage": "56",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1074/jbc.M510433200",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib10": {
@@ -7226,17 +7213,11 @@
       "year": "2010",
       "volume": "6",
       "source": "Nat Chem Biol",
-      "issue": "",
       "fpage": "344",
       "lpage": "51",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nchembio.341",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib11": {
@@ -7268,17 +7249,11 @@
       "year": "2005",
       "volume": "20",
       "source": "Mol Cell",
-      "issue": "",
       "fpage": "723",
       "lpage": "31",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.molcel.2005.10.028",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib12": {
@@ -7306,17 +7281,11 @@
       "year": "2004",
       "volume": "32",
       "source": "Nucleic Acids Res",
-      "issue": "",
       "fpage": "W665",
       "lpage": "7",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1093/nar/gkh381",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib13": {
@@ -7348,17 +7317,11 @@
       "year": "2007",
       "volume": "104",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "19671",
       "lpage": "8",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1073/pnas.0708517104",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib14": {
@@ -7394,17 +7357,11 @@
       "year": "1996",
       "volume": "116",
       "source": "J Struct Biol",
-      "issue": "",
       "fpage": "190",
       "lpage": "9",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1006/jsbi.1996.0030",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib15": {
@@ -7436,22 +7393,16 @@
       "year": "1997",
       "volume": "16",
       "source": "EMBO J",
-      "issue": "",
       "fpage": "4126",
       "lpage": "33",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1093/emboj/16.13.4126",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_465": {
+    "annotation_481": {
       "type": "emphasis",
-      "id": "annotation_465",
+      "id": "annotation_481",
       "path": [
         "article_citation_bib15",
         "title"
@@ -7462,9 +7413,9 @@
         23
       ]
     },
-    "annotation_466": {
+    "annotation_482": {
       "type": "emphasis",
-      "id": "annotation_466",
+      "id": "annotation_482",
       "path": [
         "article_citation_bib15",
         "title"
@@ -7508,17 +7459,11 @@
       "year": "2007",
       "volume": "129",
       "source": "Cell",
-      "issue": "",
       "fpage": "929",
       "lpage": "41",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.cell.2007.03.050",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib17": {
@@ -7554,17 +7499,11 @@
       "year": "2009",
       "volume": "326",
       "source": "Science",
-      "issue": "",
       "fpage": "694",
       "lpage": "9",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1126/science.1179709",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib18": {
@@ -7600,17 +7539,11 @@
       "year": "2005",
       "volume": "20",
       "source": "Mol Cell",
-      "issue": "",
       "fpage": "917",
       "lpage": "27",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.molcel.2005.10.025",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib19": {
@@ -7634,17 +7567,11 @@
       "year": "2007",
       "volume": "2",
       "source": "Nat Protoc",
-      "issue": "",
       "fpage": "3239",
       "lpage": "46",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nprot.2007.452",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib20": {
@@ -7664,17 +7591,11 @@
       "year": "1997",
       "volume": "18",
       "source": "Electrophoresis",
-      "issue": "",
       "fpage": "2714",
       "lpage": "23",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1002/elps.1150181505",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib21": {
@@ -7710,17 +7631,11 @@
       "year": "2008",
       "volume": "30",
       "source": "Mol Cell",
-      "issue": "",
       "fpage": "26",
       "lpage": "38",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.molcel.2008.01.009",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib22": {
@@ -7744,17 +7659,11 @@
       "year": "2008",
       "volume": "95",
       "source": "Biophys J",
-      "issue": "",
       "fpage": "1704",
       "lpage": "15",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1529/biophysj.107.127290",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib23": {
@@ -7790,17 +7699,11 @@
       "year": "2007",
       "volume": "365",
       "source": "J Mol Biol",
-      "issue": "",
       "fpage": "468",
       "lpage": "79",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.jmb.2006.10.025",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib24": {
@@ -7824,17 +7727,11 @@
       "year": "2010",
       "volume": "399",
       "source": "J Mol Biol",
-      "issue": "",
       "fpage": "145",
       "lpage": "53",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.jmb.2010.04.009",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib25": {
@@ -7858,17 +7755,11 @@
       "year": "1996",
       "volume": "14",
       "source": "J Mol Graph",
-      "issue": "",
       "fpage": "33",
       "lpage": "8",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/0263-7855(96)00018-5",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": [],
       "comment": "27-8"
     },
@@ -7893,17 +7784,11 @@
       "year": "2011",
       "volume": "108",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "15798",
       "lpage": "803",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1073/pnas.1112185108",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib27": {
@@ -7939,17 +7824,11 @@
       "year": "2012",
       "volume": "586",
       "source": "FEBS Lett",
-      "issue": "",
       "fpage": "3705",
       "lpage": "9",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.febslet.2012.08.029",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib28": {
@@ -7969,17 +7848,11 @@
       "year": "2000",
       "volume": "25",
       "source": "Trends Biochem Sci",
-      "issue": "",
       "fpage": "561",
       "lpage": "6",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/S0968-0004(00)01669-8",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib29": {
@@ -7995,17 +7868,11 @@
       "year": "2011",
       "volume": "36",
       "source": "Trends Biochem Sci",
-      "issue": "",
       "fpage": "282",
       "lpage": "92",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.tibs.2011.02.001",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib30": {
@@ -8029,17 +7896,11 @@
       "year": "2004",
       "volume": "427",
       "source": "Nature",
-      "issue": "",
       "fpage": "862",
       "lpage": "5",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nature02332",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib31": {
@@ -8067,17 +7928,11 @@
       "year": "2004",
       "volume": "336",
       "source": "J Mol Biol",
-      "issue": "",
       "fpage": "1011",
       "lpage": "21",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.jmb.2003.12.080",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib32": {
@@ -8113,17 +7968,11 @@
       "year": "2008",
       "volume": "454",
       "source": "Nature",
-      "issue": "",
       "fpage": "852",
       "lpage": "7",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nature07115",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib33": {
@@ -8143,17 +7992,11 @@
       "year": "2005",
       "volume": "150",
       "source": "J Struct Biol",
-      "issue": "",
       "fpage": "69",
       "lpage": "80",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.jsb.2005.01.002",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib34": {
@@ -8173,22 +8016,16 @@
       "year": "1987",
       "volume": "195",
       "source": "J Mol Biol",
-      "issue": "",
       "fpage": "555",
       "lpage": "79",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/0022-2836(87)90183-5",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_467": {
+    "annotation_483": {
       "type": "emphasis",
-      "id": "annotation_467",
+      "id": "annotation_483",
       "path": [
         "article_citation_bib34",
         "title"
@@ -8232,17 +8069,11 @@
       "year": "1998",
       "volume": "102",
       "source": "J. Phys. Chem. B",
-      "issue": "",
       "fpage": "3586",
       "lpage": "616",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1021/jp973084f",
       "citation_url": [],
       "format": "other",
-      "label": "",
       "editors": []
     },
     "article_citation_bib36": {
@@ -8278,17 +8109,11 @@
       "year": "2005",
       "volume": "123",
       "source": "Cell",
-      "issue": "",
       "fpage": "1255",
       "lpage": "66",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.cell.2005.09.039",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib37": {
@@ -8324,17 +8149,11 @@
       "year": "2004",
       "volume": "25",
       "source": "J Comput Chem",
-      "issue": "",
       "fpage": "1605",
       "lpage": "12",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1002/jcc.20084",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib38": {
@@ -8370,17 +8189,11 @@
       "year": "2005",
       "volume": "26",
       "source": "J Comput Chem",
-      "issue": "",
       "fpage": "1781",
       "lpage": "802",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1002/jcc.20289",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib39": {
@@ -8412,17 +8225,11 @@
       "year": "2010",
       "volume": "170",
       "source": "J Struct Biol",
-      "issue": "",
       "fpage": "427",
       "lpage": "38",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.jsb.2010.03.007",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib40": {
@@ -8442,17 +8249,11 @@
       "year": "2004",
       "volume": "145",
       "source": "J Struct Biol",
-      "issue": "",
       "fpage": "84",
       "lpage": "90",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.jsb.2003.11.015",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib41": {
@@ -8488,17 +8289,11 @@
       "year": "2006",
       "volume": "357",
       "source": "J Mol Biol",
-      "issue": "",
       "fpage": "1144",
       "lpage": "53",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.jmb.2006.01.038",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib42": {
@@ -8522,17 +8317,11 @@
       "year": "1982",
       "volume": "1",
       "source": "EMBO J",
-      "issue": "",
       "fpage": "75",
       "lpage": "8",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/http://www.ncbi.nlm.nih.gov/pmc/articles/PMC552998/",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib43": {
@@ -8560,17 +8349,11 @@
       "year": "2003",
       "volume": "31",
       "source": "Nucleic Acids Res",
-      "issue": "",
       "fpage": "3381",
       "lpage": "5",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1093/nar/gkg520",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib44": {
@@ -8606,17 +8389,11 @@
       "year": "2010",
       "volume": "189",
       "source": "J Cell Biol",
-      "issue": "",
       "fpage": "1079",
       "lpage": "86",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1083/jcb.201001124",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib45": {
@@ -8640,17 +8417,11 @@
       "year": "2005",
       "volume": "102",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "4045",
       "lpage": "50",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1073/pnas.0409715102",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib46": {
@@ -8686,17 +8457,11 @@
       "year": "2008",
       "volume": "3",
       "source": "Nat Protoc",
-      "issue": "",
       "fpage": "1941",
       "lpage": "74",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nprot.2008.156",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib47": {
@@ -8732,22 +8497,16 @@
       "year": "1997",
       "volume": "389",
       "source": "Nature",
-      "issue": "",
       "fpage": "403",
       "lpage": "6",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/38770",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_468": {
+    "annotation_484": {
       "type": "emphasis",
-      "id": "annotation_468",
+      "id": "annotation_484",
       "path": [
         "article_citation_bib47",
         "title"
@@ -8787,17 +8546,11 @@
       "year": "2009",
       "volume": "16",
       "source": "Nat Struct Mol Biol",
-      "issue": "",
       "fpage": "861",
       "lpage": "8",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nsmb.1622",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib49": {
@@ -8821,17 +8574,11 @@
       "year": "2010",
       "volume": "465",
       "source": "Nature",
-      "issue": "",
       "fpage": "947",
       "lpage": "50",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nature09082",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib50": {
@@ -8863,17 +8610,11 @@
       "year": "2009",
       "volume": "49",
       "source": "Methods",
-      "issue": "",
       "fpage": "174",
       "lpage": "80",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.ymeth.2009.04.005",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib51": {
@@ -8897,17 +8638,11 @@
       "year": "2001",
       "volume": "107",
       "source": "Cell",
-      "issue": "",
       "fpage": "115",
       "lpage": "24",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/S0092-8674(01)00508-6",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib52": {
@@ -8927,17 +8662,11 @@
       "year": "2003",
       "volume": "114",
       "source": "Cell",
-      "issue": "",
       "fpage": "113",
       "lpage": "22",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/S0092-8674(03)00478-1",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib53": {
@@ -8965,17 +8694,11 @@
       "year": "2002",
       "volume": "10",
       "source": "Mol Cell",
-      "issue": "",
       "fpage": "789",
       "lpage": "98",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/S1097-2765(02)00691-3",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib54": {
@@ -9003,17 +8726,11 @@
       "year": "2012",
       "volume": "18",
       "source": "RNA",
-      "issue": "",
       "fpage": "230",
       "lpage": "40",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1261/rna.031187.111",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "sub-article": {

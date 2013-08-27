@@ -166,7 +166,6 @@
       "accepted_on": "2013-04-16",
       "published_on": "2013-05-14",
       "journal": "elife",
-      "article_type": "",
       "keywords": [
         "Dendritic cells",
         "EBI2",
@@ -182,10 +181,9 @@
         "Immunology",
         "Microbiology and infectious disease"
       ],
-      "pdf_link": "",
-      "xml_link": "",
-      "json_link": "",
-      "doi": ""
+      "xml_link": "https://s3.amazonaws.com/elife-cdn/elife-articles/00757/elife00757.xml",
+      "json_link": "https://s3.amazonaws.com/elife-cdn/elife-articles/00757/00757.json",
+      "doi": "http://dx.doi.org/10.7554/eLife.00757"
     },
     "person_author_4616": {
       "type": "person",
@@ -194,9 +192,7 @@
       "last-name": "Yi",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Research conception and design, acquisition of data, analysis and interpretation of data, and manuscript preparation",
-      "email": "",
       "funding": [
         "funding_par_3"
       ]
@@ -208,7 +204,6 @@
       "last-name": "Cyster",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Research conception and design, interpretation of data, and manuscript preparation",
       "email": "email_cor1",
       "funding": [
@@ -221,18 +216,14 @@
       "id": "institution_aff1",
       "name": "University of California, San Francisco",
       "city": "San Francisco",
-      "country": "United States",
-      "email": "",
-      "image": ""
+      "country": "United States"
     },
     "institution_aff2": {
       "type": "institution",
       "id": "institution_aff2",
       "name": "Howard Hughes Medical Institute, University of California, San Francisco",
       "city": "San Francisco",
-      "country": "United States",
-      "email": "",
-      "image": ""
+      "country": "United States"
     },
     "person_1": {
       "type": "person",
@@ -241,9 +232,6 @@
       "last-name": "Nussenzweig",
       "role": "editor",
       "affiliations": [],
-      "image": "",
-      "contribution": "",
-      "email": "",
       "funding": []
     },
     "info:review": {
@@ -258,7 +246,6 @@
     "email_cor1": {
       "type": "email",
       "id": "email_cor1",
-      "node": "",
       "email": "jason.cyster@ucsf.edu"
     },
     "info:copyright": {
@@ -526,7 +513,6 @@
       "type": "funding",
       "id": "funding_par_1",
       "institution": "Howard Hughes Medical Institute",
-      "accession": "",
       "person": "person_author_4553",
       "given-names": "Jason G",
       "last-name": "Cyster"
@@ -544,7 +530,6 @@
       "type": "funding",
       "id": "funding_par_3",
       "institution": "Cancer Research Institute Postdoctoral fellowship",
-      "accession": "",
       "person": "person_author_4616",
       "given-names": "Tangsheng",
       "last-name": "Yi"
@@ -560,8 +545,7 @@
     },
     "paragraph_26": {
       "type": "paragraph",
-      "id": "paragraph_26",
-      "content": ""
+      "id": "paragraph_26"
     },
     "heading_s1": {
       "type": "heading",
@@ -1463,19 +1447,12 @@
       "type": "image",
       "id": "image_fig1",
       "label": "Figure 1.",
-      "url": "",
-      "object_id": "F1",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00757/svg/elife00757f001.svg",
       "title": "EBI2 expression in DCs and deficiency of CD4+ DCs in mice lacking EBI2 or correct amounts of EBI2 ligand.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00757.003",
       "caption": "paragraph_image_fig1",
-      "graphic_id": "elife00757f001"
+      "graphic_id": "elife00757f001",
+      "format": "image"
     },
     "paragraph_image_fig1": {
       "type": "paragraph",
@@ -2266,19 +2243,12 @@
       "type": "image",
       "id": "image_fig1s1",
       "label": "Figure 1—figure supplement 1.",
-      "url": "",
-      "object_id": "F2",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00757/svg/elife00757fs001.svg",
       "title": "DC properties in EBI2-deficient mice and in mice lacking CYP7B1 in radiation resistant cells.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig1"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00757.004",
       "caption": "paragraph_image_fig1s1",
-      "graphic_id": "elife00757fs001"
+      "graphic_id": "elife00757fs001",
+      "format": "image"
     },
     "paragraph_image_fig1s1": {
       "type": "paragraph",
@@ -3364,19 +3334,12 @@
       "type": "image",
       "id": "image_fig2",
       "label": "Figure 2.",
-      "url": "",
-      "object_id": "F3",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00757/svg/elife00757f002.svg",
       "title": "Intrinsic requirement for EBI2 in CD4+ DCs.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00757.005",
       "caption": "paragraph_image_fig2",
-      "graphic_id": "elife00757f002"
+      "graphic_id": "elife00757f002",
+      "format": "image"
     },
     "paragraph_image_fig2": {
       "type": "paragraph",
@@ -4205,19 +4168,12 @@
       "type": "image",
       "id": "image_fig3",
       "label": "Figure 3.",
-      "url": "",
-      "object_id": "F4",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00757/svg/elife00757f003.svg",
       "title": "EBI2 is required for DC positioning in MZ bridging channels and LN interfollicular regions.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00757.006",
       "caption": "paragraph_image_fig3",
-      "graphic_id": "elife00757f003"
+      "graphic_id": "elife00757f003",
+      "format": "image"
     },
     "paragraph_image_fig3": {
       "type": "paragraph",
@@ -4435,19 +4391,12 @@
       "type": "image",
       "id": "image_fig4",
       "label": "Figure 4.",
-      "url": "",
-      "object_id": "F5",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00757/svg/elife00757f004.svg",
       "title": "Normal mature DC turnover and pre-DC function in EBI2-deficient mice.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00757.007",
       "caption": "paragraph_image_fig4",
-      "graphic_id": "elife00757f004"
+      "graphic_id": "elife00757f004",
+      "format": "image"
     },
     "paragraph_image_fig4": {
       "type": "paragraph",
@@ -5446,19 +5395,12 @@
       "type": "image",
       "id": "image_fig4s1",
       "label": "Figure 4—figure supplement 1.",
-      "url": "",
-      "object_id": "F6",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00757/svg/elife00757fs002.svg",
       "title": "PreDC transfer strategy, Notch and IRF4-induced gene expression and effects of Flt3L on DC frequencies.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig4"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00757.008",
       "caption": "paragraph_image_fig4s1",
-      "graphic_id": "elife00757fs002"
+      "graphic_id": "elife00757fs002",
+      "format": "image"
     },
     "paragraph_image_fig4s1": {
       "type": "paragraph",
@@ -6900,19 +6842,12 @@
       "type": "image",
       "id": "image_fig5",
       "label": "Figure 5.",
-      "url": "",
-      "object_id": "F7",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00757/svg/elife00757f005.svg",
       "title": "Rescue of EBI2-deficient CD4+ DCs by increased LTβR agonsim.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00757.009",
       "caption": "paragraph_image_fig5",
-      "graphic_id": "elife00757f005"
+      "graphic_id": "elife00757f005",
+      "format": "image"
     },
     "paragraph_image_fig5": {
       "type": "paragraph",
@@ -7559,19 +7494,12 @@
       "type": "image",
       "id": "image_fig6",
       "label": "Figure 6.",
-      "url": "",
-      "object_id": "F8",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00757/svg/elife00757f006.svg",
       "title": "MZ bridging channel positioning facilitates DC capture of blood-borne particulate antigen and rapid movement to T zone.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00757.010",
       "caption": "paragraph_image_fig6",
-      "graphic_id": "elife00757f006"
+      "graphic_id": "elife00757f006",
+      "format": "image"
     },
     "paragraph_image_fig6": {
       "type": "paragraph",
@@ -7907,19 +7835,12 @@
       "type": "image",
       "id": "image_fig6s1",
       "label": "Figure 6—figure supplement 1.",
-      "url": "",
-      "object_id": "F9",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00757/svg/elife00757fs003.svg",
       "title": "Splenic distribution and DC capture of PKH26-labeled SRBC antigen and induction of DC repositioning by SRBC and LPS.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig6"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00757.011",
       "caption": "paragraph_image_fig6s1",
-      "graphic_id": "elife00757fs003"
+      "graphic_id": "elife00757fs003",
+      "format": "image"
     },
     "paragraph_image_fig6s1": {
       "type": "paragraph",
@@ -8485,19 +8406,12 @@
       "type": "image",
       "id": "image_fig7",
       "label": "Figure 7.",
-      "url": "",
-      "object_id": "F10",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00757/svg/elife00757f007.svg",
       "title": "DC deficiency in Ebi2−/− mice is associated with a reduced ability to support CD4 T cell and B cell responses to particulate antigen.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00757.012",
       "caption": "paragraph_image_fig7",
-      "graphic_id": "elife00757f007"
+      "graphic_id": "elife00757f007",
+      "format": "image"
     },
     "paragraph_image_fig7": {
       "type": "paragraph",
@@ -8976,19 +8890,12 @@
       "type": "image",
       "id": "image_fig7s1",
       "label": "Figure 7—figure supplement 1.",
-      "url": "",
-      "object_id": "F11",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00757/svg/elife00757fs004.svg",
       "title": "EBI2 deficiency on DCs results in defective CD4+ T cell response to particulate antigen but not soluble and 33D1-coupled OVA.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig7"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00757.013",
       "caption": "paragraph_image_fig7s1",
-      "graphic_id": "elife00757fs004"
+      "graphic_id": "elife00757fs004",
+      "format": "image"
     },
     "paragraph_image_fig7s1": {
       "type": "paragraph",
@@ -9471,19 +9378,12 @@
       "type": "image",
       "id": "image_fig8",
       "label": "Figure 8.",
-      "url": "",
-      "object_id": "F12",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00757/svg/elife00757f008.svg",
       "title": "Model for the role of EBI2 in mediating marginal zone (MZ) bridging channel positioning of CD4+ DCs in the spleen.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00757.014",
       "caption": "paragraph_image_fig8",
-      "graphic_id": "elife00757f008"
+      "graphic_id": "elife00757f008",
+      "format": "image"
     },
     "paragraph_image_fig8": {
       "type": "paragraph",
@@ -10961,17 +10861,11 @@
       "year": "2000",
       "volume": "406",
       "source": "Nature",
-      "issue": "",
       "fpage": "309",
       "lpage": "14",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/35018581",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib2": {
@@ -10999,17 +10893,11 @@
       "year": "2002",
       "volume": "17",
       "source": "Immunity",
-      "issue": "",
       "fpage": "341",
       "lpage": "52",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/S1074-7613(02)00389-8",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib3": {
@@ -11029,17 +10917,11 @@
       "year": "1998",
       "volume": "392",
       "source": "Nature",
-      "issue": "",
       "fpage": "245",
       "lpage": "52",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/32588",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib4": {
@@ -11075,17 +10957,11 @@
       "year": "2009",
       "volume": "106",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "16764",
       "lpage": "9",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1073/pnas.0909142106",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib5": {
@@ -11109,17 +10985,11 @@
       "year": "2008",
       "volume": "9",
       "source": "Nat Immunol",
-      "issue": "",
       "fpage": "970",
       "lpage": "80",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/ni.f.213",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib6": {
@@ -11143,17 +11013,11 @@
       "year": "2007",
       "volume": "204",
       "source": "J Exp Med",
-      "issue": "",
       "fpage": "1653",
       "lpage": "64",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1084/jem.20062648",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib7": {
@@ -11181,17 +11045,11 @@
       "year": "2012",
       "volume": "209",
       "source": "J Exp Med",
-      "issue": "",
       "fpage": "1825",
       "lpage": "40",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1084/jem.20120774",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib8": {
@@ -11215,17 +11073,11 @@
       "year": "2007",
       "volume": "109",
       "source": "Blood",
-      "issue": "",
       "fpage": "4360",
       "lpage": "7",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1182/blood-2006-11-056424",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib9": {
@@ -11241,17 +11093,11 @@
       "year": "2005",
       "volume": "23",
       "source": "Annu Rev Immunol",
-      "issue": "",
       "fpage": "127",
       "lpage": "59",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1146/annurev.immunol.23.021704.115628",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib10": {
@@ -11287,17 +11133,11 @@
       "year": "2000",
       "volume": "12",
       "source": "Int Immunol",
-      "issue": "",
       "fpage": "807",
       "lpage": "15",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1093/intimm/12.6.807",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib11": {
@@ -11333,17 +11173,10 @@
       "year": "2005",
       "volume": "175",
       "source": "J Immunol",
-      "issue": "",
       "fpage": "839",
       "lpage": "46",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "annotation_813": {
@@ -11392,17 +11225,10 @@
       "year": "2008",
       "volume": "180",
       "source": "J Immunol",
-      "issue": "",
       "fpage": "238",
       "lpage": "48",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib13": {
@@ -11438,17 +11264,11 @@
       "year": "2007",
       "volume": "315",
       "source": "Science",
-      "issue": "",
       "fpage": "107",
       "lpage": "11",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1126/science.1136080",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib14": {
@@ -11484,17 +11304,11 @@
       "year": "2012",
       "volume": "109",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "11288",
       "lpage": "93",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1073/pnas.1202208109",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib16": {
@@ -11526,17 +11340,11 @@
       "year": "2009",
       "volume": "31",
       "source": "Immunity",
-      "issue": "",
       "fpage": "259",
       "lpage": "69",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.immuni.2009.06.016",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib17": {
@@ -11572,17 +11380,11 @@
       "year": "2013",
       "volume": "14",
       "source": "Nat Immunol",
-      "issue": "",
       "fpage": "446",
       "lpage": "53",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/ni.2555",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib18": {
@@ -11618,17 +11420,10 @@
       "year": "2006",
       "volume": "176",
       "source": "J Immunol",
-      "issue": "",
       "fpage": "5772",
       "lpage": "8",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib19": {
@@ -11664,17 +11459,11 @@
       "year": "2011",
       "volume": "475",
       "source": "Nature",
-      "issue": "",
       "fpage": "524",
       "lpage": "7",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nature10280",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib20": {
@@ -11698,17 +11487,11 @@
       "year": "2011",
       "volume": "35",
       "source": "Immunity",
-      "issue": "",
       "fpage": "323",
       "lpage": "35",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.immuni.2011.09.007",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib21": {
@@ -11744,17 +11527,11 @@
       "year": "2008",
       "volume": "322",
       "source": "Science",
-      "issue": "",
       "fpage": "1097",
       "lpage": "100",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1126/science.1164206",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib23": {
@@ -11782,17 +11559,11 @@
       "year": "2005",
       "volume": "8",
       "source": "Curr Dir Autoimmun",
-      "issue": "",
       "fpage": "124",
       "lpage": "39",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1159/000082101",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib24": {
@@ -11828,17 +11599,11 @@
       "year": "2005",
       "volume": "22",
       "source": "Immunity",
-      "issue": "",
       "fpage": "439",
       "lpage": "50",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.immuni.2005.02.007",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib25": {
@@ -11870,17 +11635,10 @@
       "year": "2002",
       "volume": "100",
       "source": "Blood",
-      "issue": "",
       "fpage": "1734",
       "lpage": "41",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib26": {
@@ -11916,17 +11674,11 @@
       "year": "2011",
       "volume": "208",
       "source": "J Exp Med",
-      "issue": "",
       "fpage": "1377",
       "lpage": "88",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1084/jem.20102065",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib27": {
@@ -11962,17 +11714,11 @@
       "year": "2011",
       "volume": "35",
       "source": "Immunity",
-      "issue": "",
       "fpage": "780",
       "lpage": "91",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.immuni.2011.08.013",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib29": {
@@ -12008,17 +11754,11 @@
       "year": "2011",
       "volume": "475",
       "source": "Nature",
-      "issue": "",
       "fpage": "519",
       "lpage": "23",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nature10226",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib30": {
@@ -12054,17 +11794,11 @@
       "year": "2007",
       "volume": "8",
       "source": "Nat Immunol",
-      "issue": "",
       "fpage": "578",
       "lpage": "83",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/ni1462",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib31": {
@@ -12088,17 +11822,11 @@
       "year": "1999",
       "volume": "172",
       "source": "Immunol Rev",
-      "issue": "",
       "fpage": "325",
       "lpage": "34",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1111/j.1600-065X.1999.tb01376.x",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib32": {
@@ -12118,17 +11846,11 @@
       "year": "2005",
       "volume": "5",
       "source": "Nat Rev Immunol",
-      "issue": "",
       "fpage": "606",
       "lpage": "16",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nri1669",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib33": {
@@ -12164,17 +11886,11 @@
       "year": "2012",
       "volume": "13",
       "source": "Nat Immunol",
-      "issue": "",
       "fpage": "888",
       "lpage": "99",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/ni.2370",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib34": {
@@ -12190,17 +11906,10 @@
       "year": "1973",
       "volume": "24",
       "source": "Immunology",
-      "issue": "",
       "fpage": "93",
       "lpage": "107",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib35": {
@@ -12236,17 +11945,11 @@
       "year": "2006",
       "volume": "7",
       "source": "Nat Immunol",
-      "issue": "",
       "fpage": "663",
       "lpage": "71",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/ni1340",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib36": {
@@ -12270,17 +11973,11 @@
       "year": "2001",
       "volume": "194",
       "source": "J Exp Med",
-      "issue": "",
       "fpage": "1649",
       "lpage": "60",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1084/jem.194.11.1649",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib37": {
@@ -12316,17 +12013,11 @@
       "year": "2003",
       "volume": "198",
       "source": "J Exp Med",
-      "issue": "",
       "fpage": "505",
       "lpage": "12",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1084/jem.20021801",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib38": {
@@ -12354,17 +12045,11 @@
       "year": "2009",
       "volume": "460",
       "source": "Nature",
-      "issue": "",
       "fpage": "1122",
       "lpage": "6",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nature08226",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib39": {
@@ -12388,17 +12073,10 @@
       "year": "2001",
       "volume": "166",
       "source": "J Immunol",
-      "issue": "",
       "fpage": "5327",
       "lpage": "30",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib40": {
@@ -12426,17 +12104,11 @@
       "year": "2006",
       "volume": "312",
       "source": "Science",
-      "issue": "",
       "fpage": "1672",
       "lpage": "6",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1126/science.1125703",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib41": {
@@ -12472,17 +12144,11 @@
       "year": "2002",
       "volume": "416",
       "source": "Nature",
-      "issue": "",
       "fpage": "94",
       "lpage": "9",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/416094a",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib42": {
@@ -12518,17 +12184,11 @@
       "year": "2001",
       "volume": "276",
       "source": "J Biol Chem",
-      "issue": "",
       "fpage": "23937",
       "lpage": "44",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1074/jbc.M011564200",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib43": {
@@ -12544,17 +12204,11 @@
       "year": "2003",
       "volume": "72",
       "source": "Annu Rev Biochem",
-      "issue": "",
       "fpage": "137",
       "lpage": "74",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1146/annurev.biochem.72.121801.161712",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib44": {
@@ -12590,17 +12244,11 @@
       "year": "2010",
       "volume": "116",
       "source": "Blood",
-      "issue": "",
       "fpage": "3517",
       "lpage": "25",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1182/blood-2010-03-277244",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib45": {
@@ -12628,17 +12276,11 @@
       "year": "2012",
       "volume": "13",
       "source": "Nat Immunol",
-      "issue": "",
       "fpage": "1145",
       "lpage": "54",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/ni.2467",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib46": {
@@ -12670,17 +12312,11 @@
       "year": "2012",
       "volume": "34",
       "source": "Mol Cells",
-      "issue": "",
       "fpage": "159",
       "lpage": "64",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1007/s10059-012-0055-9",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib47": {
@@ -12708,17 +12344,11 @@
       "year": "2007",
       "volume": "104",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "11526",
       "lpage": "33",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1073/pnas.0705089104",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib48": {
@@ -12738,17 +12368,11 @@
       "year": "2002",
       "volume": "2",
       "source": "Nat Rev Immunol",
-      "issue": "",
       "fpage": "151",
       "lpage": "61",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nri746",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib49": {
@@ -12784,17 +12408,10 @@
       "year": "2011",
       "volume": "7",
       "source": "PLoS Pathog",
-      "issue": "",
       "fpage": "e1002279",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1371/journal.ppat.1002279",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "annotation_814": {
@@ -12831,17 +12448,11 @@
       "year": "1997",
       "volume": "156",
       "source": "Immunol Rev",
-      "issue": "",
       "fpage": "25",
       "lpage": "37",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1111/j.1600-065X.1997.tb00956.x",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib51": {
@@ -12881,17 +12492,10 @@
       "year": "2005",
       "volume": "174",
       "source": "J Immunol",
-      "issue": "",
       "fpage": "2573",
       "lpage": "81",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib52": {
@@ -12927,17 +12531,11 @@
       "year": "2006",
       "volume": "25",
       "source": "EMBO J",
-      "issue": "",
       "fpage": "5560",
       "lpage": "8",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/sj.emboj.7601415",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib53": {
@@ -12957,17 +12555,11 @@
       "year": "2011",
       "volume": "35",
       "source": "Immunity",
-      "issue": "",
       "fpage": "671",
       "lpage": "80",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.immuni.2011.11.001",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib54": {
@@ -12999,17 +12591,10 @@
       "year": "2005",
       "volume": "175",
       "source": "J Immunol",
-      "issue": "",
       "fpage": "6997",
       "lpage": "7002",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib55": {
@@ -13029,17 +12614,11 @@
       "year": "1984",
       "volume": "170",
       "source": "Am J Anat",
-      "issue": "",
       "fpage": "465",
       "lpage": "81",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1002/(ISSN)1553-0795",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib56": {
@@ -13075,17 +12654,11 @@
       "year": "2012",
       "volume": "37",
       "source": "Immunity",
-      "issue": "",
       "fpage": "535",
       "lpage": "48",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.immuni.2012.06.015",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "sub-article": {

@@ -166,7 +166,6 @@
       "accepted_on": "2013-04-26",
       "published_on": "2013-06-04",
       "journal": "elife",
-      "article_type": "",
       "keywords": [
         "Golgi",
         "Traffic",
@@ -178,10 +177,9 @@
       "subjects": [
         "Cell biology"
       ],
-      "pdf_link": "",
-      "xml_link": "",
-      "json_link": "",
-      "doi": ""
+      "xml_link": "https://s3.amazonaws.com/elife-cdn/elife-articles/00558/elife00558.xml",
+      "json_link": "https://s3.amazonaws.com/elife-cdn/elife-articles/00558/00558.json",
+      "doi": "http://dx.doi.org/10.7554/eLife.00558"
     },
     "person_author_3780": {
       "type": "person",
@@ -190,7 +188,6 @@
       "last-name": "Lavieu",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article, Contributed unpublished essential data or reagents",
       "email": "email:cor1",
       "funding": []
@@ -202,9 +199,7 @@
       "last-name": "Zheng",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Acquisition of data, Contributed unpublished essential data or reagents",
-      "email": "",
       "funding": []
     },
     "person_author_1828": {
@@ -214,7 +209,6 @@
       "last-name": "Rothman",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Analysis and interpretation of data, Drafting or revising the article",
       "email": "email:cor2",
       "funding": []
@@ -224,9 +218,7 @@
       "id": "institution_aff1",
       "name": "Yale University School of Medicine",
       "city": "New Haven",
-      "country": "United States",
-      "email": "",
-      "image": ""
+      "country": "United States"
     },
     "person_1": {
       "type": "person",
@@ -235,9 +227,6 @@
       "last-name": "Pfeffer",
       "role": "editor",
       "affiliations": [],
-      "image": "",
-      "contribution": "",
-      "email": "",
       "funding": []
     },
     "info:review": {
@@ -252,13 +241,11 @@
     "email_cor1": {
       "type": "email",
       "id": "email_cor1",
-      "node": "",
       "email": "gregory.lavieu@yale.edu"
     },
     "email_cor2": {
       "type": "email",
       "id": "email_cor2",
-      "node": "",
       "email": "james.rothman@yale.edu"
     },
     "info:copyright": {
@@ -408,8 +395,7 @@
     },
     "paragraph_17": {
       "type": "paragraph",
-      "id": "paragraph_17",
-      "content": ""
+      "id": "paragraph_17"
     },
     "heading_s1": {
       "type": "heading",
@@ -713,19 +699,12 @@
       "type": "image",
       "id": "image_fig1",
       "label": "Figure 1.",
-      "url": "",
-      "object_id": "F1",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00558/svg/elife00558f001.svg",
       "title": "Aggregated-CD8Lumenal as an ER staple.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00558.003",
       "caption": "paragraph_image_fig1",
-      "graphic_id": "elife00558f001"
+      "graphic_id": "elife00558f001",
+      "format": "image"
     },
     "paragraph_image_fig1": {
       "type": "paragraph",
@@ -840,19 +819,12 @@
       "type": "image",
       "id": "image_fig1s1",
       "label": "Figure 1—figure supplement 1.",
-      "url": "",
-      "object_id": "F2",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00558/svg/elife00558fs001.svg",
       "title": "Cytosolic staples stack the ER.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig1"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00558.004",
       "caption": "paragraph_image_fig1s1",
-      "graphic_id": "elife00558fs001"
+      "graphic_id": "elife00558fs001",
+      "format": "image"
     },
     "paragraph_image_fig1s1": {
       "type": "paragraph",
@@ -1003,19 +975,12 @@
       "type": "image",
       "id": "image_fig2",
       "label": "Figure 2.",
-      "url": "",
-      "object_id": "F3",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00558/svg/elife00558f002.svg",
       "title": "Disaggregated-CD8lumenal as an anterograde cargo.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00558.005",
       "caption": "paragraph_image_fig2",
-      "graphic_id": "elife00558f002"
+      "graphic_id": "elife00558f002",
+      "format": "image"
     },
     "paragraph_image_fig2": {
       "type": "paragraph",
@@ -1182,19 +1147,12 @@
       "type": "image",
       "id": "image_fig2s1",
       "label": "Figure 2—figure supplement 1.",
-      "url": "",
-      "object_id": "F4",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00558/svg/elife00558fs002.svg",
       "title": "Lifetime of staples and disaggregated CD8lumenal.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig2"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00558.006",
       "caption": "paragraph_image_fig2s1",
-      "graphic_id": "elife00558fs002"
+      "graphic_id": "elife00558fs002",
+      "format": "image"
     },
     "paragraph_image_fig2s1": {
       "type": "paragraph",
@@ -1457,19 +1415,12 @@
       "type": "image",
       "id": "image_fig3",
       "label": "Figure 3.",
-      "url": "",
-      "object_id": "F5",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00558/svg/elife00558f003.svg",
       "title": "Re-aggregated CD8lumenial as a Golgi staple, and its retention within the Golgi.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00558.007",
       "caption": "paragraph_image_fig3",
-      "graphic_id": "elife00558f003"
+      "graphic_id": "elife00558f003",
+      "format": "image"
     },
     "paragraph_image_fig3": {
       "type": "paragraph",
@@ -1636,19 +1587,12 @@
       "type": "image",
       "id": "image_fig3s1",
       "label": "Figure 3—figure supplement 1.",
-      "url": "",
-      "object_id": "F6",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00558/svg/elife00558fs003.svg",
       "title": "Glycosylation profile of CD8lumenal.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig3"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00558.008",
       "caption": "paragraph_image_fig3s1",
-      "graphic_id": "elife00558fs003"
+      "graphic_id": "elife00558fs003",
+      "format": "image"
     },
     "paragraph_image_fig3s1": {
       "type": "paragraph",
@@ -2164,19 +2108,12 @@
       "type": "image",
       "id": "image_fig4",
       "label": "Figure 4.",
-      "url": "",
-      "object_id": "F7",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00558/svg/elife00558f004.svg",
       "title": "cis-Golgi retention of Golgi staples at the light microscopy level.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00558.009",
       "caption": "paragraph_image_fig4",
-      "graphic_id": "elife00558f004"
+      "graphic_id": "elife00558f004",
+      "format": "image"
     },
     "paragraph_image_fig4": {
       "type": "paragraph",
@@ -2348,19 +2285,12 @@
       "type": "image",
       "id": "image_fig5",
       "label": "Figure 5.",
-      "url": "",
-      "object_id": "F8",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00558/svg/elife00558f005.svg",
       "title": "cis-Golgi retention of Golgi staples at the EM level.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00558.010",
       "caption": "paragraph_image_fig5",
-      "graphic_id": "elife00558f005"
+      "graphic_id": "elife00558f005",
+      "format": "image"
     },
     "paragraph_image_fig5": {
       "type": "paragraph",
@@ -2553,19 +2483,12 @@
       "type": "image",
       "id": "image_fig5s1",
       "label": "Figure 5—figure supplement 1.",
-      "url": "",
-      "object_id": "F9",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00558/svg/elife00558fs004.svg",
       "title": "Staples within the Golgi.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig5"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00558.011",
       "caption": "paragraph_image_fig5s1",
-      "graphic_id": "elife00558fs004"
+      "graphic_id": "elife00558fs004",
+      "format": "image"
     },
     "paragraph_image_fig5s1": {
       "type": "paragraph",
@@ -2828,19 +2751,12 @@
       "type": "image",
       "id": "image_fig6",
       "label": "Figure 6.",
-      "url": "",
-      "object_id": "F10",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00558/svg/elife00558f006.svg",
       "title": "Unaltered anterograde transport within short and long-term stapled-Golgi.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00558.012",
       "caption": "paragraph_image_fig6",
-      "graphic_id": "elife00558f006"
+      "graphic_id": "elife00558f006",
+      "format": "image"
     },
     "paragraph_image_fig6": {
       "type": "paragraph",
@@ -2968,19 +2884,12 @@
       "type": "image",
       "id": "image_fig6s1",
       "label": "Figure 6—figure supplement 1.",
-      "url": "",
-      "object_id": "F11",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00558/svg/elife00558fs005.svg",
       "title": "Golgi staples do not inhibit the rate of secretion of Collagen-I and MMP2.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig6"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00558.013",
       "caption": "paragraph_image_fig6s1",
-      "graphic_id": "elife00558fs005"
+      "graphic_id": "elife00558fs005",
+      "format": "image"
     },
     "paragraph_image_fig6s1": {
       "type": "paragraph",
@@ -3017,19 +2926,12 @@
       "type": "image",
       "id": "image_fig6s2",
       "label": "Figure 6—figure supplement 2.",
-      "url": "",
-      "object_id": "F12",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00558/svg/elife00558fs006.svg",
       "title": "Golgi staples do not prevent redistribution of Golgi membranes within ER mediated by BFA.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig6"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00558.014",
       "caption": "paragraph_image_fig6s2",
-      "graphic_id": "elife00558fs006"
+      "graphic_id": "elife00558fs006",
+      "format": "image"
     },
     "paragraph_image_fig6s2": {
       "type": "paragraph",
@@ -3079,19 +2981,12 @@
       "type": "image",
       "id": "image_fig6s3",
       "label": "Figure 6—figure supplement 3.",
-      "url": "",
-      "object_id": "F13",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00558/svg/elife00558fs007.svg",
       "title": "Staples are laterally mobile and do not perturb lateral diffusion of Golgi resident enzymes.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig6"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00558.015",
       "caption": "paragraph_image_fig6s3",
-      "graphic_id": "elife00558fs007"
+      "graphic_id": "elife00558fs007",
+      "format": "image"
     },
     "paragraph_image_fig6s3": {
       "type": "paragraph",
@@ -3448,19 +3343,12 @@
       "type": "image",
       "id": "image_fig7",
       "label": "Figure 7.",
-      "url": "",
-      "object_id": "F14",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00558/svg/elife00558f007.svg",
       "title": "Unaltered transport of soluble aggregates within stapled Golgi.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00558.016",
       "caption": "paragraph_image_fig7",
-      "graphic_id": "elife00558f007"
+      "graphic_id": "elife00558f007",
+      "format": "image"
     },
     "paragraph_image_fig7": {
       "type": "paragraph",
@@ -3601,19 +3489,12 @@
       "type": "image",
       "id": "image_fig7s1",
       "label": "Figure 7—figure supplement 1.",
-      "url": "",
-      "object_id": "F15",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00558/svg/elife00558fs008.svg",
       "title": "Co-immunoprecipitation of ER-staples and ER-soluble aggregates.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig7"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00558.017",
       "caption": "paragraph_image_fig7s1",
-      "graphic_id": "elife00558fs008"
+      "graphic_id": "elife00558fs008",
+      "format": "image"
     },
     "paragraph_image_fig7s1": {
       "type": "paragraph",
@@ -3637,19 +3518,12 @@
       "type": "image",
       "id": "image_fig7s2",
       "label": "Figure 7—figure supplement 2.",
-      "url": "",
-      "object_id": "F16",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00558/svg/elife00558fs009.svg",
       "title": "Segregation of staples from soluble aggregates within the Golgi at the light level.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig7"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00558.018",
       "caption": "paragraph_image_fig7s2",
-      "graphic_id": "elife00558fs009"
+      "graphic_id": "elife00558fs009",
+      "format": "image"
     },
     "paragraph_image_fig7s2": {
       "type": "paragraph",
@@ -4204,17 +4078,11 @@
       "year": "1994",
       "volume": "76",
       "source": "Cell",
-      "issue": "",
       "fpage": "841",
       "lpage": "52",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/0092-8674(94)90359-X",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib2": {
@@ -4250,17 +4118,11 @@
       "year": "1998",
       "volume": "95",
       "source": "Cell",
-      "issue": "",
       "fpage": "993",
       "lpage": "1003",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/S0092-8674(00)81723-7",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib3": {
@@ -4296,17 +4158,11 @@
       "year": "2000",
       "volume": "151",
       "source": "J Cell Biol",
-      "issue": "",
       "fpage": "507",
       "lpage": "18",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1083/jcb.151.3.507",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib4": {
@@ -4326,17 +4182,10 @@
       "year": "2011",
       "volume": "3",
       "source": "Cold Spring Harb Perspect Biol",
-      "issue": "",
       "fpage": "a005215",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1101/cshperspect.a005215",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib5": {
@@ -4356,17 +4205,11 @@
       "year": "1998",
       "volume": "95",
       "source": "Cell",
-      "issue": "",
       "fpage": "883",
       "lpage": "9",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/S0092-8674(00)81713-4",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib6": {
@@ -4386,17 +4229,10 @@
       "year": "1993",
       "volume": "268",
       "source": "J Biol Chem",
-      "issue": "",
       "fpage": "26607",
       "lpage": "12",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib7": {
@@ -4420,17 +4256,11 @@
       "year": "1992",
       "volume": "118",
       "source": "J Cell Biol",
-      "issue": "",
       "fpage": "795",
       "lpage": "811",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1083/jcb.118.4.795",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib8": {
@@ -4462,17 +4292,11 @@
       "year": "1999",
       "volume": "144",
       "source": "J Cell Biol",
-      "issue": "",
       "fpage": "1135",
       "lpage": "49",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1083/jcb.144.6.1135",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib9": {
@@ -4508,17 +4332,11 @@
       "year": "2010",
       "volume": "107",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "6876",
       "lpage": "81",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1073/pnas.1002536107",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib10": {
@@ -4546,17 +4364,11 @@
       "year": "1989",
       "volume": "56",
       "source": "Cell",
-      "issue": "",
       "fpage": "801",
       "lpage": "13",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/0092-8674(89)90685-5",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib11": {
@@ -4592,17 +4404,11 @@
       "year": "2006",
       "volume": "441",
       "source": "Nature",
-      "issue": "",
       "fpage": "1002",
       "lpage": "6",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nature04717",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib12": {
@@ -4622,17 +4428,11 @@
       "year": "1983",
       "volume": "34",
       "source": "Cell",
-      "issue": "",
       "fpage": "233",
       "lpage": "43",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/0092-8674(83)90154-X",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib13": {
@@ -4664,17 +4464,11 @@
       "year": "2006",
       "volume": "441",
       "source": "Nature",
-      "issue": "",
       "fpage": "1007",
       "lpage": "10",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nature04737",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib14": {
@@ -4690,17 +4484,11 @@
       "year": "2000",
       "volume": "132",
       "source": "J Struct Biol",
-      "issue": "",
       "fpage": "169",
       "lpage": "78",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1006/jsbi.2000.4244",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib15": {
@@ -4724,17 +4512,11 @@
       "year": "1989",
       "volume": "58",
       "source": "Cell",
-      "issue": "",
       "fpage": "707",
       "lpage": "18",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/0092-8674(89)90105-0",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib16": {
@@ -4770,17 +4552,11 @@
       "year": "2008",
       "volume": "133",
       "source": "Cell",
-      "issue": "",
       "fpage": "1055",
       "lpage": "67",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.cell.2008.04.044",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib17": {
@@ -4800,17 +4576,11 @@
       "year": "2002",
       "volume": "297",
       "source": "Science",
-      "issue": "",
       "fpage": "1873",
       "lpage": "7",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1126/science.1074952",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib18": {
@@ -4830,17 +4600,11 @@
       "year": "2000",
       "volume": "102",
       "source": "Cell",
-      "issue": "",
       "fpage": "713",
       "lpage": "9",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/S0092-8674(00)00060-X",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib19": {
@@ -4856,17 +4620,11 @@
       "year": "2010",
       "volume": "107",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "19614",
       "lpage": "8",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1073/pnas.1011016107",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib20": {
@@ -4902,17 +4660,11 @@
       "year": "1997",
       "volume": "389",
       "source": "Nature",
-      "issue": "",
       "fpage": "81",
       "lpage": "5",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/38001",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib21": {
@@ -4932,17 +4684,11 @@
       "year": "2007",
       "volume": "23",
       "source": "Ann Rev Cell Dev Biol",
-      "issue": "",
       "fpage": "237",
       "lpage": "61",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1146/annurev.cellbio.22.010305.104241",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib22": {
@@ -4970,17 +4716,10 @@
       "year": "2011",
       "volume": "3",
       "source": "Cold Spring Harbor Perspect Biol",
-      "issue": "",
       "fpage": "a005231",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1101/cshperspect.a005231",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib23": {
@@ -5016,17 +4755,11 @@
       "year": "2000",
       "volume": "287",
       "source": "Science",
-      "issue": "",
       "fpage": "826",
       "lpage": "30",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1126/science.287.5454.826",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib24": {
@@ -5062,17 +4795,11 @@
       "year": "2000",
       "volume": "97",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "7096",
       "lpage": "101",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1073/pnas.100101997",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib25": {
@@ -5108,17 +4835,11 @@
       "year": "1994",
       "volume": "91",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "11353",
       "lpage": "7",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1073/pnas.91.24.11353",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib26": {
@@ -5134,17 +4855,11 @@
       "year": "2010",
       "volume": "21",
       "source": "Mol Biol Cell",
-      "issue": "",
       "fpage": "3776",
       "lpage": "80",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1091/mbc.E10-05-0418",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib27": {
@@ -5164,17 +4879,11 @@
       "year": "1992",
       "volume": "40",
       "source": "J Histochem Cytochem",
-      "issue": "",
       "fpage": "1",
       "lpage": "38",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1177/40.1.1370305",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib28": {
@@ -5210,17 +4919,11 @@
       "year": "2004",
       "volume": "6",
       "source": "Nat Cell Biol",
-      "issue": "",
       "fpage": "1071",
       "lpage": "81",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/ncb1180",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib29": {
@@ -5256,17 +4959,11 @@
       "year": "1988",
       "volume": "106",
       "source": "J Cell Biol",
-      "issue": "",
       "fpage": "253",
       "lpage": "67",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1083/jcb.106.2.253",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib30": {
@@ -5302,17 +4999,11 @@
       "year": "2000",
       "volume": "102",
       "source": "Cell",
-      "issue": "",
       "fpage": "335",
       "lpage": "48",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/S0092-8674(00)00039-8",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "sub-article": {

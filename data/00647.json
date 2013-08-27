@@ -86,21 +86,18 @@
         "formula_eqn3",
         "paragraph_594",
         "paragraph_600",
-        "paragraph_603",
-        "paragraph_605",
-        "paragraph_611",
-        "paragraph_612",
-        "paragraph_613",
-        "heading_s4-6-4",
+        "list_601",
         "paragraph_615",
-        "paragraph_618",
-        "paragraph_621",
+        "heading_s4-6-4",
+        "paragraph_617",
+        "paragraph_620",
+        "paragraph_623",
         "heading_s4-6-5",
-        "paragraph_638",
+        "paragraph_640",
         "heading_s4-6-6",
-        "paragraph_639",
+        "paragraph_641",
         "heading_s4-6-7",
-        "paragraph_660",
+        "paragraph_662",
         "sub-article",
         "sub-article"
       ]
@@ -211,7 +208,6 @@
       "accepted_on": "2013-05-20",
       "published_on": "2013-06-25",
       "journal": "elife",
-      "article_type": "",
       "keywords": [
         "learning and memory",
         "hippocampus",
@@ -226,10 +222,9 @@
       "subjects": [
         "Neuroscience"
       ],
-      "pdf_link": "",
-      "xml_link": "",
-      "json_link": "",
-      "doi": ""
+      "xml_link": "https://s3.amazonaws.com/elife-cdn/elife-articles/00647/elife00647.xml",
+      "json_link": "https://s3.amazonaws.com/elife-cdn/elife-articles/00647/00647.json",
+      "doi": "http://dx.doi.org/10.7554/eLife.00647"
     },
     "person_author_4199": {
       "type": "person",
@@ -238,9 +233,7 @@
       "last-name": "Cheng",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Acquisition of data, Analysis and interpretation of data",
-      "email": "",
       "funding": []
     },
     "person_author_4083": {
@@ -250,7 +243,6 @@
       "last-name": "Ji",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Analysis and interpretation of data, Drafting or revising the article",
       "email": "email_cor1",
       "funding": [
@@ -262,18 +254,14 @@
       "id": "institution_aff1",
       "name": "Baylor College of Medicine",
       "city": "Houston",
-      "country": "United States",
-      "email": "",
-      "image": ""
+      "country": "United States"
     },
     "institution_aff2": {
       "type": "institution",
       "id": "institution_aff2",
       "name": "Baylor College of Medicine",
       "city": "Houston",
-      "country": "United States",
-      "email": "",
-      "image": ""
+      "country": "United States"
     },
     "person_1": {
       "type": "person",
@@ -282,9 +270,6 @@
       "last-name": "Eichenbaum",
       "role": "editor",
       "affiliations": [],
-      "image": "",
-      "contribution": "",
-      "email": "",
       "funding": []
     },
     "info:review": {
@@ -299,7 +284,6 @@
     "email_cor1": {
       "type": "email",
       "id": "email_cor1",
-      "node": "",
       "email": "dji@bcm.edu"
     },
     "info:copyright": {
@@ -453,8 +437,7 @@
     },
     "paragraph_16": {
       "type": "paragraph",
-      "id": "paragraph_16",
-      "content": ""
+      "id": "paragraph_16"
     },
     "heading_s1": {
       "type": "heading",
@@ -1067,11 +1050,9 @@
       "id": "table_tbl1",
       "label": "Table 1.",
       "content": "<table><thead><tr><th>Animal name</th><th>Genotype</th><th>Sex</th><th>Age (m)</th><th>Brain weight (g)</th><th>CA1 thickness (µm)</th><th>Cortex thickness (µm)</th><th>N<sub>f</sub></th><th>N<sub>n</sub></th></tr></thead><tbody><tr><td>AN1</td><td>WT</td><td>M</td><td>8–9</td><td>NA</td><td>56</td><td>800</td><td>7</td><td>3</td></tr><tr><td>AN4</td><td>WT</td><td>M</td><td>8–9</td><td>0.350</td><td>51</td><td>790</td><td>16</td><td>0</td></tr><tr><td>AN18</td><td>WT</td><td>M</td><td>7–8</td><td>0.334</td><td>55</td><td>760</td><td>8</td><td>10</td></tr><tr><td>AN19</td><td>WT</td><td>F</td><td>7–8</td><td>0.324</td><td>51</td><td>690</td><td>41</td><td>30</td></tr><tr><td>AN20</td><td>WT</td><td>F</td><td>7–8</td><td>0.392</td><td>51</td><td>690</td><td>16</td><td>37</td></tr><tr><td>AN21</td><td>WT</td><td>F</td><td>8–9</td><td>0.328</td><td>51</td><td>690</td><td>31</td><td>34</td></tr><tr><td>AN10</td><td>+/−</td><td>M</td><td>8–9</td><td>0.364</td><td>NA</td><td>NA</td><td>42</td><td>33</td></tr><tr><td>AN11</td><td>+/−</td><td>M</td><td>7–8</td><td>0.356</td><td>53</td><td>760</td><td>10</td><td>15</td></tr><tr><td>AN12</td><td>−/+</td><td>F</td><td>7–8</td><td>0.310</td><td>50</td><td>800</td><td>12</td><td>18</td></tr><tr><td>AN16</td><td>−/+</td><td>M</td><td>8–9</td><td>0.332</td><td>60</td><td>800</td><td>15</td><td>18</td></tr><tr><td>AN5</td><td>Tau</td><td>F</td><td>8–9</td><td>0.192</td><td>26</td><td>580</td><td>17</td><td>15</td></tr><tr><td>AN13</td><td>Tau</td><td>F</td><td>8–9</td><td>0.226</td><td>22</td><td>580</td><td>14</td><td>10</td></tr><tr><td>AN14</td><td>Tau</td><td>F</td><td>8–9</td><td>0.236</td><td>27</td><td>580</td><td>24</td><td>25</td></tr><tr><td>AN15</td><td>Tau</td><td>M</td><td>8–9</td><td>0.214</td><td>26</td><td>580</td><td>10</td><td>18</td></tr><tr><td>AN22</td><td>Tau</td><td>M</td><td>7–8</td><td>NA</td><td>28</td><td>550</td><td>20</td><td>10</td></tr><tr><td>AN23</td><td>Tau</td><td>M</td><td>7–8</td><td>0.198</td><td>24</td><td>550</td><td>7</td><td>10</td></tr><tr><td>AN24</td><td>Tau</td><td>F</td><td>7–8</td><td>0.232</td><td>27</td><td>550</td><td>14</td><td>14</td></tr><tr><td>AN25</td><td>Tau</td><td>M</td><td>7–8</td><td>0.226</td><td>26</td><td>NA</td><td>29</td><td>27</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>Total</td><td>333</td><td>327</td></tr></tbody></table>",
-      "title": "",
       "footers": [],
       "doi": "http://dx.doi.org/10.7554/eLife.00647.003",
-      "caption": "paragraph_table_tbl1",
-      "format": ""
+      "caption": "paragraph_table_tbl1"
     },
     "paragraph_table_tbl1": {
       "type": "paragraph",
@@ -1081,8 +1062,7 @@
     "footer_65": {
       "type": "footer",
       "id": "footer_65",
-      "content": "Genotype: see ‘Materials and methods’. Age: age of the mouse in months when data were recorded. Brain weight: weight of the brain with the cerebellum and olfactory bulb removed. CA1 thickness: thickness of the pyramidal cell layer in the dorsal CA1 of HP; cortex thickness: thickness of the parietal cortex above the dorsal CA1; measurements were made in the coronal sections that contained the most dorsal point of CA1, about the section at Bregma -2.06 (Figure 48) of the Franklin and Paxinos mouse atlas (Franklin and Paxinos, 2008). Nf/Nn: number of CA1 neurons recorded in the familiar/novel room. NA: number not available. Note the lower brain weight, the thinner CA1 pyramidal layer, and the thinner cortex in Tau mice.",
-      "label": ""
+      "content": "Genotype: see ‘Materials and methods’. Age: age of the mouse in months when data were recorded. Brain weight: weight of the brain with the cerebellum and olfactory bulb removed. CA1 thickness: thickness of the pyramidal cell layer in the dorsal CA1 of HP; cortex thickness: thickness of the parietal cortex above the dorsal CA1; measurements were made in the coronal sections that contained the most dorsal point of CA1, about the section at Bregma -2.06 (Figure 48) of the Franklin and Paxinos mouse atlas (Franklin and Paxinos, 2008). Nf/Nn: number of CA1 neurons recorded in the familiar/novel room. NA: number not available. Note the lower brain weight, the thinner CA1 pyramidal layer, and the thinner cortex in Tau mice."
     },
     "citation_reference_66": {
       "type": "citation_reference",
@@ -1127,19 +1107,12 @@
       "type": "image",
       "id": "image_fig1",
       "label": "Figure 1.",
-      "url": "",
-      "object_id": "F1",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00647/svg/elife00647f001.svg",
       "title": "Histological confirmation of recording sites and neurodegeneration in Tau mice.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00647.004",
       "caption": "paragraph_image_fig1",
-      "graphic_id": "elife00647f001"
+      "graphic_id": "elife00647f001",
+      "format": "image"
     },
     "paragraph_image_fig1": {
       "type": "paragraph",
@@ -1214,19 +1187,12 @@
       "type": "image",
       "id": "image_fig2",
       "label": "Figure 2.",
-      "url": "",
-      "object_id": "F2",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00647/svg/elife00647f002.svg",
       "title": "Unstable firing locations of Tau neurons led to the loss of overall location-specificity on familiar trajectories.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00647.005",
       "caption": "paragraph_image_fig2",
-      "graphic_id": "elife00647f002"
+      "graphic_id": "elife00647f002",
+      "format": "image"
     },
     "paragraph_image_fig2": {
       "type": "paragraph",
@@ -1566,19 +1532,12 @@
       "type": "image",
       "id": "image_fig3",
       "label": "Figure 3.",
-      "url": "",
-      "object_id": "F3",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00647/svg/elife00647f003.svg",
       "title": "Tau neurons maintained stable firing sequences on familiar trajectories.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00647.006",
       "caption": "paragraph_image_fig3",
-      "graphic_id": "elife00647f003"
+      "graphic_id": "elife00647f003",
+      "format": "image"
     },
     "paragraph_image_fig3": {
       "type": "paragraph",
@@ -1771,19 +1730,12 @@
       "type": "image",
       "id": "image_fig3s1",
       "label": "Figure 3—figure supplement 1.",
-      "url": "",
-      "object_id": "F4",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00647/svg/elife00647fs001.svg",
       "title": "Deriving template sequences based on pair-wise cross-correlations.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig3"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00647.007",
       "caption": "paragraph_image_fig3s1",
-      "graphic_id": "elife00647fs001"
+      "graphic_id": "elife00647fs001",
+      "format": "image"
     },
     "paragraph_image_fig3s1": {
       "type": "paragraph",
@@ -2210,19 +2162,12 @@
       "type": "image",
       "id": "image_fig3s2",
       "label": "Figure 3—figure supplement 2.",
-      "url": "",
-      "object_id": "F5",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00647/svg/elife00647fs002.svg",
       "title": "Detecting matches with a template sequence.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig3"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00647.008",
       "caption": "paragraph_image_fig3s2",
-      "graphic_id": "elife00647fs002"
+      "graphic_id": "elife00647fs002",
+      "format": "image"
     },
     "paragraph_image_fig3s2": {
       "type": "paragraph",
@@ -2480,19 +2425,12 @@
       "type": "image",
       "id": "image_fig3s3",
       "label": "Figure 3—figure supplement 3.",
-      "url": "",
-      "object_id": "F6",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00647/svg/elife00647fs003.svg",
       "title": "More examples of WT and Tau firing sequences on familiar trajectories.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig3"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00647.009",
       "caption": "paragraph_image_fig3s3",
-      "graphic_id": "elife00647fs003"
+      "graphic_id": "elife00647fs003",
+      "format": "image"
     },
     "paragraph_image_fig3s3": {
       "type": "paragraph",
@@ -2555,19 +2493,12 @@
       "type": "image",
       "id": "image_fig3s4",
       "label": "Figure 3—figure supplement 4.",
-      "url": "",
-      "object_id": "F7",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00647/svg/elife00647fs004.svg",
       "title": "The robustness of the sequence detection result.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig3"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00647.010",
       "caption": "paragraph_image_fig3s4",
-      "graphic_id": "elife00647fs004"
+      "graphic_id": "elife00647fs004",
+      "format": "image"
     },
     "paragraph_image_fig3s4": {
       "type": "paragraph",
@@ -3078,11 +3009,9 @@
       "id": "table_tbl2",
       "label": "Table 2.",
       "content": "<table><thead><tr><th>Template sequence</th><th>Animal name</th><th>Genotype</th><th>Self traj.</th><th><em>Z</em> (S1T1)</th><th><em>Z</em> (S1T2)</th><th><em>Z</em> (S2T1)</th><th><em>Z</em> (S2T2)</th><th><em>Z</em> (O1)</th><th><em>Z</em> (O2)</th></tr></thead><tbody><tr><td>AGFHJ</td><td>AN4</td><td>WT</td><td>S2T2</td><td>0.01</td><td>2.8</td><td>−0.4</td><td><strong>3.2</strong></td><td>NA</td><td>NA</td></tr><tr><td>ZSBPNA</td><td>AN19</td><td>WT</td><td>S1T1</td><td><strong>2.6</strong></td><td>−0.7</td><td>1.4</td><td>0.3</td><td>0.8</td><td>−1.7</td></tr><tr><td>JHLKZE</td><td>AN19</td><td>WT</td><td>S1T2</td><td>1.6</td><td><strong>2.7</strong></td><td>−0.4</td><td>1.8</td><td>−0.1</td><td>0.6</td></tr><tr><td>IYOBZENA</td><td>AN19</td><td>WT</td><td>S2T1</td><td>1.9</td><td>2.3</td><td><strong>3.5</strong></td><td>1.3</td><td>0.7</td><td>2.7</td></tr><tr><td>ZSaFbB</td><td>AN19</td><td>WT</td><td>S2T2</td><td>−0.3</td><td>1.7</td><td>0.9</td><td><strong>1.9</strong></td><td>1.9</td><td>0.3</td></tr><tr><td>GHKJBDF</td><td>AN20</td><td>WT</td><td>S1T1</td><td><strong>1.6</strong></td><td>1.2</td><td>2.4</td><td>1.0</td><td>−1.8</td><td>0.9</td></tr><tr><td>JHAKC</td><td>AN20</td><td>WT</td><td>S1T2</td><td>−0.6</td><td><strong>1.3</strong></td><td>−0.3</td><td>2.1</td><td>0.02</td><td>−0.7</td></tr><tr><td>GHCKJBDF</td><td>AN20</td><td>WT</td><td>S2T1</td><td>1.8</td><td>0.3</td><td><strong>1.4</strong></td><td>1.3</td><td>−0.6</td><td>1.4</td></tr><tr><td>GJAHLC</td><td>AN20</td><td>WT</td><td>S2T2</td><td>0.5</td><td>1.1</td><td>0.4</td><td><strong>0.8</strong></td><td>−1.8</td><td>−0.3</td></tr><tr><td>XIGQOZ</td><td>AN21</td><td>WT</td><td>S1T1</td><td><strong>4.0</strong></td><td>−1.2</td><td>3.6</td><td>−1.0</td><td>−2.0</td><td>−1.0</td></tr><tr><td>IWQVHP</td><td>AN21</td><td>WT</td><td>S1T2</td><td>−0.8</td><td><strong>3.0</strong></td><td>−1.2</td><td>3.3</td><td>0.2</td><td>0.0</td></tr><tr><td>GOZTHR</td><td>AN21</td><td>WT</td><td>S2T1</td><td>1.9</td><td>0.5</td><td><strong>3.6</strong></td><td>0.3</td><td>1.0</td><td>−1.5</td></tr><tr><td>OFINKDV</td><td>AN21</td><td>WT</td><td>S2T2</td><td>−0.9</td><td>3.8</td><td>0.5</td><td><strong>3.3</strong></td><td>−0.5</td><td>−1.4</td></tr><tr><td>ACHFDG</td><td>AN5</td><td>Tau</td><td>S2T1</td><td>3.0</td><td>−0.4</td><td><strong>2.5</strong></td><td>−0.06</td><td>−1.2</td><td>−1.6</td></tr><tr><td>FABHD</td><td>AN13</td><td>Tau</td><td>S1T1</td><td><strong>4.0</strong></td><td>−0.1</td><td>2.9</td><td>2.0</td><td>2.1</td><td>2.9</td></tr><tr><td>BFAHD</td><td>AN13</td><td>Tau</td><td>S2T1</td><td>1.7</td><td>1.1</td><td><strong>2.1</strong></td><td>−0.9</td><td>0.04</td><td>0.5</td></tr><tr><td>FEBA</td><td>AN15</td><td>Tau</td><td>S2T1</td><td>1.0</td><td>0.9</td><td><strong>3.2</strong></td><td>−0.4</td><td>2.6</td><td>1.9</td></tr><tr><td>ILFBK</td><td>AN22</td><td>Tau</td><td>S1T1</td><td><strong>1.4</strong></td><td>0.5</td><td>−0.8</td><td>−0.8</td><td>1.2</td><td>−0.5</td></tr><tr><td>FLBDIC</td><td>AN22</td><td>Tau</td><td>S2T1</td><td>0.1</td><td>1.4</td><td><strong>2.2</strong></td><td>0.7</td><td>2.2</td><td>2.9</td></tr><tr><td>PKLEDO</td><td>AN25</td><td>Tau</td><td>S1T2</td><td>1.1</td><td><strong>1.9</strong></td><td>0.4</td><td>3.3</td><td>2.4</td><td>2.4</td></tr><tr><td>PKTLEOMA</td><td>AN25</td><td>Tau</td><td>S2T2</td><td>0.7</td><td>1.8</td><td>0.0</td><td><strong>1.3</strong></td><td>3.4</td><td>1.9</td></tr></tbody></table>",
-      "title": "",
       "footers": [],
       "doi": "http://dx.doi.org/10.7554/eLife.00647.011",
-      "caption": "paragraph_table_tbl2",
-      "format": ""
+      "caption": "paragraph_table_tbl2"
     },
     "paragraph_table_tbl2": {
       "type": "paragraph",
@@ -3092,8 +3021,7 @@
     "footer_208": {
       "type": "footer",
       "id": "footer_208",
-      "content": "Template sequence: each letter (case-sensitive) represents a cell; same letters across different templates but within the same animal represent the same cells. Self traj.: The trajectory where the template was derived. Z: Number of detected matches (in Z-score) with a template sequence on a trajectory or in an open box session. S1T1: Trajectory one of session one, S1T2: Trajectory two of session one, so forth; O1: First open box session, so forth; numbers on self-trajectories are in bold; numbers that are statistically significant (p<0.05) are in red. NA: not available (not all experiments included two trajectory running sessions and two open box sessions).",
-      "label": ""
+      "content": "Template sequence: each letter (case-sensitive) represents a cell; same letters across different templates but within the same animal represent the same cells. Self traj.: The trajectory where the template was derived. Z: Number of detected matches (in Z-score) with a template sequence on a trajectory or in an open box session. S1T1: Trajectory one of session one, S1T2: Trajectory two of session one, so forth; O1: First open box session, so forth; numbers on self-trajectories are in bold; numbers that are statistically significant (p<0.05) are in red. NA: not available (not all experiments included two trajectory running sessions and two open box sessions)."
     },
     "annotation_209": {
       "type": "emphasis",
@@ -3181,19 +3109,12 @@
       "type": "image",
       "id": "image_fig4",
       "label": "Figure 4.",
-      "url": "",
-      "object_id": "F8",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00647/svg/elife00647f004.svg",
       "title": "Tau neurons fired with low location-specificity in a familiar open box.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00647.012",
       "caption": "paragraph_image_fig4",
-      "graphic_id": "elife00647f004"
+      "graphic_id": "elife00647f004",
+      "format": "image"
     },
     "paragraph_image_fig4": {
       "type": "paragraph",
@@ -3409,19 +3330,12 @@
       "type": "image",
       "id": "image_fig5",
       "label": "Figure 5.",
-      "url": "",
-      "object_id": "F9",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00647/svg/elife00647f005.svg",
       "title": "Tau, but not WT, sequences seen on the familiar trajectories also appeared in the familiar open box.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00647.013",
       "caption": "paragraph_image_fig5",
-      "graphic_id": "elife00647f005"
+      "graphic_id": "elife00647f005",
+      "format": "image"
     },
     "paragraph_image_fig5": {
       "type": "paragraph",
@@ -3627,19 +3541,12 @@
       "type": "image",
       "id": "image_fig5s1",
       "label": "Figure 5—figure supplement 1.",
-      "url": "",
-      "object_id": "F10",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00647/svg/elife00647fs005.svg",
       "title": "More examples of WT and Tau firing patterns in the familiar open box.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig5"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00647.014",
       "caption": "paragraph_image_fig5s1",
-      "graphic_id": "elife00647fs005"
+      "graphic_id": "elife00647fs005",
+      "format": "image"
     },
     "paragraph_image_fig5s1": {
       "type": "paragraph",
@@ -3958,19 +3865,12 @@
       "type": "image",
       "id": "image_fig6",
       "label": "Figure 6.",
-      "url": "",
-      "object_id": "F11",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00647/svg/elife00647f006.svg",
       "title": "Tau neurons formed robust firing sequences on a novel track and in a novel open box, despite their low location-specificity.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00647.015",
       "caption": "paragraph_image_fig6",
-      "graphic_id": "elife00647f006"
+      "graphic_id": "elife00647f006",
+      "format": "image"
     },
     "paragraph_image_fig6": {
       "type": "paragraph",
@@ -4351,11 +4251,9 @@
       "id": "table_tbl3",
       "label": "Table 3.",
       "content": "<table><thead><tr><th>Template sequence</th><th>Animal name</th><th>Genotype</th><th>Self traj.</th><th><em>Z</em> (S1T1)</th><th><em>Z</em> (S1T2)</th><th><em>Z</em> (S2T1)</th><th><em>Z</em> (S2T2)</th><th><em>Z</em> (O1)</th><th><em>Z</em> (O2)</th></tr></thead><tbody><tr><td>IHFGE</td><td>AN18</td><td>WT</td><td>S1T1</td><td><strong>3.4</strong></td><td>0.1</td><td>1.4</td><td>0.2</td><td>1.0</td><td>1.1</td></tr><tr><td>HEIFG</td><td>AN18</td><td>WT</td><td>S1T2</td><td>0.4</td><td><strong>4.3</strong></td><td>−1.4</td><td>2.7</td><td>1.6</td><td>−0.8</td></tr><tr><td>HICFBG</td><td>AN18</td><td>WT</td><td>S2T2</td><td>1.9</td><td>3.5</td><td>−0.3</td><td><strong>3.6</strong></td><td>2.5</td><td>0.8</td></tr><tr><td>NAOJBD</td><td>AN19</td><td>WT</td><td>S1T1</td><td><strong>2.5</strong></td><td>−1.5</td><td>1.4</td><td>0.1</td><td>0.1</td><td>−0.1</td></tr><tr><td>OKDHFBAJN</td><td>AN19</td><td>WT</td><td>S1T2</td><td>−0.1</td><td><strong>1.6</strong></td><td>−1.0</td><td>0.7</td><td>1.1</td><td>0.1</td></tr><tr><td>LANOB</td><td>AN19</td><td>WT</td><td>S2T1</td><td>3.1</td><td>−0.6</td><td><strong>3.0</strong></td><td>−1.1</td><td>−0.5</td><td>−0.4</td></tr><tr><td>OKFCNA</td><td>AN19</td><td>WT</td><td>S2T2</td><td>−0.4</td><td>1.3</td><td>−0.4</td><td><strong>1.7</strong></td><td>1.6</td><td>0.1</td></tr><tr><td>ISRPBGJXKQAY</td><td>AN20</td><td>WT</td><td>S1T1</td><td><strong>1.5</strong></td><td>−1.6</td><td>2.0</td><td>1.2</td><td>0.9</td><td>−1.1</td></tr><tr><td>BIPRS</td><td>AN20</td><td>WT</td><td>S1T2</td><td>−0.1</td><td><strong>1.1</strong></td><td>0.2</td><td>−0.3</td><td>0.3</td><td>0.2</td></tr><tr><td>CTDOISREBXG</td><td>AN20</td><td>WT</td><td>S2T1</td><td>1.8</td><td>−0.5</td><td><strong>1.8</strong></td><td>−0.5</td><td>1.1</td><td>0.6</td></tr><tr><td>SRUPNL</td><td>AN20</td><td>WT</td><td>S2T2</td><td>−0.5</td><td><strong>1.8</strong></td><td>1.0</td><td><strong>2.8</strong></td><td>0.2</td><td>0.9</td></tr><tr><td>IXPHNSC</td><td>AN21</td><td>WT</td><td>S1T1</td><td><strong>2.5</strong></td><td>−1.5</td><td>3.2</td><td>0.0</td><td>−0.7</td><td>−1.1</td></tr><tr><td>PXHYT</td><td>AN21</td><td>WT</td><td>S1T2</td><td>0.3</td><td><strong>1.8</strong></td><td>−0.4</td><td>−0.1</td><td>1.5</td><td>−0.1</td></tr><tr><td>KIJXSC</td><td>AN21</td><td>WT</td><td>S2T1</td><td>2.8</td><td>−0.5</td><td><strong>2.7</strong></td><td>0.4</td><td>0.4</td><td>1.1</td></tr><tr><td>UMNSEO</td><td>AN21</td><td>WT</td><td>S2T2</td><td>−1.6</td><td>−0.4</td><td>1.1</td><td><strong>2.5</strong></td><td>1.7</td><td>0.7</td></tr><tr><td>HGPOL</td><td>AN14</td><td>Tau</td><td>S1T1</td><td><strong>1.7</strong></td><td>−0.1</td><td>1.1</td><td>−1.4</td><td>1.4</td><td>−0.3</td></tr><tr><td>GEDMHCB</td><td>AN15</td><td>Tau</td><td>S1T1</td><td><strong>3.3</strong></td><td>1.7</td><td>2.8</td><td>1.6</td><td>0.5</td><td>3.1</td></tr><tr><td>DMHCB</td><td>AN15</td><td>Tau</td><td>S2T1</td><td>4.2</td><td>1.9</td><td><strong>3.8</strong></td><td>−0.4</td><td>0.8</td><td>0.7</td></tr><tr><td>GEDM</td><td>AN15</td><td>Tau</td><td>S2T2</td><td>3.3</td><td>2.5</td><td>2.9</td><td><strong>2.1</strong></td><td>1.4</td><td>3.1</td></tr><tr><td>ABDE</td><td>AN24</td><td>Tau</td><td>S1T1</td><td><strong>2.6</strong></td><td>3.0</td><td>NA</td><td>NA</td><td>1.3</td><td>NA</td></tr><tr><td>DEABI</td><td>AN24</td><td>Tau</td><td>S1T2</td><td>4.6</td><td><strong>3.5</strong></td><td>NA</td><td>NA</td><td>2.6</td><td>NA</td></tr><tr><td>SGHER</td><td>AN25</td><td>Tau</td><td>S1T1</td><td><strong>2.3</strong></td><td>1.4</td><td>NA</td><td>NA</td><td>2.0</td><td>NA</td></tr><tr><td>KMFGHE</td><td>AN25</td><td>Tau</td><td>S1T2</td><td>1.0</td><td><strong>2.3</strong></td><td>NA</td><td>NA</td><td>1.4</td><td>NA</td></tr></tbody></table>",
-      "title": "",
       "footers": [],
       "doi": "http://dx.doi.org/10.7554/eLife.00647.016",
-      "caption": "paragraph_table_tbl3",
-      "format": ""
+      "caption": "paragraph_table_tbl3"
     },
     "paragraph_table_tbl3": {
       "type": "paragraph",
@@ -4365,8 +4263,7 @@
     "footer_302": {
       "type": "footer",
       "id": "footer_302",
-      "content": "See Table 2 for details.",
-      "label": ""
+      "content": "See Table 2 for details."
     },
     "figure_reference_303": {
       "type": "figure_reference",
@@ -4714,19 +4611,12 @@
       "type": "image",
       "id": "image_fig7",
       "label": "Figure 7.",
-      "url": "",
-      "object_id": "F12",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00647/svg/elife00647f007.svg",
       "title": "Tau sequences were trajectory-selective on the familiar track, but not on the novel track.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00647.017",
       "caption": "paragraph_image_fig7",
-      "graphic_id": "elife00647f007"
+      "graphic_id": "elife00647f007",
+      "format": "image"
     },
     "paragraph_image_fig7": {
       "type": "paragraph",
@@ -5009,19 +4899,12 @@
       "type": "image",
       "id": "image_fig8",
       "label": "Figure 8.",
-      "url": "",
-      "object_id": "F13",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00647/svg/elife00647f008.svg",
       "title": "Tau sequences did not display obvious periodicity in space or time.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00647.018",
       "caption": "paragraph_image_fig8",
-      "graphic_id": "elife00647f008"
+      "graphic_id": "elife00647f008",
+      "format": "image"
     },
     "paragraph_image_fig8": {
       "type": "paragraph",
@@ -5421,19 +5304,12 @@
       "type": "image",
       "id": "image_fig9",
       "label": "Figure 9.",
-      "url": "",
-      "object_id": "F14",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00647/svg/elife00647f009.svg",
       "title": "Behavioral quantifications of WT and Tau mice.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00647.019",
       "caption": "paragraph_image_fig9",
-      "graphic_id": "elife00647f009"
+      "graphic_id": "elife00647f009",
+      "format": "image"
     },
     "paragraph_image_fig9": {
       "type": "paragraph",
@@ -5742,19 +5618,12 @@
       "type": "image",
       "id": "image_fig10",
       "label": "Figure 10.",
-      "url": "",
-      "object_id": "F15",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00647/svg/elife00647f010.svg",
       "title": "Theta oscillations were present in Tau mice.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00647.020",
       "caption": "paragraph_image_fig10",
-      "graphic_id": "elife00647f010"
+      "graphic_id": "elife00647f010",
+      "format": "image"
     },
     "paragraph_image_fig10": {
       "type": "paragraph",
@@ -6198,19 +6067,12 @@
       "type": "image",
       "id": "image_fig11",
       "label": "Figure 11.",
-      "url": "",
-      "object_id": "F16",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00647/svg/elife00647f011.svg",
       "title": "Gender and genotype differences.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00647.021",
       "caption": "paragraph_image_fig11",
-      "graphic_id": "elife00647f011"
+      "graphic_id": "elife00647f011",
+      "format": "image"
     },
     "paragraph_image_fig11": {
       "type": "paragraph",
@@ -7570,15 +7432,11 @@
       "type": "formula",
       "id": "formula_eqn1",
       "label": "[1]",
-      "content": "<mml:mrow><mml:mi>S</mml:mi><mml:mi>I</mml:mi><mml:mo>=</mml:mo><mml:mstyle><mml:munderover><mml:mo>∑</mml:mo><mml:mrow><mml:mi>i</mml:mi><mml:mo>=</mml:mo><mml:mn>1</mml:mn></mml:mrow><mml:mi>N</mml:mi></mml:munderover><mml:mrow><mml:msub><mml:mi>p</mml:mi><mml:mi>i</mml:mi></mml:msub><mml:mfrac><mml:mrow><mml:msub><mml:mi>x</mml:mi><mml:mi>i</mml:mi></mml:msub></mml:mrow><mml:mi>r</mml:mi></mml:mfrac><mml:msub><mml:mrow><mml:mi>log</mml:mi></mml:mrow><mml:mn>2</mml:mn></mml:msub><mml:mfrac><mml:mrow><mml:msub><mml:mi>x</mml:mi><mml:mi>i</mml:mi></mml:msub></mml:mrow><mml:mi>r</mml:mi></mml:mfrac></mml:mrow></mml:mstyle><mml:mo>,</mml:mo></mml:mrow>",
-      "format": ""
+      "content": "<mml:mrow><mml:mi>S</mml:mi><mml:mi>I</mml:mi><mml:mo>=</mml:mo><mml:mstyle><mml:munderover><mml:mo>∑</mml:mo><mml:mrow><mml:mi>i</mml:mi><mml:mo>=</mml:mo><mml:mn>1</mml:mn></mml:mrow><mml:mi>N</mml:mi></mml:munderover><mml:mrow><mml:msub><mml:mi>p</mml:mi><mml:mi>i</mml:mi></mml:msub><mml:mfrac><mml:mrow><mml:msub><mml:mi>x</mml:mi><mml:mi>i</mml:mi></mml:msub></mml:mrow><mml:mi>r</mml:mi></mml:mfrac><mml:msub><mml:mrow><mml:mi>log</mml:mi></mml:mrow><mml:mn>2</mml:mn></mml:msub><mml:mfrac><mml:mrow><mml:msub><mml:mi>x</mml:mi><mml:mi>i</mml:mi></mml:msub></mml:mrow><mml:mi>r</mml:mi></mml:mfrac></mml:mrow></mml:mstyle><mml:mo>,</mml:mo></mml:mrow>"
     },
     "formula_548": {
       "type": "formula",
       "id": "formula_548",
-      "label": "",
-      "content": "",
-      "format": "",
       "key": "content",
       "source": "paragraph_538",
       "target": "formula_eqn1",
@@ -7594,17 +7452,12 @@
     },
     "formula_550": {
       "type": "formula",
-      "id": "formula_550",
-      "label": "",
-      "content": "",
-      "format": ""
+      "id": "formula_550"
     },
     "annotation_551": {
       "type": "inline_formula",
       "id": "annotation_551",
-      "path": "",
       "target": "formula_550",
-      "range": "",
       "source": "paragraph_549",
       "key": "content",
       "pos": [
@@ -7614,17 +7467,12 @@
     },
     "formula_552": {
       "type": "formula",
-      "id": "formula_552",
-      "label": "",
-      "content": "",
-      "format": ""
+      "id": "formula_552"
     },
     "annotation_553": {
       "type": "inline_formula",
       "id": "annotation_553",
-      "path": "",
       "target": "formula_552",
-      "range": "",
       "source": "paragraph_549",
       "key": "content",
       "pos": [
@@ -7739,15 +7587,11 @@
       "type": "formula",
       "id": "formula_eqn2",
       "label": "[2]",
-      "content": "<mml:mrow><mml:mi>C</mml:mi><mml:mo>=</mml:mo><mml:mfrac><mml:mn>1</mml:mn><mml:mi>N</mml:mi></mml:mfrac><mml:mstyle><mml:munderover><mml:mo>∑</mml:mo><mml:mrow><mml:mi>i</mml:mi><mml:mo>=</mml:mo><mml:mn>1</mml:mn></mml:mrow><mml:mi>N</mml:mi></mml:munderover></mml:mstyle><mml:mrow><mml:mo>(</mml:mo><mml:mfrac><mml:mrow><mml:msub><mml:mi>x</mml:mi><mml:mi>i</mml:mi></mml:msub><mml:mo>−</mml:mo><mml:mrow><mml:mover><mml:mi>x</mml:mi><mml:mo>¯</mml:mo></mml:mover></mml:mrow></mml:mrow><mml:mrow><mml:msub><mml:mi>σ</mml:mi><mml:mi>x</mml:mi></mml:msub></mml:mrow></mml:mfrac><mml:mo>)</mml:mo></mml:mrow><mml:mrow><mml:mo>(</mml:mo><mml:mfrac><mml:mrow><mml:msub><mml:mi>y</mml:mi><mml:mi>i</mml:mi></mml:msub><mml:mo>−</mml:mo><mml:mrow><mml:mover><mml:mi>y</mml:mi><mml:mo>¯</mml:mo></mml:mover></mml:mrow></mml:mrow><mml:mrow><mml:msub><mml:mi>σ</mml:mi><mml:mi>y</mml:mi></mml:msub></mml:mrow></mml:mfrac><mml:mo>)</mml:mo></mml:mrow><mml:mo>,</mml:mo></mml:mrow>",
-      "format": ""
+      "content": "<mml:mrow><mml:mi>C</mml:mi><mml:mo>=</mml:mo><mml:mfrac><mml:mn>1</mml:mn><mml:mi>N</mml:mi></mml:mfrac><mml:mstyle><mml:munderover><mml:mo>∑</mml:mo><mml:mrow><mml:mi>i</mml:mi><mml:mo>=</mml:mo><mml:mn>1</mml:mn></mml:mrow><mml:mi>N</mml:mi></mml:munderover></mml:mstyle><mml:mrow><mml:mo>(</mml:mo><mml:mfrac><mml:mrow><mml:msub><mml:mi>x</mml:mi><mml:mi>i</mml:mi></mml:msub><mml:mo>−</mml:mo><mml:mrow><mml:mover><mml:mi>x</mml:mi><mml:mo>¯</mml:mo></mml:mover></mml:mrow></mml:mrow><mml:mrow><mml:msub><mml:mi>σ</mml:mi><mml:mi>x</mml:mi></mml:msub></mml:mrow></mml:mfrac><mml:mo>)</mml:mo></mml:mrow><mml:mrow><mml:mo>(</mml:mo><mml:mfrac><mml:mrow><mml:msub><mml:mi>y</mml:mi><mml:mi>i</mml:mi></mml:msub><mml:mo>−</mml:mo><mml:mrow><mml:mover><mml:mi>y</mml:mi><mml:mo>¯</mml:mo></mml:mover></mml:mrow></mml:mrow><mml:mrow><mml:msub><mml:mi>σ</mml:mi><mml:mi>y</mml:mi></mml:msub></mml:mrow></mml:mfrac><mml:mo>)</mml:mo></mml:mrow><mml:mo>,</mml:mo></mml:mrow>"
     },
     "formula_562": {
       "type": "formula",
       "id": "formula_562",
-      "label": "",
-      "content": "",
-      "format": "",
       "key": "content",
       "source": "paragraph_554",
       "target": "formula_eqn2",
@@ -7763,17 +7607,12 @@
     },
     "formula_564": {
       "type": "formula",
-      "id": "formula_564",
-      "label": "",
-      "content": "",
-      "format": ""
+      "id": "formula_564"
     },
     "annotation_565": {
       "type": "inline_formula",
       "id": "annotation_565",
-      "path": "",
       "target": "formula_564",
-      "range": "",
       "source": "paragraph_563",
       "key": "content",
       "pos": [
@@ -7783,17 +7622,12 @@
     },
     "formula_566": {
       "type": "formula",
-      "id": "formula_566",
-      "label": "",
-      "content": "",
-      "format": ""
+      "id": "formula_566"
     },
     "annotation_567": {
       "type": "inline_formula",
       "id": "annotation_567",
-      "path": "",
       "target": "formula_566",
-      "range": "",
       "source": "paragraph_563",
       "key": "content",
       "pos": [
@@ -8129,15 +7963,11 @@
       "type": "formula",
       "id": "formula_eqn3",
       "label": "[3]",
-      "content": "<mml:mrow><mml:mi>C</mml:mi><mml:mrow><mml:mo>(</mml:mo><mml:mi>Δ</mml:mi><mml:mi>T</mml:mi><mml:mo>)</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:mfrac><mml:mn>1</mml:mn><mml:mi>N</mml:mi></mml:mfrac><mml:mstyle><mml:munderover><mml:mo>∑</mml:mo><mml:mrow><mml:mi>i</mml:mi><mml:mo>=</mml:mo><mml:mn>1</mml:mn></mml:mrow><mml:mi>N</mml:mi></mml:munderover></mml:mstyle><mml:mrow><mml:mo>(</mml:mo><mml:mfrac><mml:mrow><mml:msub><mml:mi>x</mml:mi><mml:mi>i</mml:mi></mml:msub><mml:mo>−</mml:mo><mml:mrow><mml:mover><mml:mi>x</mml:mi><mml:mo>¯</mml:mo></mml:mover></mml:mrow></mml:mrow><mml:mrow><mml:msub><mml:mi>σ</mml:mi><mml:mi>x</mml:mi></mml:msub></mml:mrow></mml:mfrac><mml:mo>)</mml:mo></mml:mrow><mml:mrow><mml:mo>(</mml:mo><mml:mfrac><mml:mrow><mml:msub><mml:mi>y</mml:mi><mml:mrow><mml:mi>i</mml:mi><mml:mo>+</mml:mo><mml:mi>Δ</mml:mi><mml:mi>T</mml:mi></mml:mrow></mml:msub><mml:mo>−</mml:mo><mml:mrow><mml:mover><mml:mi>y</mml:mi><mml:mo>¯</mml:mo></mml:mover></mml:mrow></mml:mrow><mml:mrow><mml:msub><mml:mi>σ</mml:mi><mml:mi>y</mml:mi></mml:msub></mml:mrow></mml:mfrac><mml:mo>)</mml:mo></mml:mrow><mml:mo>.</mml:mo></mml:mrow>",
-      "format": ""
+      "content": "<mml:mrow><mml:mi>C</mml:mi><mml:mrow><mml:mo>(</mml:mo><mml:mi>Δ</mml:mi><mml:mi>T</mml:mi><mml:mo>)</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:mfrac><mml:mn>1</mml:mn><mml:mi>N</mml:mi></mml:mfrac><mml:mstyle><mml:munderover><mml:mo>∑</mml:mo><mml:mrow><mml:mi>i</mml:mi><mml:mo>=</mml:mo><mml:mn>1</mml:mn></mml:mrow><mml:mi>N</mml:mi></mml:munderover></mml:mstyle><mml:mrow><mml:mo>(</mml:mo><mml:mfrac><mml:mrow><mml:msub><mml:mi>x</mml:mi><mml:mi>i</mml:mi></mml:msub><mml:mo>−</mml:mo><mml:mrow><mml:mover><mml:mi>x</mml:mi><mml:mo>¯</mml:mo></mml:mover></mml:mrow></mml:mrow><mml:mrow><mml:msub><mml:mi>σ</mml:mi><mml:mi>x</mml:mi></mml:msub></mml:mrow></mml:mfrac><mml:mo>)</mml:mo></mml:mrow><mml:mrow><mml:mo>(</mml:mo><mml:mfrac><mml:mrow><mml:msub><mml:mi>y</mml:mi><mml:mrow><mml:mi>i</mml:mi><mml:mo>+</mml:mo><mml:mi>Δ</mml:mi><mml:mi>T</mml:mi></mml:mrow></mml:msub><mml:mo>−</mml:mo><mml:mrow><mml:mover><mml:mi>y</mml:mi><mml:mo>¯</mml:mo></mml:mover></mml:mrow></mml:mrow><mml:mrow><mml:msub><mml:mi>σ</mml:mi><mml:mi>y</mml:mi></mml:msub></mml:mrow></mml:mfrac><mml:mo>)</mml:mo></mml:mrow><mml:mo>.</mml:mo></mml:mrow>"
     },
     "formula_593": {
       "type": "formula",
       "id": "formula_593",
-      "label": "",
-      "content": "",
-      "format": "",
       "key": "content",
       "source": "paragraph_568",
       "target": "formula_eqn3",
@@ -8219,56 +8049,54 @@
     "paragraph_600": {
       "type": "paragraph",
       "id": "paragraph_600",
-      "content": "Our strategy was to use the following algorithm to derive a template sequence from all ordered pairs of a trajectory:Determine the number of neurons (k) that participated in the ordered pairs. If k ≤ 10, generate all possible sequences of these neurons. Otherwise, randomly generate 500,000 sequences."
+      "content": "Our strategy was to use the following algorithm to derive a template sequence from all ordered pairs of a trajectory:"
     },
-    "annotation_601": {
-      "type": "emphasis",
-      "id": "annotation_601",
-      "path": [
-        "paragraph_600",
-        "content"
-      ],
-      "target": null,
-      "range": [
-        150,
-        151
+    "list_601": {
+      "type": "list",
+      "id": "list_601",
+      "items": [
+        "paragraph_602",
+        "paragraph_605",
+        "paragraph_607",
+        "paragraph_613",
+        "paragraph_614"
       ]
     },
-    "annotation_602": {
-      "type": "emphasis",
-      "id": "annotation_602",
-      "path": [
-        "paragraph_600",
-        "content"
-      ],
-      "target": null,
-      "range": [
-        196,
-        197
-      ]
-    },
-    "paragraph_603": {
+    "paragraph_602": {
       "type": "paragraph",
-      "id": "paragraph_603",
-      "content": "Search through these initial sequences to identify the best sequences, which are those agree with the ordered pairs the most. The degree of agreement is determined by an ordered-pair score s: the percentage of all ordered pairs that match the orders in the sequence."
+      "id": "paragraph_602",
+      "content": "Determine the number of neurons (k) that participated in the ordered pairs. If k ≤ 10, generate all possible sequences of these neurons. Otherwise, randomly generate 500,000 sequences."
+    },
+    "annotation_603": {
+      "type": "emphasis",
+      "id": "annotation_603",
+      "path": [
+        "paragraph_602",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        33,
+        34
+      ]
     },
     "annotation_604": {
       "type": "emphasis",
       "id": "annotation_604",
       "path": [
-        "paragraph_603",
+        "paragraph_602",
         "content"
       ],
       "target": null,
       "range": [
-        189,
-        190
+        79,
+        80
       ]
     },
     "paragraph_605": {
       "type": "paragraph",
       "id": "paragraph_605",
-      "content": "Check if the best sequences meet the template criteria: First, only one best sequence is resulted or multiple equivalent best sequences co-exist only because some ordered pairs have peaks at 0 s. Second, they need to satisfy either (i) s > 80% and the all-pair score q > 90%, where q is the percentage of all possible pairs in the sequence that match with the ordered pairs, or (ii) the nearest-neighbor score b > 90%, where b is the percentage of all nearest neighbor pairs in the sequence that match with the ordered pairs."
+      "content": "Search through these initial sequences to identify the best sequences, which are those agree with the ordered pairs the most. The degree of agreement is determined by an ordered-pair score s: the percentage of all ordered pairs that match the orders in the sequence."
     },
     "annotation_606": {
       "type": "emphasis",
@@ -8279,15 +8107,33 @@
       ],
       "target": null,
       "range": [
+        189,
+        190
+      ]
+    },
+    "paragraph_607": {
+      "type": "paragraph",
+      "id": "paragraph_607",
+      "content": "Check if the best sequences meet the template criteria: First, only one best sequence is resulted or multiple equivalent best sequences co-exist only because some ordered pairs have peaks at 0 s. Second, they need to satisfy either (i) s > 80% and the all-pair score q > 90%, where q is the percentage of all possible pairs in the sequence that match with the ordered pairs, or (ii) the nearest-neighbor score b > 90%, where b is the percentage of all nearest neighbor pairs in the sequence that match with the ordered pairs."
+    },
+    "annotation_608": {
+      "type": "emphasis",
+      "id": "annotation_608",
+      "path": [
+        "paragraph_607",
+        "content"
+      ],
+      "target": null,
+      "range": [
         236,
         237
       ]
     },
-    "annotation_607": {
+    "annotation_609": {
       "type": "emphasis",
-      "id": "annotation_607",
+      "id": "annotation_609",
       "path": [
-        "paragraph_605",
+        "paragraph_607",
         "content"
       ],
       "target": null,
@@ -8296,11 +8142,11 @@
         268
       ]
     },
-    "annotation_608": {
+    "annotation_610": {
       "type": "emphasis",
-      "id": "annotation_608",
+      "id": "annotation_610",
       "path": [
-        "paragraph_605",
+        "paragraph_607",
         "content"
       ],
       "target": null,
@@ -8309,11 +8155,11 @@
         283
       ]
     },
-    "annotation_609": {
+    "annotation_611": {
       "type": "emphasis",
-      "id": "annotation_609",
+      "id": "annotation_611",
       "path": [
-        "paragraph_605",
+        "paragraph_607",
         "content"
       ],
       "target": null,
@@ -8322,11 +8168,11 @@
         411
       ]
     },
-    "annotation_610": {
+    "annotation_612": {
       "type": "emphasis",
-      "id": "annotation_610",
+      "id": "annotation_612",
       "path": [
-        "paragraph_605",
+        "paragraph_607",
         "content"
       ],
       "target": null,
@@ -8335,26 +8181,26 @@
         426
       ]
     },
-    "paragraph_611": {
-      "type": "paragraph",
-      "id": "paragraph_611",
-      "content": "If the template criteria are met, a template sequence is obtained (if multiple equivalent sequences exist, randomly pick one) and the process is terminated. If not, eliminate from the best sequences and the ordered pairs the neuron that had stable relationship with the least number of other neurons. Use the remaining best sequences as initial sequences and repeat from step (2)."
-    },
-    "paragraph_612": {
-      "type": "paragraph",
-      "id": "paragraph_612",
-      "content": "If the number of remaining neurons is less than four, the process is terminated and no template is obtained."
-    },
     "paragraph_613": {
       "type": "paragraph",
       "id": "paragraph_613",
+      "content": "If the template criteria are met, a template sequence is obtained (if multiple equivalent sequences exist, randomly pick one) and the process is terminated. If not, eliminate from the best sequences and the ordered pairs the neuron that had stable relationship with the least number of other neurons. Use the remaining best sequences as initial sequences and repeat from step (2)."
+    },
+    "paragraph_614": {
+      "type": "paragraph",
+      "id": "paragraph_614",
+      "content": "If the number of remaining neurons is less than four, the process is terminated and no template is obtained."
+    },
+    "paragraph_615": {
+      "type": "paragraph",
+      "id": "paragraph_615",
       "content": "Given that there were insufficient numbers of active neurons on some trajectories and that many neurons did not have stable CCs, not all trajectories resulted in a successful template sequence. The template sequences derived and their corresponding trajectories and animals are listed in Tables 2 and 3."
     },
-    "figure_reference_614": {
+    "figure_reference_616": {
       "type": "figure_reference",
-      "id": "figure_reference_614",
+      "id": "figure_reference_616",
       "path": [
-        "paragraph_613",
+        "paragraph_615",
         "content"
       ],
       "target": "table_tbl2",
@@ -8370,16 +8216,16 @@
       "content": "Template sequence matching",
       "nodes": []
     },
-    "paragraph_615": {
+    "paragraph_617": {
       "type": "paragraph",
-      "id": "paragraph_615",
+      "id": "paragraph_617",
       "content": "We modified our previously published method (Ji and Wilson, 2007) to search for firing sequences that matched with the template on a track trajectory in the spike patterns of all individual laps of the trajectory and in open box sessions (see details in Figure 3—figure supplement 2). Briefly, we transformed a multi-cell spike pattern into a long sequence, according to each neuron’s firing peak times. We then identified segments of the sequence that matched with the template by a rank-order correlation."
     },
-    "citation_reference_616": {
+    "citation_reference_618": {
       "type": "citation_reference",
-      "id": "citation_reference_616",
+      "id": "citation_reference_618",
       "path": [
-        "paragraph_615",
+        "paragraph_617",
         "content"
       ],
       "target": "article_citation_bib30",
@@ -8388,11 +8234,11 @@
         64
       ]
     },
-    "figure_reference_617": {
+    "figure_reference_619": {
       "type": "figure_reference",
-      "id": "figure_reference_617",
+      "id": "figure_reference_619",
       "path": [
-        "paragraph_615",
+        "paragraph_617",
         "content"
       ],
       "target": "image_fig3s2",
@@ -8401,16 +8247,16 @@
         282
       ]
     },
-    "paragraph_618": {
+    "paragraph_620": {
       "type": "paragraph",
-      "id": "paragraph_618",
+      "id": "paragraph_620",
       "content": "To illustrate the detected sequences, we arranged neurons according to their orders in the template and plotted their spike patterns in the spatial (vs positions on a trajectory, e.g., as in Figure 3A) or temporal (vs time, e.g., as in Figure 5A) domain. For illustration purposes only, peak times/positions of the neurons within each detected sequence were linear-regressed with their ranks in the template. The result was plotted as an angled line to highlight the sequence."
     },
-    "figure_reference_619": {
+    "figure_reference_621": {
       "type": "figure_reference",
-      "id": "figure_reference_619",
+      "id": "figure_reference_621",
       "path": [
-        "paragraph_618",
+        "paragraph_620",
         "content"
       ],
       "target": "image_fig3",
@@ -8419,11 +8265,11 @@
         200
       ]
     },
-    "figure_reference_620": {
+    "figure_reference_622": {
       "type": "figure_reference",
-      "id": "figure_reference_620",
+      "id": "figure_reference_622",
       "path": [
-        "paragraph_618",
+        "paragraph_620",
         "content"
       ],
       "target": "image_fig5",
@@ -8432,16 +8278,16 @@
         245
       ]
     },
-    "paragraph_621": {
+    "paragraph_623": {
       "type": "paragraph",
-      "id": "paragraph_621",
+      "id": "paragraph_623",
       "content": "The absolute number of detected matches with a template sequence depends on the number of neurons in the template, the parameters that transform spike patterns to sequences, and how strict the rank-order correlation criterion is. Therefore, we expressed the number of detected sequences (n) as a Z-score relative to the chance-level, determined by the following shuffling procedure (Ji and Wilson, 2007). We randomly shuffled the neurons’ identities and generated 1000 copies of shuffled spike patterns. For each copy, we counted the number of sequences matched with the template. We computed the mean (m) and standard deviation (σ) of the counts for all the copies. The Z-score of n is Z = (n − m)/σ. The number n was considered significant if Z > 1.645 (corresponding to p<0.05, Z-test). This Z-score normalization was a robust measurement of number of sequences, insensitive to the particular choice of a key parameter in the template generation process (Figure 3—figure supplement 4)."
     },
-    "annotation_622": {
+    "annotation_624": {
       "type": "emphasis",
-      "id": "annotation_622",
+      "id": "annotation_624",
       "path": [
-        "paragraph_621",
+        "paragraph_623",
         "content"
       ],
       "target": null,
@@ -8450,11 +8296,11 @@
         289
       ]
     },
-    "annotation_623": {
+    "annotation_625": {
       "type": "emphasis",
-      "id": "annotation_623",
+      "id": "annotation_625",
       "path": [
-        "paragraph_621",
+        "paragraph_623",
         "content"
       ],
       "target": null,
@@ -8463,11 +8309,11 @@
         297
       ]
     },
-    "citation_reference_624": {
+    "citation_reference_626": {
       "type": "citation_reference",
-      "id": "citation_reference_624",
+      "id": "citation_reference_626",
       "path": [
-        "paragraph_621",
+        "paragraph_623",
         "content"
       ],
       "target": "article_citation_bib30",
@@ -8476,11 +8322,11 @@
         402
       ]
     },
-    "annotation_625": {
+    "annotation_627": {
       "type": "emphasis",
-      "id": "annotation_625",
+      "id": "annotation_627",
       "path": [
-        "paragraph_621",
+        "paragraph_623",
         "content"
       ],
       "target": null,
@@ -8489,11 +8335,11 @@
         604
       ]
     },
-    "annotation_626": {
+    "annotation_628": {
       "type": "emphasis",
-      "id": "annotation_626",
+      "id": "annotation_628",
       "path": [
-        "paragraph_621",
+        "paragraph_623",
         "content"
       ],
       "target": null,
@@ -8502,11 +8348,11 @@
         631
       ]
     },
-    "annotation_627": {
+    "annotation_629": {
       "type": "emphasis",
-      "id": "annotation_627",
+      "id": "annotation_629",
       "path": [
-        "paragraph_621",
+        "paragraph_623",
         "content"
       ],
       "target": null,
@@ -8515,11 +8361,11 @@
         672
       ]
     },
-    "annotation_628": {
+    "annotation_630": {
       "type": "emphasis",
-      "id": "annotation_628",
+      "id": "annotation_630",
       "path": [
-        "paragraph_621",
+        "paragraph_623",
         "content"
       ],
       "target": null,
@@ -8528,11 +8374,11 @@
         683
       ]
     },
-    "annotation_629": {
+    "annotation_631": {
       "type": "emphasis",
-      "id": "annotation_629",
+      "id": "annotation_631",
       "path": [
-        "paragraph_621",
+        "paragraph_623",
         "content"
       ],
       "target": null,
@@ -8541,11 +8387,11 @@
         688
       ]
     },
-    "annotation_630": {
+    "annotation_632": {
       "type": "emphasis",
-      "id": "annotation_630",
+      "id": "annotation_632",
       "path": [
-        "paragraph_621",
+        "paragraph_623",
         "content"
       ],
       "target": null,
@@ -8554,11 +8400,11 @@
         693
       ]
     },
-    "annotation_631": {
+    "annotation_633": {
       "type": "emphasis",
-      "id": "annotation_631",
+      "id": "annotation_633",
       "path": [
-        "paragraph_621",
+        "paragraph_623",
         "content"
       ],
       "target": null,
@@ -8567,11 +8413,11 @@
         698
       ]
     },
-    "annotation_632": {
+    "annotation_634": {
       "type": "emphasis",
-      "id": "annotation_632",
+      "id": "annotation_634",
       "path": [
-        "paragraph_621",
+        "paragraph_623",
         "content"
       ],
       "target": null,
@@ -8580,11 +8426,11 @@
         700
       ]
     },
-    "annotation_633": {
+    "annotation_635": {
       "type": "emphasis",
-      "id": "annotation_633",
+      "id": "annotation_635",
       "path": [
-        "paragraph_621",
+        "paragraph_623",
         "content"
       ],
       "target": null,
@@ -8593,11 +8439,11 @@
         714
       ]
     },
-    "annotation_634": {
+    "annotation_636": {
       "type": "emphasis",
-      "id": "annotation_634",
+      "id": "annotation_636",
       "path": [
-        "paragraph_621",
+        "paragraph_623",
         "content"
       ],
       "target": null,
@@ -8606,11 +8452,11 @@
         746
       ]
     },
-    "annotation_635": {
+    "annotation_637": {
       "type": "emphasis",
-      "id": "annotation_635",
+      "id": "annotation_637",
       "path": [
-        "paragraph_621",
+        "paragraph_623",
         "content"
       ],
       "target": null,
@@ -8619,11 +8465,11 @@
         782
       ]
     },
-    "annotation_636": {
+    "annotation_638": {
       "type": "emphasis",
-      "id": "annotation_636",
+      "id": "annotation_638",
       "path": [
-        "paragraph_621",
+        "paragraph_623",
         "content"
       ],
       "target": null,
@@ -8632,11 +8478,11 @@
         796
       ]
     },
-    "figure_reference_637": {
+    "figure_reference_639": {
       "type": "figure_reference",
-      "id": "figure_reference_637",
+      "id": "figure_reference_639",
       "path": [
-        "paragraph_621",
+        "paragraph_623",
         "content"
       ],
       "target": "image_fig3s4",
@@ -8652,9 +8498,9 @@
       "content": "Sequence location shift",
       "nodes": []
     },
-    "paragraph_638": {
+    "paragraph_640": {
       "type": "paragraph",
-      "id": "paragraph_638",
+      "id": "paragraph_640",
       "content": "For each detected matching sequence, we mapped the animal’s locations on the trajectory between the start and end times of the sequence and computed the center between the start and end locations as the sequence’s center location. To quantify the location shift between any two laps, for each sequence in one lap we computed the distance between its center location and the center location of the nearest sequence in the other lap. If multiple sequences existed in any of the two laps, the distance was computed for every sequence and then averaged as the location shift between the two laps. The location shifts were computed as such for all combinations of laps and their mean value was determined as the location shift for the template sequence on its trajectory."
     },
     "heading_s4-6-6": {
@@ -8664,16 +8510,16 @@
       "content": "Sequence auto-correlation",
       "nodes": []
     },
-    "paragraph_639": {
+    "paragraph_641": {
       "type": "paragraph",
-      "id": "paragraph_639",
+      "id": "paragraph_641",
       "content": "For all sequences identified as matches with a template during a track running and open box session, we computed a temporal and a spatial auto-correlation to examine the periodicity of the sequence occurrence. For each sequence, we computed the time and the cumulative travel distance of the animal at the center of the sequence. We treated the times (distances) of all the sequences in a session as a ‘spike’ train and computed its binned rates [x1, x2, …, xN] with a temporal (spatial) bin size of 2 s (4 cm). The auto-correlation was computed using Equation [3] with two identical vectors (xi = yi, i = 1, 2, … N). The auto-correlogram (auto-correlations plotted against time/space lags) was only computed for those templates or open box sessions that yielded significant number of detected sequences (Z-score > 1.645, p<0.05, Z-test)."
     },
-    "annotation_640": {
+    "annotation_642": {
       "type": "emphasis",
-      "id": "annotation_640",
+      "id": "annotation_642",
       "path": [
-        "paragraph_639",
+        "paragraph_641",
         "content"
       ],
       "target": null,
@@ -8682,37 +8528,37 @@
         448
       ]
     },
-    "annotation_641": {
-      "type": "emphasis",
-      "id": "annotation_641",
-      "path": [
-        "paragraph_639",
-        "content"
-      ],
-      "target": null,
-      "range": [
-        448,
-        449
-      ]
-    },
-    "annotation_642": {
-      "type": "subscript",
-      "id": "annotation_642",
-      "path": [
-        "paragraph_639",
-        "content"
-      ],
-      "target": null,
-      "range": [
-        448,
-        449
-      ]
-    },
     "annotation_643": {
       "type": "emphasis",
       "id": "annotation_643",
       "path": [
-        "paragraph_639",
+        "paragraph_641",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        448,
+        449
+      ]
+    },
+    "annotation_644": {
+      "type": "subscript",
+      "id": "annotation_644",
+      "path": [
+        "paragraph_641",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        448,
+        449
+      ]
+    },
+    "annotation_645": {
+      "type": "emphasis",
+      "id": "annotation_645",
+      "path": [
+        "paragraph_641",
         "content"
       ],
       "target": null,
@@ -8721,37 +8567,37 @@
         452
       ]
     },
-    "annotation_644": {
-      "type": "emphasis",
-      "id": "annotation_644",
-      "path": [
-        "paragraph_639",
-        "content"
-      ],
-      "target": null,
-      "range": [
-        452,
-        453
-      ]
-    },
-    "annotation_645": {
-      "type": "subscript",
-      "id": "annotation_645",
-      "path": [
-        "paragraph_639",
-        "content"
-      ],
-      "target": null,
-      "range": [
-        452,
-        453
-      ]
-    },
     "annotation_646": {
       "type": "emphasis",
       "id": "annotation_646",
       "path": [
-        "paragraph_639",
+        "paragraph_641",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        452,
+        453
+      ]
+    },
+    "annotation_647": {
+      "type": "subscript",
+      "id": "annotation_647",
+      "path": [
+        "paragraph_641",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        452,
+        453
+      ]
+    },
+    "annotation_648": {
+      "type": "emphasis",
+      "id": "annotation_648",
+      "path": [
+        "paragraph_641",
         "content"
       ],
       "target": null,
@@ -8760,11 +8606,11 @@
         459
       ]
     },
-    "annotation_647": {
+    "annotation_649": {
       "type": "emphasis",
-      "id": "annotation_647",
+      "id": "annotation_649",
       "path": [
-        "paragraph_639",
+        "paragraph_641",
         "content"
       ],
       "target": null,
@@ -8773,11 +8619,11 @@
         460
       ]
     },
-    "annotation_648": {
+    "annotation_650": {
       "type": "subscript",
-      "id": "annotation_648",
+      "id": "annotation_650",
       "path": [
-        "paragraph_639",
+        "paragraph_641",
         "content"
       ],
       "target": null,
@@ -8786,11 +8632,11 @@
         460
       ]
     },
-    "cross_reference_649": {
+    "cross_reference_651": {
       "type": "cross_reference",
-      "id": "cross_reference_649",
+      "id": "cross_reference_651",
       "path": [
-        "paragraph_639",
+        "paragraph_641",
         "content"
       ],
       "target": "formula_eqn3",
@@ -8799,11 +8645,11 @@
         564
       ]
     },
-    "annotation_650": {
+    "annotation_652": {
       "type": "emphasis",
-      "id": "annotation_650",
+      "id": "annotation_652",
       "path": [
-        "paragraph_639",
+        "paragraph_641",
         "content"
       ],
       "target": null,
@@ -8812,37 +8658,37 @@
         594
       ]
     },
-    "annotation_651": {
-      "type": "emphasis",
-      "id": "annotation_651",
-      "path": [
-        "paragraph_639",
-        "content"
-      ],
-      "target": null,
-      "range": [
-        594,
-        595
-      ]
-    },
-    "annotation_652": {
-      "type": "subscript",
-      "id": "annotation_652",
-      "path": [
-        "paragraph_639",
-        "content"
-      ],
-      "target": null,
-      "range": [
-        594,
-        595
-      ]
-    },
     "annotation_653": {
       "type": "emphasis",
       "id": "annotation_653",
       "path": [
-        "paragraph_639",
+        "paragraph_641",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        594,
+        595
+      ]
+    },
+    "annotation_654": {
+      "type": "subscript",
+      "id": "annotation_654",
+      "path": [
+        "paragraph_641",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        594,
+        595
+      ]
+    },
+    "annotation_655": {
+      "type": "emphasis",
+      "id": "annotation_655",
+      "path": [
+        "paragraph_641",
         "content"
       ],
       "target": null,
@@ -8851,37 +8697,37 @@
         599
       ]
     },
-    "annotation_654": {
-      "type": "emphasis",
-      "id": "annotation_654",
-      "path": [
-        "paragraph_639",
-        "content"
-      ],
-      "target": null,
-      "range": [
-        599,
-        601
-      ]
-    },
-    "annotation_655": {
-      "type": "subscript",
-      "id": "annotation_655",
-      "path": [
-        "paragraph_639",
-        "content"
-      ],
-      "target": null,
-      "range": [
-        599,
-        601
-      ]
-    },
     "annotation_656": {
       "type": "emphasis",
       "id": "annotation_656",
       "path": [
-        "paragraph_639",
+        "paragraph_641",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        599,
+        601
+      ]
+    },
+    "annotation_657": {
+      "type": "subscript",
+      "id": "annotation_657",
+      "path": [
+        "paragraph_641",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        599,
+        601
+      ]
+    },
+    "annotation_658": {
+      "type": "emphasis",
+      "id": "annotation_658",
+      "path": [
+        "paragraph_641",
         "content"
       ],
       "target": null,
@@ -8890,11 +8736,11 @@
         603
       ]
     },
-    "annotation_657": {
+    "annotation_659": {
       "type": "emphasis",
-      "id": "annotation_657",
+      "id": "annotation_659",
       "path": [
-        "paragraph_639",
+        "paragraph_641",
         "content"
       ],
       "target": null,
@@ -8903,11 +8749,11 @@
         615
       ]
     },
-    "annotation_658": {
+    "annotation_660": {
       "type": "emphasis",
-      "id": "annotation_658",
+      "id": "annotation_660",
       "path": [
-        "paragraph_639",
+        "paragraph_641",
         "content"
       ],
       "target": null,
@@ -8916,11 +8762,11 @@
         806
       ]
     },
-    "annotation_659": {
+    "annotation_661": {
       "type": "emphasis",
-      "id": "annotation_659",
+      "id": "annotation_661",
       "path": [
-        "paragraph_639",
+        "paragraph_641",
         "content"
       ],
       "target": null,
@@ -8936,9 +8782,9 @@
       "content": "Power spectral analysis of LFPs",
       "nodes": []
     },
-    "paragraph_660": {
+    "paragraph_662": {
       "type": "paragraph",
-      "id": "paragraph_660",
+      "id": "paragraph_662",
       "content": "For each raw LFP trace during a track running and an open box session, we computed its power spectral density (PSD) at every 0.5 Hz by a multitaper method using Matlab. The absolute theta power was the integration of PSD values within the theta band (6–12 Hz). This frequency range was chosen because most PSDs in our data showed a peak centered at 8–10 Hz and spanning this range. The PSD values were normalized by the total power at frequencies >2 Hz. The power at ≤2 Hz was not included in the normalization because it was sensitive to the animal’s movement artifacts. The normalized theta power was the integration of the normalized PSD values within 6–12 Hz. The analysis was also performed on LFPs restricted within the start and end times of identified firing sequences."
     },
     "info:ack": {
@@ -8961,12 +8807,12 @@
       "level": 2,
       "content": "Competing Interests",
       "nodes": [
-        "paragraph_661"
+        "paragraph_663"
       ]
     },
-    "paragraph_661": {
+    "paragraph_663": {
       "type": "paragraph",
-      "id": "paragraph_661",
+      "id": "paragraph_663",
       "content": "Competing interestsThe authors declare that no competing interests exist."
     },
     "info:author_contribution": {
@@ -8996,17 +8842,11 @@
       "year": "2010",
       "volume": "66",
       "source": "Neuron",
-      "issue": "",
       "fpage": "631",
       "lpage": "45",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.neuron.2010.04.031",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib2": {
@@ -9042,17 +8882,11 @@
       "year": "2007",
       "volume": "27",
       "source": "J Neurosci",
-      "issue": "",
       "fpage": "3650",
       "lpage": "62",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1523/JNEUROSCI.0587-07.2007",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib3": {
@@ -9072,17 +8906,11 @@
       "year": "2003",
       "volume": "7",
       "source": "Trends Cogn Sci",
-      "issue": "",
       "fpage": "517",
       "lpage": "9",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.tics.2003.10.014",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib4": {
@@ -9114,17 +8942,11 @@
       "year": "1987",
       "volume": "9",
       "source": "J Clin Exp Neuropsychol",
-      "issue": "",
       "fpage": "479",
       "lpage": "97",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1080/01688638708410764",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib5": {
@@ -9140,17 +8962,11 @@
       "year": "1989",
       "volume": "31",
       "source": "Neuroscience",
-      "issue": "",
       "fpage": "551",
       "lpage": "70",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/0306-4522(89)90423-5",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib6": {
@@ -9166,17 +8982,11 @@
       "year": "2002",
       "volume": "33",
       "source": "Neuron",
-      "issue": "",
       "fpage": "325",
       "lpage": "40",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/S0896-6273(02)00586-X",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib7": {
@@ -9192,17 +9002,11 @@
       "year": "2004",
       "volume": "7",
       "source": "Nat Neurosci",
-      "issue": "",
       "fpage": "446",
       "lpage": "51",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nn1233",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib8": {
@@ -9234,17 +9038,11 @@
       "year": "2008",
       "volume": "105",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "7863",
       "lpage": "8",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1073/pnas.0802908105",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib9": {
@@ -9264,17 +9062,11 @@
       "year": "1992",
       "volume": "3",
       "source": "Neuropsychol Rev",
-      "issue": "",
       "fpage": "119",
       "lpage": "69",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1007/BF01108841",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib10": {
@@ -9298,17 +9090,11 @@
       "year": "2011",
       "volume": "14",
       "source": "Nat Neurosci",
-      "issue": "",
       "fpage": "147",
       "lpage": "53",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nn.2732",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib11": {
@@ -9344,17 +9130,11 @@
       "year": "1999",
       "volume": "2",
       "source": "Nat Neurosci",
-      "issue": "",
       "fpage": "271",
       "lpage": "6",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/6374",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib12": {
@@ -9390,17 +9170,11 @@
       "year": "2007",
       "volume": "28",
       "source": "Neurobiol Dis",
-      "issue": "",
       "fpage": "76",
       "lpage": "82",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.nbd.2007.06.013",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib13": {
@@ -9424,17 +9198,11 @@
       "year": "2008",
       "volume": "31",
       "source": "Trends Neurosci",
-      "issue": "",
       "fpage": "469",
       "lpage": "77",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.tins.2008.06.008",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib14": {
@@ -9462,17 +9230,11 @@
       "year": "2000",
       "volume": "28",
       "source": "Neuron",
-      "issue": "",
       "fpage": "585",
       "lpage": "94",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/S0896-6273(00)00135-5",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib15": {
@@ -9496,17 +9258,11 @@
       "year": "2009",
       "volume": "63",
       "source": "Neuron",
-      "issue": "",
       "fpage": "497",
       "lpage": "507",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.neuron.2009.07.027",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib16": {
@@ -9542,17 +9298,11 @@
       "year": "2008",
       "volume": "44",
       "source": "Cortex",
-      "issue": "",
       "fpage": "305",
       "lpage": "11",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.cortex.2006.08.001",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib17": {
@@ -9572,17 +9322,11 @@
       "year": "2007",
       "volume": "10",
       "source": "Nat Neurosci",
-      "issue": "",
       "fpage": "1241",
       "lpage": "2",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nn1961",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib18": {
@@ -9602,17 +9346,11 @@
       "year": "2010",
       "volume": "35",
       "source": "Neuropsychopharmacology",
-      "issue": "",
       "fpage": "86",
       "lpage": "104",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/npp.2009.126",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib19": {
@@ -9632,17 +9370,11 @@
       "year": "2006",
       "volume": "50",
       "source": "Neuron",
-      "issue": "",
       "fpage": "145",
       "lpage": "57",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.neuron.2006.02.023",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib20": {
@@ -9662,17 +9394,11 @@
       "year": "2011",
       "volume": "469",
       "source": "Nature",
-      "issue": "",
       "fpage": "397",
       "lpage": "401",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nature09633",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib21": {
@@ -9688,17 +9414,11 @@
       "year": "2013",
       "volume": "17",
       "source": "Trends Cogn Sci",
-      "issue": "",
       "fpage": "81",
       "lpage": "8",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.tics.2012.12.007",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib22": {
@@ -9734,17 +9454,11 @@
       "year": "2003",
       "volume": "425",
       "source": "Nature",
-      "issue": "",
       "fpage": "184",
       "lpage": "8",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nature01964",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib23": {
@@ -9764,17 +9478,11 @@
       "year": "2006",
       "volume": "440",
       "source": "Nature",
-      "issue": "",
       "fpage": "680",
       "lpage": "3",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nature04587",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib24": {
@@ -9792,19 +9500,11 @@
       ],
       "title": "The mouse brain in stereotaxic coordinates",
       "year": "2008",
-      "volume": "",
-      "source": "",
-      "issue": "",
-      "fpage": "",
-      "lpage": "",
-      "collab": "",
       "edition": "3rd Ed",
       "publisher-name": "Academic Press",
       "publisher-loc": "Orlando, FL",
-      "doi": "",
       "citation_url": [],
       "format": "book",
-      "label": "",
       "editors": []
     },
     "article_citation_bib25": {
@@ -9836,17 +9536,11 @@
       "year": "2008",
       "volume": "322",
       "source": "Science",
-      "issue": "",
       "fpage": "96",
       "lpage": "101",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1126/science.1164685",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib26": {
@@ -9874,17 +9568,11 @@
       "year": "2010",
       "volume": "65",
       "source": "Neuron",
-      "issue": "",
       "fpage": "695",
       "lpage": "705",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.neuron.2010.01.034",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib27": {
@@ -9916,17 +9604,11 @@
       "year": "2005",
       "volume": "436",
       "source": "Nature",
-      "issue": "",
       "fpage": "801",
       "lpage": "6",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nature03721",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib28": {
@@ -9958,17 +9640,11 @@
       "year": "2003",
       "volume": "424",
       "source": "Nature",
-      "issue": "",
       "fpage": "552",
       "lpage": "6",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nature01834",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib29": {
@@ -10004,17 +9680,11 @@
       "year": "2008",
       "volume": "1216",
       "source": "Brain Res",
-      "issue": "",
       "fpage": "92",
       "lpage": "103",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.brainres.2008.03.079",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib30": {
@@ -10034,17 +9704,11 @@
       "year": "2007",
       "volume": "10",
       "source": "Nat Neurosci",
-      "issue": "",
       "fpage": "100",
       "lpage": "7",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nn1825",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib31": {
@@ -10064,17 +9728,11 @@
       "year": "2009",
       "volume": "12",
       "source": "Nat Neurosci",
-      "issue": "",
       "fpage": "913",
       "lpage": "8",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nn.2344",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib32": {
@@ -10094,17 +9752,11 @@
       "year": "2002",
       "volume": "36",
       "source": "Neuron",
-      "issue": "",
       "fpage": "1183",
       "lpage": "94",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/S0896-6273(02)01096-6",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib33": {
@@ -10140,17 +9792,11 @@
       "year": "2005",
       "volume": "309",
       "source": "Science",
-      "issue": "",
       "fpage": "619",
       "lpage": "23",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1126/science.1114037",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib34": {
@@ -10166,17 +9812,11 @@
       "year": "1999",
       "volume": "22",
       "source": "Neuron",
-      "issue": "",
       "fpage": "233",
       "lpage": "42",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/S0896-6273(00)81085-5",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib35": {
@@ -10204,17 +9844,11 @@
       "year": "2011",
       "volume": "71",
       "source": "Neuron",
-      "issue": "",
       "fpage": "737",
       "lpage": "49",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.neuron.2011.07.012",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib36": {
@@ -10250,17 +9884,11 @@
       "year": "1996",
       "volume": "274",
       "source": "Science",
-      "issue": "",
       "fpage": "1678",
       "lpage": "83",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1126/science.274.5293.1678",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib37": {
@@ -10296,17 +9924,11 @@
       "year": "2007",
       "volume": "317",
       "source": "Science",
-      "issue": "",
       "fpage": "94",
       "lpage": "9",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1126/science.1140263",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib38": {
@@ -10326,17 +9948,10 @@
       "year": "1987",
       "volume": "7",
       "source": "J Neurosci",
-      "issue": "",
       "fpage": "1951",
       "lpage": "68",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib39": {
@@ -10368,17 +9983,10 @@
       "year": "1999",
       "volume": "19",
       "source": "J Neurosci",
-      "issue": "",
       "fpage": "9497",
       "lpage": "507",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib40": {
@@ -10414,17 +10022,11 @@
       "year": "2002",
       "volume": "297",
       "source": "Science",
-      "issue": "",
       "fpage": "211",
       "lpage": "8",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1126/science.1071795",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib41": {
@@ -10460,17 +10062,11 @@
       "year": "2011",
       "volume": "54",
       "source": "NeuroImage",
-      "issue": "",
       "fpage": "2603",
       "lpage": "11",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.neuroimage.2010.11.032",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib42": {
@@ -10490,17 +10086,11 @@
       "year": "1971",
       "volume": "34",
       "source": "Brain Res",
-      "issue": "",
       "fpage": "171",
       "lpage": "5",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/0006-8993(71)90358-1",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib43": {
@@ -10520,17 +10110,11 @@
       "year": "1993",
       "volume": "3",
       "source": "Hippocampus",
-      "issue": "",
       "fpage": "317",
       "lpage": "30",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1002/hipo.450030307",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib44": {
@@ -10550,17 +10134,11 @@
       "year": "2010",
       "volume": "13",
       "source": "Nat Neurosci",
-      "issue": "",
       "fpage": "812",
       "lpage": "8",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nn.2583",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib45": {
@@ -10588,17 +10166,11 @@
       "year": "2008",
       "volume": "321",
       "source": "Science",
-      "issue": "",
       "fpage": "1322",
       "lpage": "7",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1126/science.1159775",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib46": {
@@ -10634,17 +10206,11 @@
       "year": "2005",
       "volume": "25",
       "source": "J Neurosci",
-      "issue": "",
       "fpage": "10637",
       "lpage": "47",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1523/JNEUROSCI.3279-05.2005",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib47": {
@@ -10664,17 +10230,11 @@
       "year": "2009",
       "volume": "60",
       "source": "Annu Rev Psychol",
-      "issue": "",
       "fpage": "257",
       "lpage": "82",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1146/annurev.psych.57.102904.190024",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib48": {
@@ -10710,17 +10270,11 @@
       "year": "2005",
       "volume": "309",
       "source": "Science",
-      "issue": "",
       "fpage": "476",
       "lpage": "81",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1126/science.1113694",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib49": {
@@ -10752,17 +10306,11 @@
       "year": "1998",
       "volume": "95",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "3245",
       "lpage": "50",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1073/pnas.95.6.3245",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib50": {
@@ -10782,17 +10330,11 @@
       "year": "1996",
       "volume": "271",
       "source": "Science",
-      "issue": "",
       "fpage": "1870",
       "lpage": "3",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1126/science.271.5257.1870",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib51": {
@@ -10818,19 +10360,12 @@
       ],
       "title": "An information-theoretic approach to deciphering the hippocampal code",
       "year": "1993",
-      "volume": "",
       "source": "Advances in neural information processing systems",
-      "issue": "",
       "fpage": "1030",
       "lpage": "7",
-      "collab": "",
-      "edition": "",
       "publisher-name": "Morgan Kaufmann",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "book",
-      "label": "",
       "editors": [
         {
           "given-names": "SJ",
@@ -10871,17 +10406,11 @@
       "year": "1996",
       "volume": "6",
       "source": "Hippocampus",
-      "issue": "",
       "fpage": "149",
       "lpage": "172",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1002/(SICI)1098-1063(1996)6:2<>1.0.CO;2-Z",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib53": {
@@ -10897,17 +10426,10 @@
       "year": "2003",
       "volume": "64",
       "source": "J Clin Psychiatry",
-      "issue": "",
       "fpage": "7",
       "lpage": "10",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": [],
       "supplement": "suppl 9"
     },
@@ -10928,17 +10450,11 @@
       "year": "1993",
       "volume": "261",
       "source": "Science",
-      "issue": "",
       "fpage": "1055",
       "lpage": "8",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1126/science.8351520",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib55": {
@@ -10958,17 +10474,11 @@
       "year": "1994",
       "volume": "265",
       "source": "Science",
-      "issue": "",
       "fpage": "676",
       "lpage": "9",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1126/science.8036517",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib56": {
@@ -11004,17 +10514,11 @@
       "year": "2001",
       "volume": "31",
       "source": "Neuron",
-      "issue": "",
       "fpage": "713",
       "lpage": "26",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/S0896-6273(01)00417-2",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib57": {
@@ -11046,17 +10550,11 @@
       "year": "2011",
       "volume": "32",
       "source": "Neurobiol Aging",
-      "issue": "",
       "fpage": "590",
       "lpage": "603",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.neurobiolaging.2009.04.006",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "sub-article": {

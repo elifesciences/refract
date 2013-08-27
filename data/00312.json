@@ -176,7 +176,6 @@
       "accepted_on": "2013-01-31",
       "published_on": "2013-03-20",
       "journal": "eLife",
-      "article_type": "",
       "keywords": [
         "learning and memory",
         "dentate gyrus",
@@ -190,10 +189,9 @@
       "subjects": [
         "Neuroscience"
       ],
-      "pdf_link": "",
-      "xml_link": "",
-      "json_link": "",
-      "doi": ""
+      "xml_link": "https://s3.amazonaws.com/elife-cdn/elife-articles/00312/elife00312.xml",
+      "json_link": "https://s3.amazonaws.com/elife-cdn/elife-articles/00312/00312.json",
+      "doi": "http://dx.doi.org/10.7554/eLife.00312"
     },
     "person_author_2157": {
       "type": "person",
@@ -202,9 +200,7 @@
       "last-name": "Deng",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article",
-      "email": "",
       "funding": []
     },
     "person_author_2553": {
@@ -214,9 +210,7 @@
       "last-name": "Mayford",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Analysis and interpretation of data, Revising the article, Contributed unpublished essential data or reagents",
-      "email": "",
       "funding": []
     },
     "person_author_2525": {
@@ -226,7 +220,6 @@
       "last-name": "Gage",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Drafting or revising the article",
       "email": "email_cor1",
       "funding": [
@@ -241,18 +234,14 @@
       "id": "institution_aff1",
       "name": "The Salk Institute for Biological Studies",
       "city": "La Jolla",
-      "country": "United States",
-      "email": "",
-      "image": ""
+      "country": "United States"
     },
     "institution_aff2": {
       "type": "institution",
       "id": "institution_aff2",
       "name": "The Scripps Research Institute",
       "city": "La Jolla",
-      "country": "United States",
-      "email": "",
-      "image": ""
+      "country": "United States"
     },
     "person_1": {
       "type": "person",
@@ -261,9 +250,6 @@
       "last-name": "Eichenbaum",
       "role": "editor",
       "affiliations": [],
-      "image": "",
-      "contribution": "",
-      "email": "",
       "funding": []
     },
     "info:review": {
@@ -278,7 +264,6 @@
     "email_cor1": {
       "type": "email",
       "id": "email_cor1",
-      "node": "",
       "email": "gage@salk.edu"
     },
     "info:copyright": {
@@ -426,7 +411,6 @@
       "type": "funding",
       "id": "funding_par_1",
       "institution": "James S. McDonnell Foundation",
-      "accession": "",
       "person": "person_author_2525",
       "given-names": "Fred H",
       "last-name": "Gage"
@@ -435,7 +419,6 @@
       "type": "funding",
       "id": "funding_par_2",
       "institution": "Lookout Fund",
-      "accession": "",
       "person": "person_author_2525",
       "given-names": "Fred H",
       "last-name": "Gage"
@@ -444,7 +427,6 @@
       "type": "funding",
       "id": "funding_par_3",
       "institution": "Kavli Institute for Brain and Mind",
-      "accession": "",
       "person": "person_author_2525",
       "given-names": "Fred H",
       "last-name": "Gage"
@@ -469,8 +451,7 @@
     },
     "paragraph_18": {
       "type": "paragraph",
-      "id": "paragraph_18",
-      "content": ""
+      "id": "paragraph_18"
     },
     "heading_s1": {
       "type": "heading",
@@ -889,19 +870,12 @@
       "type": "image",
       "id": "image_fig1",
       "label": "Figure 1.",
-      "url": "",
-      "object_id": "F1",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00312/svg/elife00312f001.svg",
       "title": "Induction of tag (tau-LacZ) expression by removing dox treatment.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00312.003",
       "caption": "paragraph_image_fig1",
-      "graphic_id": "elife00312f001"
+      "graphic_id": "elife00312f001",
+      "format": "image"
     },
     "paragraph_image_fig1": {
       "type": "paragraph",
@@ -1120,19 +1094,12 @@
       "type": "image",
       "id": "image_fig1s1",
       "label": "Figure 1—figure supplement 1.",
-      "url": "",
-      "object_id": "F2",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00312/svg/elife00312fs001.svg",
       "title": "The TetTag system.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig1"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00312.004",
       "caption": "paragraph_image_fig1s1",
-      "graphic_id": "elife00312fs001"
+      "graphic_id": "elife00312fs001",
+      "format": "image"
     },
     "paragraph_image_fig1s1": {
       "type": "paragraph",
@@ -1208,19 +1175,12 @@
       "type": "image",
       "id": "image_fig1s2",
       "label": "Figure 1—figure supplement 2.",
-      "url": "",
-      "object_id": "F3",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00312/svg/elife00312fs002.svg",
       "title": "Induction of tau-LacZ expression in the hippocampus by removing mice from dox treatment.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig1"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00312.005",
       "caption": "paragraph_image_fig1s2",
-      "graphic_id": "elife00312fs002"
+      "graphic_id": "elife00312fs002",
+      "format": "image"
     },
     "paragraph_image_fig1s2": {
       "type": "paragraph",
@@ -1374,19 +1334,12 @@
       "type": "image",
       "id": "image_fig1s3",
       "label": "Figure 1—figure supplement 3.",
-      "url": "",
-      "object_id": "F4",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00312/svg/elife00312fs003.svg",
       "title": "Quantification of activities and FOS intensity in mice exposed to an enriched environment during the dox-off window.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig1"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00312.006",
       "caption": "paragraph_image_fig1s3",
-      "graphic_id": "elife00312fs003"
+      "graphic_id": "elife00312fs003",
+      "format": "image"
     },
     "paragraph_image_fig1s3": {
       "type": "paragraph",
@@ -1706,19 +1659,12 @@
       "type": "image",
       "id": "image_fig2",
       "label": "Figure 2.",
-      "url": "",
-      "object_id": "F5",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00312/svg/elife00312f002.svg",
       "title": "Activity-dependent induction of tag (tau-LacZ) expression.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00312.007",
       "caption": "paragraph_image_fig2",
-      "graphic_id": "elife00312f002"
+      "graphic_id": "elife00312f002",
+      "format": "image"
     },
     "paragraph_image_fig2": {
       "type": "paragraph",
@@ -1911,19 +1857,12 @@
       "type": "image",
       "id": "image_fig2s1",
       "label": "Figure 2—figure supplement 1.",
-      "url": "",
-      "object_id": "F6",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00312/svg/elife00312fs004.svg",
       "title": "Contexts used for contextual fear conditioning.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig2"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00312.008",
       "caption": "paragraph_image_fig2s1",
-      "graphic_id": "elife00312fs004"
+      "graphic_id": "elife00312fs004",
+      "format": "image"
     },
     "paragraph_image_fig2s1": {
       "type": "paragraph",
@@ -2141,19 +2080,12 @@
       "type": "image",
       "id": "image_fig3",
       "label": "Figure 3.",
-      "url": "",
-      "object_id": "F7",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00312/svg/elife00312f003.svg",
       "title": "Memory recall preferentially reactivates the neuron population in response to learning in CA1 but not in the DG.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00312.009",
       "caption": "paragraph_image_fig3",
-      "graphic_id": "elife00312f003"
+      "graphic_id": "elife00312f003",
+      "format": "image"
     },
     "paragraph_image_fig3": {
       "type": "paragraph",
@@ -2320,19 +2252,11 @@
       "type": "image",
       "id": "image_fig3s1",
       "label": "Figure 3—figure supplement 1.",
-      "url": "",
-      "object_id": "F8",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00312/svg/elife00312fs005.svg",
       "title": "Representative confocal images illustrating the expression of IEGs and LacZ in CA1 (tau-LacZ in green, FOS in red, RBFOX3 in blue) and the DG (tau-LacZ in green, EGR1 in red, DAPI in blue).",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig3"
-      ],
-      "doi": "",
       "caption": "paragraph_image_fig3s1",
-      "graphic_id": "elife00312fs005"
+      "graphic_id": "elife00312fs005",
+      "format": "image"
     },
     "paragraph_image_fig3s1": {
       "type": "paragraph",
@@ -2370,19 +2294,12 @@
       "type": "image",
       "id": "image_fig3s2",
       "label": "Figure 3—figure supplement 2.",
-      "url": "",
-      "object_id": "F9",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00312/svg/elife00312fs006.svg",
       "title": "Quantification of the entire z-series of confocal images in the DG for the contextual fear conditioning experiment 1.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig3"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00312.011",
       "caption": "paragraph_image_fig3s2",
-      "graphic_id": "elife00312fs006"
+      "graphic_id": "elife00312fs006",
+      "format": "image"
     },
     "paragraph_image_fig3s2": {
       "type": "paragraph",
@@ -2974,19 +2891,12 @@
       "type": "image",
       "id": "image_fig4",
       "label": "Figure 4.",
-      "url": "",
-      "object_id": "F10",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00312/svg/elife00312f004.svg",
       "title": "Similar results are obtained in the activity analysis of DGCs using either FOS or EGR1 as IEG markers in the same cohort of mice.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00312.012",
       "caption": "paragraph_image_fig4",
-      "graphic_id": "elife00312f004"
+      "graphic_id": "elife00312f004",
+      "format": "image"
     },
     "paragraph_image_fig4": {
       "type": "paragraph",
@@ -3171,19 +3081,12 @@
       "type": "image",
       "id": "image_fig5",
       "label": "Figure 5.",
-      "url": "",
-      "object_id": "F11",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00312/svg/elife00312f005.svg",
       "title": "Neither home cage activity nor emotional value of context has a significant impact on reactivation patterns in CA1 and DG.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00312.013",
       "caption": "paragraph_image_fig5",
-      "graphic_id": "elife00312f005"
+      "graphic_id": "elife00312f005",
+      "format": "image"
     },
     "paragraph_image_fig5": {
       "type": "paragraph",
@@ -3640,19 +3543,12 @@
       "type": "image",
       "id": "image_fig6",
       "label": "Figure 6.",
-      "url": "",
-      "object_id": "F12",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00312/svg/elife00312f006.svg",
       "title": "Population activities in the DG but not CA1 are sensitive to small changes in environmental inputs.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00312.014",
       "caption": "paragraph_image_fig6",
-      "graphic_id": "elife00312f006"
+      "graphic_id": "elife00312f006",
+      "format": "image"
     },
     "paragraph_image_fig6": {
       "type": "paragraph",
@@ -4192,19 +4088,12 @@
       "type": "image",
       "id": "image_fig7",
       "label": "Figure 7.",
-      "url": "",
-      "object_id": "F13",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00312/svg/elife00312f007.svg",
       "title": "A model for population codes in CA1 and the DG during learning and memory.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00312.015",
       "caption": "paragraph_image_fig7",
-      "graphic_id": "elife00312f007"
+      "graphic_id": "elife00312f007",
+      "format": "image"
     },
     "paragraph_image_fig7": {
       "type": "paragraph",
@@ -4524,19 +4413,12 @@
       "type": "image",
       "id": "image_fig8",
       "label": "Figure 8.",
-      "url": "",
-      "object_id": "F14",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00312/svg/elife00312f008.svg",
       "title": "Comparison of the location of the LacZ-positive and EGR1-positive DGCs with that of adult-born granule cells in the granule cell layer of the DG.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00312.016",
       "caption": "paragraph_image_fig8",
-      "graphic_id": "elife00312f008"
+      "graphic_id": "elife00312f008",
+      "format": "image"
     },
     "paragraph_image_fig8": {
       "type": "paragraph",
@@ -4682,19 +4564,12 @@
       "type": "image",
       "id": "image_fig9",
       "label": "Figure 9.",
-      "url": "",
-      "object_id": "F15",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00312/svg/elife00312f009.svg",
       "title": "Correlations between reactivation indexes and behavioral performance in the contextual fear conditioning experiments.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00312.017",
       "caption": "paragraph_image_fig9",
-      "graphic_id": "elife00312f009"
+      "graphic_id": "elife00312f009",
+      "format": "image"
     },
     "paragraph_image_fig9": {
       "type": "paragraph",
@@ -5156,16 +5031,14 @@
     "formula_eqn1": {
       "type": "formula",
       "id": "formula_eqn1",
-      "label": "",
       "content": "<mml:mrow><mml:mi mathvariant=italic>activation rate</mml:mi><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:mi mathvariant=italic>the number of FOS</mml:mi><mml:mo>+</mml:mo><mml:mi mathvariant=italic>cells</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant=italic>the number of RBFOX</mml:mi><mml:mn>3</mml:mn><mml:mo>+</mml:mo><mml:mi mathvariant=italic>cells</mml:mi></mml:mrow></mml:mfrac><mml:mo>,</mml:mo></mml:mrow>",
-      "format": "mml"
+      "format": "mathml"
     },
     "formula_fx2": {
       "type": "formula",
       "id": "formula_fx2",
-      "label": "",
       "content": "<mml:mrow><mml:mi mathvariant=italic>reactivation rate</mml:mi><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:mi mathvariant=italic>the number of FOS</mml:mi><mml:mo>+</mml:mo><mml:mi mathvariant=italic>LacZ</mml:mi><mml:mo>+</mml:mo><mml:mi mathvariant=italic>cells</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant=italic>the number of LacZ</mml:mi><mml:mo>+</mml:mo><mml:mi mathvariant=italic>cells</mml:mi></mml:mrow></mml:mfrac><mml:mo>.</mml:mo></mml:mrow>",
-      "format": "mml"
+      "format": "mathml"
     },
     "heading_s4-4-2": {
       "type": "heading",
@@ -5221,16 +5094,14 @@
     "formula_fx3": {
       "type": "formula",
       "id": "formula_fx3",
-      "label": "",
       "content": "<mml:mrow><mml:mi mathvariant=italic>activation rate</mml:mi><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:mi mathvariant=italic>the number of EGR</mml:mi><mml:mn>1</mml:mn><mml:mo>+</mml:mo><mml:mi mathvariant=italic>cells</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant=italic>the number of DAPI</mml:mi><mml:mo>+</mml:mo><mml:mi mathvariant=italic>cells</mml:mi></mml:mrow></mml:mfrac><mml:mo>,</mml:mo></mml:mrow>",
-      "format": "mml"
+      "format": "mathml"
     },
     "formula_fx4": {
       "type": "formula",
       "id": "formula_fx4",
-      "label": "",
       "content": "<mml:mrow><mml:mi mathvariant=italic>reactivation rate</mml:mi><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:mi mathvariant=italic>the number of EGR</mml:mi><mml:mn>1</mml:mn><mml:mo>+</mml:mo><mml:mi mathvariant=italic>LacZ</mml:mi><mml:mo>+</mml:mo><mml:mi mathvariant=italic>cells</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant=italic>the number of LacZ</mml:mi><mml:mo>+</mml:mo><mml:mi mathvariant=italic>cells</mml:mi></mml:mrow></mml:mfrac><mml:mo>.</mml:mo></mml:mrow>",
-      "format": "mml"
+      "format": "mathml"
     },
     "paragraph_364": {
       "type": "paragraph",
@@ -5240,9 +5111,8 @@
     "formula_fx5": {
       "type": "formula",
       "id": "formula_fx5",
-      "label": "",
       "content": "<mml:mrow><mml:mrow><mml:mi mathvariant=italic>total number of DGCs in images</mml:mi></mml:mrow><mml:mo>=</mml:mo><mml:mrow><mml:mi mathvariant=italic>DG area</mml:mi><mml:mo>×</mml:mo><mml:mi mathvariant=italic>depth</mml:mi><mml:mo>×</mml:mo><mml:mi mathvariant=italic>DGC density</mml:mi></mml:mrow><mml:mo>,</mml:mo></mml:mrow>",
-      "format": "mml"
+      "format": "mathml"
     },
     "paragraph_365": {
       "type": "paragraph",
@@ -5278,16 +5148,14 @@
     "formula_fx6": {
       "type": "formula",
       "id": "formula_fx6",
-      "label": "",
       "content": "<mml:mrow><mml:mi mathvariant=italic>activation rate</mml:mi><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:mi mathvariant=italic>the number of EGR</mml:mi><mml:mn>1</mml:mn><mml:mo>+</mml:mo><mml:mi mathvariant=italic>cells</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant=italic>total number of DGCs in images</mml:mi></mml:mrow></mml:mfrac><mml:mo>,</mml:mo></mml:mrow>",
-      "format": "mml"
+      "format": "mathml"
     },
     "formula_fx7": {
       "type": "formula",
       "id": "formula_fx7",
-      "label": "",
       "content": "<mml:mrow><mml:mi mathvariant=italic>reactivation rate</mml:mi><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:mi mathvariant=italic>the number of EGR</mml:mi><mml:mn>1</mml:mn><mml:mo>+</mml:mo><mml:mi mathvariant=italic>LacZ</mml:mi><mml:mo>+</mml:mo><mml:mi mathvariant=italic>cells</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant=italic>the number of LacZ</mml:mi><mml:mo>+</mml:mo><mml:mi mathvariant=italic>cells</mml:mi></mml:mrow></mml:mfrac><mml:mo>.</mml:mo></mml:mrow>",
-      "format": "mml"
+      "format": "mathml"
     },
     "paragraph_368": {
       "type": "paragraph",
@@ -5335,9 +5203,8 @@
     "formula_fx8": {
       "type": "formula",
       "id": "formula_fx8",
-      "label": "",
       "content": "<mml:mrow><mml:mi mathvariant=italic>reactivation index</mml:mi><mml:mo>=</mml:mo><mml:msub><mml:mi mathvariant=italic>log</mml:mi><mml:mrow><mml:mn>10</mml:mn></mml:mrow></mml:msub><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mfrac><mml:mrow><mml:mi mathvariant=italic>reactivation rate</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant=italic>activation rate</mml:mi></mml:mrow></mml:mfrac></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:mo>.</mml:mo></mml:mrow>",
-      "format": "mml"
+      "format": "mathml"
     },
     "paragraph_372": {
       "type": "paragraph",
@@ -5439,11 +5306,9 @@
       "id": "table_tbl1",
       "label": "Table 1.",
       "content": "<table><thead><tr><td rowspan=2></td><td>CFC experiment 1</td><td>CFC experiment 2</td></tr><tr><th>preA</th><th>preC</th><th>testA</th><th>testB</th></tr></thead><tbody><tr><td>n</td><td>12</td><td>11</td><td>10</td><td>11</td></tr><tr><td>CA1</td><td>486 ± 43</td><td>533 ± 26</td><td>544 ± 27</td><td>573 ± 20</td></tr><tr><td>DG<sup>*</sup></td><td>4492 ± 222</td><td>4267 ± 345</td><td>2575 ± 177</td><td>2590 ± 102</td></tr></tbody></table>",
-      "title": "",
       "footers": [],
       "doi": "http://dx.doi.org/10.7554/eLife.00312.018",
-      "caption": "paragraph_table_tbl1",
-      "format": ""
+      "caption": "paragraph_table_tbl1"
     },
     "paragraph_table_tbl1": {
       "type": "paragraph",
@@ -5453,8 +5318,7 @@
     "footer_tblfn1": {
       "type": "footer",
       "id": "footer_tblfn1",
-      "content": "*",
-      "label": ""
+      "content": "*"
     },
     "paragraph_380": {
       "type": "paragraph",
@@ -5533,17 +5397,11 @@
       "year": "2011",
       "volume": "70",
       "source": "Neuron",
-      "issue": "",
       "fpage": "589",
       "lpage": "96",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.neuron.2011.05.010",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib2": {
@@ -5579,17 +5437,11 @@
       "year": "2010",
       "volume": "20",
       "source": "Hippocampus",
-      "issue": "",
       "fpage": "1109",
       "lpage": "23",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1002/hipo.20810",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib3": {
@@ -5613,17 +5465,11 @@
       "year": "2002",
       "volume": "134",
       "source": "Behav Brain Res",
-      "issue": "",
       "fpage": "299",
       "lpage": "306",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/S0166-4328(02)00045-1",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib4": {
@@ -5643,17 +5489,11 @@
       "year": "2001",
       "volume": "435",
       "source": "J Comp Neurol",
-      "issue": "",
       "fpage": "406",
       "lpage": "17",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1002/cne.1040",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib5": {
@@ -5689,17 +5529,11 @@
       "year": "2005",
       "volume": "15",
       "source": "Hippocampus",
-      "issue": "",
       "fpage": "579",
       "lpage": "86",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1002/hipo.20091",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib6": {
@@ -5735,17 +5569,11 @@
       "year": "2009",
       "volume": "325",
       "source": "Science",
-      "issue": "",
       "fpage": "210",
       "lpage": "3",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1126/science.1173215",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib7": {
@@ -5777,17 +5605,11 @@
       "year": "2010",
       "volume": "107",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "2367",
       "lpage": "72",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1073/pnas.0911725107",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib8": {
@@ -5811,17 +5633,11 @@
       "year": "2010",
       "volume": "11",
       "source": "Nat Rev Neurosci",
-      "issue": "",
       "fpage": "339",
       "lpage": "50",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nrn2822",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib9": {
@@ -5849,17 +5665,11 @@
       "year": "2010",
       "volume": "13",
       "source": "Nat Neurosci",
-      "issue": "",
       "fpage": "995",
       "lpage": "1002",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nn.2599",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib10": {
@@ -5875,17 +5685,11 @@
       "year": "1990",
       "volume": "18",
       "source": "Anim Learn Behav",
-      "issue": "",
       "fpage": "264",
       "lpage": "70",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.3758/BF03205285",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib11": {
@@ -5901,17 +5705,11 @@
       "year": "2000",
       "volume": "110",
       "source": "Behav Brain Res",
-      "issue": "",
       "fpage": "73",
       "lpage": "81",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/S0166-4328(99)00186-2",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib12": {
@@ -5927,17 +5725,11 @@
       "year": "2010",
       "volume": "14",
       "source": "Trends Cogn Sci",
-      "issue": "",
       "fpage": "7",
       "lpage": "15",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.tics.2009.10.008",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib13": {
@@ -5961,17 +5753,11 @@
       "year": "2001",
       "volume": "11",
       "source": "Hippocampus",
-      "issue": "",
       "fpage": "626",
       "lpage": "36",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1002/hipo.1077",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib14": {
@@ -5995,17 +5781,11 @@
       "year": "2008",
       "volume": "122",
       "source": "Behav Neurosci",
-      "issue": "",
       "fpage": "16",
       "lpage": "26",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1037/0735-7044.122.1.16",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib15": {
@@ -6041,17 +5821,11 @@
       "year": "2011",
       "volume": "147",
       "source": "Cell",
-      "issue": "",
       "fpage": "678",
       "lpage": "89",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.cell.2011.09.033",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib16": {
@@ -6087,17 +5861,11 @@
       "year": "2005",
       "volume": "15",
       "source": "Curr Opin Neurobiol",
-      "issue": "",
       "fpage": "599",
       "lpage": "606",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.conb.2005.08.018",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib17": {
@@ -6133,17 +5901,11 @@
       "year": "2009",
       "volume": "323",
       "source": "Science",
-      "issue": "",
       "fpage": "1492",
       "lpage": "6",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1126/science.1164139",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib18": {
@@ -6159,17 +5921,11 @@
       "year": "2007",
       "volume": "163",
       "source": "Prog Brain Res",
-      "issue": "",
       "fpage": "217",
       "lpage": "32",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/S0079-6123(07)63013-1",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib19": {
@@ -6193,17 +5949,10 @@
       "year": "1998",
       "volume": "18",
       "source": "J Neurosci",
-      "issue": "",
       "fpage": "3206",
       "lpage": "12",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib20": {
@@ -6227,17 +5976,11 @@
       "year": "2000",
       "volume": "73",
       "source": "Neurobiol Learn Mem",
-      "issue": "",
       "fpage": "243",
       "lpage": "57",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1006/nlme.1999.3931",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib21": {
@@ -6257,17 +6000,11 @@
       "year": "2004",
       "volume": "14",
       "source": "Hippocampus",
-      "issue": "",
       "fpage": "66",
       "lpage": "76",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1002/hipo.10167",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib22": {
@@ -6295,17 +6032,11 @@
       "year": "2007",
       "volume": "315",
       "source": "Science",
-      "issue": "",
       "fpage": "961",
       "lpage": "6",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1126/science.1135801",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib23": {
@@ -6337,17 +6068,11 @@
       "year": "2004",
       "volume": "305",
       "source": "Science",
-      "issue": "",
       "fpage": "1295",
       "lpage": "8",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1126/science.1100265",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib24": {
@@ -6383,17 +6108,11 @@
       "year": "2012",
       "volume": "484",
       "source": "Nature",
-      "issue": "",
       "fpage": "381",
       "lpage": "5",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nature11028",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib25": {
@@ -6409,17 +6128,11 @@
       "year": "1971",
       "volume": "262",
       "source": "Philos Trans R Soc Lond B Biol Sci",
-      "issue": "",
       "fpage": "23",
       "lpage": "81",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1098/rstb.1971.0078",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib26": {
@@ -6455,17 +6168,11 @@
       "year": "2010",
       "volume": "518",
       "source": "J Comp Neurol",
-      "issue": "",
       "fpage": "4479",
       "lpage": "90",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1002/cne.22489",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib27": {
@@ -6501,17 +6208,11 @@
       "year": "2007",
       "volume": "317",
       "source": "Science",
-      "issue": "",
       "fpage": "94",
       "lpage": "9",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1126/science.1140263",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib28": {
@@ -6547,17 +6248,11 @@
       "year": "2012",
       "volume": "149",
       "source": "Cell",
-      "issue": "",
       "fpage": "188",
       "lpage": "201",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.cell.2012.01.046",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib29": {
@@ -6577,17 +6272,11 @@
       "year": "2012",
       "volume": "32",
       "source": "J Neurosci",
-      "issue": "",
       "fpage": "3848",
       "lpage": "58",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1523/JNEUROSCI.6038-11.2012",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib30": {
@@ -6607,17 +6296,11 @@
       "year": "1994",
       "volume": "4",
       "source": "Hippocampus",
-      "issue": "",
       "fpage": "661",
       "lpage": "82",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1002/hipo.450040605",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib31": {
@@ -6653,17 +6336,11 @@
       "year": "2011",
       "volume": "334",
       "source": "Science",
-      "issue": "",
       "fpage": "1669",
       "lpage": "75",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1126/science.1208049",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib32": {
@@ -6691,17 +6368,11 @@
       "year": "2007",
       "volume": "317",
       "source": "Science",
-      "issue": "",
       "fpage": "1230",
       "lpage": "3",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1126/science.1143839",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib33": {
@@ -6737,17 +6408,11 @@
       "year": "1999",
       "volume": "2",
       "source": "Nat Neurosci",
-      "issue": "",
       "fpage": "898",
       "lpage": "905",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/13202",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib34": {
@@ -6763,17 +6428,11 @@
       "year": "2010",
       "volume": "215",
       "source": "Behav Brain Res",
-      "issue": "",
       "fpage": "180",
       "lpage": "96",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.bbr.2010.03.027",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib35": {
@@ -6793,17 +6452,11 @@
       "year": "2006",
       "volume": "79",
       "source": "Prog Neurobiol",
-      "issue": "",
       "fpage": "1",
       "lpage": "48",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.pneurobio.2006.04.005",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib36": {
@@ -6827,17 +6480,11 @@
       "year": "2002",
       "volume": "116",
       "source": "Behav Neurosci",
-      "issue": "",
       "fpage": "530",
       "lpage": "8",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1037/0735-7044.116.4.530",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib37": {
@@ -6857,17 +6504,11 @@
       "year": "2001",
       "volume": "1",
       "source": "Cogn Affect Behav Neurosci",
-      "issue": "",
       "fpage": "66",
       "lpage": "82",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.3758/CABN.1.1.66",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib38": {
@@ -6899,17 +6540,11 @@
       "year": "2009",
       "volume": "326",
       "source": "Science",
-      "issue": "",
       "fpage": "391",
       "lpage": "5",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1126/science.1174519",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib39": {
@@ -6925,17 +6560,11 @@
       "year": "1992",
       "volume": "99",
       "source": "Psychol Rev",
-      "issue": "",
       "fpage": "195",
       "lpage": "231",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1037/0033-295X.99.2.195",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib40": {
@@ -6955,17 +6584,11 @@
       "year": "2004",
       "volume": "118",
       "source": "Behav Neurosci",
-      "issue": "",
       "fpage": "253",
       "lpage": "7",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1037/0735-7044.118.1.253",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib41": {
@@ -6985,17 +6608,11 @@
       "year": "1992",
       "volume": "2",
       "source": "Hippocampus",
-      "issue": "",
       "fpage": "189",
       "lpage": "99",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1002/hipo.450020209",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib42": {
@@ -7015,17 +6632,11 @@
       "year": "1994",
       "volume": "4",
       "source": "Hippocampus",
-      "issue": "",
       "fpage": "374",
       "lpage": "91",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1002/hipo.450040319",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "sub-article": {

@@ -168,7 +168,6 @@
       "accepted_on": "2012-09-25",
       "published_on": "2012-12-13",
       "journal": "eLife",
-      "article_type": "",
       "keywords": [
         "enzyme kinetics",
         "adult survival",
@@ -184,10 +183,9 @@
         "Human biology and medicine",
         "Microbiology and infectious disease"
       ],
-      "pdf_link": "",
-      "xml_link": "",
-      "json_link": "",
-      "doi": ""
+      "xml_link": "https://s3.amazonaws.com/elife-cdn/elife-articles/00051/elife00051.xml",
+      "json_link": "https://s3.amazonaws.com/elife-cdn/elife-articles/00051/00051.json",
+      "doi": "http://dx.doi.org/10.7554/eLife.00051"
     },
     "person_author_1414": {
       "type": "person",
@@ -196,7 +194,6 @@
       "last-name": "Hum",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article",
       "email": "email_cor1",
       "funding": [
@@ -212,9 +209,7 @@
       "last-name": "Jha",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Analysis and interpretation of data, Drafting or revising the article",
-      "email": "",
       "funding": [
         "funding_par_5"
       ]
@@ -226,9 +221,7 @@
       "last-name": "McGahan",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Analysis and interpretation of data, Drafting or revising the article",
-      "email": "",
       "funding": [
         "funding_par_4"
       ]
@@ -240,9 +233,7 @@
       "last-name": "Cheng",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Analysis and interpretation of data, Drafting or revising the article",
-      "email": "",
       "funding": [
         "funding_par_3"
       ]
@@ -252,36 +243,28 @@
       "id": "institution_aff1",
       "name": "University of Toronto",
       "city": "Toronto",
-      "country": "Canada",
-      "email": "",
-      "image": ""
+      "country": "Canada"
     },
     "institution_aff2": {
       "type": "institution",
       "id": "institution_aff2",
       "name": "University of Toronto",
       "city": "Toronto",
-      "country": "Canada",
-      "email": "",
-      "image": ""
+      "country": "Canada"
     },
     "institution_aff3": {
       "type": "institution",
       "id": "institution_aff3",
       "name": "St Michael's Hospital",
       "city": "Toronto",
-      "country": "Canada",
-      "email": "",
-      "image": ""
+      "country": "Canada"
     },
     "institution_aff4": {
       "type": "institution",
       "id": "institution_aff4",
       "name": "University of Toronto",
       "city": "Toronto",
-      "country": "Canada",
-      "email": "",
-      "image": ""
+      "country": "Canada"
     },
     "person_1": {
       "type": "person",
@@ -290,9 +273,6 @@
       "last-name": "Franco",
       "role": "editor",
       "affiliations": [],
-      "image": "",
-      "contribution": "",
-      "email": "",
       "funding": []
     },
     "info:review": {
@@ -307,7 +287,6 @@
     "email_cor1": {
       "type": "email",
       "id": "email_cor1",
-      "node": "",
       "email": "ryan.hum@mail.utoronto.ca"
     },
     "info:copyright": {
@@ -440,7 +419,6 @@
       "type": "funding",
       "id": "funding_par_1",
       "institution": "Canadian Institute for Health Research",
-      "accession": "",
       "person": "person_author_1414",
       "given-names": "Ryan J",
       "last-name": "Hum"
@@ -449,7 +427,6 @@
       "type": "funding",
       "id": "funding_par_2",
       "institution": "Lupina Foundation",
-      "accession": "",
       "person": "person_author_1414",
       "given-names": "Ryan J",
       "last-name": "Hum"
@@ -458,7 +435,6 @@
       "type": "funding",
       "id": "funding_par_3",
       "institution": "National Sciences and Engineering Research Council",
-      "accession": "",
       "person": "person_author_1695",
       "given-names": "Yu-Ling",
       "last-name": "Cheng"
@@ -467,7 +443,6 @@
       "type": "funding",
       "id": "funding_par_4",
       "institution": "Social Sciences and Humanities Research Council",
-      "accession": "",
       "person": "person_author_1694",
       "given-names": "Anita M",
       "last-name": "McGahan"
@@ -485,7 +460,6 @@
       "type": "funding",
       "id": "funding_par_6",
       "institution": "Metcalfe Fellowship",
-      "accession": "",
       "person": "person_author_1414",
       "given-names": "Ryan J",
       "last-name": "Hum"
@@ -501,8 +475,7 @@
     },
     "paragraph_15": {
       "type": "paragraph",
-      "id": "paragraph_15",
-      "content": ""
+      "id": "paragraph_15"
     },
     "heading_s1": {
       "type": "heading",
@@ -725,19 +698,11 @@
       "type": "image",
       "id": "image_fig1",
       "label": "Figure 1.",
-      "url": "",
-      "object_id": "F1",
-      "title": "",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00051/svg/elife00051f001.svg",
       "doi": "http://dx.doi.org/10.7554/eLife.00051.003",
       "caption": "paragraph_image_fig1",
-      "graphic_id": "elife00051f001"
+      "graphic_id": "elife00051f001",
+      "format": "image"
     },
     "paragraph_image_fig1": {
       "type": "paragraph",
@@ -882,15 +847,11 @@
       "type": "formula",
       "id": "formula_eqn1",
       "label": "[1]",
-      "content": "<mml:mrow><mml:msub><mml:mi>h</mml:mi><mml:mi>i</mml:mi></mml:msub><mml:mo>=</mml:mo><mml:mi>f</mml:mi><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:msub><mml:mi>y</mml:mi><mml:mi>i</mml:mi></mml:msub></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:mo>;</mml:mo><mml:mo> </mml:mo><mml:mtext>where</mml:mtext><mml:mo> </mml:mo><mml:mi>f</mml:mi><mml:mo>′</mml:mo><mml:mo>></mml:mo><mml:mn>0</mml:mn><mml:mo> </mml:mo><mml:mtext>and</mml:mtext><mml:mo> </mml:mo><mml:mi>f</mml:mi><mml:mo>″</mml:mo><mml:mo><</mml:mo><mml:mn>0</mml:mn><mml:mo>,</mml:mo></mml:mrow>",
-      "format": ""
+      "content": "<mml:mrow><mml:msub><mml:mi>h</mml:mi><mml:mi>i</mml:mi></mml:msub><mml:mo>=</mml:mo><mml:mi>f</mml:mi><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:msub><mml:mi>y</mml:mi><mml:mi>i</mml:mi></mml:msub></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:mo>;</mml:mo><mml:mo> </mml:mo><mml:mtext>where</mml:mtext><mml:mo> </mml:mo><mml:mi>f</mml:mi><mml:mo>′</mml:mo><mml:mo>></mml:mo><mml:mn>0</mml:mn><mml:mo> </mml:mo><mml:mtext>and</mml:mtext><mml:mo> </mml:mo><mml:mi>f</mml:mi><mml:mo>″</mml:mo><mml:mo><</mml:mo><mml:mn>0</mml:mn><mml:mo>,</mml:mo></mml:mrow>"
     },
     "formula_45": {
       "type": "formula",
       "id": "formula_45",
-      "label": "",
-      "content": "",
-      "format": "",
       "key": "content",
       "source": "paragraph_43",
       "target": "formula_eqn1",
@@ -1030,15 +991,11 @@
       "type": "formula",
       "id": "formula_eqn2",
       "label": "[2]",
-      "content": "<mml:mrow><mml:msub><mml:mtext>e</mml:mtext><mml:mn>0</mml:mn></mml:msub><mml:mo>=</mml:mo><mml:mfrac><mml:mi>a</mml:mi><mml:mrow><mml:mn>1</mml:mn><mml:mo>+</mml:mo><mml:msup><mml:mtext>e</mml:mtext><mml:mrow><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mi>b</mml:mi><mml:mo>+</mml:mo><mml:mi>c</mml:mi><mml:mo>×</mml:mo><mml:msup><mml:mi>d</mml:mi><mml:mrow><mml:mtext>GDP</mml:mtext><mml:mo>′</mml:mo></mml:mrow></mml:msup></mml:mrow><mml:mo>)</mml:mo></mml:mrow></mml:mrow></mml:msup></mml:mrow></mml:mfrac><mml:mo>,</mml:mo></mml:mrow>",
-      "format": ""
+      "content": "<mml:mrow><mml:msub><mml:mtext>e</mml:mtext><mml:mn>0</mml:mn></mml:msub><mml:mo>=</mml:mo><mml:mfrac><mml:mi>a</mml:mi><mml:mrow><mml:mn>1</mml:mn><mml:mo>+</mml:mo><mml:msup><mml:mtext>e</mml:mtext><mml:mrow><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mi>b</mml:mi><mml:mo>+</mml:mo><mml:mi>c</mml:mi><mml:mo>×</mml:mo><mml:msup><mml:mi>d</mml:mi><mml:mrow><mml:mtext>GDP</mml:mtext><mml:mo>′</mml:mo></mml:mrow></mml:msup></mml:mrow><mml:mo>)</mml:mo></mml:mrow></mml:mrow></mml:msup></mml:mrow></mml:mfrac><mml:mo>,</mml:mo></mml:mrow>"
     },
     "formula_57": {
       "type": "formula",
       "id": "formula_57",
-      "label": "",
-      "content": "",
-      "format": "",
       "key": "content",
       "source": "paragraph_54",
       "target": "formula_eqn2",
@@ -1095,15 +1052,11 @@
       "type": "formula",
       "id": "formula_eqn3",
       "label": "[3]",
-      "content": "<mml:mrow><mml:msub><mml:mtext>e</mml:mtext><mml:mn>0</mml:mn></mml:msub><mml:mo>=</mml:mo><mml:mfrac><mml:mi>c</mml:mi><mml:mrow><mml:mn>1</mml:mn><mml:mo>+</mml:mo><mml:mi>a</mml:mi><mml:mo>×</mml:mo><mml:msup><mml:mtext>e</mml:mtext><mml:mrow><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mo>−</mml:mo><mml:mi>b</mml:mi><mml:mo>×</mml:mo><mml:mtext>GDP</mml:mtext></mml:mrow><mml:mo>)</mml:mo></mml:mrow></mml:mrow></mml:msup></mml:mrow></mml:mfrac><mml:mo>,</mml:mo></mml:mrow>",
-      "format": ""
+      "content": "<mml:mrow><mml:msub><mml:mtext>e</mml:mtext><mml:mn>0</mml:mn></mml:msub><mml:mo>=</mml:mo><mml:mfrac><mml:mi>c</mml:mi><mml:mrow><mml:mn>1</mml:mn><mml:mo>+</mml:mo><mml:mi>a</mml:mi><mml:mo>×</mml:mo><mml:msup><mml:mtext>e</mml:mtext><mml:mrow><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mo>−</mml:mo><mml:mi>b</mml:mi><mml:mo>×</mml:mo><mml:mtext>GDP</mml:mtext></mml:mrow><mml:mo>)</mml:mo></mml:mrow></mml:mrow></mml:msup></mml:mrow></mml:mfrac><mml:mo>,</mml:mo></mml:mrow>"
     },
     "formula_62": {
       "type": "formula",
       "id": "formula_62",
-      "label": "",
-      "content": "",
-      "format": "",
       "key": "content",
       "source": "paragraph_58",
       "target": "formula_eqn3",
@@ -1165,15 +1118,11 @@
       "type": "formula",
       "id": "formula_eqn4",
       "label": "[4]",
-      "content": "<mml:mrow><mml:msub><mml:mtext>e</mml:mtext><mml:mn>0</mml:mn></mml:msub><mml:mo>=</mml:mo><mml:mi>a</mml:mi><mml:mo>+</mml:mo><mml:mi>b</mml:mi><mml:mo>×</mml:mo><mml:mtext>ln</mml:mtext><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mtext>GDP</mml:mtext></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:mo>.</mml:mo></mml:mrow>",
-      "format": ""
+      "content": "<mml:mrow><mml:msub><mml:mtext>e</mml:mtext><mml:mn>0</mml:mn></mml:msub><mml:mo>=</mml:mo><mml:mi>a</mml:mi><mml:mo>+</mml:mo><mml:mi>b</mml:mi><mml:mo>×</mml:mo><mml:mtext>ln</mml:mtext><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mtext>GDP</mml:mtext></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:mo>.</mml:mo></mml:mrow>"
     },
     "formula_68": {
       "type": "formula",
       "id": "formula_68",
-      "label": "",
-      "content": "",
-      "format": "",
       "key": "content",
       "source": "paragraph_67",
       "target": "formula_eqn4",
@@ -1268,15 +1217,11 @@
       "type": "formula",
       "id": "formula_eqn5",
       "label": "[5]",
-      "content": "<mml:mrow><mml:mtext>E</mml:mtext><mml:mo>+</mml:mo><mml:mtext>S</mml:mtext><mml:mo>⇌</mml:mo><mml:mtext>ES</mml:mtext><mml:mo>⇀</mml:mo><mml:mtext>E</mml:mtext><mml:mo>+</mml:mo><mml:mtext>P</mml:mtext><mml:mo>.</mml:mo></mml:mrow>",
-      "format": ""
+      "content": "<mml:mrow><mml:mtext>E</mml:mtext><mml:mo>+</mml:mo><mml:mtext>S</mml:mtext><mml:mo>⇌</mml:mo><mml:mtext>ES</mml:mtext><mml:mo>⇀</mml:mo><mml:mtext>E</mml:mtext><mml:mo>+</mml:mo><mml:mtext>P</mml:mtext><mml:mo>.</mml:mo></mml:mrow>"
     },
     "formula_76": {
       "type": "formula",
       "id": "formula_76",
-      "label": "",
-      "content": "",
-      "format": "",
       "key": "content",
       "source": "paragraph_74",
       "target": "formula_eqn5",
@@ -1463,15 +1408,11 @@
       "type": "formula",
       "id": "formula_eqn6",
       "label": "[6]",
-      "content": "<mml:mrow><mml:mi>ν</mml:mi><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:msub><mml:mi>ν</mml:mi><mml:mrow><mml:mtext>max</mml:mtext></mml:mrow></mml:msub><mml:mrow><mml:mo>[</mml:mo><mml:mi>S</mml:mi><mml:mo>]</mml:mo></mml:mrow></mml:mrow><mml:mrow><mml:mrow><mml:mo>[</mml:mo><mml:mi>S</mml:mi><mml:mo>]</mml:mo></mml:mrow><mml:mo>+</mml:mo><mml:msub><mml:mtext>K</mml:mtext><mml:mtext>m</mml:mtext></mml:msub></mml:mrow></mml:mfrac><mml:mo>.</mml:mo></mml:mrow>",
-      "format": ""
+      "content": "<mml:mrow><mml:mi>ν</mml:mi><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:msub><mml:mi>ν</mml:mi><mml:mrow><mml:mtext>max</mml:mtext></mml:mrow></mml:msub><mml:mrow><mml:mo>[</mml:mo><mml:mi>S</mml:mi><mml:mo>]</mml:mo></mml:mrow></mml:mrow><mml:mrow><mml:mrow><mml:mo>[</mml:mo><mml:mi>S</mml:mi><mml:mo>]</mml:mo></mml:mrow><mml:mo>+</mml:mo><mml:msub><mml:mtext>K</mml:mtext><mml:mtext>m</mml:mtext></mml:msub></mml:mrow></mml:mfrac><mml:mo>.</mml:mo></mml:mrow>"
     },
     "formula_91": {
       "type": "formula",
       "id": "formula_91",
-      "label": "",
-      "content": "",
-      "format": "",
       "key": "content",
       "source": "paragraph_77",
       "target": "formula_eqn6",
@@ -1502,15 +1443,11 @@
       "type": "formula",
       "id": "formula_eqn7",
       "label": "[7]",
-      "content": "<mml:mrow><mml:msub><mml:mtext>e</mml:mtext><mml:mn>0</mml:mn></mml:msub><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:msub><mml:mtext>e</mml:mtext><mml:mrow><mml:mn>0</mml:mn><mml:mo>,</mml:mo><mml:mtext>max</mml:mtext></mml:mrow></mml:msub><mml:mo>×</mml:mo><mml:mtext>GDP</mml:mtext></mml:mrow><mml:mrow><mml:mtext>GDP</mml:mtext><mml:mo>+</mml:mo><mml:msub><mml:mtext>K</mml:mtext><mml:mrow><mml:mtext>inc</mml:mtext></mml:mrow></mml:msub></mml:mrow></mml:mfrac><mml:mo>,</mml:mo></mml:mrow>",
-      "format": ""
+      "content": "<mml:mrow><mml:msub><mml:mtext>e</mml:mtext><mml:mn>0</mml:mn></mml:msub><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:msub><mml:mtext>e</mml:mtext><mml:mrow><mml:mn>0</mml:mn><mml:mo>,</mml:mo><mml:mtext>max</mml:mtext></mml:mrow></mml:msub><mml:mo>×</mml:mo><mml:mtext>GDP</mml:mtext></mml:mrow><mml:mrow><mml:mtext>GDP</mml:mtext><mml:mo>+</mml:mo><mml:msub><mml:mtext>K</mml:mtext><mml:mrow><mml:mtext>inc</mml:mtext></mml:mrow></mml:msub></mml:mrow></mml:mfrac><mml:mo>,</mml:mo></mml:mrow>"
     },
     "formula_94": {
       "type": "formula",
       "id": "formula_94",
-      "label": "",
-      "content": "",
-      "format": "",
       "key": "content",
       "source": "paragraph_92",
       "target": "formula_eqn7",
@@ -1621,15 +1558,11 @@
       "type": "formula",
       "id": "formula_eqn8",
       "label": "[8]",
-      "content": "<mml:mrow><mml:mn>5</mml:mn><mml:mtext>p</mml:mtext><mml:mn>0</mml:mn><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:mn>5</mml:mn><mml:mtext>p</mml:mtext><mml:msub><mml:mn>0</mml:mn><mml:mrow><mml:mtext>max</mml:mtext></mml:mrow></mml:msub><mml:mo>×</mml:mo><mml:mtext>GDP</mml:mtext></mml:mrow><mml:mrow><mml:mtext>GDP</mml:mtext><mml:mo>+</mml:mo><mml:msub><mml:mtext>K</mml:mtext><mml:mrow><mml:mtext>inc</mml:mtext></mml:mrow></mml:msub></mml:mrow></mml:mfrac><mml:mo>;</mml:mo></mml:mrow>",
-      "format": ""
+      "content": "<mml:mrow><mml:mn>5</mml:mn><mml:mtext>p</mml:mtext><mml:mn>0</mml:mn><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:mn>5</mml:mn><mml:mtext>p</mml:mtext><mml:msub><mml:mn>0</mml:mn><mml:mrow><mml:mtext>max</mml:mtext></mml:mrow></mml:msub><mml:mo>×</mml:mo><mml:mtext>GDP</mml:mtext></mml:mrow><mml:mrow><mml:mtext>GDP</mml:mtext><mml:mo>+</mml:mo><mml:msub><mml:mtext>K</mml:mtext><mml:mrow><mml:mtext>inc</mml:mtext></mml:mrow></mml:msub></mml:mrow></mml:mfrac><mml:mo>;</mml:mo></mml:mrow>"
     },
     "formula_105": {
       "type": "formula",
       "id": "formula_105",
-      "label": "",
-      "content": "",
-      "format": "",
       "key": "content",
       "source": "paragraph_104",
       "target": "formula_eqn8",
@@ -1642,15 +1575,11 @@
       "type": "formula",
       "id": "formula_eqn9",
       "label": "[9]",
-      "content": "<mml:mrow><mml:mn>45</mml:mn><mml:mtext>p</mml:mtext><mml:mn>15</mml:mn><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:mn>45</mml:mn><mml:mtext>p</mml:mtext><mml:msub><mml:mrow><mml:mn>15</mml:mn></mml:mrow><mml:mrow><mml:mtext>max</mml:mtext></mml:mrow></mml:msub><mml:mo>×</mml:mo><mml:mtext>GDP</mml:mtext></mml:mrow><mml:mrow><mml:mtext>GDP</mml:mtext><mml:mo>+</mml:mo><mml:msub><mml:mtext>K</mml:mtext><mml:mrow><mml:mtext>inc</mml:mtext></mml:mrow></mml:msub></mml:mrow></mml:mfrac><mml:mo>,</mml:mo></mml:mrow>",
-      "format": ""
+      "content": "<mml:mrow><mml:mn>45</mml:mn><mml:mtext>p</mml:mtext><mml:mn>15</mml:mn><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:mn>45</mml:mn><mml:mtext>p</mml:mtext><mml:msub><mml:mrow><mml:mn>15</mml:mn></mml:mrow><mml:mrow><mml:mtext>max</mml:mtext></mml:mrow></mml:msub><mml:mo>×</mml:mo><mml:mtext>GDP</mml:mtext></mml:mrow><mml:mrow><mml:mtext>GDP</mml:mtext><mml:mo>+</mml:mo><mml:msub><mml:mtext>K</mml:mtext><mml:mrow><mml:mtext>inc</mml:mtext></mml:mrow></mml:msub></mml:mrow></mml:mfrac><mml:mo>,</mml:mo></mml:mrow>"
     },
     "formula_106": {
       "type": "formula",
       "id": "formula_106",
-      "label": "",
-      "content": "",
-      "format": "",
       "key": "content",
       "source": "formula_eqn8",
       "target": "formula_eqn9",
@@ -1796,19 +1725,11 @@
       "type": "image",
       "id": "image_fig2",
       "label": "Figure 2.",
-      "url": "",
-      "object_id": "F2",
-      "title": "",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00051/svg/elife00051f002.svg",
       "doi": "http://dx.xoi.org/10.7554/eLife.00051.004",
       "caption": "paragraph_image_fig2",
-      "graphic_id": "elife00051f002"
+      "graphic_id": "elife00051f002",
+      "format": "image"
     },
     "paragraph_image_fig2": {
       "type": "paragraph",
@@ -1846,11 +1767,9 @@
       "id": "table_tbl1",
       "label": "Table 1.",
       "content": "<table><thead><tr><td rowspan=3>Year</td><td rowspan=3>n</td><td rowspan=3>R<sup>2</sup></td><td>MaxLife expectancy (LEmax, years)</td><td rowspan=3>5% trimmed mean LE for high-income countries</td><td>Income require for varying levels of LEmax</td></tr><tr><td rowspan=2>Full sample</td><td rowspan=2>95% random sample</td><td>Critical income (K<sub>inc</sub>, 50%)</td><td rowspan=2>66.70%</td><td rowspan=2>80%</td><td rowspan=2>90%</td></tr><tr><td>Full sample</td><td>95% random sample</td></tr></thead><tbody><tr><td>1970</td><td>148</td><td>0.535</td><td>67.8 (65.4–70.1)</td><td>67.6</td><td>66.7</td><td>1.48 (1.18–1.78)</td><td>1.43</td><td>2.96</td><td>5.92</td><td>13.32</td></tr><tr><td>1975</td><td>148</td><td>0.574</td><td>69.3 (67.2–71.4)</td><td>69.2</td><td>70.3</td><td>1.50 (1.22–1.77)</td><td>1.53</td><td>3.00</td><td>6.00</td><td>13.50</td></tr><tr><td>1980</td><td>149</td><td>0.668</td><td>71.3 (69.6–73.0)</td><td>71.1</td><td>71.8</td><td>1.51 (1.28–1.74)</td><td>1.46</td><td>3.02</td><td>6.04</td><td>13.59</td></tr><tr><td>1985</td><td>152</td><td>0.716</td><td>73.2 (71.8–74.8)</td><td>73.1</td><td>73.2</td><td>1.50 (1.29–1.70)</td><td>1.46</td><td>3.00</td><td>6.00</td><td>13.50</td></tr><tr><td>1990</td><td>164</td><td>0.735</td><td>74.6 (73.2–75.9)</td><td>73.5</td><td>74.3</td><td>1.45 (1.27–1.63)</td><td>1.34</td><td>2.90</td><td>5.80</td><td>13.05</td></tr><tr><td>1995</td><td>177</td><td>0.677</td><td>75.0 (73.6–76.4)</td><td>74.8</td><td>75.4</td><td>1.31 (1.13–1.49)</td><td>1.27</td><td>2.62</td><td>5.24</td><td>11.79</td></tr><tr><td>2000</td><td>178</td><td>0.64</td><td>75.2 (73.8–76.7)</td><td>75.3</td><td>76.2</td><td>1.27 (1.08–1.46)</td><td>1.27</td><td>2.54</td><td>5.08</td><td>11.43</td></tr><tr><td>2005</td><td>177</td><td>0.532</td><td>75.3 (73.6–76.9)</td><td>75.6</td><td>76.5</td><td>1.19 (0.97–1.41)</td><td>1.23</td><td>2.38</td><td>4.76</td><td>10.71</td></tr><tr><td>2007</td><td>172</td><td>0.521</td><td>75.5 (73.9–77.1)</td><td>75.7</td><td>76.4</td><td>1.21 (0.98–1.44)</td><td>1.22</td><td>2.42</td><td>4.84</td><td>10.89</td></tr></tbody></table>",
-      "title": "",
       "footers": [],
       "doi": "http://dx.doi.org/10.7554/eLife.00051.005",
-      "caption": "paragraph_table_tbl1",
-      "format": ""
+      "caption": "paragraph_table_tbl1"
     },
     "paragraph_table_tbl1": {
       "type": "paragraph",
@@ -1860,8 +1779,7 @@
     "footer_120": {
       "type": "footer",
       "id": "footer_120",
-      "content": "Note: All model parameters were found to be significant, p<0.0001.",
-      "label": ""
+      "content": "Note: All model parameters were found to be significant, p<0.0001."
     },
     "paragraph_121": {
       "type": "paragraph",
@@ -1899,11 +1817,9 @@
       "id": "table_tbl2",
       "label": "Table 2.",
       "content": "<table><thead><tr><td>Model</td><td>Form</td><td>R<sup>2</sup></td><td>Parameters</td></tr></thead><tbody><tr><td>Logistic</td><td><mml:math><mml:mrow><mml:mi>LE</mml:mi><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:mi>L</mml:mi><mml:msub><mml:mi>E</mml:mi><mml:mrow><mml:mtext>max</mml:mtext></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:mi>a</mml:mi><mml:mo>+</mml:mo><mml:msup><mml:mtext>e</mml:mtext><mml:mrow><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mo>−</mml:mo><mml:mi>b</mml:mi><mml:mo>×</mml:mo><mml:mtext>GDP</mml:mtext></mml:mrow><mml:mo>)</mml:mo></mml:mrow></mml:mrow></mml:msup></mml:mrow></mml:mfrac></mml:mrow></mml:math></td><td>0.745</td><td><em>LE</em><sub>max</sub> = 73.6 (72.1–75.1)</td><td><em>a</em> = 0.642 (0.546–0.739)</td><td><em>b</em> = 0.129 (0.159–0.100)</td><td>Inflection point = −3.43</td></tr><tr><td>Adapted Michaelis–Menten</td><td><mml:math><mml:mrow><mml:mi>LE</mml:mi><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:mi>L</mml:mi><mml:msub><mml:mi>E</mml:mi><mml:mrow><mml:mtext>max</mml:mtext></mml:mrow></mml:msub><mml:mo>×</mml:mo><mml:mtext>GDP</mml:mtext></mml:mrow><mml:mrow><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:msub><mml:mi>k</mml:mi><mml:mrow><mml:mtext>inc</mml:mtext></mml:mrow></mml:msub><mml:mo>+</mml:mo><mml:mtext>GDP</mml:mtext></mml:mrow><mml:mo>)</mml:mo></mml:mrow></mml:mrow></mml:mfrac></mml:mrow></mml:math></td><td>0.735</td><td><em>LE</em><sub>max</sub> = 74.6 (73.2–75.9)</td><td><em>k</em><sub>inc</sub> = 1.50 (1.29–1.70)</td></tr><tr><td>Log-linear</td><td><em>LE</em> = <em>a</em> + <em>b</em> × ln(GDP)</td><td>0.731</td><td><em>a</em> = 44.1 (42.0–46.2)</td><td><em>b</em> = 7.65 (6.93–8.37)</td></tr></tbody></table>",
-      "title": "",
       "footers": [],
       "doi": "http://dx.doi.org/10.7554/eLife.00051.006",
-      "caption": "paragraph_table_tbl2",
-      "format": ""
+      "caption": "paragraph_table_tbl2"
     },
     "paragraph_table_tbl2": {
       "type": "paragraph",
@@ -2073,19 +1989,11 @@
       "type": "image",
       "id": "image_fig3",
       "label": "Figure 3.",
-      "url": "",
-      "object_id": "F3",
-      "title": "",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00051/svg/elife00051f003.svg",
       "doi": "http://dx.doi.org/10.7554/eLife.00051.007",
       "caption": "paragraph_image_fig3",
-      "graphic_id": "elife00051f003"
+      "graphic_id": "elife00051f003",
+      "format": "image"
     },
     "paragraph_image_fig3": {
       "type": "paragraph",
@@ -2123,11 +2031,9 @@
       "id": "table_tbl3",
       "label": "Table 3.",
       "content": "<table><thead><tr><td rowspan=2>Year</td><td>Child</td><td>Female</td><td>Female (with HIV covariate)</td><td>Male</td><td>Male (with HIV covariate)</td></tr><tr><td>R<sup>2</sup></td><td>Max%</td><td>K<sub>inc</sub>, $</td><td>R<sup>2</sup></td><td>Max%</td><td>K<sub>inc</sub>, $</td><td>R<sup>2</sup></td><td>Max%</td><td>K<sub>inc</sub>, $</td><td>HIV</td><td>R<sup>2</sup></td><td>Max%</td><td>K<sub>inc</sub>, $</td><td>R<sup>2</sup></td><td>Max%</td><td>K<sub>inc</sub>, $</td><td>HIV</td></tr></thead><tbody><tr><td>1970</td><td>0.444</td><td>94.5 (92.7–96.2)</td><td>0.58 (0.46–0.70)</td><td>0.376</td><td>85.9 (84.1–87.7)</td><td>0.57 (0.43–0.70)</td><td rowspan=2 colspan=4></td><td>0.253</td><td>77.7 (75.6–79.7)</td><td>0.54 (0.38–0.71)</td><td rowspan=2 colspan=4></td></tr><tr><td>1980</td><td>0.569</td><td>96.9 (95.7–98.2)</td><td>0.57 (0.48–0.66)</td><td>0.448</td><td>88.3 (86.7–89.9)</td><td>0.62 (0.49–0.74)</td><td>0.286</td><td>79.5 (77.5–81.6)</td><td>0.65 (0.46–0.83)</td></tr><tr><td>1990</td><td>0.629</td><td>98.3 (97.4–99.2)</td><td>0.48 (0.42–0.55)</td><td>0.482</td><td>90.2 (88.7–91.8)</td><td>0.68 (0.55–0.81)</td><td>0.595</td><td>90.4 (88.8–91.4)</td><td>0.54 (0.41–0.67)</td><td>−1.8 (−1.2 to −2.4)</td><td>0.380</td><td>82.1 (80.2–84.1)</td><td>0.81 (0.62–0.99)</td><td>0.498</td><td>81.8 (79.8–83.8)</td><td>0.60 (0.42–0.79)</td><td>−2.2 (−1.3 to −2.8)</td></tr><tr><td>2000</td><td>0.530</td><td>97.9 (97.2–98.7)</td><td>0.30 (0.25–0.34)</td><td>0.377</td><td>90.2 (88.0–92.4)</td><td>0.86 (0.65–1.06)</td><td>0.787</td><td>92.1 (90.5–93.6)</td><td>0.69 (0.55–0.82)</td><td>−1.8(−1.6 to −2.0)</td><td>0.284</td><td>81.9 (79.0–84.8)</td><td>1.10 (0.77–1.43)</td><td>0.720</td><td>83.5 (81.4–85.6)</td><td>0.79 (0.57–1.00)</td><td>−2.2 (−1.9 to −2.5)</td></tr><tr><td>2005</td><td>0.466</td><td>98.0 (97.3–98.6)</td><td>0.25 (0.20–0.29)</td><td>0.323</td><td>90.1 (87.8–92.3)</td><td>0.86 (0.63–1.12)</td><td>0.803</td><td>92.4 (90.9–93.8)</td><td>0.68 (0.54–0.81)</td><td>−2.2(−1.8 to −2.5)</td><td>0.254</td><td>82.0 (79.0–85.0)</td><td>1.14 (0.81–1.58)</td><td>0.739</td><td>84.2 (82.1–86.3)</td><td>0.82 (0.59–1.04)</td><td>−2.6 (−3.0 to −2.2)</td></tr></tbody></table>",
-      "title": "",
       "footers": [],
       "doi": "http://dx.doi.org/10.7554/eLife.00051.008",
-      "caption": "paragraph_table_tbl3",
-      "format": ""
+      "caption": "paragraph_table_tbl3"
     },
     "paragraph_table_tbl3": {
       "type": "paragraph",
@@ -2137,8 +2043,7 @@
     "footer_139": {
       "type": "footer",
       "id": "footer_139",
-      "content": "Note: All model parameters were found to be significant, p<0.0001.",
-      "label": ""
+      "content": "Note: All model parameters were found to be significant, p<0.0001."
     },
     "paragraph_140": {
       "type": "paragraph",
@@ -2219,19 +2124,11 @@
       "type": "image",
       "id": "image_fig4",
       "label": "Figure 4.",
-      "url": "",
-      "object_id": "F4",
-      "title": "",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00051/svg/elife00051f004.svg",
       "doi": "http://dx.doi.org/10.7554/eLife.00051.009",
       "caption": "paragraph_image_fig4",
-      "graphic_id": "elife00051f004"
+      "graphic_id": "elife00051f004",
+      "format": "image"
     },
     "paragraph_image_fig4": {
       "type": "paragraph",
@@ -2293,19 +2190,11 @@
       "type": "image",
       "id": "image_fig5",
       "label": "Figure 5.",
-      "url": "",
-      "object_id": "F5",
-      "title": "",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00051/svg/elife00051f005.svg",
       "doi": "http://dx.doi.org/10.7554/eLife.00051.010",
       "caption": "paragraph_image_fig5",
-      "graphic_id": "elife00051f005"
+      "graphic_id": "elife00051f005",
+      "format": "image"
     },
     "paragraph_image_fig5": {
       "type": "paragraph",
@@ -2348,11 +2237,9 @@
       "id": "table_tbl4",
       "label": "Table 4.",
       "content": "<table><thead><tr><td></td><td>N</td><td>R<sup>2</sup></td><td>HIV α ($ per HIV %)</td><td>Standardized α</td><td>Smoking β ($ per cigarette per person per day)</td><td>Standardized β</td></tr></thead><tbody><tr><td>Adult male</td><td>92</td><td>0.240</td><td>0.70 (0.27–1.13)</td><td>0.302</td><td>1.70 (0.96–2.43)</td><td>0.425</td></tr><tr><td>Adult female</td><td>92</td><td>0.504</td><td>0.40 (0.31–0.49)</td><td>0.655</td><td>0.38 (0.23–0.54)</td><td>0.366</td></tr></tbody></table>",
-      "title": "",
       "footers": [],
       "doi": "http://dx.doi.org/10.7554/eLife.00051.011",
-      "caption": "paragraph_table_tbl4",
-      "format": ""
+      "caption": "paragraph_table_tbl4"
     },
     "paragraph_table_tbl4": {
       "type": "paragraph",
@@ -2362,8 +2249,7 @@
     "footer_154": {
       "type": "footer",
       "id": "footer_154",
-      "content": "Note: All model parameters were found to be significant, p<0.0001.",
-      "label": ""
+      "content": "Note: All model parameters were found to be significant, p<0.0001."
     },
     "heading_s3": {
       "type": "heading",
@@ -3005,19 +2891,11 @@
       "type": "image",
       "id": "image_fig6",
       "label": "Figure 6.",
-      "url": "",
-      "object_id": "F6",
-      "title": "",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00051/svg/elife00051f006.svg",
       "doi": "http://dx.doi.org/10.7554/eLife.00051.012",
       "caption": "paragraph_image_fig6",
-      "graphic_id": "elife00051f006"
+      "graphic_id": "elife00051f006",
+      "format": "image"
     },
     "paragraph_image_fig6": {
       "type": "paragraph",
@@ -3170,15 +3048,11 @@
       "type": "formula",
       "id": "formula_eqn10",
       "label": "[10]",
-      "content": "<mml:mrow><mml:msub><mml:mtext>K</mml:mtext><mml:mrow><mml:mtext>inc</mml:mtext></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mi>f</mml:mi><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mtext>HIV</mml:mtext><mml:mo>,</mml:mo><mml:mtext>Cig</mml:mtext></mml:mrow><mml:mo>)</mml:mo><mml:mo>,</mml:mo></mml:mrow></mml:mrow>",
-      "format": ""
+      "content": "<mml:mrow><mml:msub><mml:mtext>K</mml:mtext><mml:mrow><mml:mtext>inc</mml:mtext></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mi>f</mml:mi><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mtext>HIV</mml:mtext><mml:mo>,</mml:mo><mml:mtext>Cig</mml:mtext></mml:mrow><mml:mo>)</mml:mo><mml:mo>,</mml:mo></mml:mrow></mml:mrow>"
     },
     "formula_220": {
       "type": "formula",
       "id": "formula_220",
-      "label": "",
-      "content": "",
-      "format": "",
       "key": "content",
       "source": "paragraph_214",
       "target": "formula_eqn10",
@@ -3191,15 +3065,11 @@
       "type": "formula",
       "id": "formula_eqn11",
       "label": "[11]",
-      "content": "<mml:mrow><mml:msub><mml:mrow><mml:mi mathvariant=normal>Δ</mml:mi><mml:mtext>K</mml:mtext></mml:mrow><mml:mrow><mml:mtext>inc</mml:mtext></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mi mathvariant=normal>α</mml:mi><mml:mi mathvariant=normal>Δ</mml:mi><mml:mtext>HIV</mml:mtext><mml:mo>+</mml:mo><mml:mi>β</mml:mi><mml:mi mathvariant=normal>Δ</mml:mi><mml:mtext>Cig</mml:mtext><mml:mo>;</mml:mo><mml:mo> </mml:mo><mml:mtext>where</mml:mtext><mml:mo> </mml:mo><mml:mi>α</mml:mi><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:mo>∂</mml:mo><mml:msub><mml:mtext>K</mml:mtext><mml:mrow><mml:mtext>inc</mml:mtext></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:mo>∂</mml:mo><mml:mtext>HIV</mml:mtext></mml:mrow></mml:mfrac><mml:mo> </mml:mo><mml:mtext>and</mml:mtext><mml:mo> </mml:mo><mml:mi>β</mml:mi><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:mo>∂</mml:mo><mml:msub><mml:mtext>K</mml:mtext><mml:mrow><mml:mtext>inc</mml:mtext></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:mo>∂</mml:mo><mml:mtext>Cig</mml:mtext></mml:mrow></mml:mfrac><mml:mo>.</mml:mo></mml:mrow>",
-      "format": ""
+      "content": "<mml:mrow><mml:msub><mml:mrow><mml:mi mathvariant=normal>Δ</mml:mi><mml:mtext>K</mml:mtext></mml:mrow><mml:mrow><mml:mtext>inc</mml:mtext></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mi mathvariant=normal>α</mml:mi><mml:mi mathvariant=normal>Δ</mml:mi><mml:mtext>HIV</mml:mtext><mml:mo>+</mml:mo><mml:mi>β</mml:mi><mml:mi mathvariant=normal>Δ</mml:mi><mml:mtext>Cig</mml:mtext><mml:mo>;</mml:mo><mml:mo> </mml:mo><mml:mtext>where</mml:mtext><mml:mo> </mml:mo><mml:mi>α</mml:mi><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:mo>∂</mml:mo><mml:msub><mml:mtext>K</mml:mtext><mml:mrow><mml:mtext>inc</mml:mtext></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:mo>∂</mml:mo><mml:mtext>HIV</mml:mtext></mml:mrow></mml:mfrac><mml:mo> </mml:mo><mml:mtext>and</mml:mtext><mml:mo> </mml:mo><mml:mi>β</mml:mi><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:mo>∂</mml:mo><mml:msub><mml:mtext>K</mml:mtext><mml:mrow><mml:mtext>inc</mml:mtext></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:mo>∂</mml:mo><mml:mtext>Cig</mml:mtext></mml:mrow></mml:mfrac><mml:mo>.</mml:mo></mml:mrow>"
     },
     "formula_221": {
       "type": "formula",
       "id": "formula_221",
-      "label": "",
-      "content": "",
-      "format": "",
       "key": "content",
       "source": "formula_eqn10",
       "target": "formula_eqn11",
@@ -3265,17 +3135,24 @@
       "type": "supplement",
       "id": "supplement_SD1_data",
       "label": "Supplementary file 1.",
-      "source": "",
-      "title": "",
       "caption": "paragraph_supplement_SD1_data",
-      "content": "",
       "doi": "http://dx.doi.org/10.7554/eLife.00051.013",
-      "graphic_id": "elife00051s001.xlsx"
+      "files": [
+        "file_224"
+      ]
     },
     "paragraph_supplement_SD1_data": {
       "type": "paragraph",
       "id": "paragraph_supplement_SD1_data",
       "content": "Country specific critical incomes for adult male, adult female and children (in constant $2005 with purchasing price parity) for the years 1970, 1990 and 2007."
+    },
+    "file_224": {
+      "type": "file",
+      "id": "file_224",
+      "name": "XLSX",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00051/suppl/elife00051s001.xlsx",
+      "graphic_id": "elife00051s001.xlsx",
+      "extension": ".xlsx"
     },
     "info:dataset": {
       "type": "heading",
@@ -3345,19 +3222,11 @@
       "authors": [],
       "title": "Investing in Health Research and Development: Report of the AD Hoc Committee on Health Research Relating to Future Intervention Options, Convened Under the Auspices of the World Health Organization",
       "year": "1996",
-      "volume": "",
-      "source": "",
-      "issue": "",
-      "fpage": "",
-      "lpage": "",
       "collab": "Ad Hoc Committee on Health Research Relating to Future Intervention Options",
-      "edition": "",
       "publisher-name": "World Health Organization",
       "publisher-loc": "Geneva",
-      "doi": "",
       "citation_url": [],
       "format": "book",
-      "label": "",
       "editors": []
     },
     "article_citation_bib2": {
@@ -3393,17 +3262,10 @@
       "year": "2011a",
       "volume": "378",
       "source": "Lancet",
-      "issue": "",
       "fpage": "449",
       "lpage": "55",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib3": {
@@ -3439,17 +3301,10 @@
       "year": "2011b",
       "volume": "377",
       "source": "Lancet",
-      "issue": "",
       "fpage": "1438",
       "lpage": "47",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib4": {
@@ -3473,17 +3328,10 @@
       "year": "2011",
       "volume": "108",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "20633",
       "lpage": "8",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib5": {
@@ -3499,17 +3347,10 @@
       "year": "1925",
       "volume": "19",
       "source": "Biochem J",
-      "issue": "",
       "fpage": "1037",
       "lpage": "8",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib6": {
@@ -3525,17 +3366,10 @@
       "year": "1979",
       "volume": "33",
       "source": "Population Stud",
-      "issue": "",
       "fpage": "395",
       "lpage": "413",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib7": {
@@ -3551,17 +3385,10 @@
       "year": "1986",
       "volume": "12",
       "source": "Population and Development Review",
-      "issue": "",
       "fpage": "171",
       "lpage": "220",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib8": {
@@ -3579,19 +3406,13 @@
       ],
       "title": "Health and Well-Being in Udaipur and South Africa",
       "year": "2009",
-      "volume": "",
       "source": "Developments in the Economics of Aging",
-      "issue": "",
       "fpage": "317",
       "lpage": "349",
-      "collab": "",
-      "edition": "",
       "publisher-name": "University of Chicago Press",
       "publisher-loc": "Chicago",
-      "doi": "",
       "citation_url": [],
       "format": "book",
-      "label": "",
       "editors": [],
       "comment": "p."
     },
@@ -3612,17 +3433,10 @@
       "year": "2012",
       "volume": "40",
       "source": "World Dev",
-      "issue": "",
       "fpage": "21",
       "lpage": "35",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib10": {
@@ -3642,17 +3456,10 @@
       "year": "2004",
       "volume": "42",
       "source": "Demography",
-      "issue": "",
       "fpage": "1",
       "lpage": "22",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": [],
       "comment": "NBER Working Paper Series"
     },
@@ -3675,19 +3482,10 @@
       ],
       "title": "The determinants of mortality (No. w11963)",
       "year": "2006",
-      "volume": "",
-      "source": "",
-      "issue": "",
-      "fpage": "",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
       "publisher-name": "National Bureau of Economic Research",
       "publisher-loc": "Cambridge",
-      "doi": "",
       "citation_url": [],
       "format": "book",
-      "label": "",
       "editors": []
     },
     "article_citation_bib12": {
@@ -3723,17 +3521,10 @@
       "year": "2007",
       "volume": "450",
       "source": "Nature",
-      "issue": "",
       "fpage": "494",
       "lpage": "6",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib13": {
@@ -3769,17 +3560,10 @@
       "year": "2005",
       "volume": "2",
       "source": "Nat Chem Biol",
-      "issue": "",
       "fpage": "87",
       "lpage": "94",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib14": {
@@ -3798,14 +3582,10 @@
       "issue": "Part A",
       "fpage": "433",
       "lpage": "481",
-      "collab": "",
-      "edition": "",
       "publisher-name": "Elsevier",
       "publisher-loc": "New York",
-      "doi": "",
       "citation_url": [],
       "format": "book",
-      "label": "",
       "editors": [
         {
           "given-names": "MR",
@@ -3842,17 +3622,10 @@
       "year": "2003",
       "volume": "362",
       "source": "Lancet",
-      "issue": "",
       "fpage": "507",
       "lpage": "15",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib16": {
@@ -3880,17 +3653,10 @@
       "year": "2010",
       "volume": "376",
       "source": "Lancet",
-      "issue": "",
       "fpage": "959",
       "lpage": "74",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib17": {
@@ -3910,17 +3676,10 @@
       "year": "1979",
       "volume": "254",
       "source": "J Biol Chem",
-      "issue": "",
       "fpage": "12104",
       "lpage": "9",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib18": {
@@ -3938,19 +3697,11 @@
       ],
       "title": "Past, Current and Future Trends in Tobacco Use",
       "year": "2003",
-      "volume": "",
-      "source": "",
-      "issue": "",
-      "fpage": "",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
       "publisher-name": "Center for Tobacco Control Research and Education",
       "publisher-loc": "San Francisco",
       "doi": "http://dx.doi.org/http://escholarship.org/uc/item/4q57d5vp",
       "citation_url": [],
       "format": "book",
-      "label": "",
       "editors": []
     },
     "article_citation_bib19": {
@@ -3972,19 +3723,9 @@
       ],
       "title": "Penn World Table",
       "year": "2009",
-      "volume": "",
-      "source": "",
-      "issue": "",
-      "fpage": "",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/http://pwt.econ.upenn.edu/php_site/pwt_index.php",
       "citation_url": [],
       "format": "web",
-      "label": "",
       "editors": []
     },
     "article_citation_bib20": {
@@ -3993,19 +3734,10 @@
       "authors": [],
       "title": "Adult mortality estimates by country 1970–2010",
       "year": "2012",
-      "volume": "",
-      "source": "",
-      "issue": "",
-      "fpage": "",
-      "lpage": "",
       "collab": "Institute for Health Metrics and Evaluation",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/http://www.healthmetricsandevaluation.org/",
       "citation_url": [],
       "format": "web",
-      "label": "",
       "editors": []
     },
     "article_citation_bib21": {
@@ -4014,19 +3746,10 @@
       "authors": [],
       "title": "Disease control priorities in developing countries",
       "year": "2006",
-      "volume": "",
-      "source": "",
-      "issue": "",
-      "fpage": "",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
       "publisher-name": "Oxford University Press",
       "publisher-loc": "New York",
-      "doi": "",
       "citation_url": [],
       "format": "book",
-      "label": "",
       "editors": [
         {
           "given-names": "DT",
@@ -4063,17 +3786,10 @@
       "year": "2009",
       "volume": "9",
       "source": "Nat Rev Cancer",
-      "issue": "",
       "fpage": "655",
       "lpage": "64",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib23": {
@@ -4087,19 +3803,9 @@
       ],
       "title": "Counting the dead is one of the world’s best investments to reduce premature mortality",
       "year": "2012",
-      "volume": "",
       "source": "Hypothesis 10",
-      "issue": "",
-      "fpage": "",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib24": {
@@ -4135,17 +3841,10 @@
       "year": "2002",
       "volume": "295",
       "source": "Science",
-      "issue": "",
       "fpage": "2036",
       "lpage": "9",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib25": {
@@ -4174,20 +3873,9 @@
         }
       ],
       "title": "Chronic Disease Prevention and Control. Copenhagen Consensus 2012 Challenge Paper",
-      "year": "",
-      "volume": "",
-      "source": "",
-      "issue": "",
-      "fpage": "",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/http://www.copenhagenconsensus.com/files/Filer/CC12%20papers/Chronic%20Disease.pdf",
       "citation_url": [],
       "format": "web",
-      "label": "",
       "editors": []
     },
     "article_citation_bib26": {
@@ -4211,17 +3899,10 @@
       "year": "2003",
       "volume": "46",
       "source": "Curr Microbiol",
-      "issue": "",
       "fpage": "233",
       "lpage": "4",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib27": {
@@ -4253,17 +3934,10 @@
       "year": "2012",
       "volume": "379",
       "source": "Lancet",
-      "issue": "",
       "fpage": "2151",
       "lpage": "2161",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib28": {
@@ -4299,17 +3973,10 @@
       "year": "2000",
       "volume": "78",
       "source": "J Anim Sci",
-      "issue": "",
       "fpage": "1816",
       "lpage": "28",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib29": {
@@ -4331,19 +3998,10 @@
       ],
       "title": "The global burden of disease: 2004 update",
       "year": "2008",
-      "volume": "",
-      "source": "",
-      "issue": "",
-      "fpage": "",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
       "publisher-name": "World Health Organization",
       "publisher-loc": "Geneva",
-      "doi": "",
       "citation_url": [],
       "format": "book",
-      "label": "",
       "editors": []
     },
     "article_citation_bib30": {
@@ -4363,17 +4021,10 @@
       "year": "1913",
       "volume": "49",
       "source": "Biochem z",
-      "issue": "",
       "fpage": "333",
       "lpage": "69",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib31": {
@@ -4389,17 +4040,10 @@
       "year": "1949",
       "volume": "3",
       "source": "Annu Rev Microbiol",
-      "issue": "",
       "fpage": "371",
       "lpage": "94",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib32": {
@@ -4419,17 +4063,10 @@
       "year": "2002",
       "volume": "296",
       "source": "Science",
-      "issue": "",
       "fpage": "1029",
       "lpage": "31",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib33": {
@@ -4445,17 +4082,10 @@
       "year": "1975",
       "volume": "29",
       "source": "Population studies",
-      "issue": "",
       "fpage": "231",
       "lpage": "248",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib34": {
@@ -4491,17 +4121,10 @@
       "year": "2010",
       "volume": "375",
       "source": "Lancet",
-      "issue": "",
       "fpage": "1704",
       "lpage": "20",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib35": {
@@ -4517,17 +4140,10 @@
       "year": "2002",
       "volume": "31",
       "source": "Int J Epidemiol",
-      "issue": "",
       "fpage": "533",
       "lpage": "8",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib36": {
@@ -4537,18 +4153,10 @@
       "title": "International handbook of adult mortality",
       "year": "2011",
       "volume": "Vol. 2",
-      "source": "",
-      "issue": "",
-      "fpage": "",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
       "publisher-name": "Springer",
       "publisher-loc": "New York",
-      "doi": "",
       "citation_url": [],
       "format": "book",
-      "label": "",
       "editors": [
         {
           "given-names": "RG",
@@ -4585,17 +4193,10 @@
       "year": "2005",
       "volume": "366",
       "source": "Lancet",
-      "issue": "",
       "fpage": "1578",
       "lpage": "82",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib38": {
@@ -4631,17 +4232,10 @@
       "year": "1997",
       "volume": "11",
       "source": "AIDS",
-      "issue": "",
       "fpage": "801",
       "lpage": "7",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib39": {
@@ -4650,19 +4244,10 @@
       "authors": [],
       "title": "AIDSInfo 1.0-AIDSInfoOnline",
       "year": "2010",
-      "volume": "",
-      "source": "",
-      "issue": "",
-      "fpage": "",
-      "lpage": "",
       "collab": "UNAIDS.",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/http://www.aidsinfoonline.org/",
       "citation_url": [],
       "format": "web",
-      "label": "",
       "editors": []
     },
     "article_citation_bib40": {
@@ -4671,19 +4256,12 @@
       "authors": [],
       "title": "World Mortality Report 2011",
       "year": "2012",
-      "volume": "",
-      "source": "",
-      "issue": "",
-      "fpage": "",
-      "lpage": "",
       "collab": "Department of Economic and Social Affairs, Population Division",
-      "edition": "",
       "publisher-name": "United Nations",
       "publisher-loc": "New York",
       "doi": "http://dx.doi.org/http://www.un.org/esa/population/publications/worldmortalityreport2011/World%20Mortality%20Report%202011.pdf",
       "citation_url": [],
       "format": "book",
-      "label": "",
       "editors": []
     },
     "article_citation_bib41": {
@@ -4692,19 +4270,12 @@
       "authors": [],
       "title": "World Population Prospects: The 2010 Revision, Highlights and Advance Tables",
       "year": "2011",
-      "volume": "",
-      "source": "",
-      "issue": "",
-      "fpage": "",
-      "lpage": "",
       "collab": "Department of Economic and Social Affairs, Population Division",
-      "edition": "",
       "publisher-name": "United Nations",
       "publisher-loc": "New York",
       "doi": "http://dx.doi.org/http://esa.un.org/unpd/wpp/Excel-Data/mortality.htm",
       "citation_url": [],
       "format": "book",
-      "label": "",
       "editors": []
     },
     "article_citation_bib42": {
@@ -4713,19 +4284,10 @@
       "authors": [],
       "title": "CME Info - Child Mortality Estimates",
       "year": "2012",
-      "volume": "",
-      "source": "",
-      "issue": "",
-      "fpage": "",
-      "lpage": "",
       "collab": "UN Inter-agency for Child Mortality Estimates",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/http://www.childmortality.org/",
       "citation_url": [],
       "format": "web",
-      "label": "",
       "editors": []
     },
     "article_citation_bib43": {
@@ -4745,17 +4307,10 @@
       "year": "2009",
       "volume": "35",
       "source": "Popul Dev Rev",
-      "issue": "",
       "fpage": "159",
       "lpage": "87",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib44": {
@@ -4771,17 +4326,10 @@
       "year": "2012",
       "volume": "336",
       "source": "Science",
-      "issue": "",
       "fpage": "1372",
       "lpage": "4",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib45": {
@@ -4801,17 +4349,10 @@
       "year": "2000",
       "volume": "21",
       "source": "Annu Rev Public Health",
-      "issue": "",
       "fpage": "543",
       "lpage": "67",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib46": {
@@ -4847,17 +4388,10 @@
       "year": "2009",
       "volume": "373",
       "source": "Lancet",
-      "issue": "",
       "fpage": "2201",
       "lpage": "14",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "sub-article": {

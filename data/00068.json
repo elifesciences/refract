@@ -189,7 +189,6 @@
       "accepted_on": "2012-08-26",
       "published_on": "2012-11-13",
       "journal": "eLife",
-      "article_type": "",
       "keywords": [
         "transcription factors",
         "TATA-box-binding protein (TBP)",
@@ -205,10 +204,9 @@
       "subjects": [
         "Genes and chromosomes"
       ],
-      "pdf_link": "",
-      "xml_link": "",
-      "json_link": "",
-      "doi": ""
+      "xml_link": "https://s3.amazonaws.com/elife-cdn/elife-articles/00068/elife00068.xml",
+      "json_link": "https://s3.amazonaws.com/elife-cdn/elife-articles/00068/00068.json",
+      "doi": "http://dx.doi.org/10.7554/eLife.00068"
     },
     "person_author_1629": {
       "type": "person",
@@ -217,9 +215,7 @@
       "last-name": "Maston",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article",
-      "email": "",
       "funding": []
     },
     "person_author_1630": {
@@ -229,9 +225,7 @@
       "last-name": "Zhu",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Analysis and interpretation of data",
-      "email": "",
       "funding": []
     },
     "person_author_1631": {
@@ -241,9 +235,7 @@
       "last-name": "Chamberlain",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Acquisition of data",
-      "email": "",
       "funding": []
     },
     "person_author_1632": {
@@ -253,9 +245,7 @@
       "last-name": "Lin",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Analysis and interpretation of data, Drafting or revising the article",
-      "email": "",
       "funding": []
     },
     "person_author_2034": {
@@ -265,9 +255,6 @@
       "last-name": "Fang",
       "role": "author",
       "affiliations": [],
-      "image": "",
-      "contribution": "",
-      "email": "",
       "funding": []
     },
     "person_author_1519": {
@@ -277,8 +264,6 @@
       "last-name": "Green",
       "role": "author",
       "affiliations": [],
-      "image": "",
-      "contribution": "",
       "email": "email_cor1",
       "funding": [
         "funding_par_1",
@@ -290,27 +275,21 @@
       "id": "institution_aff1",
       "name": "University of Massachusetts Medical School",
       "city": "Worcester",
-      "country": "United States",
-      "email": "",
-      "image": ""
+      "country": "United States"
     },
     "institution_aff2": {
       "type": "institution",
       "id": "institution_aff2",
       "name": "Howard Hughes Medical Institute",
       "city": "Chevy Chase",
-      "country": "United States",
-      "email": "",
-      "image": ""
+      "country": "United States"
     },
     "institution_aff3": {
       "type": "institution",
       "id": "institution_aff3",
       "name": "University of Massachusetts Medical School",
       "city": "Worcester",
-      "country": "United States",
-      "email": "",
-      "image": ""
+      "country": "United States"
     },
     "person_1": {
       "type": "person",
@@ -319,9 +298,6 @@
       "last-name": "Kadonaga",
       "role": "editor",
       "affiliations": [],
-      "image": "",
-      "contribution": "",
-      "email": "",
       "funding": []
     },
     "info:review": {
@@ -336,7 +312,6 @@
     "email_cor1": {
       "type": "email",
       "id": "email_cor1",
-      "node": "",
       "email": "michael.green@umassmed.edu"
     },
     "info:copyright": {
@@ -499,8 +474,7 @@
     },
     "paragraph_16": {
       "type": "paragraph",
-      "id": "paragraph_16",
-      "content": ""
+      "id": "paragraph_16"
     },
     "heading_s1": {
       "type": "heading",
@@ -952,19 +926,12 @@
       "type": "image",
       "id": "image_fig1",
       "label": "Figure 1.",
-      "url": "",
-      "object_id": "F1",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00068/svg/elife00068f001.svg",
       "title": "Undifferentiated hESCs express only a subset of TFIID TAFs.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00068.003",
       "caption": "paragraph_image_fig1",
-      "graphic_id": "elife00068f001"
+      "graphic_id": "elife00068f001",
+      "format": "image"
     },
     "paragraph_image_fig1": {
       "type": "paragraph",
@@ -1040,19 +1007,12 @@
       "type": "image",
       "id": "image_fig1s1",
       "label": "Figure 1—figure supplement 1.",
-      "url": "",
-      "object_id": "F2",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00068/svg/elife00068fs001.svg",
       "title": "Confirmation of specificity of TAF antibodies by RNAi-mediated knockdown in H9 hESCs.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig1"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00068.004",
       "caption": "paragraph_image_fig1s1",
-      "graphic_id": "elife00068fs001"
+      "graphic_id": "elife00068fs001",
+      "format": "image"
     },
     "paragraph_image_fig1s1": {
       "type": "paragraph",
@@ -1063,19 +1023,12 @@
       "type": "image",
       "id": "image_fig1s2",
       "label": "Figure 1—figure supplement 2.",
-      "url": "",
-      "object_id": "F3",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00068/svg/elife00068fs002.svg",
       "title": "Confirmation of specificity of TAF antibodies by RNAi-mediated knockdown in HeLa cells.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig1"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00068.005",
       "caption": "paragraph_image_fig1s2",
-      "graphic_id": "elife00068fs002"
+      "graphic_id": "elife00068fs002",
+      "format": "image"
     },
     "paragraph_image_fig1s2": {
       "type": "paragraph",
@@ -1086,19 +1039,12 @@
       "type": "image",
       "id": "image_fig1s3",
       "label": "Figure 1—figure supplement 3.",
-      "url": "",
-      "object_id": "F4",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00068/svg/elife00068fs003.svg",
       "title": "TAF expression levels in H1 hESCs.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig1"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00068.006",
       "caption": "paragraph_image_fig1s3",
-      "graphic_id": "elife00068fs003"
+      "graphic_id": "elife00068fs003",
+      "format": "image"
     },
     "paragraph_image_fig1s3": {
       "type": "paragraph",
@@ -1152,19 +1098,12 @@
       "type": "image",
       "id": "image_fig2",
       "label": "Figure 2.",
-      "url": "",
-      "object_id": "F5",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00068/svg/elife00068f002.svg",
       "title": "hESCs have a non-canonical TBP-containing TAF complex.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00068.007",
       "caption": "paragraph_image_fig2",
-      "graphic_id": "elife00068f002"
+      "graphic_id": "elife00068f002",
+      "format": "image"
     },
     "paragraph_image_fig2": {
       "type": "paragraph",
@@ -1257,19 +1196,12 @@
       "type": "image",
       "id": "image_fig3",
       "label": "Figure 3.",
-      "url": "",
-      "object_id": "F6",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00068/svg/elife00068f003.svg",
       "title": "Two classes of hESC genes based on TAF promoter occupancy.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00068.008",
       "caption": "paragraph_image_fig3",
-      "graphic_id": "elife00068f003"
+      "graphic_id": "elife00068f003",
+      "format": "image"
     },
     "paragraph_image_fig3": {
       "type": "paragraph",
@@ -1493,19 +1425,12 @@
       "type": "image",
       "id": "image_fig4",
       "label": "Figure 4.",
-      "url": "",
-      "object_id": "F7",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00068/svg/elife00068f004.svg",
       "title": "Comparison of TAF promoter occupancy on an identical set of transcriptionally active genes in HeLa and H9 cells.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00068.009",
       "caption": "paragraph_image_fig4",
-      "graphic_id": "elife00068f004"
+      "graphic_id": "elife00068f004",
+      "format": "image"
     },
     "paragraph_image_fig4": {
       "type": "paragraph",
@@ -1742,19 +1667,12 @@
       "type": "image",
       "id": "image_fig5",
       "label": "Figure 5.",
-      "url": "",
-      "object_id": "F8",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00068/svg/elife00068f005.svg",
       "title": "A strong relationship between TAF occupancy and transcriptional activity in hESCs.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00068.010",
       "caption": "paragraph_image_fig5",
-      "graphic_id": "elife00068f005"
+      "graphic_id": "elife00068f005",
+      "format": "image"
     },
     "paragraph_image_fig5": {
       "type": "paragraph",
@@ -1791,19 +1709,12 @@
       "type": "image",
       "id": "image_fig5s1",
       "label": "Figure 5—figure supplement 1.",
-      "url": "",
-      "object_id": "F9",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00068/svg/elife00068fs004.svg",
       "title": "siRNA-mediated knockdown efficiency of TAFs in H9 hESCs.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig5"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00068.011",
       "caption": "paragraph_image_fig5s1",
-      "graphic_id": "elife00068fs004"
+      "graphic_id": "elife00068fs004",
+      "format": "image"
     },
     "paragraph_image_fig5s1": {
       "type": "paragraph",
@@ -1840,19 +1751,12 @@
       "type": "image",
       "id": "image_fig5s2",
       "label": "Figure 5—figure supplement 2.",
-      "url": "",
-      "object_id": "F10",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00068/svg/elife00068fs005.svg",
       "title": "Confirmation of TAF requirement for transcriptional activity using a second, unrelated siRNA.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig5"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00068.012",
       "caption": "paragraph_image_fig5s2",
-      "graphic_id": "elife00068fs005"
+      "graphic_id": "elife00068fs005",
+      "format": "image"
     },
     "paragraph_image_fig5s2": {
       "type": "paragraph",
@@ -2005,19 +1909,12 @@
       "type": "image",
       "id": "image_fig6",
       "label": "Figure 6.",
-      "url": "",
-      "object_id": "F11",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00068/svg/elife00068f006.svg",
       "title": "Global ChIP-chip analysis of TAF occupancy.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00068.013",
       "caption": "paragraph_image_fig6",
-      "graphic_id": "elife00068f006"
+      "graphic_id": "elife00068f006",
+      "format": "image"
     },
     "paragraph_image_fig6": {
       "type": "paragraph",
@@ -2197,19 +2094,12 @@
       "type": "image",
       "id": "image_fig6s1",
       "label": "Figure 6—figure supplement 1.",
-      "url": "",
-      "object_id": "F12",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00068/svg/elife00068fs006.svg",
       "title": "Location of TBP, POL2 and TAF occupancy relative to the transcription start site.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig6"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00068.014",
       "caption": "paragraph_image_fig6s1",
-      "graphic_id": "elife00068fs006"
+      "graphic_id": "elife00068fs006",
+      "format": "image"
     },
     "paragraph_image_fig6s1": {
       "type": "paragraph",
@@ -2220,19 +2110,12 @@
       "type": "image",
       "id": "image_fig6s2",
       "label": "Figure 6—figure supplement 2.",
-      "url": "",
-      "object_id": "F13",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00068/svg/elife00068fs007.svg",
       "title": "ChIP-chip peak overlap in independent replicates.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig6"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00068.015",
       "caption": "paragraph_image_fig6s2",
-      "graphic_id": "elife00068fs007"
+      "graphic_id": "elife00068fs007",
+      "format": "image"
     },
     "paragraph_image_fig6s2": {
       "type": "paragraph",
@@ -2243,19 +2126,12 @@
       "type": "image",
       "id": "image_fig6s3",
       "label": "Figure 6—figure supplement 3.",
-      "url": "",
-      "object_id": "F14",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00068/svg/elife00068fs008.svg",
       "title": "Co-occupancy of TBP and POL2 with TAFs.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig6"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00068.016",
       "caption": "paragraph_image_fig6s3",
-      "graphic_id": "elife00068fs008"
+      "graphic_id": "elife00068fs008",
+      "format": "image"
     },
     "paragraph_image_fig6s3": {
       "type": "paragraph",
@@ -2310,19 +2186,12 @@
       "type": "image",
       "id": "image_fig7",
       "label": "Figure 7.",
-      "url": "",
-      "object_id": "F15",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00068/svg/elife00068f007.svg",
       "title": "Validation of ChIP-chip results by directed ChIP experiments using promoter-specific primer pairs.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00068.017",
       "caption": "paragraph_image_fig7",
-      "graphic_id": "elife00068f007"
+      "graphic_id": "elife00068f007",
+      "format": "image"
     },
     "paragraph_image_fig7": {
       "type": "paragraph",
@@ -2609,11 +2478,9 @@
       "id": "table_tbl1",
       "label": "Table 1.",
       "content": "<table><thead><tr><td>Feature</td><td>All TBP + POL2 sites</td><td>Class I genes (p-value vs TBP + POL2)</td><td>Class II genes (p-value vs TBP + POL2)</td><td>p-value (Class I vs Class II)</td></tr></thead><tbody><tr><td>Alternative promoters (average number)</td><td>0.717</td><td>0.686 (0.008)</td><td>0.934 (2.64 × 10<sup>−67</sup>)</td><td>1.73 × 10<sup>−58</sup></td></tr><tr><td>Bidirectional promoters (percent)</td><td>23.961</td><td>25.315 (0.005)</td><td>28.186 (0.007)</td><td>0.110</td></tr><tr><td>Promoter occupancy (percent)</td><td></td><td></td><td></td><td></td></tr><tr><td>H3K4me3</td><td>91.482</td><td>89.214 (8.72 × 10<sup>−05</sup>)</td><td>82.721 (4.24 × 10<sup>−20</sup>)</td><td>1.16 × 10<sup>−13</sup></td></tr><tr><td>OCT4</td><td>3.684</td><td>3.919 (0.728)</td><td>3.064 (1.000)</td><td>0.293</td></tr><tr><td>NANOG</td><td>12.438</td><td>13.448 (0.006)</td><td>13.725 (0.698)</td><td>0.861</td></tr><tr><td>SOX2</td><td>10.243</td><td>11.471 (9.64 × 10<sup>−05</sup>)</td><td>11.642 (0.474)</td><td>0.901</td></tr><tr><td>Promoter elements (percent)</td><td></td><td></td><td></td><td></td></tr><tr><td>TATA box</td><td>4.834</td><td>6.365 (5.15 × 10<sup>−15</sup>)</td><td>7.353 (0.012)</td><td>0.335</td></tr><tr><td>BRE</td><td>88.999</td><td>92.413 (6.27 × 10<sup>−24</sup>)</td><td>92.892 (0.001)</td><td>0.650</td></tr><tr><td>Initiator</td><td>99.608</td><td>99.928 (0.000)</td><td>100.000 (1.000)</td><td>0.402</td></tr><tr><td>MTE</td><td>0.679</td><td>0.611 (1.000)</td><td>0.735 (1.000)</td><td>0.626</td></tr><tr><td>DCE</td><td>99.843</td><td>99.964 (0.422)</td><td>99.877 (1.000)</td><td>0.402</td></tr></tbody></table>",
-      "title": "",
       "footers": [],
       "doi": "http://dx.doi.org/10.7554/eLife.00068.018",
-      "caption": "paragraph_table_tbl1",
-      "format": ""
+      "caption": "paragraph_table_tbl1"
     },
     "paragraph_table_tbl1": {
       "type": "paragraph",
@@ -2766,19 +2633,12 @@
       "type": "image",
       "id": "image_fig8",
       "label": "Figure 8",
-      "url": "",
-      "object_id": "F16",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00068/svg/elife00068f008.svg",
       "title": "The composition of hESC TAFs is required for maintenance of the undifferentiated state.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00068.019",
       "caption": "paragraph_image_fig8",
-      "graphic_id": "elife00068f008"
+      "graphic_id": "elife00068f008",
+      "format": "image"
     },
     "paragraph_image_fig8": {
       "type": "paragraph",
@@ -3127,19 +2987,12 @@
       "type": "image",
       "id": "image_fig8s1",
       "label": "Figure 8—figure supplement 1.",
-      "url": "",
-      "object_id": "F17",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00068/svg/elife00068fs009.svg",
       "title": "shRNA-mediated knockdown efficiency of TAFs in H9 hESCs.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig8"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00068.020",
       "caption": "paragraph_image_fig8s1",
-      "graphic_id": "elife00068fs009"
+      "graphic_id": "elife00068fs009",
+      "format": "image"
     },
     "paragraph_image_fig8s1": {
       "type": "paragraph",
@@ -3163,19 +3016,12 @@
       "type": "image",
       "id": "image_fig8s2",
       "label": "Figure 8—figure supplement 2.",
-      "url": "",
-      "object_id": "F18",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00068/svg/elife00068fs010.svg",
       "title": "Validation of results presented in Figure 8A using a second, unrelated shRNA.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig8"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00068.021",
       "caption": "paragraph_image_fig8s2",
-      "graphic_id": "elife00068fs010"
+      "graphic_id": "elife00068fs010",
+      "format": "image"
     },
     "paragraph_image_fig8s2": {
       "type": "paragraph",
@@ -3199,19 +3045,12 @@
       "type": "image",
       "id": "image_fig8s3",
       "label": "Figure 8—figure supplement 3.",
-      "url": "",
-      "object_id": "F19",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00068/svg/elife00068fs011.svg",
       "title": "Validation of results presented in Figure 8B using a second, unrelated siRNA.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig8"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00068.022",
       "caption": "paragraph_image_fig8s3",
-      "graphic_id": "elife00068fs011"
+      "graphic_id": "elife00068fs011",
+      "format": "image"
     },
     "paragraph_image_fig8s3": {
       "type": "paragraph",
@@ -3235,19 +3074,12 @@
       "type": "image",
       "id": "image_fig8s4",
       "label": "Figure 8—figure supplement 4.",
-      "url": "",
-      "object_id": "F20",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00068/svg/elife00068fs012.svg",
       "title": "Validation of results presented in Figure 8C using a second, unrelated siRNA.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig8"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00068.023",
       "caption": "paragraph_image_fig8s4",
-      "graphic_id": "elife00068fs012"
+      "graphic_id": "elife00068fs012",
+      "format": "image"
     },
     "paragraph_image_fig8s4": {
       "type": "paragraph",
@@ -3626,19 +3458,12 @@
       "type": "image",
       "id": "image_fig9",
       "label": "Figure 9.",
-      "url": "",
-      "object_id": "F21",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00068/svg/elife00068f009.svg",
       "title": "TAF expression in mouse ESCs.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00068.024",
       "caption": "paragraph_image_fig9",
-      "graphic_id": "elife00068f009"
+      "graphic_id": "elife00068f009",
+      "format": "image"
     },
     "paragraph_image_fig9": {
       "type": "paragraph",
@@ -4082,19 +3907,12 @@
       "type": "image",
       "id": "image_fig10",
       "label": "Figure 10.",
-      "url": "",
-      "object_id": "F22",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00068/svg/elife00068f010.svg",
       "title": "Classification of additional pluripotency genes as either class I or class II.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00068.025",
       "caption": "paragraph_image_fig10",
-      "graphic_id": "elife00068f010"
+      "graphic_id": "elife00068f010",
+      "format": "image"
     },
     "paragraph_image_fig10": {
       "type": "paragraph",
@@ -4754,12 +4572,11 @@
       "type": "supplement",
       "id": "supplement_SD1_data",
       "label": "Supplementary file 1.",
-      "source": "",
-      "title": "",
       "caption": "paragraph_supplement_SD1_data",
-      "content": "",
       "doi": "http://dx.doi.org/10.7554/eLife.00068.026",
-      "graphic_id": "elife00068s001.xls"
+      "files": [
+        "file_321"
+      ]
     },
     "paragraph_supplement_SD1_data": {
       "type": "paragraph",
@@ -4818,6 +4635,14 @@
         371
       ]
     },
+    "file_321": {
+      "type": "file",
+      "id": "file_321",
+      "name": "XLS",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00068/suppl/elife00068s001.xls",
+      "graphic_id": "elife00068s001.xls",
+      "extension": ".xls"
+    },
     "info:dataset": {
       "type": "heading",
       "id": "info:dataset",
@@ -4865,17 +4690,10 @@
       "year": "2004",
       "volume": "13",
       "source": "Hum Mol Genet",
-      "issue": "",
       "fpage": "601",
       "lpage": "8",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib2": {
@@ -4911,17 +4729,11 @@
       "year": "2005",
       "volume": "122",
       "source": "Cell",
-      "issue": "",
       "fpage": "947",
       "lpage": "56",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.cell.2005.08.020",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib3": {
@@ -4953,17 +4765,11 @@
       "year": "1994",
       "volume": "79",
       "source": "Cell",
-      "issue": "",
       "fpage": "93",
       "lpage": "105",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/0092-8674(94)90403-0",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib4": {
@@ -4983,17 +4789,11 @@
       "year": "2008",
       "volume": "17",
       "source": "Hum Mol Genet",
-      "issue": "",
       "fpage": "R23",
       "lpage": "7",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1093/hmg/ddn050",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib5": {
@@ -5021,17 +4821,11 @@
       "year": "2009",
       "volume": "66",
       "source": "Cell Mol Life Sci",
-      "issue": "",
       "fpage": "2123",
       "lpage": "34",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1007/s00018-009-0009-3",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib6": {
@@ -5059,17 +4853,11 @@
       "year": "2011",
       "volume": "108",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "3906",
       "lpage": "11",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1073/pnas.1100640108",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib7": {
@@ -5093,17 +4881,11 @@
       "year": "2009",
       "volume": "36",
       "source": "Mol Cell",
-      "issue": "",
       "fpage": "924",
       "lpage": "31",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.molcel.2009.12.011",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib8": {
@@ -5119,17 +4901,10 @@
       "year": "2003",
       "volume": "28",
       "source": "Trends Biochem Sci",
-      "issue": "",
       "fpage": "391",
       "lpage": "8",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib9": {
@@ -5165,17 +4940,11 @@
       "year": "2008",
       "volume": "32",
       "source": "Mol Cell",
-      "issue": "",
       "fpage": "96",
       "lpage": "105",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.molcel.2008.09.009",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib10": {
@@ -5195,17 +4964,10 @@
       "year": "2007",
       "volume": "21",
       "source": "Genes Dev",
-      "issue": "",
       "fpage": "2137",
       "lpage": "49",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib11": {
@@ -5229,17 +4991,10 @@
       "year": "2002",
       "volume": "30",
       "source": "Nucleic Acids Res",
-      "issue": "",
       "fpage": "207",
       "lpage": "10",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib12": {
@@ -5275,17 +5030,11 @@
       "year": "2001",
       "volume": "411",
       "source": "Nature",
-      "issue": "",
       "fpage": "494",
       "lpage": "8",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/3507810735078107",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib13": {
@@ -5309,17 +5058,11 @@
       "year": "2006",
       "volume": "13",
       "source": "Nat Struct Mol Biol",
-      "issue": "",
       "fpage": "117",
       "lpage": "20",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nsmb1049",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib14": {
@@ -5343,17 +5086,11 @@
       "year": "2009",
       "volume": "461",
       "source": "Nature",
-      "issue": "",
       "fpage": "186",
       "lpage": "92",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nature08449",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib15": {
@@ -5389,17 +5126,11 @@
       "year": "2004",
       "volume": "269",
       "source": "Dev Biol",
-      "issue": "",
       "fpage": "360",
       "lpage": "80",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.ydbio.2003.12.034",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib16": {
@@ -5423,17 +5154,10 @@
       "year": "2010",
       "volume": "11",
       "source": "Genome Biol",
-      "issue": "",
       "fpage": "R86",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1186/gb-2010-11-8-r86",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib17": {
@@ -5449,17 +5173,10 @@
       "year": "2005",
       "volume": "18",
       "source": "Mol Cell",
-      "issue": "",
       "fpage": "399",
       "lpage": "402",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib18": {
@@ -5491,17 +5208,11 @@
       "year": "2007",
       "volume": "130",
       "source": "Cell",
-      "issue": "",
       "fpage": "77",
       "lpage": "88",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.cell.2007.05.042",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib19": {
@@ -5529,17 +5240,10 @@
       "year": "2007",
       "volume": "450",
       "source": "Nature",
-      "issue": "",
       "fpage": "1082",
       "lpage": "5",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib20": {
@@ -5559,17 +5263,10 @@
       "year": "2003",
       "volume": "17",
       "source": "Genes Dev",
-      "issue": "",
       "fpage": "1309",
       "lpage": "20",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib21": {
@@ -5605,17 +5302,11 @@
       "year": "2006",
       "volume": "16",
       "source": "Genome Res",
-      "issue": "",
       "fpage": "55",
       "lpage": "65",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1101/gr.4039406",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib22": {
@@ -5651,17 +5342,11 @@
       "year": "2011",
       "volume": "21",
       "source": "Genome Res",
-      "issue": "",
       "fpage": "2014",
       "lpage": "25",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1101/gr.119321.110",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib23": {
@@ -5689,17 +5374,10 @@
       "year": "2000",
       "volume": "288",
       "source": "Science",
-      "issue": "",
       "fpage": "1244",
       "lpage": "8",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib24": {
@@ -5735,17 +5413,10 @@
       "year": "1996",
       "volume": "271",
       "source": "J Biol Chem",
-      "issue": "",
       "fpage": "19774",
       "lpage": "80",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib25": {
@@ -5769,17 +5440,10 @@
       "year": "2000",
       "volume": "288",
       "source": "Science",
-      "issue": "",
       "fpage": "1242",
       "lpage": "4",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib26": {
@@ -5815,17 +5479,10 @@
       "year": "2002",
       "volume": "12",
       "source": "Curr Biol",
-      "issue": "",
       "fpage": "1240",
       "lpage": "4",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib27": {
@@ -5853,17 +5510,11 @@
       "year": "2011",
       "volume": "146",
       "source": "Cell",
-      "issue": "",
       "fpage": "720",
       "lpage": "31",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.cell.2011.08.005",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib28": {
@@ -5887,17 +5538,11 @@
       "year": "2006",
       "volume": "7",
       "source": "Annu Rev Genomics Hum Genet",
-      "issue": "",
       "fpage": "29",
       "lpage": "59",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1146/annurev.genom.7.080505.115623",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib29": {
@@ -5921,17 +5566,11 @@
       "year": "2010",
       "volume": "20",
       "source": "Curr Opin Genet Dev",
-      "issue": "",
       "fpage": "533",
       "lpage": "40",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.gde.2010.06.004",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib30": {
@@ -5959,17 +5598,11 @@
       "year": "2002",
       "volume": "16",
       "source": "Genes Dev",
-      "issue": "",
       "fpage": "806",
       "lpage": "19",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1101/gad.978902",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib31": {
@@ -5993,17 +5626,11 @@
       "year": "2000",
       "volume": "24",
       "source": "Nat Genet",
-      "issue": "",
       "fpage": "372",
       "lpage": "6",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/74199",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib32": {
@@ -6039,17 +5666,11 @@
       "year": "2011",
       "volume": "21",
       "source": "Genome Res",
-      "issue": "",
       "fpage": "1260",
       "lpage": "72",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1101/gr.120535.111",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib33": {
@@ -6069,17 +5690,10 @@
       "year": "2007",
       "volume": "17",
       "source": "Cell Res",
-      "issue": "",
       "fpage": "42",
       "lpage": "9",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib34": {
@@ -6103,17 +5717,11 @@
       "year": "2011",
       "volume": "21",
       "source": "Curr Opin Genet Dev",
-      "issue": "",
       "fpage": "219",
       "lpage": "24",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.gde.2011.01.009",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib35": {
@@ -6145,17 +5753,11 @@
       "year": "1996",
       "volume": "379",
       "source": "Nature",
-      "issue": "",
       "fpage": "131",
       "lpage": "7",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/379131a0",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib36": {
@@ -6179,17 +5781,9 @@
       "year": "2005",
       "volume": "3",
       "source": "PLoS Biol",
-      "issue": "",
       "fpage": "e44",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib37": {
@@ -6213,17 +5807,11 @@
       "year": "2010",
       "volume": "28",
       "source": "Stem Cells",
-      "issue": "",
       "fpage": "419",
       "lpage": "30",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1002/stem.298",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib38": {
@@ -6243,17 +5831,10 @@
       "year": "1997",
       "volume": "90",
       "source": "Cell",
-      "issue": "",
       "fpage": "615",
       "lpage": "24",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib39": {
@@ -6285,17 +5866,11 @@
       "year": "2006",
       "volume": "16",
       "source": "Crit Rev Eukaryot Gene Expr",
-      "issue": "",
       "fpage": "211",
       "lpage": "31",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1615/CritRevEukarGeneExpr.v16.i3.20",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib40": {
@@ -6311,17 +5886,11 @@
       "year": "1997",
       "volume": "12",
       "source": "Methods",
-      "issue": "",
       "fpage": "224",
       "lpage": "34",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1006/meth.1997.0475",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib41": {
@@ -6341,17 +5910,11 @@
       "year": "2006",
       "volume": "41",
       "source": "Crit Rev Biochem Mol Biol",
-      "issue": "",
       "fpage": "105",
       "lpage": "78",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1080/10409230600648736",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib42": {
@@ -6383,17 +5946,11 @@
       "year": "2007",
       "volume": "27",
       "source": "Mol Cell Biol",
-      "issue": "",
       "fpage": "1844",
       "lpage": "58",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1128/MCB.01363-06",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib43": {
@@ -6429,17 +5986,11 @@
       "year": "2007",
       "volume": "131",
       "source": "Cell",
-      "issue": "",
       "fpage": "58",
       "lpage": "69",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.cell.2007.08.016",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib44": {
@@ -6467,17 +6018,10 @@
       "year": "1994",
       "volume": "264",
       "source": "Science",
-      "issue": "",
       "fpage": "933",
       "lpage": "41",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib45": {
@@ -6497,17 +6041,11 @@
       "year": "2010",
       "volume": "11",
       "source": "Nat Rev Genet",
-      "issue": "",
       "fpage": "426",
       "lpage": "37",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nrg2781",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib46": {
@@ -6543,17 +6081,11 @@
       "year": "2005",
       "volume": "23",
       "source": "Stem Cells",
-      "issue": "",
       "fpage": "166",
       "lpage": "85",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1634/stemcells.2004-0162",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib47": {
@@ -6585,17 +6117,10 @@
       "year": "1993",
       "volume": "12",
       "source": "EMBO J",
-      "issue": "",
       "fpage": "5303",
       "lpage": "9",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib48": {
@@ -6619,17 +6144,11 @@
       "year": "2006",
       "volume": "103",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "12347",
       "lpage": "52",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1073/pnas.0605499103",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib49": {
@@ -6661,17 +6180,10 @@
       "year": "2006",
       "volume": "41",
       "source": "Biotechniques",
-      "issue": "",
       "fpage": "694",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.2144/000112297",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib50": {
@@ -6707,17 +6219,10 @@
       "year": "2010",
       "volume": "11",
       "source": "BMC Bioinformatics",
-      "issue": "",
       "fpage": "237",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1186/1471-2105-11-237",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "sub-article": {

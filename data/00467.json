@@ -168,7 +168,6 @@
       "accepted_on": "2013-04-10",
       "published_on": "2013-05-14",
       "journal": "elife",
-      "article_type": "",
       "keywords": [
         "macaque",
         "adaptation",
@@ -181,10 +180,9 @@
       "subjects": [
         "Neuroscience"
       ],
-      "pdf_link": "",
-      "xml_link": "",
-      "json_link": "",
-      "doi": ""
+      "xml_link": "https://s3.amazonaws.com/elife-cdn/elife-articles/00467/elife00467.xml",
+      "json_link": "https://s3.amazonaws.com/elife-cdn/elife-articles/00467/00467.json",
+      "doi": "http://dx.doi.org/10.7554/eLife.00467"
     },
     "person_author_3480": {
       "type": "person",
@@ -193,9 +191,7 @@
       "last-name": "Schwartz",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article",
-      "email": "",
       "funding": [
         "funding_par_3"
       ]
@@ -207,7 +203,6 @@
       "last-name": "Rieke",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article",
       "email": "email_cor1",
       "funding": [
@@ -220,18 +215,14 @@
       "id": "institution_aff1",
       "name": "University of Washington",
       "city": "Seattle",
-      "country": "United States",
-      "email": "",
-      "image": ""
+      "country": "United States"
     },
     "institution_aff2": {
       "type": "institution",
       "id": "institution_aff2",
       "name": "Howard Hughes Medical Institute, University of Washington",
       "city": "Seattle",
-      "country": "United States",
-      "email": "",
-      "image": ""
+      "country": "United States"
     },
     "person_1": {
       "type": "person",
@@ -240,9 +231,6 @@
       "last-name": "Calabrese",
       "role": "editor",
       "affiliations": [],
-      "image": "",
-      "contribution": "",
-      "email": "",
       "funding": []
     },
     "info:review": {
@@ -257,7 +245,6 @@
     "email_cor1": {
       "type": "email",
       "id": "email_cor1",
-      "node": "",
       "email": "rieke@u.washington.edu"
     },
     "info:copyright": {
@@ -399,7 +386,6 @@
       "type": "funding",
       "id": "funding_par_2",
       "institution": "Howard Hughes Medical Institute",
-      "accession": "",
       "person": "person_author_3406",
       "given-names": "Fred",
       "last-name": "Rieke"
@@ -408,7 +394,6 @@
       "type": "funding",
       "id": "funding_par_3",
       "institution": "Helen Hay Whitney Foundation",
-      "accession": "",
       "person": "person_author_3480",
       "given-names": "Gregory W",
       "last-name": "Schwartz"
@@ -424,8 +409,7 @@
     },
     "paragraph_15": {
       "type": "paragraph",
-      "id": "paragraph_15",
-      "content": ""
+      "id": "paragraph_15"
     },
     "heading_s1": {
       "type": "heading",
@@ -661,19 +645,12 @@
       "type": "image",
       "id": "image_fig1",
       "label": "Figure 1.",
-      "url": "",
-      "object_id": "F1",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00467/svg/elife00467f001.svg",
       "title": "Gain control in the rod pathway.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00467.003",
       "caption": "paragraph_image_fig1",
-      "graphic_id": "elife00467f001"
+      "graphic_id": "elife00467f001",
+      "format": "image"
     },
     "paragraph_image_fig1": {
       "type": "paragraph",
@@ -908,19 +885,12 @@
       "type": "image",
       "id": "image_fig2",
       "label": "Figure 2.",
-      "url": "",
-      "object_id": "F2",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00467/svg/elife00467f002.svg",
       "title": "Adaptation is engaged at dim backgrounds in both excitatory inputs and spike outputs from On parasol cells.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00467.004",
       "caption": "paragraph_image_fig2",
-      "graphic_id": "elife00467f002"
+      "graphic_id": "elife00467f002",
+      "format": "image"
     },
     "paragraph_image_fig2": {
       "type": "paragraph",
@@ -1399,9 +1369,8 @@
     "formula_eqn1": {
       "type": "formula",
       "id": "formula_eqn1",
-      "label": "",
       "content": "<mml:mrow><mml:mtext>G</mml:mtext><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:msub><mml:mtext>G</mml:mtext><mml:mtext>D</mml:mtext></mml:msub></mml:mrow><mml:mrow><mml:mn>1</mml:mn><mml:mo>+</mml:mo><mml:mrow><mml:mrow><mml:msub><mml:mtext>I</mml:mtext><mml:mtext>B</mml:mtext></mml:msub></mml:mrow><mml:mo>/</mml:mo><mml:mrow><mml:msub><mml:mtext>I</mml:mtext><mml:mtext>0</mml:mtext></mml:msub></mml:mrow></mml:mrow></mml:mrow></mml:mfrac><mml:mo>,</mml:mo></mml:mrow>",
-      "format": "mml"
+      "format": "mathml"
     },
     "paragraph_91": {
       "type": "paragraph",
@@ -1594,19 +1563,12 @@
       "type": "image",
       "id": "image_fig3",
       "label": "Figure 3.",
-      "url": "",
-      "object_id": "F3",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00467/svg/elife00467f003.svg",
       "title": "Changes in gain, noise, and threshold with background.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00467.005",
       "caption": "paragraph_image_fig3",
-      "graphic_id": "elife00467f003"
+      "graphic_id": "elife00467f003",
+      "format": "image"
     },
     "paragraph_image_fig3": {
       "type": "paragraph",
@@ -2012,19 +1974,12 @@
       "type": "image",
       "id": "image_fig4",
       "label": "Figure 4.",
-      "url": "",
-      "object_id": "F4",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00467/svg/elife00467f004.svg",
       "title": "Gain is controlled by the mean not the variance of the background.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00467.006",
       "caption": "paragraph_image_fig4",
-      "graphic_id": "elife00467f004"
+      "graphic_id": "elife00467f004",
+      "format": "image"
     },
     "paragraph_image_fig4": {
       "type": "paragraph",
@@ -2187,19 +2142,12 @@
       "type": "image",
       "id": "image_fig5",
       "label": "Figure 5.",
-      "url": "",
-      "object_id": "F5",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00467/svg/elife00467f005.svg",
       "title": "Kinetics of gain control.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00467.007",
       "caption": "paragraph_image_fig5",
-      "graphic_id": "elife00467f005"
+      "graphic_id": "elife00467f005",
+      "format": "image"
     },
     "paragraph_image_fig5": {
       "type": "paragraph",
@@ -2275,19 +2223,12 @@
       "type": "image",
       "id": "image_fig5s1",
       "label": "Figure 5—figure supplement 1.",
-      "url": "",
-      "object_id": "F6",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00467/svg/elife00467fs001.svg",
       "title": "Kinetics of changes in baseline and gain differ.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig5"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00467.008",
       "caption": "paragraph_image_fig5s1",
-      "graphic_id": "elife00467fs001"
+      "graphic_id": "elife00467fs001",
+      "format": "image"
     },
     "paragraph_image_fig5s1": {
       "type": "paragraph",
@@ -2401,19 +2342,12 @@
       "type": "image",
       "id": "image_fig6",
       "label": "Figure 6.",
-      "url": "",
-      "object_id": "F7",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00467/svg/elife00467f006.svg",
       "title": "The trade-off between rod convergence and integration time in gain control.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00467.009",
       "caption": "paragraph_image_fig6",
-      "graphic_id": "elife00467f006"
+      "graphic_id": "elife00467f006",
+      "format": "image"
     },
     "paragraph_image_fig6": {
       "type": "paragraph",
@@ -2442,19 +2376,12 @@
       "type": "image",
       "id": "image_fig7",
       "label": "Figure 7.",
-      "url": "",
-      "object_id": "F8",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00467/svg/elife00467f007.svg",
       "title": "Measuring the spatial scale of gain control.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00467.010",
       "caption": "paragraph_image_fig7",
-      "graphic_id": "elife00467f007"
+      "graphic_id": "elife00467f007",
+      "format": "image"
     },
     "paragraph_image_fig7": {
       "type": "paragraph",
@@ -2553,19 +2480,12 @@
       "type": "image",
       "id": "image_fig8",
       "label": "Figure 8.",
-      "url": "",
-      "object_id": "F9",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00467/svg/elife00467f008.svg",
       "title": "The spatial scale of gain control.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00467.011",
       "caption": "paragraph_image_fig8",
-      "graphic_id": "elife00467f008"
+      "graphic_id": "elife00467f008",
+      "format": "image"
     },
     "paragraph_image_fig8": {
       "type": "paragraph",
@@ -2832,19 +2752,12 @@
       "type": "image",
       "id": "image_fig9",
       "label": "Figure 9.",
-      "url": "",
-      "object_id": "F10",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00467/svg/elife00467f009.svg",
       "title": "Gain control in rod and cone pathways.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00467.012",
       "caption": "paragraph_image_fig9",
-      "graphic_id": "elife00467f009"
+      "graphic_id": "elife00467f009",
+      "format": "image"
     },
     "paragraph_image_fig9": {
       "type": "paragraph",
@@ -3900,19 +3813,12 @@
       "type": "image",
       "id": "image_fig10",
       "label": "Figure 10.",
-      "url": "",
-      "object_id": "F11",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00467/svg/elife00467f010.svg",
       "title": "Gain control is stable and reproducible in spike responses. Spike responses from an example On parasol cell in primate retina.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00467.013",
       "caption": "paragraph_image_fig10",
-      "graphic_id": "elife00467f010"
+      "graphic_id": "elife00467f010",
+      "format": "image"
     },
     "paragraph_image_fig10": {
       "type": "paragraph",
@@ -3988,19 +3894,12 @@
       "type": "image",
       "id": "image_fig11",
       "label": "Figure 11.",
-      "url": "",
-      "object_id": "F12",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00467/svg/elife00467f011.svg",
       "title": "Gain control is stable and reproducible in excitatory input currents.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00467.014",
       "caption": "paragraph_image_fig11",
-      "graphic_id": "elife00467f011"
+      "graphic_id": "elife00467f011",
+      "format": "image"
     },
     "paragraph_image_fig11": {
       "type": "paragraph",
@@ -4157,9 +4056,8 @@
     "formula_eqn2": {
       "type": "formula",
       "id": "formula_eqn2",
-      "label": "",
       "content": "<mml:mrow><mml:mi>θ</mml:mi><mml:mo>=</mml:mo><mml:mi>γ</mml:mi><mml:mo>/</mml:mo><mml:msub><mml:mi>σ</mml:mi><mml:mi>ν</mml:mi></mml:msub><mml:mo>.</mml:mo></mml:mrow>",
-      "format": "mml"
+      "format": "mathml"
     },
     "paragraph_300": {
       "type": "paragraph",
@@ -4259,16 +4157,14 @@
     "formula_eqn3": {
       "type": "formula",
       "id": "formula_eqn3",
-      "label": "",
       "content": "<mml:mrow><mml:mi>λ</mml:mi><mml:mo>=</mml:mo><mml:mi>μ</mml:mi><mml:mi>τ</mml:mi><mml:mi>C</mml:mi></mml:mrow>",
-      "format": "mml"
+      "format": "mathml"
     },
     "formula_eqn4": {
       "type": "formula",
       "id": "formula_eqn4",
-      "label": "",
       "content": "<mml:mrow><mml:mi>P</mml:mi><mml:mo>(</mml:mo><mml:mi>k</mml:mi><mml:mo>,</mml:mo><mml:mi>λ</mml:mi><mml:mo>)</mml:mo><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:msup><mml:mi>λ</mml:mi><mml:mi>k</mml:mi></mml:msup><mml:msup><mml:mi>e</mml:mi><mml:mrow><mml:mo>−</mml:mo><mml:mi>λ</mml:mi></mml:mrow></mml:msup></mml:mrow><mml:mrow><mml:mi>k</mml:mi><mml:mo>!</mml:mo></mml:mrow></mml:mfrac><mml:mo>.</mml:mo></mml:mrow>",
-      "format": "mml"
+      "format": "mathml"
     },
     "paragraph_308": {
       "type": "paragraph",
@@ -4330,9 +4226,8 @@
     "formula_eqn5": {
       "type": "formula",
       "id": "formula_eqn5",
-      "label": "",
       "content": "<mml:mrow><mml:mi>P</mml:mi><mml:mo>(</mml:mo><mml:mi>λ</mml:mi><mml:mo>)</mml:mo><mml:mo>=</mml:mo><mml:mstyle><mml:munderover><mml:mo>∑</mml:mo><mml:mrow><mml:mi>k</mml:mi><mml:mo>=</mml:mo><mml:mn>1</mml:mn></mml:mrow><mml:mn>∞</mml:mn></mml:munderover><mml:mrow><mml:mfrac><mml:mrow><mml:msup><mml:mi>λ</mml:mi><mml:mi>k</mml:mi></mml:msup><mml:msup><mml:mi>e</mml:mi><mml:mrow><mml:mo>−</mml:mo><mml:mi>λ</mml:mi></mml:mrow></mml:msup></mml:mrow><mml:mrow><mml:mi>k</mml:mi><mml:mo>!</mml:mo></mml:mrow></mml:mfrac><mml:mo>≥</mml:mo><mml:mn>0.5</mml:mn></mml:mrow></mml:mstyle><mml:mo>.</mml:mo></mml:mrow>",
-      "format": "mml"
+      "format": "mathml"
     },
     "paragraph_313": {
       "type": "paragraph",
@@ -4394,9 +4289,8 @@
     "formula_eqn6": {
       "type": "formula",
       "id": "formula_eqn6",
-      "label": "",
       "content": "<mml:mrow><mml:mi>γ</mml:mi><mml:mo>(</mml:mo><mml:mi>k</mml:mi><mml:mo>,</mml:mo><mml:mi>α</mml:mi><mml:mo>)</mml:mo><mml:mo>=</mml:mo><mml:msup><mml:mrow><mml:mo>(</mml:mo><mml:mn>1</mml:mn><mml:mo>−</mml:mo><mml:mi>α</mml:mi><mml:mo>)</mml:mo></mml:mrow><mml:mi>k</mml:mi></mml:msup><mml:mo>.</mml:mo></mml:mrow>",
-      "format": "mml"
+      "format": "mathml"
     },
     "paragraph_318": {
       "type": "paragraph",
@@ -4406,9 +4300,8 @@
     "formula_eqn7": {
       "type": "formula",
       "id": "formula_eqn7",
-      "label": "",
       "content": "<mml:mrow><mml:mi>Γ</mml:mi><mml:mo>=</mml:mo><mml:mstyle><mml:munderover><mml:mo>∑</mml:mo><mml:mrow><mml:mi>k</mml:mi><mml:mo>=</mml:mo><mml:mn>1</mml:mn></mml:mrow><mml:mn>∞</mml:mn></mml:munderover><mml:mrow><mml:mi>P</mml:mi><mml:mo>(</mml:mo><mml:mi>k</mml:mi><mml:mo>,</mml:mo><mml:mi>λ</mml:mi><mml:mo>)</mml:mo><mml:mi>γ</mml:mi><mml:mo>(</mml:mo><mml:mi>k</mml:mi><mml:mo>,</mml:mo><mml:mi>α</mml:mi><mml:mo>)</mml:mo></mml:mrow></mml:mstyle><mml:mo>.</mml:mo></mml:mrow>",
-      "format": "mml"
+      "format": "mathml"
     },
     "info:ack": {
       "type": "heading",
@@ -4473,17 +4366,11 @@
       "year": "2011",
       "volume": "14",
       "source": "Nat Neurosci",
-      "issue": "",
       "fpage": "1309",
       "lpage": "16",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nn.2927",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib2": {
@@ -4499,17 +4386,11 @@
       "year": "1956",
       "volume": "46",
       "source": "J Opt Soc Am",
-      "issue": "",
       "fpage": "634",
       "lpage": "9",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1364/JOSA.46.000634",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib3": {
@@ -4525,17 +4406,10 @@
       "year": "1957",
       "volume": "136",
       "source": "J Physiol",
-      "issue": "",
       "fpage": "469",
       "lpage": "88",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib4": {
@@ -4551,17 +4425,11 @@
       "year": "1965",
       "volume": "30",
       "source": "Cold Spring Harb Symp Quant Biol",
-      "issue": "",
       "fpage": "539",
       "lpage": "46",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1101/SQB.1965.030.01.052",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib5": {
@@ -4581,17 +4449,10 @@
       "year": "1969",
       "volume": "200",
       "source": "J Physiol",
-      "issue": "",
       "fpage": "1",
       "lpage": "24",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib6": {
@@ -4613,19 +4474,12 @@
       ],
       "title": "Responses to single quanta of light in retinal ganglion cells of the cat",
       "year": "1971",
-      "volume": "",
       "source": "Vision Res",
-      "issue": "",
       "fpage": "87",
       "lpage": "101",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/0042-6989(71)90033-2",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": [],
       "supplement": "suppl 3)"
     },
@@ -4646,17 +4500,11 @@
       "year": "2001",
       "volume": "20",
       "source": "Prog Retin Eye Res",
-      "issue": "",
       "fpage": "351",
       "lpage": "84",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/S1350-9462(00)00031-8",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib8": {
@@ -4676,17 +4524,11 @@
       "year": "1998",
       "volume": "38",
       "source": "Vision Res",
-      "issue": "",
       "fpage": "1925",
       "lpage": "33",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/S0042-6989(97)00400-8",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib9": {
@@ -4714,17 +4556,11 @@
       "year": "1998",
       "volume": "20",
       "source": "Neuron",
-      "issue": "",
       "fpage": "959",
       "lpage": "69",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/S0896-6273(00)80477-8",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib10": {
@@ -4740,17 +4576,11 @@
       "year": "1943",
       "volume": "7",
       "source": "Physica",
-      "issue": "",
       "fpage": "553",
       "lpage": "64",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/S0031-8914(43)90575-0",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib11": {
@@ -4769,14 +4599,9 @@
       "issue": "Pt 18",
       "fpage": "4377",
       "lpage": "84",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1113/jphysiol.2008.156638",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib12": {
@@ -4792,17 +4617,11 @@
       "year": "2008",
       "volume": "20",
       "source": "Neural Comput",
-      "issue": "",
       "fpage": "91",
       "lpage": "117",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1162/neco.2008.20.1.91",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib13": {
@@ -4818,17 +4637,11 @@
       "year": "1992",
       "volume": "32",
       "source": "Vision Res",
-      "issue": "",
       "fpage": "853",
       "lpage": "66",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/0042-6989(92)90028-H",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib14": {
@@ -4852,17 +4665,11 @@
       "year": "1990",
       "volume": "95",
       "source": "J Gen Physiol",
-      "issue": "",
       "fpage": "733",
       "lpage": "53",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1085/jgp.95.4.733",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib15": {
@@ -4890,17 +4697,11 @@
       "year": "2006",
       "volume": "26",
       "source": "J Neurosci",
-      "issue": "",
       "fpage": "3959",
       "lpage": "70",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1523/JNEUROSCI.5148-05.2006",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib16": {
@@ -4924,17 +4725,11 @@
       "year": "2007",
       "volume": "449",
       "source": "Nature",
-      "issue": "",
       "fpage": "603",
       "lpage": "6",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nature06150",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib17": {
@@ -4954,17 +4749,11 @@
       "year": "2006",
       "volume": "16",
       "source": "Curr Opin Neurobiol",
-      "issue": "",
       "fpage": "363",
       "lpage": "70",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.conb.2006.06.013",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib18": {
@@ -4984,17 +4773,11 @@
       "year": "2008",
       "volume": "57",
       "source": "Neuron",
-      "issue": "",
       "fpage": "894",
       "lpage": "904",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.neuron.2008.01.031",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib19": {
@@ -5014,17 +4797,10 @@
       "year": "1973",
       "volume": "233",
       "source": "J Physiol",
-      "issue": "",
       "fpage": "311",
       "lpage": "26",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib20": {
@@ -5038,19 +4814,8 @@
       ],
       "title": "Elemente dur psychophysik",
       "year": "1860",
-      "volume": "",
-      "source": "",
-      "issue": "",
-      "fpage": "",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": [],
       "comment": "Leipzig, Germany: Breitkopf and Hartel"
     },
@@ -5087,17 +4852,11 @@
       "year": "2009",
       "volume": "12",
       "source": "Nat Neurosci",
-      "issue": "",
       "fpage": "1159",
       "lpage": "64",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nn.2353",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib22": {
@@ -5121,17 +4880,11 @@
       "year": "2005",
       "volume": "67",
       "source": "Annu Rev Physiol",
-      "issue": "",
       "fpage": "491",
       "lpage": "514",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1146/annurev.physiol.67.031103.151256",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib23": {
@@ -5151,17 +4904,11 @@
       "year": "2006",
       "volume": "46",
       "source": "Vision Res",
-      "issue": "",
       "fpage": "1585",
       "lpage": "98",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.visres.2005.06.038",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib24": {
@@ -5185,17 +4932,11 @@
       "year": "1996",
       "volume": "13",
       "source": "J Opt Soc Am A",
-      "issue": "",
       "fpage": "601",
       "lpage": "12",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1364/JOSAA.13.000601",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib25": {
@@ -5215,17 +4956,10 @@
       "year": "1982",
       "volume": "330",
       "source": "J Physiol",
-      "issue": "",
       "fpage": "125",
       "lpage": "43",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib26": {
@@ -5241,17 +4975,10 @@
       "year": "1983",
       "volume": "49",
       "source": "J Neurophysiol",
-      "issue": "",
       "fpage": "325",
       "lpage": "49",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib27": {
@@ -5271,17 +4998,11 @@
       "year": "2011",
       "volume": "14",
       "source": "Nat Neurosci",
-      "issue": "",
       "fpage": "1555",
       "lpage": "61",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nn.2945",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib28": {
@@ -5295,19 +5016,11 @@
       ],
       "title": "Topography of the layer of rods and cones in the human retina",
       "year": "1935",
-      "volume": "",
       "source": "Acta Ophthalmol",
-      "issue": "",
       "fpage": "1",
       "lpage": "103",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": [],
       "supplement": "suppl 6"
     },
@@ -5332,17 +5045,11 @@
       "year": "1988",
       "volume": "8",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "4534",
       "lpage": "7",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1073/pnas.85.12.4534",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib30": {
@@ -5362,17 +5069,11 @@
       "year": "2009",
       "volume": "64",
       "source": "Neuron",
-      "issue": "",
       "fpage": "605",
       "lpage": "16",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.neuron.2009.11.028",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib31": {
@@ -5388,17 +5089,11 @@
       "year": "1948",
       "volume": "38",
       "source": "J Opt Soc Am",
-      "issue": "",
       "fpage": "196",
       "lpage": "208",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1364/JOSA.38.000196",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib32": {
@@ -5414,17 +5109,11 @@
       "year": "1965",
       "volume": "162",
       "source": "Proc R Soc Lond B Biol Sci",
-      "issue": "",
       "fpage": "20",
       "lpage": "46",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1098/rspb.1965.0024",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib33": {
@@ -5444,17 +5133,11 @@
       "year": "2000",
       "volume": "17",
       "source": "Vis Neurosci",
-      "issue": "",
       "fpage": "659",
       "lpage": "66",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1017/S0952523800175017",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib34": {
@@ -5474,17 +5157,11 @@
       "year": "2008",
       "volume": "11",
       "source": "Nat Neurosci",
-      "issue": "",
       "fpage": "1343",
       "lpage": "51",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nn.2199",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib35": {
@@ -5508,17 +5185,11 @@
       "year": "2009",
       "volume": "61",
       "source": "Neuron",
-      "issue": "",
       "fpage": "750",
       "lpage": "61",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.neuron.2009.01.019",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "sub-article": {

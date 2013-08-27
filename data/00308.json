@@ -171,7 +171,6 @@
       "accepted_on": "2012-12-21",
       "published_on": "2013-01-22",
       "journal": "eLife",
-      "article_type": "",
       "keywords": [
         "ubiquitin",
         "ribosome",
@@ -184,10 +183,9 @@
         "Biochemistry",
         "Cell biology"
       ],
-      "pdf_link": "",
-      "xml_link": "",
-      "json_link": "",
-      "doi": ""
+      "xml_link": "https://s3.amazonaws.com/elife-cdn/elife-articles/00308/elife00308.xml",
+      "json_link": "https://s3.amazonaws.com/elife-cdn/elife-articles/00308/00308.json",
+      "doi": "http://dx.doi.org/10.7554/eLife.00308"
     },
     "person_author_2518": {
       "type": "person",
@@ -196,7 +194,6 @@
       "last-name": "Verma",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article",
       "email": "email_cor1",
       "funding": []
@@ -208,9 +205,7 @@
       "last-name": "Oania",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Acquisition of data",
-      "email": "",
       "funding": []
     },
     "person_author_2599": {
@@ -220,9 +215,7 @@
       "last-name": "Kolawa",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Acquisition of data",
-      "email": "",
       "funding": []
     },
     "person_author_1075": {
@@ -232,7 +225,6 @@
       "last-name": "Deshaies",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Analysis and interpretation of data, Drafting or revising the article",
       "email": "email_2",
       "funding": [
@@ -244,18 +236,14 @@
       "id": "institution_aff1",
       "name": "California Institute of Technology",
       "city": "Pasadena",
-      "country": "United States",
-      "email": "",
-      "image": ""
+      "country": "United States"
     },
     "institution_aff2": {
       "type": "institution",
       "id": "institution_aff2",
       "name": "Howard Hughes Medical Institute, California Institute of Technology",
       "city": "Pasadena",
-      "country": "United States",
-      "email": "",
-      "image": ""
+      "country": "United States"
     },
     "person_1": {
       "type": "person",
@@ -264,9 +252,6 @@
       "last-name": "Dikic",
       "role": "editor",
       "affiliations": [],
-      "image": "",
-      "contribution": "",
-      "email": "",
       "funding": []
     },
     "info:review": {
@@ -281,13 +266,11 @@
     "email_cor1": {
       "type": "email",
       "id": "email_cor1",
-      "node": "",
       "email": "verma@caltech.edu"
     },
     "email_2": {
       "type": "email",
       "id": "email_2",
-      "node": "",
       "email": "deshaies@caltech.edu"
     },
     "info:copyright": {
@@ -425,7 +408,6 @@
       "type": "funding",
       "id": "funding_par_1",
       "institution": "Howard Hughes Medical Institute",
-      "accession": "",
       "person": "person_author_1075",
       "given-names": "Raymond J",
       "last-name": "Deshaies"
@@ -441,8 +423,7 @@
     },
     "paragraph_17": {
       "type": "paragraph",
-      "id": "paragraph_17",
-      "content": ""
+      "id": "paragraph_17"
     },
     "heading_s1": {
       "type": "heading",
@@ -1360,19 +1341,12 @@
       "type": "image",
       "id": "image_fig1",
       "label": "Figure 1.",
-      "url": "",
-      "object_id": "F1",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00308/svg/elife00308f001.svg",
       "title": "Ub conjugates accumulate on ribosomes isolated from cdc48 and npl4-1 mutants.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00308.003",
       "caption": "paragraph_image_fig1",
-      "graphic_id": "elife00308f001"
+      "graphic_id": "elife00308f001",
+      "format": "image"
     },
     "paragraph_image_fig1": {
       "type": "paragraph",
@@ -1617,19 +1591,12 @@
       "type": "image",
       "id": "image_fig1s1",
       "label": "Figure 1—figure supplement 1.",
-      "url": "",
-      "object_id": "F2",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00308/svg/elife00308fs001.svg",
       "title": "Cdc48 pathway mutants are sensitive to hygromycin B (A) and paromomycin (B).",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig1"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00308.004",
       "caption": "paragraph_image_fig1s1",
-      "graphic_id": "elife00308fs001"
+      "graphic_id": "elife00308fs001",
+      "format": "image"
     },
     "paragraph_image_fig1s1": {
       "type": "paragraph",
@@ -1666,19 +1633,12 @@
       "type": "image",
       "id": "image_fig1s2",
       "label": "Figure 1—figure supplement 2.",
-      "url": "",
-      "object_id": "F3",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00308/svg/elife00308fs002.svg",
       "title": "Ribosome assembly is unimpaired in Cdc48 pathway mutants.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig1"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00308.005",
       "caption": "paragraph_image_fig1s2",
-      "graphic_id": "elife00308fs002"
+      "graphic_id": "elife00308fs002",
+      "format": "image"
     },
     "paragraph_image_fig1s2": {
       "type": "paragraph",
@@ -2050,19 +2010,12 @@
       "type": "image",
       "id": "image_fig2",
       "label": "Figure 2.",
-      "url": "",
-      "object_id": "F4",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00308/svg/elife00308f002.svg",
       "title": "Ubiquitinated nascent peptides linked to tRNA accumulate on ribosomes in cdc48-3 and ufd1-2 mutants.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00308.006",
       "caption": "paragraph_image_fig2",
-      "graphic_id": "elife00308f002"
+      "graphic_id": "elife00308f002",
+      "format": "image"
     },
     "paragraph_image_fig2": {
       "type": "paragraph",
@@ -2320,19 +2273,12 @@
       "type": "image",
       "id": "image_fig2s1",
       "label": "Figure 2—figure supplement 1.",
-      "url": "",
-      "object_id": "F5",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00308/svg/elife00308fs003.svg",
       "title": "Cdc48-Ufd1-Npl4 complex is required to clear ubiquitinated nascent peptides from ribosomes.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig2"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00308.007",
       "caption": "paragraph_image_fig2s1",
-      "graphic_id": "elife00308fs003"
+      "graphic_id": "elife00308fs003",
+      "format": "image"
     },
     "paragraph_image_fig2s1": {
       "type": "paragraph",
@@ -3104,19 +3050,12 @@
       "type": "image",
       "id": "image_fig3",
       "label": "Figure 3.",
-      "url": "",
-      "object_id": "F6",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00308/svg/elife00308f003.svg",
       "title": "Aberrant proteins derived from non-stop mRNA accumulate in cells deficient in Cdc48–Ufd1–Npl4 function.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00308.008",
       "caption": "paragraph_image_fig3",
-      "graphic_id": "elife00308f003"
+      "graphic_id": "elife00308f003",
+      "format": "image"
     },
     "paragraph_image_fig3": {
       "type": "paragraph",
@@ -3387,19 +3326,12 @@
       "type": "image",
       "id": "image_fig3s1",
       "label": "Figure 3—figure supplement 1.",
-      "url": "",
-      "object_id": "F7",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00308/svg/elife00308fs004.svg",
       "title": "Ribosomes from wildtype and mutant cells grown at 37°C for 90 min were sedimented through sucrose cushions.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig3"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00308.009",
       "caption": "paragraph_image_fig3s1",
-      "graphic_id": "elife00308fs004"
+      "graphic_id": "elife00308fs004",
+      "format": "image"
     },
     "paragraph_image_fig3s1": {
       "type": "paragraph",
@@ -3859,19 +3791,12 @@
       "type": "image",
       "id": "image_fig4",
       "label": "Figure 4.",
-      "url": "",
-      "object_id": "F8",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00308/svg/elife00308f004.svg",
       "title": "Non-stop reporter PrANS accumulates on 60S and 80S ribosomes in a tRNA-linked form in cdc48-3 cells.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00308.010",
       "caption": "paragraph_image_fig4",
-      "graphic_id": "elife00308f004"
+      "graphic_id": "elife00308f004",
+      "format": "image"
     },
     "paragraph_image_fig4": {
       "type": "paragraph",
@@ -4064,19 +3989,12 @@
       "type": "image",
       "id": "image_fig4s1",
       "label": "Figure 4—figure supplement 1.",
-      "url": "",
-      "object_id": "F9",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00308/svg/elife00308fs005.svg",
       "title": "Fractionation of ribosome subunits on sucrose gradients.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig4"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00308.011",
       "caption": "paragraph_image_fig4s1",
-      "graphic_id": "elife00308fs005"
+      "graphic_id": "elife00308fs005",
+      "format": "image"
     },
     "paragraph_image_fig4s1": {
       "type": "paragraph",
@@ -4591,19 +4509,12 @@
       "type": "image",
       "id": "image_fig5",
       "label": "Figure 5.",
-      "url": "",
-      "object_id": "F10",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00308/svg/elife00308f005.svg",
       "title": "Non-stop reporter PrANS accumulates on ribosomes in cdc48-3 cells but is released from ribosomes in cells deficient in proteasome activity.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00308.012",
       "caption": "paragraph_image_fig5",
-      "graphic_id": "elife00308f005"
+      "graphic_id": "elife00308f005",
+      "format": "image"
     },
     "paragraph_image_fig5": {
       "type": "paragraph",
@@ -4757,19 +4668,12 @@
       "type": "image",
       "id": "image_fig5s1",
       "label": "Figure 5—figure supplement 1.",
-      "url": "",
-      "object_id": "F11",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00308/svg/elife00308fs006.svg",
       "title": "Maximal Ub conjugate accumulation on ribosomes isolated from cdc48-3 mutant cells.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig5"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00308.013",
       "caption": "paragraph_image_fig5s1",
-      "graphic_id": "elife00308fs006"
+      "graphic_id": "elife00308fs006",
+      "format": "image"
     },
     "paragraph_image_fig5s1": {
       "type": "paragraph",
@@ -5427,19 +5331,12 @@
       "type": "image",
       "id": "image_fig6",
       "label": "Figure 6.",
-      "url": "",
-      "object_id": "F12",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00308/svg/elife00308f006.svg",
       "title": "The Cdc48 pathway is required for degradation of prematurely terminated Gnd1PTC.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00308.014",
       "caption": "paragraph_image_fig6",
-      "graphic_id": "elife00308f006"
+      "graphic_id": "elife00308f006",
+      "format": "image"
     },
     "paragraph_image_fig6": {
       "type": "paragraph",
@@ -5632,19 +5529,12 @@
       "type": "image",
       "id": "image_fig6s1",
       "label": "Figure 6—figure supplement 1.",
-      "url": "",
-      "object_id": "F13",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00308/svg/elife00308fs007.svg",
       "title": "Ponceau S staining of filters for Figure 6A.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig6"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00308.015",
       "caption": "paragraph_image_fig6s1",
-      "graphic_id": "elife00308fs007"
+      "graphic_id": "elife00308fs007",
+      "format": "image"
     },
     "paragraph_image_fig6s1": {
       "type": "paragraph",
@@ -6724,17 +6614,24 @@
       "type": "supplement",
       "id": "supplement_SD1_data",
       "label": "Supplementary file 1.",
-      "source": "",
-      "title": "",
       "caption": "paragraph_supplement_SD1_data",
-      "content": "",
       "doi": "http://dx.doi.org/10.7554/eLife.00308.016",
-      "graphic_id": "elife00308s001.xlsx"
+      "files": [
+        "file_492"
+      ]
     },
     "paragraph_supplement_SD1_data": {
       "type": "paragraph",
       "id": "paragraph_supplement_SD1_data",
       "content": "Yeast strains and plasmids used in this study."
+    },
+    "file_492": {
+      "type": "file",
+      "id": "file_492",
+      "name": "XLSX",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00308/suppl/elife00308s001.xlsx",
+      "graphic_id": "elife00308s001.xlsx",
+      "extension": ".xlsx"
     },
     "article_citation_bib1": {
       "type": "article_citation",
@@ -6765,17 +6662,10 @@
       "year": "2001",
       "volume": "12",
       "source": "Mol Biol Cell",
-      "issue": "",
       "fpage": "4114",
       "lpage": "28",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib2": {
@@ -6811,17 +6701,10 @@
       "year": "2011",
       "volume": "18",
       "source": "Nat Struct Mol Biol",
-      "issue": "",
       "fpage": "715",
       "lpage": "20",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib3": {
@@ -6841,17 +6724,10 @@
       "year": "2010",
       "volume": "467",
       "source": "Nature",
-      "issue": "",
       "fpage": "470",
       "lpage": "3",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib4": {
@@ -6887,17 +6763,10 @@
       "year": "2012",
       "volume": "151",
       "source": "Cell",
-      "issue": "",
       "fpage": "1042",
       "lpage": "54",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib5": {
@@ -6921,17 +6790,10 @@
       "year": "2006",
       "volume": "125",
       "source": "Cell",
-      "issue": "",
       "fpage": "443",
       "lpage": "51",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib6": {
@@ -6967,17 +6829,10 @@
       "year": "2000",
       "volume": "407",
       "source": "Nature",
-      "issue": "",
       "fpage": "340",
       "lpage": "8",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib7": {
@@ -7013,17 +6868,10 @@
       "year": "2009",
       "volume": "106",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "2097",
       "lpage": "103",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib8": {
@@ -7047,17 +6895,10 @@
       "year": "2012",
       "volume": "96",
       "source": "Prog Neurobiol",
-      "issue": "",
       "fpage": "190",
       "lpage": "207",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib9": {
@@ -7077,17 +6918,10 @@
       "year": "2009",
       "volume": "78",
       "source": "Annu Rev Biochem",
-      "issue": "",
       "fpage": "399",
       "lpage": "434",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib10": {
@@ -7115,17 +6949,10 @@
       "year": "2009",
       "volume": "284",
       "source": "J Biol Chem",
-      "issue": "",
       "fpage": "10343",
       "lpage": "52",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib11": {
@@ -7145,17 +6972,10 @@
       "year": "2006",
       "volume": "440",
       "source": "Nature",
-      "issue": "",
       "fpage": "561",
       "lpage": "4",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib12": {
@@ -7171,17 +6991,10 @@
       "year": "2009",
       "volume": "78",
       "source": "Annu Rev Biochem",
-      "issue": "",
       "fpage": "477",
       "lpage": "513",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib13": {
@@ -7217,17 +7030,10 @@
       "year": "2002",
       "volume": "295",
       "source": "Science",
-      "issue": "",
       "fpage": "2258",
       "lpage": "61",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib14": {
@@ -7263,17 +7069,10 @@
       "year": "2003",
       "volume": "23",
       "source": "Mol Cell Biol",
-      "issue": "",
       "fpage": "7403",
       "lpage": "14",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib15": {
@@ -7293,17 +7092,9 @@
       "year": "2009",
       "volume": "7",
       "source": "PLoS Biol",
-      "issue": "",
       "fpage": "e1000105",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib16": {
@@ -7327,17 +7118,10 @@
       "year": "2009",
       "volume": "48",
       "source": "Methods",
-      "issue": "",
       "fpage": "306",
       "lpage": "10",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib17": {
@@ -7361,17 +7145,10 @@
       "year": "2011",
       "volume": "475",
       "source": "Nature",
-      "issue": "",
       "fpage": "324",
       "lpage": "32",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib18": {
@@ -7395,17 +7172,10 @@
       "year": "2010",
       "volume": "107",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "1106",
       "lpage": "11",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib19": {
@@ -7425,17 +7195,10 @@
       "year": "1978",
       "volume": "170",
       "source": "Biochem J",
-      "issue": "",
       "fpage": "57",
       "lpage": "61",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib20": {
@@ -7459,17 +7222,10 @@
       "year": "2010",
       "volume": "327",
       "source": "Science",
-      "issue": "",
       "fpage": "973",
       "lpage": "7",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib21": {
@@ -7505,17 +7261,9 @@
       "year": "2011",
       "volume": "6",
       "source": "PLoS One",
-      "issue": "",
       "fpage": "e24925",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib22": {
@@ -7539,17 +7287,10 @@
       "year": "2011",
       "volume": "147",
       "source": "Cell",
-      "issue": "",
       "fpage": "789",
       "lpage": "802",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib23": {
@@ -7577,17 +7318,10 @@
       "year": "2007",
       "volume": "21",
       "source": "Genes Dev",
-      "issue": "",
       "fpage": "519",
       "lpage": "24",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib24": {
@@ -7607,17 +7341,10 @@
       "year": "2007",
       "volume": "32",
       "source": "Trends Biochem Sci",
-      "issue": "",
       "fpage": "6",
       "lpage": "11",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib25": {
@@ -7653,17 +7380,10 @@
       "year": "2010",
       "volume": "68",
       "source": "Neuron",
-      "issue": "",
       "fpage": "857",
       "lpage": "64",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib26": {
@@ -7699,17 +7419,10 @@
       "year": "2009",
       "volume": "187",
       "source": "J Cell Biol",
-      "issue": "",
       "fpage": "875",
       "lpage": "88",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib27": {
@@ -7729,17 +7442,10 @@
       "year": "2005",
       "volume": "4",
       "source": "Eukaryot Cell",
-      "issue": "",
       "fpage": "82",
       "lpage": "9",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib28": {
@@ -7763,17 +7469,10 @@
       "year": "2011",
       "volume": "10",
       "source": "Ageing Res Rev",
-      "issue": "",
       "fpage": "205",
       "lpage": "15",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib29": {
@@ -7801,17 +7500,10 @@
       "year": "2009",
       "volume": "16",
       "source": "Nat Struct Mol Biol",
-      "issue": "",
       "fpage": "589",
       "lpage": "97",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib30": {
@@ -7835,17 +7527,10 @@
       "year": "2009",
       "volume": "10",
       "source": "EMBO Rep",
-      "issue": "",
       "fpage": "1265",
       "lpage": "71",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib31": {
@@ -7865,17 +7550,10 @@
       "year": "2008",
       "volume": "384",
       "source": "J Mol Biol",
-      "issue": "",
       "fpage": "73",
       "lpage": "86",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib32": {
@@ -7907,17 +7585,10 @@
       "year": "2010",
       "volume": "15",
       "source": "Genes Cells",
-      "issue": "",
       "fpage": "911",
       "lpage": "22",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib33": {
@@ -7953,17 +7624,10 @@
       "year": "2010",
       "volume": "466",
       "source": "Nature",
-      "issue": "",
       "fpage": "1120",
       "lpage": "38",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib34": {
@@ -7987,17 +7651,10 @@
       "year": "2012",
       "volume": "14",
       "source": "Nat Cell Biol",
-      "issue": "",
       "fpage": "117",
       "lpage": "23",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib35": {
@@ -8013,17 +7670,10 @@
       "year": "1964",
       "volume": "51",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "585",
       "lpage": "92",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib36": {
@@ -8059,17 +7709,10 @@
       "year": "2007",
       "volume": "4",
       "source": "Nat Methods",
-      "issue": "",
       "fpage": "951",
       "lpage": "6",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib37": {
@@ -8085,17 +7728,10 @@
       "year": "2012",
       "volume": "191",
       "source": "Genetics",
-      "issue": "",
       "fpage": "671",
       "lpage": "702",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib38": {
@@ -8127,17 +7763,10 @@
       "year": "2011",
       "volume": "30",
       "source": "EMBO J",
-      "issue": "",
       "fpage": "1804",
       "lpage": "17",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib39": {
@@ -8169,17 +7798,10 @@
       "year": "2008",
       "volume": "103",
       "source": "J Cell Biochem",
-      "issue": "",
       "fpage": "492",
       "lpage": "508",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib40": {
@@ -8211,17 +7833,10 @@
       "year": "2009",
       "volume": "78",
       "source": "Annu Rev Biochem",
-      "issue": "",
       "fpage": "959",
       "lpage": "91",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib41": {
@@ -8257,17 +7872,10 @@
       "year": "2011",
       "volume": "13",
       "source": "Nat Cell Biol",
-      "issue": "",
       "fpage": "1116",
       "lpage": "23",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib42": {
@@ -8303,17 +7911,10 @@
       "year": "2002",
       "volume": "99",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "16707",
       "lpage": "12",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib43": {
@@ -8333,17 +7934,10 @@
       "year": "2009",
       "volume": "10",
       "source": "EMBO Rep",
-      "issue": "",
       "fpage": "44",
       "lpage": "50",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib44": {
@@ -8379,17 +7973,10 @@
       "year": "2009",
       "volume": "36",
       "source": "Mol Cell",
-      "issue": "",
       "fpage": "141",
       "lpage": "52",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib45": {
@@ -8413,17 +8000,10 @@
       "year": "2010",
       "volume": "330",
       "source": "Science",
-      "issue": "",
       "fpage": "369",
       "lpage": "72",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib46": {
@@ -8443,17 +8023,10 @@
       "year": "2011",
       "volume": "108",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "E1392",
       "lpage": "8",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib47": {
@@ -8473,17 +8046,10 @@
       "year": "2012",
       "volume": "19",
       "source": "Nat Struct Mol Biol",
-      "issue": "",
       "fpage": "594",
       "lpage": "601",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib48": {
@@ -8507,17 +8073,10 @@
       "year": "2011",
       "volume": "334",
       "source": "Science",
-      "issue": "",
       "fpage": "1086",
       "lpage": "90",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib49": {
@@ -8553,17 +8112,10 @@
       "year": "2008",
       "volume": "14",
       "source": "RNA",
-      "issue": "",
       "fpage": "1950",
       "lpage": "8",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib50": {
@@ -8599,17 +8151,10 @@
       "year": "2010",
       "volume": "6",
       "source": "Autophagy",
-      "issue": "",
       "fpage": "217",
       "lpage": "27",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib51": {
@@ -8645,17 +8190,10 @@
       "year": "2012",
       "volume": "46",
       "source": "Mol Cell",
-      "issue": "",
       "fpage": "518",
       "lpage": "29",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib52": {
@@ -8675,17 +8213,10 @@
       "year": "2000",
       "volume": "289",
       "source": "Science",
-      "issue": "",
       "fpage": "2117",
       "lpage": "20",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib53": {
@@ -8713,17 +8244,10 @@
       "year": "2002",
       "volume": "295",
       "source": "Science",
-      "issue": "",
       "fpage": "2262",
       "lpage": "4",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib54": {
@@ -8755,17 +8279,10 @@
       "year": "2011",
       "volume": "41",
       "source": "Mol Cell",
-      "issue": "",
       "fpage": "82",
       "lpage": "92",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib55": {
@@ -8801,17 +8318,10 @@
       "year": "2004",
       "volume": "36",
       "source": "Nat Genet",
-      "issue": "",
       "fpage": "377",
       "lpage": "81",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib56": {
@@ -8835,17 +8345,10 @@
       "year": "2007",
       "volume": "177",
       "source": "Genetics",
-      "issue": "",
       "fpage": "773",
       "lpage": "84",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib57": {
@@ -8861,17 +8364,10 @@
       "year": "2006",
       "volume": "156",
       "source": "J Struct Biol",
-      "issue": "",
       "fpage": "29",
       "lpage": "40",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib58": {
@@ -8895,17 +8391,10 @@
       "year": "2003",
       "volume": "162",
       "source": "J Cell Biol",
-      "issue": "",
       "fpage": "71",
       "lpage": "84",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "sub-article": {

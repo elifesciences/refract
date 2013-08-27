@@ -235,7 +235,6 @@
       "accepted_on": "2013-02-18",
       "published_on": "2013-04-02",
       "journal": "eLife",
-      "article_type": "",
       "keywords": [
         "neutralizing antibody",
         "Chikungunya virus",
@@ -250,10 +249,9 @@
       "subjects": [
         "Biophysics and structural biology"
       ],
-      "pdf_link": "",
-      "xml_link": "",
-      "json_link": "",
-      "doi": ""
+      "xml_link": "https://s3.amazonaws.com/elife-cdn/elife-articles/00435/elife00435.xml",
+      "json_link": "https://s3.amazonaws.com/elife-cdn/elife-articles/00435/00435.json",
+      "doi": "http://dx.doi.org/10.7554/eLife.00435"
     },
     "person_author_3395": {
       "type": "person",
@@ -262,9 +260,7 @@
       "last-name": "Sun",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Collected cryoEM data and produced cryoEM reconstructions, Determined the crystal structures of the Fab fragments and performed the model fitting, Wrote and critiqued the paper",
-      "email": "",
       "funding": []
     },
     "person_author_3396": {
@@ -274,9 +270,7 @@
       "last-name": "Xiang",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Collected cryoEM data and produced cryoEM reconstructions, Wrote and critiqued the paper",
-      "email": "",
       "funding": []
     },
     "person_author_3411": {
@@ -286,9 +280,7 @@
       "last-name": "Akahata",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Produced the CHIK VLPs as well as the m10 and m242 MAbs and Fab fragments",
-      "email": "",
       "funding": []
     },
     "person_author_3412": {
@@ -298,9 +290,7 @@
       "last-name": "Holdaway",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Helped with cryoEM data collection",
-      "email": "",
       "funding": []
     },
     "person_author_3415": {
@@ -310,9 +300,7 @@
       "last-name": "Pal",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Produced the CHK-9 and CHK-152 MAbs and Fab fragments, and performed all neutralization assays",
-      "email": "",
       "funding": []
     },
     "person_author_4032": {
@@ -322,9 +310,7 @@
       "last-name": "Zhang",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Re-determined the resolution of the CHIK VLP cryoEM map and helped in making additional figures suggested by the reviewers",
-      "email": "",
       "funding": []
     },
     "person_author_3413": {
@@ -334,9 +320,7 @@
       "last-name": "Diamond",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Produced the CHK-9 and CHK-152 MAbs and Fab fragments and performed all neutralization assays, Wrote and critiqued the paper",
-      "email": "",
       "funding": [
         "funding_par_2"
       ]
@@ -348,9 +332,7 @@
       "last-name": "Nabel",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Produced the CHIK VLPs as well as the m10 and m242 MAbs and Fab fragments, Wrote and critiqued the paper",
-      "email": "",
       "funding": []
     },
     "person_author_3281": {
@@ -360,7 +342,6 @@
       "last-name": "Rossmann",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Analyzed the fitted structures, wrote and critiqued the paper",
       "email": "email_cor1",
       "funding": [
@@ -372,27 +353,21 @@
       "id": "institution_aff1",
       "name": "Purdue University",
       "city": "West Lafayette",
-      "country": "United States",
-      "email": "",
-      "image": ""
+      "country": "United States"
     },
     "institution_aff2": {
       "type": "institution",
       "id": "institution_aff2",
       "name": "National Institute of Allergy and Infectious Diseases, National Institutes of Health",
       "city": "Bethesda",
-      "country": "United States",
-      "email": "",
-      "image": ""
+      "country": "United States"
     },
     "institution_aff3": {
       "type": "institution",
       "id": "institution_aff3",
       "name": "Washington University School of Medicine",
       "city": "St Louis",
-      "country": "United States",
-      "email": "",
-      "image": ""
+      "country": "United States"
     },
     "person_1": {
       "type": "person",
@@ -401,9 +376,6 @@
       "last-name": "Kühlbrandt",
       "role": "editor",
       "affiliations": [],
-      "image": "",
-      "contribution": "",
-      "email": "",
       "funding": []
     },
     "info:review": {
@@ -418,7 +390,6 @@
     "email_cor1": {
       "type": "email",
       "id": "email_cor1",
-      "node": "",
       "email": "mr@purdue.edu"
     },
     "info:copyright": {
@@ -607,8 +578,7 @@
     },
     "paragraph_18": {
       "type": "paragraph",
-      "id": "paragraph_18",
-      "content": ""
+      "id": "paragraph_18"
     },
     "heading_s1": {
       "type": "heading",
@@ -1143,19 +1113,12 @@
       "type": "image",
       "id": "image_fig1",
       "label": "Figure 1.",
-      "url": "",
-      "object_id": "F1",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00435/svg/elife00435f001.svg",
       "title": "Structure of the CHIK VLPs.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00435.003",
       "caption": "paragraph_image_fig1",
-      "graphic_id": "elife00435f001"
+      "graphic_id": "elife00435f001",
+      "format": "image"
     },
     "paragraph_image_fig1": {
       "type": "paragraph",
@@ -1937,11 +1900,9 @@
       "id": "table_tbl1",
       "label": "Table 1.",
       "content": "<table><thead><tr><td>A) Average height of the densities at the atomic positions (sumf) (<sup>Rossmann et al., 2001</sup>) on fitting the E1E2 heterodimer CHIKV structure into the cryoEM map at four quasi equivalent positions</td></tr><tr><td>All atoms</td><td>T = 4 fitting</td><td>Independent domain fitting</td></tr><tr><td></td><td></td><td>#1</td><td>#2</td><td>#3</td><td>#4</td><td>Average</td><td>#1</td><td>#2</td><td>#3</td><td>#4</td><td>Average</td></tr></thead><tbody><tr><td rowspan=3>E1<sup>*</sup></td><td>I</td><td>16.1</td><td>15.8</td><td>17.0</td><td>17.7</td><td>16.6</td><td>18.2</td><td>17.0</td><td>18.5</td><td>19.9</td><td>18.5</td></tr><tr><td>II</td><td>15.7</td><td>17.2</td><td>18.8</td><td>16.7</td><td>17.0</td><td>18.0</td><td>18.6</td><td>19.0</td><td>18.5</td><td>18.6</td></tr><tr><td>III</td><td>15.7</td><td>14.2</td><td>15.2</td><td>18.0</td><td>15.7</td><td>18.7</td><td>15.9</td><td>18.2</td><td>20.7</td><td>18.3</td></tr><tr><td rowspan=4>E2<sup>*</sup></td><td>A</td><td>15.5</td><td>18.0</td><td>19.0</td><td>17.5</td><td>17.4</td><td>18.8</td><td>17.8</td><td>19.9</td><td>19.4</td><td>18.8</td></tr><tr><td>B</td><td>10.0</td><td>9.4</td><td>9.6</td><td>9.6</td><td>9.8</td><td>10.9</td><td>11.3</td><td>11.7</td><td>12.4</td><td>11.7</td></tr><tr><td>C</td><td>15.3</td><td>15.4</td><td>19.0</td><td>19.1</td><td>16.8</td><td>21.0</td><td>19.9</td><td>20.2</td><td>22.4</td><td>20.5</td></tr><tr><td>D</td><td>13.3</td><td>16.4</td><td>15.8</td><td>16.1</td><td>15.4</td><td>16.4</td><td>17.2</td><td>16.0</td><td>16.8</td><td>16.5</td></tr><tr><td>Average</td><td></td><td>14.9</td><td>15.8</td><td>17.0</td><td>16.8</td><td>16.1</td><td>17.8</td><td>17.3</td><td>18.2</td><td>19.0</td><td>18.1</td></tr><tr><td><strong>Main chain atoms only</strong></td><td><strong>T = 4 fitting</strong></td><td><strong>Independent domain fitting</strong></td></tr><tr><td></td><td></td><td><strong>#1</strong></td><td><strong>#2</strong></td><td><strong>#3</strong></td><td><strong>#4</strong></td><td><strong>Average</strong></td><td><strong>#1</strong></td><td><strong>#2</strong></td><td><strong>#3</strong></td><td><strong>#4</strong></td><td><strong>Average</strong></td></tr><tr><td rowspan=3>E1<sup>*</sup></td><td>I</td><td>20.5</td><td>18.4</td><td>21.5</td><td>22.9</td><td>20.8</td><td>23.2</td><td>21.6</td><td>22.6</td><td>26.3</td><td>23.4</td></tr><tr><td>II</td><td>17.0</td><td>20.9</td><td>23.0</td><td>20.2</td><td>20.3</td><td>21.7</td><td>23.3</td><td>23.5</td><td>22.8</td><td>22.8</td></tr><tr><td>III</td><td>18.9</td><td>15.3</td><td>17.5</td><td>22.3</td><td>18.5</td><td>22.3</td><td>17.9</td><td>22.6</td><td>26.6</td><td>22.4</td></tr><tr><td rowspan=4>E2<sup>*</sup></td><td>A</td><td>16.5</td><td>21.1</td><td>22.2</td><td>19.4</td><td>19.8</td><td>22.0</td><td>20.3</td><td>23.4</td><td>22.6</td><td>22.1</td></tr><tr><td>B</td><td>10.7</td><td>9.4</td><td>9.9</td><td>10.1</td><td>10.0</td><td>10.8</td><td>11.2</td><td>13.0</td><td>13.4</td><td>12.1</td></tr><tr><td>C</td><td>18.7</td><td>19.5</td><td>27.4</td><td>26.9</td><td>23.1</td><td>27.7</td><td>27.1</td><td>27.4</td><td>30.8</td><td>28.3</td></tr><tr><td>D</td><td>13.4</td><td>18.7</td><td>18.5</td><td>18.5</td><td>17.3</td><td>19.4</td><td>19.8</td><td>19.1</td><td>19.0</td><td>19.3</td></tr><tr><td>Average</td><td></td><td>16.5</td><td>17.6</td><td>20.0</td><td>20.0</td><td>18.5</td><td>21.0</td><td>20.2</td><td>21.7</td><td>23.1</td><td>21.5</td></tr><tr><td><strong>B) Average height of the densities at the atomic positions (sumf) (<sup>Rossmann et al., 2001</sup>) on fitting the CHIKV homology model of the capsid protein into the cryoEM map at the four quasi equivalent positions</strong></td></tr><tr><td><strong>All atoms</strong></td><td><strong>T = 4 fitting</strong></td><td><strong>Independent domain fitting</strong></td></tr><tr><td></td><td></td><td><strong>#1</strong></td><td><strong>#2</strong></td><td><strong>#3</strong></td><td><strong>#4</strong></td><td><strong>Average</strong></td><td><strong>#1</strong></td><td><strong>#2</strong></td><td><strong>#3</strong></td><td><strong>#4</strong></td><td><strong>Average</strong></td></tr><tr><td>D1<sup>†</sup></td><td></td><td>14.9</td><td>13.3</td><td>13.9</td><td>16.1</td><td>14.6</td><td>16.1</td><td>14.6</td><td>15.4</td><td>17.3</td><td>15.8</td></tr><tr><td>D2<sup>†</sup></td><td></td><td>17.0</td><td>17.4</td><td>18.1</td><td>18.1</td><td>17.6</td><td>18.3</td><td>19.1</td><td>17.4</td><td>19.0</td><td>18.6</td></tr><tr><td>Average</td><td></td><td>16.0</td><td>15.4</td><td>16.0</td><td>17.2</td><td>16.1</td><td>17.4</td><td>17.1</td><td>16.5</td><td>18.2</td><td>17.3</td></tr><tr><td><strong>Main chain atoms only</strong></td><td><strong>T = 4 fitting</strong></td><td><strong>Independent domain fitting</strong></td></tr><tr><td></td><td></td><td><strong>#1</strong></td><td><strong>#2</strong></td><td><strong>#3</strong></td><td><strong>#4</strong></td><td><strong>Average</strong></td><td><strong>#1</strong></td><td><strong>#2</strong></td><td><strong>#3</strong></td><td><strong>#4</strong></td><td><strong>Average</strong></td></tr><tr><td>D1<sup>†</sup></td><td></td><td>18.5</td><td>16.5</td><td>17.8</td><td>18.9</td><td>17.9</td><td>20.4</td><td>16.9</td><td>19.2</td><td>22.7</td><td>19.8</td></tr><tr><td>D2<sup>†</sup></td><td></td><td>21.3</td><td>21.5</td><td>21.4</td><td>23.2</td><td>21.9</td><td>22.8</td><td>24.2</td><td>20.4</td><td>25.3</td><td>23.2</td></tr><tr><td>Average</td><td></td><td>19.9</td><td>19.0</td><td>19.6</td><td>21.1</td><td>19.9</td><td>21.8</td><td>21.0</td><td>19.9</td><td>24.1</td><td>21.6</td></tr><tr><td><strong>C) Average height of the densities at the atomic positions (sumf) (<sup>Rossmann et al., 2001</sup>) on fitting the CHIKV model of the transmembrane protein into the cryoEM map at the four quasi equivalent positions</strong></td></tr><tr><td><strong>All atoms</strong></td><td><strong>T = 4 fitting</strong></td><td><strong>Independent domain fitting</strong></td></tr><tr><td></td><td></td><td><strong>#1</strong></td><td><strong>#2</strong></td><td><strong>#3</strong></td><td><strong>#4</strong></td><td><strong>Average</strong></td><td><strong>#1</strong></td><td><strong>#2</strong></td><td><strong>#3</strong></td><td><strong>#4</strong></td><td><strong>Average</strong></td></tr><tr><td>E1<sup>‡</sup></td><td></td><td>13.7</td><td>14.6</td><td>13.2</td><td>18.6</td><td>15.0</td><td>13.9</td><td>14.4</td><td>14.7</td><td>17.5</td><td>15.1</td></tr><tr><td>E2<sup>‡</sup></td><td></td><td>14.7</td><td>12.8</td><td>11.8</td><td>17.5</td><td>14.2</td><td>15.1</td><td>14.1</td><td>13.7</td><td>18.9</td><td>15.5</td></tr><tr><td>Average</td><td></td><td>14.4</td><td>13.5</td><td>12.3</td><td>17.9</td><td>14.6</td><td>14.5</td><td>14.2</td><td>14.2</td><td>18.2</td><td>15.3</td></tr><tr><td><strong>Main chain atoms only</strong></td><td><strong>T = 4 fitting</strong></td><td><strong>Independent domain fitting</strong></td></tr><tr><td></td><td></td><td><strong>#1</strong></td><td><strong>#2</strong></td><td><strong>#3</strong></td><td><strong>#4</strong></td><td><strong>Average</strong></td><td><strong>#1</strong></td><td><strong>#2</strong></td><td><strong>#3</strong></td><td><strong>#4</strong></td><td><strong>Average</strong></td></tr><tr><td>E1<sup>‡</sup></td><td></td><td>16.2</td><td>17.6</td><td>16.0</td><td>24.1</td><td>18.5</td><td>15.7</td><td>17.3</td><td>16.7</td><td>23.9</td><td>18.4</td></tr><tr><td>E2<sup>‡</sup></td><td></td><td>16.7</td><td>15.0</td><td>13.6</td><td>20.7</td><td>16.5</td><td>17.7</td><td>16.7</td><td>15.8</td><td>23.7</td><td>18.5</td></tr><tr><td>Average</td><td></td><td>16.5</td><td>16.0</td><td>14.4</td><td>22.0</td><td>17.5</td><td>16.7</td><td>17.0</td><td>16.2</td><td>23.8</td><td>18.4</td></tr></tbody></table>",
-      "title": "",
       "footers": [],
       "doi": "http://dx.doi.org/10.7554/eLife.00435.004",
-      "caption": "paragraph_table_tbl1",
-      "format": ""
+      "caption": "paragraph_table_tbl1"
     },
     "paragraph_table_tbl1": {
       "type": "paragraph",
@@ -1951,8 +1912,7 @@
     "footer_tblfn1": {
       "type": "footer",
       "id": "footer_tblfn1",
-      "content": "*",
-      "label": ""
+      "content": "*"
     },
     "paragraph_123": {
       "type": "paragraph",
@@ -1973,19 +1933,12 @@
       "type": "image",
       "id": "image_fig2",
       "label": "Figure 2.",
-      "url": "",
-      "object_id": "F2",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00435/svg/elife00435f002.svg",
       "title": "Diagrammatic representation of contacts between amino acid residues in adjacent subunits.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00435.005",
       "caption": "paragraph_image_fig2",
-      "graphic_id": "elife00435f002"
+      "graphic_id": "elife00435f002",
+      "format": "image"
     },
     "paragraph_image_fig2": {
       "type": "paragraph",
@@ -2105,19 +2058,12 @@
       "type": "image",
       "id": "image_fig3",
       "label": "Figure 3.",
-      "url": "",
-      "object_id": "F3",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00435/svg/elife00435f003.svg",
       "title": "Fit of the atomic structure into the cryoEM density.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00435.006",
       "caption": "paragraph_image_fig3",
-      "graphic_id": "elife00435f003"
+      "graphic_id": "elife00435f003",
+      "format": "image"
     },
     "paragraph_image_fig3": {
       "type": "paragraph",
@@ -2155,11 +2101,9 @@
       "id": "table_tbl2",
       "label": "Table 2.",
       "content": "<table><thead><tr><td></td><td>Quasi equivalent positions</td></tr><tr><td>Domains</td><td></td><td>#1</td><td>#2</td><td>#3</td><td>#4</td></tr></thead><tbody><tr><td rowspan=5>E1</td><td>I 36 to II 37</td><td>4.6</td><td>5.6</td><td>5.5</td><td>3.5</td></tr><tr><td>II 131 to I 132</td><td>4.8</td><td>4.1</td><td>4.4</td><td>4.1</td></tr><tr><td>I 168 to II 169</td><td>2.8</td><td>6.4</td><td>5.4</td><td>5.1</td></tr><tr><td>II 272 to I 273</td><td>5.8</td><td>4.7</td><td>3.9</td><td>2.1</td></tr><tr><td>I 293 to III 294</td><td>5.4</td><td>6.9</td><td>3.7</td><td>5.0</td></tr><tr><td rowspan=4>E2</td><td>D 15 to A 16</td><td>3.8</td><td>6.3</td><td>5.7</td><td>5.9</td></tr><tr><td>A134 to D135</td><td>3.1</td><td>5.0</td><td>4.4</td><td>2.3</td></tr><tr><td>D172 to B173</td><td>3.4</td><td>8.8</td><td>3.0</td><td>5.7</td></tr><tr><td>B231 to D232</td><td>6.2</td><td>7.7</td><td>5.9</td><td>7.2</td></tr><tr><td rowspan=2>NCP</td><td>D268 to C269</td><td>5.1</td><td>5.2</td><td>4.1</td><td>4.0</td></tr><tr><td>(D1)183 to (D2)184</td><td>1.2</td><td>2.2</td><td>1.6</td><td>1.6</td></tr></tbody></table>",
-      "title": "",
       "footers": [],
       "doi": "http://dx.doi.org/10.7554/eLife.00435.007",
-      "caption": "paragraph_table_tbl2",
-      "format": ""
+      "caption": "paragraph_table_tbl2"
     },
     "paragraph_table_tbl2": {
       "type": "paragraph",
@@ -2171,11 +2115,9 @@
       "id": "table_tbl3",
       "label": "Table 3.",
       "content": "<table><thead><tr><td>Hinge angle change in E1 between domain I and domain II (in degrees)</td></tr><tr><td></td><td>Position #1</td><td>Position #2</td><td>Position #3</td><td>Position #4</td></tr></thead><tbody><tr><td>Crystal structure</td><td>-14.4</td><td>-6.6</td><td>7.5</td><td>-8.3</td></tr><tr><td>Position #1</td><td></td><td>8.0</td><td>9.3</td><td>6.8</td></tr><tr><td>Position #2</td><td></td><td></td><td>3.1</td><td>2.1</td></tr><tr><td>Position #3</td><td></td><td></td><td></td><td>-3.3</td></tr><tr><td><strong>Hinge angle change in E1 between domain I and domain III (in degrees)</strong></td></tr><tr><td></td><td><strong>Position #1</strong></td><td><strong>Position #2</strong></td><td><strong>Position #3</strong></td><td><strong>Position #4</strong></td></tr><tr><td>Crystal structure</td><td>-7.3</td><td>-8.0</td><td>-9.4</td><td>2.1</td></tr><tr><td>Position #1</td><td></td><td>-3.5</td><td>10.3</td><td>7.7</td></tr><tr><td>Position #2</td><td></td><td></td><td>13.0</td><td>9.2</td></tr><tr><td>Position #3</td><td></td><td></td><td></td><td>7.6</td></tr><tr><td><strong>Hinge angle change in E2 between domain A and domain B (in degrees)</strong></td></tr><tr><td></td><td><strong>Position #1</strong></td><td><strong>Position #2</strong></td><td><strong>Position #3</strong></td><td><strong>Position #4</strong></td></tr><tr><td>Crystal structure</td><td>-8.4</td><td>10.4</td><td>22.2</td><td>-22.3</td></tr><tr><td>Position #1</td><td></td><td>-14.1</td><td>25.5</td><td>-29.7</td></tr><tr><td>Position #2</td><td></td><td></td><td>26.6</td><td>-28.6</td></tr><tr><td>Position #3</td><td></td><td></td><td></td><td>-26.3</td></tr><tr><td><strong>Hinge angle change in E2 between domain A and domain C (in degrees)</strong></td></tr><tr><td></td><td><strong>Position #1</strong></td><td><strong>Position #2</strong></td><td><strong>Position #3</strong></td><td><strong>Position #4</strong></td></tr><tr><td>Crystal structure</td><td>-11.5</td><td>-10.4</td><td>-7.6</td><td>-17.1</td></tr><tr><td>Position #1</td><td></td><td>-4.8</td><td>-8.6</td><td>-7.3</td></tr><tr><td>Position #2</td><td></td><td></td><td>7.2</td><td>8.3</td></tr><tr><td>Position #3</td><td></td><td></td><td></td><td>-14.8</td></tr></tbody></table>",
-      "title": "",
       "footers": [],
       "doi": "http://dx.doi.org/10.7554/eLife.00435.008",
-      "caption": "paragraph_table_tbl3",
-      "format": ""
+      "caption": "paragraph_table_tbl3"
     },
     "paragraph_table_tbl3": {
       "type": "paragraph",
@@ -2187,11 +2129,9 @@
       "id": "table_tbl4",
       "label": "Table 4.",
       "content": "<table><thead><tr><td>E1</td><td>#1</td><td>#2</td><td>#3</td><td>#4</td><td>Xtal</td></tr></thead><tbody><tr><td>#1</td><td>0.00</td><td>1.21</td><td>1.25</td><td>1.08</td><td>1.69</td></tr><tr><td>#2</td><td></td><td>0.00</td><td>1.28</td><td>1.27</td><td>1.52</td></tr><tr><td>#3</td><td></td><td></td><td>0.00</td><td>1.10</td><td>1.68</td></tr><tr><td>#4</td><td></td><td></td><td></td><td>0.00</td><td>1.17</td></tr><tr><td>Xtal</td><td></td><td></td><td></td><td></td><td>0.00</td></tr><tr><td><strong>E2</strong></td><td><strong>#1</strong></td><td><strong>#2</strong></td><td><strong>#3</strong></td><td><strong>#4</strong></td><td><strong>Xtal</strong></td></tr><tr><td>#1</td><td>0.00</td><td>2.18</td><td>1.79</td><td>1.90</td><td>1.50</td></tr><tr><td>#2</td><td></td><td>0.00</td><td>2.34</td><td>2.38</td><td>2.17</td></tr><tr><td>#3</td><td></td><td></td><td>0.00</td><td>2.28</td><td>1.84</td></tr><tr><td>#4</td><td></td><td></td><td></td><td>0.00</td><td>1.92</td></tr><tr><td>Xtal</td><td></td><td></td><td></td><td></td><td>0.00</td></tr><tr><td><strong>E1&E2</strong></td><td><strong>#1</strong></td><td><strong>#2</strong></td><td><strong>#3</strong></td><td><strong>#4</strong></td><td><strong>Xtal</strong></td></tr><tr><td>#1</td><td>0.00</td><td>1.94</td><td>1.65</td><td>1.68</td><td>2.28</td></tr><tr><td>#2</td><td></td><td>0.00</td><td>2.16</td><td>2.14</td><td>2.24</td></tr><tr><td>#3</td><td></td><td></td><td>0.00</td><td>1.87</td><td>2.37</td></tr><tr><td>#4</td><td></td><td></td><td></td><td>0.00</td><td>1.88</td></tr><tr><td>Xtal</td><td></td><td></td><td></td><td></td><td>0.00</td></tr><tr><td><strong>Capsid</strong></td><td><strong>#1</strong></td><td><strong>#2</strong></td><td><strong>#3</strong></td><td><strong>#4</strong></td><td><strong>Xtal</strong></td></tr><tr><td>#1</td><td>0.00</td><td>0.49</td><td>0.73</td><td>0.71</td><td>0.48</td></tr><tr><td>#2</td><td></td><td>0.00</td><td>1.09</td><td>0.94</td><td>0.71</td></tr><tr><td>#3</td><td></td><td></td><td>0.00</td><td>0.63</td><td>0.56</td></tr><tr><td>#4</td><td></td><td></td><td></td><td>0.00</td><td>0.52</td></tr><tr><td>Xtal</td><td></td><td></td><td></td><td></td><td>0.00</td></tr></tbody></table>",
-      "title": "",
       "footers": [],
       "doi": "http://dx.doi.org/10.7554/eLife.00435.009",
-      "caption": "paragraph_table_tbl4",
-      "format": ""
+      "caption": "paragraph_table_tbl4"
     },
     "paragraph_table_tbl4": {
       "type": "paragraph",
@@ -2203,11 +2143,9 @@
       "id": "table_tbl5",
       "label": "Table 5.",
       "content": "<table><thead><tr><td>A) Correlation between cryoEM densities in the four quasi equivalent positions of the E1 and E2 glycoproteins.</td></tr><tr><td>All atoms</td><td>T = 4 fitting</td><td>Independent domain fitting</td></tr><tr><td></td><td>1</td><td>2</td><td>3</td><td>4</td><td>B</td><td>1</td><td>2</td><td>3</td><td>4</td><td>B</td></tr></thead><tbody><tr><td>1</td><td>1.00</td><td>0.17</td><td>0.23</td><td>0.08</td><td>0.22</td><td>1.00</td><td>0.40</td><td>0.44</td><td>0.40</td><td>0.21</td></tr><tr><td>2</td><td></td><td>1.00</td><td>0.28</td><td>0.38</td><td>0.30</td><td></td><td>1.00</td><td>0.41</td><td>0.30</td><td>0.28</td></tr><tr><td>3</td><td></td><td></td><td>1.00</td><td>0.40</td><td>0.28</td><td></td><td></td><td>1.00</td><td>0.36</td><td>0.28</td></tr><tr><td>4</td><td></td><td></td><td></td><td>1.00</td><td>0.19</td><td></td><td></td><td></td><td>1.00</td><td>0.15</td></tr><tr><td>B</td><td></td><td></td><td></td><td></td><td>1.00</td><td></td><td></td><td></td><td></td><td>1.00</td></tr><tr><td><strong>Main chain atoms only</strong></td><td><strong>T = 4 fitting</strong></td><td><strong>Independent domain fitting</strong></td></tr><tr><td></td><td><strong>1</strong></td><td><strong>2</strong></td><td><strong>#3</strong></td><td><strong>4</strong></td><td><strong>B</strong></td><td><strong>1</strong></td><td><strong>2</strong></td><td><strong>3</strong></td><td><strong>4</strong></td><td><strong>B</strong></td></tr><tr><td>1</td><td>1.00</td><td>0.11</td><td>0.20</td><td>0.11</td><td>0.19</td><td>1.00</td><td>0.40</td><td>0.41</td><td>0.41</td><td>0.22</td></tr><tr><td>2</td><td></td><td>1.00</td><td>0.31</td><td>0.30</td><td>0.30</td><td></td><td>1.00</td><td>0.36</td><td>0.32</td><td>0.26</td></tr><tr><td>3</td><td></td><td></td><td>1.00</td><td>0.41</td><td>0.27</td><td></td><td></td><td>1.00</td><td>0.37</td><td>0.26</td></tr><tr><td>4</td><td></td><td></td><td></td><td>1.00</td><td>0.16</td><td></td><td></td><td></td><td>1.00</td><td>0.12</td></tr><tr><td>B</td><td></td><td></td><td></td><td></td><td>1.00</td><td></td><td></td><td></td><td></td><td>1.00</td></tr><tr><td><strong>B) Correlation between cryoEM densities of the four quasi equivalent capsid proteins.</strong></td></tr><tr><td><strong>All atoms</strong></td><td><strong>T = 4 fitting</strong></td><td><strong>Independent domain fitting</strong></td><td></td><td></td></tr><tr><td></td><td><strong>#1</strong></td><td><strong>#2</strong></td><td><strong>#3</strong></td><td><strong>#4</strong></td><td><strong>#1</strong></td><td><strong>#2</strong></td><td><strong>#3</strong></td><td><strong>#4</strong></td><td></td><td></td></tr><tr><td>#1</td><td>1.00</td><td>0.41</td><td>0.18</td><td>0.17</td><td>1.00</td><td>0.20</td><td>0.19</td><td>0.30</td><td></td><td></td></tr><tr><td>#2</td><td></td><td>1.00</td><td>0.26</td><td>0.25</td><td></td><td>1.00</td><td>0.45</td><td>0.42</td><td></td><td></td></tr><tr><td>#3</td><td></td><td></td><td>1.00</td><td>0.13</td><td></td><td></td><td>1.00</td><td>0.41</td><td></td><td></td></tr><tr><td>#4</td><td></td><td></td><td></td><td>1.00</td><td></td><td></td><td></td><td>1.00</td><td></td><td></td></tr><tr><td><strong>Main chain atoms only</strong></td><td><strong>T = 4 fitting</strong></td><td><strong>Independent domain fitting</strong></td><td></td><td></td></tr><tr><td></td><td><strong>#1</strong></td><td><strong>#2</strong></td><td><strong>#3</strong></td><td><strong>#4</strong></td><td><strong>#1</strong></td><td><strong>#2</strong></td><td><strong>#3</strong></td><td><strong>#4</strong></td><td></td><td></td></tr><tr><td>#1</td><td>1.00</td><td>0.37</td><td>0.16</td><td>0.26</td><td>1.00</td><td>0.22</td><td>0.17</td><td>0.33</td><td></td><td></td></tr><tr><td>#2</td><td></td><td>1.00</td><td>0.31</td><td>0.27</td><td></td><td>1.00</td><td>0.34</td><td>0.43</td><td></td><td></td></tr><tr><td>#3</td><td></td><td></td><td>1.00</td><td>0.15</td><td></td><td></td><td>1.00</td><td>0.31</td><td></td><td></td></tr><tr><td>#4</td><td></td><td></td><td></td><td>1.00</td><td></td><td></td><td></td><td>1.00</td><td></td><td></td></tr><tr><td><strong>C) Correlation between cryoEM densities of the four quasi equivalent E1&E2 TM and endodomain regions.</strong></td></tr><tr><td><strong>All atoms</strong></td><td><strong>T = 4 fitting</strong></td><td><strong>Independent domain fitting</strong></td><td></td><td></td></tr><tr><td></td><td><strong>#1</strong></td><td><strong>#2</strong></td><td><strong>#3</strong></td><td><strong>#4</strong></td><td><strong>#1</strong></td><td><strong>#2</strong></td><td><strong>#3</strong></td><td><strong>#4</strong></td><td></td><td></td></tr><tr><td>#1</td><td>1.00</td><td>0.43</td><td>0.17</td><td>0.41</td><td>1.00</td><td>0.37</td><td>0.34</td><td>0.35</td><td></td><td></td></tr><tr><td>#2</td><td></td><td>1.00</td><td>0.24</td><td>0.38</td><td></td><td>1.00</td><td>0.44</td><td>0.34</td><td></td><td></td></tr><tr><td>#3</td><td></td><td></td><td>1.00</td><td>0.20</td><td></td><td></td><td>1.00</td><td>0.46</td><td></td><td></td></tr><tr><td>#4</td><td></td><td></td><td></td><td>1.00</td><td></td><td></td><td></td><td>1.00</td><td></td><td></td></tr><tr><td><strong>Main chain atoms only</strong></td><td><strong>T = 4 fitting</strong></td><td><strong>Independent domain fitting</strong></td><td></td><td></td></tr><tr><td></td><td><strong>#1</strong></td><td><strong>#2</strong></td><td><strong>#3</strong></td><td><strong>#4</strong></td><td><strong>#1</strong></td><td><strong>#2</strong></td><td><strong>#3</strong></td><td><strong>#4</strong></td><td></td><td></td></tr><tr><td>#1</td><td>1.00</td><td>0.28</td><td>0.08</td><td>0.27</td><td>1.00</td><td>0.23</td><td>0.11</td><td>0.26</td><td></td><td></td></tr><tr><td>#2</td><td></td><td>1.00</td><td>0.17</td><td>0.43</td><td></td><td>1.00</td><td>0.40</td><td>0.36</td><td></td><td></td></tr><tr><td>#3</td><td></td><td></td><td>1.00</td><td>0.14</td><td></td><td></td><td>1.00</td><td>0.50</td><td></td><td></td></tr><tr><td>#4</td><td></td><td></td><td></td><td>1.00</td><td></td><td></td><td></td><td>1.00</td><td></td><td></td></tr></tbody></table>",
-      "title": "",
       "footers": [],
       "doi": "http://dx.doi.org/10.7554/eLife.00435.010",
-      "caption": "paragraph_table_tbl5",
-      "format": ""
+      "caption": "paragraph_table_tbl5"
     },
     "paragraph_table_tbl5": {
       "type": "paragraph",
@@ -2282,11 +2220,9 @@
       "id": "table_tbl6",
       "label": "Table 6.",
       "content": "<table><thead><tr><td>Spike position</td><td>Total</td><td>Hydrophobic</td><td>Possible H bonds</td><td>Possible salt bridges</td></tr><tr><td>A) Number of atom-to-atom contacts between E1-E2 in heterodimer</td></tr></thead><tbody><tr><td>i3</td><td>#1</td><td>234</td><td>99 (42%)</td><td>34 (13%)</td><td>0</td></tr><tr><td rowspan=3>q3</td><td>#2</td><td>254</td><td>112 (44%)</td><td>25 (10%)</td><td>0</td></tr><tr><td>#3</td><td>179</td><td>59 (33%)</td><td>33 (18%)</td><td>0</td></tr><tr><td>#4</td><td>302</td><td>118 (39%)</td><td>39 (13%)</td><td>4 (1%)</td></tr><tr><td>Crystal</td><td></td><td>86</td><td>1 (1%)</td><td>32 (37%)</td><td>1 (1%)</td></tr><tr><td><strong>B) Number of atom-to-atom contacts of E2 with other E2s within a spike</strong></td></tr><tr><td>i3</td><td>#1</td><td>229</td><td>46 (20%)</td><td>30 (13%)</td><td>82 (36%)</td></tr><tr><td rowspan=3>q3</td><td>#2</td><td>70</td><td>8 (11%)</td><td>10 (14%)</td><td>33 (47%)</td></tr><tr><td>#3</td><td>47</td><td>14 (30%)</td><td>6 (13%)</td><td>10 (21%)</td></tr><tr><td>#4</td><td>74</td><td>118 (23%)</td><td>24 (46%)</td><td>7 (9%)</td></tr><tr><td><strong>C) Number of atom-to-atom contacts between glycoprotein spikes</strong></td></tr><tr><td rowspan=2>q3 to q3</td><td>A#3 - D #4</td><td>123</td><td>42 (34%)</td><td>21 (17%)</td><td>7 (5%)</td></tr><tr><td>A#4 - D#4</td><td>130</td><td>52 (40%)</td><td>18 (14%)</td><td>1 (1%)</td></tr><tr><td rowspan=3>i3 to q3</td><td>A#2 - B#1</td><td>58</td><td>27 (47%)</td><td>7 (12%)</td><td>0</td></tr><tr><td>A#1 - A#2</td><td>88</td><td>29 (33%)</td><td>19 (22%)</td><td>0</td></tr><tr><td>A#1 - A#3</td><td>11</td><td>8 (73%)</td><td>2 (8%)</td><td>0</td></tr><tr><td><strong>D) Number of atom-to-atom contacts between E1 and E2 within the spikes.</strong></td></tr><tr><td rowspan=2>q3</td><td>A#2 - A#3</td><td>30</td><td>16 (34%)</td><td>5 (17%)</td><td>0</td></tr><tr><td>A#3 - A#4</td><td>20</td><td>8 (40%)</td><td>3 (14%)</td><td>0</td></tr><tr><td rowspan=2>i3</td><td>A#4 - A#2</td><td>56</td><td>25 (47%)</td><td>11 (12%)</td><td>0</td></tr><tr><td>A#1 - B#1</td><td>224</td><td>112 (50%)</td><td>21 (9%)</td><td>22 (10%)</td></tr><tr><td><strong>E) Number of atom-to-atom contacts between capsid proteins</strong><sup>*</sup></td></tr><tr><td></td><td>A#2 - B#1</td><td>79</td><td>20 (25%)</td><td>13 (16%)</td><td>15 (19%)</td></tr><tr><td></td><td>A#1 - A#3</td><td>11</td><td>3 (27%)</td><td>1 (9%)</td><td>3 (27%)</td></tr><tr><td></td><td>A#3 - D#2</td><td>183</td><td>51 (28%)</td><td>22 (12%)</td><td>38 (21%)</td></tr><tr><td></td><td>A#4 - D#4</td><td>19</td><td>5 (26%)</td><td>2 (11%)</td><td>8 (42%)</td></tr><tr><td></td><td>A#1 - B#1</td><td>20</td><td>9 (45%)</td><td>2 (10%)</td><td>2 (10%)</td></tr><tr><td><strong>F) Number of atom-to-atom contacts between E1 & E2 in TM region</strong></td></tr><tr><td></td><td>#1</td><td>100</td><td>60 (60%)</td><td>3 (3%)</td><td>0</td></tr><tr><td></td><td>#2</td><td>82</td><td>43 (52%)</td><td>8 (10%)</td><td>0</td></tr><tr><td></td><td>#3</td><td>20</td><td>12 (60%)</td><td>1 (5%)</td><td>0</td></tr><tr><td></td><td>#4</td><td>28</td><td>24 (86%)</td><td>0</td><td>0</td></tr></tbody></table>",
-      "title": "",
       "footers": [],
       "doi": "http://dx.doi.org/10.7554/eLife.00435.011",
-      "caption": "paragraph_table_tbl6",
-      "format": ""
+      "caption": "paragraph_table_tbl6"
     },
     "paragraph_table_tbl6": {
       "type": "paragraph",
@@ -2296,8 +2232,7 @@
     "footer_tblfn4": {
       "type": "footer",
       "id": "footer_tblfn4",
-      "content": "*",
-      "label": ""
+      "content": "*"
     },
     "paragraph_142": {
       "type": "paragraph",
@@ -2340,11 +2275,9 @@
       "id": "table_tbl7",
       "label": "Table 7.",
       "content": "<table><thead><tr><td rowspan=2>Distance from particle center (Å)</td><td>Radii of gyration (Å)</td><td># of atoms</td></tr><tr><td>i3</td><td>q3</td><td>SINV<sup>*</sup> crystal</td><td>i3</td><td>q3</td><td>SINV<sup>*</sup> crystal</td></tr></thead><tbody><tr><td>255</td><td>58.3</td><td>61.0</td><td>63.3</td><td>42</td><td>34</td><td>62</td></tr><tr><td>265</td><td>53.5</td><td>57.3</td><td>54.9</td><td>131</td><td>126</td><td>118</td></tr><tr><td>275</td><td>41.1</td><td>46.9</td><td>42.6</td><td>125</td><td>122</td><td>101</td></tr><tr><td>285</td><td>30.1</td><td>33.1</td><td>30.1</td><td>84</td><td>90</td><td>80</td></tr><tr><td>295</td><td>33.2</td><td>34.2</td><td>33.8</td><td>85</td><td>80</td><td>91</td></tr><tr><td>305</td><td>33.3</td><td>31.9</td><td>31.3</td><td>90</td><td>89</td><td>82</td></tr><tr><td>315</td><td>30.7</td><td>31.2</td><td>24.5</td><td>70</td><td>80</td><td>92</td></tr><tr><td>325</td><td>26.7</td><td>25.9</td><td></td><td>41</td><td>47</td><td></td></tr><tr><td>335</td><td>31.0</td><td>29.0</td><td></td><td>1</td><td>1</td><td></td></tr><tr><td>Overall</td><td>40.5</td><td>42.4</td><td>41.9</td><td>669</td><td>669</td><td>626</td></tr></tbody></table>",
-      "title": "",
       "footers": [],
       "doi": "http://dx.doi.org/10.7554/eLife.00435.012",
-      "caption": "paragraph_table_tbl7",
-      "format": ""
+      "caption": "paragraph_table_tbl7"
     },
     "paragraph_table_tbl7": {
       "type": "paragraph",
@@ -2354,8 +2287,7 @@
     "footer_tblfn5": {
       "type": "footer",
       "id": "footer_tblfn5",
-      "content": "*",
-      "label": ""
+      "content": "*"
     },
     "paragraph_146": {
       "type": "paragraph",
@@ -2844,11 +2776,9 @@
       "id": "table_tbl8",
       "label": "Table 8.",
       "content": "<table><thead><tr><td></td><td>E1-E2</td><td>TM</td><td>Capsid</td></tr></thead><tbody><tr><td></td><td>A1</td><td>A2</td><td>A3</td><td>A4</td><td>A1</td><td>A2</td><td>A3</td><td>A4</td><td>A1</td><td>A2</td><td>A3</td><td>A4</td></tr><tr><td>d in Å</td><td>2.6</td><td>3.5</td><td>3.5</td><td>2.2</td><td>4.8</td><td>2.3</td><td>2.1</td><td>3.0</td><td>9.6</td><td>7.7</td><td>9.0</td><td>9.7</td></tr><tr><td>κ in degrees</td><td>2.3</td><td>3.6</td><td>3.7</td><td>3.4</td><td>5.4</td><td>8.2</td><td>10.4</td><td>10.0</td><td>9.7</td><td>8.0</td><td>10.0</td><td>11.7</td></tr><tr><td>dCα in Å</td><td>2.7</td><td>2.5</td><td>2.4</td><td>2.1</td><td>2.6</td><td>2.2</td><td>2.5</td><td>2.0</td><td>1.1</td><td>1.2</td><td>1.2</td><td>1.2</td></tr><tr><td>num</td><td>696</td><td>680</td><td>709</td><td>714</td><td>115</td><td>100</td><td>99</td><td>101</td><td>149</td><td>149</td><td>149</td><td>149</td></tr><tr><td>% identity</td><td>E1 = 56%, E2 = 34%</td><td>TM = 24%</td><td>Capsid = 62%</td></tr></tbody></table>",
-      "title": "",
       "footers": [],
       "doi": "http://dx.doi.org/10.7554/eLife.00435.013",
-      "caption": "paragraph_table_tbl8",
-      "format": ""
+      "caption": "paragraph_table_tbl8"
     },
     "paragraph_table_tbl8": {
       "type": "paragraph",
@@ -2858,8 +2788,7 @@
     "footer_187": {
       "type": "footer",
       "id": "footer_187",
-      "content": "Differences between the positions of the centers of mass (d) and orientation (κ) relative to the icosahedral symmetry axes of the (E1-E2) heterodiners, the trans membrane (TM) helices and capsid proteins at positions A1, A2, A3 and A4 (see Figure 2). The RMS distances (dCα) are given between the number (num) of equivalent Cα positions of the superimposed molecules A1 to A4. The percentage of identical amino acids in the aligned proteins is given on the last line of the table",
-      "label": ""
+      "content": "Differences between the positions of the centers of mass (d) and orientation (κ) relative to the icosahedral symmetry axes of the (E1-E2) heterodiners, the trans membrane (TM) helices and capsid proteins at positions A1, A2, A3 and A4 (see Figure 2). The RMS distances (dCα) are given between the number (num) of equivalent Cα positions of the superimposed molecules A1 to A4. The percentage of identical amino acids in the aligned proteins is given on the last line of the table"
     },
     "figure_reference_188": {
       "type": "figure_reference",
@@ -2921,19 +2850,12 @@
       "type": "image",
       "id": "image_fig4",
       "label": "Figure 4.",
-      "url": "",
-      "object_id": "F4",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00435/svg/elife00435f004.svg",
       "title": "CHIKV VLP Fab complexes.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00435.014",
       "caption": "paragraph_image_fig4",
-      "graphic_id": "elife00435f004"
+      "graphic_id": "elife00435f004",
+      "format": "image"
     },
     "paragraph_image_fig4": {
       "type": "paragraph",
@@ -2944,19 +2866,12 @@
       "type": "image",
       "id": "image_fig5",
       "label": "Figure 5.",
-      "url": "",
-      "object_id": "F5",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00435/svg/elife00435f005.svg",
       "title": "Inhibition of CHIKV by IgG and Fab fragments.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00435.015",
       "caption": "paragraph_image_fig5",
-      "graphic_id": "elife00435f005"
+      "graphic_id": "elife00435f005",
+      "format": "image"
     },
     "paragraph_image_fig5": {
       "type": "paragraph",
@@ -3095,11 +3010,9 @@
       "id": "table_tbl9",
       "label": "Table 9.",
       "content": "<table><thead><tr><td></td><td>Fab m242</td><td>Fab CHK9</td></tr></thead><tbody><tr><td>Data collection</td><td></td><td></td></tr><tr><td>X-ray source</td><td>23-ID-B</td><td>23-ID-B</td></tr><tr><td>Wavelength (Å)</td><td>1.03</td><td>1.03</td></tr><tr><td>Resolution (Å)</td><td>3.1</td><td>3</td></tr><tr><td>Space group</td><td>P2<sub>1</sub>2<sub>1</sub>2</td><td>C2</td></tr><tr><td>Unit cell (Å)</td><td>a = 137.0, b = 89.1, c = 94.4</td><td>a = 87.9, b = 57.7, c = 118.1</td></tr><tr><td>Unique reflections</td><td>21,115</td><td>35,876</td></tr><tr><td>Average redundancy</td><td>3.7</td><td>5.8</td></tr><tr><td>I/σ<sup>*</sup></td><td>17.5 (4.9)</td><td>25.0 (5.0)</td></tr><tr><td>Completeness (%)</td><td>98.3 (96.4)</td><td>99.6 (99.9)</td></tr><tr><td><em>R</em><sub>merge</sub> (%)<sup>†</sup></td><td>10.1 (23.4)</td><td>5.5 (39.2)</td></tr><tr><td><strong>Refinement</strong></td><td></td><td></td></tr><tr><td>Resolution (Å)</td><td>3.1</td><td>1.8</td></tr><tr><td><em>R</em><sub>working</sub> (%)<sup>‡</sup></td><td>29.3 (34.5)</td><td>18.7 (23.3)</td></tr><tr><td><em>R</em><sub>free</sub> (%)<sup>§</sup></td><td>33.1 (34.3)</td><td>22.0 (27.7)</td></tr><tr><td>rmsd bonds (Å)</td><td>0.005</td><td>0.01</td></tr><tr><td>rmsd angels (°)</td><td>0.85</td><td>0.91</td></tr><tr><td># of residues Ramachandran disallowed</td><td>0</td><td>1</td></tr></tbody></table>",
-      "title": "",
       "footers": [],
       "doi": "http://dx.doi.org/10.7554/eLife.00435.016",
-      "caption": "paragraph_table_tbl9",
-      "format": ""
+      "caption": "paragraph_table_tbl9"
     },
     "paragraph_table_tbl9": {
       "type": "paragraph",
@@ -3109,8 +3022,7 @@
     "footer_tblfn6": {
       "type": "footer",
       "id": "footer_tblfn6",
-      "content": "*",
-      "label": ""
+      "content": "*"
     },
     "paragraph_204": {
       "type": "paragraph",
@@ -3370,19 +3282,12 @@
       "type": "image",
       "id": "image_fig6",
       "label": "Figure 6.",
-      "url": "",
-      "object_id": "F6",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00435/svg/elife00435f006.svg",
       "title": "Fit of the Fab structures (blue) into the cryoEM density “difference” maps (hatched grey surface) calculated as described for Figure 4.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00435.017",
       "caption": "paragraph_image_fig6",
-      "graphic_id": "elife00435f006"
+      "graphic_id": "elife00435f006",
+      "format": "image"
     },
     "paragraph_image_fig6": {
       "type": "paragraph",
@@ -3406,19 +3311,12 @@
       "type": "image",
       "id": "image_fig7",
       "label": "Figure 7.",
-      "url": "",
-      "object_id": "F7",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00435/svg/elife00435f007.svg",
       "title": "“Road maps” showing footprint of four neutralizing Fabs on the VLP surface at position #3 as defined in Figure 2.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00435.018",
       "caption": "paragraph_image_fig7",
-      "graphic_id": "elife00435f007"
+      "graphic_id": "elife00435f007",
+      "format": "image"
     },
     "paragraph_image_fig7": {
       "type": "paragraph",
@@ -4071,9 +3969,8 @@
     "formula_fx1": {
       "type": "formula",
       "id": "formula_fx1",
-      "label": "",
       "content": "<mml:mrow><mml:mfrac><mml:mrow><mml:mtext>CC</mml:mtext><mml:mo>=</mml:mo><mml:mo>∑</mml:mo><mml:msub><mml:mrow><mml:mo>[</mml:mo><mml:mo>(</mml:mo><mml:mtext>ρ</mml:mtext></mml:mrow><mml:mtext>i</mml:mtext></mml:msub><mml:msub><mml:mrow><mml:mo>(</mml:mo><mml:mtext>A</mml:mtext><mml:mo>)</mml:mo><mml:mo>-</mml:mo><mml:mo><</mml:mo><mml:mo>ρ</mml:mo></mml:mrow><mml:mtext>i</mml:mtext></mml:msub><mml:msub><mml:mrow><mml:mo>(</mml:mo><mml:mtext>A</mml:mtext><mml:mo>)</mml:mo><mml:mo>></mml:mo><mml:mo>)</mml:mo><mml:mo>(</mml:mo><mml:mo>ρ</mml:mo></mml:mrow><mml:mtext>i</mml:mtext></mml:msub><mml:msub><mml:mrow><mml:mo>(</mml:mo><mml:mtext>B</mml:mtext><mml:mo>)</mml:mo><mml:mo>-</mml:mo><mml:mo><</mml:mo><mml:mo>ρ</mml:mo></mml:mrow><mml:mtext>i</mml:mtext></mml:msub><mml:mo>(</mml:mo><mml:mtext>B</mml:mtext><mml:mo>)</mml:mo><mml:mtext>></mml:mtext><mml:mo>)</mml:mo><mml:mo>]</mml:mo></mml:mrow><mml:mrow><mml:msup><mml:mrow><mml:mo>[</mml:mo><mml:mo>∑</mml:mo><mml:msup><mml:mrow><mml:msub><mml:mrow><mml:mo>(</mml:mo><mml:mo>ρ</mml:mo></mml:mrow><mml:mtext>i</mml:mtext></mml:msub><mml:msub><mml:mrow><mml:mo>(</mml:mo><mml:mtext>A</mml:mtext><mml:mo>)</mml:mo><mml:mo>-</mml:mo><mml:mo><</mml:mo><mml:mo>ρ</mml:mo></mml:mrow><mml:mtext>i</mml:mtext></mml:msub><mml:mo>(</mml:mo><mml:mtext>A</mml:mtext><mml:mo>)</mml:mo><mml:mo>></mml:mo><mml:mo>)</mml:mo></mml:mrow><mml:mn>2</mml:mn></mml:msup><mml:mo>∑</mml:mo><mml:msup><mml:mrow><mml:msub><mml:mrow><mml:mo>(</mml:mo><mml:mtext>ρ</mml:mtext></mml:mrow><mml:mtext>i</mml:mtext></mml:msub><mml:msub><mml:mrow><mml:mo>(</mml:mo><mml:mtext>B</mml:mtext><mml:mo>)</mml:mo><mml:mo>-</mml:mo><mml:mo><</mml:mo><mml:mo>ρ</mml:mo></mml:mrow><mml:mtext>i</mml:mtext></mml:msub><mml:mo>(</mml:mo><mml:mtext>B</mml:mtext><mml:mo>)</mml:mo><mml:mo>></mml:mo><mml:mo>)</mml:mo></mml:mrow><mml:mn>2</mml:mn></mml:msup><mml:mo>]</mml:mo></mml:mrow><mml:mo>½</mml:mo></mml:msup></mml:mrow></mml:mfrac></mml:mrow>",
-      "format": "mml"
+      "format": "mathml"
     },
     "heading_s3-6": {
       "type": "heading",
@@ -4115,9 +4012,8 @@
     "formula_fx2": {
       "type": "formula",
       "id": "formula_fx2",
-      "label": "",
       "content": "<mml:mrow><mml:msup><mml:mtext>r</mml:mtext><mml:mtext>g</mml:mtext></mml:msup><mml:mo>=</mml:mo><mml:msqrt><mml:mfrac><mml:mrow><mml:mo>∑</mml:mo><mml:mo>(</mml:mo><mml:msup><mml:mrow><mml:msub><mml:mtext>r</mml:mtext><mml:mtext>i</mml:mtext></mml:msub></mml:mrow><mml:mn>2</mml:mn></mml:msup><mml:mo>)</mml:mo></mml:mrow><mml:mtext>N</mml:mtext></mml:mfrac></mml:msqrt><mml:mtext>,</mml:mtext></mml:mrow>",
-      "format": "mml"
+      "format": "mathml"
     },
     "paragraph_283": {
       "type": "paragraph",
@@ -4435,17 +4331,11 @@
       "year": "2010",
       "volume": "16",
       "source": "Nat Med",
-      "issue": "",
       "fpage": "334",
       "lpage": "8",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nm.2105",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib2": {
@@ -4469,17 +4359,11 @@
       "year": "2000",
       "volume": "276",
       "source": "Virology",
-      "issue": "",
       "fpage": "93",
       "lpage": "103",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1006/viro.2000.0546",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib3": {
@@ -4495,17 +4379,10 @@
       "year": "1992",
       "volume": "355",
       "source": "Nature",
-      "issue": "",
       "fpage": "472",
       "lpage": "5",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "annotation_297": {
@@ -4546,17 +4423,10 @@
       "year": "1997",
       "volume": "71",
       "source": "J Virol",
-      "issue": "",
       "fpage": "1558",
       "lpage": "66",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib5": {
@@ -4588,17 +4458,11 @@
       "year": "2012",
       "volume": "726",
       "source": "Adv Exp Med Biol",
-      "issue": "",
       "fpage": "49",
       "lpage": "90",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1007/978-1-4614-0980-9_4",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib6": {
@@ -4614,17 +4478,10 @@
       "year": "1995",
       "volume": "51",
       "source": "Acta Crystallogr A",
-      "issue": "",
       "fpage": "69",
       "lpage": "80",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib7": {
@@ -4660,17 +4517,10 @@
       "year": "1995",
       "volume": "80",
       "source": "Cell",
-      "issue": "",
       "fpage": "621",
       "lpage": "30",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib8": {
@@ -4702,17 +4552,10 @@
       "year": "1997",
       "volume": "27",
       "source": "Proteins",
-      "issue": "",
       "fpage": "345",
       "lpage": "59",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib9": {
@@ -4748,17 +4591,11 @@
       "year": "1991",
       "volume": "354",
       "source": "Nature",
-      "issue": "",
       "fpage": "37",
       "lpage": "43",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/354037a0",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib10": {
@@ -4794,17 +4631,11 @@
       "year": "2004",
       "volume": "432",
       "source": "Nature",
-      "issue": "",
       "fpage": "122",
       "lpage": "5",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nature03053",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib11": {
@@ -4840,17 +4671,11 @@
       "year": "2009",
       "volume": "200",
       "source": "J Infect Dis",
-      "issue": "",
       "fpage": "516",
       "lpage": "23",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1086/600381",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib12": {
@@ -4886,17 +4711,10 @@
       "year": "1991",
       "volume": "183",
       "source": "Virology",
-      "issue": "",
       "fpage": "20",
       "lpage": "31",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib13": {
@@ -4916,17 +4734,10 @@
       "year": "1993",
       "volume": "67",
       "source": "J Virol",
-      "issue": "",
       "fpage": "3363",
       "lpage": "74",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib14": {
@@ -4946,17 +4757,11 @@
       "year": "2005",
       "volume": "13",
       "source": "Structure",
-      "issue": "",
       "fpage": "389",
       "lpage": "400",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.str.2005.01.007",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib15": {
@@ -4976,17 +4781,10 @@
       "year": "1990",
       "volume": "175",
       "source": "Virology",
-      "issue": "",
       "fpage": "274",
       "lpage": "81",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib16": {
@@ -5006,17 +4804,10 @@
       "year": "1991",
       "volume": "183",
       "source": "Virology",
-      "issue": "",
       "fpage": "206",
       "lpage": "14",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib17": {
@@ -5052,17 +4843,11 @@
       "year": "2004",
       "volume": "427",
       "source": "Nature",
-      "issue": "",
       "fpage": "320",
       "lpage": "5",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nature02239",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib18": {
@@ -5086,17 +4871,11 @@
       "year": "2007",
       "volume": "157",
       "source": "J Struct Biol",
-      "issue": "",
       "fpage": "281",
       "lpage": "7",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.jsb.2006.06.010",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib19": {
@@ -5110,19 +4889,12 @@
       ],
       "title": "Alphaviruses",
       "year": "2007",
-      "volume": "",
       "source": ".",
-      "issue": "",
-      "fpage": "",
-      "lpage": "",
-      "collab": "",
       "edition": "5th ed.",
       "publisher-name": "Lippincott Williams & WIlkins",
       "publisher-loc": "Philadelphia",
-      "doi": "",
       "citation_url": [],
       "format": "book",
-      "label": "",
       "editors": [
         {
           "given-names": "DM",
@@ -5163,17 +4935,10 @@
       "year": "2001",
       "volume": "260",
       "source": "Curr Top Microbiol Immunol",
-      "issue": "",
       "fpage": "191",
       "lpage": "200",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib21": {
@@ -5189,17 +4954,11 @@
       "year": "2007",
       "volume": "157",
       "source": "J Struct Biol",
-      "issue": "",
       "fpage": "117",
       "lpage": "25",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.jsb.2006.05.004",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib22": {
@@ -5219,17 +4978,10 @@
       "year": "1990",
       "volume": "64",
       "source": "J Virol",
-      "issue": "",
       "fpage": "3069",
       "lpage": "73",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib23": {
@@ -5253,17 +5005,11 @@
       "year": "2008",
       "volume": "82",
       "source": "J Virol",
-      "issue": "",
       "fpage": "5750",
       "lpage": "60",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1128/JVI.02673-07",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib24": {
@@ -5287,17 +5033,11 @@
       "year": "2006",
       "volume": "80",
       "source": "J Virol",
-      "issue": "",
       "fpage": "8848",
       "lpage": "55",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1128/JVI.00619-06",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib25": {
@@ -5329,17 +5069,10 @@
       "year": "2010",
       "volume": "4",
       "source": "PLoS Negl Trop Dis",
-      "issue": "",
       "fpage": "e739",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1371/journal.pntd.0000739",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib26": {
@@ -5375,17 +5108,11 @@
       "year": "2010",
       "volume": "107",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "18950",
       "lpage": "5",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1073/pnas.1011036107",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib27": {
@@ -5405,17 +5132,11 @@
       "year": "2006",
       "volume": "4",
       "source": "Nat Rev Microbiol",
-      "issue": "",
       "fpage": "67",
       "lpage": "76",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nrmicro1326",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib28": {
@@ -5443,17 +5164,11 @@
       "year": "2003",
       "volume": "96",
       "source": "Ultramicroscopy",
-      "issue": "",
       "fpage": "219",
       "lpage": "27",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/S0304-3991(03)00020-2",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib29": {
@@ -5489,17 +5204,10 @@
       "year": "1993",
       "volume": "67",
       "source": "J Virol",
-      "issue": "",
       "fpage": "1269",
       "lpage": "77",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib30": {
@@ -5523,17 +5231,10 @@
       "year": "1998",
       "volume": "72",
       "source": "J Virol",
-      "issue": "",
       "fpage": "7357",
       "lpage": "66",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib31": {
@@ -5569,17 +5270,11 @@
       "year": "2011",
       "volume": "85",
       "source": "J Virol",
-      "issue": "",
       "fpage": "9327",
       "lpage": "33",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1128/JVI.05015-11",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib32": {
@@ -5593,19 +5288,12 @@
       ],
       "title": "Togaviridae: the viruses and their replication",
       "year": "2007",
-      "volume": "",
       "source": "Fields virology",
-      "issue": "",
-      "fpage": "",
-      "lpage": "",
-      "collab": "",
       "edition": "5th ed.",
       "publisher-name": "Lippincott Williams & Wilkins",
       "publisher-loc": "Philadelphia",
-      "doi": "",
       "citation_url": [],
       "format": "book",
-      "label": "",
       "editors": [
         {
           "given-names": "DM",
@@ -5642,17 +5330,11 @@
       "year": "2008",
       "volume": "89",
       "source": "J Gen Virol",
-      "issue": "",
       "fpage": "1945",
       "lpage": "8",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1099/vir.0.83628-0",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib34": {
@@ -5672,17 +5354,10 @@
       "year": "2012",
       "volume": "80",
       "source": "Proteins",
-      "issue": "",
       "fpage": "884",
       "lpage": "95",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib35": {
@@ -5706,17 +5381,11 @@
       "year": "2010",
       "volume": "78",
       "source": "Proteins",
-      "issue": "",
       "fpage": "3205",
       "lpage": "11",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1002/prot.22845",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib36": {
@@ -5748,17 +5417,10 @@
       "year": "2002",
       "volume": "76",
       "source": "J Virol",
-      "issue": "",
       "fpage": "6302",
       "lpage": "10",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib37": {
@@ -5794,17 +5456,10 @@
       "year": "1996",
       "volume": "4",
       "source": "Structure",
-      "issue": "",
       "fpage": "531",
       "lpage": "41",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib38": {
@@ -5840,17 +5495,10 @@
       "year": "2001",
       "volume": "105",
       "source": "Cell",
-      "issue": "",
       "fpage": "137",
       "lpage": "48",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib39": {
@@ -5882,17 +5530,11 @@
       "year": "2010",
       "volume": "468",
       "source": "Nature",
-      "issue": "",
       "fpage": "705",
       "lpage": "8",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nature09546",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib40": {
@@ -5920,17 +5562,10 @@
       "year": "2004",
       "volume": "10",
       "source": "RNA",
-      "issue": "",
       "fpage": "128",
       "lpage": "38",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib41": {
@@ -5954,17 +5589,11 @@
       "year": "1999",
       "volume": "128",
       "source": "J Struct Biol",
-      "issue": "",
       "fpage": "82",
       "lpage": "97",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1006/jsbi.1999.4174",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib42": {
@@ -6000,17 +5629,11 @@
       "year": "2007",
       "volume": "40",
       "source": "J Appl Cryst",
-      "issue": "",
       "fpage": "658",
       "lpage": "74",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1107/S0021889807021206",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "annotation_298": {
@@ -6043,17 +5666,10 @@
       "year": "1993",
       "volume": "67",
       "source": "J Virol",
-      "issue": "",
       "fpage": "5117",
       "lpage": "25",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib44": {
@@ -6073,17 +5689,10 @@
       "year": "1995",
       "volume": "69",
       "source": "J Virol",
-      "issue": "",
       "fpage": "1621",
       "lpage": "7",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib45": {
@@ -6107,17 +5716,11 @@
       "year": "1997",
       "volume": "53",
       "source": "Acta Crystallogr D",
-      "issue": "",
       "fpage": "240",
       "lpage": "55",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1107/S0907444996012255",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib46": {
@@ -6135,19 +5738,11 @@
       ],
       "title": "Processing of x-ray diffraction data collected in oscillation mode",
       "year": "1997",
-      "volume": "",
       "source": "Methods in Enzymology",
-      "issue": "",
-      "fpage": "",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
       "publisher-name": "Academic Press",
       "publisher-loc": "New York",
-      "doi": "",
       "citation_url": [],
       "format": "book",
-      "label": "",
       "editors": [
         {
           "given-names": "W",
@@ -6176,17 +5771,10 @@
       "year": "1996",
       "volume": "70",
       "source": "J Virol",
-      "issue": "",
       "fpage": "2757",
       "lpage": "63",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib48": {
@@ -6206,17 +5794,11 @@
       "year": "1997",
       "volume": "230",
       "source": "Virology",
-      "issue": "",
       "fpage": "187",
       "lpage": "96",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1006/viro.1997.8480",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib49": {
@@ -6252,17 +5834,10 @@
       "year": "1993",
       "volume": "90",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "9095",
       "lpage": "9",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib50": {
@@ -6294,17 +5869,11 @@
       "year": "2001",
       "volume": "75",
       "source": "J Virol",
-      "issue": "",
       "fpage": "1",
       "lpage": "10",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1128/JVI.75.1.1-10.2001",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib51": {
@@ -6328,17 +5897,11 @@
       "year": "2007",
       "volume": "88",
       "source": "J Gen Virol",
-      "issue": "",
       "fpage": "1545",
       "lpage": "54",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1099/vir.0.82577-0",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib52": {
@@ -6362,17 +5925,11 @@
       "year": "2008",
       "volume": "82",
       "source": "J Virol",
-      "issue": "",
       "fpage": "2966",
       "lpage": "74",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1128/JVI.02060-07",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib53": {
@@ -6408,17 +5965,10 @@
       "year": "2001",
       "volume": "105",
       "source": "Cell",
-      "issue": "",
       "fpage": "127",
       "lpage": "36",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib54": {
@@ -6438,17 +5988,11 @@
       "year": "2007",
       "volume": "88",
       "source": "J Gen Virol",
-      "issue": "",
       "fpage": "2363",
       "lpage": "77",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1099/vir.0.82858-0",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib55": {
@@ -6464,17 +6008,10 @@
       "year": "1955",
       "volume": "49",
       "source": "Trans R Soc Trop Med Hyg",
-      "issue": "",
       "fpage": "28",
       "lpage": "32",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib56": {
@@ -6494,17 +6031,10 @@
       "year": "1975",
       "volume": "250",
       "source": "J Biol Chem",
-      "issue": "",
       "fpage": "7525",
       "lpage": "32",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "annotation_299": {
@@ -6554,17 +6084,11 @@
       "year": "2001",
       "volume": "136",
       "source": "J Struct Biol",
-      "issue": "",
       "fpage": "190",
       "lpage": "200",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1006/jsbi.2002.4435",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib58": {
@@ -6584,17 +6108,10 @@
       "year": "1962",
       "volume": "15",
       "source": "Acta Crystallogr",
-      "issue": "",
       "fpage": "24",
       "lpage": "31",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib60": {
@@ -6630,17 +6147,11 @@
       "year": "2007",
       "volume": "81",
       "source": "J Virol",
-      "issue": "",
       "fpage": "3563",
       "lpage": "73",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1128/JVI.02494-06",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib61": {
@@ -6676,17 +6187,11 @@
       "year": "2008",
       "volume": "135",
       "source": "Virus Res",
-      "issue": "",
       "fpage": "36",
       "lpage": "41",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.virusres.2008.02.004",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib62": {
@@ -6710,17 +6215,11 @@
       "year": "2010",
       "volume": "464",
       "source": "Nature",
-      "issue": "",
       "fpage": "1218",
       "lpage": "22",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nature08892",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib63": {
@@ -6748,17 +6247,10 @@
       "year": "1984",
       "volume": "51",
       "source": "J Virol",
-      "issue": "",
       "fpage": "254",
       "lpage": "8",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib64": {
@@ -6782,17 +6274,11 @@
       "year": "2008",
       "volume": "92",
       "source": "Med Clin North Am",
-      "issue": "",
       "fpage": "1323",
       "lpage": "43",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.mcna.2008.07.008",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib65": {
@@ -6820,17 +6306,10 @@
       "year": "1996",
       "volume": "4",
       "source": "Structure",
-      "issue": "",
       "fpage": "519",
       "lpage": "29",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib66": {
@@ -6866,17 +6345,10 @@
       "year": "1995",
       "volume": "92",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "10648",
       "lpage": "52",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib67": {
@@ -6908,17 +6380,11 @@
       "year": "2009",
       "volume": "393",
       "source": "Virology",
-      "issue": "",
       "fpage": "183",
       "lpage": "97",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.virol.2009.07.024",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib68": {
@@ -6954,17 +6420,11 @@
       "year": "2010",
       "volume": "84",
       "source": "J Virol",
-      "issue": "",
       "fpage": "11145",
       "lpage": "51",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1128/JVI.00036-10",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib69": {
@@ -6988,17 +6448,11 @@
       "year": "2004",
       "volume": "147",
       "source": "J Struct Biol",
-      "issue": "",
       "fpage": "315",
       "lpage": "26",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.jsb.2004.03.002",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib70": {
@@ -7034,17 +6488,11 @@
       "year": "2007",
       "volume": "157",
       "source": "J Struct Biol",
-      "issue": "",
       "fpage": "38",
       "lpage": "46",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.jsb.2006.05.009",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib71": {
@@ -7076,17 +6524,10 @@
       "year": "1999",
       "volume": "73",
       "source": "J Virol",
-      "issue": "",
       "fpage": "5309",
       "lpage": "19",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib72": {
@@ -7106,17 +6547,10 @@
       "year": "2000",
       "volume": "74",
       "source": "J Virol",
-      "issue": "",
       "fpage": "4302",
       "lpage": "9",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib73": {
@@ -7144,17 +6578,10 @@
       "year": "1992",
       "volume": "48",
       "source": "Acta Crystallogr A",
-      "issue": "",
       "fpage": "430",
       "lpage": "42",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib74": {
@@ -7190,17 +6617,11 @@
       "year": "2008",
       "volume": "16",
       "source": "Structure",
-      "issue": "",
       "fpage": "295",
       "lpage": "307",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.str.2007.11.016",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib75": {
@@ -7232,17 +6653,11 @@
       "year": "2008",
       "volume": "16",
       "source": "Structure",
-      "issue": "",
       "fpage": "673",
       "lpage": "83",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.str.2008.03.005",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib76": {
@@ -7270,17 +6685,10 @@
       "year": "2007",
       "volume": "3",
       "source": "PLoS Pathog",
-      "issue": "",
       "fpage": "e201",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1371/journal.ppat.0030201",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib77": {
@@ -7296,17 +6704,10 @@
       "year": "1987",
       "volume": "21",
       "source": "Ultramicroscopy",
-      "issue": "",
       "fpage": "95",
       "lpage": "100",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib78": {
@@ -7326,17 +6727,11 @@
       "year": "1994",
       "volume": "236",
       "source": "J Mol Biol",
-      "issue": "",
       "fpage": "572",
       "lpage": "83",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1006/jmbi.1994.1166",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib79": {
@@ -7356,17 +6751,11 @@
       "year": "1999",
       "volume": "125",
       "source": "J Struct Biol",
-      "issue": "",
       "fpage": "176",
       "lpage": "84",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1006/jsbi.1998.4074",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib80": {
@@ -7402,17 +6791,11 @@
       "year": "2010",
       "volume": "468",
       "source": "Nature",
-      "issue": "",
       "fpage": "709",
       "lpage": "12",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nature09555",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib81": {
@@ -7432,17 +6815,10 @@
       "year": "1992",
       "volume": "116",
       "source": "J Cell Biol",
-      "issue": "",
       "fpage": "339",
       "lpage": "48",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib82": {
@@ -7474,17 +6850,10 @@
       "year": "2003",
       "volume": "77",
       "source": "J Virol",
-      "issue": "",
       "fpage": "1204",
       "lpage": "10",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib83": {
@@ -7516,17 +6885,10 @@
       "year": "1989",
       "volume": "63",
       "source": "J Virol",
-      "issue": "",
       "fpage": "5310",
       "lpage": "8",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib84": {
@@ -7546,17 +6908,11 @@
       "year": "2007",
       "volume": "158",
       "source": "J Struct Biol",
-      "issue": "",
       "fpage": "182",
       "lpage": "7",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.jsb.2006.10.013",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib85": {
@@ -7592,17 +6948,11 @@
       "year": "2011",
       "volume": "30",
       "source": "EMBO J",
-      "issue": "",
       "fpage": "3854",
       "lpage": "63",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/emboj.2011.261",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib86": {
@@ -7630,17 +6980,11 @@
       "year": "2005",
       "volume": "332",
       "source": "Virology",
-      "issue": "",
       "fpage": "511",
       "lpage": "8",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.virol.2004.11.043",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib87": {
@@ -7676,17 +7020,10 @@
       "year": "2002",
       "volume": "76",
       "source": "J Virol",
-      "issue": "",
       "fpage": "11645",
       "lpage": "58",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib88": {
@@ -7718,17 +7055,10 @@
       "year": "2010",
       "volume": "397",
       "source": "J Mol Biol",
-      "issue": "",
       "fpage": "835",
       "lpage": "51",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "sub-article": {

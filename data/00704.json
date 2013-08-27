@@ -98,7 +98,6 @@
       "accepted_on": "2013-04-29",
       "published_on": "2013-06-04",
       "journal": "elife",
-      "article_type": "",
       "keywords": [
         "mitoplast",
         "MICU1",
@@ -114,10 +113,9 @@
         "Biochemistry",
         "Cell biology"
       ],
-      "pdf_link": "",
-      "xml_link": "",
-      "json_link": "",
-      "doi": ""
+      "xml_link": "https://s3.amazonaws.com/elife-cdn/elife-articles/00704/elife00704.xml",
+      "json_link": "https://s3.amazonaws.com/elife-cdn/elife-articles/00704/00704.json",
+      "doi": "http://dx.doi.org/10.7554/eLife.00704"
     },
     "annotation_1": {
       "type": "emphasis",
@@ -139,9 +137,7 @@
       "last-name": "Chaudhuri",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article",
-      "email": "",
       "funding": [
         "funding_par_1"
       ]
@@ -153,9 +149,7 @@
       "last-name": "Sancak",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article",
-      "email": "",
       "funding": [
         "funding_par_3"
       ]
@@ -167,9 +161,7 @@
       "last-name": "Mootha",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Drafting or revising the article",
-      "email": "",
       "funding": [
         "funding_par_2"
       ]
@@ -181,7 +173,6 @@
       "last-name": "Clapham",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Drafting or revising the article",
       "email": "email_cor1",
       "funding": [
@@ -193,45 +184,35 @@
       "id": "institution_aff1",
       "name": "Massachusetts General Hospital",
       "city": "Boston",
-      "country": "United States",
-      "email": "",
-      "image": ""
+      "country": "United States"
     },
     "institution_aff2": {
       "type": "institution",
       "id": "institution_aff2",
       "name": "Howard Hughes Medical Institute, Boston Children’s Hospital",
       "city": "Boston",
-      "country": "United States",
-      "email": "",
-      "image": ""
+      "country": "United States"
     },
     "institution_aff3": {
       "type": "institution",
       "id": "institution_aff3",
       "name": "Massachusetts General Hospital",
       "city": "Boston",
-      "country": "United States",
-      "email": "",
-      "image": ""
+      "country": "United States"
     },
     "institution_aff4": {
       "type": "institution",
       "id": "institution_aff4",
       "name": "Harvard Medical School",
       "city": "Boston",
-      "country": "United States",
-      "email": "",
-      "image": ""
+      "country": "United States"
     },
     "institution_aff5": {
       "type": "institution",
       "id": "institution_aff5",
       "name": "Harvard Medical School",
       "city": "Boston",
-      "country": "United States",
-      "email": "",
-      "image": ""
+      "country": "United States"
     },
     "person_2": {
       "type": "person",
@@ -240,9 +221,6 @@
       "last-name": "Aldrich",
       "role": "editor",
       "affiliations": [],
-      "image": "",
-      "contribution": "",
-      "email": "",
       "funding": []
     },
     "info:review": {
@@ -257,7 +235,6 @@
     "email_cor1": {
       "type": "email",
       "id": "email_cor1",
-      "node": "",
       "email": "dclapham@enders.tch.harvard.edu"
     },
     "info:copyright": {
@@ -704,7 +681,6 @@
       "type": "funding",
       "id": "funding_par_3",
       "institution": "Helen Hay Whitney Foundation",
-      "accession": "",
       "person": "person_author_4418",
       "given-names": "Yasemin",
       "last-name": "Sancak"
@@ -713,7 +689,6 @@
       "type": "funding",
       "id": "funding_par_4",
       "institution": "Howard Hughes Medical Institute",
-      "accession": "",
       "person": "person_author_2150",
       "given-names": "David E",
       "last-name": "Clapham"
@@ -729,8 +704,7 @@
     },
     "paragraph_40": {
       "type": "paragraph",
-      "id": "paragraph_40",
-      "content": ""
+      "id": "paragraph_40"
     },
     "heading_s1": {
       "type": "heading",
@@ -1335,19 +1309,12 @@
       "type": "image",
       "id": "image_fig1",
       "label": "Figure 1.",
-      "url": "",
-      "object_id": "F1",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00704/svg/elife00704f001.svg",
       "title": "MCU expression recapitulates IMiCa.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00704.003",
       "caption": "paragraph_image_fig1",
-      "graphic_id": "elife00704f001"
+      "graphic_id": "elife00704f001",
+      "format": "image"
     },
     "paragraph_image_fig1": {
       "type": "paragraph",
@@ -2316,19 +2283,12 @@
       "type": "image",
       "id": "image_fig2",
       "label": "Figure 2.",
-      "url": "",
-      "object_id": "F2",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00704/svg/elife00704f002.svg",
       "title": "MCU mutants alter IMiCa sensitivity to RuR.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00704.004",
       "caption": "paragraph_image_fig2",
-      "graphic_id": "elife00704f002"
+      "graphic_id": "elife00704f002",
+      "format": "image"
     },
     "paragraph_image_fig2": {
       "type": "paragraph",
@@ -3451,17 +3411,11 @@
       "year": "2004",
       "volume": "123",
       "source": "J Gen Physiol",
-      "issue": "",
       "fpage": "109",
       "lpage": "19",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1085/jgp.200308935",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "annotation_249": {
@@ -3490,17 +3444,11 @@
       "year": "2009",
       "volume": "1787",
       "source": "Biochim Biophys Acta",
-      "issue": "",
       "fpage": "1334",
       "lpage": "41",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.bbabio.2009.05.011",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib3": {
@@ -3536,17 +3484,11 @@
       "year": "2011",
       "volume": "476",
       "source": "Nature",
-      "issue": "",
       "fpage": "341",
       "lpage": "5",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nature10234",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib4": {
@@ -3570,17 +3512,10 @@
       "year": "2012",
       "volume": "336",
       "source": "Science",
-      "issue": "",
       "fpage": "886",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1126/science.1214977",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib5": {
@@ -3612,17 +3547,11 @@
       "year": "2011",
       "volume": "476",
       "source": "Nature",
-      "issue": "",
       "fpage": "336",
       "lpage": "40",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nature10230",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib6": {
@@ -3642,17 +3571,11 @@
       "year": "1961",
       "volume": "47",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "1744",
       "lpage": "50",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1073/pnas.47.11.1744",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib7": {
@@ -3676,17 +3599,11 @@
       "year": "2012",
       "volume": "151",
       "source": "Cell",
-      "issue": "",
       "fpage": "400",
       "lpage": "13",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.cell.2012.09.010",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib8": {
@@ -3714,17 +3631,10 @@
       "year": "2012",
       "volume": "3",
       "source": "Nat Commun",
-      "issue": "",
       "fpage": "1317",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/ncomms2325",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib9": {
@@ -3748,17 +3658,11 @@
       "year": "2004",
       "volume": "427",
       "source": "Nature",
-      "issue": "",
       "fpage": "360",
       "lpage": "4",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nature02246",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib10": {
@@ -3794,17 +3698,11 @@
       "year": "2012",
       "volume": "14",
       "source": "Nat Cell Biol",
-      "issue": "",
       "fpage": "1336",
       "lpage": "43",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/ncb2669",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib11": {
@@ -3840,17 +3738,11 @@
       "year": "2010",
       "volume": "467",
       "source": "Nature",
-      "issue": "",
       "fpage": "291",
       "lpage": "6",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nature09358",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib12": {
@@ -3886,17 +3778,11 @@
       "year": "2010",
       "volume": "141",
       "source": "Cell",
-      "issue": "",
       "fpage": "290",
       "lpage": "303",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.cell.2010.02.024",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib13": {
@@ -3932,17 +3818,11 @@
       "year": "2012",
       "volume": "149",
       "source": "Cell",
-      "issue": "",
       "fpage": "1112",
       "lpage": "24",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.cell.2012.03.041",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib14": {
@@ -3962,17 +3842,11 @@
       "year": "1995",
       "volume": "1241",
       "source": "Biochim Biophys Acta",
-      "issue": "",
       "fpage": "139",
       "lpage": "76",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/0304-4157(95)00003-A",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "sub-article": {

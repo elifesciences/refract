@@ -277,7 +277,6 @@
       "accepted_on": "2013-05-31",
       "published_on": "2013-06-25",
       "journal": "elife",
-      "article_type": "",
       "keywords": [
         "Brachypodium",
         "Post-translational arithmetic",
@@ -290,10 +289,9 @@
       "subjects": [
         "Plant biology"
       ],
-      "pdf_link": "",
-      "xml_link": "",
-      "json_link": "",
-      "doi": ""
+      "xml_link": "https://s3.amazonaws.com/elife-cdn/elife-articles/00669/elife00669.xml",
+      "json_link": "https://s3.amazonaws.com/elife-cdn/elife-articles/00669/00669.json",
+      "doi": "http://dx.doi.org/10.7554/eLife.00669"
     },
     "person_author_4174": {
       "type": "person",
@@ -302,9 +300,7 @@
       "last-name": "Scialdone",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Constructed and analyzed the models, statistically analyzed the results, wrote the paper",
-      "email": "",
       "funding": []
     },
     "person_author_4344": {
@@ -314,9 +310,7 @@
       "last-name": "Mugford",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Performed the Arabidopsis experiments, wrote the paper",
-      "email": "",
       "funding": []
     },
     "person_author_4345": {
@@ -326,9 +320,7 @@
       "last-name": "Feike",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Performed the Arabidopsis experiments",
-      "email": "",
       "funding": []
     },
     "person_author_4346": {
@@ -338,9 +330,7 @@
       "last-name": "Skeffington",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Performed the Arabidopsis experiments",
-      "email": "",
       "funding": []
     },
     "person_author_4347": {
@@ -350,9 +340,7 @@
       "last-name": "Borrill",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Performed the Arabidopsis experiments",
-      "email": "",
       "funding": []
     },
     "person_author_4348": {
@@ -362,9 +350,7 @@
       "last-name": "Graf",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Performed the Brachypodium experiments",
-      "email": "",
       "funding": []
     },
     "person_author_4351": {
@@ -374,7 +360,6 @@
       "last-name": "Smith",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conceived the study, wrote the paper",
       "email": "email:cor1",
       "funding": [
@@ -390,7 +375,6 @@
       "last-name": "Howard",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conceived the study, constructed and analyzed the models, wrote the paper",
       "email": "email:cor2",
       "funding": [
@@ -402,27 +386,21 @@
       "id": "institution_aff1",
       "name": "John Innes Centre",
       "city": "Norwich",
-      "country": "United Kingdom",
-      "email": "",
-      "image": ""
+      "country": "United Kingdom"
     },
     "institution_aff2": {
       "type": "institution",
       "id": "institution_aff2",
       "name": "John Innes Centre",
       "city": "Norwich",
-      "country": "United Kingdom",
-      "email": "",
-      "image": ""
+      "country": "United Kingdom"
     },
     "institution_aff3": {
       "type": "institution",
       "id": "institution_aff3",
       "name": "John Innes Centre",
       "city": "Norwich",
-      "country": "United Kingdom",
-      "email": "",
-      "image": ""
+      "country": "United Kingdom"
     },
     "person_1": {
       "type": "person",
@@ -431,9 +409,6 @@
       "last-name": "Weigel",
       "role": "editor",
       "affiliations": [],
-      "image": "",
-      "contribution": "",
-      "email": "",
       "funding": []
     },
     "info:review": {
@@ -448,13 +423,11 @@
     "email_cor1": {
       "type": "email",
       "id": "email_cor1",
-      "node": "",
       "email": "alison.smith@jic.ac.uk"
     },
     "email_cor2": {
       "type": "email",
       "id": "email_cor2",
-      "node": "",
       "email": "martin.howard@jic.ac.uk"
     },
     "info:copyright": {
@@ -688,7 +661,6 @@
       "type": "funding",
       "id": "funding_par_3",
       "institution": "The John Innes Foundation",
-      "accession": "",
       "person": "person_author_4351",
       "given-names": "Alison M",
       "last-name": "Smith"
@@ -697,7 +669,6 @@
       "type": "funding",
       "id": "funding_par_4",
       "institution": "The Gatsby Charitable Foundation",
-      "accession": "",
       "person": "person_author_4351",
       "given-names": "Alison M",
       "last-name": "Smith"
@@ -713,8 +684,7 @@
     },
     "paragraph_22": {
       "type": "paragraph",
-      "id": "paragraph_22",
-      "content": ""
+      "id": "paragraph_22"
     },
     "heading_s1": {
       "type": "heading",
@@ -1126,19 +1096,12 @@
       "type": "image",
       "id": "image_fig1",
       "label": "Figure 1.",
-      "url": "",
-      "object_id": "F1",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00669/svg/elife00669f001.svg",
       "title": "Starch content levels from experiments with unexpected variation in either starch content at the onset of darkness or the time of onset of darkness.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00669.003",
       "caption": "paragraph_image_fig1",
-      "graphic_id": "elife00669f001"
+      "graphic_id": "elife00669f001",
+      "format": "image"
     },
     "paragraph_image_fig1": {
       "type": "paragraph",
@@ -1305,19 +1268,12 @@
       "type": "image",
       "id": "image_fig1s1",
       "label": "Figure 1—figure supplement 1.",
-      "url": "",
-      "object_id": "F2",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00669/svg/elife00669fs001.svg",
       "title": "Starch content levels in Arabidopsis plants exposed to different regimes of varying light level over a single light period.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig1"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00669.004",
       "caption": "paragraph_image_fig1s1",
-      "graphic_id": "elife00669fs001"
+      "graphic_id": "elife00669fs001",
+      "format": "image"
     },
     "paragraph_image_fig1s1": {
       "type": "paragraph",
@@ -1608,19 +1564,12 @@
       "type": "image",
       "id": "image_fig2",
       "label": "Figure 2.",
-      "url": "",
-      "object_id": "F3",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00669/svg/elife00669f002.svg",
       "title": "Chemical kinetic models capable of implementing analog arithmetic operations.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00669.005",
       "caption": "paragraph_image_fig2",
-      "graphic_id": "elife00669f002"
+      "graphic_id": "elife00669f002",
+      "format": "image"
     },
     "paragraph_image_fig2": {
       "type": "paragraph",
@@ -2496,19 +2445,12 @@
       "type": "image",
       "id": "image_fig3",
       "label": "Figure 3.",
-      "url": "",
-      "object_id": "F4",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00669/svg/elife00669f003.svg",
       "title": "Starch content levels from experiments incorporating night-time light period.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00669.006",
       "caption": "paragraph_image_fig3",
-      "graphic_id": "elife00669f003"
+      "graphic_id": "elife00669f003",
+      "format": "image"
     },
     "paragraph_image_fig3": {
       "type": "paragraph",
@@ -2623,19 +2565,12 @@
       "type": "image",
       "id": "image_fig3s1",
       "label": "Figure 3—figure supplement 1.",
-      "url": "",
-      "object_id": "F5",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00669/svg/elife00669fs002.svg",
       "title": "Transcript levels of LHY from experiment incorporating night-time light period.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig3"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00669.007",
       "caption": "paragraph_image_fig3s1",
-      "graphic_id": "elife00669fs002"
+      "graphic_id": "elife00669fs002",
+      "format": "image"
     },
     "paragraph_image_fig3s1": {
       "type": "paragraph",
@@ -2711,19 +2646,12 @@
       "type": "image",
       "id": "image_fig3s2",
       "label": "Figure 3—figure supplement 2.",
-      "url": "",
-      "object_id": "F6",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00669/svg/elife00669fs003.svg",
       "title": "Best fits (full lines) of the second division model to starch content data from experiments incorporating night-time light period.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig3"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00669.008",
       "caption": "paragraph_image_fig3s2",
-      "graphic_id": "elife00669fs003"
+      "graphic_id": "elife00669fs003",
+      "format": "image"
     },
     "paragraph_image_fig3s2": {
       "type": "paragraph",
@@ -2934,19 +2862,12 @@
       "type": "image",
       "id": "image_fig4",
       "label": "Figure 4.",
-      "url": "",
-      "object_id": "F7",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00669/svg/elife00669f004.svg",
       "title": "Starch content levels in mutant Arabidopsis plants defective in components of the starch degradation apparatus.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00669.009",
       "caption": "paragraph_image_fig4",
-      "graphic_id": "elife00669f004"
+      "graphic_id": "elife00669f004",
+      "format": "image"
     },
     "paragraph_image_fig4": {
       "type": "paragraph",
@@ -3204,19 +3125,12 @@
       "type": "image",
       "id": "image_fig4s1",
       "label": "Figure 4—figure supplement 1.",
-      "url": "",
-      "object_id": "F8",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00669/svg/elife00669fs004.svg",
       "title": "Starch content levels during unexpectedly early night in wild-type, bam3, bam4, isa3 mutant plants.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig4"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00669.010",
       "caption": "paragraph_image_fig4s1",
-      "graphic_id": "elife00669fs004"
+      "graphic_id": "elife00669fs004",
+      "format": "image"
     },
     "paragraph_image_fig4s1": {
       "type": "paragraph",
@@ -3629,19 +3543,12 @@
       "type": "image",
       "id": "image_fig5",
       "label": "Figure 5.",
-      "url": "",
-      "object_id": "F9",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00669/svg/elife00669f005.svg",
       "title": "Daily change in starch phosphate content (measured as glucose 6-phosphate, G6P) in Arabidopsis leaves.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00669.011",
       "caption": "paragraph_image_fig5",
-      "graphic_id": "elife00669f005"
+      "graphic_id": "elife00669f005",
+      "format": "image"
     },
     "paragraph_image_fig5": {
       "type": "paragraph",
@@ -3963,13 +3870,8 @@
     "table_tblu1": {
       "type": "table",
       "id": "table_tblu1",
-      "label": "",
       "content": "<table><tbody><tr><td>Primer</td><td>Sequence 5′ to 3′</td></tr><tr><td>LHY-F AT1G01060</td><td>GACTCAAACACTGCCCAGAAGA</td></tr><tr><td>LHY-RAT1G01060</td><td>CGTCACTCCCTGAAGGTGTATTT</td></tr><tr><td>ACT2-F AT3G18780</td><td>ACTTTCATCAGCCGTTTTGA</td></tr><tr><td>ACT2-R AT3G18780</td><td>ACGATTGGTTGAATATCATCAG</td></tr></tbody></table>",
-      "title": "",
-      "footers": [],
-      "doi": "",
-      "caption": "",
-      "format": ""
+      "footers": []
     },
     "heading_s4-4": {
       "type": "heading",
@@ -4056,17 +3958,12 @@
     },
     "formula_273": {
       "type": "formula",
-      "id": "formula_273",
-      "label": "",
-      "content": "",
-      "format": ""
+      "id": "formula_273"
     },
     "annotation_274": {
       "type": "inline_formula",
       "id": "annotation_274",
-      "path": "",
       "target": "formula_273",
-      "range": "",
       "source": "paragraph_271",
       "key": "content",
       "pos": [
@@ -4077,9 +3974,8 @@
     "formula_equ1": {
       "type": "formula",
       "id": "formula_equ1",
-      "label": "",
       "content": "<mml:mrow><mml:mi>Δ</mml:mi><mml:msup><mml:mi>S</mml:mi><mml:mi mathvariant=italic>tot</mml:mi></mml:msup><mml:mo>=</mml:mo><mml:mi>α</mml:mi><mml:msubsup><mml:mi>N</mml:mi><mml:mi>S</mml:mi><mml:mi mathvariant=italic>tot</mml:mi></mml:msubsup><mml:mo>.</mml:mo></mml:mrow>",
-      "format": "mml"
+      "format": "mathml"
     },
     "paragraph_275": {
       "type": "paragraph",
@@ -4342,15 +4238,11 @@
       "type": "formula",
       "id": "formula_equ2",
       "label": "(1)",
-      "content": "<mml:mrow><mml:mrow><mml:mo>[</mml:mo><mml:mrow><mml:msub><mml:mi>T</mml:mi><mml:mi>C</mml:mi></mml:msub></mml:mrow><mml:mo>]</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:mrow><mml:mo>{</mml:mo><mml:mtable><mml:mtr><mml:mtd><mml:mi>β</mml:mi><mml:mfrac><mml:mrow><mml:msub><mml:mi>t</mml:mi><mml:mi mathvariant=italic>day</mml:mi></mml:msub><mml:mo>−</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mi>r</mml:mi></mml:msub></mml:mrow><mml:mrow><mml:msub><mml:mi>t</mml:mi><mml:mi>r</mml:mi></mml:msub></mml:mrow></mml:mfrac><mml:mi>t</mml:mi><mml:mo> </mml:mo><mml:mn>0</mml:mn><mml:mo>≤</mml:mo><mml:mi>t</mml:mi><mml:mo>≤</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mi>r</mml:mi></mml:msub></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:mi>β</mml:mi><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:msub><mml:mi>t</mml:mi><mml:mi mathvariant=italic>day</mml:mi></mml:msub><mml:mo>−</mml:mo><mml:mi>t</mml:mi></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:mo> </mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mi>r</mml:mi></mml:msub><mml:mo>≤</mml:mo><mml:mi>t</mml:mi><mml:mo>≤</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mi mathvariant=italic>day</mml:mi></mml:msub><mml:mo>,</mml:mo></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:mrow>",
-      "format": ""
+      "content": "<mml:mrow><mml:mrow><mml:mo>[</mml:mo><mml:mrow><mml:msub><mml:mi>T</mml:mi><mml:mi>C</mml:mi></mml:msub></mml:mrow><mml:mo>]</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:mrow><mml:mo>{</mml:mo><mml:mtable><mml:mtr><mml:mtd><mml:mi>β</mml:mi><mml:mfrac><mml:mrow><mml:msub><mml:mi>t</mml:mi><mml:mi mathvariant=italic>day</mml:mi></mml:msub><mml:mo>−</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mi>r</mml:mi></mml:msub></mml:mrow><mml:mrow><mml:msub><mml:mi>t</mml:mi><mml:mi>r</mml:mi></mml:msub></mml:mrow></mml:mfrac><mml:mi>t</mml:mi><mml:mo> </mml:mo><mml:mn>0</mml:mn><mml:mo>≤</mml:mo><mml:mi>t</mml:mi><mml:mo>≤</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mi>r</mml:mi></mml:msub></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:mi>β</mml:mi><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:msub><mml:mi>t</mml:mi><mml:mi mathvariant=italic>day</mml:mi></mml:msub><mml:mo>−</mml:mo><mml:mi>t</mml:mi></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:mo> </mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mi>r</mml:mi></mml:msub><mml:mo>≤</mml:mo><mml:mi>t</mml:mi><mml:mo>≤</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mi mathvariant=italic>day</mml:mi></mml:msub><mml:mo>,</mml:mo></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:mrow>"
     },
     "formula_296": {
       "type": "formula",
       "id": "formula_296",
-      "label": "",
-      "content": "",
-      "format": "",
       "key": "content",
       "source": "paragraph_279",
       "target": "formula_equ2",
@@ -5306,15 +5198,11 @@
       "type": "formula",
       "id": "formula_equ3",
       "label": "(2)",
-      "content": "<mml:mrow><mml:mrow><mml:mo>[</mml:mo><mml:mrow><mml:msub><mml:mi>T</mml:mi><mml:mi>C</mml:mi></mml:msub></mml:mrow><mml:mo>]</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:mrow><mml:mo>{</mml:mo><mml:mtable><mml:mtr><mml:mtd><mml:mfrac><mml:mi>β</mml:mi><mml:mrow><mml:msub><mml:mi>t</mml:mi><mml:mi mathvariant=italic>day</mml:mi></mml:msub><mml:mo>+</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mrow><mml:mi>r</mml:mi><mml:mn>1</mml:mn></mml:mrow></mml:msub><mml:mo>−</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mrow><mml:mi>r</mml:mi><mml:mn>2</mml:mn></mml:mrow></mml:msub></mml:mrow></mml:mfrac><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mfrac><mml:mrow><mml:mi>t</mml:mi><mml:mo>+</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mi mathvariant=italic>day</mml:mi></mml:msub><mml:mo>−</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mrow><mml:mi>r</mml:mi><mml:mn>2</mml:mn></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:msub><mml:mi>t</mml:mi><mml:mi mathvariant=italic>day</mml:mi></mml:msub><mml:mo>−</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mrow><mml:mi>r</mml:mi><mml:mn>1</mml:mn></mml:mrow></mml:msub></mml:mrow></mml:mfrac><mml:mo>+</mml:mo><mml:mfrac><mml:mrow><mml:msub><mml:mi>t</mml:mi><mml:mrow><mml:mi>r</mml:mi><mml:mn>1</mml:mn></mml:mrow></mml:msub><mml:mo>−</mml:mo><mml:mi>t</mml:mi></mml:mrow><mml:mrow><mml:msub><mml:mi>t</mml:mi><mml:mi mathvariant=italic>day</mml:mi></mml:msub><mml:mo>−</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mrow><mml:mi>r</mml:mi><mml:mn>2</mml:mn></mml:mrow></mml:msub></mml:mrow></mml:mfrac></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:mo> </mml:mo><mml:mn>0</mml:mn><mml:mo>≤</mml:mo><mml:mi>t</mml:mi><mml:mo>≤</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mrow><mml:mi>r</mml:mi><mml:mn>1</mml:mn></mml:mrow></mml:msub></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:mfrac><mml:mi>β</mml:mi><mml:mrow><mml:msub><mml:mi>t</mml:mi><mml:mi mathvariant=italic>day</mml:mi></mml:msub><mml:mo>−</mml:mo><mml:mi>t</mml:mi></mml:mrow></mml:mfrac><mml:mo> </mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mrow><mml:mi>r</mml:mi><mml:mn>1</mml:mn></mml:mrow></mml:msub><mml:mo>≤</mml:mo><mml:mi>t</mml:mi><mml:mo>≤</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mrow><mml:mi>r</mml:mi><mml:mn>2</mml:mn></mml:mrow></mml:msub></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:mfrac><mml:mi>β</mml:mi><mml:mrow><mml:msub><mml:mi>t</mml:mi><mml:mi mathvariant=italic>day</mml:mi></mml:msub><mml:mo>+</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mrow><mml:mi>r</mml:mi><mml:mn>1</mml:mn></mml:mrow></mml:msub><mml:mo>−</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mrow><mml:mi>r</mml:mi><mml:mn>2</mml:mn></mml:mrow></mml:msub></mml:mrow></mml:mfrac><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mfrac><mml:mrow><mml:mi>t</mml:mi><mml:mo>−</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mrow><mml:mi>r</mml:mi><mml:mn>2</mml:mn></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:msub><mml:mi>t</mml:mi><mml:mi mathvariant=italic>day</mml:mi></mml:msub><mml:mo>−</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mrow><mml:mi>r</mml:mi><mml:mn>1</mml:mn></mml:mrow></mml:msub></mml:mrow></mml:mfrac><mml:mo>+</mml:mo><mml:mfrac><mml:mrow><mml:msub><mml:mi>t</mml:mi><mml:mi mathvariant=italic>day</mml:mi></mml:msub><mml:mo>+</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mrow><mml:mi>r</mml:mi><mml:mn>1</mml:mn></mml:mrow></mml:msub><mml:mo>−</mml:mo><mml:mi>t</mml:mi></mml:mrow><mml:mrow><mml:msub><mml:mi>t</mml:mi><mml:mi mathvariant=italic>day</mml:mi></mml:msub><mml:mo>−</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mrow><mml:mi>r</mml:mi><mml:mn>2</mml:mn></mml:mrow></mml:msub></mml:mrow></mml:mfrac></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:mo> </mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mrow><mml:mi>r</mml:mi><mml:mn>2</mml:mn></mml:mrow></mml:msub><mml:mo>≤</mml:mo><mml:mi>t</mml:mi><mml:mo>≤</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mi mathvariant=italic>day</mml:mi></mml:msub><mml:mo>,</mml:mo></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:mrow>",
-      "format": ""
+      "content": "<mml:mrow><mml:mrow><mml:mo>[</mml:mo><mml:mrow><mml:msub><mml:mi>T</mml:mi><mml:mi>C</mml:mi></mml:msub></mml:mrow><mml:mo>]</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:mrow><mml:mo>{</mml:mo><mml:mtable><mml:mtr><mml:mtd><mml:mfrac><mml:mi>β</mml:mi><mml:mrow><mml:msub><mml:mi>t</mml:mi><mml:mi mathvariant=italic>day</mml:mi></mml:msub><mml:mo>+</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mrow><mml:mi>r</mml:mi><mml:mn>1</mml:mn></mml:mrow></mml:msub><mml:mo>−</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mrow><mml:mi>r</mml:mi><mml:mn>2</mml:mn></mml:mrow></mml:msub></mml:mrow></mml:mfrac><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mfrac><mml:mrow><mml:mi>t</mml:mi><mml:mo>+</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mi mathvariant=italic>day</mml:mi></mml:msub><mml:mo>−</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mrow><mml:mi>r</mml:mi><mml:mn>2</mml:mn></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:msub><mml:mi>t</mml:mi><mml:mi mathvariant=italic>day</mml:mi></mml:msub><mml:mo>−</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mrow><mml:mi>r</mml:mi><mml:mn>1</mml:mn></mml:mrow></mml:msub></mml:mrow></mml:mfrac><mml:mo>+</mml:mo><mml:mfrac><mml:mrow><mml:msub><mml:mi>t</mml:mi><mml:mrow><mml:mi>r</mml:mi><mml:mn>1</mml:mn></mml:mrow></mml:msub><mml:mo>−</mml:mo><mml:mi>t</mml:mi></mml:mrow><mml:mrow><mml:msub><mml:mi>t</mml:mi><mml:mi mathvariant=italic>day</mml:mi></mml:msub><mml:mo>−</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mrow><mml:mi>r</mml:mi><mml:mn>2</mml:mn></mml:mrow></mml:msub></mml:mrow></mml:mfrac></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:mo> </mml:mo><mml:mn>0</mml:mn><mml:mo>≤</mml:mo><mml:mi>t</mml:mi><mml:mo>≤</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mrow><mml:mi>r</mml:mi><mml:mn>1</mml:mn></mml:mrow></mml:msub></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:mfrac><mml:mi>β</mml:mi><mml:mrow><mml:msub><mml:mi>t</mml:mi><mml:mi mathvariant=italic>day</mml:mi></mml:msub><mml:mo>−</mml:mo><mml:mi>t</mml:mi></mml:mrow></mml:mfrac><mml:mo> </mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mrow><mml:mi>r</mml:mi><mml:mn>1</mml:mn></mml:mrow></mml:msub><mml:mo>≤</mml:mo><mml:mi>t</mml:mi><mml:mo>≤</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mrow><mml:mi>r</mml:mi><mml:mn>2</mml:mn></mml:mrow></mml:msub></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:mfrac><mml:mi>β</mml:mi><mml:mrow><mml:msub><mml:mi>t</mml:mi><mml:mi mathvariant=italic>day</mml:mi></mml:msub><mml:mo>+</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mrow><mml:mi>r</mml:mi><mml:mn>1</mml:mn></mml:mrow></mml:msub><mml:mo>−</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mrow><mml:mi>r</mml:mi><mml:mn>2</mml:mn></mml:mrow></mml:msub></mml:mrow></mml:mfrac><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mfrac><mml:mrow><mml:mi>t</mml:mi><mml:mo>−</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mrow><mml:mi>r</mml:mi><mml:mn>2</mml:mn></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:msub><mml:mi>t</mml:mi><mml:mi mathvariant=italic>day</mml:mi></mml:msub><mml:mo>−</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mrow><mml:mi>r</mml:mi><mml:mn>1</mml:mn></mml:mrow></mml:msub></mml:mrow></mml:mfrac><mml:mo>+</mml:mo><mml:mfrac><mml:mrow><mml:msub><mml:mi>t</mml:mi><mml:mi mathvariant=italic>day</mml:mi></mml:msub><mml:mo>+</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mrow><mml:mi>r</mml:mi><mml:mn>1</mml:mn></mml:mrow></mml:msub><mml:mo>−</mml:mo><mml:mi>t</mml:mi></mml:mrow><mml:mrow><mml:msub><mml:mi>t</mml:mi><mml:mi mathvariant=italic>day</mml:mi></mml:msub><mml:mo>−</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mrow><mml:mi>r</mml:mi><mml:mn>2</mml:mn></mml:mrow></mml:msub></mml:mrow></mml:mfrac></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:mo> </mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mrow><mml:mi>r</mml:mi><mml:mn>2</mml:mn></mml:mrow></mml:msub><mml:mo>≤</mml:mo><mml:mi>t</mml:mi><mml:mo>≤</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mi mathvariant=italic>day</mml:mi></mml:msub><mml:mo>,</mml:mo></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:mrow>"
     },
     "formula_372": {
       "type": "formula",
       "id": "formula_372",
-      "label": "",
-      "content": "",
-      "format": "",
       "key": "content",
       "source": "paragraph_357",
       "target": "formula_equ3",
@@ -5608,17 +5496,12 @@
     },
     "formula_396": {
       "type": "formula",
-      "id": "formula_396",
-      "label": "",
-      "content": "",
-      "format": ""
+      "id": "formula_396"
     },
     "annotation_397": {
       "type": "inline_formula",
       "id": "annotation_397",
-      "path": "",
       "target": "formula_396",
-      "range": "",
       "source": "paragraph_391",
       "key": "content",
       "pos": [
@@ -5629,9 +5512,8 @@
     "formula_equ4": {
       "type": "formula",
       "id": "formula_equ4",
-      "label": "",
       "content": "<mml:mrow><mml:mrow><mml:mo>[</mml:mo><mml:mrow><mml:msub><mml:mi>T</mml:mi><mml:mi>C</mml:mi></mml:msub></mml:mrow><mml:mo>]</mml:mo></mml:mrow><mml:mrow><mml:mo>(</mml:mo><mml:mi>t</mml:mi><mml:mo>)</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:mrow><mml:mo>[</mml:mo><mml:mrow><mml:msub><mml:mi>T</mml:mi><mml:mi>C</mml:mi></mml:msub></mml:mrow><mml:mo>]</mml:mo></mml:mrow><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:msub><mml:mi>t</mml:mi><mml:mrow><mml:mi>r</mml:mi><mml:mn>1</mml:mn></mml:mrow></mml:msub></mml:mrow><mml:mo>)</mml:mo></mml:mrow></mml:mrow><mml:mrow><mml:mn>1</mml:mn><mml:mo>−</mml:mo><mml:mi>η</mml:mi><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mi>t</mml:mi><mml:mo>−</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mrow><mml:mi>r</mml:mi><mml:mn>1</mml:mn></mml:mrow></mml:msub></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:mrow><mml:mo>[</mml:mo><mml:mrow><mml:msub><mml:mi>T</mml:mi><mml:mi>C</mml:mi></mml:msub></mml:mrow><mml:mo>]</mml:mo></mml:mrow><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:msub><mml:mi>t</mml:mi><mml:mrow><mml:mi>r</mml:mi><mml:mn>1</mml:mn></mml:mrow></mml:msub></mml:mrow><mml:mo>)</mml:mo></mml:mrow></mml:mrow></mml:mfrac><mml:mo>.</mml:mo></mml:mrow>",
-      "format": "mml"
+      "format": "mathml"
     },
     "paragraph_398": {
       "type": "paragraph",
@@ -6048,15 +5930,11 @@
       "type": "formula",
       "id": "formula_equ5",
       "label": "(3)",
-      "content": "<mml:mtable><mml:mtr><mml:mtd><mml:msub><mml:mi>r</mml:mi><mml:mi>S</mml:mi></mml:msub><mml:mo>:</mml:mo><mml:msub><mml:mi>S</mml:mi><mml:mi>C</mml:mi></mml:msub><mml:mo>↔</mml:mo><mml:mi>S</mml:mi></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:msub><mml:mi>r</mml:mi><mml:mrow><mml:mi mathvariant=italic>ST</mml:mi><mml:mn>1</mml:mn></mml:mrow></mml:msub><mml:mo>:</mml:mo><mml:mi>S</mml:mi><mml:mo>+</mml:mo><mml:msub><mml:mi>T</mml:mi><mml:mi>C</mml:mi></mml:msub><mml:mo>→</mml:mo><mml:mi mathvariant=italic>ST</mml:mi></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:msub><mml:mi>r</mml:mi><mml:mrow><mml:mi mathvariant=italic>ST</mml:mi><mml:mn>2</mml:mn></mml:mrow></mml:msub><mml:mo>:</mml:mo><mml:mi mathvariant=italic>ST</mml:mi><mml:mo>→</mml:mo><mml:msub><mml:mi>S</mml:mi><mml:mi>C</mml:mi></mml:msub><mml:mo>+</mml:mo><mml:msub><mml:mi>T</mml:mi><mml:mi>C</mml:mi></mml:msub></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:msub><mml:mi>r</mml:mi><mml:mrow><mml:mi>D</mml:mi><mml:mn>1</mml:mn></mml:mrow></mml:msub><mml:mo>:</mml:mo><mml:mi>S</mml:mi><mml:mo>→</mml:mo><mml:mo>∅</mml:mo></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:msub><mml:mi>r</mml:mi><mml:mrow><mml:mi>D</mml:mi><mml:mn>2</mml:mn></mml:mrow></mml:msub><mml:mo>:</mml:mo><mml:mi>S</mml:mi><mml:mo>+</mml:mo><mml:mi mathvariant=italic>Starch</mml:mi><mml:mo>→</mml:mo><mml:mi>S</mml:mi><mml:mo>,</mml:mo></mml:mtd></mml:mtr></mml:mtable>",
-      "format": ""
+      "content": "<mml:mtable><mml:mtr><mml:mtd><mml:msub><mml:mi>r</mml:mi><mml:mi>S</mml:mi></mml:msub><mml:mo>:</mml:mo><mml:msub><mml:mi>S</mml:mi><mml:mi>C</mml:mi></mml:msub><mml:mo>↔</mml:mo><mml:mi>S</mml:mi></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:msub><mml:mi>r</mml:mi><mml:mrow><mml:mi mathvariant=italic>ST</mml:mi><mml:mn>1</mml:mn></mml:mrow></mml:msub><mml:mo>:</mml:mo><mml:mi>S</mml:mi><mml:mo>+</mml:mo><mml:msub><mml:mi>T</mml:mi><mml:mi>C</mml:mi></mml:msub><mml:mo>→</mml:mo><mml:mi mathvariant=italic>ST</mml:mi></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:msub><mml:mi>r</mml:mi><mml:mrow><mml:mi mathvariant=italic>ST</mml:mi><mml:mn>2</mml:mn></mml:mrow></mml:msub><mml:mo>:</mml:mo><mml:mi mathvariant=italic>ST</mml:mi><mml:mo>→</mml:mo><mml:msub><mml:mi>S</mml:mi><mml:mi>C</mml:mi></mml:msub><mml:mo>+</mml:mo><mml:msub><mml:mi>T</mml:mi><mml:mi>C</mml:mi></mml:msub></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:msub><mml:mi>r</mml:mi><mml:mrow><mml:mi>D</mml:mi><mml:mn>1</mml:mn></mml:mrow></mml:msub><mml:mo>:</mml:mo><mml:mi>S</mml:mi><mml:mo>→</mml:mo><mml:mo>∅</mml:mo></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:msub><mml:mi>r</mml:mi><mml:mrow><mml:mi>D</mml:mi><mml:mn>2</mml:mn></mml:mrow></mml:msub><mml:mo>:</mml:mo><mml:mi>S</mml:mi><mml:mo>+</mml:mo><mml:mi mathvariant=italic>Starch</mml:mi><mml:mo>→</mml:mo><mml:mi>S</mml:mi><mml:mo>,</mml:mo></mml:mtd></mml:mtr></mml:mtable>"
     },
     "formula_431": {
       "type": "formula",
       "id": "formula_431",
-      "label": "",
-      "content": "",
-      "format": "",
       "key": "content",
       "source": "paragraph_426",
       "target": "formula_equ5",
@@ -6779,17 +6657,12 @@
     },
     "formula_488": {
       "type": "formula",
-      "id": "formula_488",
-      "label": "",
-      "content": "",
-      "format": ""
+      "id": "formula_488"
     },
     "annotation_489": {
       "type": "inline_formula",
       "id": "annotation_489",
-      "path": "",
       "target": "formula_488",
-      "range": "",
       "source": "paragraph_474",
       "key": "content",
       "pos": [
@@ -6801,15 +6674,11 @@
       "type": "formula",
       "id": "formula_equ6",
       "label": "(4)",
-      "content": "<mml:mtable><mml:mtr><mml:mtd><mml:mfrac><mml:mrow><mml:msubsup><mml:mi mathvariant=italic>dN</mml:mi><mml:mi>S</mml:mi><mml:mi mathvariant=italic>tot</mml:mi></mml:msubsup></mml:mrow><mml:mrow><mml:mi>d</mml:mi><mml:mi>t</mml:mi></mml:mrow></mml:mfrac><mml:mo>=</mml:mo><mml:mi>n</mml:mi><mml:mfrac><mml:mrow><mml:msub><mml:mi mathvariant=italic>dN</mml:mi><mml:mi>S</mml:mi></mml:msub></mml:mrow><mml:mi mathvariant=italic>dt</mml:mi></mml:mfrac><mml:mo>=</mml:mo><mml:mo>−</mml:mo><mml:msub><mml:mi mathvariant=italic>nf</mml:mi><mml:mrow><mml:mi>D</mml:mi><mml:mn>1</mml:mn></mml:mrow></mml:msub><mml:mrow><mml:mo>[</mml:mo><mml:mi>S</mml:mi><mml:mo>]</mml:mo></mml:mrow><mml:msub><mml:mi>A</mml:mi><mml:mi>d</mml:mi></mml:msub></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:mfrac><mml:mrow><mml:mi>d</mml:mi><mml:mi>Δ</mml:mi><mml:msup><mml:mi>S</mml:mi><mml:mrow><mml:mi mathvariant=italic>tot</mml:mi></mml:mrow></mml:msup></mml:mrow><mml:mi mathvariant=italic>dt</mml:mi></mml:mfrac><mml:mo>=</mml:mo><mml:mi>n</mml:mi><mml:mfrac><mml:mrow><mml:mi>d</mml:mi><mml:mi>Δ</mml:mi><mml:mi>S</mml:mi></mml:mrow><mml:mi mathvariant=italic>dt</mml:mi></mml:mfrac><mml:mo>=</mml:mo><mml:mo>−</mml:mo><mml:msub><mml:mi mathvariant=italic>nm</mml:mi><mml:mi>S</mml:mi></mml:msub><mml:msub><mml:mi>f</mml:mi><mml:mrow><mml:mi>D</mml:mi><mml:mn>2</mml:mn></mml:mrow></mml:msub><mml:mrow><mml:mo>[</mml:mo><mml:mi>S</mml:mi><mml:mo>]</mml:mo></mml:mrow><mml:msub><mml:mi>A</mml:mi><mml:mi>d</mml:mi></mml:msub><mml:mo>=</mml:mo><mml:mo>−</mml:mo><mml:mi>n</mml:mi><mml:mi>μ</mml:mi><mml:mo>=</mml:mo><mml:mo>−</mml:mo><mml:msup><mml:mi>μ</mml:mi><mml:mrow><mml:mi mathvariant=italic>tot</mml:mi></mml:mrow></mml:msup><mml:mo>,</mml:mo></mml:mtd></mml:mtr></mml:mtable>",
-      "format": ""
+      "content": "<mml:mtable><mml:mtr><mml:mtd><mml:mfrac><mml:mrow><mml:msubsup><mml:mi mathvariant=italic>dN</mml:mi><mml:mi>S</mml:mi><mml:mi mathvariant=italic>tot</mml:mi></mml:msubsup></mml:mrow><mml:mrow><mml:mi>d</mml:mi><mml:mi>t</mml:mi></mml:mrow></mml:mfrac><mml:mo>=</mml:mo><mml:mi>n</mml:mi><mml:mfrac><mml:mrow><mml:msub><mml:mi mathvariant=italic>dN</mml:mi><mml:mi>S</mml:mi></mml:msub></mml:mrow><mml:mi mathvariant=italic>dt</mml:mi></mml:mfrac><mml:mo>=</mml:mo><mml:mo>−</mml:mo><mml:msub><mml:mi mathvariant=italic>nf</mml:mi><mml:mrow><mml:mi>D</mml:mi><mml:mn>1</mml:mn></mml:mrow></mml:msub><mml:mrow><mml:mo>[</mml:mo><mml:mi>S</mml:mi><mml:mo>]</mml:mo></mml:mrow><mml:msub><mml:mi>A</mml:mi><mml:mi>d</mml:mi></mml:msub></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:mfrac><mml:mrow><mml:mi>d</mml:mi><mml:mi>Δ</mml:mi><mml:msup><mml:mi>S</mml:mi><mml:mrow><mml:mi mathvariant=italic>tot</mml:mi></mml:mrow></mml:msup></mml:mrow><mml:mi mathvariant=italic>dt</mml:mi></mml:mfrac><mml:mo>=</mml:mo><mml:mi>n</mml:mi><mml:mfrac><mml:mrow><mml:mi>d</mml:mi><mml:mi>Δ</mml:mi><mml:mi>S</mml:mi></mml:mrow><mml:mi mathvariant=italic>dt</mml:mi></mml:mfrac><mml:mo>=</mml:mo><mml:mo>−</mml:mo><mml:msub><mml:mi mathvariant=italic>nm</mml:mi><mml:mi>S</mml:mi></mml:msub><mml:msub><mml:mi>f</mml:mi><mml:mrow><mml:mi>D</mml:mi><mml:mn>2</mml:mn></mml:mrow></mml:msub><mml:mrow><mml:mo>[</mml:mo><mml:mi>S</mml:mi><mml:mo>]</mml:mo></mml:mrow><mml:msub><mml:mi>A</mml:mi><mml:mi>d</mml:mi></mml:msub><mml:mo>=</mml:mo><mml:mo>−</mml:mo><mml:mi>n</mml:mi><mml:mi>μ</mml:mi><mml:mo>=</mml:mo><mml:mo>−</mml:mo><mml:msup><mml:mi>μ</mml:mi><mml:mrow><mml:mi mathvariant=italic>tot</mml:mi></mml:mrow></mml:msup><mml:mo>,</mml:mo></mml:mtd></mml:mtr></mml:mtable>"
     },
     "formula_490": {
       "type": "formula",
       "id": "formula_490",
-      "label": "",
-      "content": "",
-      "format": "",
       "key": "content",
       "source": "paragraph_474",
       "target": "formula_equ6",
@@ -6960,17 +6829,12 @@
     },
     "formula_503": {
       "type": "formula",
-      "id": "formula_503",
-      "label": "",
-      "content": "",
-      "format": ""
+      "id": "formula_503"
     },
     "annotation_504": {
       "type": "inline_formula",
       "id": "annotation_504",
-      "path": "",
       "target": "formula_503",
-      "range": "",
       "source": "paragraph_501",
       "key": "content",
       "pos": [
@@ -6980,17 +6844,12 @@
     },
     "formula_505": {
       "type": "formula",
-      "id": "formula_505",
-      "label": "",
-      "content": "",
-      "format": ""
+      "id": "formula_505"
     },
     "annotation_506": {
       "type": "inline_formula",
       "id": "annotation_506",
-      "path": "",
       "target": "formula_505",
-      "range": "",
       "source": "paragraph_501",
       "key": "content",
       "pos": [
@@ -7000,17 +6859,12 @@
     },
     "formula_507": {
       "type": "formula",
-      "id": "formula_507",
-      "label": "",
-      "content": "",
-      "format": ""
+      "id": "formula_507"
     },
     "annotation_508": {
       "type": "inline_formula",
       "id": "annotation_508",
-      "path": "",
       "target": "formula_507",
-      "range": "",
       "source": "paragraph_501",
       "key": "content",
       "pos": [
@@ -7020,17 +6874,12 @@
     },
     "formula_509": {
       "type": "formula",
-      "id": "formula_509",
-      "label": "",
-      "content": "",
-      "format": ""
+      "id": "formula_509"
     },
     "annotation_510": {
       "type": "inline_formula",
       "id": "annotation_510",
-      "path": "",
       "target": "formula_509",
-      "range": "",
       "source": "paragraph_501",
       "key": "content",
       "pos": [
@@ -7042,15 +6891,11 @@
       "type": "formula",
       "id": "formula_equ7",
       "label": "(5)",
-      "content": "<mml:mtable><mml:mtr><mml:mtd><mml:mrow><mml:mo>[</mml:mo><mml:mi>S</mml:mi><mml:mo>]</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:msub><mml:mi>k</mml:mi><mml:mi>S</mml:mi></mml:msub><mml:mrow><mml:mo>[</mml:mo><mml:mrow><mml:msub><mml:mi>S</mml:mi><mml:mi>C</mml:mi></mml:msub></mml:mrow><mml:mo>]</mml:mo></mml:mrow></mml:mrow><mml:mrow><mml:mn>1</mml:mn><mml:mo>+</mml:mo><mml:msub><mml:mi>k</mml:mi><mml:mrow><mml:mi mathvariant=italic>ST</mml:mi><mml:mn>1</mml:mn></mml:mrow></mml:msub><mml:mrow><mml:mo>[</mml:mo><mml:mrow><mml:msub><mml:mi>T</mml:mi><mml:mi>C</mml:mi></mml:msub></mml:mrow><mml:mo>]</mml:mo></mml:mrow></mml:mrow></mml:mfrac><mml:mo>,</mml:mo></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:mrow><mml:mo>[</mml:mo><mml:mrow><mml:mi mathvariant=italic>ST</mml:mi></mml:mrow><mml:mo>]</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:msub><mml:mi>f</mml:mi><mml:mrow><mml:mi mathvariant=italic>ST</mml:mi><mml:mn>1</mml:mn></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:msub><mml:mi>f</mml:mi><mml:mrow><mml:mi mathvariant=italic>ST</mml:mi><mml:mn>2</mml:mn></mml:mrow></mml:msub></mml:mrow></mml:mfrac><mml:mfrac><mml:mrow><mml:msub><mml:mi>k</mml:mi><mml:mi>S</mml:mi></mml:msub><mml:mrow><mml:mo>[</mml:mo><mml:mrow><mml:msub><mml:mi>S</mml:mi><mml:mi>C</mml:mi></mml:msub></mml:mrow><mml:mo>]</mml:mo></mml:mrow><mml:mrow><mml:mo>[</mml:mo><mml:mrow><mml:msub><mml:mi>T</mml:mi><mml:mi>C</mml:mi></mml:msub></mml:mrow><mml:mo>]</mml:mo></mml:mrow></mml:mrow><mml:mrow><mml:mn>1</mml:mn><mml:mo>+</mml:mo><mml:msub><mml:mi>k</mml:mi><mml:mrow><mml:mi mathvariant=italic>ST</mml:mi><mml:mn>1</mml:mn></mml:mrow></mml:msub><mml:mrow><mml:mo>[</mml:mo><mml:mrow><mml:msub><mml:mi>T</mml:mi><mml:mi>C</mml:mi></mml:msub></mml:mrow><mml:mo>]</mml:mo></mml:mrow></mml:mrow></mml:mfrac><mml:mo>,</mml:mo></mml:mtd></mml:mtr></mml:mtable>",
-      "format": ""
+      "content": "<mml:mtable><mml:mtr><mml:mtd><mml:mrow><mml:mo>[</mml:mo><mml:mi>S</mml:mi><mml:mo>]</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:msub><mml:mi>k</mml:mi><mml:mi>S</mml:mi></mml:msub><mml:mrow><mml:mo>[</mml:mo><mml:mrow><mml:msub><mml:mi>S</mml:mi><mml:mi>C</mml:mi></mml:msub></mml:mrow><mml:mo>]</mml:mo></mml:mrow></mml:mrow><mml:mrow><mml:mn>1</mml:mn><mml:mo>+</mml:mo><mml:msub><mml:mi>k</mml:mi><mml:mrow><mml:mi mathvariant=italic>ST</mml:mi><mml:mn>1</mml:mn></mml:mrow></mml:msub><mml:mrow><mml:mo>[</mml:mo><mml:mrow><mml:msub><mml:mi>T</mml:mi><mml:mi>C</mml:mi></mml:msub></mml:mrow><mml:mo>]</mml:mo></mml:mrow></mml:mrow></mml:mfrac><mml:mo>,</mml:mo></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:mrow><mml:mo>[</mml:mo><mml:mrow><mml:mi mathvariant=italic>ST</mml:mi></mml:mrow><mml:mo>]</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:msub><mml:mi>f</mml:mi><mml:mrow><mml:mi mathvariant=italic>ST</mml:mi><mml:mn>1</mml:mn></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:msub><mml:mi>f</mml:mi><mml:mrow><mml:mi mathvariant=italic>ST</mml:mi><mml:mn>2</mml:mn></mml:mrow></mml:msub></mml:mrow></mml:mfrac><mml:mfrac><mml:mrow><mml:msub><mml:mi>k</mml:mi><mml:mi>S</mml:mi></mml:msub><mml:mrow><mml:mo>[</mml:mo><mml:mrow><mml:msub><mml:mi>S</mml:mi><mml:mi>C</mml:mi></mml:msub></mml:mrow><mml:mo>]</mml:mo></mml:mrow><mml:mrow><mml:mo>[</mml:mo><mml:mrow><mml:msub><mml:mi>T</mml:mi><mml:mi>C</mml:mi></mml:msub></mml:mrow><mml:mo>]</mml:mo></mml:mrow></mml:mrow><mml:mrow><mml:mn>1</mml:mn><mml:mo>+</mml:mo><mml:msub><mml:mi>k</mml:mi><mml:mrow><mml:mi mathvariant=italic>ST</mml:mi><mml:mn>1</mml:mn></mml:mrow></mml:msub><mml:mrow><mml:mo>[</mml:mo><mml:mrow><mml:msub><mml:mi>T</mml:mi><mml:mi>C</mml:mi></mml:msub></mml:mrow><mml:mo>]</mml:mo></mml:mrow></mml:mrow></mml:mfrac><mml:mo>,</mml:mo></mml:mtd></mml:mtr></mml:mtable>"
     },
     "formula_511": {
       "type": "formula",
       "id": "formula_511",
-      "label": "",
-      "content": "",
-      "format": "",
       "key": "content",
       "source": "paragraph_501",
       "target": "formula_equ7",
@@ -7588,15 +7433,11 @@
       "type": "formula",
       "id": "formula_equ8",
       "label": "(6)",
-      "content": "<mml:mrow><mml:mrow><mml:mo>[</mml:mo><mml:mrow><mml:msub><mml:mi>S</mml:mi><mml:mi>C</mml:mi></mml:msub></mml:mrow><mml:mo>]</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:msubsup><mml:mi>N</mml:mi><mml:mi>S</mml:mi><mml:mrow><mml:mi mathvariant=italic>tot</mml:mi></mml:mrow></mml:msubsup></mml:mrow><mml:mi>V</mml:mi></mml:mfrac><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:msubsup><mml:mi>N</mml:mi><mml:mi>S</mml:mi><mml:mrow><mml:mi mathvariant=italic>tot</mml:mi></mml:mrow></mml:msubsup></mml:mrow><mml:mrow><mml:msub><mml:mi mathvariant=italic>nV</mml:mi><mml:mn>0</mml:mn></mml:msub></mml:mrow></mml:mfrac><mml:mo>,</mml:mo></mml:mrow>",
-      "format": ""
+      "content": "<mml:mrow><mml:mrow><mml:mo>[</mml:mo><mml:mrow><mml:msub><mml:mi>S</mml:mi><mml:mi>C</mml:mi></mml:msub></mml:mrow><mml:mo>]</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:msubsup><mml:mi>N</mml:mi><mml:mi>S</mml:mi><mml:mrow><mml:mi mathvariant=italic>tot</mml:mi></mml:mrow></mml:msubsup></mml:mrow><mml:mi>V</mml:mi></mml:mfrac><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:msubsup><mml:mi>N</mml:mi><mml:mi>S</mml:mi><mml:mrow><mml:mi mathvariant=italic>tot</mml:mi></mml:mrow></mml:msubsup></mml:mrow><mml:mrow><mml:msub><mml:mi mathvariant=italic>nV</mml:mi><mml:mn>0</mml:mn></mml:msub></mml:mrow></mml:mfrac><mml:mo>,</mml:mo></mml:mrow>"
     },
     "formula_553": {
       "type": "formula",
       "id": "formula_553",
-      "label": "",
-      "content": "",
-      "format": "",
       "key": "content",
       "source": "paragraph_512",
       "target": "formula_equ8",
@@ -7679,15 +7520,11 @@
       "type": "formula",
       "id": "formula_equ9",
       "label": "(7)",
-      "content": "<mml:mrow><mml:mrow><mml:mo>[</mml:mo><mml:mrow><mml:msub><mml:mi>T</mml:mi><mml:mi>C</mml:mi></mml:msub></mml:mrow><mml:mo>]</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:mi>β</mml:mi><mml:mi>Δ</mml:mi><mml:mi>t</mml:mi><mml:mo>.</mml:mo></mml:mrow>",
-      "format": ""
+      "content": "<mml:mrow><mml:mrow><mml:mo>[</mml:mo><mml:mrow><mml:msub><mml:mi>T</mml:mi><mml:mi>C</mml:mi></mml:msub></mml:mrow><mml:mo>]</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:mi>β</mml:mi><mml:mi>Δ</mml:mi><mml:mi>t</mml:mi><mml:mo>.</mml:mo></mml:mrow>"
     },
     "formula_560": {
       "type": "formula",
       "id": "formula_560",
-      "label": "",
-      "content": "",
-      "format": "",
       "key": "content",
       "source": "paragraph_554",
       "target": "formula_equ9",
@@ -7704,9 +7541,8 @@
     "formula_equ10": {
       "type": "formula",
       "id": "formula_equ10",
-      "label": "",
       "content": "<mml:mrow><mml:mi>μ</mml:mi><mml:mo>=</mml:mo><mml:msub><mml:mi>m</mml:mi><mml:mi>S</mml:mi></mml:msub><mml:msub><mml:mi>f</mml:mi><mml:mrow><mml:mi>D</mml:mi><mml:mn>2</mml:mn></mml:mrow></mml:msub><mml:mrow><mml:mo>[</mml:mo><mml:mi>S</mml:mi><mml:mo>]</mml:mo></mml:mrow><mml:msub><mml:mi>A</mml:mi><mml:mi>d</mml:mi></mml:msub><mml:mo>=</mml:mo><mml:msub><mml:mi>m</mml:mi><mml:mi>S</mml:mi></mml:msub><mml:msub><mml:mi>f</mml:mi><mml:mrow><mml:mi>D</mml:mi><mml:mn>2</mml:mn></mml:mrow></mml:msub><mml:msub><mml:mi>A</mml:mi><mml:mi>d</mml:mi></mml:msub><mml:msub><mml:mi>k</mml:mi><mml:mi>S</mml:mi></mml:msub><mml:mfrac><mml:mrow><mml:mrow><mml:mo>[</mml:mo><mml:mrow><mml:msub><mml:mi>S</mml:mi><mml:mi>C</mml:mi></mml:msub></mml:mrow><mml:mo>]</mml:mo></mml:mrow></mml:mrow><mml:mrow><mml:mn>1</mml:mn><mml:mo>+</mml:mo><mml:msub><mml:mi>k</mml:mi><mml:mrow><mml:mi mathvariant=italic>ST</mml:mi><mml:mn>1</mml:mn></mml:mrow></mml:msub><mml:mrow><mml:mo>[</mml:mo><mml:mrow><mml:msub><mml:mi>T</mml:mi><mml:mi>C</mml:mi></mml:msub></mml:mrow><mml:mo>]</mml:mo></mml:mrow></mml:mrow></mml:mfrac><mml:mo>.</mml:mo></mml:mrow>",
-      "format": "mml"
+      "format": "mathml"
     },
     "paragraph_562": {
       "type": "paragraph",
@@ -7899,15 +7735,11 @@
       "type": "formula",
       "id": "formula_equ11",
       "label": "(8)",
-      "content": "<mml:mrow><mml:mi>μ</mml:mi><mml:mo>=</mml:mo><mml:msub><mml:mi>m</mml:mi><mml:mi>S</mml:mi></mml:msub><mml:msub><mml:mi>f</mml:mi><mml:mrow><mml:mi>D</mml:mi><mml:mn>2</mml:mn></mml:mrow></mml:msub><mml:msub><mml:mi>A</mml:mi><mml:mi>d</mml:mi></mml:msub><mml:msub><mml:mi>k</mml:mi><mml:mi>S</mml:mi></mml:msub><mml:mfrac><mml:mrow><mml:mfrac><mml:mrow><mml:msubsup><mml:mi>N</mml:mi><mml:mi>S</mml:mi><mml:mi mathvariant=italic>tot</mml:mi></mml:msubsup></mml:mrow><mml:mrow><mml:mi>n</mml:mi><mml:msub><mml:mi>V</mml:mi><mml:mn>0</mml:mn></mml:msub></mml:mrow></mml:mfrac></mml:mrow><mml:mrow><mml:msub><mml:mi>k</mml:mi><mml:mrow><mml:mi mathvariant=italic>ST</mml:mi><mml:mn>1</mml:mn></mml:mrow></mml:msub><mml:mi>β</mml:mi><mml:mi>Δ</mml:mi><mml:mi>t</mml:mi></mml:mrow></mml:mfrac><mml:mo>.</mml:mo></mml:mrow>",
-      "format": ""
+      "content": "<mml:mrow><mml:mi>μ</mml:mi><mml:mo>=</mml:mo><mml:msub><mml:mi>m</mml:mi><mml:mi>S</mml:mi></mml:msub><mml:msub><mml:mi>f</mml:mi><mml:mrow><mml:mi>D</mml:mi><mml:mn>2</mml:mn></mml:mrow></mml:msub><mml:msub><mml:mi>A</mml:mi><mml:mi>d</mml:mi></mml:msub><mml:msub><mml:mi>k</mml:mi><mml:mi>S</mml:mi></mml:msub><mml:mfrac><mml:mrow><mml:mfrac><mml:mrow><mml:msubsup><mml:mi>N</mml:mi><mml:mi>S</mml:mi><mml:mi mathvariant=italic>tot</mml:mi></mml:msubsup></mml:mrow><mml:mrow><mml:mi>n</mml:mi><mml:msub><mml:mi>V</mml:mi><mml:mn>0</mml:mn></mml:msub></mml:mrow></mml:mfrac></mml:mrow><mml:mrow><mml:msub><mml:mi>k</mml:mi><mml:mrow><mml:mi mathvariant=italic>ST</mml:mi><mml:mn>1</mml:mn></mml:mrow></mml:msub><mml:mi>β</mml:mi><mml:mi>Δ</mml:mi><mml:mi>t</mml:mi></mml:mrow></mml:mfrac><mml:mo>.</mml:mo></mml:mrow>"
     },
     "formula_577": {
       "type": "formula",
       "id": "formula_577",
-      "label": "",
-      "content": "",
-      "format": "",
       "key": "content",
       "source": "paragraph_562",
       "target": "formula_equ11",
@@ -7923,17 +7755,12 @@
     },
     "formula_579": {
       "type": "formula",
-      "id": "formula_579",
-      "label": "",
-      "content": "",
-      "format": ""
+      "id": "formula_579"
     },
     "annotation_580": {
       "type": "inline_formula",
       "id": "annotation_580",
-      "path": "",
       "target": "formula_579",
-      "range": "",
       "source": "paragraph_578",
       "key": "content",
       "pos": [
@@ -7944,9 +7771,8 @@
     "formula_equ12": {
       "type": "formula",
       "id": "formula_equ12",
-      "label": "",
       "content": "<mml:mrow><mml:mfrac><mml:mrow><mml:mi>d</mml:mi><mml:mi>Δ</mml:mi><mml:msup><mml:mi>S</mml:mi><mml:mi mathvariant=italic>tot</mml:mi></mml:msup></mml:mrow><mml:mi mathvariant=italic>dt</mml:mi></mml:mfrac><mml:mo>=</mml:mo><mml:mo>−</mml:mo><mml:msup><mml:mi>μ</mml:mi><mml:mi mathvariant=italic>tot</mml:mi></mml:msup><mml:mo>=</mml:mo><mml:mo>−</mml:mo><mml:mfrac><mml:mrow><mml:msub><mml:mi>f</mml:mi><mml:mrow><mml:mi>D</mml:mi><mml:mn>1</mml:mn></mml:mrow></mml:msub><mml:msub><mml:mi>A</mml:mi><mml:mi>d</mml:mi></mml:msub><mml:msub><mml:mi>k</mml:mi><mml:mi>S</mml:mi></mml:msub></mml:mrow><mml:mrow><mml:msub><mml:mi>k</mml:mi><mml:mrow><mml:mi mathvariant=italic>ST</mml:mi><mml:mn>1</mml:mn></mml:mrow></mml:msub><mml:msub><mml:mi>V</mml:mi><mml:mn>0</mml:mn></mml:msub><mml:mi>β</mml:mi></mml:mrow></mml:mfrac><mml:mfrac><mml:mrow><mml:mi>Δ</mml:mi><mml:msup><mml:mi>S</mml:mi><mml:mrow><mml:mi mathvariant=italic>tot</mml:mi></mml:mrow></mml:msup></mml:mrow><mml:mrow><mml:mi>Δ</mml:mi><mml:mi>t</mml:mi></mml:mrow></mml:mfrac><mml:mo>.</mml:mo></mml:mrow>",
-      "format": "mml"
+      "format": "mathml"
     },
     "paragraph_581": {
       "type": "paragraph",
@@ -7955,17 +7781,12 @@
     },
     "formula_582": {
       "type": "formula",
-      "id": "formula_582",
-      "label": "",
-      "content": "",
-      "format": ""
+      "id": "formula_582"
     },
     "annotation_583": {
       "type": "inline_formula",
       "id": "annotation_583",
-      "path": "",
       "target": "formula_582",
-      "range": "",
       "source": "paragraph_581",
       "key": "content",
       "pos": [
@@ -7975,17 +7796,12 @@
     },
     "formula_584": {
       "type": "formula",
-      "id": "formula_584",
-      "label": "",
-      "content": "",
-      "format": ""
+      "id": "formula_584"
     },
     "annotation_585": {
       "type": "inline_formula",
       "id": "annotation_585",
-      "path": "",
       "target": "formula_584",
-      "range": "",
       "source": "paragraph_581",
       "key": "content",
       "pos": [
@@ -8060,9 +7876,8 @@
     "formula_equ13": {
       "type": "formula",
       "id": "formula_equ13",
-      "label": "",
       "content": "<mml:mtable><mml:mtr><mml:mtd><mml:msub><mml:mi>r</mml:mi><mml:mi>S</mml:mi></mml:msub><mml:mo>:</mml:mo><mml:msub><mml:mi>S</mml:mi><mml:mi>C</mml:mi></mml:msub><mml:mo>↔</mml:mo><mml:mi>S</mml:mi></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:msub><mml:mi>r</mml:mi><mml:mrow><mml:mi mathvariant=italic>ST</mml:mi><mml:mn>1</mml:mn></mml:mrow></mml:msub><mml:mo>:</mml:mo><mml:mi>S</mml:mi><mml:mo>+</mml:mo><mml:msub><mml:mi>T</mml:mi><mml:mi>C</mml:mi></mml:msub><mml:mo>→</mml:mo><mml:mi mathvariant=italic>ST</mml:mi></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:msub><mml:mi>r</mml:mi><mml:mrow><mml:mi mathvariant=italic>ST</mml:mi><mml:mn>2</mml:mn></mml:mrow></mml:msub><mml:mo>:</mml:mo><mml:mi mathvariant=italic>ST</mml:mi><mml:mo>→</mml:mo><mml:mi>S</mml:mi><mml:mo>+</mml:mo><mml:msub><mml:mi>T</mml:mi><mml:mi>C</mml:mi></mml:msub></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:msub><mml:mi>r</mml:mi><mml:mrow><mml:mi>D</mml:mi><mml:mn>1</mml:mn></mml:mrow></mml:msub><mml:mo>:</mml:mo><mml:mi mathvariant=italic>ST</mml:mi><mml:mo>→</mml:mo><mml:msub><mml:mi>T</mml:mi><mml:mi>C</mml:mi></mml:msub></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:msub><mml:mi>r</mml:mi><mml:mrow><mml:mi>D</mml:mi><mml:mn>2</mml:mn></mml:mrow></mml:msub><mml:mo>:</mml:mo><mml:mi mathvariant=italic>ST</mml:mi><mml:mo>+</mml:mo><mml:mtext>Starch</mml:mtext><mml:mo>→</mml:mo><mml:mi mathvariant=italic>ST</mml:mi><mml:mo>.</mml:mo></mml:mtd></mml:mtr></mml:mtable>",
-      "format": "mml"
+      "format": "mathml"
     },
     "paragraph_591": {
       "type": "paragraph",
@@ -8843,17 +8658,12 @@
     },
     "formula_652": {
       "type": "formula",
-      "id": "formula_652",
-      "label": "",
-      "content": "",
-      "format": ""
+      "id": "formula_652"
     },
     "annotation_653": {
       "type": "inline_formula",
       "id": "annotation_653",
-      "path": "",
       "target": "formula_652",
-      "range": "",
       "source": "paragraph_647",
       "key": "content",
       "pos": [
@@ -8864,9 +8674,8 @@
     "formula_equ14": {
       "type": "formula",
       "id": "formula_equ14",
-      "label": "",
       "content": "<mml:mtable><mml:mtr><mml:mtd><mml:mfrac><mml:mrow><mml:msubsup><mml:mi mathvariant=italic>dN</mml:mi><mml:mi>S</mml:mi><mml:mi mathvariant=italic>tot</mml:mi></mml:msubsup></mml:mrow><mml:mi mathvariant=italic>dt</mml:mi></mml:mfrac><mml:mo>=</mml:mo><mml:mi>n</mml:mi><mml:mfrac><mml:mrow><mml:msub><mml:mi mathvariant=italic>dN</mml:mi><mml:mi>S</mml:mi></mml:msub></mml:mrow><mml:mi mathvariant=italic>dt</mml:mi></mml:mfrac><mml:mo>=</mml:mo><mml:mo>−</mml:mo><mml:msub><mml:mi mathvariant=italic>nf</mml:mi><mml:mrow><mml:mi>D</mml:mi><mml:mn>1</mml:mn></mml:mrow></mml:msub><mml:mrow><mml:mo>[</mml:mo><mml:mi mathvariant=italic>ST</mml:mi><mml:mo>]</mml:mo></mml:mrow><mml:msub><mml:mi>A</mml:mi><mml:mi>d</mml:mi></mml:msub></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:mfrac><mml:mrow><mml:mi>d</mml:mi><mml:mi>Δ</mml:mi><mml:msup><mml:mi>S</mml:mi><mml:mrow><mml:mi mathvariant=italic>tot</mml:mi></mml:mrow></mml:msup></mml:mrow><mml:mi mathvariant=italic>dt</mml:mi></mml:mfrac><mml:mo>=</mml:mo><mml:mi>n</mml:mi><mml:mfrac><mml:mrow><mml:mi>d</mml:mi><mml:mi>Δ</mml:mi><mml:mi>S</mml:mi></mml:mrow><mml:mi mathvariant=italic>dt</mml:mi></mml:mfrac><mml:mo>=</mml:mo><mml:mo>−</mml:mo><mml:msub><mml:mi mathvariant=italic>nm</mml:mi><mml:mi>S</mml:mi></mml:msub><mml:msub><mml:mi>f</mml:mi><mml:mrow><mml:mi>D</mml:mi><mml:mn>2</mml:mn></mml:mrow></mml:msub><mml:mrow><mml:mo>[</mml:mo><mml:mi>S</mml:mi><mml:mi>T</mml:mi><mml:mo>]</mml:mo></mml:mrow><mml:msub><mml:mi>A</mml:mi><mml:mi>d</mml:mi></mml:msub><mml:mo>=</mml:mo><mml:mo>−</mml:mo><mml:mi>n</mml:mi><mml:mi>μ</mml:mi><mml:mo>=</mml:mo><mml:mo>−</mml:mo><mml:msup><mml:mi>μ</mml:mi><mml:mi mathvariant=italic>tot</mml:mi></mml:msup><mml:mo>.</mml:mo></mml:mtd></mml:mtr></mml:mtable>",
-      "format": "mml"
+      "format": "mathml"
     },
     "paragraph_654": {
       "type": "paragraph",
@@ -8875,17 +8684,12 @@
     },
     "formula_655": {
       "type": "formula",
-      "id": "formula_655",
-      "label": "",
-      "content": "",
-      "format": ""
+      "id": "formula_655"
     },
     "annotation_656": {
       "type": "inline_formula",
       "id": "annotation_656",
-      "path": "",
       "target": "formula_655",
-      "range": "",
       "source": "paragraph_654",
       "key": "content",
       "pos": [
@@ -8895,17 +8699,12 @@
     },
     "formula_657": {
       "type": "formula",
-      "id": "formula_657",
-      "label": "",
-      "content": "",
-      "format": ""
+      "id": "formula_657"
     },
     "annotation_658": {
       "type": "inline_formula",
       "id": "annotation_658",
-      "path": "",
       "target": "formula_657",
-      "range": "",
       "source": "paragraph_654",
       "key": "content",
       "pos": [
@@ -8915,17 +8714,12 @@
     },
     "formula_659": {
       "type": "formula",
-      "id": "formula_659",
-      "label": "",
-      "content": "",
-      "format": ""
+      "id": "formula_659"
     },
     "annotation_660": {
       "type": "inline_formula",
       "id": "annotation_660",
-      "path": "",
       "target": "formula_659",
-      "range": "",
       "source": "paragraph_654",
       "key": "content",
       "pos": [
@@ -8936,9 +8730,8 @@
     "formula_equ15": {
       "type": "formula",
       "id": "formula_equ15",
-      "label": "",
       "content": "<mml:mtable><mml:mtr><mml:mtd><mml:mrow><mml:mo>[</mml:mo><mml:mi>S</mml:mi><mml:mo>]</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:msub><mml:mi>k</mml:mi><mml:mi>S</mml:mi></mml:msub><mml:mrow><mml:mo>[</mml:mo><mml:mrow><mml:msub><mml:mi>S</mml:mi><mml:mi>C</mml:mi></mml:msub></mml:mrow><mml:mo>]</mml:mo></mml:mrow><mml:mo>,</mml:mo></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:mrow><mml:mo>[</mml:mo><mml:mi mathvariant=italic>ST</mml:mi><mml:mo>]</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:msub><mml:mi>k</mml:mi><mml:mi mathvariant=italic>ST</mml:mi></mml:msub><mml:msub><mml:mi>k</mml:mi><mml:mi>S</mml:mi></mml:msub><mml:mrow><mml:mo>[</mml:mo><mml:mrow><mml:msub><mml:mi>S</mml:mi><mml:mi>C</mml:mi></mml:msub></mml:mrow><mml:mo>]</mml:mo></mml:mrow><mml:mrow><mml:mo>[</mml:mo><mml:mrow><mml:msub><mml:mi>T</mml:mi><mml:mi>C</mml:mi></mml:msub></mml:mrow><mml:mo>]</mml:mo></mml:mrow><mml:mo>,</mml:mo></mml:mtd></mml:mtr></mml:mtable>",
-      "format": "mml"
+      "format": "mathml"
     },
     "paragraph_661": {
       "type": "paragraph",
@@ -9455,9 +9248,8 @@
     "formula_equ16": {
       "type": "formula",
       "id": "formula_equ16",
-      "label": "",
       "content": "<mml:mrow><mml:mrow><mml:mo>[</mml:mo><mml:mrow><mml:msub><mml:mi>S</mml:mi><mml:mi>C</mml:mi></mml:msub></mml:mrow><mml:mo>]</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:msubsup><mml:mi>N</mml:mi><mml:mi>S</mml:mi><mml:mi mathvariant=italic>tot</mml:mi></mml:msubsup></mml:mrow><mml:mi>V</mml:mi></mml:mfrac><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:msubsup><mml:mi>N</mml:mi><mml:mi>S</mml:mi><mml:mi mathvariant=italic>tot</mml:mi></mml:msubsup></mml:mrow><mml:mrow><mml:mi>n</mml:mi><mml:msub><mml:mi>V</mml:mi><mml:mn>0</mml:mn></mml:msub></mml:mrow></mml:mfrac><mml:mo>,</mml:mo></mml:mrow>",
-      "format": "mml"
+      "format": "mathml"
     },
     "paragraph_701": {
       "type": "paragraph",
@@ -9519,9 +9311,8 @@
     "formula_equ17": {
       "type": "formula",
       "id": "formula_equ17",
-      "label": "",
       "content": "<mml:mrow><mml:mrow><mml:mo>[</mml:mo><mml:mrow><mml:msub><mml:mi>T</mml:mi><mml:mi>C</mml:mi></mml:msub></mml:mrow><mml:mo>]</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:mi>β</mml:mi><mml:mo>/</mml:mo><mml:mi>Δ</mml:mi><mml:mi>t</mml:mi><mml:mo>.</mml:mo></mml:mrow>",
-      "format": "mml"
+      "format": "mathml"
     },
     "paragraph_706": {
       "type": "paragraph",
@@ -9531,9 +9322,8 @@
     "formula_equ18": {
       "type": "formula",
       "id": "formula_equ18",
-      "label": "",
       "content": "<mml:mrow><mml:mi>μ</mml:mi><mml:mo>=</mml:mo><mml:msub><mml:mi>m</mml:mi><mml:mi>S</mml:mi></mml:msub><mml:msub><mml:mi>f</mml:mi><mml:mrow><mml:mi>D</mml:mi><mml:mn>2</mml:mn></mml:mrow></mml:msub><mml:mrow><mml:mo>[</mml:mo><mml:mi mathvariant=italic>ST</mml:mi><mml:mo>]</mml:mo></mml:mrow><mml:msub><mml:mi>A</mml:mi><mml:mi>d</mml:mi></mml:msub><mml:mo>=</mml:mo><mml:mo> </mml:mo><mml:msub><mml:mi>m</mml:mi><mml:mi>S</mml:mi></mml:msub><mml:msub><mml:mi>f</mml:mi><mml:mrow><mml:mi>D</mml:mi><mml:mn>2</mml:mn></mml:mrow></mml:msub><mml:mo> </mml:mo><mml:msub><mml:mi>A</mml:mi><mml:mi>d</mml:mi></mml:msub><mml:msub><mml:mi>k</mml:mi><mml:mrow><mml:mi>S</mml:mi><mml:mi>T</mml:mi></mml:mrow></mml:msub><mml:msub><mml:mi>k</mml:mi><mml:mi>S</mml:mi></mml:msub><mml:mrow><mml:mo>[</mml:mo><mml:mrow><mml:msub><mml:mi>S</mml:mi><mml:mi>C</mml:mi></mml:msub></mml:mrow><mml:mo>]</mml:mo></mml:mrow><mml:mrow><mml:mo>[</mml:mo><mml:mrow><mml:msub><mml:mi>T</mml:mi><mml:mi>C</mml:mi></mml:msub></mml:mrow><mml:mo>]</mml:mo></mml:mrow><mml:mo>.</mml:mo></mml:mrow>",
-      "format": "mml"
+      "format": "mathml"
     },
     "paragraph_707": {
       "type": "paragraph",
@@ -9582,9 +9372,8 @@
     "formula_equ19": {
       "type": "formula",
       "id": "formula_equ19",
-      "label": "",
       "content": "<mml:mrow><mml:mi>μ</mml:mi><mml:mo>=</mml:mo><mml:msub><mml:mi>m</mml:mi><mml:mi>S</mml:mi></mml:msub><mml:msub><mml:mi>f</mml:mi><mml:mrow><mml:mi>D</mml:mi><mml:mn>2</mml:mn></mml:mrow></mml:msub><mml:mo> </mml:mo><mml:msub><mml:mi>A</mml:mi><mml:mi>d</mml:mi></mml:msub><mml:msub><mml:mi>k</mml:mi><mml:mi mathvariant=italic>ST</mml:mi></mml:msub><mml:msub><mml:mi>k</mml:mi><mml:mi>S</mml:mi></mml:msub><mml:mi>β</mml:mi><mml:mfrac><mml:mrow><mml:mfrac><mml:mrow><mml:msubsup><mml:mi>N</mml:mi><mml:mi>S</mml:mi><mml:mi mathvariant=italic>tot</mml:mi></mml:msubsup></mml:mrow><mml:mrow><mml:mi>n</mml:mi><mml:msub><mml:mi>V</mml:mi><mml:mn>0</mml:mn></mml:msub></mml:mrow></mml:mfrac></mml:mrow><mml:mrow><mml:mi>Δ</mml:mi><mml:mi>t</mml:mi></mml:mrow></mml:mfrac><mml:mo>.</mml:mo></mml:mrow>",
-      "format": "mml"
+      "format": "mathml"
     },
     "paragraph_711": {
       "type": "paragraph",
@@ -9593,17 +9382,12 @@
     },
     "formula_712": {
       "type": "formula",
-      "id": "formula_712",
-      "label": "",
-      "content": "",
-      "format": ""
+      "id": "formula_712"
     },
     "annotation_713": {
       "type": "inline_formula",
       "id": "annotation_713",
-      "path": "",
       "target": "formula_712",
-      "range": "",
       "source": "paragraph_711",
       "key": "content",
       "pos": [
@@ -9614,9 +9398,8 @@
     "formula_equ20": {
       "type": "formula",
       "id": "formula_equ20",
-      "label": "",
       "content": "<mml:mrow><mml:mfrac><mml:mrow><mml:mi>d</mml:mi><mml:mi>Δ</mml:mi><mml:msup><mml:mi>S</mml:mi><mml:mi mathvariant=italic>tot</mml:mi></mml:msup></mml:mrow><mml:mi mathvariant=italic>dt</mml:mi></mml:mfrac><mml:mo>=</mml:mo><mml:mo>−</mml:mo><mml:msup><mml:mi>μ</mml:mi><mml:mi mathvariant=italic>tot</mml:mi></mml:msup><mml:mo>=</mml:mo><mml:mo>−</mml:mo><mml:msub><mml:mi>f</mml:mi><mml:mrow><mml:mi>D</mml:mi><mml:mn>1</mml:mn></mml:mrow></mml:msub><mml:msub><mml:mi>A</mml:mi><mml:mi>d</mml:mi></mml:msub><mml:mi>β</mml:mi><mml:mfrac><mml:mrow><mml:msub><mml:mi>k</mml:mi><mml:mrow><mml:mi mathvariant=italic>ST</mml:mi></mml:mrow></mml:msub><mml:msub><mml:mi>k</mml:mi><mml:mi>S</mml:mi></mml:msub></mml:mrow><mml:mrow><mml:msub><mml:mi>V</mml:mi><mml:mn>0</mml:mn></mml:msub></mml:mrow></mml:mfrac><mml:mfrac><mml:mrow><mml:mi>Δ</mml:mi><mml:msup><mml:mi>S</mml:mi><mml:mi mathvariant=italic>tot</mml:mi></mml:msup></mml:mrow><mml:mrow><mml:mi>Δ</mml:mi><mml:mi>t</mml:mi></mml:mrow></mml:mfrac><mml:mo>.</mml:mo></mml:mrow>",
-      "format": "mml"
+      "format": "mathml"
     },
     "paragraph_714": {
       "type": "paragraph",
@@ -9625,17 +9408,12 @@
     },
     "formula_715": {
       "type": "formula",
-      "id": "formula_715",
-      "label": "",
-      "content": "",
-      "format": ""
+      "id": "formula_715"
     },
     "annotation_716": {
       "type": "inline_formula",
       "id": "annotation_716",
-      "path": "",
       "target": "formula_715",
-      "range": "",
       "source": "paragraph_714",
       "key": "content",
       "pos": [
@@ -9645,17 +9423,12 @@
     },
     "formula_717": {
       "type": "formula",
-      "id": "formula_717",
-      "label": "",
-      "content": "",
-      "format": ""
+      "id": "formula_717"
     },
     "annotation_718": {
       "type": "inline_formula",
       "id": "annotation_718",
-      "path": "",
       "target": "formula_717",
-      "range": "",
       "source": "paragraph_714",
       "key": "content",
       "pos": [
@@ -9689,17 +9462,12 @@
     },
     "formula_721": {
       "type": "formula",
-      "id": "formula_721",
-      "label": "",
-      "content": "",
-      "format": ""
+      "id": "formula_721"
     },
     "annotation_722": {
       "type": "inline_formula",
       "id": "annotation_722",
-      "path": "",
       "target": "formula_721",
-      "range": "",
       "source": "paragraph_720",
       "key": "content",
       "pos": [
@@ -9710,9 +9478,8 @@
     "formula_equ21": {
       "type": "formula",
       "id": "formula_equ21",
-      "label": "",
       "content": "<mml:mrow><mml:msup><mml:mi>μ</mml:mi><mml:mi mathvariant=italic>tot</mml:mi></mml:msup><mml:mo>=</mml:mo><mml:msub><mml:mi>m</mml:mi><mml:mi>S</mml:mi></mml:msub><mml:msub><mml:mi>f</mml:mi><mml:mrow><mml:mi>D</mml:mi><mml:mn>2</mml:mn></mml:mrow></mml:msub><mml:msub><mml:mi>A</mml:mi><mml:mi>d</mml:mi></mml:msub><mml:msub><mml:mi>k</mml:mi><mml:mi>S</mml:mi></mml:msub><mml:mi>n</mml:mi><mml:mfrac><mml:mrow><mml:mrow><mml:mo>[</mml:mo><mml:mrow><mml:msub><mml:mi>S</mml:mi><mml:mi>C</mml:mi></mml:msub></mml:mrow><mml:mo>]</mml:mo></mml:mrow></mml:mrow><mml:mrow><mml:mn>1</mml:mn><mml:mo>+</mml:mo><mml:msub><mml:mi>k</mml:mi><mml:mrow><mml:mi mathvariant=italic>ST</mml:mi><mml:mn>1</mml:mn></mml:mrow></mml:msub><mml:mrow><mml:mo>[</mml:mo><mml:mrow><mml:msub><mml:mi>T</mml:mi><mml:mi>C</mml:mi></mml:msub></mml:mrow><mml:mo>]</mml:mo></mml:mrow></mml:mrow></mml:mfrac><mml:mo>.</mml:mo></mml:mrow>",
-      "format": "mml"
+      "format": "mathml"
     },
     "paragraph_723": {
       "type": "paragraph",
@@ -9760,17 +9527,12 @@
     },
     "formula_727": {
       "type": "formula",
-      "id": "formula_727",
-      "label": "",
-      "content": "",
-      "format": ""
+      "id": "formula_727"
     },
     "annotation_728": {
       "type": "inline_formula",
       "id": "annotation_728",
-      "path": "",
       "target": "formula_727",
-      "range": "",
       "source": "paragraph_723",
       "key": "content",
       "pos": [
@@ -9781,9 +9543,8 @@
     "formula_equ22": {
       "type": "formula",
       "id": "formula_equ22",
-      "label": "",
       "content": "<mml:mrow><mml:mfrac><mml:mrow><mml:mi>d</mml:mi><mml:mi>Δ</mml:mi><mml:msup><mml:mi>S</mml:mi><mml:mi mathvariant=italic>tot</mml:mi></mml:msup></mml:mrow><mml:mi mathvariant=italic>dt</mml:mi></mml:mfrac><mml:mo>=</mml:mo><mml:mo>−</mml:mo><mml:msub><mml:mi>f</mml:mi><mml:mrow><mml:mi>D</mml:mi><mml:mn>1</mml:mn></mml:mrow></mml:msub><mml:msub><mml:mi>A</mml:mi><mml:mi>d</mml:mi></mml:msub><mml:mfrac><mml:mrow><mml:msub><mml:mi>k</mml:mi><mml:mi>S</mml:mi></mml:msub></mml:mrow><mml:mrow><mml:msub><mml:mi>V</mml:mi><mml:mn>0</mml:mn></mml:msub></mml:mrow></mml:mfrac><mml:mfrac><mml:mrow><mml:mi>Δ</mml:mi><mml:msup><mml:mi>S</mml:mi><mml:mi mathvariant=italic>tot</mml:mi></mml:msup></mml:mrow><mml:mrow><mml:mn>1</mml:mn><mml:mo>+</mml:mo><mml:msub><mml:mi>k</mml:mi><mml:mrow><mml:mi mathvariant=italic>ST</mml:mi><mml:mn>1</mml:mn></mml:mrow></mml:msub><mml:mrow><mml:mo>[</mml:mo><mml:mrow><mml:msub><mml:mi>T</mml:mi><mml:mi>C</mml:mi></mml:msub></mml:mrow><mml:mo>]</mml:mo></mml:mrow></mml:mrow></mml:mfrac><mml:mo>.</mml:mo></mml:mrow>",
-      "format": "mml"
+      "format": "mathml"
     },
     "paragraph_729": {
       "type": "paragraph",
@@ -9792,17 +9553,12 @@
     },
     "formula_730": {
       "type": "formula",
-      "id": "formula_730",
-      "label": "",
-      "content": "",
-      "format": ""
+      "id": "formula_730"
     },
     "annotation_731": {
       "type": "inline_formula",
       "id": "annotation_731",
-      "path": "",
       "target": "formula_730",
-      "range": "",
       "source": "paragraph_729",
       "key": "content",
       "pos": [
@@ -9813,9 +9569,8 @@
     "formula_equ23": {
       "type": "formula",
       "id": "formula_equ23",
-      "label": "",
       "content": "<mml:mrow><mml:mfrac><mml:mrow><mml:mi>d</mml:mi><mml:mi>Δ</mml:mi><mml:msup><mml:mi>S</mml:mi><mml:mi mathvariant=italic>tot</mml:mi></mml:msup></mml:mrow><mml:mi mathvariant=italic>dt</mml:mi></mml:mfrac><mml:mo>=</mml:mo><mml:mo>−</mml:mo><mml:mi>γ</mml:mi><mml:mfrac><mml:mrow><mml:msub><mml:mrow><mml:mi>β</mml:mi><mml:mi>k</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant=italic>ST</mml:mi><mml:mn>1</mml:mn></mml:mrow></mml:msub><mml:mi>Δ</mml:mi><mml:msup><mml:mi>S</mml:mi><mml:mi mathvariant=italic>tot</mml:mi></mml:msup></mml:mrow><mml:mrow><mml:mn>1</mml:mn><mml:mo>+</mml:mo><mml:msub><mml:mi>k</mml:mi><mml:mrow><mml:mi mathvariant=italic>ST</mml:mi><mml:mn>1</mml:mn></mml:mrow></mml:msub><mml:mrow><mml:mo>[</mml:mo><mml:mrow><mml:msub><mml:mi>T</mml:mi><mml:mi>C</mml:mi></mml:msub></mml:mrow><mml:mo>]</mml:mo></mml:mrow></mml:mrow></mml:mfrac><mml:mo>.</mml:mo></mml:mrow>",
-      "format": "mml"
+      "format": "mathml"
     },
     "paragraph_732": {
       "type": "paragraph",
@@ -10072,9 +9827,8 @@
     "formula_equ24": {
       "type": "formula",
       "id": "formula_equ24",
-      "label": "",
       "content": "<mml:mrow><mml:mfrac><mml:mrow><mml:mi>d</mml:mi><mml:msub><mml:mi>ρ</mml:mi><mml:mi>S</mml:mi></mml:msub></mml:mrow><mml:mi mathvariant=italic>dt</mml:mi></mml:mfrac><mml:mo>=</mml:mo><mml:mo>−</mml:mo><mml:mi>γ</mml:mi><mml:mfrac><mml:mrow><mml:msub><mml:mi>ρ</mml:mi><mml:mi>S</mml:mi></mml:msub></mml:mrow><mml:mrow><mml:msup><mml:mrow><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mi>β</mml:mi><mml:msub><mml:mi>k</mml:mi><mml:mrow><mml:mi mathvariant=italic>ST</mml:mi><mml:mn>1</mml:mn></mml:mrow></mml:msub></mml:mrow><mml:mo>)</mml:mo></mml:mrow></mml:mrow><mml:mrow><mml:mo>−</mml:mo><mml:mn>1</mml:mn></mml:mrow></mml:msup><mml:mo>+</mml:mo><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mrow><mml:mo>[</mml:mo><mml:mrow><mml:msub><mml:mi>T</mml:mi><mml:mi>C</mml:mi></mml:msub></mml:mrow><mml:mo>]</mml:mo></mml:mrow><mml:mo>/</mml:mo><mml:mi>β</mml:mi></mml:mrow><mml:mo>)</mml:mo></mml:mrow></mml:mrow></mml:mfrac><mml:mo>.</mml:mo></mml:mrow>",
-      "format": "mml"
+      "format": "mathml"
     },
     "paragraph_752": {
       "type": "paragraph",
@@ -10136,9 +9890,8 @@
     "formula_equ25": {
       "type": "formula",
       "id": "formula_equ25",
-      "label": "",
       "content": "<mml:mtable><mml:mtr><mml:mtd><mml:msup><mml:mi>f</mml:mi><mml:mrow><mml:mo>(</mml:mo><mml:mn>1</mml:mn><mml:mo>)</mml:mo></mml:mrow></mml:msup><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mi>x</mml:mi><mml:mo>,</mml:mo><mml:mi>y</mml:mi></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:msup><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mfrac><mml:mrow><mml:msup><mml:mrow><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mi>β</mml:mi><mml:msub><mml:mi>k</mml:mi><mml:mrow><mml:mi mathvariant=italic>ST</mml:mi><mml:mn>1</mml:mn></mml:mrow></mml:msub></mml:mrow><mml:mo>)</mml:mo></mml:mrow></mml:mrow><mml:mrow><mml:mo>−</mml:mo><mml:mn>1</mml:mn></mml:mrow></mml:msup><mml:mo>+</mml:mo><mml:mfrac><mml:mrow><mml:msub><mml:mi>t</mml:mi><mml:mi mathvariant=italic>day</mml:mi></mml:msub><mml:mo>−</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mi>r</mml:mi></mml:msub></mml:mrow><mml:mrow><mml:msub><mml:mi>t</mml:mi><mml:mi>r</mml:mi></mml:msub></mml:mrow></mml:mfrac><mml:mi>y</mml:mi></mml:mrow><mml:mrow><mml:msup><mml:mrow><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mi>β</mml:mi><mml:msub><mml:mi>k</mml:mi><mml:mrow><mml:mi mathvariant=italic>ST</mml:mi><mml:mn>1</mml:mn></mml:mrow></mml:msub></mml:mrow><mml:mo>)</mml:mo></mml:mrow></mml:mrow><mml:mrow><mml:mo>−</mml:mo><mml:mn>1</mml:mn></mml:mrow></mml:msup><mml:mo>+</mml:mo><mml:mfrac><mml:mrow><mml:msub><mml:mi>t</mml:mi><mml:mi mathvariant=italic>day</mml:mi></mml:msub><mml:mo>−</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mi>r</mml:mi></mml:msub></mml:mrow><mml:mrow><mml:msub><mml:mi>t</mml:mi><mml:mi>r</mml:mi></mml:msub></mml:mrow></mml:mfrac><mml:mi>x</mml:mi></mml:mrow></mml:mfrac></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:mrow><mml:mo>−</mml:mo><mml:mi>γ</mml:mi><mml:mfrac><mml:mrow><mml:msub><mml:mi>t</mml:mi><mml:mi>r</mml:mi></mml:msub></mml:mrow><mml:mrow><mml:msub><mml:mi>t</mml:mi><mml:mi mathvariant=italic>day</mml:mi></mml:msub><mml:mo>−</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mi>r</mml:mi></mml:msub></mml:mrow></mml:mfrac></mml:mrow></mml:msup><mml:mo>,</mml:mo></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:msup><mml:mi>f</mml:mi><mml:mrow><mml:mo>(</mml:mo><mml:mn>2</mml:mn><mml:mo>)</mml:mo></mml:mrow></mml:msup><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mi>x</mml:mi><mml:mo>,</mml:mo><mml:mi>y</mml:mi></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:msup><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mfrac><mml:mrow><mml:msup><mml:mrow><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mi>β</mml:mi><mml:msub><mml:mi>k</mml:mi><mml:mrow><mml:mi mathvariant=italic>ST</mml:mi><mml:mn>1</mml:mn></mml:mrow></mml:msub></mml:mrow><mml:mo>)</mml:mo></mml:mrow></mml:mrow><mml:mrow><mml:mo>−</mml:mo><mml:mn>1</mml:mn></mml:mrow></mml:msup><mml:mo>+</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mi mathvariant=italic>day</mml:mi></mml:msub><mml:mo>−</mml:mo><mml:mi>y</mml:mi></mml:mrow><mml:mrow><mml:msup><mml:mrow><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mi>β</mml:mi><mml:msub><mml:mi>k</mml:mi><mml:mrow><mml:mi mathvariant=italic>ST</mml:mi><mml:mn>1</mml:mn></mml:mrow></mml:msub></mml:mrow><mml:mo>)</mml:mo></mml:mrow></mml:mrow><mml:mrow><mml:mo>−</mml:mo><mml:mn>1</mml:mn></mml:mrow></mml:msup><mml:mo>+</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mi mathvariant=italic>day</mml:mi></mml:msub><mml:mo>−</mml:mo><mml:mi>x</mml:mi></mml:mrow></mml:mfrac></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:mi>γ</mml:mi></mml:msup><mml:mo>,</mml:mo></mml:mtd></mml:mtr></mml:mtable>",
-      "format": "mml"
+      "format": "mathml"
     },
     "paragraph_757": {
       "type": "paragraph",
@@ -10290,17 +10043,12 @@
     },
     "formula_769": {
       "type": "formula",
-      "id": "formula_769",
-      "label": "",
-      "content": "",
-      "format": ""
+      "id": "formula_769"
     },
     "annotation_770": {
       "type": "inline_formula",
       "id": "annotation_770",
-      "path": "",
       "target": "formula_769",
-      "range": "",
       "source": "paragraph_757",
       "key": "content",
       "pos": [
@@ -10311,9 +10059,8 @@
     "formula_equ26": {
       "type": "formula",
       "id": "formula_equ26",
-      "label": "",
       "content": "<mml:mrow><mml:msub><mml:mi>ρ</mml:mi><mml:mi>S</mml:mi></mml:msub><mml:mrow><mml:mo>(</mml:mo><mml:mi>t</mml:mi><mml:mo>)</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:mrow><mml:mo>{</mml:mo><mml:mtable><mml:mtr><mml:mtd><mml:msub><mml:mi>ρ</mml:mi><mml:mn>0</mml:mn></mml:msub><mml:msup><mml:mi>f</mml:mi><mml:mrow><mml:mo>(</mml:mo><mml:mn>1</mml:mn><mml:mo>)</mml:mo></mml:mrow></mml:msup><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:msup><mml:mi>t</mml:mi><mml:mo>∗</mml:mo></mml:msup><mml:mo>,</mml:mo><mml:mi>t</mml:mi></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:mo> </mml:mo><mml:msup><mml:mi>t</mml:mi><mml:mo>∗</mml:mo></mml:msup><mml:mo>≤</mml:mo><mml:mi>t</mml:mi><mml:mo>≤</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mi>r</mml:mi></mml:msub></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:msub><mml:mi>ρ</mml:mi><mml:mn>0</mml:mn></mml:msub><mml:msup><mml:mi>f</mml:mi><mml:mrow><mml:mo>(</mml:mo><mml:mn>1</mml:mn><mml:mo>)</mml:mo></mml:mrow></mml:msup><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:msup><mml:mi>t</mml:mi><mml:mo>∗</mml:mo></mml:msup><mml:mo>,</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mi>r</mml:mi></mml:msub></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:msup><mml:mi>f</mml:mi><mml:mrow><mml:mo>(</mml:mo><mml:mn>2</mml:mn><mml:mo>)</mml:mo></mml:mrow></mml:msup><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:msub><mml:mi>t</mml:mi><mml:mi>r</mml:mi></mml:msub><mml:mo>,</mml:mo><mml:mi>t</mml:mi></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:mo> </mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mi>r</mml:mi></mml:msub><mml:mo>≤</mml:mo><mml:mi>t</mml:mi><mml:mo>≤</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mi mathvariant=italic>day</mml:mi></mml:msub></mml:mtd></mml:mtr></mml:mtable></mml:mrow><mml:mo>,</mml:mo></mml:mrow>",
-      "format": "mml"
+      "format": "mathml"
     },
     "paragraph_771": {
       "type": "paragraph",
@@ -10322,17 +10069,12 @@
     },
     "formula_772": {
       "type": "formula",
-      "id": "formula_772",
-      "label": "",
-      "content": "",
-      "format": ""
+      "id": "formula_772"
     },
     "annotation_773": {
       "type": "inline_formula",
       "id": "annotation_773",
-      "path": "",
       "target": "formula_772",
-      "range": "",
       "source": "paragraph_771",
       "key": "content",
       "pos": [
@@ -10343,9 +10085,8 @@
     "formula_equ27": {
       "type": "formula",
       "id": "formula_equ27",
-      "label": "",
       "content": "<mml:mrow><mml:msub><mml:mi>ρ</mml:mi><mml:mi>S</mml:mi></mml:msub><mml:mrow><mml:mo>(</mml:mo><mml:mi>t</mml:mi><mml:mo>)</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:mrow><mml:mo>{</mml:mo><mml:mtable><mml:mtr><mml:mtd><mml:msub><mml:mi>ρ</mml:mi><mml:mn>0</mml:mn></mml:msub><mml:msup><mml:mi>f</mml:mi><mml:mrow><mml:mo>(</mml:mo><mml:mn>2</mml:mn><mml:mo>)</mml:mo></mml:mrow></mml:msup><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:msup><mml:mi>t</mml:mi><mml:mo>∗</mml:mo></mml:msup><mml:mo>,</mml:mo><mml:mi>t</mml:mi></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:mo> </mml:mo><mml:msup><mml:mi>t</mml:mi><mml:mo>∗</mml:mo></mml:msup><mml:mo>≤</mml:mo><mml:mi>t</mml:mi><mml:mo>≤</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mi mathvariant=italic>day</mml:mi></mml:msub></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:msub><mml:mi>ρ</mml:mi><mml:mn>0</mml:mn></mml:msub><mml:msup><mml:mi>f</mml:mi><mml:mrow><mml:mo>(</mml:mo><mml:mn>2</mml:mn><mml:mo>)</mml:mo></mml:mrow></mml:msup><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:msup><mml:mi>t</mml:mi><mml:mo>∗</mml:mo></mml:msup><mml:mo>,</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mi mathvariant=italic>day</mml:mi></mml:msub></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:msup><mml:mi>f</mml:mi><mml:mrow><mml:mo>(</mml:mo><mml:mn>1</mml:mn><mml:mo>)</mml:mo></mml:mrow></mml:msup><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mn>0</mml:mn><mml:mo>,</mml:mo><mml:mi>t</mml:mi><mml:mo>−</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mi mathvariant=italic>day</mml:mi></mml:msub></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:mo> </mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mi mathvariant=italic>day</mml:mi></mml:msub><mml:mo>≤</mml:mo><mml:mi>t</mml:mi><mml:mo>≤</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mi mathvariant=italic>day</mml:mi></mml:msub><mml:mo>+</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mi>r</mml:mi></mml:msub></mml:mtd></mml:mtr></mml:mtable></mml:mrow><mml:mo>.</mml:mo></mml:mrow>",
-      "format": "mml"
+      "format": "mathml"
     },
     "paragraph_774": {
       "type": "paragraph",
@@ -10484,9 +10225,8 @@
     "formula_equ28": {
       "type": "formula",
       "id": "formula_equ28",
-      "label": "",
       "content": "<mml:mrow><mml:mfrac><mml:mrow><mml:mi>d</mml:mi><mml:msub><mml:mi>ρ</mml:mi><mml:mi>S</mml:mi></mml:msub></mml:mrow><mml:mrow><mml:mi>d</mml:mi><mml:mi>t</mml:mi></mml:mrow></mml:mfrac><mml:mo>=</mml:mo><mml:mo>−</mml:mo><mml:mi>γ</mml:mi><mml:msub><mml:mi>ρ</mml:mi><mml:mi>S</mml:mi></mml:msub><mml:mfrac><mml:mrow><mml:mrow><mml:mo>[</mml:mo><mml:mrow><mml:msub><mml:mi>T</mml:mi><mml:mi>C</mml:mi></mml:msub></mml:mrow><mml:mo>]</mml:mo></mml:mrow></mml:mrow><mml:mi>β</mml:mi></mml:mfrac><mml:mo>,</mml:mo></mml:mrow>",
-      "format": "mml"
+      "format": "mathml"
     },
     "paragraph_785": {
       "type": "paragraph",
@@ -10495,17 +10235,12 @@
     },
     "formula_786": {
       "type": "formula",
-      "id": "formula_786",
-      "label": "",
-      "content": "",
-      "format": ""
+      "id": "formula_786"
     },
     "annotation_787": {
       "type": "inline_formula",
       "id": "annotation_787",
-      "path": "",
       "target": "formula_786",
-      "range": "",
       "source": "paragraph_785",
       "key": "content",
       "pos": [
@@ -10516,9 +10251,8 @@
     "formula_equ29": {
       "type": "formula",
       "id": "formula_equ29",
-      "label": "",
       "content": "<mml:mtable><mml:mtr><mml:mtd><mml:msup><mml:mi>f</mml:mi><mml:mrow><mml:mo>(</mml:mo><mml:mn>1</mml:mn><mml:mo>)</mml:mo></mml:mrow></mml:msup><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mi>x</mml:mi><mml:mo>,</mml:mo><mml:mi>y</mml:mi></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:mi>exp</mml:mi><mml:mrow><mml:mo>{</mml:mo><mml:mrow><mml:mo>−</mml:mo><mml:mfrac><mml:mi>γ</mml:mi><mml:mn>2</mml:mn></mml:mfrac><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mi>y</mml:mi><mml:mo>−</mml:mo><mml:mi>x</mml:mi></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mfrac><mml:mn>2</mml:mn><mml:mrow><mml:msub><mml:mi>τ</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mrow></mml:mfrac><mml:mo>−</mml:mo><mml:mfrac><mml:mrow><mml:mi>y</mml:mi><mml:mo>+</mml:mo><mml:mi>x</mml:mi></mml:mrow><mml:mrow><mml:msubsup><mml:mi>τ</mml:mi><mml:mn>1</mml:mn><mml:mn>2</mml:mn></mml:msubsup></mml:mrow></mml:mfrac></mml:mrow><mml:mo>)</mml:mo></mml:mrow></mml:mrow><mml:mo>}</mml:mo></mml:mrow><mml:mo>,</mml:mo></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:msup><mml:mi>f</mml:mi><mml:mrow><mml:mo>(</mml:mo><mml:mn>2</mml:mn><mml:mo>)</mml:mo></mml:mrow></mml:msup><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mi>x</mml:mi><mml:mo>,</mml:mo><mml:mi>y</mml:mi></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:msup><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mfrac><mml:mrow><mml:msub><mml:mi>t</mml:mi><mml:mi mathvariant=italic>day</mml:mi></mml:msub><mml:mo>−</mml:mo><mml:mi>y</mml:mi></mml:mrow><mml:mrow><mml:msub><mml:mi>t</mml:mi><mml:mi mathvariant=italic>day</mml:mi></mml:msub><mml:mo>−</mml:mo><mml:mi>x</mml:mi></mml:mrow></mml:mfrac></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:mi>γ</mml:mi></mml:msup><mml:mo>,</mml:mo></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:msup><mml:mi>f</mml:mi><mml:mrow><mml:mo>(</mml:mo><mml:mn>3</mml:mn><mml:mo>)</mml:mo></mml:mrow></mml:msup><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mi>x</mml:mi><mml:mo>,</mml:mo><mml:mi>y</mml:mi></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:mi>exp</mml:mi><mml:mrow><mml:mo>{</mml:mo><mml:mrow><mml:mo>−</mml:mo><mml:mfrac><mml:mi>γ</mml:mi><mml:mn>2</mml:mn></mml:mfrac><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mi>y</mml:mi><mml:mo>−</mml:mo><mml:mi>x</mml:mi></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mfrac><mml:mn>2</mml:mn><mml:mrow><mml:msub><mml:mi>τ</mml:mi><mml:mn>3</mml:mn></mml:msub></mml:mrow></mml:mfrac><mml:mo>−</mml:mo><mml:mfrac><mml:mrow><mml:mi>y</mml:mi><mml:mo>+</mml:mo><mml:mi>x</mml:mi></mml:mrow><mml:mrow><mml:msubsup><mml:mi>τ</mml:mi><mml:mn>1</mml:mn><mml:mn>2</mml:mn></mml:msubsup></mml:mrow></mml:mfrac></mml:mrow><mml:mo>)</mml:mo></mml:mrow></mml:mrow><mml:mo>}</mml:mo></mml:mrow><mml:mo>,</mml:mo></mml:mtd></mml:mtr></mml:mtable>",
-      "format": "mml"
+      "format": "mathml"
     },
     "paragraph_788": {
       "type": "paragraph",
@@ -10528,9 +10262,8 @@
     "formula_equ30": {
       "type": "formula",
       "id": "formula_equ30",
-      "label": "",
       "content": "<mml:mtable><mml:mtr><mml:mtd><mml:mfrac><mml:mn>1</mml:mn><mml:mrow><mml:msubsup><mml:mi>τ</mml:mi><mml:mn>1</mml:mn><mml:mn>2</mml:mn></mml:msubsup></mml:mrow></mml:mfrac><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:msub><mml:mi>t</mml:mi><mml:mrow><mml:mi>r</mml:mi><mml:mn>2</mml:mn></mml:mrow></mml:msub><mml:mo>−</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mrow><mml:mi>r</mml:mi><mml:mn>1</mml:mn></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:msub><mml:mi>t</mml:mi><mml:mi mathvariant=italic>day</mml:mi></mml:msub><mml:mo>+</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mrow><mml:mi>r</mml:mi><mml:mn>1</mml:mn></mml:mrow></mml:msub><mml:mo>−</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mrow><mml:mi>r</mml:mi><mml:mn>2</mml:mn></mml:mrow></mml:msub></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:msub><mml:mi>t</mml:mi><mml:mi mathvariant=italic>day</mml:mi></mml:msub><mml:mo>−</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mrow><mml:mi>r</mml:mi><mml:mn>1</mml:mn></mml:mrow></mml:msub></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:msub><mml:mi>t</mml:mi><mml:mi mathvariant=italic>day</mml:mi></mml:msub><mml:mo>−</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mrow><mml:mi>r</mml:mi><mml:mn>2</mml:mn></mml:mrow></mml:msub></mml:mrow><mml:mo>)</mml:mo></mml:mrow></mml:mrow></mml:mfrac><mml:mo>,</mml:mo></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:mfrac><mml:mn>1</mml:mn><mml:mrow><mml:msub><mml:mi>τ</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mrow></mml:mfrac><mml:mo>=</mml:mo><mml:mfrac><mml:mn>1</mml:mn><mml:mrow><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:msub><mml:mi>t</mml:mi><mml:mi mathvariant=italic>day</mml:mi></mml:msub><mml:mo>+</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mrow><mml:mi>r</mml:mi><mml:mn>1</mml:mn></mml:mrow></mml:msub><mml:mo>−</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mrow><mml:mi>r</mml:mi><mml:mn>2</mml:mn></mml:mrow></mml:msub></mml:mrow><mml:mo>)</mml:mo></mml:mrow></mml:mrow></mml:mfrac><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mfrac><mml:mrow><mml:msub><mml:mi>t</mml:mi><mml:mi mathvariant=italic>day</mml:mi></mml:msub><mml:mo>−</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mrow><mml:mi>r</mml:mi><mml:mn>2</mml:mn></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:msub><mml:mi>t</mml:mi><mml:mi mathvariant=italic>day</mml:mi></mml:msub><mml:mo>−</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mrow><mml:mi>r</mml:mi><mml:mn>1</mml:mn></mml:mrow></mml:msub></mml:mrow></mml:mfrac><mml:mo>+</mml:mo><mml:mfrac><mml:mrow><mml:msub><mml:mi>t</mml:mi><mml:mrow><mml:mi>r</mml:mi><mml:mn>1</mml:mn></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:msub><mml:mi>t</mml:mi><mml:mi mathvariant=italic>day</mml:mi></mml:msub><mml:mo>−</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mrow><mml:mi>r</mml:mi><mml:mn>2</mml:mn></mml:mrow></mml:msub></mml:mrow></mml:mfrac></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:mo>,</mml:mo></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:mfrac><mml:mn>1</mml:mn><mml:mrow><mml:msub><mml:mi>τ</mml:mi><mml:mn>3</mml:mn></mml:msub></mml:mrow></mml:mfrac><mml:mo>=</mml:mo><mml:mfrac><mml:mn>1</mml:mn><mml:mrow><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:msub><mml:mi>t</mml:mi><mml:mi mathvariant=italic>day</mml:mi></mml:msub><mml:mo>+</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mrow><mml:mi>r</mml:mi><mml:mn>1</mml:mn></mml:mrow></mml:msub><mml:mo>−</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mrow><mml:mi>r</mml:mi><mml:mn>2</mml:mn></mml:mrow></mml:msub></mml:mrow><mml:mo>)</mml:mo></mml:mrow></mml:mrow></mml:mfrac><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mfrac><mml:mrow><mml:msub><mml:mi>t</mml:mi><mml:mi mathvariant=italic>day</mml:mi></mml:msub><mml:mo>+</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mrow><mml:mi>r</mml:mi><mml:mn>1</mml:mn></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:msub><mml:mi>t</mml:mi><mml:mi mathvariant=italic>day</mml:mi></mml:msub><mml:mo>−</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mrow><mml:mi>r</mml:mi><mml:mn>2</mml:mn></mml:mrow></mml:msub></mml:mrow></mml:mfrac><mml:mo>−</mml:mo><mml:mfrac><mml:mrow><mml:msub><mml:mi>t</mml:mi><mml:mrow><mml:mi>r</mml:mi><mml:mn>2</mml:mn></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:msub><mml:mi>t</mml:mi><mml:mi mathvariant=italic>day</mml:mi></mml:msub><mml:mo>−</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mrow><mml:mi>r</mml:mi><mml:mn>1</mml:mn></mml:mrow></mml:msub></mml:mrow></mml:mfrac></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:mo>,</mml:mo></mml:mtd></mml:mtr></mml:mtable>",
-      "format": "mml"
+      "format": "mathml"
     },
     "paragraph_789": {
       "type": "paragraph",
@@ -10643,17 +10376,12 @@
     },
     "formula_798": {
       "type": "formula",
-      "id": "formula_798",
-      "label": "",
-      "content": "",
-      "format": ""
+      "id": "formula_798"
     },
     "annotation_799": {
       "type": "inline_formula",
       "id": "annotation_799",
-      "path": "",
       "target": "formula_798",
-      "range": "",
       "source": "paragraph_789",
       "key": "content",
       "pos": [
@@ -10664,9 +10392,8 @@
     "formula_equ31": {
       "type": "formula",
       "id": "formula_equ31",
-      "label": "",
       "content": "<mml:mrow><mml:msub><mml:mi>ρ</mml:mi><mml:mi>S</mml:mi></mml:msub><mml:mrow><mml:mo>(</mml:mo><mml:mi>t</mml:mi><mml:mo>)</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:mrow><mml:mo>{</mml:mo><mml:mtable><mml:mtr><mml:mtd><mml:msub><mml:mi>ρ</mml:mi><mml:mn>0</mml:mn></mml:msub><mml:msup><mml:mi>f</mml:mi><mml:mrow><mml:mo>(</mml:mo><mml:mn>1</mml:mn><mml:mo>)</mml:mo></mml:mrow></mml:msup><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:msup><mml:mi>t</mml:mi><mml:mo>∗</mml:mo></mml:msup><mml:mo>,</mml:mo><mml:mi>t</mml:mi></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:mo> </mml:mo><mml:msup><mml:mi>t</mml:mi><mml:mo>∗</mml:mo></mml:msup><mml:mo>≤</mml:mo><mml:mi>t</mml:mi><mml:mo>≤</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mrow><mml:mi>r</mml:mi><mml:mn>1</mml:mn></mml:mrow></mml:msub></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:msub><mml:mi>ρ</mml:mi><mml:mn>0</mml:mn></mml:msub><mml:msup><mml:mi>f</mml:mi><mml:mrow><mml:mo>(</mml:mo><mml:mn>1</mml:mn><mml:mo>)</mml:mo></mml:mrow></mml:msup><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:msup><mml:mi>t</mml:mi><mml:mo>∗</mml:mo></mml:msup><mml:mo>,</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mrow><mml:mi>r</mml:mi><mml:mn>1</mml:mn></mml:mrow></mml:msub></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:msup><mml:mi>f</mml:mi><mml:mrow><mml:mo>(</mml:mo><mml:mn>2</mml:mn><mml:mo>)</mml:mo></mml:mrow></mml:msup><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:msub><mml:mi>t</mml:mi><mml:mrow><mml:mi>r</mml:mi><mml:mn>1</mml:mn></mml:mrow></mml:msub><mml:mo>,</mml:mo><mml:mi>t</mml:mi></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:mo> </mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mrow><mml:mi>r</mml:mi><mml:mn>1</mml:mn></mml:mrow></mml:msub><mml:mo><</mml:mo><mml:mi>t</mml:mi><mml:mo>≤</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mrow><mml:mi>r</mml:mi><mml:mn>2</mml:mn></mml:mrow></mml:msub></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:msub><mml:mi>ρ</mml:mi><mml:mn>0</mml:mn></mml:msub><mml:msup><mml:mi>f</mml:mi><mml:mrow><mml:mo>(</mml:mo><mml:mn>1</mml:mn><mml:mo>)</mml:mo></mml:mrow></mml:msup><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:msup><mml:mi>t</mml:mi><mml:mo>∗</mml:mo></mml:msup><mml:mo>,</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mrow><mml:mi>r</mml:mi><mml:mn>1</mml:mn></mml:mrow></mml:msub></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:msup><mml:mi>f</mml:mi><mml:mrow><mml:mo>(</mml:mo><mml:mn>2</mml:mn><mml:mo>)</mml:mo></mml:mrow></mml:msup><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:msub><mml:mi>t</mml:mi><mml:mrow><mml:mi>r</mml:mi><mml:mn>1</mml:mn></mml:mrow></mml:msub><mml:mo>,</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mrow><mml:mi>r</mml:mi><mml:mn>2</mml:mn></mml:mrow></mml:msub></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:msup><mml:mi>f</mml:mi><mml:mrow><mml:mo>(</mml:mo><mml:mn>3</mml:mn><mml:mo>)</mml:mo></mml:mrow></mml:msup><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:msub><mml:mi>t</mml:mi><mml:mrow><mml:mi>r</mml:mi><mml:mn>2</mml:mn></mml:mrow></mml:msub><mml:mo>,</mml:mo><mml:mi>t</mml:mi></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:mo> </mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mrow><mml:mi>r</mml:mi><mml:mn>2</mml:mn></mml:mrow></mml:msub><mml:mo><</mml:mo><mml:mi>t</mml:mi><mml:mo>≤</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mi mathvariant=italic>day</mml:mi></mml:msub></mml:mtd></mml:mtr></mml:mtable></mml:mrow><mml:mo>.</mml:mo></mml:mrow>",
-      "format": "mml"
+      "format": "mathml"
     },
     "paragraph_800": {
       "type": "paragraph",
@@ -10675,17 +10402,12 @@
     },
     "formula_801": {
       "type": "formula",
-      "id": "formula_801",
-      "label": "",
-      "content": "",
-      "format": ""
+      "id": "formula_801"
     },
     "annotation_802": {
       "type": "inline_formula",
       "id": "annotation_802",
-      "path": "",
       "target": "formula_801",
-      "range": "",
       "source": "paragraph_800",
       "key": "content",
       "pos": [
@@ -10696,9 +10418,8 @@
     "formula_equ32": {
       "type": "formula",
       "id": "formula_equ32",
-      "label": "",
       "content": "<mml:mrow><mml:msub><mml:mi>ρ</mml:mi><mml:mi>S</mml:mi></mml:msub><mml:mrow><mml:mo>(</mml:mo><mml:mi>t</mml:mi><mml:mo>)</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:mrow><mml:mo>{</mml:mo><mml:mtable><mml:mtr><mml:mtd><mml:msub><mml:mi>ρ</mml:mi><mml:mn>0</mml:mn></mml:msub><mml:msup><mml:mi>f</mml:mi><mml:mrow><mml:mo>(</mml:mo><mml:mn>2</mml:mn><mml:mo>)</mml:mo></mml:mrow></mml:msup><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:msup><mml:mi>t</mml:mi><mml:mo>∗</mml:mo></mml:msup><mml:mo>,</mml:mo><mml:mi>t</mml:mi></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:mo> </mml:mo><mml:msup><mml:mi>t</mml:mi><mml:mo>∗</mml:mo></mml:msup><mml:mo>≤</mml:mo><mml:mi>t</mml:mi><mml:mo>≤</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mrow><mml:mi>r</mml:mi><mml:mn>2</mml:mn></mml:mrow></mml:msub></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:msub><mml:mi>ρ</mml:mi><mml:mn>0</mml:mn></mml:msub><mml:msup><mml:mi>f</mml:mi><mml:mrow><mml:mo>(</mml:mo><mml:mn>2</mml:mn><mml:mo>)</mml:mo></mml:mrow></mml:msup><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:msup><mml:mi>t</mml:mi><mml:mo>∗</mml:mo></mml:msup><mml:mo>,</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mrow><mml:mi>r</mml:mi><mml:mn>2</mml:mn></mml:mrow></mml:msub></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:msup><mml:mi>f</mml:mi><mml:mrow><mml:mo>(</mml:mo><mml:mn>3</mml:mn><mml:mo>)</mml:mo></mml:mrow></mml:msup><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:msub><mml:mi>t</mml:mi><mml:mrow><mml:mi>r</mml:mi><mml:mn>2</mml:mn></mml:mrow></mml:msub><mml:mo>,</mml:mo><mml:mi>t</mml:mi></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:mo> </mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mrow><mml:mi>r</mml:mi><mml:mn>2</mml:mn></mml:mrow></mml:msub><mml:mo>≤</mml:mo><mml:mi>t</mml:mi><mml:mo>≤</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mi mathvariant=italic>day</mml:mi></mml:msub></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:msub><mml:mi>ρ</mml:mi><mml:mn>0</mml:mn></mml:msub><mml:msup><mml:mi>f</mml:mi><mml:mrow><mml:mo>(</mml:mo><mml:mn>2</mml:mn><mml:mo>)</mml:mo></mml:mrow></mml:msup><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:msup><mml:mi>t</mml:mi><mml:mo>∗</mml:mo></mml:msup><mml:mo>,</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mrow><mml:mi>r</mml:mi><mml:mn>2</mml:mn></mml:mrow></mml:msub></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:msup><mml:mi>f</mml:mi><mml:mrow><mml:mo>(</mml:mo><mml:mn>3</mml:mn><mml:mo>)</mml:mo></mml:mrow></mml:msup><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:msub><mml:mi>t</mml:mi><mml:mrow><mml:mi>r</mml:mi><mml:mn>2</mml:mn></mml:mrow></mml:msub><mml:mo>,</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mi mathvariant=italic>day</mml:mi></mml:msub></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:msup><mml:mi>f</mml:mi><mml:mrow><mml:mo>(</mml:mo><mml:mn>1</mml:mn><mml:mo>)</mml:mo></mml:mrow></mml:msup><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mn>0</mml:mn><mml:mo>,</mml:mo><mml:mi>t</mml:mi><mml:mo>−</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mi mathvariant=italic>day</mml:mi></mml:msub></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:mo> </mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mi mathvariant=italic>day</mml:mi></mml:msub><mml:mo>≤</mml:mo><mml:mi>t</mml:mi><mml:mo>≤</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mrow><mml:mi>r</mml:mi><mml:mn>1</mml:mn></mml:mrow></mml:msub><mml:mo>+</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mi mathvariant=italic>day</mml:mi></mml:msub></mml:mtd></mml:mtr></mml:mtable></mml:mrow><mml:mo>,</mml:mo></mml:mrow>",
-      "format": "mml"
+      "format": "mathml"
     },
     "paragraph_803": {
       "type": "paragraph",
@@ -10707,17 +10428,12 @@
     },
     "formula_804": {
       "type": "formula",
-      "id": "formula_804",
-      "label": "",
-      "content": "",
-      "format": ""
+      "id": "formula_804"
     },
     "annotation_805": {
       "type": "inline_formula",
       "id": "annotation_805",
-      "path": "",
       "target": "formula_804",
-      "range": "",
       "source": "paragraph_803",
       "key": "content",
       "pos": [
@@ -10728,9 +10444,8 @@
     "formula_equ33": {
       "type": "formula",
       "id": "formula_equ33",
-      "label": "",
       "content": "<mml:mrow><mml:msub><mml:mi>ρ</mml:mi><mml:mi>S</mml:mi></mml:msub><mml:mrow><mml:mo>(</mml:mo><mml:mi>t</mml:mi><mml:mo>)</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:mrow><mml:mo>{</mml:mo><mml:mtable><mml:mtr><mml:mtd><mml:msub><mml:mi>ρ</mml:mi><mml:mn>0</mml:mn></mml:msub><mml:msup><mml:mi>f</mml:mi><mml:mrow><mml:mo>(</mml:mo><mml:mn>3</mml:mn><mml:mo>)</mml:mo></mml:mrow></mml:msup><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:msup><mml:mi>t</mml:mi><mml:mo>∗</mml:mo></mml:msup><mml:mo>,</mml:mo><mml:mi>t</mml:mi></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:mo> </mml:mo><mml:msup><mml:mi>t</mml:mi><mml:mo>∗</mml:mo></mml:msup><mml:mo>≤</mml:mo><mml:mi>t</mml:mi><mml:mo>≤</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mi mathvariant=italic>day</mml:mi></mml:msub></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:msub><mml:mi>ρ</mml:mi><mml:mn>0</mml:mn></mml:msub><mml:msup><mml:mi>f</mml:mi><mml:mrow><mml:mo>(</mml:mo><mml:mn>3</mml:mn><mml:mo>)</mml:mo></mml:mrow></mml:msup><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:msup><mml:mi>t</mml:mi><mml:mo>∗</mml:mo></mml:msup><mml:mo>,</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mi mathvariant=italic>day</mml:mi></mml:msub></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:msup><mml:mi>f</mml:mi><mml:mrow><mml:mo>(</mml:mo><mml:mn>1</mml:mn><mml:mo>)</mml:mo></mml:mrow></mml:msup><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mn>0</mml:mn><mml:mo>,</mml:mo><mml:mi>t</mml:mi><mml:mo>−</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mi mathvariant=italic>day</mml:mi></mml:msub></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:mo> </mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mi mathvariant=italic>day</mml:mi></mml:msub><mml:mo>≤</mml:mo><mml:mi>t</mml:mi><mml:mo>≤</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mrow><mml:mi>r</mml:mi><mml:mn>1</mml:mn></mml:mrow></mml:msub><mml:mo>+</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mi mathvariant=italic>day</mml:mi></mml:msub></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:msub><mml:mi>ρ</mml:mi><mml:mn>0</mml:mn></mml:msub><mml:msup><mml:mi>f</mml:mi><mml:mrow><mml:mo>(</mml:mo><mml:mn>3</mml:mn><mml:mo>)</mml:mo></mml:mrow></mml:msup><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:msup><mml:mi>t</mml:mi><mml:mo>∗</mml:mo></mml:msup><mml:mo>,</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mi mathvariant=italic>day</mml:mi></mml:msub></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:msup><mml:mi>f</mml:mi><mml:mrow><mml:mo>(</mml:mo><mml:mn>1</mml:mn><mml:mo>)</mml:mo></mml:mrow></mml:msup><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mn>0</mml:mn><mml:mo>,</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mrow><mml:mi>r</mml:mi><mml:mn>1</mml:mn></mml:mrow></mml:msub></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:msup><mml:mi>f</mml:mi><mml:mrow><mml:mo>(</mml:mo><mml:mn>2</mml:mn><mml:mo>)</mml:mo></mml:mrow></mml:msup><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:msub><mml:mi>t</mml:mi><mml:mrow><mml:mi>r</mml:mi><mml:mn>1</mml:mn></mml:mrow></mml:msub><mml:mo>,</mml:mo><mml:mi>t</mml:mi><mml:mo>−</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mi mathvariant=italic>day</mml:mi></mml:msub></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:mo> </mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mrow><mml:mi>r</mml:mi><mml:mn>1</mml:mn></mml:mrow></mml:msub><mml:mo>+</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mi mathvariant=italic>day</mml:mi></mml:msub><mml:mo>≤</mml:mo><mml:mi>t</mml:mi><mml:mo>≤</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mrow><mml:mi>r</mml:mi><mml:mn>2</mml:mn></mml:mrow></mml:msub><mml:mo>+</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mi mathvariant=italic>day</mml:mi></mml:msub></mml:mtd></mml:mtr></mml:mtable></mml:mrow><mml:mo>.</mml:mo></mml:mrow>",
-      "format": "mml"
+      "format": "mathml"
     },
     "paragraph_806": {
       "type": "paragraph",
@@ -10843,17 +10558,12 @@
     },
     "formula_815": {
       "type": "formula",
-      "id": "formula_815",
-      "label": "",
-      "content": "",
-      "format": ""
+      "id": "formula_815"
     },
     "annotation_816": {
       "type": "inline_formula",
       "id": "annotation_816",
-      "path": "",
       "target": "formula_815",
-      "range": "",
       "source": "paragraph_806",
       "key": "content",
       "pos": [
@@ -11530,11 +11240,9 @@
       "id": "table_tbl1",
       "label": "Table 1.",
       "content": "<table><thead><tr><th>Symbol</th><th>Definition</th></tr></thead><tbody><tr><td><em>ρ</em><sub>0</sub></td><td>Starch content at the beginning of the dark period.</td></tr><tr><td><em>γ</em></td><td>Normalization variable.</td></tr><tr><td>(<em>βk</em><sub><em>ST1</em></sub>)<sup>−1</sup></td><td><em>k</em><sub><em>ST1</em></sub> is the ratio of the reaction parameter associated with reaction <em>r</em><sub><em>ST1</em></sub> with the backward rate of reaction <em>r</em><sub><em>S</em></sub>. <em>β</em> is the proportionality constant between [<em>T</em><sub><em>C</em></sub>] and <em>Δt</em>.</td></tr><tr><td><em>t</em><sub><em>r</em></sub></td><td>Time at which [<em>T</em><sub><em>C</em></sub>] levels finish being reset at the beginning of the day (see <sup>Figure 2B</sup>).</td></tr><tr><td><em>t</em><sub>0</sub></td><td>Phase shifting parameter of the [<em>T</em><sub><em>C</em></sub>] dynamics given by <sup>Equation 1</sup>. The next dawn is expected to come (24 + <em>t</em><sub>0</sub>) hr after the previous one.</td></tr></tbody></table>",
-      "title": "",
       "footers": [],
       "doi": "http://dx.doi.org/10.7554/eLife.00669.012",
-      "caption": "paragraph_table_tbl1",
-      "format": ""
+      "caption": "paragraph_table_tbl1"
     },
     "paragraph_table_tbl1": {
       "type": "paragraph",
@@ -11546,11 +11254,9 @@
       "id": "table_tbl2",
       "label": "Table 2.",
       "content": "<table><thead><tr><th>Symbol</th><th>Definition</th></tr></thead><tbody><tr><td><em>ρ</em><sub>0</sub></td><td>Starch content at the beginning of the dark period.</td></tr><tr><td><em>γ</em></td><td>Normalization variable.</td></tr><tr><td><em>t</em><sub><em>r1</em></sub></td><td>Time at which [<em>T</em><sub><em>C</em></sub>] levels finish being reset at the beginning of the day (see <sup>Figure 2C</sup>).</td></tr><tr><td><em>t</em><sub><em>r2</em></sub></td><td>Time at which [<em>T</em><sub><em>C</em></sub>] levels start being reset at the end of the day (see <sup>Figure 2C</sup>).</td></tr><tr><td><em>t</em><sub>0</sub></td><td>Phase shifting parameter of the [<em>T</em><sub><em>C</em></sub>] dynamics given by <sup>Equation 2</sup>. The next dawn is expected to come (24 + <em>t</em><sub>0</sub>) hr after the previous one.</td></tr></tbody></table>",
-      "title": "",
       "footers": [],
       "doi": "http://dx.doi.org/10.7554/eLife.00669.013",
-      "caption": "paragraph_table_tbl2",
-      "format": ""
+      "caption": "paragraph_table_tbl2"
     },
     "paragraph_table_tbl2": {
       "type": "paragraph",
@@ -11572,9 +11278,8 @@
     "formula_equ34": {
       "type": "formula",
       "id": "formula_equ34",
-      "label": "",
       "content": "<mml:mrow><mml:mi>L</mml:mi><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mover><mml:mi>θ</mml:mi><mml:mo>→</mml:mo></mml:mover></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:msup><mml:mrow><mml:mstyle><mml:munderover><mml:mo>∑</mml:mo><mml:mrow><mml:mi>i</mml:mi><mml:mo>=</mml:mo><mml:mn>1</mml:mn></mml:mrow><mml:mi>N</mml:mi></mml:munderover><mml:mrow><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mfrac><mml:mrow><mml:msubsup><mml:mi>ρ</mml:mi><mml:mi>S</mml:mi><mml:mi mathvariant=italic>theory</mml:mi></mml:msubsup><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:msub><mml:mi>t</mml:mi><mml:mi>i</mml:mi></mml:msub><mml:mo>,</mml:mo><mml:mrow><mml:mover><mml:mi>θ</mml:mi><mml:mo>→</mml:mo></mml:mover></mml:mrow></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:mo>−</mml:mo><mml:msubsup><mml:mi>ρ</mml:mi><mml:mi>S</mml:mi><mml:mrow><mml:mi>exp</mml:mi></mml:mrow></mml:msubsup><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:msub><mml:mi>t</mml:mi><mml:mi>i</mml:mi></mml:msub></mml:mrow><mml:mo>)</mml:mo></mml:mrow></mml:mrow><mml:mrow><mml:msubsup><mml:mi>ρ</mml:mi><mml:mi>S</mml:mi><mml:mrow><mml:mi>exp</mml:mi></mml:mrow></mml:msubsup><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:msub><mml:mi>t</mml:mi><mml:mi>i</mml:mi></mml:msub></mml:mrow><mml:mo>)</mml:mo></mml:mrow></mml:mrow></mml:mfrac></mml:mrow><mml:mo>)</mml:mo></mml:mrow></mml:mrow></mml:mstyle></mml:mrow><mml:mn>2</mml:mn></mml:msup><mml:mo>,</mml:mo></mml:mrow>",
-      "format": "mml"
+      "format": "mathml"
     },
     "paragraph_871": {
       "type": "paragraph",
@@ -11583,17 +11288,12 @@
     },
     "formula_872": {
       "type": "formula",
-      "id": "formula_872",
-      "label": "",
-      "content": "",
-      "format": ""
+      "id": "formula_872"
     },
     "annotation_873": {
       "type": "inline_formula",
       "id": "annotation_873",
-      "path": "",
       "target": "formula_872",
-      "range": "",
       "source": "paragraph_871",
       "key": "content",
       "pos": [
@@ -11603,17 +11303,12 @@
     },
     "formula_874": {
       "type": "formula",
-      "id": "formula_874",
-      "label": "",
-      "content": "",
-      "format": ""
+      "id": "formula_874"
     },
     "annotation_875": {
       "type": "inline_formula",
       "id": "annotation_875",
-      "path": "",
       "target": "formula_874",
-      "range": "",
       "source": "paragraph_871",
       "key": "content",
       "pos": [
@@ -11623,17 +11318,12 @@
     },
     "formula_876": {
       "type": "formula",
-      "id": "formula_876",
-      "label": "",
-      "content": "",
-      "format": ""
+      "id": "formula_876"
     },
     "annotation_877": {
       "type": "inline_formula",
       "id": "annotation_877",
-      "path": "",
       "target": "formula_876",
-      "range": "",
       "source": "paragraph_871",
       "key": "content",
       "pos": [
@@ -11643,17 +11333,12 @@
     },
     "formula_878": {
       "type": "formula",
-      "id": "formula_878",
-      "label": "",
-      "content": "",
-      "format": ""
+      "id": "formula_878"
     },
     "annotation_879": {
       "type": "inline_formula",
       "id": "annotation_879",
-      "path": "",
       "target": "formula_878",
-      "range": "",
       "source": "paragraph_871",
       "key": "content",
       "pos": [
@@ -11738,17 +11423,12 @@
     },
     "formula_887": {
       "type": "formula",
-      "id": "formula_887",
-      "label": "",
-      "content": "",
-      "format": ""
+      "id": "formula_887"
     },
     "annotation_888": {
       "type": "inline_formula",
       "id": "annotation_888",
-      "path": "",
       "target": "formula_887",
-      "range": "",
       "source": "paragraph_886",
       "key": "content",
       "pos": [
@@ -11761,11 +11441,9 @@
       "id": "table_tbl3",
       "label": "Table 3.",
       "content": "<table><thead><tr><th rowspan=2></th><th>Model 1</th></tr><tr><th>WT early night (panel F)</th><th>WT normal night (panel F)</th><th>WT late night<break /></break>(panel F)</th><th><em>cca1/lhy</em> early night (panel H)</th><th><em>cca1/lhy</em> normal night (panel H)</th><th>WT low light level (panel J)</th><th>WT normal light level (panel J)</th></tr></thead><tbody><tr><td><em>ρ</em><sub>0</sub> (mg g<sup>−1</sup> FW) within 10% of the measured value</td><td>8.5</td><td>11.0</td><td>11.7</td><td>4.2</td><td>5.1</td><td>3.6</td><td>6.1</td></tr><tr><td><em>γ</em> (0.7–3.0)</td><td>1.8</td><td>1.8</td><td>1.9</td><td>1.2</td><td>1.2</td><td>1.5</td><td>1.3</td></tr><tr><td>(<em>βk</em><sub><em>ST</em>1</sub>)<sup>−1</sup> (1.5–5.0) hr</td><td>5.0</td><td>5.0</td><td>5.0</td><td>1.6</td><td>1.7</td><td>2.1</td><td>1.5</td></tr><tr><td><em>t</em><sub><em>r</em></sub> (9.0–12.0) hr</td><td>9.0</td><td>Any value in the specified range</td><td>Any value in the specified range</td><td>11.7</td><td>11.7</td><td>Any value in the specified range</td><td>Any value in the specified range</td></tr><tr><td><em>t</em><sub>0</sub> (−5.0–5.0) hr for the <em>cca1/lhy</em> data, t<sub>0</sub> = 0 for WT</td><td>0.0</td><td>0.0</td><td>0.0</td><td>−4.2</td><td>−2.5</td><td>0.0</td><td>0.0</td></tr></tbody></table>",
-      "title": "",
       "footers": [],
       "doi": "http://dx.doi.org/10.7554/eLife.00669.014",
-      "caption": "paragraph_table_tbl3",
-      "format": ""
+      "caption": "paragraph_table_tbl3"
     },
     "paragraph_table_tbl3": {
       "type": "paragraph",
@@ -11788,8 +11466,7 @@
     "footer_890": {
       "type": "footer",
       "id": "footer_890",
-      "content": "With each parameter the range used in the best fit search is indicated.",
-      "label": ""
+      "content": "With each parameter the range used in the best fit search is indicated."
     },
     "paragraph_891": {
       "type": "paragraph",
@@ -11801,11 +11478,9 @@
       "id": "table_tbl4",
       "label": "Table 4.",
       "content": "<table><thead><tr><th rowspan=2></th><th>Model 2</th></tr><tr><th>WT early night (panel G)</th><th>WT normal night (panel G)</th><th>WT late night (panel G)</th><th><em>cca1/lhy</em> early night (panel I)</th><th><em>cca1/lhy</em> normal night (panel I)</th><th>WT low light level (panel K)</th><th>WT normal light level (panel K)</th></tr></thead><tbody><tr><td><em>ρ</em><sub>0</sub> (mg g<sup>−1</sup> FW) within 10% of the measured value</td><td>8.3</td><td>11.0</td><td>12.1</td><td>4.2</td><td>5.1</td><td>3.5</td><td>5.8</td></tr><tr><td><em>γ</em> (0.7–3.0)</td><td>1.1</td><td>1.0</td><td>1.1</td><td>1.3</td><td>1.2</td><td>1.2</td><td>0.9</td></tr><tr><td><em>t</em><sub><em>r1</em></sub> (9.0–12.0) hr</td><td>11.0</td><td>12.0</td><td>12.0</td><td>11.0</td><td>11.4</td><td>10.5</td><td>10.2</td></tr><tr><td><em>t</em><sub><em>r2</em></sub> (20.0–23.0) hr</td><td>20.1</td><td>20.0</td><td>20.0</td><td>21.8</td><td>21.4</td><td>21.4</td><td>22.5</td></tr><tr><td><em>t</em><sub>0</sub> (−5.0–5.0) hr for the <em>cca1/lhy</em> data, t<sub>0</sub> = 0 for WT</td><td>0.0</td><td>0.0</td><td>0.0</td><td>−2.4</td><td>−1.3</td><td>0.0</td><td>0.0</td></tr></tbody></table>",
-      "title": "",
       "footers": [],
       "doi": "http://dx.doi.org/10.7554/eLife.00669.015",
-      "caption": "paragraph_table_tbl4",
-      "format": ""
+      "caption": "paragraph_table_tbl4"
     },
     "paragraph_table_tbl4": {
       "type": "paragraph",
@@ -11828,8 +11503,7 @@
     "footer_893": {
       "type": "footer",
       "id": "footer_893",
-      "content": "With each parameter the range used in the best fit search is indicated.",
-      "label": ""
+      "content": "With each parameter the range used in the best fit search is indicated."
     },
     "paragraph_894": {
       "type": "paragraph",
@@ -11841,11 +11515,9 @@
       "id": "table_tbl5",
       "label": "Table 5.",
       "content": "<table><thead><tr><th rowspan=2></th><th>Model 1</th></tr><tr><th>Panel A</th><th>Panel B</th><th>Panel C</th><th>Panel D</th></tr></thead><tbody><tr><td><em>ρ</em><sub>0</sub> (mg g<sup>−1</sup> FW) within 10% of the measured value</td><td>5.4</td><td>9.0</td><td>7.7</td><td>4.2</td></tr><tr><td><em>γ</em> (0.7–3.0)</td><td>2.4</td><td>1.4</td><td>1.1</td><td>1.0</td></tr><tr><td>(<em>βk</em><sub><em>ST</em>1</sub>)<sup>−1</sup> (1.5–5.0) hr</td><td>5.0</td><td>2.6</td><td>2.1</td><td>2.0</td></tr><tr><td><em>t</em><sub><em>r</em></sub> (9.0–12.0) hr</td><td>9.0</td><td>9.0</td><td>10.3</td><td>12.0</td></tr><tr><td><em>t</em><sub>0</sub> (−5.0—5.0) hr</td><td>4.3</td><td>3.3</td><td>2.4</td><td>−0.5</td></tr></tbody></table>",
-      "title": "",
       "footers": [],
       "doi": "http://dx.doi.org/10.7554/eLife.00669.016",
-      "caption": "paragraph_table_tbl5",
-      "format": ""
+      "caption": "paragraph_table_tbl5"
     },
     "paragraph_table_tbl5": {
       "type": "paragraph",
@@ -11868,19 +11540,16 @@
     "footer_896": {
       "type": "footer",
       "id": "footer_896",
-      "content": "With each parameter the range used in the best fit search is indicated.",
-      "label": ""
+      "content": "With each parameter the range used in the best fit search is indicated."
     },
     "table_tbl6": {
       "type": "table",
       "id": "table_tbl6",
       "label": "Table 6.",
       "content": "<table><thead><tr><th rowspan=2></th><th>Model 2</th></tr><tr><th>Panel A</th><th>Panel B</th><th>Panel C</th><th>Panel D</th></tr></thead><tbody><tr><td><em>ρ</em><sub>0</sub> (mg g<sup>−1</sup> FW) within 10% of the measured value</td><td>5.5</td><td>9.1</td><td>7.7</td><td>4.2</td></tr><tr><td><em>γ</em> (0.7–3.0)</td><td>1.5</td><td>1.3</td><td>0.7</td><td>0.7</td></tr><tr><td><em>t</em><sub><em>r1</em></sub> (9.0–12.0) hr</td><td>12.0</td><td>9.0</td><td>9.0</td><td>9.0</td></tr><tr><td><em>t</em><sub><em>r2</em></sub> (20.0–23.0) hr</td><td>20.0</td><td>20.9</td><td>22.1</td><td>22.1</td></tr><tr><td><em>t</em><sub>0</sub> (−5.0–5.0) hr</td><td>5.0</td><td>5.0</td><td>2.4</td><td>0.0</td></tr></tbody></table>",
-      "title": "",
       "footers": [],
       "doi": "http://dx.doi.org/10.7554/eLife.00669.017",
-      "caption": "paragraph_table_tbl6",
-      "format": ""
+      "caption": "paragraph_table_tbl6"
     },
     "paragraph_table_tbl6": {
       "type": "paragraph",
@@ -11903,8 +11572,7 @@
     "footer_898": {
       "type": "footer",
       "id": "footer_898",
-      "content": "With each parameter the range used in the best fit search is indicated.",
-      "label": ""
+      "content": "With each parameter the range used in the best fit search is indicated."
     },
     "heading_s4-10": {
       "type": "heading",
@@ -11965,9 +11633,8 @@
     "formula_equ35": {
       "type": "formula",
       "id": "formula_equ35",
-      "label": "",
       "content": "<mml:mrow><mml:msubsup><mml:mi>μ</mml:mi><mml:mi>B</mml:mi><mml:mi>i</mml:mi></mml:msubsup><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:msubsup><mml:mi>ρ</mml:mi><mml:mi>S</mml:mi><mml:mi>i</mml:mi></mml:msubsup><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mn>12</mml:mn><mml:mo> </mml:mo><mml:mtext>hr</mml:mtext></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:mo>−</mml:mo><mml:msubsup><mml:mi>ρ</mml:mi><mml:mi>S</mml:mi><mml:mi>i</mml:mi></mml:msubsup><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mn>14</mml:mn><mml:mo> </mml:mo><mml:mtext>hr</mml:mtext></mml:mrow><mml:mo>)</mml:mo></mml:mrow></mml:mrow><mml:mrow><mml:mn>14</mml:mn><mml:mo> </mml:mo><mml:mtext>hr</mml:mtext><mml:mo>−</mml:mo><mml:mn>12</mml:mn><mml:mo> </mml:mo><mml:mtext>hr</mml:mtext></mml:mrow></mml:mfrac><mml:mo>,</mml:mo></mml:mrow>",
-      "format": "mml"
+      "format": "mathml"
     },
     "paragraph_904": {
       "type": "paragraph",
@@ -11990,9 +11657,8 @@
     "formula_equ36": {
       "type": "formula",
       "id": "formula_equ36",
-      "label": "",
       "content": "<mml:mrow><mml:msubsup><mml:mi>μ</mml:mi><mml:mi>A</mml:mi><mml:mi>i</mml:mi></mml:msubsup><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:msubsup><mml:mi>ρ</mml:mi><mml:mi>S</mml:mi><mml:mi>i</mml:mi></mml:msubsup><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mn>19</mml:mn><mml:mo> </mml:mo><mml:mtext>hr</mml:mtext></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:mo>−</mml:mo><mml:msubsup><mml:mi>ρ</mml:mi><mml:mi>S</mml:mi><mml:mi>i</mml:mi></mml:msubsup><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mn>21</mml:mn><mml:mo> </mml:mo><mml:mtext>hr</mml:mtext></mml:mrow><mml:mo>)</mml:mo></mml:mrow></mml:mrow><mml:mrow><mml:mn>21</mml:mn><mml:mo> </mml:mo><mml:mtext>hr</mml:mtext><mml:mo>−</mml:mo><mml:mn>19</mml:mn><mml:mo> </mml:mo><mml:mtext>hr</mml:mtext></mml:mrow></mml:mfrac><mml:mo> </mml:mo><mml:mo>,</mml:mo></mml:mrow>",
-      "format": "mml"
+      "format": "mathml"
     },
     "paragraph_906": {
       "type": "paragraph",
@@ -12002,9 +11668,8 @@
     "formula_equ37": {
       "type": "formula",
       "id": "formula_equ37",
-      "label": "",
       "content": "<mml:mrow><mml:msub><mml:mi>μ</mml:mi><mml:mi>A</mml:mi></mml:msub><mml:mo>−</mml:mo><mml:msub><mml:mi>μ</mml:mi><mml:mi>B</mml:mi></mml:msub><mml:mo>=</mml:mo><mml:mfrac><mml:mn>1</mml:mn><mml:mi>N</mml:mi></mml:mfrac><mml:mstyle><mml:munderover><mml:mo>∑</mml:mo><mml:mrow><mml:mi>i</mml:mi><mml:mo>=</mml:mo><mml:mn>1</mml:mn></mml:mrow><mml:mi>N</mml:mi></mml:munderover><mml:mrow><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:msubsup><mml:mi>μ</mml:mi><mml:mi>A</mml:mi><mml:mi>i</mml:mi></mml:msubsup><mml:mo>−</mml:mo><mml:msubsup><mml:mi>μ</mml:mi><mml:mi>B</mml:mi><mml:mi>i</mml:mi></mml:msubsup></mml:mrow><mml:mo>)</mml:mo></mml:mrow></mml:mrow></mml:mstyle><mml:mo>,</mml:mo></mml:mrow>",
-      "format": "mml"
+      "format": "mathml"
     },
     "paragraph_907": {
       "type": "paragraph",
@@ -12148,17 +11813,12 @@
     },
     "formula_919": {
       "type": "formula",
-      "id": "formula_919",
-      "label": "",
-      "content": "",
-      "format": ""
+      "id": "formula_919"
     },
     "annotation_920": {
       "type": "inline_formula",
       "id": "annotation_920",
-      "path": "",
       "target": "formula_919",
-      "range": "",
       "source": "paragraph_918",
       "key": "content",
       "pos": [
@@ -12169,9 +11829,8 @@
     "formula_equ38": {
       "type": "formula",
       "id": "formula_equ38",
-      "label": "",
       "content": "<mml:mrow><mml:msubsup><mml:mi>μ</mml:mi><mml:mrow><mml:mi mathvariant=italic>normal</mml:mi></mml:mrow><mml:mi>i</mml:mi></mml:msubsup><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:msubsup><mml:mi>ρ</mml:mi><mml:mi>S</mml:mi><mml:mi>i</mml:mi></mml:msubsup><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mn>12</mml:mn><mml:mo> </mml:mo><mml:mtext>hr</mml:mtext></mml:mrow><mml:mo>)</mml:mo></mml:mrow></mml:mrow><mml:mrow><mml:mn>12</mml:mn><mml:mo> </mml:mo><mml:mtext>hr</mml:mtext></mml:mrow></mml:mfrac><mml:mo>,</mml:mo></mml:mrow>",
-      "format": "mml"
+      "format": "mathml"
     },
     "paragraph_921": {
       "type": "paragraph",
@@ -12180,17 +11839,12 @@
     },
     "formula_922": {
       "type": "formula",
-      "id": "formula_922",
-      "label": "",
-      "content": "",
-      "format": ""
+      "id": "formula_922"
     },
     "annotation_923": {
       "type": "inline_formula",
       "id": "annotation_923",
-      "path": "",
       "target": "formula_922",
-      "range": "",
       "source": "paragraph_921",
       "key": "content",
       "pos": [
@@ -12201,9 +11855,8 @@
     "formula_equ39": {
       "type": "formula",
       "id": "formula_equ39",
-      "label": "",
       "content": "<mml:mrow><mml:msub><mml:mi>μ</mml:mi><mml:mi>A</mml:mi></mml:msub><mml:mo>−</mml:mo><mml:msub><mml:mi>μ</mml:mi><mml:mi mathvariant=italic>normal</mml:mi></mml:msub><mml:mo>=</mml:mo><mml:mfrac><mml:mn>1</mml:mn><mml:mi>N</mml:mi></mml:mfrac><mml:mstyle><mml:munderover><mml:mo>∑</mml:mo><mml:mrow><mml:mi>i</mml:mi><mml:mo>=</mml:mo><mml:mn>1</mml:mn></mml:mrow><mml:mi>N</mml:mi></mml:munderover><mml:mrow><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:msubsup><mml:mi>μ</mml:mi><mml:mi>A</mml:mi><mml:mi>i</mml:mi></mml:msubsup><mml:mo>−</mml:mo><mml:msubsup><mml:mi>μ</mml:mi><mml:mi mathvariant=italic>normal</mml:mi><mml:mi>i</mml:mi></mml:msubsup></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:mn>0.48</mml:mn><mml:mo>±</mml:mo><mml:mn>0.11</mml:mn><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:msup><mml:mtext>mgg</mml:mtext><mml:mrow><mml:mo>−</mml:mo><mml:mn>1</mml:mn></mml:mrow></mml:msup><mml:mo> </mml:mo><mml:mtext>FW</mml:mtext></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:mo>/</mml:mo><mml:mtext>hr</mml:mtext></mml:mrow></mml:mstyle><mml:mo>,</mml:mo></mml:mrow>",
-      "format": "mml"
+      "format": "mathml"
     },
     "paragraph_924": {
       "type": "paragraph",
@@ -12685,9 +12338,8 @@
     "formula_equ40": {
       "type": "formula",
       "id": "formula_equ40",
-      "label": "",
       "content": "<mml:mtable><mml:mtr><mml:mtd><mml:msubsup><mml:mi>ρ</mml:mi><mml:mi>S</mml:mi><mml:mrow><mml:mi mathvariant=italic>early</mml:mi></mml:mrow></mml:msubsup><mml:mrow><mml:mo>(</mml:mo><mml:mi>t</mml:mi><mml:mo>)</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:mo>−</mml:mo><mml:msup><mml:mi>μ</mml:mi><mml:mi mathvariant=italic>early</mml:mi></mml:msup><mml:mo>⋅</mml:mo><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mi>t</mml:mi><mml:mo>−</mml:mo><mml:msup><mml:mi>t</mml:mi><mml:mi mathvariant=italic>early</mml:mi></mml:msup></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:mo>+</mml:mo><mml:msubsup><mml:mi>ρ</mml:mi><mml:mrow><mml:mi>S</mml:mi><mml:mo>,</mml:mo><mml:mn>0</mml:mn></mml:mrow><mml:mi mathvariant=italic>early</mml:mi></mml:msubsup><mml:mo>,</mml:mo></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:msubsup><mml:mi>ρ</mml:mi><mml:mi>S</mml:mi><mml:mi mathvariant=italic>normal</mml:mi></mml:msubsup><mml:mrow><mml:mo>(</mml:mo><mml:mi>t</mml:mi><mml:mo>)</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:mo>−</mml:mo><mml:msup><mml:mi>μ</mml:mi><mml:mi mathvariant=italic>normal</mml:mi></mml:msup><mml:mo>⋅</mml:mo><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mi>t</mml:mi><mml:mo>−</mml:mo><mml:msup><mml:mi>t</mml:mi><mml:mi mathvariant=italic>normal</mml:mi></mml:msup></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:mo>+</mml:mo><mml:msubsup><mml:mi>ρ</mml:mi><mml:mrow><mml:mi>S</mml:mi><mml:mo>,</mml:mo><mml:mn>0</mml:mn></mml:mrow><mml:mi mathvariant=italic>normal</mml:mi></mml:msubsup><mml:mo>,</mml:mo></mml:mtd></mml:mtr></mml:mtable>",
-      "format": "mml"
+      "format": "mathml"
     },
     "paragraph_964": {
       "type": "paragraph",
@@ -12696,17 +12348,12 @@
     },
     "formula_965": {
       "type": "formula",
-      "id": "formula_965",
-      "label": "",
-      "content": "",
-      "format": ""
+      "id": "formula_965"
     },
     "annotation_966": {
       "type": "inline_formula",
       "id": "annotation_966",
-      "path": "",
       "target": "formula_965",
-      "range": "",
       "source": "paragraph_964",
       "key": "content",
       "pos": [
@@ -12716,17 +12363,12 @@
     },
     "formula_967": {
       "type": "formula",
-      "id": "formula_967",
-      "label": "",
-      "content": "",
-      "format": ""
+      "id": "formula_967"
     },
     "annotation_968": {
       "type": "inline_formula",
       "id": "annotation_968",
-      "path": "",
       "target": "formula_967",
-      "range": "",
       "source": "paragraph_964",
       "key": "content",
       "pos": [
@@ -12737,9 +12379,8 @@
     "formula_equ41": {
       "type": "formula",
       "id": "formula_equ41",
-      "label": "",
       "content": "<mml:mrow><mml:mi>R</mml:mi><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:mrow><mml:mrow><mml:msup><mml:mi>μ</mml:mi><mml:mi mathvariant=italic>normal</mml:mi></mml:msup></mml:mrow><mml:mo>/</mml:mo><mml:mrow><mml:msubsup><mml:mi>ρ</mml:mi><mml:mrow><mml:mi>S</mml:mi><mml:mo>,</mml:mo><mml:mn>0</mml:mn></mml:mrow><mml:mi mathvariant=italic>normal</mml:mi></mml:msubsup></mml:mrow></mml:mrow></mml:mrow><mml:mrow><mml:mrow><mml:mrow><mml:msup><mml:mi>μ</mml:mi><mml:mi mathvariant=italic>early</mml:mi></mml:msup></mml:mrow><mml:mo>/</mml:mo><mml:mrow><mml:msubsup><mml:mi>ρ</mml:mi><mml:mrow><mml:mi>S</mml:mi><mml:mo>,</mml:mo><mml:mn>0</mml:mn></mml:mrow><mml:mi mathvariant=italic>early</mml:mi></mml:msubsup></mml:mrow></mml:mrow></mml:mrow></mml:mfrac><mml:mo>.</mml:mo></mml:mrow>",
-      "format": "mml"
+      "format": "mathml"
     },
     "paragraph_969": {
       "type": "paragraph",
@@ -12761,17 +12402,12 @@
     },
     "formula_971": {
       "type": "formula",
-      "id": "formula_971",
-      "label": "",
-      "content": "",
-      "format": ""
+      "id": "formula_971"
     },
     "annotation_972": {
       "type": "inline_formula",
       "id": "annotation_972",
-      "path": "",
       "target": "formula_971",
-      "range": "",
       "source": "paragraph_969",
       "key": "content",
       "pos": [
@@ -12781,17 +12417,12 @@
     },
     "formula_973": {
       "type": "formula",
-      "id": "formula_973",
-      "label": "",
-      "content": "",
-      "format": ""
+      "id": "formula_973"
     },
     "annotation_974": {
       "type": "inline_formula",
       "id": "annotation_974",
-      "path": "",
       "target": "formula_973",
-      "range": "",
       "source": "paragraph_969",
       "key": "content",
       "pos": [
@@ -12801,17 +12432,12 @@
     },
     "formula_975": {
       "type": "formula",
-      "id": "formula_975",
-      "label": "",
-      "content": "",
-      "format": ""
+      "id": "formula_975"
     },
     "annotation_976": {
       "type": "inline_formula",
       "id": "annotation_976",
-      "path": "",
       "target": "formula_975",
-      "range": "",
       "source": "paragraph_969",
       "key": "content",
       "pos": [
@@ -12827,9 +12453,8 @@
     "formula_equ42": {
       "type": "formula",
       "id": "formula_equ42",
-      "label": "",
       "content": "<mml:mrow><mml:mfrac><mml:mrow><mml:msub><mml:mi>f</mml:mi><mml:mrow><mml:mi>D</mml:mi><mml:mn>1</mml:mn></mml:mrow></mml:msub><mml:msub><mml:mi>A</mml:mi><mml:mi>d</mml:mi></mml:msub><mml:msub><mml:mi>k</mml:mi><mml:mi>S</mml:mi></mml:msub></mml:mrow><mml:mrow><mml:msub><mml:mi>k</mml:mi><mml:mrow><mml:mi mathvariant=italic>ST</mml:mi><mml:mn>1</mml:mn></mml:mrow></mml:msub><mml:msub><mml:mi>V</mml:mi><mml:mn>0</mml:mn></mml:msub><mml:mi>β</mml:mi></mml:mrow></mml:mfrac><mml:mo>=</mml:mo><mml:mi>γ</mml:mi><mml:mo>=</mml:mo><mml:mn>1</mml:mn><mml:mo>,</mml:mo><mml:mfrac><mml:mrow><mml:msub><mml:mi>m</mml:mi><mml:mi>S</mml:mi></mml:msub><mml:msub><mml:mi>f</mml:mi><mml:mrow><mml:mi>D</mml:mi><mml:mn>2</mml:mn></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:mi>α</mml:mi><mml:mo> </mml:mo><mml:msub><mml:mi>f</mml:mi><mml:mrow><mml:mi>D</mml:mi><mml:mn>1</mml:mn></mml:mrow></mml:msub></mml:mrow></mml:mfrac><mml:mo>=</mml:mo><mml:mi>χ</mml:mi><mml:mo>=</mml:mo><mml:mn>1</mml:mn><mml:mo>.</mml:mo></mml:mrow>",
-      "format": "mml"
+      "format": "mathml"
     },
     "paragraph_978": {
       "type": "paragraph",
@@ -12903,17 +12528,12 @@
     },
     "formula_984": {
       "type": "formula",
-      "id": "formula_984",
-      "label": "",
-      "content": "",
-      "format": ""
+      "id": "formula_984"
     },
     "annotation_985": {
       "type": "inline_formula",
       "id": "annotation_985",
-      "path": "",
       "target": "formula_984",
-      "range": "",
       "source": "paragraph_978",
       "key": "content",
       "pos": [
@@ -13205,9 +12825,8 @@
     "formula_equ43": {
       "type": "formula",
       "id": "formula_equ43",
-      "label": "",
       "content": "<mml:mtable><mml:mtr><mml:mtd><mml:msub><mml:mi>r</mml:mi><mml:mi>S</mml:mi></mml:msub><mml:mo>:</mml:mo><mml:msub><mml:mi>S</mml:mi><mml:mi>C</mml:mi></mml:msub><mml:mo>↔</mml:mo><mml:mi>S</mml:mi></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:msub><mml:mi>r</mml:mi><mml:mi>T</mml:mi></mml:msub><mml:mo>:</mml:mo><mml:msub><mml:mi>T</mml:mi><mml:mi>C</mml:mi></mml:msub><mml:mo>↔</mml:mo><mml:mi>T</mml:mi></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:msub><mml:mi>r</mml:mi><mml:mrow><mml:msub><mml:mi>T</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mrow></mml:msub><mml:mo>:</mml:mo><mml:mi>T</mml:mi><mml:mo>+</mml:mo><mml:mi>T</mml:mi><mml:mo>↔</mml:mo><mml:msub><mml:mi>T</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:msub><mml:mi>r</mml:mi><mml:mrow><mml:mi>S</mml:mi><mml:mi>T</mml:mi></mml:mrow></mml:msub><mml:mo>:</mml:mo><mml:mi>S</mml:mi><mml:mo>+</mml:mo><mml:mi>T</mml:mi><mml:mo>↔</mml:mo><mml:mi>S</mml:mi><mml:mi>T</mml:mi></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:msub><mml:mi>r</mml:mi><mml:mrow><mml:mi>S</mml:mi><mml:msub><mml:mi>T</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mrow></mml:msub><mml:mo>:</mml:mo><mml:mi>S</mml:mi><mml:mo>+</mml:mo><mml:msub><mml:mi>T</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mo>→</mml:mo><mml:mi>S</mml:mi><mml:msub><mml:mi>T</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:msub><mml:mi>r</mml:mi><mml:mrow><mml:msub><mml:mi>S</mml:mi><mml:mi>C</mml:mi></mml:msub><mml:msub><mml:mi>T</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mrow></mml:msub><mml:mo>:</mml:mo><mml:mi>S</mml:mi><mml:msub><mml:mi>T</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mo>→</mml:mo><mml:msub><mml:mi>S</mml:mi><mml:mi>C</mml:mi></mml:msub><mml:mo>+</mml:mo><mml:msub><mml:mi>T</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:msub><mml:mi>r</mml:mi><mml:mrow><mml:mi>D</mml:mi><mml:mn>1</mml:mn></mml:mrow></mml:msub><mml:mo>:</mml:mo><mml:mi>S</mml:mi><mml:mi>T</mml:mi><mml:mo>→</mml:mo><mml:mi>T</mml:mi><mml:mo> </mml:mo></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:msub><mml:mi>r</mml:mi><mml:mrow><mml:mi>D</mml:mi><mml:mn>2</mml:mn></mml:mrow></mml:msub><mml:mo>:</mml:mo><mml:mi>S</mml:mi><mml:mi>T</mml:mi><mml:mo>+</mml:mo><mml:mtext>Starch</mml:mtext><mml:mo>→</mml:mo><mml:mi mathvariant=italic>ST</mml:mi><mml:mo>.</mml:mo></mml:mtd></mml:mtr></mml:mtable>",
-      "format": "mml"
+      "format": "mathml"
     },
     "paragraph_1009": {
       "type": "paragraph",
@@ -13502,17 +13121,12 @@
     },
     "formula_1032": {
       "type": "formula",
-      "id": "formula_1032",
-      "label": "",
-      "content": "",
-      "format": ""
+      "id": "formula_1032"
     },
     "annotation_1033": {
       "type": "inline_formula",
       "id": "annotation_1033",
-      "path": "",
       "target": "formula_1032",
-      "range": "",
       "source": "paragraph_1009",
       "key": "content",
       "pos": [
@@ -13522,17 +13136,12 @@
     },
     "formula_1034": {
       "type": "formula",
-      "id": "formula_1034",
-      "label": "",
-      "content": "",
-      "format": ""
+      "id": "formula_1034"
     },
     "annotation_1035": {
       "type": "inline_formula",
       "id": "annotation_1035",
-      "path": "",
       "target": "formula_1034",
-      "range": "",
       "source": "paragraph_1009",
       "key": "content",
       "pos": [
@@ -13542,17 +13151,12 @@
     },
     "formula_1036": {
       "type": "formula",
-      "id": "formula_1036",
-      "label": "",
-      "content": "",
-      "format": ""
+      "id": "formula_1036"
     },
     "annotation_1037": {
       "type": "inline_formula",
       "id": "annotation_1037",
-      "path": "",
       "target": "formula_1036",
-      "range": "",
       "source": "paragraph_1009",
       "key": "content",
       "pos": [
@@ -13594,9 +13198,8 @@
     "formula_equ44": {
       "type": "formula",
       "id": "formula_equ44",
-      "label": "",
       "content": "<mml:mtable><mml:mtr><mml:mtd><mml:msub><mml:mi>r</mml:mi><mml:mi>M</mml:mi></mml:msub><mml:mo>:</mml:mo><mml:msub><mml:mi>M</mml:mi><mml:mi>C</mml:mi></mml:msub><mml:mo>↔</mml:mo><mml:mi>M</mml:mi></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:msub><mml:mi>r</mml:mi><mml:mi>S</mml:mi></mml:msub><mml:mo>:</mml:mo><mml:msub><mml:mi>S</mml:mi><mml:mi>C</mml:mi></mml:msub><mml:mo>+</mml:mo><mml:mi>M</mml:mi><mml:mo>→</mml:mo><mml:mi>S</mml:mi><mml:mi>M</mml:mi></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:msub><mml:mi>r</mml:mi><mml:mi>T</mml:mi></mml:msub><mml:mo>:</mml:mo><mml:msub><mml:mi>T</mml:mi><mml:mi>C</mml:mi></mml:msub><mml:mo>+</mml:mo><mml:mi>M</mml:mi><mml:mo>→</mml:mo><mml:mi>T</mml:mi><mml:mi>M</mml:mi></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:msub><mml:mi>r</mml:mi><mml:mrow><mml:mi>S</mml:mi><mml:mi>M</mml:mi></mml:mrow></mml:msub><mml:mo>:</mml:mo><mml:mi>S</mml:mi><mml:mi>M</mml:mi><mml:mo>→</mml:mo><mml:msub><mml:mi>S</mml:mi><mml:mi>C</mml:mi></mml:msub><mml:mo>+</mml:mo><mml:msub><mml:mi>M</mml:mi><mml:mi>C</mml:mi></mml:msub></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:msub><mml:mi>r</mml:mi><mml:mrow><mml:mi>T</mml:mi><mml:mi>M</mml:mi></mml:mrow></mml:msub><mml:mo>:</mml:mo><mml:mi>T</mml:mi><mml:mi>M</mml:mi><mml:mo>→</mml:mo><mml:msub><mml:mi>T</mml:mi><mml:mi>C</mml:mi></mml:msub><mml:mo>+</mml:mo><mml:msub><mml:mi>M</mml:mi><mml:mi>C</mml:mi></mml:msub></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:msub><mml:mi>r</mml:mi><mml:mrow><mml:mi>D</mml:mi><mml:mn>1</mml:mn></mml:mrow></mml:msub><mml:mo>:</mml:mo><mml:mi>S</mml:mi><mml:mi>M</mml:mi><mml:mo>→</mml:mo><mml:msub><mml:mi>M</mml:mi><mml:mi>C</mml:mi></mml:msub></mml:mtd></mml:mtr><mml:mtr><mml:mtd><mml:msub><mml:mi>r</mml:mi><mml:mrow><mml:mi>D</mml:mi><mml:mn>2</mml:mn></mml:mrow></mml:msub><mml:mo>:</mml:mo><mml:mi>S</mml:mi><mml:mi>M</mml:mi><mml:mo>+</mml:mo><mml:mtext>Starch</mml:mtext><mml:mo>→</mml:mo><mml:mi>S</mml:mi><mml:mi>M</mml:mi><mml:mo>,</mml:mo></mml:mtd></mml:mtr></mml:mtable>",
-      "format": "mml"
+      "format": "mathml"
     },
     "paragraph_1041": {
       "type": "paragraph",
@@ -14199,17 +13802,11 @@
       "year": "2001",
       "volume": "293",
       "source": "Science",
-      "issue": "",
       "fpage": "880",
       "lpage": "3",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1126/science.1061320",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib2": {
@@ -14245,17 +13842,11 @@
       "year": "2005",
       "volume": "41",
       "source": "Plant J",
-      "issue": "",
       "fpage": "595",
       "lpage": "605",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1111/j.1365-313X.2004.02322.x",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib3": {
@@ -14271,17 +13862,11 @@
       "year": "2012",
       "volume": "13",
       "source": "Nat Rev Genet",
-      "issue": "",
       "fpage": "455",
       "lpage": "68",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nrg3197",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib4": {
@@ -14297,17 +13882,11 @@
       "year": "1995",
       "volume": "376",
       "source": "Nature",
-      "issue": "",
       "fpage": "307",
       "lpage": "12",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/376307a0",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib5": {
@@ -14335,17 +13914,11 @@
       "year": "2009",
       "volume": "15",
       "source": "Artif Life",
-      "issue": "",
       "fpage": "5",
       "lpage": "19",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1162/artl.2009.15.1.15101",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib6": {
@@ -14381,17 +13954,11 @@
       "year": "2010",
       "volume": "152",
       "source": "Plant Physiol",
-      "issue": "",
       "fpage": "685",
       "lpage": "97",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1104/pp.109.148981",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib7": {
@@ -14411,17 +13978,9 @@
       "year": "e1000064",
       "volume": "4",
       "source": "PLOS COMPUT BIOL",
-      "issue": "",
-      "fpage": "",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1371/journal.pcbi.1000064",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib8": {
@@ -14453,17 +14012,11 @@
       "year": "2012",
       "volume": "158",
       "source": "Plant Physiol",
-      "issue": "",
       "fpage": "905",
       "lpage": "16",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1104/pp.111.186957",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib9": {
@@ -14483,17 +14036,11 @@
       "year": "2004",
       "volume": "5",
       "source": "Chembiochem",
-      "issue": "",
       "fpage": "1423",
       "lpage": "31",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1002/cbic.200400178",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib10": {
@@ -14513,17 +14060,10 @@
       "year": "2013",
       "volume": "3",
       "source": "Front Plant Sci",
-      "issue": "",
       "fpage": "305",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.3389/fpls.2012.00305",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib11": {
@@ -14559,17 +14099,11 @@
       "year": "2004",
       "volume": "39",
       "source": "Plant J",
-      "issue": "",
       "fpage": "847",
       "lpage": "62",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1111/j.1365-313X.2004.02173.x",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib12": {
@@ -14597,17 +14131,11 @@
       "year": "2010",
       "volume": "107",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "9458",
       "lpage": "63",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1073/pnas.0914299107",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib13": {
@@ -14627,17 +14155,11 @@
       "year": "2011",
       "volume": "16",
       "source": "Trends Plant Sci",
-      "issue": "",
       "fpage": "169",
       "lpage": "75",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.tplants.2010.12.003",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib14": {
@@ -14657,17 +14179,11 @@
       "year": "2001",
       "volume": "128",
       "source": "Comp Biochem Physiol A Mol Integr Physiol",
-      "issue": "",
       "fpage": "645",
       "lpage": "55",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/S1095-6433(00)00341-X",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib15": {
@@ -14687,17 +14203,11 @@
       "year": "1988",
       "volume": "27",
       "source": "Phytochemistry",
-      "issue": "",
       "fpage": "1627",
       "lpage": "9",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/0031-9422(88)80416-3",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib16": {
@@ -14725,17 +14235,11 @@
       "year": "2009",
       "volume": "150",
       "source": "Plant Physiol",
-      "issue": "",
       "fpage": "962",
       "lpage": "76",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1104/pp.109.138750",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib17": {
@@ -14771,17 +14275,11 @@
       "year": "2005",
       "volume": "137",
       "source": "Plant Physiol",
-      "issue": "",
       "fpage": "242",
       "lpage": "52",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1104/pp.104.055954",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib18": {
@@ -14805,17 +14303,11 @@
       "year": "2013",
       "volume": "49",
       "source": "Mol Cell",
-      "issue": "",
       "fpage": "202",
       "lpage": "12",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.molcel.2012.12.020",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib19": {
@@ -14839,17 +14331,11 @@
       "year": "2005",
       "volume": "138",
       "source": "Plant Physiol",
-      "issue": "",
       "fpage": "2280",
       "lpage": "91",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1104/pp.105.061903",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib20": {
@@ -14885,17 +14371,11 @@
       "year": "2006",
       "volume": "580",
       "source": "FEBS Lett",
-      "issue": "",
       "fpage": "4872",
       "lpage": "6",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.febslet.2006.07.085",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib21": {
@@ -14919,17 +14399,11 @@
       "year": "2000",
       "volume": "21",
       "source": "Plant J",
-      "issue": "",
       "fpage": "387",
       "lpage": "91",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1046/j.1365-313x.2000.00683.x",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib22": {
@@ -14945,17 +14419,10 @@
       "year": "2012",
       "volume": "64",
       "source": "Starch/Stärke",
-      "issue": "",
       "fpage": "421",
       "lpage": "34",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib23": {
@@ -14975,17 +14442,11 @@
       "year": "2007",
       "volume": "30",
       "source": "Plant Cell Environ",
-      "issue": "",
       "fpage": "1126",
       "lpage": "49",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1111/j.1365-3040.2007.01708.x",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib24": {
@@ -15021,17 +14482,11 @@
       "year": "2004",
       "volume": "136",
       "source": "Plant Physiol",
-      "issue": "",
       "fpage": "2687",
       "lpage": "99",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1104/pp.104.044347",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib25": {
@@ -15051,17 +14506,11 @@
       "year": "2012",
       "volume": "15",
       "source": "Curr Opin Plant Biol",
-      "issue": "",
       "fpage": "282",
       "lpage": "92",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.pbi.2012.03.016",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib26": {
@@ -15093,17 +14542,11 @@
       "year": "2009",
       "volume": "32",
       "source": "Polar Biol",
-      "issue": "",
       "fpage": "481",
       "lpage": "91",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1007/s00300-008-0543-8",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib27": {
@@ -15139,17 +14582,11 @@
       "year": "2008",
       "volume": "146",
       "source": "Plant Physiol",
-      "issue": "",
       "fpage": "1834",
       "lpage": "61",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1104/pp.107.115592",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib28": {
@@ -15181,17 +14618,11 @@
       "year": "2011",
       "volume": "34",
       "source": "Plant Cell Environ",
-      "issue": "",
       "fpage": "877",
       "lpage": "94",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1111/j.1365-3040.2011.02286.x",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib29": {
@@ -15227,17 +14658,11 @@
       "year": "2005",
       "volume": "280",
       "source": "J Biol Chem",
-      "issue": "",
       "fpage": "9773",
       "lpage": "9",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1074/jbc.M413638200",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib30": {
@@ -15261,17 +14686,11 @@
       "year": "2009",
       "volume": "388",
       "source": "Anal Biochem",
-      "issue": "",
       "fpage": "97",
       "lpage": "101",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.ab.2009.02.009",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     }
   }

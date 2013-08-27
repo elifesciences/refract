@@ -199,7 +199,6 @@
       "accepted_on": "2012-10-12",
       "published_on": "2012-12-13",
       "journal": "eLife",
-      "article_type": "",
       "keywords": [
         "Boundaries",
         "Insulators",
@@ -215,10 +214,9 @@
         "Biochemistry",
         "Genes and chromosomes"
       ],
-      "pdf_link": "",
-      "xml_link": "",
-      "json_link": "",
-      "doi": ""
+      "xml_link": "https://s3.amazonaws.com/elife-cdn/elife-articles/00171/elife00171.xml",
+      "json_link": "https://s3.amazonaws.com/elife-cdn/elife-articles/00171/00171.json",
+      "doi": "http://dx.doi.org/10.7554/eLife.00171"
     },
     "person_author_1654": {
       "type": "person",
@@ -227,9 +225,7 @@
       "last-name": "Aoki",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article",
-      "email": "",
       "funding": []
     },
     "person_author_1972": {
@@ -239,9 +235,7 @@
       "last-name": "Sarkeshik",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Acquisition of data, Analysis and interpretation of data",
-      "email": "",
       "funding": []
     },
     "person_author_1973": {
@@ -251,9 +245,7 @@
       "last-name": "Yates",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Acquisition of data, Analysis and interpretation of data",
-      "email": "",
       "funding": [
         "funding_par_2"
       ]
@@ -265,7 +257,6 @@
       "last-name": "Schedl",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article",
       "email": "email_cor1",
       "funding": [
@@ -277,18 +268,14 @@
       "id": "institution_aff1",
       "name": "Princeton University",
       "city": "Princeton",
-      "country": "United States",
-      "email": "",
-      "image": ""
+      "country": "United States"
     },
     "institution_aff2": {
       "type": "institution",
       "id": "institution_aff2",
       "name": "Scripps Research Institute",
       "city": "La Jolla",
-      "country": "United States",
-      "email": "",
-      "image": ""
+      "country": "United States"
     },
     "person_1": {
       "type": "person",
@@ -297,9 +284,6 @@
       "last-name": "Kadonaga",
       "role": "editor",
       "affiliations": [],
-      "image": "",
-      "contribution": "",
-      "email": "",
       "funding": []
     },
     "info:review": {
@@ -314,7 +298,6 @@
     "email_cor1": {
       "type": "email",
       "id": "email_cor1",
-      "node": "",
       "email": "pschedl@princeton.edu"
     },
     "info:copyright": {
@@ -477,8 +460,7 @@
     },
     "paragraph_16": {
       "type": "paragraph",
-      "id": "paragraph_16",
-      "content": ""
+      "id": "paragraph_16"
     },
     "heading_s1": {
       "type": "heading",
@@ -1104,19 +1086,12 @@
       "type": "image",
       "id": "image_fig1",
       "label": "Figure 1.",
-      "url": "",
-      "object_id": "F1",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00171/svg/elife00171f001.svg",
       "title": "The Bithorax Complex, the Fab-7 boundary and the Elba recognition element.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00171.003",
       "caption": "paragraph_image_fig1",
-      "graphic_id": "elife00171f001"
+      "graphic_id": "elife00171f001",
+      "format": "image"
     },
     "paragraph_image_fig1": {
       "type": "paragraph",
@@ -1647,19 +1622,12 @@
       "type": "image",
       "id": "image_fig1s1",
       "label": "Figure 1—figure supplement 1.",
-      "url": "",
-      "object_id": "F2",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00171/svg/elife00171fs001.svg",
       "title": "Enhancer blocking activity of Fab-7, pHS1×4 and the Elba×8 multimer.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig1"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00171.004",
       "caption": "paragraph_image_fig1s1",
-      "graphic_id": "elife00171fs001"
+      "graphic_id": "elife00171fs001",
+      "format": "image"
     },
     "paragraph_image_fig1s1": {
       "type": "paragraph",
@@ -2328,19 +2296,12 @@
       "type": "image",
       "id": "image_fig2",
       "label": "Figure 2.",
-      "url": "",
-      "object_id": "F3",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00171/svg/elife00171f002.svg",
       "title": "Elba purification scheme.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00171.005",
       "caption": "paragraph_image_fig2",
-      "graphic_id": "elife00171f002"
+      "graphic_id": "elife00171f002",
+      "format": "image"
     },
     "paragraph_image_fig2": {
       "type": "paragraph",
@@ -2395,19 +2356,12 @@
       "type": "image",
       "id": "image_fig3",
       "label": "Figure 3.",
-      "url": "",
-      "object_id": "F4",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00171/svg/elife00171f003.svg",
       "title": "EMSA and Elba factor proteins.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00171.006",
       "caption": "paragraph_image_fig3",
-      "graphic_id": "elife00171f003"
+      "graphic_id": "elife00171f003",
+      "format": "image"
     },
     "paragraph_image_fig3": {
       "type": "paragraph",
@@ -2580,11 +2534,9 @@
       "id": "table_tbl1",
       "label": "Table 1.",
       "content": "<table><thead><tr><td></td><td>Hit protein</td><td>Sequence count</td><td>Spectrum count</td><td>Sequence coverage</td><td>Mol. wt.</td></tr></thead><tbody><tr><td>1</td><td>CG12205 (Bsg25A)-PA/gi|7295685<sup>*</sup></td><td>23</td><td>372</td><td>56.5%/49%<sup>*</sup></td><td>41,583/47,368<sup>*</sup></td></tr><tr><td>2</td><td>CG15634-PA</td><td>16</td><td>150</td><td>32.20%</td><td>43,008</td></tr><tr><td>3</td><td>CG9883-PA</td><td>17</td><td>63</td><td>26.80%</td><td>43,310</td></tr><tr><td>4</td><td>CG12052 (lola) 17 subtypes</td><td>3</td><td>21</td><td>10.8–5.2%</td><td>49,320–98,162</td></tr><tr><td>5</td><td>CG12052 (lola)-PY</td><td>3</td><td>21</td><td>8.70%</td><td>62,746</td></tr><tr><td>6</td><td>CG12052 (lola), unknown subtype</td><td>3</td><td>21</td><td>5.10%</td><td>107,303</td></tr><tr><td>7</td><td>CG12052 (lola)-PD, -PE</td><td>3</td><td>21</td><td>6.70%</td><td>79,439</td></tr><tr><td>8</td><td>CG14339-PA</td><td>2</td><td>17</td><td>2.00%</td><td>117,908</td></tr><tr><td>9</td><td>CG2368(psq)-PD, -PE, -PF, PG, -PH/-PB, -PC</td><td>6</td><td>15</td><td>12.7%/7.7%</td><td>70,298/114,984</td></tr><tr><td>10</td><td>CG1249 (snRNP2)-PA</td><td>3</td><td>13</td><td>31.90%</td><td>13,504</td></tr><tr><td>11</td><td>CG6944 (Lam)-PA, -PB, -PC</td><td>8</td><td>12</td><td>19.10%</td><td>71,249</td></tr><tr><td>12</td><td>CG16973 (msn)-PE</td><td>4</td><td>11</td><td>4.50%</td><td>115,386</td></tr><tr><td>13</td><td>CG16973 (msn)-PC, -PD/-PB /-PA</td><td>4</td><td>11</td><td>4.3%/3.9%/3.1%</td><td>120,610/130,341/162,378</td></tr><tr><td>14</td><td>CG11700 (CR11700)-PA</td><td>2</td><td>11</td><td>10.60%</td><td>34,335</td></tr><tr><td>15</td><td>Reverse_CG31284</td><td>2</td><td>11</td><td>3.10%</td><td>110,298</td></tr><tr><td>16</td><td>CG3561 (KH1)-PA</td><td>8</td><td>10</td><td>15.30%</td><td>59,597</td></tr><tr><td>17</td><td>CG10067 (Act57B)-PA/CG7478 (Act79B)-PA/CG18290 (Act87E)-PA, -PB</td><td>5</td><td>10</td><td>14.40%</td><td>41,835/41,787/41,802</td></tr><tr><td>18</td><td>CG5178 (Act88F)-PA</td><td>5</td><td>10</td><td>14.40%</td><td>41,700</td></tr><tr><td>19</td><td>CG1759 (cad)-PA, -PB</td><td>4</td><td>9</td><td>4.40%</td><td>51,306</td></tr><tr><td>20</td><td>CG12154 (oc)-PA</td><td>3</td><td>9</td><td>5.20%</td><td>69,666</td></tr><tr><td>21</td><td>CG6801 (l(3)j2D3)-PA</td><td>8</td><td>8</td><td>19.20%</td><td>44,830</td></tr><tr><td>22</td><td>CG18124 (mTTF)-PA</td><td>7</td><td>8</td><td>16.30%</td><td>48,281</td></tr><tr><td>23</td><td>CG7583 (CtBP)-PD, -PB, -PC, -PA</td><td>6</td><td>8</td><td>20.50%</td><td>42,252</td></tr><tr><td>24</td><td>CG13634-PA</td><td>2</td><td>8</td><td>4.30%</td><td>52,594</td></tr><tr><td>25</td><td>CG3143 (foxo)-PC, -PB</td><td>5</td><td>7</td><td>9.60%</td><td>67,413</td></tr></tbody></table>",
-      "title": "",
       "footers": [],
       "doi": "http://dx.doi.org/10.7554/eLife.00171.007",
-      "caption": "paragraph_table_tbl1",
-      "format": ""
+      "caption": "paragraph_table_tbl1"
     },
     "paragraph_table_tbl1": {
       "type": "paragraph",
@@ -2594,8 +2546,7 @@
     "footer_tblfn1": {
       "type": "footer",
       "id": "footer_tblfn1",
-      "content": "*",
-      "label": ""
+      "content": "*"
     },
     "paragraph_175": {
       "type": "paragraph",
@@ -2914,19 +2865,12 @@
       "type": "image",
       "id": "image_fig4",
       "label": "Figure 4.",
-      "url": "",
-      "object_id": "F5",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00171/svg/elife00171f004.svg",
       "title": "Elba is a hetero-tripartite complex.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00171.008",
       "caption": "paragraph_image_fig4",
-      "graphic_id": "elife00171f004"
+      "graphic_id": "elife00171f004",
+      "format": "image"
     },
     "paragraph_image_fig4": {
       "type": "paragraph",
@@ -3122,19 +3066,12 @@
       "type": "image",
       "id": "image_fig5",
       "label": "Figure 5.",
-      "url": "",
-      "object_id": "F6",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00171/svg/elife00171f005.svg",
       "title": "Elba protein deletions and functional organization of the Elba complex.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00171.009",
       "caption": "paragraph_image_fig5",
-      "graphic_id": "elife00171f005"
+      "graphic_id": "elife00171f005",
+      "format": "image"
     },
     "paragraph_image_fig5": {
       "type": "paragraph",
@@ -3311,19 +3248,12 @@
       "type": "image",
       "id": "image_fig6",
       "label": "Figure 6.",
-      "url": "",
-      "object_id": "F7",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00171/svg/elife00171f006.svg",
       "title": "Characterization of Elba complex.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http:dx.doi.org/10.7554/eLife.00171.010",
       "caption": "paragraph_image_fig6",
-      "graphic_id": "elife00171f006"
+      "graphic_id": "elife00171f006",
+      "format": "image"
     },
     "paragraph_image_fig6": {
       "type": "paragraph",
@@ -3451,19 +3381,12 @@
       "type": "image",
       "id": "image_fig6s1",
       "label": "Figure 6—figure supplement 1.",
-      "url": "",
-      "object_id": "F8",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00171/svg/elife00171fs002.svg",
       "title": "A schematic model for the tripartite Elba complex.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig6"
-      ],
       "doi": "http:dx.doi.org/10.7554/eLife.00171.011",
       "caption": "paragraph_image_fig6s1",
-      "graphic_id": "elife00171fs002"
+      "graphic_id": "elife00171fs002",
+      "format": "image"
     },
     "paragraph_image_fig6s1": {
       "type": "paragraph",
@@ -3474,19 +3397,12 @@
       "type": "image",
       "id": "image_fig6s2",
       "label": "Figure 6—figure supplement 2.",
-      "url": "",
-      "object_id": "F9",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00171/svg/elife00171fs003.svg",
       "title": "The artificial GST-Elba1:GST-Elba2 heterodimer binds to the asymmetric Elba recognition sequence.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig6"
-      ],
       "doi": "http:dx.doi.org/10.7554/eLife.00171.012",
       "caption": "paragraph_image_fig6s2",
-      "graphic_id": "elife00171fs003"
+      "graphic_id": "elife00171fs003",
+      "format": "image"
     },
     "paragraph_image_fig6s2": {
       "type": "paragraph",
@@ -3497,19 +3413,12 @@
       "type": "image",
       "id": "image_fig6s3",
       "label": "Figure 6—figure supplement 3.",
-      "url": "",
-      "object_id": "F10",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00171/svg/elife00171fs004.svg",
       "title": "The artificial heterodimer of GST-Elba1C:GST-Elba2C binds to the asymmetric Elba recognition sequence.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig6"
-      ],
       "doi": "http:dx.doi.org/10.7554/eLife.00171.013",
       "caption": "paragraph_image_fig6s3",
-      "graphic_id": "elife00171fs004"
+      "graphic_id": "elife00171fs004",
+      "format": "image"
     },
     "paragraph_image_fig6s3": {
       "type": "paragraph",
@@ -4007,19 +3916,12 @@
       "type": "image",
       "id": "image_fig7",
       "label": "Figure 7.",
-      "url": "",
-      "object_id": "F11",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00171/svg/elife00171f007.svg",
       "title": "Expression of mRNAs encoding Elba factors and Insv.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00171.014",
       "caption": "paragraph_image_fig7",
-      "graphic_id": "elife00171f007"
+      "graphic_id": "elife00171f007",
+      "format": "image"
     },
     "paragraph_image_fig7": {
       "type": "paragraph",
@@ -4030,19 +3932,12 @@
       "type": "image",
       "id": "image_fig7s1",
       "label": "Figure 7—figure supplement 1.",
-      "url": "",
-      "object_id": "F12",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00171/svg/elife00171fs005.svg",
       "title": "Loci of Elba proteins and the expression patterns of their mRNAs during the development.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig7"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00171.015",
       "caption": "paragraph_image_fig7s1",
-      "graphic_id": "elife00171fs005"
+      "graphic_id": "elife00171fs005",
+      "format": "image"
     },
     "paragraph_image_fig7s1": {
       "type": "paragraph",
@@ -4615,19 +4510,12 @@
       "type": "image",
       "id": "image_fig8",
       "label": "Figure 8.",
-      "url": "",
-      "object_id": "F13",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00171/svg/elife00171f008.svg",
       "title": "Elba proteins are bound to Fab-7 in early but not late embryos.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00171.016",
       "caption": "paragraph_image_fig8",
-      "graphic_id": "elife00171f008"
+      "graphic_id": "elife00171f008",
+      "format": "image"
     },
     "paragraph_image_fig8": {
       "type": "paragraph",
@@ -5115,19 +5003,12 @@
       "type": "image",
       "id": "image_fig9",
       "label": "Figure 9.",
-      "url": "",
-      "object_id": "F14",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00171/svg/elife00171f009.svg",
       "title": "Hetero-tripartite Elba complex mediates early boundary activity.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00171.017",
       "caption": "paragraph_image_fig9",
-      "graphic_id": "elife00171f009"
+      "graphic_id": "elife00171f009",
+      "format": "image"
     },
     "paragraph_image_fig9": {
       "type": "paragraph",
@@ -5229,19 +5110,12 @@
       "type": "image",
       "id": "image_fig9s1",
       "label": "Figure 9—figure supplement 1.",
-      "url": "",
-      "object_id": "F15",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00171/svg/elife00171fs006.svg",
       "title": "Double-stranded RNA injection into embryos transgenic for the Elba×8 multimer reporter and a reporter containing non-specific DNA in the blocking position.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "child",
-        "image_fig9"
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00171.018",
       "caption": "paragraph_image_fig9s1",
-      "graphic_id": "elife00171fs006"
+      "graphic_id": "elife00171fs006",
+      "format": "image"
     },
     "paragraph_image_fig9s1": {
       "type": "paragraph",
@@ -7180,17 +7054,24 @@
       "type": "supplement",
       "id": "supplement_SD1_data",
       "label": "Supplementary file 1.",
-      "source": "",
-      "title": "",
       "caption": "paragraph_supplement_SD1_data",
-      "content": "",
       "doi": "http://dx.doi.org/10.7554/eLife.00171.019",
-      "graphic_id": "elife00171s001.doc"
+      "files": [
+        "file_522"
+      ]
     },
     "paragraph_supplement_SD1_data": {
       "type": "paragraph",
       "id": "paragraph_supplement_SD1_data",
       "content": "The list of oligonucleotides used in this study. See also ‘Materials and methods’ for the use of each DNA."
+    },
+    "file_522": {
+      "type": "file",
+      "id": "file_522",
+      "name": "DOC",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00171/suppl/elife00171s001.doc",
+      "graphic_id": "elife00171s001.doc",
+      "extension": ".doc"
     },
     "info:dataset": {
       "type": "heading",
@@ -7245,17 +7126,11 @@
       "year": "2008",
       "volume": "24",
       "source": "Bioinformatics",
-      "issue": "",
       "fpage": "458",
       "lpage": "61",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1093/bioinformatics/btn007",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib2": {
@@ -7283,17 +7158,11 @@
       "year": "2008",
       "volume": "28",
       "source": "Mol Cell Biol",
-      "issue": "",
       "fpage": "1047",
       "lpage": "60",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1128/MCB.01622-07",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib3": {
@@ -7313,17 +7182,11 @@
       "year": "2000",
       "volume": "405",
       "source": "Nature",
-      "issue": "",
       "fpage": "482",
       "lpage": "5",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/35013100",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib4": {
@@ -7351,17 +7214,11 @@
       "year": "2004",
       "volume": "20",
       "source": "Bioinformatics",
-      "issue": "",
       "fpage": "i49",
       "lpage": "54",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1093/bioinformatics/bth947",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib5": {
@@ -7397,17 +7254,11 @@
       "year": "2002",
       "volume": "99",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "16433",
       "lpage": "7",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1073/pnas.162342499",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib6": {
@@ -7427,17 +7278,11 @@
       "year": "2001",
       "volume": "291",
       "source": "Science",
-      "issue": "",
       "fpage": "493",
       "lpage": "5",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1126/science.291.5503.493",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib7": {
@@ -7465,17 +7310,10 @@
       "year": "1997",
       "volume": "17",
       "source": "J Neurosci",
-      "issue": "",
       "fpage": "6864",
       "lpage": "71",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib8": {
@@ -7507,17 +7345,11 @@
       "year": "2000",
       "volume": "68",
       "source": "Genomics",
-      "issue": "",
       "fpage": "93",
       "lpage": "6",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1006/geno.2000.6279",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib9": {
@@ -7541,17 +7373,11 @@
       "year": "1993",
       "volume": "74",
       "source": "Cell",
-      "issue": "",
       "fpage": "505",
       "lpage": "14",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/0092-8674(93)80052-G",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib10": {
@@ -7587,17 +7413,11 @@
       "year": "2011",
       "volume": "30",
       "source": "EMBO J",
-      "issue": "",
       "fpage": "3120",
       "lpage": "33",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/emboj.2011.218",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib11": {
@@ -7633,17 +7453,10 @@
       "year": "1996",
       "volume": "16",
       "source": "Mol Cell Biol",
-      "issue": "",
       "fpage": "2802",
       "lpage": "13",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib12": {
@@ -7671,17 +7484,10 @@
       "year": "1993",
       "volume": "12",
       "source": "EMBO J",
-      "issue": "",
       "fpage": "1087",
       "lpage": "97",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib13": {
@@ -7701,17 +7507,11 @@
       "year": "2006",
       "volume": "7",
       "source": "Nat Rev Genet",
-      "issue": "",
       "fpage": "703",
       "lpage": "13",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nrg1925",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib14": {
@@ -7747,17 +7547,11 @@
       "year": "2011",
       "volume": "187",
       "source": "Genetics",
-      "issue": "",
       "fpage": "731",
       "lpage": "48",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1534/genetics.110.123752",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib15": {
@@ -7777,17 +7571,11 @@
       "year": "2010",
       "volume": "24",
       "source": "Genes Dev",
-      "issue": "",
       "fpage": "1022",
       "lpage": "34",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1101/gad.1881010",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib16": {
@@ -7823,17 +7611,11 @@
       "year": "2011",
       "volume": "477",
       "source": "Nature",
-      "issue": "",
       "fpage": "424",
       "lpage": "30",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nature10495",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib17": {
@@ -7861,17 +7643,10 @@
       "year": "1990",
       "volume": "9",
       "source": "EMBO J",
-      "issue": "",
       "fpage": "2579",
       "lpage": "85",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib18": {
@@ -7895,17 +7670,10 @@
       "year": "1996",
       "volume": "10",
       "source": "Genes Dev",
-      "issue": "",
       "fpage": "3202",
       "lpage": "15",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib19": {
@@ -7941,17 +7709,11 @@
       "year": "2000",
       "volume": "405",
       "source": "Nature",
-      "issue": "",
       "fpage": "486",
       "lpage": "9",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/35013106",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib20": {
@@ -7979,17 +7741,10 @@
       "year": "2001",
       "volume": "8",
       "source": "Mol Cell",
-      "issue": "",
       "fpage": "1145",
       "lpage": "51",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib21": {
@@ -8009,22 +7764,15 @@
       "year": "1991",
       "volume": "11",
       "source": "Mol Cell Biol",
-      "issue": "",
       "fpage": "1894",
       "lpage": "1900",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_522": {
+    "annotation_523": {
       "type": "emphasis",
-      "id": "annotation_522",
+      "id": "annotation_523",
       "path": [
         "article_citation_bib21",
         "title"
@@ -8068,17 +7816,10 @@
       "year": "2007",
       "volume": "3",
       "source": "PLoS Genet",
-      "issue": "",
       "fpage": "e112",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1371/journal.pgen.0030112",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib23": {
@@ -8110,17 +7851,11 @@
       "year": "2008",
       "volume": "135",
       "source": "Development",
-      "issue": "",
       "fpage": "3983",
       "lpage": "7",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1242/dev.025700",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib24": {
@@ -8152,17 +7887,11 @@
       "year": "2011",
       "volume": "108",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "1543",
       "lpage": "8",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1073/pnas.1017006108",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib25": {
@@ -8190,17 +7919,11 @@
       "year": "2001",
       "volume": "23",
       "source": "Protein Expr Purif",
-      "issue": "",
       "fpage": "440",
       "lpage": "6",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1006/prep.2001.1515",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib26": {
@@ -8220,17 +7943,11 @@
       "year": "1991",
       "volume": "64",
       "source": "Cell",
-      "issue": "",
       "fpage": "941",
       "lpage": "50",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/0092-8674(91)90318-S",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib27": {
@@ -8250,17 +7967,11 @@
       "year": "1998",
       "volume": "95",
       "source": "Cell",
-      "issue": "",
       "fpage": "1017",
       "lpage": "26",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/S0092-8674(00)81725-0",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib28": {
@@ -8288,17 +7999,11 @@
       "year": "2009",
       "volume": "54",
       "source": "Neurochem Int",
-      "issue": "",
       "fpage": "245",
       "lpage": "52",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.neuint.2008.12.008",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib29": {
@@ -8330,17 +8035,11 @@
       "year": "2008a",
       "volume": "36",
       "source": "Nucleic Acids Res",
-      "issue": "",
       "fpage": "7019",
       "lpage": "28",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1093/nar/gkn781",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib30": {
@@ -8372,17 +8071,11 @@
       "year": "2008b",
       "volume": "28",
       "source": "Mol Cell Biol",
-      "issue": "",
       "fpage": "4188",
       "lpage": "95",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1128/MCB.00229-08",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib31": {
@@ -8418,17 +8111,11 @@
       "year": "2011",
       "volume": "39",
       "source": "Nucleic Acids Res",
-      "issue": "",
       "fpage": "3042",
       "lpage": "52",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1093/nar/gkq1248",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib32": {
@@ -8464,17 +8151,10 @@
       "year": "2000",
       "volume": "20",
       "source": "J Neurosci",
-      "issue": "",
       "fpage": "6210",
       "lpage": "7",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib33": {
@@ -8494,17 +8174,11 @@
       "year": "2006",
       "volume": "133",
       "source": "Development",
-      "issue": "",
       "fpage": "1413",
       "lpage": "22",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1242/dev.02323",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib34": {
@@ -8524,17 +8198,10 @@
       "year": "2010",
       "volume": "689",
       "source": "Adv Exp Med Biol",
-      "issue": "",
       "fpage": "17",
       "lpage": "40",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib35": {
@@ -8558,17 +8225,11 @@
       "year": "2008",
       "volume": "28",
       "source": "Mol Cell Biol",
-      "issue": "",
       "fpage": "5469",
       "lpage": "77",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1128/MCB.00461-08",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib36": {
@@ -8600,17 +8261,10 @@
       "year": "1997",
       "volume": "124",
       "source": "Development",
-      "issue": "",
       "fpage": "1809",
       "lpage": "20",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib37": {
@@ -8646,17 +8300,11 @@
       "year": "2012",
       "volume": "109",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "9125",
       "lpage": "30",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1073/pnas.1205074109",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib38": {
@@ -8692,17 +8340,11 @@
       "year": "2001",
       "volume": "291",
       "source": "Science",
-      "issue": "",
       "fpage": "495",
       "lpage": "8",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1126/science.291.5503.495",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib39": {
@@ -8726,17 +8368,11 @@
       "year": "2001",
       "volume": "293",
       "source": "Science",
-      "issue": "",
       "fpage": "1150",
       "lpage": "5",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1126/science.1064150",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib40": {
@@ -8760,17 +8396,11 @@
       "year": "2005",
       "volume": "39",
       "source": "Biotechniques",
-      "issue": "",
       "fpage": "715",
       "lpage": "25",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/http://www.biotechniques.com/UrlManager?doi=000112014",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib41": {
@@ -8806,17 +8436,11 @@
       "year": "2011",
       "volume": "35",
       "source": "Immunity",
-      "issue": "",
       "fpage": "501",
       "lpage": "13",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.immuni.2011.07.014",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib42": {
@@ -8836,17 +8460,11 @@
       "year": "2004",
       "volume": "131",
       "source": "Development",
-      "issue": "",
       "fpage": "4743",
       "lpage": "9",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1242/dev.01343",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib43": {
@@ -8882,17 +8500,11 @@
       "year": "2004",
       "volume": "168",
       "source": "Genetics",
-      "issue": "",
       "fpage": "1371",
       "lpage": "84",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1534/genetics.104.029561",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib44": {
@@ -8912,17 +8524,10 @@
       "year": "1997",
       "volume": "197",
       "source": "Gene",
-      "issue": "",
       "fpage": "379",
       "lpage": "82",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib45": {
@@ -8946,17 +8551,10 @@
       "year": "2002",
       "volume": "1",
       "source": "J Proteome Res",
-      "issue": "",
       "fpage": "21",
       "lpage": "6",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib46": {
@@ -8992,17 +8590,11 @@
       "year": "2006",
       "volume": "444",
       "source": "Nature",
-      "issue": "",
       "fpage": "364",
       "lpage": "8",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nature05284",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib47": {
@@ -9026,17 +8618,11 @@
       "year": "2001",
       "volume": "19",
       "source": "Nat Biotechnol",
-      "issue": "",
       "fpage": "242",
       "lpage": "7",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/85686",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib48": {
@@ -9056,17 +8642,11 @@
       "year": "2009",
       "volume": "34",
       "source": "Mol Cell",
-      "issue": "",
       "fpage": "271",
       "lpage": "84",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.molcel.2009.04.001",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "sub-article": {

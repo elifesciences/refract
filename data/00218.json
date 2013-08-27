@@ -20,30 +20,35 @@
         "paragraph_65",
         "heading_s2",
         "paragraph_78",
-        "paragraph_132",
-        "paragraph_144",
+        "paragraph_108",
+        "paragraph_141",
+        "paragraph_156",
+        "paragraph_167",
+        "paragraph_171",
+        "paragraph_193",
+        "paragraph_206",
         "heading_s3",
-        "paragraph_181",
-        "paragraph_212",
-        "paragraph_223",
         "paragraph_232",
+        "paragraph_263",
+        "paragraph_274",
+        "paragraph_283",
         "heading_s4",
         "heading_s4-1",
-        "paragraph_255",
+        "paragraph_306",
         "heading_s4-2",
-        "paragraph_262",
-        "paragraph_282",
+        "paragraph_313",
+        "paragraph_333",
         "heading_s4-3",
-        "paragraph_286",
-        "paragraph_288",
-        "paragraph_292",
+        "paragraph_337",
+        "paragraph_339",
+        "paragraph_343",
         "heading_s4-4",
-        "paragraph_297",
-        "paragraph_307",
-        "paragraph_310",
+        "paragraph_348",
+        "paragraph_358",
+        "paragraph_361",
         "heading_s4-5",
-        "paragraph_326",
-        "paragraph_338",
+        "paragraph_377",
+        "paragraph_389",
         "sub-article",
         "sub-article"
       ]
@@ -157,7 +162,6 @@
       "accepted_on": "2013-01-25",
       "published_on": "2013-03-05",
       "journal": "eLife",
-      "article_type": "",
       "keywords": [
         "Methanothermobacter marburgensis",
         "cryo-electron microscopy",
@@ -170,10 +174,9 @@
       "subjects": [
         "Biophysics and structural biology"
       ],
-      "pdf_link": "",
-      "xml_link": "",
-      "json_link": "",
-      "doi": ""
+      "xml_link": "https://s3.amazonaws.com/elife-cdn/elife-articles/00218/elife00218.xml",
+      "json_link": "https://s3.amazonaws.com/elife-cdn/elife-articles/00218/00218.json",
+      "doi": "http://dx.doi.org/10.7554/eLife.00218"
     },
     "annotation_1": {
       "type": "subscript",
@@ -195,9 +198,7 @@
       "last-name": "Mills",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Prepared the cryo-EM samples, collected the EM data and processed data",
-      "email": "",
       "funding": []
     },
     "person_author_2206": {
@@ -207,9 +208,7 @@
       "last-name": "Vitt",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Purified the protein, interpreted the structure and wrote the paper with contributions from all authors",
-      "email": "",
       "funding": []
     },
     "person_author_2207": {
@@ -219,9 +218,7 @@
       "last-name": "Strauss",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Processed data",
-      "email": "",
       "funding": []
     },
     "person_author_2208": {
@@ -231,9 +228,7 @@
       "last-name": "Shima",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Initiated the project, interpreted the structure and wrote the paper with contributions from all authors",
-      "email": "",
       "funding": [
         "funding_par_2"
       ]
@@ -245,7 +240,6 @@
       "last-name": "Vonck",
       "role": "author",
       "affiliations": [],
-      "image": "",
       "contribution": " Processed the data, built the model, interpreted the structure and wrote the paper with contributions from all authors",
       "email": "email_cor1",
       "funding": [
@@ -257,27 +251,21 @@
       "id": "institution_aff1",
       "name": "Max Planck Institute of Biophysics",
       "city": "Frankfurt",
-      "country": "Germany",
-      "email": "",
-      "image": ""
+      "country": "Germany"
     },
     "institution_aff2": {
       "type": "institution",
       "id": "institution_aff2",
       "name": "Max Planck Institute for Terrestrial Microbiology",
       "city": "Marburg",
-      "country": "Germany",
-      "email": "",
-      "image": ""
+      "country": "Germany"
     },
     "institution_aff3": {
       "type": "institution",
       "id": "institution_aff3",
       "name": "Japan Science and Technology Agency",
       "city": "Kawaguchi",
-      "country": "Japan",
-      "email": "",
-      "image": ""
+      "country": "Japan"
     },
     "person_2": {
       "type": "person",
@@ -286,9 +274,6 @@
       "last-name": "Sundquist",
       "role": "editor",
       "affiliations": [],
-      "image": "",
-      "contribution": "",
-      "email": "",
       "funding": []
     },
     "info:review": {
@@ -303,7 +288,6 @@
     "email_cor1": {
       "type": "email",
       "id": "email_cor1",
-      "node": "",
       "email": "janet.vonck@biophys.mpg.de"
     },
     "info:copyright": {
@@ -623,7 +607,6 @@
       "type": "funding",
       "id": "funding_par_1",
       "institution": "Max Planck Society",
-      "accession": "",
       "person": "person_author_2147",
       "given-names": "Janet",
       "last-name": "Vonck"
@@ -632,7 +615,6 @@
       "type": "funding",
       "id": "funding_par_2",
       "institution": "PRESTO program, Japan Science and Technology Agency (JST)",
-      "accession": "",
       "person": "person_author_2208",
       "given-names": "Seigo",
       "last-name": "Shima"
@@ -648,8 +630,7 @@
     },
     "paragraph_31": {
       "type": "paragraph",
-      "id": "paragraph_31",
-      "content": ""
+      "id": "paragraph_31"
     },
     "heading_s1": {
       "type": "heading",
@@ -1391,19 +1372,12 @@
       "type": "image",
       "id": "image_fig1",
       "label": "Figure 1.",
-      "url": "",
-      "object_id": "F1",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00218/svg/elife00218f001.svg",
       "title": "Cryo-electron microscopy and image processing.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00218.003",
       "caption": "paragraph_image_fig1",
-      "graphic_id": "elife00218f001"
+      "graphic_id": "elife00218f001",
+      "format": "image"
     },
     "paragraph_image_fig1": {
       "type": "paragraph",
@@ -1453,19 +1427,12 @@
       "type": "image",
       "id": "image_fig2",
       "label": "Figure 2.",
-      "url": "",
-      "object_id": "F2",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00218/svg/elife00218f002.svg",
       "title": "High-resolution cryo-EM map of Frh.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00218.004",
       "caption": "paragraph_image_fig2",
-      "graphic_id": "elife00218f002"
+      "graphic_id": "elife00218f002",
+      "format": "image"
     },
     "paragraph_image_fig2": {
       "type": "paragraph",
@@ -1673,10 +1640,7 @@
       "label": "Video 1.",
       "title": "The Frh map at different density levels.",
       "caption": "paragraph_video_video1",
-      "content_type": "",
       "url_ogv": "http://static.movie-usa.glencoesoftware.com/ogv/10.7554/elife00218v001.ogv",
-      "url_jpg": "",
-      "url_mp4": "",
       "doi": "http://dx.doi.org/10.7554/eLife.00218.005",
       "url": "http://static.movie-usa.glencoesoftware.com/mp4/10.7554/elife00218v001.mp4",
       "poster": "http://static.movie-usa.glencoesoftware.com/jpg/10.7554/elife00218v001.jpg"
@@ -1686,32 +1650,238 @@
       "id": "paragraph_video_video1",
       "content": "The Frh map contains high densities corresponding to the metal clusters. The map, filtered to 5.5 Å for clarity, is shown at increasing isosurface levels. At density level 1 (gray), the whole complex is seen; levels 2 (yellow) and 3 (gold) show decreasing protein density. At level 4 (orange), only a string of five densities remains, corresponding to the four [4Fe4S] clusters and the [NiFe] cluster. The FeS clusters, but not the [NiFe], are still visible at level 5 and 6 (red)."
     },
+    "paragraph_108": {
+      "type": "paragraph",
+      "id": "paragraph_108",
+      "content": "The large subunit FrhA has considerable homology to the known large subunit structures (Figure 3), and is characterized by four long α-helices. Docking the large subunit of the group 1 enzyme into the map provides a good fit for the α-helix bundle, with the [NiFe] center correctly situated in its identified location and many other structural elements of FrhA matching closely, including two three-stranded antiparallel β-sheets. FrhA is about 15 kDa smaller than the large subunits of known structure; all missing elements are located on the periphery. A structural model for FrhA (Figure 4A) was created based on this fit and a sequence alignment with the protein from Desulfovibrio vulgaris Hildenborough (Figure 3). All but the first three amino acids in the sequence could be traced in our maps. Densities for large side chains confirm the structural assignment (Figures 2, 5 and Video 2). The [NiFe] center is located near four cysteine residues, Cys 63, 66, 380, and 383, which are fully conserved in all [NiFe]-hydrogenases. The group 1 [NiFe]-hydrogenases contain another ion, typically either Mg2+ or Fe2+/3+ (Higuchi et al., 1997; Garcin et al., 1999). In our map, there is strong density at this position (Figure 5D), which is part of the structurally conserved region of FrhA, and its surrounding residues, Glu44, Glu229, and His386, are fully conserved in FrhA (Figure 3A), so we interpret this density as an ion. One of the helices of the four-helix bundle has a pronounced kink. This helix was interpreted as residues 166–193, and a proline residue (Pro180) not present in the group I proteins was found exactly at the position of the kink, supporting the assignment. No density is present beyond His386, and there is no room in the structure for the final 19 amino acids of the protein. The C-terminal residues after the equivalent histidine in [NiFe]-hydrogenases are enzymatically removed during maturation of the enzymes (Menon et al., 1993; Theodoratou et al., 2005). We can conclude that FrhA is posttranslationally modified in the same way, likely by FrhD, a homologous endopeptidase contained in the Frh operon FrhADGB (Liesegang et al., 2010; Thauer et al., 2010)."
+    },
+    "figure_reference_109": {
+      "type": "figure_reference",
+      "id": "figure_reference_109",
+      "path": [
+        "paragraph_108",
+        "content"
+      ],
+      "target": "image_fig3",
+      "range": [
+        88,
+        96
+      ]
+    },
+    "figure_reference_110": {
+      "type": "figure_reference",
+      "id": "figure_reference_110",
+      "path": [
+        "paragraph_108",
+        "content"
+      ],
+      "target": "image_fig4",
+      "range": [
+        584,
+        593
+      ]
+    },
+    "annotation_111": {
+      "type": "emphasis",
+      "id": "annotation_111",
+      "path": [
+        "paragraph_108",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        672,
+        694
+      ]
+    },
+    "figure_reference_112": {
+      "type": "figure_reference",
+      "id": "figure_reference_112",
+      "path": [
+        "paragraph_108",
+        "content"
+      ],
+      "target": "image_fig3",
+      "range": [
+        710,
+        718
+      ]
+    },
+    "figure_reference_113": {
+      "type": "figure_reference",
+      "id": "figure_reference_113",
+      "path": [
+        "paragraph_108",
+        "content"
+      ],
+      "target": "image_fig2",
+      "range": [
+        869,
+        881
+      ]
+    },
+    "figure_reference_114": {
+      "type": "figure_reference",
+      "id": "figure_reference_114",
+      "path": [
+        "paragraph_108",
+        "content"
+      ],
+      "target": "video_video2",
+      "range": [
+        886,
+        893
+      ]
+    },
+    "annotation_115": {
+      "type": "superscript",
+      "id": "annotation_115",
+      "path": [
+        "paragraph_108",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1106,
+        1108
+      ]
+    },
+    "annotation_116": {
+      "type": "superscript",
+      "id": "annotation_116",
+      "path": [
+        "paragraph_108",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1114,
+        1119
+      ]
+    },
+    "citation_reference_117": {
+      "type": "citation_reference",
+      "id": "citation_reference_117",
+      "path": [
+        "paragraph_108",
+        "content"
+      ],
+      "target": "article_citation_bib22",
+      "range": [
+        1121,
+        1141
+      ]
+    },
+    "citation_reference_118": {
+      "type": "citation_reference",
+      "id": "citation_reference_118",
+      "path": [
+        "paragraph_108",
+        "content"
+      ],
+      "target": "article_citation_bib17",
+      "range": [
+        1143,
+        1162
+      ]
+    },
+    "figure_reference_119": {
+      "type": "figure_reference",
+      "id": "figure_reference_119",
+      "path": [
+        "paragraph_108",
+        "content"
+      ],
+      "target": "image_fig5",
+      "range": [
+        1219,
+        1228
+      ]
+    },
+    "figure_reference_120": {
+      "type": "figure_reference",
+      "id": "figure_reference_120",
+      "path": [
+        "paragraph_108",
+        "content"
+      ],
+      "target": "image_fig3",
+      "range": [
+        1377,
+        1386
+      ]
+    },
+    "citation_reference_121": {
+      "type": "citation_reference",
+      "id": "citation_reference_121",
+      "path": [
+        "paragraph_108",
+        "content"
+      ],
+      "target": "article_citation_bib32",
+      "range": [
+        1943,
+        1961
+      ]
+    },
+    "citation_reference_122": {
+      "type": "citation_reference",
+      "id": "citation_reference_122",
+      "path": [
+        "paragraph_108",
+        "content"
+      ],
+      "target": "article_citation_bib47",
+      "range": [
+        1963,
+        1987
+      ]
+    },
+    "citation_reference_123": {
+      "type": "citation_reference",
+      "id": "citation_reference_123",
+      "path": [
+        "paragraph_108",
+        "content"
+      ],
+      "target": "article_citation_bib24",
+      "range": [
+        2145,
+        2167
+      ]
+    },
+    "citation_reference_124": {
+      "type": "citation_reference",
+      "id": "citation_reference_124",
+      "path": [
+        "paragraph_108",
+        "content"
+      ],
+      "target": "article_citation_bib46",
+      "range": [
+        2169,
+        2188
+      ]
+    },
     "image_fig3": {
       "type": "image",
       "id": "image_fig3",
       "label": "Figure 3.",
-      "url": "",
-      "object_id": "F3",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00218/svg/elife00218f003.svg",
       "title": "Sequence and secondary structure of FrhA and a comparison with homologous proteins.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00218.006",
       "caption": "paragraph_image_fig3",
-      "graphic_id": "elife00218f003"
+      "graphic_id": "elife00218f003",
+      "format": "image"
     },
     "paragraph_image_fig3": {
       "type": "paragraph",
       "id": "paragraph_image_fig3",
       "content": "(A) Alignment of the [NiFe]-hydrogenase large subunit from Desulfovibrio vulgaris Hildenborough (first line) with Methanothermobacter marburgensis FrhA (third line). The second line shows the identical (|) and similar (:) amino acids. The alignment was done with EMBOSS needle (http://www.ebi.ac.uk/Tools/psa/emboss_needle/) and manually adjusted after fitting the FrhA structure. The fourth line shows the consensus sequence of 19 archaeal FrhA species. Identical amino acids in capitals, similar ones in lower case (h: hydrophobic; s: small (GAS); l: large (LIFYHW); a: aromatic (FYWH); z: T or S; n: negative, D or E; p: positive, R or K). The α-helices are highlighted in green, β-strands in blue. The [NiFe] ligands are in orange in the ligands of the third ion in red. (B) Comparison of the FrhA model (rainbow coloring from blue to red) and the group 1 [NiFe]-hydrogenase large subunit from Desulfovibrio vulgaris Hildenborough (gray) (pdb 2wpn) (Marques et al., 2010) in two different orientations (left and right). The [NiFe] center and another ion (spheres) overlap as do the structural elements around them, as well as two 3-stranded β-sheets and the lower part of the four-helix bundle. Differences are confined to the periphery."
     },
-    "annotation_108": {
+    "annotation_125": {
       "type": "strong",
-      "id": "annotation_108",
+      "id": "annotation_125",
       "path": [
         "paragraph_image_fig3",
         "content"
@@ -1722,9 +1892,9 @@
         2
       ]
     },
-    "annotation_109": {
+    "annotation_126": {
       "type": "emphasis",
-      "id": "annotation_109",
+      "id": "annotation_126",
       "path": [
         "paragraph_image_fig3",
         "content"
@@ -1735,9 +1905,9 @@
         81
       ]
     },
-    "annotation_110": {
+    "annotation_127": {
       "type": "emphasis",
-      "id": "annotation_110",
+      "id": "annotation_127",
       "path": [
         "paragraph_image_fig3",
         "content"
@@ -1748,9 +1918,9 @@
         146
       ]
     },
-    "annotation_111": {
+    "annotation_128": {
       "type": "link",
-      "id": "annotation_111",
+      "id": "annotation_128",
       "path": [
         "paragraph_image_fig3",
         "content"
@@ -1762,9 +1932,9 @@
       ],
       "url": "http://www.ebi.ac.uk/Tools/psa/emboss_needle/"
     },
-    "annotation_112": {
+    "annotation_129": {
       "type": "strong",
-      "id": "annotation_112",
+      "id": "annotation_129",
       "path": [
         "paragraph_image_fig3",
         "content"
@@ -1775,9 +1945,9 @@
         777
       ]
     },
-    "annotation_113": {
+    "annotation_130": {
       "type": "emphasis",
-      "id": "annotation_113",
+      "id": "annotation_130",
       "path": [
         "paragraph_image_fig3",
         "content"
@@ -1788,9 +1958,9 @@
         920
       ]
     },
-    "citation_reference_114": {
+    "citation_reference_131": {
       "type": "citation_reference",
-      "id": "citation_reference_114",
+      "id": "citation_reference_131",
       "path": [
         "paragraph_image_fig3",
         "content"
@@ -1805,28 +1975,21 @@
       "type": "image",
       "id": "image_fig4",
       "label": "Figure 4.",
-      "url": "",
-      "object_id": "F4",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00218/svg/elife00218f004.svg",
       "title": "Models of Frh subunits.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00218.007",
       "caption": "paragraph_image_fig4",
-      "graphic_id": "elife00218f004"
+      "graphic_id": "elife00218f004",
+      "format": "image"
     },
     "paragraph_image_fig4": {
       "type": "paragraph",
       "id": "paragraph_image_fig4",
       "content": "(A) FrhA, (B) FrhG, and (C) FrhB in rainbow colors from blue (N-terminus) to red (C-terminus). (D) Stereo pair of the FrhABG heterotrimer with the string of four bound Fe-S clusters (orange/yellow), the [NiFe] binuclear center (green/orange) at the top, and the FAD (red) and F420 cofactors (green) below. FrhA is green, FrhG is purple, and FrhB is slate-blue."
     },
-    "annotation_115": {
+    "annotation_132": {
       "type": "strong",
-      "id": "annotation_115",
+      "id": "annotation_132",
       "path": [
         "paragraph_image_fig4",
         "content"
@@ -1837,9 +2000,9 @@
         2
       ]
     },
-    "annotation_116": {
+    "annotation_133": {
       "type": "strong",
-      "id": "annotation_116",
+      "id": "annotation_133",
       "path": [
         "paragraph_image_fig4",
         "content"
@@ -1850,9 +2013,9 @@
         12
       ]
     },
-    "annotation_117": {
+    "annotation_134": {
       "type": "strong",
-      "id": "annotation_117",
+      "id": "annotation_134",
       "path": [
         "paragraph_image_fig4",
         "content"
@@ -1863,9 +2026,9 @@
         26
       ]
     },
-    "annotation_118": {
+    "annotation_135": {
       "type": "strong",
-      "id": "annotation_118",
+      "id": "annotation_135",
       "path": [
         "paragraph_image_fig4",
         "content"
@@ -1876,9 +2039,9 @@
         97
       ]
     },
-    "annotation_119": {
+    "annotation_136": {
       "type": "subscript",
-      "id": "annotation_119",
+      "id": "annotation_136",
       "path": [
         "paragraph_image_fig4",
         "content"
@@ -1893,28 +2056,21 @@
       "type": "image",
       "id": "image_fig5",
       "label": "Figure 5.",
-      "url": "",
-      "object_id": "F5",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00218/svg/elife00218f005.svg",
       "title": "Details of the model and map.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00218.008",
       "caption": "paragraph_image_fig5",
-      "graphic_id": "elife00218f005"
+      "graphic_id": "elife00218f005",
+      "format": "image"
     },
     "paragraph_image_fig5": {
       "type": "paragraph",
       "id": "paragraph_image_fig5",
       "content": "(A) The ferredoxin domain of FrhG. The eight cysteine residues surrounding the two [Fe4S4] clusters are shown in green. (B) β-Sheet in FrhB. The strands are clearly separated. (C) The dimer interface of FrhA inside the particle with two salt bridges Asp312-Arg314. The two FrhA molecules are viewed from inside the complex. (D) The C-terminal three-stranded β-sheet in FrhA with the [NiFe] center (green and brown) and another ion (gray) near the C-terminal His386. The conserved residues Glu44, Glu229, and His386 coordinate the ion."
     },
-    "annotation_120": {
+    "annotation_137": {
       "type": "strong",
-      "id": "annotation_120",
+      "id": "annotation_137",
       "path": [
         "paragraph_image_fig5",
         "content"
@@ -1925,9 +2081,9 @@
         2
       ]
     },
-    "annotation_121": {
+    "annotation_138": {
       "type": "strong",
-      "id": "annotation_121",
+      "id": "annotation_138",
       "path": [
         "paragraph_image_fig5",
         "content"
@@ -1938,9 +2094,9 @@
         122
       ]
     },
-    "annotation_122": {
+    "annotation_139": {
       "type": "strong",
-      "id": "annotation_122",
+      "id": "annotation_139",
       "path": [
         "paragraph_image_fig5",
         "content"
@@ -1951,9 +2107,9 @@
         178
       ]
     },
-    "annotation_123": {
+    "annotation_140": {
       "type": "strong",
-      "id": "annotation_123",
+      "id": "annotation_140",
       "path": [
         "paragraph_image_fig5",
         "content"
@@ -1970,10 +2126,7 @@
       "label": "Video 2.",
       "title": "FrhA.",
       "caption": "paragraph_video_video2",
-      "content_type": "",
       "url_ogv": "http://static.movie-usa.glencoesoftware.com/ogv/10.7554/elife00218v002.ogv",
-      "url_jpg": "",
-      "url_mp4": "",
       "doi": "http://dx.doi.org/10.7554/eLife.00218.009",
       "url": "http://static.movie-usa.glencoesoftware.com/mp4/10.7554/elife00218v002.mp4",
       "poster": "http://static.movie-usa.glencoesoftware.com/jpg/10.7554/elife00218v002.jpg"
@@ -1983,32 +2136,108 @@
       "id": "paragraph_video_video2",
       "content": "The model of FrhA is shown superimposed on the map."
     },
+    "paragraph_141": {
+      "type": "paragraph",
+      "id": "paragraph_141",
+      "content": "The fit of the small subunit of the group 1 enzyme reveals structural homology to the N-terminal domain of FrhG including the proximal Fe-S cluster. Some peripheral helices present in the group 1 protein are missing in the FrhG structure, and the similarity is generally lower than for the large subunit (Figure 6C). The N-terminal domain is characterized by a conserved parallel β-sheet flanked by short α-helices (Figure 4B). In the group 1 [NiFe]-hydrogenases, the proximal Fe-S cluster is located at the C-terminal end of the β-sheet and is coordinated by four cysteines. In the primary structure of FrhG, one of the conserved cysteine residues for the coordination of this cluster is replaced by Asp60 (Figure 6A). The bacterial hydrogenases as well as most of the archaeal species have a cysteine at this position, but aspartates have been identified before as ligands of [4Fe4S] clusters (Calzolai et al., 1995; Muraki et al., 2010; Gruner et al., 2011). Accordingly, we positioned this aspartate near the proximal Fe-S cluster."
+    },
+    "figure_reference_142": {
+      "type": "figure_reference",
+      "id": "figure_reference_142",
+      "path": [
+        "paragraph_141",
+        "content"
+      ],
+      "target": "image_fig6",
+      "range": [
+        305,
+        314
+      ]
+    },
+    "figure_reference_143": {
+      "type": "figure_reference",
+      "id": "figure_reference_143",
+      "path": [
+        "paragraph_141",
+        "content"
+      ],
+      "target": "image_fig4",
+      "range": [
+        416,
+        425
+      ]
+    },
+    "figure_reference_144": {
+      "type": "figure_reference",
+      "id": "figure_reference_144",
+      "path": [
+        "paragraph_141",
+        "content"
+      ],
+      "target": "image_fig6",
+      "range": [
+        708,
+        717
+      ]
+    },
+    "citation_reference_145": {
+      "type": "citation_reference",
+      "id": "citation_reference_145",
+      "path": [
+        "paragraph_141",
+        "content"
+      ],
+      "target": "article_citation_bib5",
+      "range": [
+        896,
+        917
+      ]
+    },
+    "citation_reference_146": {
+      "type": "citation_reference",
+      "id": "citation_reference_146",
+      "path": [
+        "paragraph_141",
+        "content"
+      ],
+      "target": "article_citation_bib34",
+      "range": [
+        919,
+        938
+      ]
+    },
+    "citation_reference_147": {
+      "type": "citation_reference",
+      "id": "citation_reference_147",
+      "path": [
+        "paragraph_141",
+        "content"
+      ],
+      "target": "article_citation_bib21",
+      "range": [
+        940,
+        959
+      ]
+    },
     "image_fig6": {
       "type": "image",
       "id": "image_fig6",
       "label": "Figure 6.",
-      "url": "",
-      "object_id": "F6",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00218/svg/elife00218f006.svg",
       "title": "Sequence and secondary structure of FrhG and a comparison with homologous proteins.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00218.010",
       "caption": "paragraph_image_fig6",
-      "graphic_id": "elife00218f006"
+      "graphic_id": "elife00218f006",
+      "format": "image"
     },
     "paragraph_image_fig6": {
       "type": "paragraph",
       "id": "paragraph_image_fig6",
       "content": "(A) Alignment of the [NiFe]-hydrogenase small subunit from Desulfovibrio vulgaris Hildenborough (first line) with Methanothermobacter marburgensis FrhG (third line) and ferredoxin from Peptostreptococcus asaccharolyticus (pdb 1dur) (last line). The second and fourth lines show the identical (|) and similar (:) amino acids. The alignment was done with ClustalW. The α-helices are highlighted in green, β-strands in blue. Ligands of the proximal [4Fe4S] cluster are in yellow, of the medial cluster in orange, and of the distal cluster in red. Amino acids not seen in the Frh structure are in gray font. The first 38 amino acids of the FrhG sequence deduced from the M. marburgensis genome are probably not part of the protein (see main text) and are shown in light gray font. (B) Consensus sequence of archaeal FrhG species. Capitals: conserved residues; lower case: similar residues (h: hydrophobic; s: small (GAS); l: large (LIFYHW); a: aromatic (FYWH); z: T or S; n: D or E; p: R or K). (C) Comparison of the FrhG model (rainbow coloring from blue to red) and the [NiFe]-hydrogenase small subunit from Desulfovibrio vulgaris Hildenborough (pdb 2wpn) (gray) in two different orientations (left and right). The structure near the proximal [4Fe4S] cluster (blue-green) is conserved, but the periphery diverges. The ferredoxin domain (yellow to red) containing the medial and the distal iron-sulfur clusters is not homologous and the clusters do not overlap."
     },
-    "annotation_124": {
+    "annotation_148": {
       "type": "strong",
-      "id": "annotation_124",
+      "id": "annotation_148",
       "path": [
         "paragraph_image_fig6",
         "content"
@@ -2019,9 +2248,9 @@
         2
       ]
     },
-    "annotation_125": {
+    "annotation_149": {
       "type": "emphasis",
-      "id": "annotation_125",
+      "id": "annotation_149",
       "path": [
         "paragraph_image_fig6",
         "content"
@@ -2032,9 +2261,9 @@
         81
       ]
     },
-    "annotation_126": {
+    "annotation_150": {
       "type": "emphasis",
-      "id": "annotation_126",
+      "id": "annotation_150",
       "path": [
         "paragraph_image_fig6",
         "content"
@@ -2045,9 +2274,9 @@
         146
       ]
     },
-    "annotation_127": {
+    "annotation_151": {
       "type": "emphasis",
-      "id": "annotation_127",
+      "id": "annotation_151",
       "path": [
         "paragraph_image_fig6",
         "content"
@@ -2058,9 +2287,9 @@
         220
       ]
     },
-    "annotation_128": {
+    "annotation_152": {
       "type": "emphasis",
-      "id": "annotation_128",
+      "id": "annotation_152",
       "path": [
         "paragraph_image_fig6",
         "content"
@@ -2071,9 +2300,9 @@
         682
       ]
     },
-    "annotation_129": {
+    "annotation_153": {
       "type": "strong",
-      "id": "annotation_129",
+      "id": "annotation_153",
       "path": [
         "paragraph_image_fig6",
         "content"
@@ -2084,9 +2313,9 @@
         779
       ]
     },
-    "annotation_130": {
+    "annotation_154": {
       "type": "strong",
-      "id": "annotation_130",
+      "id": "annotation_154",
       "path": [
         "paragraph_image_fig6",
         "content"
@@ -2097,9 +2326,9 @@
         993
       ]
     },
-    "annotation_131": {
+    "annotation_155": {
       "type": "emphasis",
-      "id": "annotation_131",
+      "id": "annotation_155",
       "path": [
         "paragraph_image_fig6",
         "content"
@@ -2110,16 +2339,16 @@
         1128
       ]
     },
-    "paragraph_132": {
+    "paragraph_156": {
       "type": "paragraph",
-      "id": "paragraph_132",
+      "id": "paragraph_156",
       "content": "The C-terminal domain of FrhG has no homology to the group 1 [NiFe]-hydrogenases. Instead, the sequence indicates a ferredoxin domain, with two CxxCxxCxxxC sequences coordinating two [4Fe4S] clusters (Figure 6A) (Alex et al., 1990). Accordingly, we modeled the C-terminal domain of FrhG on ferredoxin (Figures 4B, 5A and Video 3). In our model, the residues 235–244 form a β-hairpin with Gly240 at the turn. The two β-strands were predicted and the hairpin is clearly visible in the density, confirming the assignment. Unlike FrhA, which could be traced over its full length, density of FrhG for a 12-residue stretch (188–199) is missing (Figure 6A). This region is located at the surface and may be disordered. FrhG as deduced from the M. marburgensis genome sequence is 275 residues long (Liesegang et al., 2010), but no density is present for the 45 N-terminal amino acids. The frhG gene most probably starts with the initiation codon GTG annotated as Val39 in the genome sequence (Fox et al., 1987; Alex et al., 1990), which means that density is missing in the map for only the first seven amino acids of FrhG."
     },
-    "figure_reference_133": {
+    "figure_reference_157": {
       "type": "figure_reference",
-      "id": "figure_reference_133",
+      "id": "figure_reference_157",
       "path": [
-        "paragraph_132",
+        "paragraph_156",
         "content"
       ],
       "target": "image_fig6",
@@ -2128,11 +2357,11 @@
         210
       ]
     },
-    "citation_reference_134": {
+    "citation_reference_158": {
       "type": "citation_reference",
-      "id": "citation_reference_134",
+      "id": "citation_reference_158",
       "path": [
-        "paragraph_132",
+        "paragraph_156",
         "content"
       ],
       "target": "article_citation_bib1",
@@ -2141,11 +2370,11 @@
         230
       ]
     },
-    "figure_reference_135": {
+    "figure_reference_159": {
       "type": "figure_reference",
-      "id": "figure_reference_135",
+      "id": "figure_reference_159",
       "path": [
-        "paragraph_132",
+        "paragraph_156",
         "content"
       ],
       "target": "image_fig4",
@@ -2154,11 +2383,11 @@
         316
       ]
     },
-    "figure_reference_136": {
+    "figure_reference_160": {
       "type": "figure_reference",
-      "id": "figure_reference_136",
+      "id": "figure_reference_160",
       "path": [
-        "paragraph_132",
+        "paragraph_156",
         "content"
       ],
       "target": "video_video3",
@@ -2167,11 +2396,11 @@
         328
       ]
     },
-    "figure_reference_137": {
+    "figure_reference_161": {
       "type": "figure_reference",
-      "id": "figure_reference_137",
+      "id": "figure_reference_161",
       "path": [
-        "paragraph_132",
+        "paragraph_156",
         "content"
       ],
       "target": "image_fig6",
@@ -2180,11 +2409,11 @@
         648
       ]
     },
-    "annotation_138": {
+    "annotation_162": {
       "type": "emphasis",
-      "id": "annotation_138",
+      "id": "annotation_162",
       "path": [
-        "paragraph_132",
+        "paragraph_156",
         "content"
       ],
       "target": null,
@@ -2193,11 +2422,11 @@
         752
       ]
     },
-    "citation_reference_139": {
+    "citation_reference_163": {
       "type": "citation_reference",
-      "id": "citation_reference_139",
+      "id": "citation_reference_163",
       "path": [
-        "paragraph_132",
+        "paragraph_156",
         "content"
       ],
       "target": "article_citation_bib24",
@@ -2206,11 +2435,11 @@
         813
       ]
     },
-    "annotation_140": {
+    "annotation_164": {
       "type": "emphasis",
-      "id": "annotation_140",
+      "id": "annotation_164",
       "path": [
-        "paragraph_132",
+        "paragraph_156",
         "content"
       ],
       "target": null,
@@ -2219,11 +2448,11 @@
         885
       ]
     },
-    "citation_reference_141": {
+    "citation_reference_165": {
       "type": "citation_reference",
-      "id": "citation_reference_141",
+      "id": "citation_reference_165",
       "path": [
-        "paragraph_132",
+        "paragraph_156",
         "content"
       ],
       "target": "article_citation_bib15",
@@ -2232,11 +2461,11 @@
         1001
       ]
     },
-    "citation_reference_142": {
+    "citation_reference_166": {
       "type": "citation_reference",
-      "id": "citation_reference_142",
+      "id": "citation_reference_166",
       "path": [
-        "paragraph_132",
+        "paragraph_156",
         "content"
       ],
       "target": "article_citation_bib1",
@@ -2251,10 +2480,7 @@
       "label": "Video 3.",
       "title": "FrhG.",
       "caption": "paragraph_video_video3",
-      "content_type": "",
       "url_ogv": "http://static.movie-usa.glencoesoftware.com/ogv/10.7554/elife00218v003.ogv",
-      "url_jpg": "",
-      "url_mp4": "",
       "doi": "http://dx.doi.org/10.7554/eLife.00218.011",
       "url": "http://static.movie-usa.glencoesoftware.com/mp4/10.7554/elife00218v003.mp4",
       "poster": "http://static.movie-usa.glencoesoftware.com/jpg/10.7554/elife00218v003.jpg"
@@ -2264,32 +2490,56 @@
       "id": "paragraph_video_video3",
       "content": "The model of FrhG is shown superimposed on the map."
     },
+    "paragraph_167": {
+      "type": "paragraph",
+      "id": "paragraph_167",
+      "content": "FrhB contains one Fe-S cluster, an FAD, and the F420-binding site. There is no homolog of known structure. FrhB was therefore traced ab initio, aided by secondary structure predictions (Figure 7) and recognizable features in the map that included 10 α-helices, 11 β-strands, and the Fe-S cluster. The most prominent feature of FrhB is a ∼35 Å surface helix that corresponds to the predicted 24-residue C-terminal helix."
+    },
+    "annotation_168": {
+      "type": "subscript",
+      "id": "annotation_168",
+      "path": [
+        "paragraph_167",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        49,
+        52
+      ]
+    },
+    "figure_reference_169": {
+      "type": "figure_reference",
+      "id": "figure_reference_169",
+      "path": [
+        "paragraph_167",
+        "content"
+      ],
+      "target": "image_fig7",
+      "range": [
+        186,
+        194
+      ]
+    },
     "image_fig7": {
       "type": "image",
       "id": "image_fig7",
       "label": "Figure 7.",
-      "url": "",
-      "object_id": "F7",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00218/svg/elife00218f007.svg",
       "title": "Sequence and secondary structure of FrhB.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00218.012",
       "caption": "paragraph_image_fig7",
-      "graphic_id": "elife00218f007"
+      "graphic_id": "elife00218f007",
+      "format": "image"
     },
     "paragraph_image_fig7": {
       "type": "paragraph",
       "id": "paragraph_image_fig7",
       "content": "Light gray font: No density; green highlight: α-helix; gray highlight: β-strand. Second line: Consensus sequence of FrhB species. Capitals: conserved residues; lower case: similar residues (h: hydrophobic; s: small [GAS]; l: large [LIFYHW]; a: aromatic [FYWH]; z: T or S; n: negative [D or E]; p: positive [R or K]). In the consensus sequence, the residues for coordination of the iron–sulfur cluster, FAD, and F420 are highlighted in orange, cyan, and yellow, respectively."
     },
-    "annotation_143": {
+    "annotation_170": {
       "type": "subscript",
-      "id": "annotation_143",
+      "id": "annotation_170",
       "path": [
         "paragraph_image_fig7",
         "content"
@@ -2300,16 +2550,16 @@
         415
       ]
     },
-    "paragraph_144": {
+    "paragraph_171": {
       "type": "paragraph",
-      "id": "paragraph_144",
+      "id": "paragraph_171",
       "content": "We examined the F420-binding proteins of known structure in the protein databank, and found no structural homology with FrhB. All these proteins have cofactors different from FAD, for example, methylene-H4MPT or NADP (Ceh et al., 2009). Also no homologous FAD-binding proteins were found. We conclude that FrhB has a novel fold (Figure 4C and Video 4). The Fe-S cluster is most probably a 4Fe-4S cluster because it is surrounded by four cysteines (Cys 104, 134, 192, and 195), which are all fully conserved (Figure 7). The core of FrhB is a mixed six-stranded β-sheet. A density located ∼8 Å from the Fe-S cluster could be interpreted as the isoalloxazine ring of the FAD cofactor. The pyrophosphate moiety is located at the N-terminal end of an α-helix, which is a common FAD-binding motif where the dipole of the helix compensates the negative charge (Dym and Eisenberg, 2001) (Figure 8), and nearby density for the adenine moiety is visible. The FAD has a bent conformation, with the adenine and isoalloxazine ring only 4–5 Å apart (Figure 8) near the highly conserved loop Lys75-Tyr76. The FAD is completely surrounded by highly conserved protein regions (Figure 7 and Video 5), further verifying the backbone trace."
     },
-    "annotation_145": {
+    "annotation_172": {
       "type": "subscript",
-      "id": "annotation_145",
+      "id": "annotation_172",
       "path": [
-        "paragraph_144",
+        "paragraph_171",
         "content"
       ],
       "target": null,
@@ -2318,11 +2568,11 @@
         20
       ]
     },
-    "annotation_146": {
+    "annotation_173": {
       "type": "subscript",
-      "id": "annotation_146",
+      "id": "annotation_173",
       "path": [
-        "paragraph_144",
+        "paragraph_171",
         "content"
       ],
       "target": null,
@@ -2331,11 +2581,11 @@
         205
       ]
     },
-    "citation_reference_147": {
+    "citation_reference_174": {
       "type": "citation_reference",
-      "id": "citation_reference_147",
+      "id": "citation_reference_174",
       "path": [
-        "paragraph_144",
+        "paragraph_171",
         "content"
       ],
       "target": "article_citation_bib6",
@@ -2344,11 +2594,11 @@
         234
       ]
     },
-    "figure_reference_148": {
+    "figure_reference_175": {
       "type": "figure_reference",
-      "id": "figure_reference_148",
+      "id": "figure_reference_175",
       "path": [
-        "paragraph_144",
+        "paragraph_171",
         "content"
       ],
       "target": "image_fig4",
@@ -2357,11 +2607,11 @@
         338
       ]
     },
-    "figure_reference_149": {
+    "figure_reference_176": {
       "type": "figure_reference",
-      "id": "figure_reference_149",
+      "id": "figure_reference_176",
       "path": [
-        "paragraph_144",
+        "paragraph_171",
         "content"
       ],
       "target": "video_video4",
@@ -2370,11 +2620,11 @@
         350
       ]
     },
-    "figure_reference_150": {
+    "figure_reference_177": {
       "type": "figure_reference",
-      "id": "figure_reference_150",
+      "id": "figure_reference_177",
       "path": [
-        "paragraph_144",
+        "paragraph_171",
         "content"
       ],
       "target": "image_fig7",
@@ -2383,11 +2633,11 @@
         516
       ]
     },
-    "citation_reference_151": {
+    "citation_reference_178": {
       "type": "citation_reference",
-      "id": "citation_reference_151",
+      "id": "citation_reference_178",
       "path": [
-        "paragraph_144",
+        "paragraph_171",
         "content"
       ],
       "target": "article_citation_bib12",
@@ -2396,11 +2646,11 @@
         877
       ]
     },
-    "figure_reference_152": {
+    "figure_reference_179": {
       "type": "figure_reference",
-      "id": "figure_reference_152",
+      "id": "figure_reference_179",
       "path": [
-        "paragraph_144",
+        "paragraph_171",
         "content"
       ],
       "target": "image_fig8",
@@ -2409,11 +2659,11 @@
         888
       ]
     },
-    "figure_reference_153": {
+    "figure_reference_180": {
       "type": "figure_reference",
-      "id": "figure_reference_153",
+      "id": "figure_reference_180",
       "path": [
-        "paragraph_144",
+        "paragraph_171",
         "content"
       ],
       "target": "image_fig8",
@@ -2422,11 +2672,11 @@
         1044
       ]
     },
-    "figure_reference_154": {
+    "figure_reference_181": {
       "type": "figure_reference",
-      "id": "figure_reference_154",
+      "id": "figure_reference_181",
       "path": [
-        "paragraph_144",
+        "paragraph_171",
         "content"
       ],
       "target": "image_fig7",
@@ -2435,11 +2685,11 @@
         1168
       ]
     },
-    "figure_reference_155": {
+    "figure_reference_182": {
       "type": "figure_reference",
-      "id": "figure_reference_155",
+      "id": "figure_reference_182",
       "path": [
-        "paragraph_144",
+        "paragraph_171",
         "content"
       ],
       "target": "video_video5",
@@ -2454,10 +2704,7 @@
       "label": "Video 4.",
       "title": "FrhB.",
       "caption": "paragraph_video_video4",
-      "content_type": "",
       "url_ogv": "http://static.movie-usa.glencoesoftware.com/ogv/10.7554/elife00218v004.ogv",
-      "url_jpg": "",
-      "url_mp4": "",
       "doi": "http://dx.doi.org/10.7554/eLife.00218.013",
       "url": "http://static.movie-usa.glencoesoftware.com/mp4/10.7554/elife00218v004.mp4",
       "poster": "http://static.movie-usa.glencoesoftware.com/jpg/10.7554/elife00218v004.jpg"
@@ -2471,28 +2718,21 @@
       "type": "image",
       "id": "image_fig8",
       "label": "Figure 8.",
-      "url": "",
-      "object_id": "F8",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00218/svg/elife00218f008.svg",
       "title": "Electron-transfer chain and F420.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00218.014",
       "caption": "paragraph_image_fig8",
-      "graphic_id": "elife00218f008"
+      "graphic_id": "elife00218f008",
+      "format": "image"
     },
     "paragraph_image_fig8": {
       "type": "paragraph",
       "id": "paragraph_image_fig8",
       "content": "Maps in the absence (A) and presence (B) of the substrate F420 differ in a region near a conserved loop between two β-strands near the FAD (carbons in yellow). The isoalloxazine ring of F420 fitted into this density is shown in pink. (C) Electron transfer chain with minimal distances indicated."
     },
-    "annotation_156": {
+    "annotation_183": {
       "type": "subscript",
-      "id": "annotation_156",
+      "id": "annotation_183",
       "path": [
         "image_fig8",
         "title"
@@ -2503,9 +2743,9 @@
         32
       ]
     },
-    "annotation_157": {
+    "annotation_184": {
       "type": "strong",
-      "id": "annotation_157",
+      "id": "annotation_184",
       "path": [
         "paragraph_image_fig8",
         "content"
@@ -2516,9 +2756,9 @@
         22
       ]
     },
-    "annotation_158": {
+    "annotation_185": {
       "type": "strong",
-      "id": "annotation_158",
+      "id": "annotation_185",
       "path": [
         "paragraph_image_fig8",
         "content"
@@ -2529,9 +2769,9 @@
         39
       ]
     },
-    "annotation_159": {
+    "annotation_186": {
       "type": "subscript",
-      "id": "annotation_159",
+      "id": "annotation_186",
       "path": [
         "paragraph_image_fig8",
         "content"
@@ -2542,9 +2782,9 @@
         62
       ]
     },
-    "annotation_160": {
+    "annotation_187": {
       "type": "subscript",
-      "id": "annotation_160",
+      "id": "annotation_187",
       "path": [
         "paragraph_image_fig8",
         "content"
@@ -2555,9 +2795,9 @@
         190
       ]
     },
-    "annotation_161": {
+    "annotation_188": {
       "type": "strong",
-      "id": "annotation_161",
+      "id": "annotation_188",
       "path": [
         "paragraph_image_fig8",
         "content"
@@ -2574,10 +2814,7 @@
       "label": "Video 5.",
       "title": "Conserved residues in FrhB.",
       "caption": "paragraph_video_video5",
-      "content_type": "",
       "url_ogv": "http://static.movie-usa.glencoesoftware.com/ogv/10.7554/elife00218v005.ogv",
-      "url_jpg": "",
-      "url_mp4": "",
       "doi": "http://dx.doi.org/10.7554/eLife.00218.015",
       "url": "http://static.movie-usa.glencoesoftware.com/mp4/10.7554/elife00218v005.mp4",
       "poster": "http://static.movie-usa.glencoesoftware.com/jpg/10.7554/elife00218v005.jpg"
@@ -2587,9 +2824,9 @@
       "id": "paragraph_video_video5",
       "content": "The FrhB model is shown with conserved residues in red, similar residues in orange and unconserved residues in gray (see Figure 7 for sequence). FAD is yellow and F420 green. Highly conserved regions surround the FeS cluster and the FAD as well as the F420 isoalloxazine ring. An entrance pathway for F420 is suggested as well."
     },
-    "figure_reference_162": {
+    "figure_reference_189": {
       "type": "figure_reference",
-      "id": "figure_reference_162",
+      "id": "figure_reference_189",
       "path": [
         "paragraph_video_video5",
         "content"
@@ -2600,9 +2837,9 @@
         129
       ]
     },
-    "annotation_163": {
+    "annotation_190": {
       "type": "subscript",
-      "id": "annotation_163",
+      "id": "annotation_190",
       "path": [
         "paragraph_video_video5",
         "content"
@@ -2613,9 +2850,9 @@
         167
       ]
     },
-    "annotation_164": {
+    "annotation_191": {
       "type": "subscript",
-      "id": "annotation_164",
+      "id": "annotation_191",
       "path": [
         "paragraph_video_video5",
         "content"
@@ -2626,9 +2863,9 @@
         256
       ]
     },
-    "annotation_165": {
+    "annotation_192": {
       "type": "subscript",
-      "id": "annotation_165",
+      "id": "annotation_192",
       "path": [
         "paragraph_video_video5",
         "content"
@@ -2639,32 +2876,321 @@
         305
       ]
     },
+    "paragraph_193": {
+      "type": "paragraph",
+      "id": "paragraph_193",
+      "content": "To identify the substrate-binding site, we imaged the FrhABG complex in the presence of a large excess of F420, and calculated maps, which were refined to a similar resolution. At all refinement stages, the map showed an additional density in a region that was empty in maps of Frh without substrate (Figure 8A,B). This density runs approximately parallel to the FAD isoalloxazine ring, at a distance of ∼4 Å. We conclude that it represents the isoalloxazine ring of the F420 substrate. It is seated in a large pocket surrounded by highly conserved residues, with easy access to the surface of the complex. The F420 density is close to the small residues S209 and V210 in a loop between two β-strands, which are part of the longest conserved region of FrhB (Figure 7). A predicted three-stranded β-sheet (148–172) flanked by two short helices (Figure 7) fits nicely in density. The only conserved region of this sheet, 163IGKGK, forms a turn close to the position of the isoalloxazine ring of F420. The location between this ring and the surface of the complex suggests that one or both of the conserved lysines may interact with the phosphate group of F420. The long α-helix on the surface that was interpreted as the C-terminal helix of FrhB is not very well resolved. The residues in the helix are mostly not conserved in FrhB, except at the N-terminal end (Figure 7). In our model, the conserved residues are located near the loop 164GKGK mentioned above. This region also contains several other conserved residues (Video 5) and likely constitutes the access channel for the substrate F420. The map of Frh in the presence of substrate is similar to the substrate-free map, indicating that F420 binding does not involve major conformational changes."
+    },
+    "annotation_194": {
+      "type": "subscript",
+      "id": "annotation_194",
+      "path": [
+        "paragraph_193",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        107,
+        110
+      ]
+    },
+    "figure_reference_195": {
+      "type": "figure_reference",
+      "id": "figure_reference_195",
+      "path": [
+        "paragraph_193",
+        "content"
+      ],
+      "target": "image_fig8",
+      "range": [
+        301,
+        312
+      ]
+    },
+    "annotation_196": {
+      "type": "subscript",
+      "id": "annotation_196",
+      "path": [
+        "paragraph_193",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        472,
+        475
+      ]
+    },
+    "annotation_197": {
+      "type": "subscript",
+      "id": "annotation_197",
+      "path": [
+        "paragraph_193",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        612,
+        615
+      ]
+    },
+    "figure_reference_198": {
+      "type": "figure_reference",
+      "id": "figure_reference_198",
+      "path": [
+        "paragraph_193",
+        "content"
+      ],
+      "target": "image_fig7",
+      "range": [
+        758,
+        766
+      ]
+    },
+    "figure_reference_199": {
+      "type": "figure_reference",
+      "id": "figure_reference_199",
+      "path": [
+        "paragraph_193",
+        "content"
+      ],
+      "target": "image_fig7",
+      "range": [
+        844,
+        852
+      ]
+    },
+    "annotation_200": {
+      "type": "subscript",
+      "id": "annotation_200",
+      "path": [
+        "paragraph_193",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        994,
+        997
+      ]
+    },
+    "annotation_201": {
+      "type": "subscript",
+      "id": "annotation_201",
+      "path": [
+        "paragraph_193",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1154,
+        1157
+      ]
+    },
+    "figure_reference_202": {
+      "type": "figure_reference",
+      "id": "figure_reference_202",
+      "path": [
+        "paragraph_193",
+        "content"
+      ],
+      "target": "image_fig7",
+      "range": [
+        1361,
+        1369
+      ]
+    },
+    "figure_reference_203": {
+      "type": "figure_reference",
+      "id": "figure_reference_203",
+      "path": [
+        "paragraph_193",
+        "content"
+      ],
+      "target": "video_video5",
+      "range": [
+        1520,
+        1527
+      ]
+    },
+    "annotation_204": {
+      "type": "subscript",
+      "id": "annotation_204",
+      "path": [
+        "paragraph_193",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1590,
+        1593
+      ]
+    },
+    "annotation_205": {
+      "type": "subscript",
+      "id": "annotation_205",
+      "path": [
+        "paragraph_193",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        1694,
+        1697
+      ]
+    },
+    "paragraph_206": {
+      "type": "paragraph",
+      "id": "paragraph_206",
+      "content": "The residues coordinating the Fe-S cluster, FAD, and F420 are conserved in the FrhB family, which includes subunits of F420-dependent sulfite reductase (Fsr), F420H2:quinone oxidoreductase (FqoF), F420H2:phenazine oxidoreductase (FpoF), F420-dependent glutamate synthase and formate dehydrogenase (FdhB) (Johnson and Mukhopadhyay, 2005) (Figure 9). Some of these proteins contain additional domains, like an N-terminal ferredoxin domain (which in Frh is part of FrhG), or a C-terminal domain containing a binding site for the substrate of the electron transfer from F420. Clearly, these enzymes share a common fold with FrhB."
+    },
+    "annotation_207": {
+      "type": "subscript",
+      "id": "annotation_207",
+      "path": [
+        "paragraph_206",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        54,
+        57
+      ]
+    },
+    "annotation_208": {
+      "type": "subscript",
+      "id": "annotation_208",
+      "path": [
+        "paragraph_206",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        120,
+        123
+      ]
+    },
+    "annotation_209": {
+      "type": "subscript",
+      "id": "annotation_209",
+      "path": [
+        "paragraph_206",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        160,
+        163
+      ]
+    },
+    "annotation_210": {
+      "type": "subscript",
+      "id": "annotation_210",
+      "path": [
+        "paragraph_206",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        164,
+        165
+      ]
+    },
+    "annotation_211": {
+      "type": "subscript",
+      "id": "annotation_211",
+      "path": [
+        "paragraph_206",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        198,
+        201
+      ]
+    },
+    "annotation_212": {
+      "type": "subscript",
+      "id": "annotation_212",
+      "path": [
+        "paragraph_206",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        202,
+        203
+      ]
+    },
+    "annotation_213": {
+      "type": "subscript",
+      "id": "annotation_213",
+      "path": [
+        "paragraph_206",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        238,
+        241
+      ]
+    },
+    "citation_reference_214": {
+      "type": "citation_reference",
+      "id": "citation_reference_214",
+      "path": [
+        "paragraph_206",
+        "content"
+      ],
+      "target": "article_citation_bib23",
+      "range": [
+        305,
+        335
+      ]
+    },
+    "figure_reference_215": {
+      "type": "figure_reference",
+      "id": "figure_reference_215",
+      "path": [
+        "paragraph_206",
+        "content"
+      ],
+      "target": "image_fig9",
+      "range": [
+        338,
+        346
+      ]
+    },
+    "annotation_216": {
+      "type": "subscript",
+      "id": "annotation_216",
+      "path": [
+        "paragraph_206",
+        "content"
+      ],
+      "target": null,
+      "range": [
+        567,
+        570
+      ]
+    },
     "image_fig9": {
       "type": "image",
       "id": "image_fig9",
       "label": "Figure 9.",
-      "url": "",
-      "object_id": "F9",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00218/svg/elife00218f009.svg",
       "title": "Alignment of the FrhB family of F420-binding proteins.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00218.016",
       "caption": "paragraph_image_fig9",
-      "graphic_id": "elife00218f009"
+      "graphic_id": "elife00218f009",
+      "format": "image"
     },
     "paragraph_image_fig9": {
       "type": "paragraph",
       "id": "paragraph_image_fig9",
       "content": "FrhB: FrhB of Methanothermobacter marburgensis DSM 2133; GS: F420-dependent glutamate synthase from M. marburgensis, ADL58239; FqoF: F420H2:quinone oxidoreductase subunit F from Archaeoglobus fulgidus DSM 4304, NP_070660; FpoF: F420H2:phenazine oxidoreductase subunit F from Methanosarcina barkeri str. Fusaro, YP_303819; Fsr: N-terminal domain of Fsr, F420-reducing sulfite reductase from Methanocaldococcus jannaschii DSM 2661, Y870_METJA; FdhB: beta subunit of formate dehydrogenase from M. marburgensis, YP_003850414. Cons: the consensus sequence of the FrhB family. Capitals: conserved residues; lower case: similar residues (h: hydrophobic; s: small [GAS]; l: large [LIFYHW]; a: aromatic [FYWH]; z: T or S; n: negative [D or E], p: positive [R or K], c: charged [D, E, R, K]). In the consensus sequence, residues indentified in the FrhB structure for coordination of the iron–sulfur cluster, FAD, and F420 are highlighted in orange, cyan, and yellow, respectively. Secondary structure prediction for each of the proteins was done with PSIPRED (http://bioinf.cs.ucl.ac.uk/psipred/): green highlight: α-helix; gray highlight: β-strand. Highly conserved amino acids are indicated in bold font. Amino acid numbers are shown in red; note that the C-terminal 83 residues of glutamate synthase (GS) align with the N-terminus of FrhB and the N-terminal 182 residues with the C-terminus of FrhB."
     },
-    "annotation_166": {
+    "annotation_217": {
       "type": "subscript",
-      "id": "annotation_166",
+      "id": "annotation_217",
       "path": [
         "image_fig9",
         "title"
@@ -2675,9 +3201,9 @@
         36
       ]
     },
-    "annotation_167": {
+    "annotation_218": {
       "type": "emphasis",
-      "id": "annotation_167",
+      "id": "annotation_218",
       "path": [
         "paragraph_image_fig9",
         "content"
@@ -2688,9 +3214,9 @@
         46
       ]
     },
-    "annotation_168": {
+    "annotation_219": {
       "type": "subscript",
-      "id": "annotation_168",
+      "id": "annotation_219",
       "path": [
         "paragraph_image_fig9",
         "content"
@@ -2701,9 +3227,9 @@
         65
       ]
     },
-    "annotation_169": {
+    "annotation_220": {
       "type": "emphasis",
-      "id": "annotation_169",
+      "id": "annotation_220",
       "path": [
         "paragraph_image_fig9",
         "content"
@@ -2714,9 +3240,9 @@
         115
       ]
     },
-    "annotation_170": {
+    "annotation_221": {
       "type": "subscript",
-      "id": "annotation_170",
+      "id": "annotation_221",
       "path": [
         "paragraph_image_fig9",
         "content"
@@ -2727,9 +3253,9 @@
         137
       ]
     },
-    "annotation_171": {
+    "annotation_222": {
       "type": "subscript",
-      "id": "annotation_171",
+      "id": "annotation_222",
       "path": [
         "paragraph_image_fig9",
         "content"
@@ -2740,9 +3266,9 @@
         139
       ]
     },
-    "annotation_172": {
+    "annotation_223": {
       "type": "emphasis",
-      "id": "annotation_172",
+      "id": "annotation_223",
       "path": [
         "paragraph_image_fig9",
         "content"
@@ -2753,9 +3279,9 @@
         200
       ]
     },
-    "annotation_173": {
+    "annotation_224": {
       "type": "subscript",
-      "id": "annotation_173",
+      "id": "annotation_224",
       "path": [
         "paragraph_image_fig9",
         "content"
@@ -2766,9 +3292,9 @@
         232
       ]
     },
-    "annotation_174": {
+    "annotation_225": {
       "type": "subscript",
-      "id": "annotation_174",
+      "id": "annotation_225",
       "path": [
         "paragraph_image_fig9",
         "content"
@@ -2779,9 +3305,9 @@
         234
       ]
     },
-    "annotation_175": {
+    "annotation_226": {
       "type": "emphasis",
-      "id": "annotation_175",
+      "id": "annotation_226",
       "path": [
         "paragraph_image_fig9",
         "content"
@@ -2792,9 +3318,9 @@
         297
       ]
     },
-    "annotation_176": {
+    "annotation_227": {
       "type": "subscript",
-      "id": "annotation_176",
+      "id": "annotation_227",
       "path": [
         "paragraph_image_fig9",
         "content"
@@ -2805,9 +3331,9 @@
         357
       ]
     },
-    "annotation_177": {
+    "annotation_228": {
       "type": "emphasis",
-      "id": "annotation_177",
+      "id": "annotation_228",
       "path": [
         "paragraph_image_fig9",
         "content"
@@ -2818,9 +3344,9 @@
         419
       ]
     },
-    "annotation_178": {
+    "annotation_229": {
       "type": "emphasis",
-      "id": "annotation_178",
+      "id": "annotation_229",
       "path": [
         "paragraph_image_fig9",
         "content"
@@ -2831,9 +3357,9 @@
         506
       ]
     },
-    "annotation_179": {
+    "annotation_230": {
       "type": "subscript",
-      "id": "annotation_179",
+      "id": "annotation_230",
       "path": [
         "paragraph_image_fig9",
         "content"
@@ -2844,9 +3370,9 @@
         911
       ]
     },
-    "annotation_180": {
+    "annotation_231": {
       "type": "link",
-      "id": "annotation_180",
+      "id": "annotation_231",
       "path": [
         "paragraph_image_fig9",
         "content"
@@ -2865,16 +3391,16 @@
       "content": "Discussion",
       "nodes": []
     },
-    "paragraph_181": {
+    "paragraph_232": {
       "type": "paragraph",
-      "id": "paragraph_181",
+      "id": "paragraph_232",
       "content": "Recent advances in instrumentation and image processing procedures have made cryo-electron microscopy of isolated macromolecular complexes a powerful technique in structural biology. After the first virus structure at subnanometer resolution (Böttcher et al., 1997) showed the feasibility of the method, icosahedral viruses were reconstructed in recent years to better than 4 Å resolution (Yu et al., 2008, 2011, Zhang et al., 2008, 2010a; Liu et al., 2010; Wolf et al., 2010; Chen et al., 2011; Settembre et al., 2011; ), taking advantage of the 60-fold symmetry and huge size (∼20 to 150 MDa), which together contribute to the relatively high signal-to-noise ratio for these particles that makes the determination of the orientation unambiguous. For smaller complexes, the techniques have been pioneered with the 800-kDa GroEL complex with D7 symmetry, reaching subnanometer resolution for the first time in 2004 (Ludtke et al., 2004) and ∼4 Å in 2008 (Ludtke et al., 2008). Subsequent reconstructions to this resolution were achieved for archaeal (Zhang et al., 2010b) and mammalian (Cong et al., 2010) chaperonins. The chaperonins have different conformational states, and usually only one of these gave a high-resolution map, whereas for the others the resolution was limited due to conformational flexibility. The appearance of our reconstructions is similar to the chaperonins; in agreement with this, Fourier shell correlation indicates a resolution of 3.9 and 4.0 Å for the two maps, respectively (Figure 10A). Recently it has been noted that the resolution of such reconstructions are usually overestimated due to correlation of noise at high resolution (Scheres and Chen, 2012). Using a ‘gold standard' procedure to estimate resolution, where two half-data sets are independently refined to a reference not containing high-resolution information (see ‘Materials and methods'), yielded 5.5 Å (Figure 10B). However, an objective indication of (local) resolution is provided by the appearance of secondary structure: the α-helical pitch of 5.4 Å is very well defined in many regions (Figure 2F,G), as is the separation of β-strands (axial distance ∼4.8 Å) (Figure 5B). Comparison of these areas with maps calculated from the model low-pass filtered to different resolutions suggest a resolution ∼4.5 Å. The overall resolution estimate is an average of these well-resolved protein regions and other regions that are less well resolved, especially those at the periphery of the complex. An FSC curve between the experimental map and a map calculated from the model indicated a resolution of 5.8 Å (Figure 10C); this figure also constitutes an average over the whole structure, with the model probably best for internal α-helices and worst for loops at the periphery. Since the model was derived from the map, and not from an independent experiment, this measure does not properly reflect the resolution of the map, but rather describes how well our admittedly incomplete model explains the map densities. It should be noted that we used tight protein structure restraints during modeling, in order to prevent overfitting to noise while creating an unrealistic model that would have yielded a higher model-to-map correlation."
     },
-    "citation_reference_182": {
+    "citation_reference_233": {
       "type": "citation_reference",
-      "id": "citation_reference_182",
+      "id": "citation_reference_233",
       "path": [
-        "paragraph_181",
+        "paragraph_232",
         "content"
       ],
       "target": "article_citation_bib2",
@@ -2883,11 +3409,11 @@
         264
       ]
     },
-    "citation_reference_183": {
+    "citation_reference_234": {
       "type": "citation_reference",
-      "id": "citation_reference_183",
+      "id": "citation_reference_234",
       "path": [
-        "paragraph_181",
+        "paragraph_232",
         "content"
       ],
       "target": "article_citation_bib54",
@@ -2896,11 +3422,11 @@
         405
       ]
     },
-    "citation_reference_184": {
+    "citation_reference_235": {
       "type": "citation_reference",
-      "id": "citation_reference_184",
+      "id": "citation_reference_235",
       "path": [
-        "paragraph_181",
+        "paragraph_232",
         "content"
       ],
       "target": "article_citation_bib53",
@@ -2909,11 +3435,11 @@
         411
       ]
     },
-    "citation_reference_185": {
+    "citation_reference_236": {
       "type": "citation_reference",
-      "id": "citation_reference_185",
+      "id": "citation_reference_236",
       "path": [
-        "paragraph_181",
+        "paragraph_232",
         "content"
       ],
       "target": "article_citation_bib58",
@@ -2922,11 +3448,11 @@
         431
       ]
     },
-    "citation_reference_186": {
+    "citation_reference_237": {
       "type": "citation_reference",
-      "id": "citation_reference_186",
+      "id": "citation_reference_237",
       "path": [
-        "paragraph_181",
+        "paragraph_232",
         "content"
       ],
       "target": "article_citation_bib55",
@@ -2935,11 +3461,11 @@
         438
       ]
     },
-    "citation_reference_187": {
+    "citation_reference_238": {
       "type": "citation_reference",
-      "id": "citation_reference_187",
+      "id": "citation_reference_238",
       "path": [
-        "paragraph_181",
+        "paragraph_232",
         "content"
       ],
       "target": "article_citation_bib25",
@@ -2948,11 +3474,11 @@
         456
       ]
     },
-    "citation_reference_188": {
+    "citation_reference_239": {
       "type": "citation_reference",
-      "id": "citation_reference_188",
+      "id": "citation_reference_239",
       "path": [
-        "paragraph_181",
+        "paragraph_232",
         "content"
       ],
       "target": "article_citation_bib52",
@@ -2961,11 +3487,11 @@
         475
       ]
     },
-    "citation_reference_189": {
+    "citation_reference_240": {
       "type": "citation_reference",
-      "id": "citation_reference_189",
+      "id": "citation_reference_240",
       "path": [
-        "paragraph_181",
+        "paragraph_232",
         "content"
       ],
       "target": "article_citation_bib7",
@@ -2974,11 +3500,11 @@
         494
       ]
     },
-    "citation_reference_190": {
+    "citation_reference_241": {
       "type": "citation_reference",
-      "id": "citation_reference_190",
+      "id": "citation_reference_241",
       "path": [
-        "paragraph_181",
+        "paragraph_232",
         "content"
       ],
       "target": "article_citation_bib41",
@@ -2987,11 +3513,11 @@
         518
       ]
     },
-    "citation_reference_191": {
+    "citation_reference_242": {
       "type": "citation_reference",
-      "id": "citation_reference_191",
+      "id": "citation_reference_242",
       "path": [
-        "paragraph_181",
+        "paragraph_232",
         "content"
       ],
       "target": "article_citation_bib28",
@@ -3000,11 +3526,11 @@
         935
       ]
     },
-    "citation_reference_192": {
+    "citation_reference_243": {
       "type": "citation_reference",
-      "id": "citation_reference_192",
+      "id": "citation_reference_243",
       "path": [
-        "paragraph_181",
+        "paragraph_232",
         "content"
       ],
       "target": "article_citation_bib26",
@@ -3013,11 +3539,11 @@
         974
       ]
     },
-    "citation_reference_193": {
+    "citation_reference_244": {
       "type": "citation_reference",
-      "id": "citation_reference_193",
+      "id": "citation_reference_244",
       "path": [
-        "paragraph_181",
+        "paragraph_232",
         "content"
       ],
       "target": "article_citation_bib56",
@@ -3026,11 +3552,11 @@
         1070
       ]
     },
-    "citation_reference_194": {
+    "citation_reference_245": {
       "type": "citation_reference",
-      "id": "citation_reference_194",
+      "id": "citation_reference_245",
       "path": [
-        "paragraph_181",
+        "paragraph_232",
         "content"
       ],
       "target": "article_citation_bib8",
@@ -3039,11 +3565,11 @@
         1104
       ]
     },
-    "figure_reference_195": {
+    "figure_reference_246": {
       "type": "figure_reference",
-      "id": "figure_reference_195",
+      "id": "figure_reference_246",
       "path": [
-        "paragraph_181",
+        "paragraph_232",
         "content"
       ],
       "target": "image_fig10",
@@ -3052,11 +3578,11 @@
         1517
       ]
     },
-    "citation_reference_196": {
+    "citation_reference_247": {
       "type": "citation_reference",
-      "id": "citation_reference_196",
+      "id": "citation_reference_247",
       "path": [
-        "paragraph_181",
+        "paragraph_232",
         "content"
       ],
       "target": "article_citation_bib39",
@@ -3065,11 +3591,11 @@
         1687
       ]
     },
-    "figure_reference_197": {
+    "figure_reference_248": {
       "type": "figure_reference",
-      "id": "figure_reference_197",
+      "id": "figure_reference_248",
       "path": [
-        "paragraph_181",
+        "paragraph_232",
         "content"
       ],
       "target": "image_fig10",
@@ -3078,11 +3604,11 @@
         1913
       ]
     },
-    "figure_reference_198": {
+    "figure_reference_249": {
       "type": "figure_reference",
-      "id": "figure_reference_198",
+      "id": "figure_reference_249",
       "path": [
-        "paragraph_181",
+        "paragraph_232",
         "content"
       ],
       "target": "image_fig2",
@@ -3091,11 +3617,11 @@
         2103
       ]
     },
-    "figure_reference_199": {
+    "figure_reference_250": {
       "type": "figure_reference",
-      "id": "figure_reference_199",
+      "id": "figure_reference_250",
       "path": [
-        "paragraph_181",
+        "paragraph_232",
         "content"
       ],
       "target": "image_fig5",
@@ -3104,11 +3630,11 @@
         2174
       ]
     },
-    "figure_reference_200": {
+    "figure_reference_251": {
       "type": "figure_reference",
-      "id": "figure_reference_200",
+      "id": "figure_reference_251",
       "path": [
-        "paragraph_181",
+        "paragraph_232",
         "content"
       ],
       "target": "image_fig10",
@@ -3121,28 +3647,21 @@
       "type": "image",
       "id": "image_fig10",
       "label": "Figure 10.",
-      "url": "",
-      "object_id": "F10",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00218/svg/elife00218f010.svg",
       "title": "Resolution estimations and B-factor determination.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00218.017",
       "caption": "paragraph_image_fig10",
-      "graphic_id": "elife00218f010"
+      "graphic_id": "elife00218f010",
+      "format": "image"
     },
     "paragraph_image_fig10": {
       "type": "paragraph",
       "id": "paragraph_image_fig10",
       "content": "(A) Fourier shell correlation plot, showing the resolution for the substrate-free map (black) and the F420-containing map (red). At the 0.5 FSC criterion, the resolution is 3.9 and 4.0 Å, respectively. (B) Gold standard FSC between two half-data sets independently refined from a low-resolution model. The resolution at the 0.143 FSC criterion is 5.5 Å. (C) FSC between the map and model. At 0.5 FSC, the indicated resolution is 5.8 Å. (D) Plots of the natural logarithm of the spherically averaged structure factor amplitude as a function of the resolution (Å−2). Blue: experimental amplitudes; red: Cref-weighted amplitudes; green: amplitudes sharpened with a B-factor of −54 Å2, as determined by the program embfactor (Fernández et al., 2008) for the resolution zone 10–4.5 Å. The purple line shows the average scattering amplitude for the Frh complex (√Natoms)."
     },
-    "annotation_201": {
+    "annotation_252": {
       "type": "strong",
-      "id": "annotation_201",
+      "id": "annotation_252",
       "path": [
         "paragraph_image_fig10",
         "content"
@@ -3153,9 +3672,9 @@
         2
       ]
     },
-    "annotation_202": {
+    "annotation_253": {
       "type": "subscript",
-      "id": "annotation_202",
+      "id": "annotation_253",
       "path": [
         "paragraph_image_fig10",
         "content"
@@ -3166,9 +3685,9 @@
         106
       ]
     },
-    "annotation_203": {
+    "annotation_254": {
       "type": "strong",
-      "id": "annotation_203",
+      "id": "annotation_254",
       "path": [
         "paragraph_image_fig10",
         "content"
@@ -3179,9 +3698,9 @@
         204
       ]
     },
-    "annotation_204": {
+    "annotation_255": {
       "type": "strong",
-      "id": "annotation_204",
+      "id": "annotation_255",
       "path": [
         "paragraph_image_fig10",
         "content"
@@ -3192,9 +3711,9 @@
         356
       ]
     },
-    "annotation_205": {
+    "annotation_256": {
       "type": "strong",
-      "id": "annotation_205",
+      "id": "annotation_256",
       "path": [
         "paragraph_image_fig10",
         "content"
@@ -3205,9 +3724,9 @@
         438
       ]
     },
-    "annotation_206": {
+    "annotation_257": {
       "type": "superscript",
-      "id": "annotation_206",
+      "id": "annotation_257",
       "path": [
         "paragraph_image_fig10",
         "content"
@@ -3218,9 +3737,9 @@
         562
       ]
     },
-    "annotation_207": {
+    "annotation_258": {
       "type": "subscript",
-      "id": "annotation_207",
+      "id": "annotation_258",
       "path": [
         "paragraph_image_fig10",
         "content"
@@ -3231,9 +3750,9 @@
         605
       ]
     },
-    "annotation_208": {
+    "annotation_259": {
       "type": "superscript",
-      "id": "annotation_208",
+      "id": "annotation_259",
       "path": [
         "paragraph_image_fig10",
         "content"
@@ -3244,9 +3763,9 @@
         680
       ]
     },
-    "annotation_209": {
+    "annotation_260": {
       "type": "emphasis",
-      "id": "annotation_209",
+      "id": "annotation_260",
       "path": [
         "paragraph_image_fig10",
         "content"
@@ -3257,9 +3776,9 @@
         720
       ]
     },
-    "citation_reference_210": {
+    "citation_reference_261": {
       "type": "citation_reference",
-      "id": "citation_reference_210",
+      "id": "citation_reference_261",
       "path": [
         "paragraph_image_fig10",
         "content"
@@ -3270,9 +3789,9 @@
         744
       ]
     },
-    "annotation_211": {
+    "annotation_262": {
       "type": "subscript",
-      "id": "annotation_211",
+      "id": "annotation_262",
       "path": [
         "paragraph_image_fig10",
         "content"
@@ -3283,16 +3802,16 @@
         863
       ]
     },
-    "paragraph_212": {
+    "paragraph_263": {
       "type": "paragraph",
-      "id": "paragraph_212",
+      "id": "paragraph_263",
       "content": "Several factors contributed to the successful structure determination of Frh. The tetrahedral symmetry means that there are 12 asymmetric units in each particle, less than the 14 and 16 in the D7 and D8 symmetric chaperonins, but the resulting ball-like shape ensures that the complex has no preferential orientation in the ice (Figure 1D), unlike the cylinder-shaped chaperonins that tend to be oriented with their symmetry axis parallel or perpendicular to the ice (Ludtke et al., 2001; Zhang et al., 2011). From the quality of the reconstructions, we conclude that the complex is very rigid. The maps of Frh with and without substrate are of similar resolution and quality, implying that any protein conformational changes due to F420 binding are too small to detect at the present resolution. The density for F420 is weak, but its position was inferred at an early stage of the analysis from the fact that maps of Frh without the substrate were consistently empty and maps with F420 always showed some density here. The later tracing of the amino acid chain of FrhB and the FAD confirmed the assignment: F420 is in van der Waals distance from its hydride donor, the FAD isoalloxazine ring, and the residues in the vicinity are highly conserved in FrhB and in the FrhB family of F420-binding proteins (Figures 7, 9 and Video 5)."
     },
-    "figure_reference_213": {
+    "figure_reference_264": {
       "type": "figure_reference",
-      "id": "figure_reference_213",
+      "id": "figure_reference_264",
       "path": [
-        "paragraph_212",
+        "paragraph_263",
         "content"
       ],
       "target": "image_fig1",
@@ -3301,11 +3820,11 @@
         338
       ]
     },
-    "citation_reference_214": {
+    "citation_reference_265": {
       "type": "citation_reference",
-      "id": "citation_reference_214",
+      "id": "citation_reference_265",
       "path": [
-        "paragraph_212",
+        "paragraph_263",
         "content"
       ],
       "target": "article_citation_bib29",
@@ -3314,11 +3833,11 @@
         487
       ]
     },
-    "citation_reference_215": {
+    "citation_reference_266": {
       "type": "citation_reference",
-      "id": "citation_reference_215",
+      "id": "citation_reference_266",
       "path": [
-        "paragraph_212",
+        "paragraph_263",
         "content"
       ],
       "target": "article_citation_bib57",
@@ -3327,11 +3846,11 @@
         507
       ]
     },
-    "annotation_216": {
+    "annotation_267": {
       "type": "subscript",
-      "id": "annotation_216",
+      "id": "annotation_267",
       "path": [
-        "paragraph_212",
+        "paragraph_263",
         "content"
       ],
       "target": null,
@@ -3340,11 +3859,11 @@
         737
       ]
     },
-    "annotation_217": {
+    "annotation_268": {
       "type": "subscript",
-      "id": "annotation_217",
+      "id": "annotation_268",
       "path": [
-        "paragraph_212",
+        "paragraph_263",
         "content"
       ],
       "target": null,
@@ -3353,11 +3872,11 @@
         817
       ]
     },
-    "annotation_218": {
+    "annotation_269": {
       "type": "subscript",
-      "id": "annotation_218",
+      "id": "annotation_269",
       "path": [
-        "paragraph_212",
+        "paragraph_263",
         "content"
       ],
       "target": null,
@@ -3366,11 +3885,11 @@
         986
       ]
     },
-    "annotation_219": {
+    "annotation_270": {
       "type": "subscript",
-      "id": "annotation_219",
+      "id": "annotation_270",
       "path": [
-        "paragraph_212",
+        "paragraph_263",
         "content"
       ],
       "target": null,
@@ -3379,11 +3898,11 @@
         1112
       ]
     },
-    "annotation_220": {
+    "annotation_271": {
       "type": "subscript",
-      "id": "annotation_220",
+      "id": "annotation_271",
       "path": [
-        "paragraph_212",
+        "paragraph_263",
         "content"
       ],
       "target": null,
@@ -3392,11 +3911,11 @@
         1286
       ]
     },
-    "figure_reference_221": {
+    "figure_reference_272": {
       "type": "figure_reference",
-      "id": "figure_reference_221",
+      "id": "figure_reference_272",
       "path": [
-        "paragraph_212",
+        "paragraph_263",
         "content"
       ],
       "target": "image_fig7",
@@ -3405,11 +3924,11 @@
         1317
       ]
     },
-    "figure_reference_222": {
+    "figure_reference_273": {
       "type": "figure_reference",
-      "id": "figure_reference_222",
+      "id": "figure_reference_273",
       "path": [
-        "paragraph_212",
+        "paragraph_263",
         "content"
       ],
       "target": "video_video5",
@@ -3418,16 +3937,16 @@
         1329
       ]
     },
-    "paragraph_223": {
+    "paragraph_274": {
       "type": "paragraph",
-      "id": "paragraph_223",
+      "id": "paragraph_274",
       "content": "While the chain trace for FrhA and FrhG was relatively straightforward using the group I hydrogenase homolog, FrhB was built ab initio. The visibility of the FeS cluster density (Figure 2D and Video 1) made it possible to use the four Fe-S ligand cysteines together with a secondary structure prediction as an initial guide; large side chain densities helped to establish the correct sequence assignment. The secondary structure prediction was fully confirmed, and weak or discontinuous densities in the map were almost invariably found to represent glycine residues, further indicating a correct assignment. Density for the FAD cofactor only became clear when most of the protein chain was placed; density for the ribose and ribitol are missing (Figure 8). The pyrophosphate group is closely associated with the N-terminal α-helix 26–64 of FrhB. The N-terminus of this helix is one of the most conserved regions in the FrhB family (Figures 7, 9), and its role in compensating the negative charge of the phosphates is a common motif in FAD-binding proteins (Dym and Eisenberg, 2001). Conserved regions of FrhB were found near the FAD and surrounding the F420-binding site and its putative entrance channel (Video 5). Of the three proteins, only FrhG is missing density for an internal stretch, residues 188–199 (Figure 6A). The flanking residues of this stretch are located less than 10 Å apart on the surface of the complex and they probably form a flexible loop. FrhA and FrhB were traced over their full length. All three proteins follow the rule that hydrophobic residues form the core of the protein and charged residues face the outside. We found several pockets lined with hydrophobic side chains, not just in FrhA and FrhG, where these features are shared with the bacterial protein used as a template for modeling, but also in FrhB. FrhB also contains a highly hydrophobic helix (27GIVTGLLAYAL), which is buried completely inside the subunit. These features all indicate a correct chain trace."
     },
-    "figure_reference_224": {
+    "figure_reference_275": {
       "type": "figure_reference",
-      "id": "figure_reference_224",
+      "id": "figure_reference_275",
       "path": [
-        "paragraph_223",
+        "paragraph_274",
         "content"
       ],
       "target": "image_fig2",
@@ -3436,11 +3955,11 @@
         188
       ]
     },
-    "figure_reference_225": {
+    "figure_reference_276": {
       "type": "figure_reference",
-      "id": "figure_reference_225",
+      "id": "figure_reference_276",
       "path": [
-        "paragraph_223",
+        "paragraph_274",
         "content"
       ],
       "target": "video_video1",
@@ -3449,11 +3968,11 @@
         200
       ]
     },
-    "figure_reference_226": {
+    "figure_reference_277": {
       "type": "figure_reference",
-      "id": "figure_reference_226",
+      "id": "figure_reference_277",
       "path": [
-        "paragraph_223",
+        "paragraph_274",
         "content"
       ],
       "target": "image_fig8",
@@ -3462,11 +3981,11 @@
         755
       ]
     },
-    "figure_reference_227": {
+    "figure_reference_278": {
       "type": "figure_reference",
-      "id": "figure_reference_227",
+      "id": "figure_reference_278",
       "path": [
-        "paragraph_223",
+        "paragraph_274",
         "content"
       ],
       "target": "image_fig7",
@@ -3475,11 +3994,11 @@
         945
       ]
     },
-    "citation_reference_228": {
+    "citation_reference_279": {
       "type": "citation_reference",
-      "id": "citation_reference_228",
+      "id": "citation_reference_279",
       "path": [
-        "paragraph_223",
+        "paragraph_274",
         "content"
       ],
       "target": "article_citation_bib12",
@@ -3488,11 +4007,11 @@
         1081
       ]
     },
-    "annotation_229": {
+    "annotation_280": {
       "type": "subscript",
-      "id": "annotation_229",
+      "id": "annotation_280",
       "path": [
-        "paragraph_223",
+        "paragraph_274",
         "content"
       ],
       "target": null,
@@ -3501,11 +4020,11 @@
         1158
       ]
     },
-    "figure_reference_230": {
+    "figure_reference_281": {
       "type": "figure_reference",
-      "id": "figure_reference_230",
+      "id": "figure_reference_281",
       "path": [
-        "paragraph_223",
+        "paragraph_274",
         "content"
       ],
       "target": "video_video5",
@@ -3514,11 +4033,11 @@
         1214
       ]
     },
-    "figure_reference_231": {
+    "figure_reference_282": {
       "type": "figure_reference",
-      "id": "figure_reference_231",
+      "id": "figure_reference_282",
       "path": [
-        "paragraph_223",
+        "paragraph_274",
         "content"
       ],
       "target": "image_fig6",
@@ -3527,16 +4046,16 @@
         1321
       ]
     },
-    "paragraph_232": {
+    "paragraph_283": {
       "type": "paragraph",
-      "id": "paragraph_232",
+      "id": "paragraph_283",
       "content": "Our structure shows that each heterotrimer encompasses a complete electron transfer chain that runs from the [NiFe] cluster in FrhA via the three Fe-S clusters in FrhG and one Fe-S cluster and FAD in FrhB to F420 (Figures 4D, 11 and Video 6). The cofactors describe a curvilinear path in the protein interior, almost parallel to the surface of the complex, with distances of ∼10 Å between neighbors, except FAD and F420, which are in van der Waals contact to enable hydride transfer (Figure 8C). The predicted F420-binding site is located on the outside of the complex, which facilitates access of the cytosolic F420. The two electron transfer chains in a dimer are separated by at least 17 Å and are thus independent of each other, indicating that the functional unit is one FrhABG heterotrimer and there is no cooperativity in the complex. The three proteins in the Frh heterotrimer form a tight complex with extensive subunit interfaces and a large number of subunit interactions, including two salt bridges between loops of the two FrhA molecules in a dimer, from Asp312 of one FrhA and Arg314 of the other (Figure 5C). The heterotrimer is quite slender compared to the two-subunit [NiFe] hydrogenases of known structure, with a small contact surface especially between FrhB and the other two subunits (Figure 12), and complex formation may be necessary for stability of the complex and keeping the metal clusters at optimal distances. The same quaternary structure of Frh has been observed not only in the closely related thermophile M. thermautotrophicus (Wackett et al., 1987) but also in the phylogenetically distant mesophilic M. voltae (Muth et al., 1987) and M. hungatei (Sprott et al., 1987), so it is clear that the formation of a large complex plays an essential role for the function of Frh."
     },
-    "annotation_233": {
+    "annotation_284": {
       "type": "subscript",
-      "id": "annotation_233",
+      "id": "annotation_284",
       "path": [
-        "paragraph_232",
+        "paragraph_283",
         "content"
       ],
       "target": null,
@@ -3545,11 +4064,11 @@
         212
       ]
     },
-    "figure_reference_234": {
+    "figure_reference_285": {
       "type": "figure_reference",
-      "id": "figure_reference_234",
+      "id": "figure_reference_285",
       "path": [
-        "paragraph_232",
+        "paragraph_283",
         "content"
       ],
       "target": "image_fig4",
@@ -3558,11 +4077,11 @@
         228
       ]
     },
-    "figure_reference_235": {
+    "figure_reference_286": {
       "type": "figure_reference",
-      "id": "figure_reference_235",
+      "id": "figure_reference_286",
       "path": [
-        "paragraph_232",
+        "paragraph_283",
         "content"
       ],
       "target": "video_video6",
@@ -3571,11 +4090,11 @@
         240
       ]
     },
-    "annotation_236": {
+    "annotation_287": {
       "type": "subscript",
-      "id": "annotation_236",
+      "id": "annotation_287",
       "path": [
-        "paragraph_232",
+        "paragraph_283",
         "content"
       ],
       "target": null,
@@ -3584,11 +4103,11 @@
         419
       ]
     },
-    "figure_reference_237": {
+    "figure_reference_288": {
       "type": "figure_reference",
-      "id": "figure_reference_237",
+      "id": "figure_reference_288",
       "path": [
-        "paragraph_232",
+        "paragraph_283",
         "content"
       ],
       "target": "image_fig8",
@@ -3597,11 +4116,11 @@
         493
       ]
     },
-    "annotation_238": {
+    "annotation_289": {
       "type": "subscript",
-      "id": "annotation_238",
+      "id": "annotation_289",
       "path": [
-        "paragraph_232",
+        "paragraph_283",
         "content"
       ],
       "target": null,
@@ -3610,11 +4129,11 @@
         514
       ]
     },
-    "annotation_239": {
+    "annotation_290": {
       "type": "subscript",
-      "id": "annotation_239",
+      "id": "annotation_290",
       "path": [
-        "paragraph_232",
+        "paragraph_283",
         "content"
       ],
       "target": null,
@@ -3623,11 +4142,11 @@
         616
       ]
     },
-    "figure_reference_240": {
+    "figure_reference_291": {
       "type": "figure_reference",
-      "id": "figure_reference_240",
+      "id": "figure_reference_291",
       "path": [
-        "paragraph_232",
+        "paragraph_283",
         "content"
       ],
       "target": "image_fig5",
@@ -3636,11 +4155,11 @@
         1121
       ]
     },
-    "figure_reference_241": {
+    "figure_reference_292": {
       "type": "figure_reference",
-      "id": "figure_reference_241",
+      "id": "figure_reference_292",
       "path": [
-        "paragraph_232",
+        "paragraph_283",
         "content"
       ],
       "target": "image_fig12",
@@ -3649,11 +4168,11 @@
         1316
       ]
     },
-    "annotation_242": {
+    "annotation_293": {
       "type": "emphasis",
-      "id": "annotation_242",
+      "id": "annotation_293",
       "path": [
-        "paragraph_232",
+        "paragraph_283",
         "content"
       ],
       "target": null,
@@ -3662,11 +4181,11 @@
         1560
       ]
     },
-    "citation_reference_243": {
+    "citation_reference_294": {
       "type": "citation_reference",
-      "id": "citation_reference_243",
+      "id": "citation_reference_294",
       "path": [
-        "paragraph_232",
+        "paragraph_283",
         "content"
       ],
       "target": "article_citation_bib51",
@@ -3675,11 +4194,11 @@
         1582
       ]
     },
-    "annotation_244": {
+    "annotation_295": {
       "type": "emphasis",
-      "id": "annotation_244",
+      "id": "annotation_295",
       "path": [
-        "paragraph_232",
+        "paragraph_283",
         "content"
       ],
       "target": null,
@@ -3688,11 +4207,11 @@
         1645
       ]
     },
-    "citation_reference_245": {
+    "citation_reference_296": {
       "type": "citation_reference",
-      "id": "citation_reference_245",
+      "id": "citation_reference_296",
       "path": [
-        "paragraph_232",
+        "paragraph_283",
         "content"
       ],
       "target": "article_citation_bib35",
@@ -3701,11 +4220,11 @@
         1664
       ]
     },
-    "annotation_246": {
+    "annotation_297": {
       "type": "emphasis",
-      "id": "annotation_246",
+      "id": "annotation_297",
       "path": [
-        "paragraph_232",
+        "paragraph_283",
         "content"
       ],
       "target": null,
@@ -3714,11 +4233,11 @@
         1681
       ]
     },
-    "citation_reference_247": {
+    "citation_reference_298": {
       "type": "citation_reference",
-      "id": "citation_reference_247",
+      "id": "citation_reference_298",
       "path": [
-        "paragraph_232",
+        "paragraph_283",
         "content"
       ],
       "target": "article_citation_bib44",
@@ -3731,28 +4250,21 @@
       "type": "image",
       "id": "image_fig11",
       "label": "Figure 11.",
-      "url": "",
-      "object_id": "F11",
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00218/svg/elife00218f011.svg",
       "title": "Model of the dodecameric Frh complex.",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
       "doi": "http://dx.doi.org/10.7554/eLife.00218.018",
       "caption": "paragraph_image_fig11",
-      "graphic_id": "elife00218f011"
+      "graphic_id": "elife00218f011",
+      "format": "image"
     },
     "paragraph_image_fig11": {
       "type": "paragraph",
       "id": "paragraph_image_fig11",
       "content": "Each FrhABG heterotrimer is colored differently with the same color scheme as the map in Figure 1. (A) View down the twofold axis, (B) view of the FrhB trimer, and (C) view of the closely packed FrhA trimer as Figure 1C."
     },
-    "figure_reference_248": {
+    "figure_reference_299": {
       "type": "figure_reference",
-      "id": "figure_reference_248",
+      "id": "figure_reference_299",
       "path": [
         "paragraph_image_fig11",
         "content"
@@ -3763,9 +4275,9 @@
         97
       ]
     },
-    "annotation_249": {
+    "annotation_300": {
       "type": "strong",
-      "id": "annotation_249",
+      "id": "annotation_300",
       "path": [
         "paragraph_image_fig11",
         "content"
@@ -3776,9 +4288,9 @@
         101
       ]
     },
-    "annotation_250": {
+    "annotation_301": {
       "type": "strong",
-      "id": "annotation_250",
+      "id": "annotation_301",
       "path": [
         "paragraph_image_fig11",
         "content"
@@ -3789,9 +4301,9 @@
         133
       ]
     },
-    "annotation_251": {
+    "annotation_302": {
       "type": "strong",
-      "id": "annotation_251",
+      "id": "annotation_302",
       "path": [
         "paragraph_image_fig11",
         "content"
@@ -3802,9 +4314,9 @@
         166
       ]
     },
-    "figure_reference_252": {
+    "figure_reference_303": {
       "type": "figure_reference",
-      "id": "figure_reference_252",
+      "id": "figure_reference_303",
       "path": [
         "paragraph_image_fig11",
         "content"
@@ -3821,10 +4333,7 @@
       "label": "Video 6.",
       "title": "The Frh dodecamer.",
       "caption": "paragraph_video_video6",
-      "content_type": "",
       "url_ogv": "http://static.movie-usa.glencoesoftware.com/ogv/10.7554/elife00218v006.ogv",
-      "url_jpg": "",
-      "url_mp4": "",
       "doi": "http://dx.doi.org/10.7554/eLife.00218.019",
       "url": "http://static.movie-usa.glencoesoftware.com/mp4/10.7554/elife00218v006.mp4",
       "poster": "http://static.movie-usa.glencoesoftware.com/jpg/10.7554/elife00218v006.jpg"
@@ -3838,28 +4347,20 @@
       "type": "image",
       "id": "image_fig12",
       "label": "Figure 12.",
-      "url": "",
-      "object_id": "F12",
-      "title": "",
-      "content_type": "",
-      "large_url": "",
-      "content": "",
-      "group": [
-        "parent",
-        null
-      ],
+      "url": "https://s3.amazonaws.com/elife-cdn/elife-articles/00218/svg/elife00218f012.svg",
       "doi": "http://dx.doi.org/10.7554/eLife.00218.020",
       "caption": "paragraph_image_fig12",
-      "graphic_id": "elife00218f012"
+      "graphic_id": "elife00218f012",
+      "format": "image"
     },
     "paragraph_image_fig12": {
       "type": "paragraph",
       "id": "paragraph_image_fig12",
       "content": "A comparison of (A) Frh and (B) the group I [NiFe] hydrogenase from Desulfovibrio gigas (2wpn) (Marques et al., 2010) shows a lower intersubunit contact area in the former. The large subunit/FrhA is shown in green, the small subunit/FrhG in magenta, and FrhB in blue. The left panel shows Frh in an orientation along the twofold axis of the complex, as seen from the outside, and the right panel a view 90° rotated, as seen from the dimer partner."
     },
-    "annotation_253": {
+    "annotation_304": {
       "type": "emphasis",
-      "id": "annotation_253",
+      "id": "annotation_304",
       "path": [
         "paragraph_image_fig12",
         "content"
@@ -3870,9 +4371,9 @@
         87
       ]
     },
-    "citation_reference_254": {
+    "citation_reference_305": {
       "type": "citation_reference",
-      "id": "citation_reference_254",
+      "id": "citation_reference_305",
       "path": [
         "paragraph_image_fig12",
         "content"
@@ -3897,16 +4398,16 @@
       "content": "Cultivation",
       "nodes": []
     },
-    "paragraph_255": {
+    "paragraph_306": {
       "type": "paragraph",
-      "id": "paragraph_255",
+      "id": "paragraph_306",
       "content": "Methanothermobacter marburgensis (DSM 2133) was obtained from the Deutsche Sammlung von Mikroorganismen (DSMZ, Braunschweig, Germany). The archaeon was grown anaerobically at 65°C on 80% H2/20% CO2/0.1% H2S in a 12-L fermenter containing 10 L complete mineral salt medium (Schönheit et al., 1980). Cells were harvested by the use of a continuous-flow centrifuge under anoxic conditions at the late exponential phase and stored at −80°C."
     },
-    "annotation_256": {
+    "annotation_307": {
       "type": "emphasis",
-      "id": "annotation_256",
+      "id": "annotation_307",
       "path": [
-        "paragraph_255",
+        "paragraph_306",
         "content"
       ],
       "target": null,
@@ -3915,11 +4416,11 @@
         32
       ]
     },
-    "annotation_257": {
+    "annotation_308": {
       "type": "subscript",
-      "id": "annotation_257",
+      "id": "annotation_308",
       "path": [
-        "paragraph_255",
+        "paragraph_306",
         "content"
       ],
       "target": null,
@@ -3928,11 +4429,11 @@
         189
       ]
     },
-    "annotation_258": {
+    "annotation_309": {
       "type": "subscript",
-      "id": "annotation_258",
+      "id": "annotation_309",
       "path": [
-        "paragraph_255",
+        "paragraph_306",
         "content"
       ],
       "target": null,
@@ -3941,11 +4442,11 @@
         197
       ]
     },
-    "annotation_259": {
+    "annotation_310": {
       "type": "subscript",
-      "id": "annotation_259",
+      "id": "annotation_310",
       "path": [
-        "paragraph_255",
+        "paragraph_306",
         "content"
       ],
       "target": null,
@@ -3954,11 +4455,11 @@
         205
       ]
     },
-    "citation_reference_260": {
+    "citation_reference_311": {
       "type": "citation_reference",
-      "id": "citation_reference_260",
+      "id": "citation_reference_311",
       "path": [
-        "paragraph_255",
+        "paragraph_306",
         "content"
       ],
       "target": "article_citation_bib40",
@@ -3974,9 +4475,9 @@
       "content": "Purification of the Frh complex from M. marburgensis",
       "nodes": []
     },
-    "annotation_261": {
+    "annotation_312": {
       "type": "emphasis",
-      "id": "annotation_261",
+      "id": "annotation_312",
       "path": [
         "heading_s4-2",
         "content"
@@ -3987,16 +4488,16 @@
         52
       ]
     },
-    "paragraph_262": {
+    "paragraph_313": {
       "type": "paragraph",
-      "id": "paragraph_262",
+      "id": "paragraph_313",
       "content": "Purification was performed under strictly anaerobic conditions at 18°C in an anaerobic camper (Coy Laboratory Products, Grass Lake, MI). All buffers used contained 2 mM DTT and 25 µM FAD. Cell extracts were routinely prepared from 20 g (wet mass) of M. marburgensis cells. The cells were suspended in 35 ml 50 mM Tris/HCl pH 7.6 (buffer A), and passed four times through a French pressure cell at 125 MPa. Cell debris were removed by centrifugation at 15,000×g for 30 min. The supernatant, designated cell extract and containing ∼1000 mg protein, was adjusted to 800 mM ammonium sulfate in buffer A and stirred for 20 min. The cell extract was applied to a Phenyl Sepharose 6 Fast Flow column (6 × 10 cm) equilibrated with 800 mM (NH4)2SO4 in buffer A. Protein was eluted by a (NH4)2SO4 step gradient in buffer A: 800 mM (NH4)2SO4 for 250 ml, 200 mM (NH4)2SO4 for 250 ml, and 0 mM (NH4)2SO4 for 50 ml (flow rate: 8 ml/min). The Frh activity was eluted in the 0 mM (NH4)2SO4 fractions. The protein solution was concentrated with ultrafiltration by Amicon filters (100-kDa cutoff) to 4–5 ml, which were then applied to a Sephacryl S-400 HR column (2.6 × 60 cm) equilibrated with buffer B (buffer A + 150 mM NaCl). The Frh activity was eluted after washing the column with 180 ml buffer B (flow rate: 1 ml/min). The pooled fractions were concentrated with ultrafiltration by Amicon filters (100-kDa cutoff) to 20 mg/ml. CHAPS was added to the concentrate (48 mM final concentration), and the solution was incubated for 12 hr at room temperature with slow stirring. The protein solution was washed 5 times on Amicon filters (100-kDa cutoff) with buffer A with 4 mM CHAPS (buffer A2) and applied to a MonoQ column (1 × 8 cm) equilibrated with buffer A2. Protein was eluted by a NaCl linear gradient in buffer A2: 0–400 mM NaCl in 25 ml and then 400–600 mM NaCl in 20 ml (flow rate: 0.8 ml/min). In the linear gradient of 400–600 mM NaCl, the active Frh was eluted from the column at a concentration of 540 mM NaCl. The protein solution was concentrated on Amicon filters (100-kDa cutoff) to 2 ml and further purified on a Sephacryl S-400 HR column in order to remove remaining smaller particles and bigger aggregates."
     },
-    "annotation_263": {
+    "annotation_314": {
       "type": "emphasis",
-      "id": "annotation_263",
+      "id": "annotation_314",
       "path": [
-        "paragraph_262",
+        "paragraph_313",
         "content"
       ],
       "target": null,
@@ -4005,11 +4506,11 @@
         265
       ]
     },
-    "annotation_264": {
+    "annotation_315": {
       "type": "subscript",
-      "id": "annotation_264",
+      "id": "annotation_315",
       "path": [
-        "paragraph_262",
+        "paragraph_313",
         "content"
       ],
       "target": null,
@@ -4018,11 +4519,11 @@
         734
       ]
     },
-    "annotation_265": {
+    "annotation_316": {
       "type": "subscript",
-      "id": "annotation_265",
+      "id": "annotation_316",
       "path": [
-        "paragraph_262",
+        "paragraph_313",
         "content"
       ],
       "target": null,
@@ -4031,11 +4532,11 @@
         736
       ]
     },
-    "annotation_266": {
+    "annotation_317": {
       "type": "subscript",
-      "id": "annotation_266",
+      "id": "annotation_317",
       "path": [
-        "paragraph_262",
+        "paragraph_313",
         "content"
       ],
       "target": null,
@@ -4044,11 +4545,11 @@
         739
       ]
     },
-    "annotation_267": {
+    "annotation_318": {
       "type": "subscript",
-      "id": "annotation_267",
+      "id": "annotation_318",
       "path": [
-        "paragraph_262",
+        "paragraph_313",
         "content"
       ],
       "target": null,
@@ -4057,11 +4558,11 @@
         781
       ]
     },
-    "annotation_268": {
+    "annotation_319": {
       "type": "subscript",
-      "id": "annotation_268",
+      "id": "annotation_319",
       "path": [
-        "paragraph_262",
+        "paragraph_313",
         "content"
       ],
       "target": null,
@@ -4070,11 +4571,11 @@
         783
       ]
     },
-    "annotation_269": {
+    "annotation_320": {
       "type": "subscript",
-      "id": "annotation_269",
+      "id": "annotation_320",
       "path": [
-        "paragraph_262",
+        "paragraph_313",
         "content"
       ],
       "target": null,
@@ -4083,11 +4584,11 @@
         786
       ]
     },
-    "annotation_270": {
+    "annotation_321": {
       "type": "subscript",
-      "id": "annotation_270",
+      "id": "annotation_321",
       "path": [
-        "paragraph_262",
+        "paragraph_313",
         "content"
       ],
       "target": null,
@@ -4096,11 +4597,11 @@
         825
       ]
     },
-    "annotation_271": {
+    "annotation_322": {
       "type": "subscript",
-      "id": "annotation_271",
+      "id": "annotation_322",
       "path": [
-        "paragraph_262",
+        "paragraph_313",
         "content"
       ],
       "target": null,
@@ -4109,11 +4610,11 @@
         827
       ]
     },
-    "annotation_272": {
+    "annotation_323": {
       "type": "subscript",
-      "id": "annotation_272",
+      "id": "annotation_323",
       "path": [
-        "paragraph_262",
+        "paragraph_313",
         "content"
       ],
       "target": null,
@@ -4122,11 +4623,11 @@
         830
       ]
     },
-    "annotation_273": {
+    "annotation_324": {
       "type": "subscript",
-      "id": "annotation_273",
+      "id": "annotation_324",
       "path": [
-        "paragraph_262",
+        "paragraph_313",
         "content"
       ],
       "target": null,
@@ -4135,11 +4636,11 @@
         854
       ]
     },
-    "annotation_274": {
+    "annotation_325": {
       "type": "subscript",
-      "id": "annotation_274",
+      "id": "annotation_325",
       "path": [
-        "paragraph_262",
+        "paragraph_313",
         "content"
       ],
       "target": null,
@@ -4148,11 +4649,11 @@
         856
       ]
     },
-    "annotation_275": {
+    "annotation_326": {
       "type": "subscript",
-      "id": "annotation_275",
+      "id": "annotation_326",
       "path": [
-        "paragraph_262",
+        "paragraph_313",
         "content"
       ],
       "target": null,
@@ -4161,11 +4662,11 @@
         859
       ]
     },
-    "annotation_276": {
+    "annotation_327": {
       "type": "subscript",
-      "id": "annotation_276",
+      "id": "annotation_327",
       "path": [
-        "paragraph_262",
+        "paragraph_313",
         "content"
       ],
       "target": null,
@@ -4174,11 +4675,11 @@
         885
       ]
     },
-    "annotation_277": {
+    "annotation_328": {
       "type": "subscript",
-      "id": "annotation_277",
+      "id": "annotation_328",
       "path": [
-        "paragraph_262",
+        "paragraph_313",
         "content"
       ],
       "target": null,
@@ -4187,11 +4688,11 @@
         887
       ]
     },
-    "annotation_278": {
+    "annotation_329": {
       "type": "subscript",
-      "id": "annotation_278",
+      "id": "annotation_329",
       "path": [
-        "paragraph_262",
+        "paragraph_313",
         "content"
       ],
       "target": null,
@@ -4200,11 +4701,11 @@
         890
       ]
     },
-    "annotation_279": {
+    "annotation_330": {
       "type": "subscript",
-      "id": "annotation_279",
+      "id": "annotation_330",
       "path": [
-        "paragraph_262",
+        "paragraph_313",
         "content"
       ],
       "target": null,
@@ -4213,11 +4714,11 @@
         968
       ]
     },
-    "annotation_280": {
+    "annotation_331": {
       "type": "subscript",
-      "id": "annotation_280",
+      "id": "annotation_331",
       "path": [
-        "paragraph_262",
+        "paragraph_313",
         "content"
       ],
       "target": null,
@@ -4226,11 +4727,11 @@
         970
       ]
     },
-    "annotation_281": {
+    "annotation_332": {
       "type": "subscript",
-      "id": "annotation_281",
+      "id": "annotation_332",
       "path": [
-        "paragraph_262",
+        "paragraph_313",
         "content"
       ],
       "target": null,
@@ -4239,16 +4740,16 @@
         973
       ]
     },
-    "paragraph_282": {
+    "paragraph_333": {
       "type": "paragraph",
-      "id": "paragraph_282",
+      "id": "paragraph_333",
       "content": "F420 was isolated from M. marburgensis by established methods (Shima and Thauer, 2001)."
     },
-    "annotation_283": {
+    "annotation_334": {
       "type": "subscript",
-      "id": "annotation_283",
+      "id": "annotation_334",
       "path": [
-        "paragraph_282",
+        "paragraph_333",
         "content"
       ],
       "target": null,
@@ -4257,11 +4758,11 @@
         4
       ]
     },
-    "annotation_284": {
+    "annotation_335": {
       "type": "emphasis",
-      "id": "annotation_284",
+      "id": "annotation_335",
       "path": [
-        "paragraph_282",
+        "paragraph_333",
         "content"
       ],
       "target": null,
@@ -4270,11 +4771,11 @@
         38
       ]
     },
-    "citation_reference_285": {
+    "citation_reference_336": {
       "type": "citation_reference",
-      "id": "citation_reference_285",
+      "id": "citation_reference_336",
       "path": [
-        "paragraph_282",
+        "paragraph_333",
         "content"
       ],
       "target": "article_citation_bib42",
@@ -4290,16 +4791,16 @@
       "content": "Cryo-electron microscopy",
       "nodes": []
     },
-    "paragraph_286": {
+    "paragraph_337": {
       "type": "paragraph",
-      "id": "paragraph_286",
+      "id": "paragraph_337",
       "content": "3 µl of a 0.7 mg/ml Frh sample was applied to freshly glow discharged Quantifoil R1/4 grids (Quantifoil Micro Tools, Jena, Germany) that had been pretreated for 15 s in chloroform. The |grids were blotted in an FEI Vitrobot using a 2.5 s blotting time at 70% humidity and 10°C and plunge-frozen in liquid ethane. For collection of data of Frh in the presence of substrate, 0.5, 1.0, or 10 mM F420 was added to the sample under oxygen-free conditions just prior to grid preparation."
     },
-    "annotation_287": {
+    "annotation_338": {
       "type": "subscript",
-      "id": "annotation_287",
+      "id": "annotation_338",
       "path": [
-        "paragraph_286",
+        "paragraph_337",
         "content"
       ],
       "target": null,
@@ -4308,16 +4809,16 @@
         396
       ]
     },
-    "paragraph_288": {
+    "paragraph_339": {
       "type": "paragraph",
-      "id": "paragraph_288",
+      "id": "paragraph_339",
       "content": "Images were collected at liquid nitrogen temperature on an FEI Tecnai Polara operated at 200 kV. Before images were recorded, the microscope was carefully aligned in an iterative process to correct for objective astigmatism and beam tilt by coma-free alignment (Glaeser et al., 2011). The corrections were carried out at a dose of 15 e−/Å2 and at half the defocus value used for collecting the images, and were repeated for each grid square from which images were collected. The alignments were done with a Gatan 4k × 4k CCD using unbinned images."
     },
-    "citation_reference_289": {
+    "citation_reference_340": {
       "type": "citation_reference",
-      "id": "citation_reference_289",
+      "id": "citation_reference_340",
       "path": [
-        "paragraph_288",
+        "paragraph_339",
         "content"
       ],
       "target": "article_citation_bib19",
@@ -4326,11 +4827,11 @@
         282
       ]
     },
-    "annotation_290": {
+    "annotation_341": {
       "type": "superscript",
-      "id": "annotation_290",
+      "id": "annotation_341",
       "path": [
-        "paragraph_288",
+        "paragraph_339",
         "content"
       ],
       "target": null,
@@ -4339,11 +4840,11 @@
         336
       ]
     },
-    "annotation_291": {
+    "annotation_342": {
       "type": "superscript",
-      "id": "annotation_291",
+      "id": "annotation_342",
       "path": [
-        "paragraph_288",
+        "paragraph_339",
         "content"
       ],
       "target": null,
@@ -4352,16 +4853,16 @@
         339
       ]
     },
-    "paragraph_292": {
+    "paragraph_343": {
       "type": "paragraph",
-      "id": "paragraph_292",
+      "id": "paragraph_343",
       "content": "Images were recorded on Kodak SO-163 film at a magnification of 59,000× with a dose of 10–15 e−/Å2 at a defocus of 1.5–2.8 µm. The film was developed for 12 min in full-strength Kodak D-19 developer and fixed for 8 min in Kodak Rapid Fix. Five hundred and six negatives were collected of substrate-free Frh and 512 of Frh with F420. Films that showed obvious flaws (too thin ice with particles just around the edge of the Quantifoil hole, too high particle concentration, broken ice, obvious drift) were discarded. Four hundred and two negatives of substrate-free Frh were scanned and 277 of F420 with Frh. The latter preparation had a higher protein concentration, resulting in many films with too many overlapping particles. This was more than compensated by the higher number of particles per film."
     },
-    "annotation_293": {
+    "annotation_344": {
       "type": "superscript",
-      "id": "annotation_293",
+      "id": "annotation_344",
       "path": [
-        "paragraph_292",
+        "paragraph_343",
         "content"
       ],
       "target": null,
@@ -4370,11 +4871,11 @@
         95
       ]
     },
-    "annotation_294": {
+    "annotation_345": {
       "type": "superscript",
-      "id": "annotation_294",
+      "id": "annotation_345",
       "path": [
-        "paragraph_292",
+        "paragraph_343",
         "content"
       ],
       "target": null,
@@ -4383,11 +4884,11 @@
         98
       ]
     },
-    "annotation_295": {
+    "annotation_346": {
       "type": "subscript",
-      "id": "annotation_295",
+      "id": "annotation_346",
       "path": [
-        "paragraph_292",
+        "paragraph_343",
         "content"
       ],
       "target": null,
@@ -4396,11 +4897,11 @@
         331
       ]
     },
-    "annotation_296": {
+    "annotation_347": {
       "type": "subscript",
-      "id": "annotation_296",
+      "id": "annotation_347",
       "path": [
-        "paragraph_292",
+        "paragraph_343",
         "content"
       ],
       "target": null,
@@ -4416,16 +4917,16 @@
       "content": "Image processing",
       "nodes": []
     },
-    "paragraph_297": {
+    "paragraph_348": {
       "type": "paragraph",
-      "id": "paragraph_297",
+      "id": "paragraph_348",
       "content": "Films were digitized on a Zeiss Photoscan scanner with a pixel size of 7 µm, corresponding to 1.14 Å on the specimen as calibrated with fatty acid synthase (Gipson et al., 2010). Particle selection was done semiautomatically with the Boxer module from EMAN (Ludtke et al., 1999) and data processing with EMAN2 (Tang et al., 2007). The contrast transfer function (CTF) of the selected particles from each film was determined with EMAN2 and images that showed visible Thon rings in the power spectrum to high resolution and no indication of drift or astigmatism were selected for further processing and their CTF was corrected by phase flipping. A tetrahedral starting model was created by the EMAN2 program e2initialmodel from a number of class averages. This model was iteratively refined using the main EMAN2 program e2refine, which determines the 3D orientation of each particle by comparison to a set of projections of the current 3D reference map. Particles in the same orientation are aligned and averaged, and a new 3D map is constructed from the averages that are then reprojected to create references for the next refinement cycle (Ludtke et al., 1999; Tang et al., 2007). Tetrahedral (T) symmetry was applied throughout. In the initial refinement steps, the data were binned to a pixel size of 2.28 Å. After the resolution reached ∼10 Å, the unbinned data were used. At every refinement step, the 30% worst members of each class were discarded. Because of the high symmetry and globular shape of the particle, all class averages had similar quality (see Figure 1B) and were used for each reconstruction. The final data set of substrate-free Frh contained 84,000 particles from 101 negatives of the 402 scanned negatives. Between iterations, the projection angle was varied. In the last refinement step an angle of 0.9° between consecutive reference reprojections was used, yielding 2134 reference images."
     },
-    "citation_reference_298": {
+    "citation_reference_349": {
       "type": "citation_reference",
-      "id": "citation_reference_298",
+      "id": "citation_reference_349",
       "path": [
-        "paragraph_297",
+        "paragraph_348",
         "content"
       ],
       "target": "article_citation_bib18",
@@ -4434,11 +4935,11 @@
         176
       ]
     },
-    "citation_reference_299": {
+    "citation_reference_350": {
       "type": "citation_reference",
-      "id": "citation_reference_299",
+      "id": "citation_reference_350",
       "path": [
-        "paragraph_297",
+        "paragraph_348",
         "content"
       ],
       "target": "article_citation_bib27",
@@ -4447,11 +4948,11 @@
         277
       ]
     },
-    "citation_reference_300": {
+    "citation_reference_351": {
       "type": "citation_reference",
-      "id": "citation_reference_300",
+      "id": "citation_reference_351",
       "path": [
-        "paragraph_297",
+        "paragraph_348",
         "content"
       ],
       "target": "article_citation_bib45",
@@ -4460,11 +4961,11 @@
         328
       ]
     },
-    "annotation_301": {
+    "annotation_352": {
       "type": "emphasis",
-      "id": "annotation_301",
+      "id": "annotation_352",
       "path": [
-        "paragraph_297",
+        "paragraph_348",
         "content"
       ],
       "target": null,
@@ -4473,11 +4974,11 @@
         720
       ]
     },
-    "annotation_302": {
+    "annotation_353": {
       "type": "emphasis",
-      "id": "annotation_302",
+      "id": "annotation_353",
       "path": [
-        "paragraph_297",
+        "paragraph_348",
         "content"
       ],
       "target": null,
@@ -4486,11 +4987,11 @@
         827
       ]
     },
-    "citation_reference_303": {
+    "citation_reference_354": {
       "type": "citation_reference",
-      "id": "citation_reference_303",
+      "id": "citation_reference_354",
       "path": [
-        "paragraph_297",
+        "paragraph_348",
         "content"
       ],
       "target": "article_citation_bib27",
@@ -4499,11 +5000,11 @@
         1159
       ]
     },
-    "citation_reference_304": {
+    "citation_reference_355": {
       "type": "citation_reference",
-      "id": "citation_reference_304",
+      "id": "citation_reference_355",
       "path": [
-        "paragraph_297",
+        "paragraph_348",
         "content"
       ],
       "target": "article_citation_bib45",
@@ -4512,11 +5013,11 @@
         1178
       ]
     },
-    "annotation_305": {
+    "annotation_356": {
       "type": "emphasis",
-      "id": "annotation_305",
+      "id": "annotation_356",
       "path": [
-        "paragraph_297",
+        "paragraph_348",
         "content"
       ],
       "target": null,
@@ -4525,11 +5026,11 @@
         1195
       ]
     },
-    "figure_reference_306": {
+    "figure_reference_357": {
       "type": "figure_reference",
-      "id": "figure_reference_306",
+      "id": "figure_reference_357",
       "path": [
-        "paragraph_297",
+        "paragraph_348",
         "content"
       ],
       "target": "image_fig1",
@@ -4538,16 +5039,16 @@
         1572
       ]
     },
-    "paragraph_307": {
+    "paragraph_358": {
       "type": "paragraph",
-      "id": "paragraph_307",
+      "id": "paragraph_358",
       "content": "The F420 data were refined with a high-resolution map of substrate-free Frh as a starting reference map. Ninety seven thousand particles were selected from 80 negatives. Smaller datasets of Frh with 0.5, 1.0, and 10 mM F420 were used initially, but no significant differences were seen and the datasets were merged."
     },
-    "annotation_308": {
+    "annotation_359": {
       "type": "subscript",
-      "id": "annotation_308",
+      "id": "annotation_359",
       "path": [
-        "paragraph_307",
+        "paragraph_358",
         "content"
       ],
       "target": null,
@@ -4556,11 +5057,11 @@
         8
       ]
     },
-    "annotation_309": {
+    "annotation_360": {
       "type": "subscript",
-      "id": "annotation_309",
+      "id": "annotation_360",
       "path": [
-        "paragraph_307",
+        "paragraph_358",
         "content"
       ],
       "target": null,
@@ -4569,16 +5070,16 @@
         223
       ]
     },
-    "paragraph_310": {
+    "paragraph_361": {
       "type": "paragraph",
-      "id": "paragraph_310",
+      "id": "paragraph_361",
       "content": "The resolution of the maps was estimated using the command eotest in EMAN2, which calculates the Fourier shell correlation (FSC) between reconstructions made by half-data sets from the odd and even numbered particles. This indicated 3.9 and 4.0 Å for the maps without and with F420, respectively, using the 0.5 FSC criterion (Figure 10A). The resolution estimate can be inflated by the overfitting of noise at high resolution (Grigorieff, 2000; Scheres and Chen, 2012). To test for this effect, we used the procedure e2refine-evenodd in EMAN2, where the phase of the starting model are randomized from a cutoff resolution lower than the expected resolution of the map, and then two half-data sets are refined to convergence against this model. High-resolution noise will be uncorrelated between the two maps. Subsequently, the FSC between the two resulting maps is calculated, and the resolution from these two independent half-data sets determined at 0.143 FSC (Rosenthal and Henderson, 2003). This procedure yielded a resolution of 5.5 Å (Figure 10B). B-factors of the reconstructions were estimated with the program embfactor (Rosenthal and Henderson, 2003; Fernández et al., 2008) in the resolution range 10–4.5 Å as 54 Å2 for the substrate-free map and 60 Å2 for the map with F420 (see Figure 10D)."
     },
-    "annotation_311": {
+    "annotation_362": {
       "type": "emphasis",
-      "id": "annotation_311",
+      "id": "annotation_362",
       "path": [
-        "paragraph_310",
+        "paragraph_361",
         "content"
       ],
       "target": null,
@@ -4587,11 +5088,11 @@
         65
       ]
     },
-    "annotation_312": {
+    "annotation_363": {
       "type": "subscript",
-      "id": "annotation_312",
+      "id": "annotation_363",
       "path": [
-        "paragraph_310",
+        "paragraph_361",
         "content"
       ],
       "target": null,
@@ -4600,11 +5101,11 @@
         281
       ]
     },
-    "figure_reference_313": {
+    "figure_reference_364": {
       "type": "figure_reference",
-      "id": "figure_reference_313",
+      "id": "figure_reference_364",
       "path": [
-        "paragraph_310",
+        "paragraph_361",
         "content"
       ],
       "target": "image_fig10",
@@ -4613,11 +5114,11 @@
         336
       ]
     },
-    "citation_reference_314": {
+    "citation_reference_365": {
       "type": "citation_reference",
-      "id": "citation_reference_314",
+      "id": "citation_reference_365",
       "path": [
-        "paragraph_310",
+        "paragraph_361",
         "content"
       ],
       "target": "article_citation_bib20",
@@ -4626,11 +5127,11 @@
         443
       ]
     },
-    "citation_reference_315": {
+    "citation_reference_366": {
       "type": "citation_reference",
-      "id": "citation_reference_315",
+      "id": "citation_reference_366",
       "path": [
-        "paragraph_310",
+        "paragraph_361",
         "content"
       ],
       "target": "article_citation_bib39",
@@ -4639,11 +5140,11 @@
         467
       ]
     },
-    "annotation_316": {
+    "annotation_367": {
       "type": "emphasis",
-      "id": "annotation_316",
+      "id": "annotation_367",
       "path": [
-        "paragraph_310",
+        "paragraph_361",
         "content"
       ],
       "target": null,
@@ -4652,11 +5153,11 @@
         533
       ]
     },
-    "citation_reference_317": {
+    "citation_reference_368": {
       "type": "citation_reference",
-      "id": "citation_reference_317",
+      "id": "citation_reference_368",
       "path": [
-        "paragraph_310",
+        "paragraph_361",
         "content"
       ],
       "target": "article_citation_bib38",
@@ -4665,11 +5166,11 @@
         992
       ]
     },
-    "figure_reference_318": {
+    "figure_reference_369": {
       "type": "figure_reference",
-      "id": "figure_reference_318",
+      "id": "figure_reference_369",
       "path": [
-        "paragraph_310",
+        "paragraph_361",
         "content"
       ],
       "target": "image_fig10",
@@ -4678,11 +5179,11 @@
         1051
       ]
     },
-    "annotation_319": {
+    "annotation_370": {
       "type": "emphasis",
-      "id": "annotation_319",
+      "id": "annotation_370",
       "path": [
-        "paragraph_310",
+        "paragraph_361",
         "content"
       ],
       "target": null,
@@ -4691,11 +5192,11 @@
         1128
       ]
     },
-    "citation_reference_320": {
+    "citation_reference_371": {
       "type": "citation_reference",
-      "id": "citation_reference_320",
+      "id": "citation_reference_371",
       "path": [
-        "paragraph_310",
+        "paragraph_361",
         "content"
       ],
       "target": "article_citation_bib38",
@@ -4704,11 +5205,11 @@
         1159
       ]
     },
-    "citation_reference_321": {
+    "citation_reference_372": {
       "type": "citation_reference",
-      "id": "citation_reference_321",
+      "id": "citation_reference_372",
       "path": [
-        "paragraph_310",
+        "paragraph_361",
         "content"
       ],
       "target": "article_citation_bib14",
@@ -4717,11 +5218,11 @@
         1183
       ]
     },
-    "annotation_322": {
+    "annotation_373": {
       "type": "superscript",
-      "id": "annotation_322",
+      "id": "annotation_373",
       "path": [
-        "paragraph_310",
+        "paragraph_361",
         "content"
       ],
       "target": null,
@@ -4730,11 +5231,11 @@
         1226
       ]
     },
-    "annotation_323": {
+    "annotation_374": {
       "type": "superscript",
-      "id": "annotation_323",
+      "id": "annotation_374",
       "path": [
-        "paragraph_310",
+        "paragraph_361",
         "content"
       ],
       "target": null,
@@ -4743,11 +5244,11 @@
         1263
       ]
     },
-    "annotation_324": {
+    "annotation_375": {
       "type": "subscript",
-      "id": "annotation_324",
+      "id": "annotation_375",
       "path": [
-        "paragraph_310",
+        "paragraph_361",
         "content"
       ],
       "target": null,
@@ -4756,11 +5257,11 @@
         1285
       ]
     },
-    "figure_reference_325": {
+    "figure_reference_376": {
       "type": "figure_reference",
-      "id": "figure_reference_325",
+      "id": "figure_reference_376",
       "path": [
-        "paragraph_310",
+        "paragraph_361",
         "content"
       ],
       "target": "image_fig10",
@@ -4776,16 +5277,16 @@
       "content": "Model building",
       "nodes": []
     },
-    "paragraph_326": {
+    "paragraph_377": {
       "type": "paragraph",
-      "id": "paragraph_326",
+      "id": "paragraph_377",
       "content": "Maps were visualized in Chimera (Pettersen et al., 2004). Homologous protein structures were fitted manually in the map followed by a rigid body fit (pdb 2wpn, Marques et al., 2010, for FrhA and the C-terminal domain of FrhG; pdb 1dur for the ferredoxin domain of FrhG). Models were then mutated to the correct amino acid and manually rebuilt in Coot (Emsley and Cowtan, 2004). Regions for which no homolog was available, including all of FrhB, was built ab initio in Coot, based on secondary structure predictions done using the PSIPRED server (Bryson et al., 2005). The conserved cysteines serving as ligands for the Fe-S clusters and the visibility of the Fe-S clusters in the map gave clear initial hints to the identity of secondary structure elements. Helices were built using the command Place helix. Loops and β-sheets were built by first placing Cα atoms using the Baton build module. Full-atom models were built based on the visibility of side chains, which led in all cases to an unambiguous assignment. The models were refined using the Regularize Zone module. Where possible, side chains were fitted to available density (overall about 55% of side chains were visible, including most aromatic residues and arginines). During refinement, torsion angle, planar peptide, and Ramachandran restraints were used in order not to create a well-fitting but unrealistic model. The final model contains 878 residues out of a possible 903, a [NiFe] cluster, 4 [4Fe4S] clusters, an FAD and part of an F420 molecule; 88.1% of residues lie in the most favored regions of a Ramachandran plot, 8.0% in generously allowed regions, and 3.8% are outliers. A full dodecamer model was generated in Chimera (Pettersen et al., 2004) and a map was calculated from this model. An FSC curve between this map and the experimental map indicated an overall agreement of 5.8 Å at 0.5 FSC (Figure 10C)."
     },
-    "citation_reference_327": {
+    "citation_reference_378": {
       "type": "citation_reference",
-      "id": "citation_reference_327",
+      "id": "citation_reference_378",
       "path": [
-        "paragraph_326",
+        "paragraph_377",
         "content"
       ],
       "target": "article_citation_bib37",
@@ -4794,11 +5295,11 @@
         55
       ]
     },
-    "citation_reference_328": {
+    "citation_reference_379": {
       "type": "citation_reference",
-      "id": "citation_reference_328",
+      "id": "citation_reference_379",
       "path": [
-        "paragraph_326",
+        "paragraph_377",
         "content"
       ],
       "target": "article_citation_bib30",
@@ -4807,11 +5308,11 @@
         180
       ]
     },
-    "citation_reference_329": {
+    "citation_reference_380": {
       "type": "citation_reference",
-      "id": "citation_reference_329",
+      "id": "citation_reference_380",
       "path": [
-        "paragraph_326",
+        "paragraph_377",
         "content"
       ],
       "target": "article_citation_bib13",
@@ -4820,11 +5321,11 @@
         375
       ]
     },
-    "citation_reference_330": {
+    "citation_reference_381": {
       "type": "citation_reference",
-      "id": "citation_reference_330",
+      "id": "citation_reference_381",
       "path": [
-        "paragraph_326",
+        "paragraph_377",
         "content"
       ],
       "target": "article_citation_bib4",
@@ -4833,11 +5334,11 @@
         565
       ]
     },
-    "annotation_331": {
+    "annotation_382": {
       "type": "emphasis",
-      "id": "annotation_331",
+      "id": "annotation_382",
       "path": [
-        "paragraph_326",
+        "paragraph_377",
         "content"
       ],
       "target": null,
@@ -4846,11 +5347,11 @@
         806
       ]
     },
-    "annotation_332": {
+    "annotation_383": {
       "type": "subscript",
-      "id": "annotation_332",
+      "id": "annotation_383",
       "path": [
-        "paragraph_326",
+        "paragraph_377",
         "content"
       ],
       "target": null,
@@ -4859,11 +5360,11 @@
         857
       ]
     },
-    "annotation_333": {
+    "annotation_384": {
       "type": "emphasis",
-      "id": "annotation_333",
+      "id": "annotation_384",
       "path": [
-        "paragraph_326",
+        "paragraph_377",
         "content"
       ],
       "target": null,
@@ -4872,11 +5373,11 @@
         885
       ]
     },
-    "annotation_334": {
+    "annotation_385": {
       "type": "emphasis",
-      "id": "annotation_334",
+      "id": "annotation_385",
       "path": [
-        "paragraph_326",
+        "paragraph_377",
         "content"
       ],
       "target": null,
@@ -4885,11 +5386,11 @@
         1064
       ]
     },
-    "annotation_335": {
+    "annotation_386": {
       "type": "subscript",
-      "id": "annotation_335",
+      "id": "annotation_386",
       "path": [
-        "paragraph_326",
+        "paragraph_377",
         "content"
       ],
       "target": null,
@@ -4898,11 +5399,11 @@
         1505
       ]
     },
-    "citation_reference_336": {
+    "citation_reference_387": {
       "type": "citation_reference",
-      "id": "citation_reference_336",
+      "id": "citation_reference_387",
       "path": [
-        "paragraph_326",
+        "paragraph_377",
         "content"
       ],
       "target": "article_citation_bib37",
@@ -4911,11 +5412,11 @@
         1720
       ]
     },
-    "figure_reference_337": {
+    "figure_reference_388": {
       "type": "figure_reference",
-      "id": "figure_reference_337",
+      "id": "figure_reference_388",
       "path": [
-        "paragraph_326",
+        "paragraph_377",
         "content"
       ],
       "target": "image_fig10",
@@ -4924,16 +5425,16 @@
         1881
       ]
     },
-    "paragraph_338": {
+    "paragraph_389": {
       "type": "paragraph",
-      "id": "paragraph_338",
+      "id": "paragraph_389",
       "content": "Figures were made using Chimera (Pettersen et al., 2004) and the PyMOL Molecular Graphics System (DeLano, 2002)."
     },
-    "citation_reference_339": {
+    "citation_reference_390": {
       "type": "citation_reference",
-      "id": "citation_reference_339",
+      "id": "citation_reference_390",
       "path": [
-        "paragraph_338",
+        "paragraph_389",
         "content"
       ],
       "target": "article_citation_bib37",
@@ -4942,11 +5443,11 @@
         55
       ]
     },
-    "citation_reference_340": {
+    "citation_reference_391": {
       "type": "citation_reference",
-      "id": "citation_reference_340",
+      "id": "citation_reference_391",
       "path": [
-        "paragraph_338",
+        "paragraph_389",
         "content"
       ],
       "target": "article_citation_bib11",
@@ -4975,12 +5476,12 @@
       "level": 2,
       "content": "Competing Interests",
       "nodes": [
-        "paragraph_341"
+        "paragraph_392"
       ]
     },
-    "paragraph_341": {
+    "paragraph_392": {
       "type": "paragraph",
-      "id": "paragraph_341",
+      "id": "paragraph_392",
       "content": "Competing interestsThe authors declare that no competing interests exist"
     },
     "info:author_contribution": {
@@ -5065,22 +5566,16 @@
       "year": "1990",
       "volume": "29",
       "source": "Biochemistry",
-      "issue": "",
       "fpage": "7237",
       "lpage": "44",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1021/bi00483a011",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_342": {
+    "annotation_393": {
       "type": "emphasis",
-      "id": "annotation_342",
+      "id": "annotation_393",
       "path": [
         "article_citation_bib1",
         "title"
@@ -5112,17 +5607,11 @@
       "year": "1997",
       "volume": "386",
       "source": "Nature",
-      "issue": "",
       "fpage": "88",
       "lpage": "91",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/386088a0",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib3": {
@@ -5150,22 +5639,15 @@
       "year": "1994",
       "volume": "176",
       "source": "J Bacteriol",
-      "issue": "",
       "fpage": "7677",
       "lpage": "87",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_343": {
+    "annotation_394": {
       "type": "subscript",
-      "id": "annotation_343",
+      "id": "annotation_394",
       "path": [
         "article_citation_bib3",
         "title"
@@ -5176,9 +5658,9 @@
         53
       ]
     },
-    "annotation_344": {
+    "annotation_395": {
       "type": "subscript",
-      "id": "annotation_344",
+      "id": "annotation_395",
       "path": [
         "article_citation_bib3",
         "title"
@@ -5189,9 +5671,9 @@
         75
       ]
     },
-    "annotation_345": {
+    "annotation_396": {
       "type": "emphasis",
-      "id": "annotation_345",
+      "id": "annotation_396",
       "path": [
         "article_citation_bib3",
         "title"
@@ -5235,17 +5717,11 @@
       "year": "2005",
       "volume": "33",
       "source": "Nucl Acids Res",
-      "issue": "",
       "fpage": "W36",
       "lpage": "38",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1093/nar/gki410",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib5": {
@@ -5281,22 +5757,16 @@
       "year": "1995",
       "volume": "34",
       "source": "Biochemistry",
-      "issue": "",
       "fpage": "11373",
       "lpage": "84",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1021/bi00036a010",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_346": {
+    "annotation_397": {
       "type": "superscript",
-      "id": "annotation_346",
+      "id": "annotation_397",
       "path": [
         "article_citation_bib5",
         "title"
@@ -5307,9 +5777,9 @@
         1
       ]
     },
-    "annotation_347": {
+    "annotation_398": {
       "type": "emphasis",
-      "id": "annotation_347",
+      "id": "annotation_398",
       "path": [
         "article_citation_bib5",
         "title"
@@ -5353,22 +5823,16 @@
       "year": "2009",
       "volume": "48",
       "source": "Biochemistry",
-      "issue": "",
       "fpage": "10098",
       "lpage": "105",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1021/bi901104d",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_348": {
+    "annotation_399": {
       "type": "subscript",
-      "id": "annotation_348",
+      "id": "annotation_399",
       "path": [
         "article_citation_bib6",
         "title"
@@ -5412,17 +5876,11 @@
       "year": "2011",
       "volume": "108",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "1355",
       "lpage": "60",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1073/pnas.1015739108",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib8": {
@@ -5458,17 +5916,11 @@
       "year": "2010",
       "volume": "107",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "4967",
       "lpage": "72",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1073/pnas.0913774107",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib9": {
@@ -5504,17 +5956,11 @@
       "year": "2012",
       "volume": "31",
       "source": "EMBO J",
-      "issue": "",
       "fpage": "720",
       "lpage": "30",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/emboj.2011.366",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib10": {
@@ -5546,22 +5992,16 @@
       "year": "2011",
       "volume": "77",
       "source": "Appl Environ Microbiol",
-      "issue": "",
       "fpage": "6027",
       "lpage": "35",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1128/AEM.00673-11",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_349": {
+    "annotation_400": {
       "type": "subscript",
-      "id": "annotation_349",
+      "id": "annotation_400",
       "path": [
         "article_citation_bib10",
         "title"
@@ -5583,19 +6023,10 @@
       ],
       "title": "The Pymol User's Manual",
       "year": "2002",
-      "volume": "",
-      "source": "",
-      "issue": "",
-      "fpage": "",
-      "lpage": "",
-      "collab": "",
-      "edition": "",
       "publisher-name": "DeLano Scientific",
       "publisher-loc": "Palo Alto",
-      "doi": "",
       "citation_url": [],
       "format": "book",
-      "label": "",
       "editors": []
     },
     "article_citation_bib12": {
@@ -5615,17 +6046,11 @@
       "year": "2001",
       "volume": "10",
       "source": "Protein Science",
-      "issue": "",
       "fpage": "1712",
       "lpage": "28",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1101/ps.1280110.1110/ps.12801",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib13": {
@@ -5645,17 +6070,11 @@
       "year": "2004",
       "volume": "60",
       "source": "Acta Crystallogr D Biol Crystallogr",
-      "issue": "",
       "fpage": "2126",
       "lpage": "32",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1107/S0907444904019158",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib14": {
@@ -5683,17 +6102,11 @@
       "year": "2008",
       "volume": "164",
       "source": "J Struct Biol",
-      "issue": "",
       "fpage": "170",
       "lpage": "5",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.jsb.2008.05.010",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib15": {
@@ -5721,22 +6134,16 @@
       "year": "1987",
       "volume": "26",
       "source": "Biochemistry",
-      "issue": "",
       "fpage": "4219",
       "lpage": "27",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1021/bi00388a007",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_350": {
+    "annotation_401": {
       "type": "emphasis",
-      "id": "annotation_350",
+      "id": "annotation_401",
       "path": [
         "article_citation_bib15",
         "title"
@@ -5780,17 +6187,11 @@
       "year": "2011",
       "volume": "479",
       "source": "Nature",
-      "issue": "",
       "fpage": "249",
       "lpage": "52",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nature10505",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib17": {
@@ -5826,17 +6227,11 @@
       "year": "1999",
       "volume": "7",
       "source": "Structure",
-      "issue": "",
       "fpage": "557",
       "lpage": "66",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/S0969-2126(99)80072-0",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib18": {
@@ -5872,17 +6267,11 @@
       "year": "2010",
       "volume": "107",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "9164",
       "lpage": "9",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1073/pnas.0913547107",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib19": {
@@ -5914,17 +6303,11 @@
       "year": "2011",
       "volume": "174",
       "source": "J Struct Biol",
-      "issue": "",
       "fpage": "1",
       "lpage": "10",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.jsb.2010.12.005",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib20": {
@@ -5940,17 +6323,11 @@
       "year": "2000",
       "volume": "56",
       "source": "Acta Crystallogr D Biol Crystallogr",
-      "issue": "",
       "fpage": "1270",
       "lpage": "7",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1107/S0907444900009549",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib21": {
@@ -5986,22 +6363,16 @@
       "year": "2011",
       "volume": "286",
       "source": "J Biol Chem",
-      "issue": "",
       "fpage": "2017",
       "lpage": "21",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1074/jbc.M110.191940",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_351": {
+    "annotation_402": {
       "type": "superscript",
-      "id": "annotation_351",
+      "id": "annotation_402",
       "path": [
         "article_citation_bib21",
         "title"
@@ -6012,9 +6383,9 @@
         67
       ]
     },
-    "annotation_352": {
+    "annotation_403": {
       "type": "emphasis",
-      "id": "annotation_352",
+      "id": "annotation_403",
       "path": [
         "article_citation_bib21",
         "title"
@@ -6046,17 +6417,11 @@
       "year": "1997",
       "volume": "5",
       "source": "Structure",
-      "issue": "",
       "fpage": "1671",
       "lpage": "80",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/S0969-2126(97)00313-4",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib23": {
@@ -6076,22 +6441,16 @@
       "year": "2005",
       "volume": "280",
       "source": "J Biol Chem",
-      "issue": "",
       "fpage": "38776",
       "lpage": "86",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1074/jbc.M503492200",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_353": {
+    "annotation_404": {
       "type": "subscript",
-      "id": "annotation_353",
+      "id": "annotation_404",
       "path": [
         "article_citation_bib23",
         "title"
@@ -6102,9 +6461,9 @@
         54
       ]
     },
-    "annotation_354": {
+    "annotation_405": {
       "type": "emphasis",
-      "id": "annotation_354",
+      "id": "annotation_405",
       "path": [
         "article_citation_bib23",
         "title"
@@ -6148,22 +6507,16 @@
       "year": "2010",
       "volume": "192",
       "source": "J Bacteriol",
-      "issue": "",
       "fpage": "5850",
       "lpage": "1",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1128/JB.00844-10",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_355": {
+    "annotation_406": {
       "type": "emphasis",
-      "id": "annotation_355",
+      "id": "annotation_406",
       "path": [
         "article_citation_bib24",
         "title"
@@ -6207,17 +6560,11 @@
       "year": "2010",
       "volume": "329",
       "source": "Science",
-      "issue": "",
       "fpage": "1038",
       "lpage": "43",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1126/science.1187433",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib26": {
@@ -6253,17 +6600,11 @@
       "year": "2008",
       "volume": "16",
       "source": "Structure",
-      "issue": "",
       "fpage": "441",
       "lpage": "8",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.str.2008.02.007",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib27": {
@@ -6287,17 +6628,11 @@
       "year": "1999",
       "volume": "128",
       "source": "J Struct. Biol",
-      "issue": "",
       "fpage": "82",
       "lpage": "97",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1006/jsbi.1999.4174",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib28": {
@@ -6329,17 +6664,11 @@
       "year": "2004",
       "volume": "12",
       "source": "Structure",
-      "issue": "",
       "fpage": "1129",
       "lpage": "36",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.str.2004.05.006",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib29": {
@@ -6371,17 +6700,11 @@
       "year": "2001",
       "volume": "314",
       "source": "J Mol Biol",
-      "issue": "",
       "fpage": "253",
       "lpage": "62",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1006/jmbi.2001.5133",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib30": {
@@ -6413,22 +6736,16 @@
       "year": "2010",
       "volume": "396",
       "source": "J Mol Biol",
-      "issue": "",
       "fpage": "893",
       "lpage": "907",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.jmb.2009.12.013",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_356": {
+    "annotation_407": {
       "type": "emphasis",
-      "id": "annotation_356",
+      "id": "annotation_407",
       "path": [
         "article_citation_bib30",
         "title"
@@ -6472,22 +6789,16 @@
       "year": "2001",
       "volume": "6",
       "source": "J Biol Inorg Chem",
-      "issue": "",
       "fpage": "63",
       "lpage": "81",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1007/s007750000167",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_357": {
+    "annotation_408": {
       "type": "emphasis",
-      "id": "annotation_357",
+      "id": "annotation_408",
       "path": [
         "article_citation_bib31",
         "title"
@@ -6498,9 +6809,9 @@
         51
       ]
     },
-    "annotation_358": {
+    "annotation_409": {
       "type": "subscript",
-      "id": "annotation_358",
+      "id": "annotation_409",
       "path": [
         "article_citation_bib31",
         "title"
@@ -6544,17 +6855,11 @@
       "year": "1993",
       "volume": "331",
       "source": "FEBS Lett",
-      "issue": "",
       "fpage": "91",
       "lpage": "5",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/0014-5793(93)80303-C",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib33": {
@@ -6590,17 +6895,11 @@
       "year": "1997",
       "volume": "4",
       "source": "Nat Struct Biol",
-      "issue": "",
       "fpage": "523",
       "lpage": "6",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nsb0797-523",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib34": {
@@ -6636,17 +6935,11 @@
       "year": "2010",
       "volume": "465",
       "source": "Nature",
-      "issue": "",
       "fpage": "110",
       "lpage": "4",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nature08950",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib35": {
@@ -6670,22 +6963,16 @@
       "year": "1987",
       "volume": "169",
       "source": "Eur J Biochem",
-      "issue": "",
       "fpage": "571",
       "lpage": "7",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1111/j.1432-1033.1987.tb13647.x",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_359": {
+    "annotation_410": {
       "type": "emphasis",
-      "id": "annotation_359",
+      "id": "annotation_410",
       "path": [
         "article_citation_bib35",
         "title"
@@ -6717,22 +7004,16 @@
       "year": "2010",
       "volume": "402",
       "source": "J Mol Biol",
-      "issue": "",
       "fpage": "428",
       "lpage": "44",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.jmb.2010.07.041",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_360": {
+    "annotation_411": {
       "type": "emphasis",
-      "id": "annotation_360",
+      "id": "annotation_411",
       "path": [
         "article_citation_bib36",
         "title"
@@ -6776,17 +7057,11 @@
       "year": "2004",
       "volume": "25",
       "source": "J Comput Chem",
-      "issue": "",
       "fpage": "1605",
       "lpage": "12",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1002/jcc.20084",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib38": {
@@ -6806,17 +7081,11 @@
       "year": "2003",
       "volume": "333",
       "source": "J Mol Biol",
-      "issue": "",
       "fpage": "721",
       "lpage": "45",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.jmb.2003.07.013",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib39": {
@@ -6836,17 +7105,11 @@
       "year": "2012",
       "volume": "12",
       "source": "Nat Methods",
-      "issue": "",
       "fpage": "853",
       "lpage": "4",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nmeth.2115",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib40": {
@@ -6870,22 +7133,16 @@
       "year": "1980",
       "volume": "127",
       "source": "Arch Microbiol",
-      "issue": "",
       "fpage": "59",
       "lpage": "65",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1007/BF00414356",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_361": {
+    "annotation_412": {
       "type": "subscript",
-      "id": "annotation_361",
+      "id": "annotation_412",
       "path": [
         "article_citation_bib40",
         "title"
@@ -6896,9 +7153,9 @@
         21
       ]
     },
-    "annotation_362": {
+    "annotation_413": {
       "type": "subscript",
-      "id": "annotation_362",
+      "id": "annotation_413",
       "path": [
         "article_citation_bib40",
         "title"
@@ -6909,9 +7166,9 @@
         27
       ]
     },
-    "annotation_363": {
+    "annotation_414": {
       "type": "subscript",
-      "id": "annotation_363",
+      "id": "annotation_414",
       "path": [
         "article_citation_bib40",
         "title"
@@ -6922,9 +7179,9 @@
         31
       ]
     },
-    "annotation_364": {
+    "annotation_415": {
       "type": "emphasis",
-      "id": "annotation_364",
+      "id": "annotation_415",
       "path": [
         "article_citation_bib40",
         "title"
@@ -6964,17 +7221,11 @@
       "year": "2011",
       "volume": "30",
       "source": "EMBO J",
-      "issue": "",
       "fpage": "408",
       "lpage": "16",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/emboj.2010.322",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib42": {
@@ -6994,22 +7245,16 @@
       "year": "2001",
       "volume": "331",
       "source": "Methods Enzymol",
-      "issue": "",
       "fpage": "317",
       "lpage": "53",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/S0076-6879(01)31069-8",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_365": {
+    "annotation_416": {
       "type": "emphasis",
-      "id": "annotation_365",
+      "id": "annotation_416",
       "path": [
         "article_citation_bib42",
         "title"
@@ -7045,17 +7290,11 @@
       "year": "2011",
       "volume": "279",
       "source": "Nature",
-      "issue": "",
       "fpage": "253",
       "lpage": "6",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nature10504",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib44": {
@@ -7079,22 +7318,16 @@
       "year": "1987",
       "volume": "33",
       "source": "Can J Microbiol",
-      "issue": "",
       "fpage": "896",
       "lpage": "904",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1139/m87-156",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_366": {
+    "annotation_417": {
       "type": "emphasis",
-      "id": "annotation_366",
+      "id": "annotation_417",
       "path": [
         "article_citation_bib44",
         "title"
@@ -7138,17 +7371,11 @@
       "year": "2007",
       "volume": "157",
       "source": "J Struct Biol",
-      "issue": "",
       "fpage": "38",
       "lpage": "46",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.jsb.2006.05.009",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib46": {
@@ -7184,22 +7411,16 @@
       "year": "2010",
       "volume": "79",
       "source": "Annu Rev Biochem",
-      "issue": "",
       "fpage": "507",
       "lpage": "36",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1146/annurev.biochem.030508.152103",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_367": {
+    "annotation_418": {
       "type": "subscript",
-      "id": "annotation_367",
+      "id": "annotation_418",
       "path": [
         "article_citation_bib46",
         "title"
@@ -7231,17 +7452,11 @@
       "year": "2005",
       "volume": "33",
       "source": "Biochem Soc Trans",
-      "issue": "",
       "fpage": "108",
       "lpage": "11",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1042/BST0330108",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib48": {
@@ -7261,17 +7476,11 @@
       "year": "2007",
       "volume": "107",
       "source": "Chem Rev",
-      "issue": "",
       "fpage": "4206",
       "lpage": "72",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1021/cr050196r",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib49": {
@@ -7307,22 +7516,16 @@
       "year": "2012",
       "volume": "109",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "5305",
       "lpage": "10",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1073/pnas.1119806109",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_368": {
+    "annotation_419": {
       "type": "subscript",
-      "id": "annotation_368",
+      "id": "annotation_419",
       "path": [
         "article_citation_bib49",
         "title"
@@ -7333,9 +7536,9 @@
         58
       ]
     },
-    "annotation_369": {
+    "annotation_420": {
       "type": "emphasis",
-      "id": "annotation_369",
+      "id": "annotation_420",
       "path": [
         "article_citation_bib49",
         "title"
@@ -7379,23 +7582,17 @@
       "year": "1995",
       "volume": "373",
       "source": "Nature",
-      "issue": "",
       "fpage": "580",
       "lpage": "7",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/373580a0",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": [],
       "italic": "."
     },
-    "annotation_370": {
+    "annotation_421": {
       "type": "emphasis",
-      "id": "annotation_370",
+      "id": "annotation_421",
       "path": [
         "article_citation_bib50",
         "title"
@@ -7435,22 +7632,15 @@
       "year": "1987",
       "volume": "169",
       "source": "J Bacteriol",
-      "issue": "",
       "fpage": "718",
       "lpage": "27",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
-      "doi": "",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
-    "annotation_371": {
+    "annotation_422": {
       "type": "subscript",
-      "id": "annotation_371",
+      "id": "annotation_422",
       "path": [
         "article_citation_bib51",
         "title"
@@ -7486,17 +7676,11 @@
       "year": "2010",
       "volume": "107",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "6298",
       "lpage": "303",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1073/pnas.0914604107",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib53": {
@@ -7528,17 +7712,11 @@
       "year": "2011",
       "volume": "19",
       "source": "Structure",
-      "issue": "",
       "fpage": "652",
       "lpage": "61",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.str.2011.03.003",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib54": {
@@ -7562,17 +7740,11 @@
       "year": "2008",
       "volume": "453",
       "source": "Nature",
-      "issue": "",
       "fpage": "415",
       "lpage": "9",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nature06893",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib55": {
@@ -7604,17 +7776,11 @@
       "year": "2010a",
       "volume": "141",
       "source": "Cell",
-      "issue": "",
       "fpage": "472",
       "lpage": "82",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.cell.2010.03.041",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib56": {
@@ -7650,17 +7816,11 @@
       "year": "2010b",
       "volume": "363",
       "source": "Nature",
-      "issue": "",
       "fpage": "379",
       "lpage": "83",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1038/nature08701",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib57": {
@@ -7696,17 +7856,11 @@
       "year": "2011",
       "volume": "19",
       "source": "Structure",
-      "issue": "",
       "fpage": "633",
       "lpage": "9",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1016/j.str.2011.03.005",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "article_citation_bib58": {
@@ -7742,17 +7896,11 @@
       "year": "2008",
       "volume": "105",
       "source": "Proc Natl Acad Sci USA",
-      "issue": "",
       "fpage": "1867",
       "lpage": "72",
-      "collab": "",
-      "edition": "",
-      "publisher-name": "",
-      "publisher-loc": "",
       "doi": "http://dx.doi.org/10.1073/pnas.0711623105",
       "citation_url": [],
       "format": "journal",
-      "label": "",
       "editors": []
     },
     "sub-article": {

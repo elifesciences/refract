@@ -125,11 +125,53 @@ app.delete('/documents/:document',
 // -------------
 
 
-
-
 // The generated library
 app.get('/index.json', function(req, res) {
-  var json = JSON.parse(fs.readFileSync(__dirname+ '/data/lens_library.json', 'utf-8'));
+  // var json = JSON.parse(fs.readFileSync(__dirname+ '/data/lens_library.json', 'utf-8'));
+  var json = {
+    "id": "lens_library",
+    "schema": ["substance-library", "0.1.0"],
+    "nodes": {
+
+      "library": {
+        "type": "library",
+        "name": "Lens development resources",
+        "collections": ["elife"]
+      },
+
+      "elife": {
+        "id": "elife",
+        "name": "eLife",
+        "type": "collection",
+        "records": ["00003", "00005", "00311"]
+      },
+
+      "00003": {
+        "id": "00003",
+        "title": "A novel role for lipid droplets in the organismal antibacterial response",
+        "authors": ["Preetha Anand", "Silvia Cermelli", "Zhihuan LiAdam Kassan"],
+        "type": "record",
+        "url": "http://localhost:1441/00003.json"
+      },
+
+      "00005": {
+        "id": "00005",
+        "title": "Molecular architecture of human polycomb repressive complex 2",
+        "authors": ["Claudio Ciferri", "Gabriel C Lander", "Alessio Maiolica"],
+        "type": "record",
+        "url": "http://localhost:1441/00005.json"
+      },
+
+      "00311": {
+        "id": "00311",
+        "title": "Modelling dynamics in protein crystal structures by ensemble refinement",
+        "authors": ["B Tom Burnley", "Pavel V Afonine", "Paul D Adams", "Piet Gros"],
+        "type": "record",
+        "url": "http://localhost:1441/00311.json"
+      }
+    }
+  };
+
   res.json(json);
 });
 

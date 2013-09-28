@@ -1,4 +1,6 @@
-# Refract
+Refract is deprecated. Use [Lens Converter](http://github.com/elifesciences/lens-converter) instead.
+
+<!--# Refract
 
 Converts NLM XML-format to a JSON representation that can be consumed by [Lens](http://lens.elifesciences.org/#about/figures/all/video_video1) and other web-clients.
 
@@ -240,3 +242,4 @@ Deploying PLOS:
 ```
 git push heroku-plos plos-heroku:master
 ```
+-->
